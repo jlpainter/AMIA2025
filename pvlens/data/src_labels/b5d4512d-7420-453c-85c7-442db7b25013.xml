@@ -1,0 +1,1899 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet href="https://www.accessdata.fda.gov/spl/stylesheet/spl.xsl" type="text/xsl"?>
+<document xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:hl7-org:v3 https://www.accessdata.fda.gov/spl/schema/spl.xsd">
+   <id root="b5d4512d-7420-453c-85c7-442db7b25013"/>
+   <code code="34391-3" codeSystem="2.16.840.1.113883.6.1" displayName="HUMAN PRESCRIPTION DRUG LABEL"/>
+   <title>These highlights do not include all the information needed to use NETSPOT safely and effectively. See full prescribing information for NETSPOT.
+		<br/>
+      <br/>NETSPOT<sup>®</sup> (kit for the preparation of gallium Ga 68 dotatate injection), for intravenous use
+		<br/>Initial U.S. Approval: 2016
+	</title>
+   <effectiveTime value="20240731"/>
+   <setId root="b2b3be70-17d8-4093-896c-f1c54a2cf242"/>
+   <versionNumber value="20"/>
+   <author>
+      <time/>
+      <assignedEntity>
+         <representedOrganization>
+            <id root="1.3.6.1.4.1.519.1" extension="051714355"/>
+            <name>Advanced Accelerator Applications USA, Inc</name>
+            <assignedEntity>
+               <assignedOrganization>
+                  <id root="1.3.6.1.4.1.519.1" extension="051714355"/>
+                  <name>Advanced Accelerator Applications USA, Inc</name>
+                  <assignedEntity>
+                     <assignedOrganization>
+                        <id root="1.3.6.1.4.1.519.1" extension="441182729"/>
+                        <name>Advanced Accelerator Applications (Italy) S.r.l.</name>
+                     </assignedOrganization>
+                     <performance>
+                        <actDefinition>
+                           <code code="C43360" codeSystem="2.16.840.1.113883.3.26.1.1" displayName="MANUFACTURE"/>
+                           <product>
+                              <manufacturedProduct classCode="MANU">
+                                 <manufacturedMaterialKind>
+                                    <code code="69488-001" codeSystem="2.16.840.1.113883.6.69"/>
+                                 </manufacturedMaterialKind>
+                              </manufacturedProduct>
+                           </product>
+                        </actDefinition>
+                     </performance>
+                     <performance>
+                        <actDefinition>
+                           <code code="C25391" codeSystem="2.16.840.1.113883.3.26.1.1" displayName="ANALYSIS"/>
+                           <product>
+                              <manufacturedProduct classCode="MANU">
+                                 <manufacturedMaterialKind>
+                                    <code code="69488-001" codeSystem="2.16.840.1.113883.6.69"/>
+                                 </manufacturedMaterialKind>
+                              </manufacturedProduct>
+                           </product>
+                        </actDefinition>
+                     </performance>
+                     <performance>
+                        <actDefinition>
+                           <code code="C84731" codeSystem="2.16.840.1.113883.3.26.1.1" displayName="PACK"/>
+                           <product>
+                              <manufacturedProduct classCode="MANU">
+                                 <manufacturedMaterialKind>
+                                    <code code="69488-001" codeSystem="2.16.840.1.113883.6.69"/>
+                                 </manufacturedMaterialKind>
+                              </manufacturedProduct>
+                           </product>
+                        </actDefinition>
+                     </performance>
+                     <performance>
+                        <actDefinition>
+                           <code code="C84732" codeSystem="2.16.840.1.113883.3.26.1.1" displayName="LABEL"/>
+                           <product>
+                              <manufacturedProduct classCode="MANU">
+                                 <manufacturedMaterialKind>
+                                    <code code="69488-001" codeSystem="2.16.840.1.113883.6.69"/>
+                                 </manufacturedMaterialKind>
+                              </manufacturedProduct>
+                           </product>
+                        </actDefinition>
+                     </performance>
+                  </assignedEntity>
+                  <assignedEntity>
+                     <assignedOrganization>
+                        <id extension="303575690" root="1.3.6.1.4.1.519.1"/>
+                        <name>piCHEM Forschungs-und Entwicklungs GmbH</name>
+                     </assignedOrganization>
+                     <performance>
+                        <actDefinition>
+                           <code code="C82401" codeSystem="2.16.840.1.113883.3.26.1.1" displayName="API MANUFACTURE"/>
+                           <product>
+                              <manufacturedProduct classCode="MANU">
+                                 <manufacturedMaterialKind>
+                                    <code code="69488-001" codeSystem="2.16.840.1.113883.6.69"/>
+                                 </manufacturedMaterialKind>
+                              </manufacturedProduct>
+                           </product>
+                        </actDefinition>
+                     </performance>
+                  </assignedEntity>
+               </assignedOrganization>
+            </assignedEntity>
+         </representedOrganization>
+      </assignedEntity>
+   </author>
+   <component>
+      <structuredBody>
+         <component>
+            <section>
+               <id root="caf91be2-9436-4e14-9b7c-11277e9726af"/>
+               <code code="48780-1" codeSystem="2.16.840.1.113883.6.1" displayName="SPL product data elements section"/>
+               <effectiveTime value="20231026"/>
+               <subject>
+                  <manufacturedProduct>
+                     <manufacturedProduct>
+                        <code code="69488-001" codeSystem="2.16.840.1.113883.6.69"/>
+                        <name>NETSPOT</name>
+                        <formCode code="C47916" codeSystem="2.16.840.1.113883.3.26.1.1" displayName="KIT"/>
+                        <asEntityWithGeneric>
+                           <genericMedicine>
+                              <name>68Ga-DOTATATE</name>
+                           </genericMedicine>
+                        </asEntityWithGeneric>
+                        <asContent>
+                           <quantity>
+                              <numerator value="1" unit="1"/>
+                              <denominator value="1"/>
+                           </quantity>
+                           <containerPackagedProduct>
+                              <code code="69488-001-40" codeSystem="2.16.840.1.113883.6.69"/>
+                              <formCode code="C43197" codeSystem="2.16.840.1.113883.3.26.1.1" displayName="KIT"/>
+                           </containerPackagedProduct>
+                           <subjectOf>
+                              <marketingAct>
+                                 <code code="C53292" codeSystem="2.16.840.1.113883.3.26.1.1"/>
+                                 <statusCode code="active"/>
+                                 <effectiveTime>
+                                    <low value="20160601"/>
+                                 </effectiveTime>
+                              </marketingAct>
+                           </subjectOf>
+                        </asContent>
+                        <part>
+                           <quantity>
+                              <numerator value="1" unit="1"/>
+                              <denominator value="1"/>
+                           </quantity>
+                           <partProduct>
+                              <name>Reaction Vial</name>
+                              <formCode code="C42957" codeSystem="2.16.840.1.113883.3.26.1.1" displayName="INJECTION, POWDER, LYOPHILIZED, FOR SOLUTION"/>
+                              <asEntityWithGeneric>
+                                 <genericMedicine>
+                                    <name>Vial 1</name>
+                                 </genericMedicine>
+                              </asEntityWithGeneric>
+                              <ingredient classCode="IACT">
+                                 <quantity>
+                                    <numerator unit="ug" value="5"/>
+                                    <denominator unit="1" value="1"/>
+                                 </quantity>
+                                 <ingredientSubstance>
+                                    <code code="W4X6ZO7939" codeSystem="2.16.840.1.113883.4.9"/>
+                                    <name>O-PHENANTHROLINE</name>
+                                 </ingredientSubstance>
+                              </ingredient>
+                              <ingredient classCode="IACT">
+                                 <quantity>
+                                    <numerator unit="ug" value="6"/>
+                                    <denominator unit="1" value="1"/>
+                                 </quantity>
+                                 <ingredientSubstance>
+                                    <code code="VP36V95O3T" codeSystem="2.16.840.1.113883.4.9"/>
+                                    <name>GENTISIC ACID</name>
+                                 </ingredientSubstance>
+                              </ingredient>
+                              <ingredient classCode="IACT">
+                                 <quantity>
+                                    <numerator unit="mg" value="20"/>
+                                    <denominator unit="1" value="1"/>
+                                 </quantity>
+                                 <ingredientSubstance>
+                                    <code code="3OWL53L36A" codeSystem="2.16.840.1.113883.4.9"/>
+                                    <name>MANNITOL</name>
+                                 </ingredientSubstance>
+                              </ingredient>
+                              <ingredient classCode="ACTIB">
+                                 <quantity>
+                                    <numerator unit="ug" value="40"/>
+                                    <denominator unit="1" value="1"/>
+                                 </quantity>
+                                 <ingredientSubstance>
+                                    <code code="MRL3739G66" codeSystem="2.16.840.1.113883.4.9"/>
+                                    <name>DOTATATE</name>
+                                    <activeMoiety>
+                                       <activeMoiety>
+                                          <code code="9L17Y0H71P" codeSystem="2.16.840.1.113883.4.9"/>
+                                          <name>DOTATATE GALLIUM GA-68</name>
+                                       </activeMoiety>
+                                    </activeMoiety>
+                                 </ingredientSubstance>
+                              </ingredient>
+                           </partProduct>
+                           <subjectOf>
+                              <approval>
+                                 <id extension="NDA208547" root="2.16.840.1.113883.3.150"/>
+                                 <code code="C73594" codeSystem="2.16.840.1.113883.3.26.1.1" displayName="NDA"/>
+                                 <author>
+                                    <territorialAuthority>
+                                       <territory>
+                                          <code code="USA" codeSystem="2.16.840.1.113883.5.28"/>
+                                       </territory>
+                                    </territorialAuthority>
+                                 </author>
+                              </approval>
+                           </subjectOf>
+                           <subjectOf>
+                              <marketingAct>
+                                 <code code="C53292" codeSystem="2.16.840.1.113883.3.26.1.1"/>
+                                 <statusCode code="active"/>
+                                 <effectiveTime>
+                                    <low value="20160601"/>
+                                 </effectiveTime>
+                              </marketingAct>
+                           </subjectOf>
+                           <consumedIn>
+                              <substanceAdministration>
+                                 <routeCode code="C38276" codeSystem="2.16.840.1.113883.3.26.1.1" displayName="INTRAVENOUS"/>
+                              </substanceAdministration>
+                           </consumedIn>
+                        </part>
+                        <part>
+                           <quantity>
+                              <numerator value="1" unit="1"/>
+                              <denominator value="1"/>
+                           </quantity>
+                           <partProduct>
+                              <name>Reaction buffer</name>
+                              <formCode code="C42957" codeSystem="2.16.840.1.113883.3.26.1.1" displayName="INJECTION, POWDER, LYOPHILIZED, FOR SOLUTION"/>
+                              <asEntityWithGeneric>
+                                 <genericMedicine>
+                                    <name>Vial 2</name>
+                                 </genericMedicine>
+                              </asEntityWithGeneric>
+                              <ingredient classCode="IACT">
+                                 <quantity>
+                                    <numerator unit="mg" value="60"/>
+                                    <denominator unit="1" value="1"/>
+                                 </quantity>
+                                 <ingredientSubstance>
+                                    <code code="0YIW783RG1" codeSystem="2.16.840.1.113883.4.9"/>
+                                    <name>FORMIC ACID</name>
+                                 </ingredientSubstance>
+                              </ingredient>
+                              <ingredient classCode="IACT">
+                                 <quantity>
+                                    <numerator unit="mg" value="56.5"/>
+                                    <denominator unit="1" value="1"/>
+                                 </quantity>
+                                 <ingredientSubstance>
+                                    <code code="55X04QC32I" codeSystem="2.16.840.1.113883.4.9"/>
+                                    <name>SODIUM HYDROXIDE</name>
+                                 </ingredientSubstance>
+                              </ingredient>
+                              <ingredient classCode="IACT">
+                                 <ingredientSubstance>
+                                    <code code="059QF0KO0R" codeSystem="2.16.840.1.113883.4.9"/>
+                                    <name>WATER</name>
+                                 </ingredientSubstance>
+                              </ingredient>
+                              <asContent>
+                                 <quantity>
+                                    <numerator value="1" unit="1"/>
+                                    <denominator value="1"/>
+                                 </quantity>
+                                 <containerPackagedProduct>
+                                    <code/>
+                                    <formCode code="C43215" codeSystem="2.16.840.1.113883.3.26.1.1" displayName="VIAL, SINGLE-DOSE"/>
+                                 </containerPackagedProduct>
+                                 <subjectOf>
+                                    <characteristic>
+                                       <code code="SPLCMBPRDTP" codeSystem="2.16.840.1.113883.1.11.19255"/>
+                                       <value code="C112160" codeSystem="2.16.840.1.113883.3.26.1.1" displayName="Type 0: Not a Combination Product" xsi:type="CV"/>
+                                    </characteristic>
+                                 </subjectOf>
+                              </asContent>
+                           </partProduct>
+                           <subjectOf>
+                              <approval>
+                                 <id extension="NDA208547" root="2.16.840.1.113883.3.150"/>
+                                 <code code="C73594" codeSystem="2.16.840.1.113883.3.26.1.1" displayName="NDA"/>
+                                 <author>
+                                    <territorialAuthority>
+                                       <territory>
+                                          <code code="USA" codeSystem="2.16.840.1.113883.5.28"/>
+                                       </territory>
+                                    </territorialAuthority>
+                                 </author>
+                              </approval>
+                           </subjectOf>
+                           <subjectOf>
+                              <marketingAct>
+                                 <code code="C53292" codeSystem="2.16.840.1.113883.3.26.1.1"/>
+                                 <statusCode code="active"/>
+                                 <effectiveTime>
+                                    <low value="20160601"/>
+                                 </effectiveTime>
+                              </marketingAct>
+                           </subjectOf>
+                           <consumedIn>
+                              <substanceAdministration>
+                                 <routeCode code="C38276" codeSystem="2.16.840.1.113883.3.26.1.1" displayName="INTRAVENOUS"/>
+                              </substanceAdministration>
+                           </consumedIn>
+                        </part>
+                     </manufacturedProduct>
+                     <subjectOf>
+                        <approval>
+                           <id extension="NDA208547" root="2.16.840.1.113883.3.150"/>
+                           <code code="C73594" codeSystem="2.16.840.1.113883.3.26.1.1" displayName="NDA"/>
+                           <author>
+                              <territorialAuthority>
+                                 <territory>
+                                    <code code="USA" codeSystem="2.16.840.1.113883.5.28"/>
+                                 </territory>
+                              </territorialAuthority>
+                           </author>
+                        </approval>
+                     </subjectOf>
+                     <subjectOf>
+                        <marketingAct>
+                           <code code="C53292" codeSystem="2.16.840.1.113883.3.26.1.1"/>
+                           <statusCode code="active"/>
+                           <effectiveTime>
+                              <low value="20160601"/>
+                           </effectiveTime>
+                        </marketingAct>
+                     </subjectOf>
+                     <consumedIn>
+                        <substanceAdministration>
+                           <routeCode code="C38276" codeSystem="2.16.840.1.113883.3.26.1.1" displayName="INTRAVENOUS"/>
+                        </substanceAdministration>
+                     </consumedIn>
+                  </manufacturedProduct>
+               </subject>
+            </section>
+         </component>
+         <component>
+            <section>
+               <id root="28b593a9-93fd-462c-a617-332a714ce237"/>
+               <code codeSystem="2.16.840.1.113883.6.1" code="43683-2" displayName="RECENT MAJOR CHANGES SECTION"/>
+               <effectiveTime value="20231026"/>
+               <excerpt>
+                  <highlight>
+                     <text>
+                        <table width="100%">
+                           <col width="79%"/>
+                           <col width="21%"/>
+                           <tbody>
+                              <tr>
+                                 <td>Dosage and Administration (<linkHtml href="#s2p3">2.3</linkHtml>)</td>
+                                 <td align="center">10/2023</td>
+                              </tr>
+                           </tbody>
+                        </table>
+                     </text>
+                  </highlight>
+               </excerpt>
+            </section>
+         </component>
+         <component>
+            <section ID="L7555c1b2-2e18-41ba-930f-6f8a5a9f0a4b">
+               <id root="0e374206-2966-436e-889b-1cc29c8249d2"/>
+               <code code="34067-9" codeSystem="2.16.840.1.113883.6.1" displayName="INDICATIONS &amp; USAGE SECTION"/>
+               <title>1     INDICATIONS AND USAGE</title>
+               <text>
+                  <paragraph>NETSPOT, after radiolabeling with gallium-68, is indicated for use with positron emission tomography (PET) for localization of somatostatin receptor positive neuroendocrine tumors (NETs) in adult and pediatric patients.</paragraph>
+               </text>
+               <effectiveTime value="20231026"/>
+               <excerpt>
+                  <highlight>
+                     <text>
+                        <paragraph>NETSPOT, after radiolabeling with gallium-68, is a radioactive diagnostic agent indicated for use with positron emission tomography (PET) for localization of somatostatin receptor positive neuroendocrine tumors (NETs) in adult and pediatric patients. (<linkHtml href="#L7555c1b2-2e18-41ba-930f-6f8a5a9f0a4b">1</linkHtml>)
+								</paragraph>
+                     </text>
+                  </highlight>
+               </excerpt>
+            </section>
+         </component>
+         <component>
+            <section>
+               <id root="d594d9c7-58cd-4691-8fc7-3fc933d07300"/>
+               <code code="34068-7" codeSystem="2.16.840.1.113883.6.1" displayName="DOSAGE &amp; ADMINISTRATION SECTION"/>
+               <title>2     DOSAGE AND ADMINISTRATION</title>
+               <text/>
+               <effectiveTime value="20231026"/>
+               <excerpt>
+                  <highlight>
+                     <text>
+                        <list>
+                           <item>After radiolabeling, handle gallium Ga 68 dotatate injection with appropriate safety measures to minimize radiation exposure. (<linkHtml href="#L32d00da1-ff84-4441-9407-b96bc60b5275">2.1</linkHtml>)
+									</item>
+                           <item>Instruct patients to drink a sufficient amount of water before administration, during the first hours following administration and to void frequently. (<linkHtml href="#L32d00da1-ff84-4441-9407-b96bc60b5275">2.1</linkHtml>)
+									</item>
+                           <item>Recommended dose is 2 MBq/kg (0.054 mCi/kg) of body weight  up to 200 MBq (5.4 mCi) administered as intravenous bolus injection.  (<linkHtml href="#s2p2">2.2</linkHtml>)
+									</item>
+                           <item>See the Full Prescribing Information for detailed instructions on how to prepare gallium Ga 68 dotatate injection (e.g., radiolabeling). (<linkHtml href="#s2p3">2.3</linkHtml>)
+									</item>
+                        </list>
+                     </text>
+                  </highlight>
+               </excerpt>
+               <component>
+                  <section ID="L32d00da1-ff84-4441-9407-b96bc60b5275">
+                     <id root="2d2e390f-a807-4534-8823-eb09021174ba"/>
+                     <code code="42229-5" codeSystem="2.16.840.1.113883.6.1" displayName="SPL UNCLASSIFIED SECTION"/>
+                     <title>2.1     Radiation Safety</title>
+                     <text>
+                        <paragraph>
+                           <content styleCode="underline">Drug Handling</content>
+                           <br/>After radiolabeling, handle the gallium Ga 68 dotatate injection with appropriate safety measures to minimize radiation exposure 
+									<content styleCode="italics">[see Warnings and Precautions (<linkHtml href="#s5p1">5.1</linkHtml>)]</content>. Use waterproof gloves, effective radiation shielding and appropriate safety measures when preparing and handling gallium Ga 68 dotatate injection.
+								</paragraph>
+                        <paragraph>Radiopharmaceuticals should be used by or under the control of physicians who are qualified by specific training and experience in the safe use and handling of radionuclides, and whose experience and training have been approved by the appropriate governmental agency authorized to license the use of radionuclides.</paragraph>
+                        <paragraph>
+                           <content styleCode="underline">Patient Preparation</content>
+                           <br/>Instruct patients to drink a sufficient amount of water to ensure adequate hydration prior to administration of gallium Ga 68 dotatate injection. Drink and void frequently during the first hours following administration to reduce radiation exposure.
+								</paragraph>
+                     </text>
+                     <effectiveTime value="20231026"/>
+                  </section>
+               </component>
+               <component>
+                  <section ID="s2p2">
+                     <id root="b466c0ad-db5f-48ca-bfd6-594444a768a1"/>
+                     <code code="42229-5" codeSystem="2.16.840.1.113883.6.1" displayName="SPL UNCLASSIFIED SECTION"/>
+                     <title>2.2     Recommended Dosage and Administration Instructions</title>
+                     <text>
+                        <paragraph>In adults and pediatric patients, the recommended amount of radioactivity to be administered for PET imaging is 2 MBq/kg (0.054 mCi/kg) of body weight up to 200 MBq (5.4 mCi) by intravenous injection (bolus).</paragraph>
+                        <paragraph>Verify the injected radioactivity by measuring the radioactivity of the syringe containing the gallium Ga 68 dotatate injection with a dose calibrator before administration to the patient 
+									<content styleCode="italics">[see Dosage and Administration (<linkHtml href="#s2p4">2.4</linkHtml>)].
+									</content> Ensure that the injected radioactivity is within ± 10% of the recommended activity.
+								</paragraph>
+                     </text>
+                     <effectiveTime value="20231026"/>
+                  </section>
+               </component>
+               <component>
+                  <section ID="s2p3">
+                     <id root="166b7adb-063e-4c5d-ae96-b0e3a878e4d9"/>
+                     <code code="42229-5" codeSystem="2.16.840.1.113883.6.1" displayName="SPL UNCLASSIFIED SECTION"/>
+                     <title>2.3     Drug Preparation</title>
+                     <text>
+                        <paragraph>The NETSPOT kit is supplied as 2 vials
+									<content styleCode="italics"> [see Dosage Forms and Strengths (<linkHtml href="#La3e6db6b-2ddb-4f2c-81b8-163e41718be0">3</linkHtml>)] 
+									</content>which allows for direct preparation of gallium Ga 68 dotatate injection with the eluate from one of the following generators (see below for specific instructions for use with each generator):
+								</paragraph>
+                        <list>
+                           <item>Eckert &amp; Ziegler GalliaPharm germanium-68/gallium-68 (<sup>68</sup>Ge/<sup>68</sup>Ga) generator
+									</item>
+                           <item>IRE ELiT Galli Eo germanium-68/gallium-68 (<sup>68</sup>Ge/<sup>68</sup>Ga) generator
+									</item>
+                        </list>
+                        <paragraph>The <sup>68</sup>Ge/<sup>68</sup>Ga generators are not supplied with the NETSPOT kit.
+								</paragraph>
+                        <paragraph>Components of the kit:</paragraph>
+                        <list>
+                           <item>
+                              <content styleCode="bold">Vial 1</content> (reaction vial with lyophilized powder) contains: 40 mcg dotatate, 5 mcg 1,10-phenanthroline; 6 mcg gentisic acid; 20 mg mannitol.
+									</item>
+                           <item>
+                              <content styleCode="bold">Vial 2</content> (buffer vial) contains: 60 mg formic acid; 56.5 mg sodium hydroxide and water for injection.
+									</item>
+                        </list>
+                        <paragraph>Ancillary supplies (not included in the kit):</paragraph>
+                        <list listType="unordered">
+                           <item>
+                              <content>
+                                 <content styleCode="xmChange">Ancillary supplies needed (not supplied in kit): 1 mL sterile plastic syringe, 5 mL sterile plastic syringe, non-metallic or silicone coated sterile needles (size 21 to 23G), 0.2 micron sterile vented filter.</content>
+                              </content>
+                           </item>
+                        </list>
+                        <paragraph>Prepare gallium Ga 68 dotatate injection according to the following aseptic procedure:
+								</paragraph>
+                        <paragraph>a. Use suitable shielding to reduce radiation exposure.</paragraph>
+                        <paragraph>b. Wear waterproof gloves.
+								</paragraph>
+                        <paragraph>c. Test periodically (weekly) the gallium-68 chloride eluate for germanium-68 breakthrough by suitable method. Germanium-68 breakthrough and other gamma emitting radionuclides should be ≤ 0.001%.
+								</paragraph>
+                        <paragraph>d. Set the temperature of the shielded dry bath to 95°C (203°F) and wait for the temperature to reach the set point and stabilize.
+								</paragraph>
+                        <paragraph>e. Prepare syringes for elution and radiolabeling steps per Table 1 below.</paragraph>
+                        <paragraph>f. Use non-metallic or silicone coated needles to minimize trace metal impurity levels. Radiolabeling of carrier molecules with gallium-68 chloride is very sensitive to the presence of trace metal impurities.
+								</paragraph>
+                        <paragraph>g. Use 1 mL low dead space plastic syringe to precisely measure the adequate volume of reaction buffer to be added during preparation. <content styleCode="bold">Do not</content> use glass syringe.
+								</paragraph>
+                        <paragraph>h. Prior to piercing vial septums, flip the cap off and swab the top of the vial closure with alcohol to disinfect the surface, and allow the stopper to dry.</paragraph>
+                        <table width="65%">
+                           <caption>Table 1.	Solutions for Generator Elution and Radiolabeling Reaction</caption>
+                           <col width="34%"/>
+                           <col width="33%"/>
+                           <col width="33%"/>
+                           <tbody>
+                              <tr>
+                                 <td colspan="3" styleCode="Lrule Rrule Toprule Botrule" valign="top">
+                                    <content styleCode="bold">Solutions for use with Eckert &amp; Ziegler GalliaPharm generator</content>
+                                 </td>
+                              </tr>
+                              <tr>
+                                 <td styleCode="Lrule Rrule Toprule Botrule" valign="top">
+                                    <content styleCode="bold">Syringe</content>
+                                 </td>
+                                 <td styleCode="Lrule Rrule Toprule Botrule" valign="top">
+                                    <content styleCode="bold">Solution</content>
+                                 </td>
+                                 <td styleCode="Lrule Rrule Toprule Botrule" valign="top">
+                                    <content styleCode="bold">Purpose</content>
+                                 </td>
+                              </tr>
+                              <tr>
+                                 <td styleCode="Lrule Rrule Toprule Botrule" valign="top">
+                                    <paragraph>5 mL sterile plastic syringe</paragraph>
+                                 </td>
+                                 <td styleCode="Lrule Rrule Toprule Botrule" valign="top">5 mL of 0.1 N sterile HCl supplied by the generator manufacturer
+											</td>
+                                 <td styleCode="Lrule Rrule Toprule Botrule" valign="top">
+                                    <paragraph>For elution of the generator</paragraph>
+                                 </td>
+                              </tr>
+                              <tr>
+                                 <td styleCode="Lrule Rrule Toprule Botrule" valign="top">1 mL sterile plastic syringe
+											</td>
+                                 <td styleCode="Lrule Rrule Toprule Botrule" valign="top">
+                                    <paragraph>
+                                       <content styleCode="bold">Vial 2 buffer</content>
+                                    </paragraph>
+                                    <paragraph>Calculate the volume (in mL) by multiplying the volume of HCl used for the elution of the generator in mL by its molarity:</paragraph>
+                                    <paragraph>Reaction buffer volume in mL = HCl volume in mL x HCl molarity (5 mL x 0.1 N = 0.5 mL of reaction buffer).</paragraph>
+                                 </td>
+                                 <td styleCode="Lrule Rrule Toprule Botrule" valign="top">
+                                    <paragraph>For radiolabeling reaction</paragraph>
+                                 </td>
+                              </tr>
+                              <tr>
+                                 <td colspan="3" styleCode="Lrule Rrule Toprule Botrule" valign="top">
+                                    <content styleCode="bold">Solutions for use with IRE Galli Eo generator</content>
+                                 </td>
+                              </tr>
+                              <tr>
+                                 <td styleCode="Lrule Rrule Toprule Botrule" valign="top">5 mL sterile plastic syringe
+											</td>
+                                 <td styleCode="Lrule Rrule Toprule Botrule" valign="top">
+                                    <paragraph>3.9 mL sterile water for injection</paragraph>
+                                 </td>
+                                 <td styleCode="Lrule Rrule Toprule Botrule" valign="top">
+                                    <paragraph>For preliminary dilution of 
+													<content styleCode="bold">Vial 1</content>
+                                    </paragraph>
+                                 </td>
+                              </tr>
+                              <tr>
+                                 <td styleCode="Lrule Rrule Toprule Botrule" valign="top">1 mL sterile plastic syringe
+											</td>
+                                 <td styleCode="Lrule Rrule Toprule Botrule" valign="top">
+                                    <paragraph>
+                                       <content styleCode="bold">Vial 2 buffer</content>
+                                    </paragraph>
+                                    <paragraph>Calculate the volume (in mL) by multiplying the volume of HCl used for the elution of the generator in mL by its molarity:</paragraph>
+                                    <paragraph>Reaction buffer volume in mL = HCl volume in mL x HCl molarity (1.1 mL x 0.1 N = 0.11 mL of reaction buffer).</paragraph>
+                                 </td>
+                                 <td styleCode="Lrule Rrule Toprule Botrule" valign="top">
+                                    <paragraph>For radiolabeling reaction</paragraph>
+                                 </td>
+                              </tr>
+                           </tbody>
+                        </table>
+                        <paragraph>i. Pierce the <content styleCode="bold">Vial 1</content> septum with a sterile needle connected to a 0.2 micron sterile vented filter (not supplied) to maintain atmospheric pressure within the vial during the radiolabeling process.
+								</paragraph>
+                        <paragraph>j. <content styleCode="italics bold">Follow the generator specific radiolabeling procedures below. Then continue with the incubation step k.</content>
+                        </paragraph>
+                        <paragraph>
+                           <content styleCode="italics bold">Radiolabeling with Eckert &amp; Ziegler GalliaPharm generator</content>
+                        </paragraph>
+                        <list listType="unordered">
+                           <item>
+                              <content styleCode="xmChange"/>Connect the male luer of the outlet line of the GalliaPharm generator to a sterile needle (size 21G to 23G).
+									</item>
+                           <item>Connect <content styleCode="bold">Vial 1</content> directly to the outlet line of the GalliaPharm generator by pushing the needle through the rubber septum and place the vial in a lead shield container.
+									</item>
+                           <item>Elute the generator directly into the <content styleCode="bold">Vial 1</content> according to the instructions for use of the GalliaPharm generator that are supplied by Eckert &amp; Ziegler, in order to reconstitute the lyophilized powder with 5 mL of eluate. Perform the elution manually or by means of a pump.
+									</item>
+                           <item>
+                              <content styleCode="xmChange"/>At the end of the elution, disconnect the generator from 
+										<content styleCode="bold">Vial 1</content> by removing the needle from the rubber septum, and immediately (do not delay buffer addition more than 10 min) add the kit reaction buffer in the 1 mL sterile syringe (size 21G to 23G; the amount of reaction buffer was determined in Table 1).
+									</item>
+                           <item>
+                              <content>
+											Withdraw the syringe and the 0.2 micron sterile air venting filter.
+										</content>
+                           </item>
+                        </list>
+                        <paragraph>
+                           <content styleCode="italics bold">Radiolabeling with IRE Galli Eo generator</content>
+                        </paragraph>
+                        <list listType="unordered">
+                           <item>
+                              <content styleCode="xmChange"/>Set the Galli Eo generator for the elution according to manufacturer instructions. Connect a sterile needle (size 21G to 23G) to the outlet tube of the generator, turn the button by 90° to loading position then wait 10 seconds before turning the button back to the initial position.
+									</item>
+                           <item>Reconstitute 
+										<content styleCode="bold">Vial 1</content> with 3.9 mL of sterile water for injection as prepared in Table 1.
+									</item>
+                           <item>Add the 0.1 mL reaction buffer to 
+										<content styleCode="bold">Vial 1</content> as prepared in Table 1.
+									</item>
+                           <item>Connect 
+										<content styleCode="bold">Vial 1</content> to the outlet line of the Galli Eo generator by pushing the needle through the rubber septum.
+									</item>
+                           <item>Connect one end of the two male luer ends of a sterile extension line to the 0.2 micron sterile vent filter inserted into 
+										<content styleCode="bold">Vial 1</content>.
+									</item>
+                           <item>Assemble a sterile needle on the second male luer end of the sterile extension line and connect it to a sterile evacuated vial (17 mL minimum volume) by pushing the needle through the rubber septum. The generator elution will start.
+									</item>
+                           <item>Wait for the elution to be completed (minimum 3 minutes, according to the Galli Eo generator manufacturer instructions for use).
+									</item>
+                           <item>At the end of the elution, first withdraw the needle from the evacuated vial in order to establish atmospheric pressure into 
+										<content styleCode="bold">Vial 1</content>, then disconnect 
+										<content styleCode="bold">Vial 1</content> from the generator by removing the needle from the rubber septum and remove the 0.2 micron sterile vent filter from 
+										<content styleCode="bold">Vial 1</content>.
+									</item>
+                        </list>
+                        <paragraph>
+                           <content styleCode="italics bold">Incubation</content>
+                        </paragraph>
+                        <paragraph>k. Using a tong, move <content styleCode="bold">Vial 1</content> to the heating hole of the dry bath, and leave the vial at 95°C (203°F), not to exceed 98°C (208°F), for at least 7 minutes (do not exceed 10 minutes heating) without agitation or stirring.</paragraph>
+                        <paragraph>l. After 7 minutes, remove the vial from the dry bath, place it in an appropriate lead shield and let it cool down to room temperature for approximately 10 minutes.
+								</paragraph>
+                        <paragraph>m. Assay the whole vial containing the gallium Ga 68 dotatate injection for total radioactivity concentration using a dose calibrator and record the result.
+								</paragraph>
+                        <paragraph>n. Perform the quality controls according to the recommended methods in order to check the compliance with the specifications 
+									<content styleCode="italics">[see Dosage and Administration (<linkHtml href="#Le3c9d277-7402-41bc-bdf9-b780c5cae76a">2.5</linkHtml>)].
+									</content>
+                        </paragraph>
+                        <paragraph>o. Prior to use, visually inspect the solution behind a shielded screen for radioprotection purposes. Only use solutions that are clear without visible particles.</paragraph>
+                        <paragraph>p. Keep the vial containing the gallium Ga 68 dotatate injection upright in a radio-protective shield container at a temperature below 25°C (77°F) until use.
+								</paragraph>
+                        <paragraph>
+                           <content styleCode="xmChange"/>q. After addition of gallium-68 chloride to the reaction vial, use gallium Ga 68 dotatate injection within 4 hours. After radiolabeling, do not perform further dilutions.</paragraph>
+                        <paragraph>
+                           <content styleCode="bold">Figure 1. Radiolabeling Procedure for Eckert &amp; Ziegler GalliaPharm Generator​</content>
+                        </paragraph>
+                        <paragraph>
+                           <renderMultiMedia referencedObject="img_7"/>
+                        </paragraph>
+                        <paragraph>
+                           <content styleCode="bold">Figure 2. Radiolabeling Procedure for IRE Galli Eo Generator​</content>
+                        </paragraph>
+                        <paragraph>
+                           <renderMultiMedia referencedObject="img_77f3b077-dba0-07ed-e053-2991aa0ac679"/>
+                        </paragraph>
+                     </text>
+                     <effectiveTime value="20231026"/>
+                     <component>
+                        <observationMedia ID="img_7">
+                           <text>Figure 1. Reconstitution Procedure for Eckert &amp; Ziegler GalliaPharm Generator</text>
+                           <value mediaType="image/jpeg" xsi:type="ED">
+                              <reference value="fig1.jpg"/>
+                           </value>
+                        </observationMedia>
+                     </component>
+                     <component>
+                        <observationMedia ID="img_77f3b077-dba0-07ed-e053-2991aa0ac679">
+                           <text>Figure 2. Reconstitution Procedure for IRE Galli Eo Generator</text>
+                           <value mediaType="image/jpeg" xsi:type="ED">
+                              <reference value="fig2.jpg"/>
+                           </value>
+                        </observationMedia>
+                     </component>
+                  </section>
+               </component>
+               <component>
+                  <section ID="s2p4">
+                     <id root="46e64539-da51-4aec-bbf7-3d81addea447"/>
+                     <code code="42229-5" codeSystem="2.16.840.1.113883.6.1" displayName="SPL UNCLASSIFIED SECTION"/>
+                     <title>2.4     Administration</title>
+                     <text>
+                        <paragraph>Prior to use, visually inspect the prepared gallium Ga 68 dotatate injection behind a lead glass shield for radioprotection purposes. Only use solutions that are clear without visible particles. Using a single-dose syringe fitted with a sterile needle (size 21G to 23G) and protective shielding, aseptically withdraw the prepared  gallium Ga 68 dotatate injection prior to administration. Measure the total radioactivity in the syringe by a dose calibrator immediately prior to administration. The dose calibrator must be calibrated with National Institute of Standards and Technology (NIST) traceable standards.</paragraph>
+                        <paragraph>Accidental extravasation may cause local irritation due to the acidic pH of the gallium Ga 68 dotatate injection. In case of extravasation, the injection must be stopped, the site of injection must be changed and the affected area should be irrigated with 0.9% Sodium Chloride Injection, USP.
+								</paragraph>
+                        <paragraph>Handle and dispose radioactive material in accordance with applicable regulations.</paragraph>
+                     </text>
+                     <effectiveTime value="20231026"/>
+                  </section>
+               </component>
+               <component>
+                  <section ID="Le3c9d277-7402-41bc-bdf9-b780c5cae76a">
+                     <id root="eca6c0ae-b274-4811-ae5b-4c75462140e5"/>
+                     <code code="42229-5" codeSystem="2.16.840.1.113883.6.1" displayName="SPL UNCLASSIFIED SECTION"/>
+                     <title>2.5     Specifications and Quality Control</title>
+                     <text>
+                        <paragraph>Perform the quality controls in Table 2 behind a lead glass shield for radioprotection purposes.
+								</paragraph>
+                        <table width="40%">
+                           <caption>Table 2.	Specifications of Gallium Ga 68 Dotatate Injection</caption>
+                           <col width="34%"/>
+                           <col width="33%"/>
+                           <col width="33%"/>
+                           <tbody>
+                              <tr>
+                                 <td styleCode="Lrule Rrule Toprule Botrule" align="center">
+                                    <content styleCode="bold">Test</content>
+                                 </td>
+                                 <td styleCode="Lrule Rrule Toprule Botrule" align="center">
+                                    <content styleCode="bold">Acceptance criteria</content>
+                                 </td>
+                                 <td styleCode="Lrule Rrule Toprule Botrule" align="center">
+                                    <content styleCode="bold">Method</content>
+                                 </td>
+                              </tr>
+                              <tr>
+                                 <td styleCode="Lrule Rrule Toprule Botrule">
+                                    <content styleCode="bold">Appearance</content>
+                                 </td>
+                                 <td styleCode="Lrule Rrule Toprule Botrule" align="center">Colorless and particulate free
+											</td>
+                                 <td styleCode="Lrule Rrule Toprule Botrule" align="center">Visual inspection
+											</td>
+                              </tr>
+                              <tr>
+                                 <td styleCode="Lrule Rrule Toprule Botrule">
+                                    <content styleCode="bold">pH</content>
+                                 </td>
+                                 <td styleCode="Lrule Rrule Toprule Botrule" align="center">3.2 to 3.8
+											</td>
+                                 <td styleCode="Lrule Rrule Toprule Botrule" align="center">pH-indicator strips
+											</td>
+                              </tr>
+                              <tr>
+                                 <td styleCode="Lrule Rrule Toprule Botrule">
+                                    <content styleCode="bold">Labeling efficiency</content>
+                                 </td>
+                                 <td styleCode="Lrule Rrule Toprule Botrule" align="center">Gallium Ga 68 dotatate ≥ 95% and other gallium-68 species ≤ 5%
+											</td>
+                                 <td styleCode="Lrule Rrule Toprule Botrule" align="center">Thin layer chromatography (ITLC, see details below)
+											</td>
+                              </tr>
+                           </tbody>
+                        </table>
+                        <paragraph>Determine labeling efficiency of gallium Ga 68 dotatate injection applying one of the following recommended methods:
+								</paragraph>
+                        <paragraph>Obtain the following materials:</paragraph>
+                        <list>
+                           <item>ITLC SA or ITLC SG</item>
+                           <item>Ammonium acetate 1M: Methanol (1:1 V/V)</item>
+                           <item>Developing tank</item>
+                           <item>Radiometric TLC scanner</item>
+                        </list>
+                        <paragraph>
+                           <content styleCode="italics bold">ITLC methods 1 and 2 (longer development length)</content>
+                        </paragraph>
+                        <paragraph>Perform the following:</paragraph>
+                        <list listType="ordered" styleCode="LittleAlpha">
+                           <item>Pour ammonium acetate 1M: Methanol (1:1 V/V) solution to a depth of 3 mm to 4 mm in the developing tank, cover the tank, and allow it to equilibrate.</item>
+                           <item>Apply a drop of the gallium Ga 68 dotatate injection on a pencil line 1 cm from the bottom of the ITLC strip.</item>
+                           <item>Place the ITLC strip in the developing tank and allow it to develop for a distance of 10 cm from the point of application (i.e., to the top pencil mark).</item>
+                           <item>Scan the ITLC with a radiometric TLC scanner.</item>
+                           <item>Calculate radiochemical purity (RCP) by integration of the peaks on the chromatogram. Do not use the reconstituted product if the RCP is less than 95%.
+									</item>
+                           <item>The retention factor (Rf) specifications are as follows for ITLC SA or ITLC SG:
+										<br/>
+	ITLC SA: Non-complexed gallium-68 species, Rf = 0 to 0.1; gallium Ga 68 dotatate, Rf = 0.6 to 0.8
+										<br/>
+	ITLC SG: Non-complexed gallium-68 species, Rf = 0 to 0.1; gallium Ga 68 dotatate, Rf = 0.8 to 1
+									</item>
+                        </list>
+                        <paragraph>
+                           <content styleCode="italics bold">ITLC method 3 (shorter development length)</content>
+                        </paragraph>
+                        <paragraph>Perform the following:
+								</paragraph>
+                        <paragraph>a)   Pour ammonium acetate 1M: Methanol (1:1 V/V) solution to a depth of 3 mm to 4 mm in the developing tank, cover the tank, and allow it to equilibrate.</paragraph>
+                        <paragraph>b)   Apply a drop of the gallium Ga 68 dotatate injection on a pencil line 1 cm from the bottom of an ITLC SG strip.</paragraph>
+                        <paragraph>c)   Place the ITLC SG strip in the developing tank and allow it to develop for a distance of 6 cm from the point of application (i.e., to 7 cm from the bottom of the ITLC strip).</paragraph>
+                        <paragraph>d)   Scan the ITLC SG with a radiometric TLC scanner.</paragraph>
+                        <paragraph>e)   Calculate radiochemical purity (RCP) by integration of the peaks on the chromatogram. Do not use the reconstituted product if the RCP is less than 95%.</paragraph>
+                        <paragraph>f)   The retention factor (Rf) specifications are as follows:<br/>      Non-complexed gallium-68 species, Rf = 0 to 0.1; gallium Ga 68 dotatate, Rf = 0.8 to 1</paragraph>
+                     </text>
+                     <effectiveTime value="20231026"/>
+                  </section>
+               </component>
+               <component>
+                  <section ID="L7650c2ad-566f-443b-a641-a5f68e9d48be">
+                     <id root="e8a5d654-488c-4091-ba49-1d8f6b908c50"/>
+                     <code code="42229-5" codeSystem="2.16.840.1.113883.6.1" displayName="SPL UNCLASSIFIED SECTION"/>
+                     <title>2.6     Image Acquisition</title>
+                     <text>
+                        <paragraph>For gallium Ga 68 dotatate PET imaging, the acquisition must include a whole body acquisition from skull to mid-thigh. Images can be acquired 40 minutes to 90 minutes after the intravenous administration of the gallium Ga 68 dotatate. Adapt imaging acquisition delay and duration according to the equipment used, and the patient and tumor characteristics, in order to obtain the best image quality possible.</paragraph>
+                     </text>
+                     <effectiveTime value="20231026"/>
+                  </section>
+               </component>
+               <component>
+                  <section ID="L4664ee9d-8856-4f05-9d8d-52d39fa441ee">
+                     <id root="d0a8cf38-3925-4a08-8362-4d92d0b6bc66"/>
+                     <code code="42229-5" codeSystem="2.16.840.1.113883.6.1" displayName="SPL UNCLASSIFIED SECTION"/>
+                     <title>2.7     Image Interpretation</title>
+                     <text>
+                        <paragraph>Gallium Ga 68 dotatate binds to somatostatin receptors. Based upon the intensity of the signals, PET images obtained using gallium Ga 68 dotatate indicate the presence and density of somatostatin receptors in tissues. Tumors that do not bear somatostatin receptors will not be visualized. Increased uptake in tumors is not specific for NET 
+									<content styleCode="italics">[see Warnings and Precautions (<linkHtml href="#s5p3">5.3</linkHtml>)]</content>.
+								</paragraph>
+                     </text>
+                     <effectiveTime value="20231026"/>
+                  </section>
+               </component>
+               <component>
+                  <section ID="s2p8">
+                     <id root="321c12ec-c4b0-41ce-b572-bddbd7be3318"/>
+                     <code code="42229-5" codeSystem="2.16.840.1.113883.6.1" displayName="SPL UNCLASSIFIED SECTION"/>
+                     <title>2.8     Radiation Dosimetry</title>
+                     <text>
+                        <paragraph>Estimated radiation absorbed doses per injection activity for organs and tissues of adult patients following an intravenous bolus of gallium Ga 68 dotatate are shown in Table 3. Estimated radiation effective doses per injection activity for adult and pediatric patients following an intravenous bolus of gallium Ga 68 dotatate are shown in Table 4.
+								</paragraph>
+                        <paragraph>Gallium-68 decays with a half-life of 68 minutes to stable zinc-68:</paragraph>
+                        <list>
+                           <item>89% through positron emission with a mean energy of 836 keV followed by photonic annihilation radiations of 511 keV (178%),</item>
+                           <item>10% through orbital electron capture (X-ray or Auger emissions), and</item>
+                           <item>3% through 13 gamma transitions from 5 exited levels.</item>
+                        </list>
+                        <paragraph>The radiation effective dose resulting from the administration of 150 MBq (4.05 mCi) [within the range of the recommended gallium Ga 68 dotatate injection dose] to an adult weighing 75 kg, is about 3.15 mSv. For an administered activity of 150 MBq (4.05 mCi) the typical radiation absorbed dose to the critical organs, which are the urinary bladder wall, the spleen, the kidneys and the adrenals, are about 15 mGy, 16 mGy, 14 mGy and 13 mGy, respectively. Because the spleen has one of the highest physiological uptakes, higher uptake and radiation dose to other organs or pathologic tissues may occur in patients with spleen disorders (e.g., splenectomy and/or splenosis) <content styleCode="italics">[see Warnings and Precautions (<linkHtml href="#s5p3">5.3</linkHtml>)]</content>.
+								</paragraph>
+                        <paragraph>
+                           <content styleCode="underline">Physical data</content>
+                           <br/>Gamma constant: 0.67 mrem/hr per mCi at 1 meter [1.8E-4 mSv/hr per MBq at 1 meter]
+									<br/>Specific Activity: 4.1E7 Ci/g [1.51E18 Bq/g] max<br/>
+                        </paragraph>
+                        <table width="75%">
+                           <caption>Table 3.	Estimated Radiation Absorbed Dose per Injection Activity in Selected Organs and Tissues of Adults from Intravenous Administration of Gallium Ga 68 Dotatate Injection</caption>
+                           <col width="60%"/>
+                           <col width="20%"/>
+                           <col width="20%"/>
+                           <tbody>
+                              <tr>
+                                 <td align="center" styleCode="Toprule Lrule">
+                                    <content styleCode="bold">Organ/Tissue</content>
+                                 </td>
+                                 <td colspan="2" align="center" styleCode="Lrule Rrule">
+                                    <content styleCode="bold">Absorbed dose per administered activity<br/>(mGy/MBq)</content>
+                                 </td>
+                              </tr>
+                              <tr>
+                                 <td styleCode="Lrule Rrule"/>
+                                 <td align="center" styleCode="Botrule Toprule Lrule Rrule">
+                                    <content styleCode="bold">Mean</content>
+                                 </td>
+                                 <td align="center" styleCode="Botrule Toprule Lrule Rrule">
+                                    <content styleCode="bold">SD</content>
+                                 </td>
+                              </tr>
+                              <tr styleCode="Botrule Toprule">
+                                 <td styleCode="Lrule Rrule Toprule">Adrenals</td>
+                                 <td align="center" styleCode="Lrule Rrule Toprule">0.086</td>
+                                 <td align="center" styleCode="Lrule Rrule Toprule">0.052</td>
+                              </tr>
+                              <tr styleCode="Botrule Toprule">
+                                 <td styleCode="Lrule Rrule">Brain</td>
+                                 <td align="center" styleCode="Lrule Rrule">0.01</td>
+                                 <td align="center" styleCode="Lrule Rrule">0.002</td>
+                              </tr>
+                              <tr styleCode="Botrule Toprule">
+                                 <td styleCode="Lrule Rrule">Breasts</td>
+                                 <td align="center" styleCode="Lrule Rrule">0.01</td>
+                                 <td align="center" styleCode="Lrule Rrule">0.002</td>
+                              </tr>
+                              <tr styleCode="Botrule Toprule">
+                                 <td styleCode="Lrule Rrule">Gallbladder wall</td>
+                                 <td align="center" styleCode="Lrule Rrule">0.016</td>
+                                 <td align="center" styleCode="Lrule Rrule">0.002</td>
+                              </tr>
+                              <tr styleCode="Botrule Toprule">
+                                 <td styleCode="Lrule Rrule">Lower large intestine wall</td>
+                                 <td align="center" styleCode="Lrule Rrule">0.015</td>
+                                 <td align="center" styleCode="Lrule Rrule">0.002</td>
+                              </tr>
+                              <tr styleCode="Botrule Toprule">
+                                 <td styleCode="Lrule Rrule">Small intestine</td>
+                                 <td align="center" styleCode="Lrule Rrule">0.025</td>
+                                 <td align="center" styleCode="Lrule Rrule">0.004</td>
+                              </tr>
+                              <tr styleCode="Botrule Toprule">
+                                 <td styleCode="Lrule Rrule">Stomach wall</td>
+                                 <td align="center" styleCode="Lrule Rrule">0.013</td>
+                                 <td align="center" styleCode="Lrule Rrule">0.002</td>
+                              </tr>
+                              <tr styleCode="Botrule Toprule">
+                                 <td styleCode="Lrule Rrule">Upper large intestine wall</td>
+                                 <td align="center" styleCode="Lrule Rrule">0.021</td>
+                                 <td align="center" styleCode="Lrule Rrule">0.003</td>
+                              </tr>
+                              <tr styleCode="Botrule Toprule">
+                                 <td styleCode="Lrule Rrule">Heart wall</td>
+                                 <td align="center" styleCode="Lrule Rrule">0.018</td>
+                                 <td align="center" styleCode="Lrule Rrule">0.003</td>
+                              </tr>
+                              <tr styleCode="Botrule Toprule">
+                                 <td styleCode="Lrule Rrule">Kidneys</td>
+                                 <td align="center" styleCode="Lrule Rrule">0.093</td>
+                                 <td align="center" styleCode="Lrule Rrule">0.016</td>
+                              </tr>
+                              <tr styleCode="Botrule Toprule">
+                                 <td styleCode="Lrule Rrule">Liver</td>
+                                 <td align="center" styleCode="Lrule Rrule">0.05</td>
+                                 <td align="center" styleCode="Lrule Rrule">0.015</td>
+                              </tr>
+                              <tr styleCode="Botrule Toprule">
+                                 <td styleCode="Lrule Rrule">Lungs</td>
+                                 <td align="center" styleCode="Lrule Rrule">0.006</td>
+                                 <td align="center" styleCode="Lrule Rrule">0.001</td>
+                              </tr>
+                              <tr styleCode="Botrule Toprule">
+                                 <td styleCode="Lrule Rrule">Muscle</td>
+                                 <td align="center" styleCode="Lrule Rrule">0.012</td>
+                                 <td align="center" styleCode="Lrule Rrule">0.002</td>
+                              </tr>
+                              <tr styleCode="Botrule Toprule">
+                                 <td styleCode="Lrule Rrule">Ovaries</td>
+                                 <td align="center" styleCode="Lrule Rrule">0.016</td>
+                                 <td align="center" styleCode="Lrule Rrule">0.001</td>
+                              </tr>
+                              <tr styleCode="Botrule Toprule">
+                                 <td styleCode="Lrule Rrule">Pancreas</td>
+                                 <td align="center" styleCode="Lrule Rrule">0.015</td>
+                                 <td align="center" styleCode="Lrule Rrule">0.002</td>
+                              </tr>
+                              <tr styleCode="Botrule Toprule">
+                                 <td styleCode="Lrule Rrule">Red marrow</td>
+                                 <td align="center" styleCode="Lrule Rrule">0.015</td>
+                                 <td align="center" styleCode="Lrule Rrule">0.003</td>
+                              </tr>
+                              <tr styleCode="Botrule Toprule">
+                                 <td styleCode="Lrule Rrule">Osteogenic cells</td>
+                                 <td align="center" styleCode="Lrule Rrule">0.021</td>
+                                 <td align="center" styleCode="Lrule Rrule">0.005</td>
+                              </tr>
+                              <tr styleCode="Botrule Toprule">
+                                 <td styleCode="Lrule Rrule">Skin</td>
+                                 <td align="center" styleCode="Lrule Rrule">0.01</td>
+                                 <td align="center" styleCode="Lrule Rrule">0.002</td>
+                              </tr>
+                              <tr styleCode="Botrule Toprule">
+                                 <td styleCode="Lrule Rrule">Spleen</td>
+                                 <td align="center" styleCode="Lrule Rrule">0.109</td>
+                                 <td align="center" styleCode="Lrule Rrule">0.058</td>
+                              </tr>
+                              <tr styleCode="Botrule Toprule">
+                                 <td styleCode="Lrule Rrule">Testes</td>
+                                 <td align="center" styleCode="Lrule Rrule">0.01</td>
+                                 <td align="center" styleCode="Lrule Rrule">0.001</td>
+                              </tr>
+                              <tr styleCode="Botrule Toprule">
+                                 <td styleCode="Lrule Rrule">Thymus</td>
+                                 <td align="center" styleCode="Lrule Rrule">0.012</td>
+                                 <td align="center" styleCode="Lrule Rrule">0.002</td>
+                              </tr>
+                              <tr styleCode="Botrule Toprule">
+                                 <td styleCode="Lrule Rrule">Thyroid</td>
+                                 <td align="center" styleCode="Lrule Rrule">0.011</td>
+                                 <td align="center" styleCode="Lrule Rrule">0.002</td>
+                              </tr>
+                              <tr styleCode="Botrule Toprule">
+                                 <td styleCode="Lrule Rrule">Urinary bladder wall</td>
+                                 <td align="center" styleCode="Lrule Rrule">0.098</td>
+                                 <td align="center" styleCode="Lrule Rrule">0.048</td>
+                              </tr>
+                              <tr styleCode="Botrule Toprule">
+                                 <td styleCode="Lrule Rrule">Uterus</td>
+                                 <td align="center" styleCode="Lrule Rrule">0.015</td>
+                                 <td align="center" styleCode="Lrule Rrule">0.002</td>
+                              </tr>
+                              <tr styleCode="Botrule Toprule">
+                                 <td styleCode="Lrule Rrule">Total body</td>
+                                 <td align="center" styleCode="Lrule Rrule">0.014</td>
+                                 <td align="center" styleCode="Lrule Rrule">0.002</td>
+                              </tr>
+                              <tr styleCode="Botrule Toprule">
+                                 <td styleCode="Lrule Rrule">
+                                    <content styleCode="bold">Effective dose per injection activity</content>
+                                 </td>
+                                 <td colspan="2" align="center" styleCode="Lrule Rrule">
+                                    <content styleCode="bold">mSv/MBq</content>
+                                 </td>
+                              </tr>
+                              <tr styleCode="Botrule Last Toprule">
+                                 <td styleCode="Lrule Rrule"/>
+                                 <td align="center" styleCode="Lrule Rrule">0.021</td>
+                                 <td align="center" styleCode="Lrule Rrule">0.003</td>
+                              </tr>
+                           </tbody>
+                        </table>
+                        <table width="40%">
+                           <caption>Table 4.	Estimated Radiation Effective Dose per Injection Activity after a Gallium Ga 68 Dotatate Injection Dose</caption>
+                           <col width="50%"/>
+                           <col width="50%"/>
+                           <tbody>
+                              <tr>
+                                 <td styleCode="Botrule Lrule Rrule Toprule" align="center">
+                                    <content styleCode="bold">Age</content>
+                                 </td>
+                                 <td styleCode="Botrule Lrule Rrule Toprule" align="center">
+                                    <content styleCode="bold">Effective dose per injection activity<br/>(mSv/MBq)</content>
+                                 </td>
+                              </tr>
+                              <tr>
+                                 <td styleCode="Botrule Lrule Rrule Toprule" align="center">Adult
+											</td>
+                                 <td styleCode="Botrule Lrule Rrule Toprule" align="center">0.021
+											</td>
+                              </tr>
+                              <tr>
+                                 <td styleCode="Botrule Lrule Rrule Toprule" align="center">
+												15 years
+											</td>
+                                 <td styleCode="Botrule Lrule Rrule Toprule" align="center">
+												0.025
+											</td>
+                              </tr>
+                              <tr>
+                                 <td styleCode="Botrule Lrule Rrule Toprule" align="center">
+												10 years
+											</td>
+                                 <td styleCode="Botrule Lrule Rrule Toprule" align="center">
+												0.04
+											</td>
+                              </tr>
+                              <tr>
+                                 <td styleCode="Botrule Lrule Rrule Toprule" align="center">
+												5 years
+											</td>
+                                 <td styleCode="Botrule Lrule Rrule Toprule" align="center">
+												0.064
+											</td>
+                              </tr>
+                              <tr>
+                                 <td styleCode="Botrule Lrule Rrule Toprule" align="center">
+												1 year
+											</td>
+                                 <td styleCode="Botrule Lrule Rrule Toprule" align="center">
+												0.13
+											</td>
+                              </tr>
+                              <tr>
+                                 <td styleCode="Botrule Lrule Rrule Toprule" align="center">
+												Newborn
+											</td>
+                                 <td styleCode="Botrule Lrule Rrule Toprule" align="center">
+												0.35
+											</td>
+                              </tr>
+                           </tbody>
+                        </table>
+                        <paragraph>Table 4 indicates how effective dose per injection activity scales with body habitus in computational models of adult and pediatric patients.
+								</paragraph>
+                     </text>
+                     <effectiveTime value="20231026"/>
+                  </section>
+               </component>
+            </section>
+         </component>
+         <component>
+            <section ID="La3e6db6b-2ddb-4f2c-81b8-163e41718be0">
+               <id root="5736d8e8-4b9d-4935-9470-81dbf03b1599"/>
+               <code code="43678-2" codeSystem="2.16.840.1.113883.6.1" displayName="DOSAGE FORMS &amp; STRENGTHS SECTION"/>
+               <title>3 DOSAGE FORMS AND STRENGTHS</title>
+               <text>
+                  <paragraph>NETSPOT is supplied as a multiple-dose kit, containing two vials for preparation of gallium Ga 68 dotatate injection:</paragraph>
+                  <list listType="unordered">
+                     <item>
+                        <content styleCode="bold">Vial 1</content> (reaction vial with lyophilized powder): 40 mcg of dotatate, 5 mcg of 1,10-phenanthroline, 6 mcg gentisic acid and 20 mg D-mannitol for injection as a white lyophilized powder in a 10 mL glass vial with light-blue flip-off cap
+							</item>
+                     <item>
+                        <content styleCode="bold">Vial 2</content> (buffer vial): clear, and colorless reaction buffer solution (60 mg formic acid, 56.5 mg sodium hydroxide in approximately 1 mL volume) in a 10 mL olefin polymer vial with a yellow flip-off cap
+							</item>
+                  </list>
+                  <paragraph>Gallium-68 is obtained from one of the following generators:</paragraph>
+                  <list listType="unordered">
+                     <item>Eckert &amp; Ziegler GalliaPharm (<sup>68</sup>Ge/<sup>68</sup>Ga) generator</item>
+                     <item>IRE ELiT Galli Eo (<sup>68</sup>Ge/<sup>68</sup>Ga) generator</item>
+                  </list>
+                  <paragraph>After radiolabeling with gallium-68 and pH adjustment with Reaction Buffer, Vial 1 contains a sterile solution of gallium Ga 68 dotatate at a strength of up to 218 MBq/mL (5.89 mCi/mL).</paragraph>
+               </text>
+               <effectiveTime value="20231026"/>
+               <excerpt>
+                  <highlight>
+                     <text>
+                        <paragraph>NETSPOT is supplied as a multiple-dose kit containing:</paragraph>
+                        <list>
+                           <item>
+                              <content styleCode="bold">Vial 1 </content>(reaction vial with lyophilized powder) containing 40 mcg of dotatate. (<linkHtml href="#La3e6db6b-2ddb-4f2c-81b8-163e41718be0">3</linkHtml>)
+									</item>
+                           <item>
+                              <content styleCode="bold">Vial 2</content> (buffer vial) containing 1 mL of reaction buffer solution. (<linkHtml href="#La3e6db6b-2ddb-4f2c-81b8-163e41718be0">3</linkHtml>)
+									</item>
+                        </list>
+                        <paragraph>After radiolabeling with gallium-68 and pH adjustment with Reaction Buffer, Vial 1 contains a sterile solution of gallium Ga 68 dotatate at a strength up to 218 MBq/mL (5.89 mCi/mL).  (<linkHtml href="#La3e6db6b-2ddb-4f2c-81b8-163e41718be0">3</linkHtml>)
+								</paragraph>
+                     </text>
+                  </highlight>
+               </excerpt>
+            </section>
+         </component>
+         <component>
+            <section ID="L0ef500be-572e-4346-a8f1-157feb17221c">
+               <id root="07b7743a-eccb-4498-9d7e-1e5d3fdff0d3"/>
+               <code code="34070-3" codeSystem="2.16.840.1.113883.6.1" displayName="CONTRAINDICATIONS SECTION"/>
+               <title>4     CONTRAINDICATIONS</title>
+               <text>
+                  <paragraph>None.</paragraph>
+               </text>
+               <effectiveTime value="20211222"/>
+               <excerpt>
+                  <highlight>
+                     <text>
+                        <paragraph>None. (<linkHtml href="#L0ef500be-572e-4346-a8f1-157feb17221c">4</linkHtml>)
+								</paragraph>
+                     </text>
+                  </highlight>
+               </excerpt>
+            </section>
+         </component>
+         <component>
+            <section ID="L8a0b143e-2bf8-41c6-9c90-ce1c7734ae1f">
+               <id root="56314359-6ce3-4c2e-a1ae-97087073ae01"/>
+               <code code="43685-7" codeSystem="2.16.840.1.113883.6.1" displayName="WARNINGS AND PRECAUTIONS SECTION"/>
+               <title>5     WARNINGS AND PRECAUTIONS</title>
+               <text/>
+               <effectiveTime value="20231026"/>
+               <excerpt>
+                  <highlight>
+                     <text>
+                        <list>
+                           <item>
+                              <content styleCode="underline">Radiation Risk</content>: Gallium Ga 68 dotatate contributes to a patient’s overall long-term cumulative radiation exposure.  Ensure safe handling and preparation procedures to protect patients and health care workers from unintentional radiation exposure. Restrict close contact with infants and pregnant women during the first 12 hours after administration of gallium Ga 68 dotatate. (<linkHtml href="#s5p1">5.1</linkHtml>)
+									</item>
+                           <item>
+                              <content styleCode="underline">Hypersensitivity Reactions</content>: Most reported reactions were rash and pruritus and reversible either spontaneously or with routine symptomatic management. (<linkHtml href="#s5p2">5.2</linkHtml>)
+									</item>
+                           <item>
+                              <content styleCode="underline">Risk for Image Misinterpretation</content>: The uptake of gallium Ga 68 dotatate can be seen in a variety of tumor types other than NETs (e.g., those derived from neural crest tissue), in sites of splenosis or other pathologic conditions, and as a normal physiologic variant (e.g., uncinate process of the pancreas). (<linkHtml href="#s5p3">5.3</linkHtml>)
+									</item>
+                        </list>
+                     </text>
+                  </highlight>
+               </excerpt>
+               <component>
+                  <section ID="s5p1">
+                     <id root="d8adf361-9c6c-443f-9f25-176a069fe688"/>
+                     <code code="42229-5" codeSystem="2.16.840.1.113883.6.1" displayName="SPL UNCLASSIFIED SECTION"/>
+                     <title>5.1     Radiation Risk</title>
+                     <text>
+                        <paragraph>Gallium Ga 68 dotatate contributes to a patient’s overall long-term cumulative radiation exposure. Long-term cumulative radiation exposure is associated with an increased risk of cancer. Ensure safe handling and preparation radiolabeling procedures to protect patients and health care workers from unintentional radiation exposure <content styleCode="italics">[see Dosage and Administration (<linkHtml href="#L32d00da1-ff84-4441-9407-b96bc60b5275">2.1</linkHtml>)]</content>.
+								</paragraph>
+                        <paragraph>Avoid close contact with infants and pregnant women during the first 12 hours after administration of gallium Ga 68 dotatate injection.
+								</paragraph>
+                     </text>
+                     <effectiveTime value="20231026"/>
+                  </section>
+               </component>
+               <component>
+                  <section ID="s5p2">
+                     <id root="0d89a825-c0e5-440c-a087-42b0355ee616"/>
+                     <code code="42229-5" codeSystem="2.16.840.1.113883.6.1" displayName="SPL UNCLASSIFIED SECTION"/>
+                     <title>5.2     Hypersensitivity Reactions</title>
+                     <text>
+                        <paragraph>Hypersensitivity reactions following administration of somatostatin receptor imaging agents predominantly consisted of cutaneous reactions, such as rash and pruritus. Reactions reversed either spontaneously or with routine symptomatic management. Less frequently hypersensitivity reactions included angioedema or cases with features of anaphylaxis.
+								</paragraph>
+                     </text>
+                     <effectiveTime value="20231026"/>
+                  </section>
+               </component>
+               <component>
+                  <section ID="s5p3">
+                     <id root="787e54bc-fb15-4756-a98a-e2413fb4f56c"/>
+                     <code code="42229-5" codeSystem="2.16.840.1.113883.6.1" displayName="SPL UNCLASSIFIED SECTION"/>
+                     <title>5.3     Risk for Image Misinterpretation</title>
+                     <text>
+                        <paragraph>The uptake of gallium Ga 68 dotatate reflects the level of somatostatin receptor density in NETs.  However, uptake can also be seen in a variety of other tumor types (e.g., those derived from neural crest tissue).  Increased uptake might also be seen in sites of splenosis or other pathologic conditions (e.g., thyroid disease or subacute inflammation) or might occur as a normal physiologic variant (e.g., uncinate process of the pancreas). PET images with gallium Ga 68 dotatate should be interpreted visually and the uptake may need to be confirmed by histopathology or other assessments <content styleCode="italics">[see Dosage and Administration (<linkHtml href="#L4664ee9d-8856-4f05-9d8d-52d39fa441ee">2.7</linkHtml>)]</content>.
+								</paragraph>
+                        <paragraph>A negative scan after the administration of gallium Ga 68 dotatate in patients who do not have a history of NETs, including in patients suspected of ectopic ACTH-secreting tumors, does not rule out the presence of NETs.
+								</paragraph>
+                     </text>
+                     <effectiveTime value="20231026"/>
+                  </section>
+               </component>
+            </section>
+         </component>
+         <component>
+            <section ID="La4f90549-5b43-4ce2-a385-ecc0aa573be6">
+               <id root="828c53cc-ac07-456e-981d-c0d240f12295"/>
+               <code code="34084-4" codeSystem="2.16.840.1.113883.6.1" displayName="ADVERSE REACTIONS SECTION"/>
+               <title>6     ADVERSE REACTIONS</title>
+               <text>
+                  <paragraph>The following clinically significant adverse reactions are described elsewhere in the labeling:</paragraph>
+                  <list>
+                     <item>Hypersensitivity reactions <content styleCode="italics">[see Warnings and Precautions (<linkHtml href="#s5p2">5.2</linkHtml>)]
+								</content>
+                     </item>
+                  </list>
+               </text>
+               <effectiveTime value="20231026"/>
+               <excerpt>
+                  <highlight>
+                     <text>
+                        <paragraph>﻿Nausea, vomiting, and injection site pain and burning sensation were all reported during post-approval use. (<linkHtml href="#La4f90549-5b43-4ce2-a385-ecc0aa573be6">6</linkHtml>)
+								</paragraph>
+                        <paragraph>
+                           <br/>
+                           <content styleCode="bold">To report SUSPECTED ADVERSE REACTIONS, contact Novartis Pharmaceuticals Corporation at 1-888-669-6682 or FDA at 1-800-FDA-1088 or <linkHtml href="www.fda.gov/medwatch">www.fda.gov/medwatch</linkHtml>.</content>
+                        </paragraph>
+                     </text>
+                  </highlight>
+               </excerpt>
+               <component>
+                  <section>
+                     <id root="9adf6396-8489-4167-9943-c0b4225c0f6c"/>
+                     <code codeSystem="2.16.840.1.113883.6.1" code="90374-0" displayName="CLINICAL TRIALS EXPERIENCE SECTION"/>
+                     <title>6.1     Clinical Trials Experience</title>
+                     <text>
+                        <paragraph>The safety of gallium Ga 68 dotatate was evaluated in three single center studies 
+									<content styleCode="italics"> [see Clinical Studies (<linkHtml href="#L40b990b6-1602-4962-98c2-58e702f50db4">14</linkHtml>)] 
+									</content> and in a survey of the scientific literature. No serious adverse reactions were identified.
+								</paragraph>
+                     </text>
+                     <effectiveTime value="20231026"/>
+                  </section>
+               </component>
+               <component>
+                  <section>
+                     <id root="0a766d7c-e255-4382-8bc1-5b47a5753f90"/>
+                     <code code="90375-7" codeSystem="2.16.840.1.113883.6.1" displayName="POSTMARKETING EXPERIENCE SECTION"/>
+                     <title>6.2     Postmarketing Experience</title>
+                     <text>
+                        <paragraph>The following adverse reactions have been identified during post-approval use of NETSPOT or other somatostatin receptor imaging agents. Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to the drug.</paragraph>
+                        <paragraph>
+                           <content styleCode="italics">Gastrointestinal Disorders:</content> Nausea and vomiting
+								</paragraph>
+                        <paragraph>
+                           <content styleCode="italics">General Disorders and Administration Site Conditions:</content> Injection site pain and burning sensation
+								</paragraph>
+                        <paragraph>
+                           <content styleCode="italics">Immune System Disorders:</content> Hypersensitivity reactions, predominantly rash, pruritus, less frequently angioedema or features of anaphylaxis.</paragraph>
+                     </text>
+                     <effectiveTime value="20211222"/>
+                  </section>
+               </component>
+            </section>
+         </component>
+         <component>
+            <section>
+               <id root="8f803479-c7d5-40b7-a651-5de470b2ec13"/>
+               <code code="34073-7" codeSystem="2.16.840.1.113883.6.1" displayName="DRUG INTERACTIONS SECTION"/>
+               <title>7     DRUG INTERACTIONS</title>
+               <text/>
+               <effectiveTime value="20231026"/>
+               <excerpt>
+                  <highlight>
+                     <text>
+                        <paragraph>
+                           <content styleCode="underline">Somatostatin Analogs</content>: Somatostatin analogs competitively bind to the same somatostatin receptors as gallium Ga 68 dotatate and may affect imaging – image just prior to dosing with long-acting somatostatin analogs. (<linkHtml href="#s7p1">7.1</linkHtml>) 
+								</paragraph>
+                        <paragraph>
+                           <content styleCode="underline">Glucocorticoids</content>: Repeated administration of high doses of glucocorticoids prior to gallium Ga 68 dotatate administration may affect imaging. (<linkHtml href="#s7p2">7.2</linkHtml>) 
+								</paragraph>
+                     </text>
+                  </highlight>
+               </excerpt>
+               <component>
+                  <section ID="s7p1">
+                     <id root="1cedf016-abca-4660-b3c2-1fe34edcc722"/>
+                     <code code="42229-5" codeSystem="2.16.840.1.113883.6.1" displayName="SPL UNCLASSIFIED SECTION"/>
+                     <title>7.1     Somatostatin analogs</title>
+                     <text>
+                        <paragraph>Non-radioactive somatostatin analogs competitively bind to the same somatostatin receptors as gallium Ga 68 dotatate. Image patients with gallium Ga 68 dotatate PET just prior to dosing with long-acting analogs of somatostatin. Short-acting analogs of somatostatin can be used up to 24 hours before imaging with gallium Ga 68 dotatate.</paragraph>
+                     </text>
+                     <effectiveTime value="20231026"/>
+                  </section>
+               </component>
+               <component>
+                  <section ID="s7p2">
+                     <id root="5045df32-febd-45f2-a802-af402d0dc80b"/>
+                     <code code="42229-5" codeSystem="2.16.840.1.113883.6.1" displayName="SPL UNCLASSIFIED SECTION"/>
+                     <title>7.2     Glucocorticoids</title>
+                     <text>
+                        <paragraph>Glucocorticoids can down-regulate somatostatin subtype 2 receptors (SSTR2). Repeated administration of high doses of glucocorticoids prior to gallium Ga 68 dotatate administration may result in false negative imaging.</paragraph>
+                     </text>
+                     <effectiveTime value="20231026"/>
+                  </section>
+               </component>
+            </section>
+         </component>
+         <component>
+            <section>
+               <id root="a37a6fbd-deb2-4d6a-b711-dd878cf95a7c"/>
+               <code code="43684-0" codeSystem="2.16.840.1.113883.6.1" displayName="USE IN SPECIFIC POPULATIONS SECTION"/>
+               <title>8     USE IN SPECIFIC POPULATIONS</title>
+               <text/>
+               <effectiveTime value="20231026"/>
+               <excerpt>
+                  <highlight>
+                     <text>
+                        <paragraph>
+                           <content styleCode="underline">Lactation</content>: Breast milk should be pumped and discarded for 12 hours after administration. (<linkHtml href="#L6f1d0a57-0288-4471-aa59-4b65dd92b2fd">8.2</linkHtml>)
+								</paragraph>
+                        <br/>
+                     </text>
+                  </highlight>
+               </excerpt>
+               <component>
+                  <section ID="Lb8a8f63a-c0ed-49df-b7b9-4d7dc024ad7d">
+                     <id root="f4f2e86a-7ec7-4fe0-95c3-b1c8b14417ec"/>
+                     <code code="42228-7" codeSystem="2.16.840.1.113883.6.1" displayName="PREGNANCY SECTION"/>
+                     <title>8.1     Pregnancy</title>
+                     <text>
+                        <paragraph>
+                           <content styleCode="underline">Risk Summary</content>
+                        </paragraph>
+                        <paragraph>There are no studies with gallium Ga 68 dotatate in pregnant women to inform any drug-associated risks; however, radioactive emissions, including those from gallium Ga 68 dotatate, can cause fetal harm. Animal reproduction studies have not been conducted with gallium Ga 68 dotatate.</paragraph>
+                        <paragraph>In the U.S. general population, the estimated background risks of major birth defects and miscarriage in clinically recognized pregnancies are 2% to 4% and 15% to 20%, respectively.</paragraph>
+                     </text>
+                     <effectiveTime value="20231026"/>
+                  </section>
+               </component>
+               <component>
+                  <section ID="L6f1d0a57-0288-4471-aa59-4b65dd92b2fd">
+                     <id root="a688cd8d-a4d0-425c-848e-eb18d101121a"/>
+                     <code code="77290-5" codeSystem="2.16.840.1.113883.6.1" displayName="LACTATION SECTION"/>
+                     <title>8.2     Lactation</title>
+                     <text>
+                        <paragraph>
+                           <content styleCode="underline">Risk Summary</content>
+                        </paragraph>
+                        <paragraph>There is no information on the presence of gallium Ga 68 dotatate in human milk, the effect on the breastfed child, or the effect on milk production. The developmental and health benefits of breastfeeding should be considered along with the mother’s clinical need for gallium Ga 68 dotatate injection and any potential adverse effects on the breastfed child from gallium Ga 68 dotatate injection or from the underlying maternal condition.</paragraph>
+                        <paragraph>
+                           <content styleCode="underline">Clinical Considerations</content>
+                        </paragraph>
+                        <paragraph>Advise a lactating woman to interrupt breastfeeding and pump and discard breast milk for 12 hours after gallium Ga 68 dotatate administration in order to minimize radiation exposure to a breastfed child.</paragraph>
+                     </text>
+                     <effectiveTime value="20231026"/>
+                  </section>
+               </component>
+               <component>
+                  <section ID="L3a925982-ac66-4c0a-9c67-b4b7229bcc7c">
+                     <id root="537256d7-ad88-404f-9cd8-9efdade6a4f9"/>
+                     <code code="34081-0" codeSystem="2.16.840.1.113883.6.1" displayName="PEDIATRIC USE SECTION"/>
+                     <title>8.4     Pediatric Use</title>
+                     <text>
+                        <paragraph>The efficacy of gallium Ga 68 dotatate PET imaging in pediatric patients with neuroendocrine tumors is based on extrapolation from adult studies, from studies demonstrating the ability of gallium Ga 68 dotatate to bind to somatostatin receptors 
+									<content styleCode="italics">[see Clinical Pharmacology (<linkHtml href="#Ldaadd7f8-b98e-45a7-a4bf-a5c46c009c9a">12.1</linkHtml>)]</content>, and from a published study of gallium Ga 68 dotatate PET imaging in pediatric patients with somatostatin receptor positive tumors. The safety profile of gallium Ga 68 dotatate is similar in adult and pediatric patients with somatostatin receptor positive tumors. The recommended gallium Ga 68 dotatate injection dose in pediatric patients is weight based as in adults 
+									<content styleCode="italics">[see Dosage and Administration (<linkHtml href="#s2p2">2.2</linkHtml>)]</content>.
+								</paragraph>
+                     </text>
+                     <effectiveTime value="20231026"/>
+                  </section>
+               </component>
+               <component>
+                  <section ID="Ld22b991f-3e94-4a49-bf3e-6022203b767e">
+                     <id root="c88119dc-b72b-4b26-b295-f616d1fde904"/>
+                     <code code="34082-8" codeSystem="2.16.840.1.113883.6.1" displayName="GERIATRIC USE SECTION"/>
+                     <title>8.5     Geriatric Use</title>
+                     <text>
+                        <paragraph>Clinical studies of gallium Ga 68 dotatate injection did not include sufficient numbers of subjects aged 65 and over, to determine whether they respond differently from younger subjects. Other reported clinical experience has not identified differences in responses between the elderly and younger patients.</paragraph>
+                     </text>
+                     <effectiveTime value="20231026"/>
+                  </section>
+               </component>
+            </section>
+         </component>
+         <component>
+            <section ID="Ldb3c6f7f-5c81-44be-acb8-741e221aa604">
+               <id root="c15dcd18-56c0-4716-8bd0-cee289e1cd08"/>
+               <code code="34088-5" codeSystem="2.16.840.1.113883.6.1" displayName="OVERDOSAGE SECTION"/>
+               <title>10     OVERDOSAGE</title>
+               <text>
+                  <paragraph>In the event of a radiation overdose, the absorbed dose to the patient should be reduced where possible by increasing the elimination of the radionuclide from the body by reinforced hydration and frequent bladder voiding. A diuretic might also be considered. If possible, an estimate of the radioactive dose given to the patient should be performed.</paragraph>
+               </text>
+               <effectiveTime value="20210622"/>
+            </section>
+         </component>
+         <component>
+            <section>
+               <id root="61394aa5-744c-4a3b-8f25-43e562f91bde"/>
+               <code code="34089-3" codeSystem="2.16.840.1.113883.6.1" displayName="DESCRIPTION SECTION"/>
+               <title>11     DESCRIPTION</title>
+               <text>
+                  <paragraph>NETSPOT is supplied as a sterile, multiple-dose kit for preparation of gallium Ga 68 dotatate injection for intravenous use.</paragraph>
+                  <paragraph>Dotatate, also known as DOTA-0-Tyr3-Octreotate, is a cyclic 8 amino acid peptide with a covalently bound chelator (dota). The peptide has the amino acid sequence: H-D-Phe-Cys-Tyr-D-Trp-Lys-Thr-Cys-Thr-OH, and contains one disulfide bond. Dotatate has a molecular weight of 1435.6 Daltons and its chemical structure is shown in Figure 3.
+						</paragraph>
+                  <paragraph>
+                     <content styleCode="bold">Figure 3.	Chemical Structure of Dotatate</content>
+                  </paragraph>
+                  <paragraph>
+                     <renderMultiMedia referencedObject="L3ace9184-28de-4202-9f69-1377ef5fec44"/>
+                  </paragraph>
+                  <paragraph>[(4,7,10-Tricarboxymethyl-1,4,7,10-tetrazacyclododec-1-yl)acetyl]-(D)-Phenylalanyl-(L)Cysteinyl-(L)-Tyrosyl-(D)-Tryptophanyl-(L)-Lysyl-(L)-Threoninyl-(L)-Cysteinyl-(L)-Threonine-cyclic(2-7)disulfide</paragraph>
+                  <paragraph>NETSPOT is a kit with the following components:</paragraph>
+                  <list listType="unordered">
+                     <item>
+                        <content styleCode="bold">Vial 1</content> (reaction vial with lyophilized powder) contains: 40 mcg dotatate, 5 mcg 1,10-phenanthroline; 6 mcg gentisic acid; 20 mg mannitol.
+							</item>
+                     <item>
+                        <content styleCode="bold">Vial 2</content> (buffer vial) contains: 60 mg formic acid; 56.5 mg sodium hydroxide and water for injection.
+							</item>
+                  </list>
+                  <paragraph>After radiolabeling, <content styleCode="italics">[see Dosage and Administration (<linkHtml href="#s2p3">2.3</linkHtml>)]</content>,  gallium Ga 68 dotatate injection also contains hydrochloric acid as an excipient derived from the generator eluate. The prepared gallium Ga 68 dotatate injection for intravenous use, is a sterile, pyrogen free, clear, colorless, buffered solution, with a pH between 3.2 and 3.8. Table 5, Table 6, and Table 7 display the principal radiation emission data, radiation attenuation by lead shielding, and physical decay of gallium-68.</paragraph>
+                  <table width="40%">
+                     <caption>Table 5.	Principal Radiation Emission Data (&gt; 1%)</caption>
+                     <col width="33%"/>
+                     <col width="34%"/>
+                     <col width="33%"/>
+                     <tbody>
+                        <tr styleCode="Botrule First Toprule">
+                           <td styleCode="Lrule Rrule" align="center">
+                              <content styleCode="bold">Radiation/Emission</content>
+                           </td>
+                           <td align="center" styleCode="Lrule Rrule">
+                              <content styleCode="bold">% Disintegration</content>
+                           </td>
+                           <td styleCode="Lrule Rrule" align="center">
+                              <content styleCode="bold">Mean energy (MeV)</content>
+                           </td>
+                        </tr>
+                        <tr styleCode="Botrule Toprule">
+                           <td styleCode="Lrule Rrule" align="center">beta+</td>
+                           <td styleCode="Lrule Rrule" align="center">88%</td>
+                           <td styleCode="Lrule Rrule" align="center">0.8360</td>
+                        </tr>
+                        <tr styleCode="Botrule Toprule">
+                           <td styleCode="Lrule Rrule" align="center">beta+</td>
+                           <td styleCode="Lrule Rrule" align="center">1.1%</td>
+                           <td styleCode="Lrule Rrule" align="center">0.3526</td>
+                        </tr>
+                        <tr styleCode="Botrule Toprule">
+                           <td styleCode="Lrule Rrule" align="center">gamma</td>
+                           <td styleCode="Lrule Rrule" align="center">178%</td>
+                           <td styleCode="Lrule Rrule" align="center">0.5110</td>
+                        </tr>
+                        <tr styleCode="Botrule Toprule">
+                           <td styleCode="Lrule Rrule" align="center">gamma</td>
+                           <td styleCode="Lrule Rrule" align="center">3%</td>
+                           <td styleCode="Lrule Rrule" align="center">1.0770</td>
+                        </tr>
+                        <tr styleCode="Botrule Toprule">
+                           <td styleCode="Lrule Rrule" align="center">X-ray</td>
+                           <td styleCode="Lrule Rrule" align="center">2.8%</td>
+                           <td styleCode="Lrule Rrule" align="center">0.0086</td>
+                        </tr>
+                        <tr styleCode="Botrule Last Toprule">
+                           <td styleCode="Lrule Rrule" align="center">X-ray</td>
+                           <td styleCode="Lrule Rrule" align="center">1.4%</td>
+                           <td styleCode="Lrule Rrule" align="center">0.0086
+									</td>
+                        </tr>
+                     </tbody>
+                  </table>
+                  <table width="40%">
+                     <caption>Table 6.	Radiation Attenuation of 511 keV Photons by Lead (Pb) Shielding</caption>
+                     <col width="50%"/>
+                     <col width="50%"/>
+                     <tbody>
+                        <tr styleCode="Botrule First Toprule">
+                           <td styleCode="Botrule Lrule Rrule Toprule" align="center">
+                              <content styleCode="bold">Shield thickness (Pb) mm</content>
+                           </td>
+                           <td styleCode="Botrule Lrule Rrule Toprule" align="center">
+                              <content styleCode="bold">Coefficient of attenuation</content>
+                           </td>
+                        </tr>
+                        <tr styleCode="Botrule Toprule">
+                           <td styleCode="Botrule Lrule Rrule Toprule" align="center">6</td>
+                           <td styleCode="Botrule Lrule Rrule Toprule" align="center">0.5</td>
+                        </tr>
+                        <tr styleCode="Botrule Toprule">
+                           <td styleCode="Botrule Lrule Rrule Toprule" align="center">12</td>
+                           <td styleCode="Botrule Lrule Rrule Toprule" align="center">0.25</td>
+                        </tr>
+                        <tr styleCode="Botrule Toprule">
+                           <td styleCode="Botrule Lrule Rrule Toprule" align="center">17</td>
+                           <td styleCode="Botrule Lrule Rrule Toprule" align="center">0.1</td>
+                        </tr>
+                        <tr styleCode="Botrule Toprule">
+                           <td styleCode="Botrule Lrule Rrule Toprule" align="center">34</td>
+                           <td styleCode="Botrule Lrule Rrule Toprule" align="center">0.01</td>
+                        </tr>
+                        <tr styleCode="Botrule Last Toprule">
+                           <td styleCode="Botrule Lrule Rrule Toprule" align="center">51</td>
+                           <td styleCode="Botrule Lrule Rrule Toprule" align="center">0.001</td>
+                        </tr>
+                     </tbody>
+                  </table>
+                  <table width="40%">
+                     <caption>Table 7.	Physical Decay Chart for Gallium-68</caption>
+                     <col width="40%"/>
+                     <col width="60%"/>
+                     <tbody>
+                        <tr styleCode="Botrule First Toprule">
+                           <td styleCode="Lrule Rrule" align="center">
+                              <content styleCode="bold">Minutes</content>
+                           </td>
+                           <td styleCode="Lrule Rrule" align="center">
+                              <content styleCode="bold">Fraction remaining</content>
+                           </td>
+                        </tr>
+                        <tr styleCode="Botrule Toprule">
+                           <td styleCode="Lrule Rrule" align="center">0</td>
+                           <td styleCode="Lrule Rrule" align="center">1.000</td>
+                        </tr>
+                        <tr styleCode="Botrule Toprule">
+                           <td styleCode="Lrule Rrule" align="center">15</td>
+                           <td styleCode="Lrule Rrule" align="center">0.858</td>
+                        </tr>
+                        <tr styleCode="Botrule Toprule">
+                           <td styleCode="Lrule Rrule" align="center">30</td>
+                           <td styleCode="Lrule Rrule" align="center">0.736</td>
+                        </tr>
+                        <tr styleCode="Botrule Toprule">
+                           <td styleCode="Lrule Rrule" align="center">60</td>
+                           <td styleCode="Lrule Rrule" align="center">0.541</td>
+                        </tr>
+                        <tr styleCode="Botrule Toprule">
+                           <td styleCode="Lrule Rrule" align="center">90</td>
+                           <td styleCode="Lrule Rrule" align="center">0.398</td>
+                        </tr>
+                        <tr styleCode="Botrule Toprule">
+                           <td styleCode="Lrule Rrule" align="center">120</td>
+                           <td styleCode="Lrule Rrule" align="center">0.293</td>
+                        </tr>
+                        <tr styleCode="Botrule Toprule">
+                           <td styleCode="Lrule Rrule" align="center">180</td>
+                           <td styleCode="Lrule Rrule" align="center">0.158</td>
+                        </tr>
+                        <tr styleCode="Botrule Last Toprule">
+                           <td styleCode="Lrule Rrule" align="center">360</td>
+                           <td styleCode="Lrule Rrule" align="center">0.025</td>
+                        </tr>
+                     </tbody>
+                  </table>
+               </text>
+               <effectiveTime value="20211222"/>
+               <component>
+                  <observationMedia ID="L3ace9184-28de-4202-9f69-1377ef5fec44">
+                     <text>Figure 3.	Chemical Structure of dotatate</text>
+                     <value mediaType="image/jpeg" xsi:type="ED">
+                        <reference value="fig3.jpg"/>
+                     </value>
+                  </observationMedia>
+               </component>
+            </section>
+         </component>
+         <component>
+            <section>
+               <id root="b5461fe2-dbfd-4795-8881-ded8a8d72b7a"/>
+               <code code="34090-1" codeSystem="2.16.840.1.113883.6.1" displayName="CLINICAL PHARMACOLOGY SECTION"/>
+               <title>12     CLINICAL PHARMACOLOGY</title>
+               <text/>
+               <effectiveTime value="20231026"/>
+               <component>
+                  <section ID="Ldaadd7f8-b98e-45a7-a4bf-a5c46c009c9a">
+                     <id root="abe9c452-8595-41ea-b8ae-40cf68d85197"/>
+                     <code code="43679-0" codeSystem="2.16.840.1.113883.6.1" displayName="MECHANISM OF ACTION SECTION"/>
+                     <title>12.1     Mechanism of Action</title>
+                     <text>
+                        <paragraph>Gallium  Ga 68 dotatate binds to somatostatin receptors, with highest affinity for subtype 2 receptors (SSTR2). It binds to cells that express somatostatin receptors, including malignant cells, which overexpress SSTR2. Gallium-68 is a β+ emitting radionuclide with an emission yield that allows PET imaging.</paragraph>
+                     </text>
+                     <effectiveTime value="20231026"/>
+                  </section>
+               </component>
+               <component>
+                  <section ID="Lb4d6d529-5384-4f8e-9bdf-8b559ee0adee">
+                     <id root="ac112b91-ca20-4644-9568-976e61ef07b0"/>
+                     <code code="43681-6" codeSystem="2.16.840.1.113883.6.1" displayName="PHARMACODYNAMICS SECTION"/>
+                     <title>12.2     Pharmacodynamics</title>
+                     <text>
+                        <paragraph>The relationship between gallium Ga 68 dotatate plasma concentrations and successful imaging was not explored in clinical trials.</paragraph>
+                     </text>
+                     <effectiveTime value="20231026"/>
+                  </section>
+               </component>
+               <component>
+                  <section>
+                     <id root="62546882-8a73-4b6e-a409-e19daf709b9d"/>
+                     <code code="43682-4" codeSystem="2.16.840.1.113883.6.1" displayName="PHARMACOKINETICS SECTION"/>
+                     <title>12.3     Pharmacokinetics</title>
+                     <text>
+                        <paragraph>
+                           <content styleCode="underline">Distribution</content>
+                        </paragraph>
+                        <paragraph>Gallium Ga 68 dotatate distributes to all SSTR2-expressing organs, such as pituitary, thyroid, spleen, adrenals, kidneys, pancreas, prostate, liver, and salivary glands. There is no uptake in the cerebral cortex or in the heart, and usually thymus and lung uptakes are low.</paragraph>
+                        <paragraph>
+                           <content styleCode="underline">Elimination</content>
+                        </paragraph>
+                        <paragraph>A total of 12% of the injected dose is excreted in urine in the first four hours post-injection.</paragraph>
+                     </text>
+                     <effectiveTime value="20231026"/>
+                  </section>
+               </component>
+            </section>
+         </component>
+         <component>
+            <section ID="Lcf04e265-1d11-4c37-bc1f-360d69ceb8aa">
+               <id root="8dc85f61-9691-40aa-9eec-f5f1d22d3fed"/>
+               <code code="43680-8" codeSystem="2.16.840.1.113883.6.1" displayName="NONCLINICAL TOXICOLOGY SECTION"/>
+               <title>13     NONCLINICAL TOXICOLOGY</title>
+               <text/>
+               <effectiveTime value="20231026"/>
+               <component>
+                  <section ID="L533048dc-b628-438f-a64d-aee383916d9d">
+                     <id root="166c369f-3f66-4056-b36f-57d3df01c563"/>
+                     <code code="34083-6" codeSystem="2.16.840.1.113883.6.1" displayName="CARCINOGENESIS &amp; MUTAGENESIS &amp; IMPAIRMENT OF FERTILITY SECTION"/>
+                     <title>13.1 Carcinogenesis, Mutagenesis, Impairment of Fertility</title>
+                     <text>
+                        <paragraph>No animal studies on fertility, embryology, mutagenic potential, or carcinogenic potential have been conducted with gallium Ga 68 dotatate. However, genotoxicity studies conducted with a very similar molecule (mixture lutetium Lu 175 dotatate/dotatate) show that these non-radioactive compounds do not induce mutation at the TK locus of L5178Y mouse lymphoma cells in vitro, nor reverse mutation in <content styleCode="italics">Salmonella</content> Typhimurium, or <content styleCode="italics">Escherichia coli</content> (both in the absence or presence of S9 metabolic activation).</paragraph>
+                     </text>
+                     <effectiveTime value="20231026"/>
+                  </section>
+               </component>
+            </section>
+         </component>
+         <component>
+            <section ID="L40b990b6-1602-4962-98c2-58e702f50db4">
+               <id root="b295eed3-af5d-447a-a6f6-ac12fe63d18b"/>
+               <code code="34092-7" codeSystem="2.16.840.1.113883.6.1" displayName="CLINICAL STUDIES SECTION"/>
+               <title>14     CLINICAL STUDIES</title>
+               <text>
+                  <paragraph>The efficacy of NETSPOT was established in three open label single center studies (Study A-C).</paragraph>
+                  <paragraph>In Study A, 97 adult patients (mean age 54; 41 men and 56 women) with known or suspected neuroendocrine tumors (NETs) were evaluated with gallium Ga 68 dotatate PET. The gallium Ga 68 dotatate images were read by two independent readers blinded to clinical information. The reads were compared to CT and/or MR images and to indium In 111 pentetreotide images obtained with Single Photon Emission Computed Tomography (SPECT) within previous 3 years. Among 78 patients in whom CT and/or MR images and indium In 111 pentetreotide images were available, gallium Ga 68 dotatate PET was in agreement with the CT and/or MR images in 74 patients. Out of 50 patients with NETs localized by CT and/or MR imaging, gallium Ga 68 dotatate was positive in 48 patients, including 13 patients in whom indium In 111 pentetreotide was negative. Gallium Ga 68 dotatate was negative in 26 out of 28 patients in whom CT and/or MR imaging was negative.</paragraph>
+                  <paragraph>Study B was a published study which involved 104 patients (mean age 58; 52 men and 52 women) with suspected NETs due to clinical symptoms, elevated levels of tumor markers, or indeterminate tumors suggestive of NET. Diagnostic performance of gallium Ga 68 dotatate PET in localizing tumor sites was retrospectively assessed using a reference standard: histopathology (n = 49) or clinical follow up of up to 5-month duration (n = 55). Images were interpreted by consensus between two on-site readers who were not blinded to clinical information. NET sites were localized by reference standard in 36 patients (all by histopathology). Out of these, gallium Ga 68 dotatate was positive, correctly identifying an NET site, in 29 patients and was falsely negative in seven. In 68 patients with no NET identified by a reference standard, the images were negative in 61 and falsely positive in seven patients.</paragraph>
+                  <paragraph>Study C was a published study which involved 63 patients (mean age 58; 34 men and 29 women) evaluated for NET recurrence using a reference standard as described for Study B. Gallium Ga 68 dotatate images were interpreted independently by two central readers blinded to clinical information. Reader 1 correctly localized NETs in 23 out of 29 reference standard-positive patients and reader 2 correctly localized NETs in 22 such patients. In 34 patients with no NET identified by a reference standard, reader 1 was correct in 29 patients and reader 2 in 32.</paragraph>
+               </text>
+               <effectiveTime value="20231026"/>
+            </section>
+         </component>
+         <component>
+            <section ID="s16">
+               <id root="28e813a8-61ad-4592-8a85-230d60fb8630"/>
+               <code codeSystem="2.16.840.1.113883.6.1" code="34069-5" displayName="HOW SUPPLIED SECTION"/>
+               <title>16     HOW SUPPLIED/STORAGE AND HANDLING</title>
+               <effectiveTime value="20231026"/>
+               <component>
+                  <section ID="s16p1">
+                     <id root="73dfac85-baea-42e3-a764-7eff2cf29557"/>
+                     <code codeSystem="2.16.840.1.113883.6.1" code="34069-5" displayName="HOW SUPPLIED SECTION"/>
+                     <title>16.1     How Supplied</title>
+                     <text>
+                        <paragraph>NETSPOT is supplied as a multiple-dose kit (NDC# 69488-001-40) for preparing multiple doses of gallium-68 radiolabeled dotatate injection.</paragraph>
+                        <paragraph>The kit contains:</paragraph>
+                        <list>
+                           <item>
+                              <content styleCode="bold">Vial 1</content> (10-mL Ultra inert Type I Plus glass vial, light-blue flip-off cap):  40 mcg of dotatate, 5 mcg 1,10-phenanthroline, 6 mcg gentisic acid, 20 mg mannitol as lyophilized powder (NDC# 69488-001-04)
+									</item>
+                           <item>
+                              <content styleCode="bold">Vial 2</content> (10-mL cyclic olefin polymer vial, with a yellow flip-off cap): reaction buffer solution (approximately 1 mL volume), 60 mg formic acid, 56.5 mg sodium hydroxide and water for injection (NDC# 69488-001-01)
+									</item>
+                        </list>
+                        <paragraph>The radionuclide is not part of the kit. Before radiolabeling with gallium-68, the contents of this kit are not radioactive.</paragraph>
+                        <paragraph>Expiry date is indicated on the original outer packaging, and on the vials. This medicinal product must not be used beyond the date indicated on the packaging.</paragraph>
+                     </text>
+                     <effectiveTime value="20231026"/>
+                  </section>
+               </component>
+               <component>
+                  <section ID="s16p2">
+                     <id root="6f2e4ab6-c971-4bb3-991a-71d9bcfd098e"/>
+                     <code codeSystem="2.16.840.1.113883.6.1" code="34069-5" displayName="HOW SUPPLIED SECTION"/>
+                     <title>16.2     Storage and Handling</title>
+                     <text>
+                        <paragraph>For prolonged storage, store NETSPOT in its original packaging at room temperature below 25°C (77°F) (do not freeze). After radiolabeling <content styleCode="italics">[see Dosage and Administration (<linkHtml href="#s2p3">2.3</linkHtml>)]</content> with activities of up to 1,110 MBq (30 mCi), keep gallium Ga 68 dotatate injection upright with an appropriate shielding to protect from radiation, at a temperature below 25°C (77°F) (do not freeze), and use within 4 hours. The storage of the radiolabeled product must comply with regulatory requirements for radioactive materials.</paragraph>
+                     </text>
+                     <effectiveTime value="20231026"/>
+                  </section>
+               </component>
+            </section>
+         </component>
+         <component>
+            <section>
+               <id root="e8b090c6-ff71-410c-aa32-9432c8654e5f"/>
+               <code code="34076-0" codeSystem="2.16.840.1.113883.6.1" displayName="INFORMATION FOR PATIENTS SECTION"/>
+               <title>17     PATIENT COUNSELING INFORMATION</title>
+               <text>
+                  <paragraph>
+                     <content styleCode="underline">Adequate Hydration</content>
+                  </paragraph>
+                  <paragraph>Advise patients to drink a sufficient amount of water to ensure adequate hydration before their PET study and urge them to drink and urinate as often as possible during the first hours following the administration of gallium Ga 68 dotatate injection, in order to reduce radiation exposure <content styleCode="italics">[see Dosage and Administration (<linkHtml href="#s2p3">2.3</linkHtml>)]</content>.
+						</paragraph>
+                  <paragraph>
+                     <content styleCode="underline">Lactation</content>
+                  </paragraph>
+                  <paragraph>Advise a lactating woman to interrupt breastfeeding and pump and discard breast milk for 12 hours after gallium Ga 68 dotatate injection administration in order to minimize radiation exposure to a breastfed infant <content styleCode="italics">[see Use in Specific Populations (<linkHtml href="#L6f1d0a57-0288-4471-aa59-4b65dd92b2fd">8.2</linkHtml>)]</content>.
+						</paragraph>
+                  <paragraph>
+                     <content styleCode="underline">Close Contact</content>
+                  </paragraph>
+                  <paragraph>Advise patients to avoid close contact with infants and pregnant women during the first 12 hours after administration of gallium Ga 68 dotatate.</paragraph>
+                  <paragraph>Distributed by:<br/>Advanced Accelerator Applications USA, Inc. Millburn, NJ 07041<br/>©2023 Advanced Accelerator Applications USA, Inc.<br/>NETSPOT<sup>®</sup> is a registered trademark of Novartis AG and/or its affiliates.</paragraph>
+                  <paragraph>T2023-68</paragraph>
+               </text>
+               <effectiveTime value="20231026"/>
+            </section>
+         </component>
+         <component>
+            <section>
+               <id root="f4b5e2e7-f0d0-437e-aebf-2280592735c1"/>
+               <code code="51945-4" codeSystem="2.16.840.1.113883.6.1" displayName="PACKAGE LABEL.PRINCIPAL DISPLAY PANEL"/>
+               <title>PRINCIPAL DISPLAY PANEL</title>
+               <text>
+                  <paragraph>NDC 69488-001-40</paragraph>
+                  <paragraph>Rx Only</paragraph>
+                  <paragraph>NETSPOT<sup>®</sup>
+                  </paragraph>
+                  <paragraph>(kit for the preparation of<br/>Gallium Ga 68 dotatate injection)</paragraph>
+                  <paragraph>40 mcg dotatate</paragraph>
+                  <paragraph>For Intravenous Use Only</paragraph>
+                  <paragraph>
+                     <renderMultiMedia referencedObject="MM04000009"/>
+                  </paragraph>
+               </text>
+               <effectiveTime value="20240513"/>
+               <component>
+                  <observationMedia ID="MM04000009">
+                     <text>PRINCIPAL DISPLAY PANEL
+									NDC 69488-001-40
+									Rx Only
+									NETSPOT®
+									(kit for the preparation of Gallium Ga 68 dotatate injection)
+									40 mcg dotatate
+									For Intravenous Use Only
+							</text>
+                     <value mediaType="image/jpeg" xsi:type="ED">
+                        <reference value="carton.jpg"/>
+                     </value>
+                  </observationMedia>
+               </component>
+            </section>
+         </component>
+         <component>
+            <section>
+               <id root="32bb3daa-ba33-405d-8a9e-a7a83ee04020"/>
+               <code code="51945-4" codeSystem="2.16.840.1.113883.6.1" displayName="PACKAGE LABEL.PRINCIPAL DISPLAY PANEL"/>
+               <title>PRINCIPAL DISPLAY PANEL</title>
+               <text>
+                  <paragraph>NETSPOT<sup>®</sup>
+                  </paragraph>
+                  <paragraph>(kit for the preparation of<br/>Gallium Ga 68 dotatate)</paragraph>
+                  <paragraph>40 mcg dotatate per vial</paragraph>
+                  <paragraph>Vial 1 (Reaction vial with<br/>lyophilized powder)</paragraph>
+                  <paragraph>NDC 69488-001-04</paragraph>
+                  <paragraph>Rx Only</paragraph>
+                  <paragraph>Multiple-dose vial</paragraph>
+                  <paragraph>For Intravenous Use Only</paragraph>
+                  <paragraph>
+                     <renderMultiMedia referencedObject="MM04000001"/>
+                  </paragraph>
+                  <paragraph>
+                     <renderMultiMedia referencedObject="MM04000002"/>
+                  </paragraph>
+                  <paragraph>
+                     <renderMultiMedia referencedObject="MM04000003"/>
+                  </paragraph>
+               </text>
+               <effectiveTime value="20240513"/>
+               <component>
+                  <observationMedia ID="MM04000001">
+                     <text>VIAL 1 – 3 LAYER label</text>
+                     <value mediaType="image/jpeg" xsi:type="ED">
+                        <reference value="vial1-01.jpg"/>
+                     </value>
+                  </observationMedia>
+               </component>
+               <component>
+                  <observationMedia ID="MM04000002">
+                     <text>VIAL 1 – 3 LAYER label</text>
+                     <value mediaType="image/jpeg" xsi:type="ED">
+                        <reference value="vial1-02.jpg"/>
+                     </value>
+                  </observationMedia>
+               </component>
+               <component>
+                  <observationMedia ID="MM04000003">
+                     <text>VIAL 1 – 3 LAYER label</text>
+                     <value mediaType="image/jpeg" xsi:type="ED">
+                        <reference value="vial1-03.jpg"/>
+                     </value>
+                  </observationMedia>
+               </component>
+            </section>
+         </component>
+         <component>
+            <section>
+               <id root="e29802d0-442d-4cd7-9b05-f3d38ec83bed"/>
+               <code code="51945-4" codeSystem="2.16.840.1.113883.6.1" displayName="PACKAGE LABEL.PRINCIPAL DISPLAY PANEL"/>
+               <title>PRINCIPAL DISPLAY PANEL</title>
+               <text>
+                  <paragraph>NETSPOT<sup>®</sup>
+                  </paragraph>
+                  <paragraph>For adjusting pH of Gallium Ga 68 dotatate injection</paragraph>
+                  <paragraph>For pH adjustment of radiolabeled Netspot only</paragraph>
+                  <paragraph>1 mL in 10 mL Vial</paragraph>
+                  <paragraph>Vial 2 (Buffer)</paragraph>
+                  <paragraph>NDC 69488-001-01</paragraph>
+                  <paragraph>Rx Only</paragraph>
+                  <paragraph>Each vial of buffer is<br/>intended for use in the production of<br/>one vial of Gallium Ga 68 dotatate</paragraph>
+                  <paragraph>
+                     <renderMultiMedia referencedObject="MM04000004"/>
+                  </paragraph>
+                  <paragraph>
+                     <renderMultiMedia referencedObject="MM04000005"/>
+                  </paragraph>
+                  <paragraph>
+                     <renderMultiMedia referencedObject="MM04000006"/>
+                  </paragraph>
+               </text>
+               <effectiveTime value="20240513"/>
+               <component>
+                  <observationMedia ID="MM04000004">
+                     <text>VIAL 2 – 3 LAYER label</text>
+                     <value mediaType="image/jpeg" xsi:type="ED">
+                        <reference value="vial2-04.jpg"/>
+                     </value>
+                  </observationMedia>
+               </component>
+               <component>
+                  <observationMedia ID="MM04000005">
+                     <text>VIAL 2 – 3 LAYER label</text>
+                     <value mediaType="image/jpeg" xsi:type="ED">
+                        <reference value="vial2-05.jpg"/>
+                     </value>
+                  </observationMedia>
+               </component>
+               <component>
+                  <observationMedia ID="MM04000006">
+                     <text>VIAL 2 – 3 LAYER label</text>
+                     <value mediaType="image/jpeg" xsi:type="ED">
+                        <reference value="vial2-06.jpg"/>
+                     </value>
+                  </observationMedia>
+               </component>
+            </section>
+         </component>
+         <component>
+            <section>
+               <id root="24bf3610-b99c-4704-8439-d6c913deff94"/>
+               <code code="51945-4" codeSystem="2.16.840.1.113883.6.1" displayName="PACKAGE LABEL.PRINCIPAL DISPLAY PANEL"/>
+               <title>PRINCIPAL DISPLAY PANEL</title>
+               <text>
+                  <paragraph>NETSPOT<sup>®</sup>
+                  </paragraph>
+                  <paragraph>(Gallium Ga 68 dotatate injection)</paragraph>
+                  <paragraph>APPLY TO SYRINGE</paragraph>
+                  <paragraph>See Prescribing Information before use.</paragraph>
+                  <paragraph>Rx Only</paragraph>
+                  <paragraph>
+                     <renderMultiMedia referencedObject="MM04000007"/>
+                  </paragraph>
+               </text>
+               <effectiveTime value="20240513"/>
+               <component>
+                  <observationMedia ID="MM04000007">
+                     <text>PRINCIPAL DISPLAY PANEL
+									NETSPOT®
+									(Gallium Ga 68 dotatate injection)
+									APPLY TO SYRINGE
+									See Prescribing Information before use.
+									Rx Only
+							</text>
+                     <value mediaType="image/jpeg" xsi:type="ED">
+                        <reference value="syringe.jpg"/>
+                     </value>
+                  </observationMedia>
+               </component>
+            </section>
+         </component>
+         <component>
+            <section>
+               <id root="eaade02e-2e67-494b-bec6-20f1eab8f183"/>
+               <code code="51945-4" codeSystem="2.16.840.1.113883.6.1" displayName="PACKAGE LABEL.PRINCIPAL DISPLAY PANEL"/>
+               <title>PRINCIPAL DISPLAY PANEL</title>
+               <text>
+                  <paragraph>Ga 68 dotatate injection</paragraph>
+                  <paragraph>Diagnostic</paragraph>
+                  <paragraph>Rx Only</paragraph>
+                  <paragraph>FOR INTRAVENOUS USE</paragraph>
+                  <paragraph>See Prescribing Information for dosage and<br/>administration instructions.</paragraph>
+                  <paragraph>
+                     <renderMultiMedia referencedObject="MM04000008"/>
+                  </paragraph>
+               </text>
+               <effectiveTime value="20240513"/>
+               <component>
+                  <observationMedia ID="MM04000008">
+                     <text>Activity Label</text>
+                     <value mediaType="image/jpeg" xsi:type="ED">
+                        <reference value="reconstitution.jpg"/>
+                     </value>
+                  </observationMedia>
+               </component>
+            </section>
+         </component>
+      </structuredBody>
+   </component>
+</document>

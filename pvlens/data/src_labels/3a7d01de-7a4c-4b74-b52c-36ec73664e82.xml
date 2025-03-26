@@ -1,0 +1,1011 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet href="https://www.accessdata.fda.gov/spl/stylesheet/spl.xsl" type="text/xsl"?>
+<document xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:hl7-org:v3 https://www.accessdata.fda.gov/spl/schema/spl.xsd">
+   <id root="3a7d01de-7a4c-4b74-b52c-36ec73664e82"/>
+   <code code="34391-3" codeSystem="2.16.840.1.113883.6.1" displayName="HUMAN PRESCRIPTION DRUG LABEL"/>
+   <title>These highlights do not include all the information needed to use <content styleCode="bold">TAVABOROLE TOPICAL SOLUTION</content> safely and effectively.  See full prescribing information for <content styleCode="bold">TAVABOROLE TOPICAL SOLUTION</content>.<br/>
+      <content styleCode="bold">TAVABOROLE topical solution</content>
+      <br/>Initial U.S. Approval: 2014</title>
+   <effectiveTime value="20211115"/>
+   <setId root="dc68c727-a77a-432e-8308-e88aea241b58"/>
+   <versionNumber value="4"/>
+   <author>
+      <time/>
+      <assignedEntity>
+         <representedOrganization>
+            <id extension="967694121" root="1.3.6.1.4.1.519.1"/>
+            <name>Padagis US LLC</name>
+         </representedOrganization>
+      </assignedEntity>
+   </author>
+   <component>
+      <structuredBody>
+         <component>
+            <section>
+               <id root="397625d4-7b5b-4495-89cc-48d3f0940c61"/>
+               <code code="48780-1" codeSystem="2.16.840.1.113883.6.1" displayName="SPL product data elements section"/>
+               <effectiveTime value="20211115"/>
+               <subject>
+                  <manufacturedProduct>
+                     <manufacturedProduct>
+                        <code code="0574-0157" codeSystem="2.16.840.1.113883.6.69"/>
+                        <name>Tavaborole</name>
+                        <formCode code="C42986" codeSystem="2.16.840.1.113883.3.26.1.1" displayName="SOLUTION"/>
+                        <asEntityWithGeneric>
+                           <genericMedicine>
+                              <name>Tavaborole</name>
+                           </genericMedicine>
+                        </asEntityWithGeneric>
+                        <ingredient classCode="ACTIB">
+                           <quantity>
+                              <numerator unit="mg" value="43.5"/>
+                              <denominator unit="mL" value="1"/>
+                           </quantity>
+                           <ingredientSubstance>
+                              <code code="K124A4EUQ3" codeSystem="2.16.840.1.113883.4.9"/>
+                              <name>TAVABOROLE</name>
+                              <activeMoiety>
+                                 <activeMoiety>
+                                    <code code="K124A4EUQ3" codeSystem="2.16.840.1.113883.4.9"/>
+                                    <name>TAVABOROLE</name>
+                                 </activeMoiety>
+                              </activeMoiety>
+                           </ingredientSubstance>
+                        </ingredient>
+                        <ingredient classCode="IACT">
+                           <ingredientSubstance>
+                              <code code="3K9958V90M" codeSystem="2.16.840.1.113883.4.9"/>
+                              <name>ALCOHOL</name>
+                           </ingredientSubstance>
+                        </ingredient>
+                        <ingredient classCode="IACT">
+                           <ingredientSubstance>
+                              <code code="25IH6R4SGF" codeSystem="2.16.840.1.113883.4.9"/>
+                              <name>EDETATE CALCIUM DISODIUM</name>
+                           </ingredientSubstance>
+                        </ingredient>
+                        <ingredient classCode="IACT">
+                           <ingredientSubstance>
+                              <code code="6DC9Q167V3" codeSystem="2.16.840.1.113883.4.9"/>
+                              <name>PROPYLENE GLYCOL</name>
+                           </ingredientSubstance>
+                        </ingredient>
+                        <asContent>
+                           <quantity>
+                              <numerator unit="mL" value="10"/>
+                              <denominator value="1"/>
+                           </quantity>
+                           <containerPackagedProduct>
+                              <code/>
+                              <formCode code="C43172" codeSystem="2.16.840.1.113883.3.26.1.1" displayName="BOTTLE, GLASS"/>
+                              <asContent>
+                                 <quantity>
+                                    <numerator unit="1" value="1"/>
+                                    <denominator value="1"/>
+                                 </quantity>
+                                 <containerPackagedProduct>
+                                    <code code="0574-0157-10" codeSystem="2.16.840.1.113883.6.69"/>
+                                    <formCode code="C43182" codeSystem="2.16.840.1.113883.3.26.1.1" displayName="CARTON"/>
+                                 </containerPackagedProduct>
+                                 <subjectOf>
+                                    <marketingAct>
+                                       <code code="C53292" codeSystem="2.16.840.1.113883.3.26.1.1"/>
+                                       <statusCode code="completed"/>
+                                       <effectiveTime>
+                                          <low value="20210110"/>
+                                          <high value="20250228"/>
+                                       </effectiveTime>
+                                    </marketingAct>
+                                 </subjectOf>
+                              </asContent>
+                           </containerPackagedProduct>
+                           <subjectOf>
+                              <characteristic classCode="OBS">
+                                 <code code="SPLCMBPRDTP" codeSystem="2.16.840.1.113883.1.11.19255"/>
+                                 <value code="C112160" codeSystem="2.16.840.1.113883.3.26.1.1" displayName="Type 0: Not a Combination Product" xsi:type="CE"/>
+                              </characteristic>
+                           </subjectOf>
+                        </asContent>
+                     </manufacturedProduct>
+                     <subjectOf>
+                        <approval>
+                           <id extension="ANDA211848" root="2.16.840.1.113883.3.150"/>
+                           <code code="C73584" codeSystem="2.16.840.1.113883.3.26.1.1" displayName="ANDA"/>
+                           <author>
+                              <territorialAuthority>
+                                 <territory>
+                                    <code code="USA" codeSystem="2.16.840.1.113883.5.28"/>
+                                 </territory>
+                              </territorialAuthority>
+                           </author>
+                        </approval>
+                     </subjectOf>
+                     <subjectOf>
+                        <marketingAct>
+                           <code code="C53292" codeSystem="2.16.840.1.113883.3.26.1.1"/>
+                           <statusCode code="completed"/>
+                           <effectiveTime>
+                              <low value="20210110"/>
+                              <high value="20250228"/>
+                           </effectiveTime>
+                        </marketingAct>
+                     </subjectOf>
+                     <consumedIn>
+                        <substanceAdministration>
+                           <routeCode code="C38304" codeSystem="2.16.840.1.113883.3.26.1.1" displayName="TOPICAL"/>
+                        </substanceAdministration>
+                     </consumedIn>
+                  </manufacturedProduct>
+               </subject>
+            </section>
+         </component>
+         <component>
+            <section ID="ID_8e7a972e-da23-4bee-9f5f-d0e5964a2734">
+               <id root="8e7a972e-da23-4bee-9f5f-d0e5964a2734"/>
+               <code code="34067-9" codeSystem="2.16.840.1.113883.6.1" displayName="INDICATIONS &amp; USAGE SECTION"/>
+               <title>1 INDICATIONS AND USAGE </title>
+               <text>
+                  <paragraph>Tavaborole topical solution, 5% is an oxaborole antifungal indicated for the treatment of onychomycosis of the toenails due to <content styleCode="italics">Trichophyton rubrum</content> or <content styleCode="italics">Trichophyton mentagrophytes</content>.</paragraph>
+               </text>
+               <effectiveTime value="20201020"/>
+               <excerpt>
+                  <highlight>
+                     <text>
+                        <paragraph>Tavaborole topical solution is an oxaborole antifungal indicated for the topical treatment of onychomycosis of the toenails due to <content styleCode="italics">Trichophyton rubrum </content>or <content styleCode="italics">Trichophyton mentagrophytes</content>. </paragraph>
+                     </text>
+                  </highlight>
+               </excerpt>
+            </section>
+         </component>
+         <component>
+            <section ID="ID_ba43f130-2dec-4a14-ba31-1f24fcf082bf">
+               <id root="ba43f130-2dec-4a14-ba31-1f24fcf082bf"/>
+               <code code="34068-7" codeSystem="2.16.840.1.113883.6.1" displayName="DOSAGE &amp; ADMINISTRATION SECTION"/>
+               <title>2 DOSAGE AND ADMINISTRATION </title>
+               <text>
+                  <paragraph>Apply tavaborole topical solution to affected toenails once daily for 48 weeks. </paragraph>
+                  <paragraph>Tavaborole topical solution should be applied to the entire toenail surface and under the tip of each toenail being treated. Tavaborole topical solution is for topical use only and not for oral, ophthalmic, or intravaginal use.</paragraph>
+               </text>
+               <effectiveTime value="20201020"/>
+               <excerpt>
+                  <highlight>
+                     <text>
+                        <list listType="unordered">
+                           <item>
+                              <caption>•</caption>Apply tavaborole topical solution to affected toenails once daily for 48 weeks. (2)</item>
+                           <item>
+                              <caption>•</caption>Tavaborole topical solution should be applied to the entire toenail surface and under the tip of each toenail being treated. (2)</item>
+                           <item>
+                              <caption>•</caption>For topical use only. (2)</item>
+                           <item>
+                              <caption>•</caption>Not for oral, ophthalmic, or intravaginal use. (2)</item>
+                        </list>
+                     </text>
+                  </highlight>
+               </excerpt>
+            </section>
+         </component>
+         <component>
+            <section ID="ID_c1322799-2f8b-4397-88af-a8d156baaab2">
+               <id root="c1322799-2f8b-4397-88af-a8d156baaab2"/>
+               <code code="43678-2" codeSystem="2.16.840.1.113883.6.1" displayName="DOSAGE FORMS &amp; STRENGTHS SECTION"/>
+               <title>3 DOSAGE FORMS AND STRENGTHS </title>
+               <text>
+                  <paragraph>Tavaborole topical solution, 5% is a clear, colorless alcohol-based solution. Each milliliter of solution contains 43.5 mg (5% w/w) of tavaborole.</paragraph>
+               </text>
+               <effectiveTime value="20201020"/>
+               <excerpt>
+                  <highlight>
+                     <text>
+                        <paragraph>Solution, 5%. </paragraph>
+                     </text>
+                  </highlight>
+               </excerpt>
+            </section>
+         </component>
+         <component>
+            <section ID="ID_cb737c9c-5ed3-438d-906a-1c1950451ddc">
+               <id root="cb737c9c-5ed3-438d-906a-1c1950451ddc"/>
+               <code code="34070-3" codeSystem="2.16.840.1.113883.6.1" displayName="CONTRAINDICATIONS SECTION"/>
+               <title>4 CONTRAINDICATIONS </title>
+               <text>
+                  <paragraph>None.</paragraph>
+               </text>
+               <effectiveTime value="20201020"/>
+               <excerpt>
+                  <highlight>
+                     <text>
+                        <paragraph>None. </paragraph>
+                     </text>
+                  </highlight>
+               </excerpt>
+            </section>
+         </component>
+         <component>
+            <section ID="ID_bc58fb5d-d3a0-4cc4-8a37-d40aa82a15a5">
+               <id root="bc58fb5d-d3a0-4cc4-8a37-d40aa82a15a5"/>
+               <code code="34084-4" codeSystem="2.16.840.1.113883.6.1" displayName="ADVERSE REACTIONS SECTION"/>
+               <title>6 ADVERSE REACTIONS </title>
+               <effectiveTime value="20201020"/>
+               <excerpt>
+                  <highlight>
+                     <text>
+                        <paragraph>Common adverse reactions occurring in ≥1% in subjects treated with tavaborole topical solution included application site exfoliation, ingrown toenail, application site erythema, and application site dermatitis. (6.1)</paragraph>
+                        <paragraph>
+                           <content styleCode="bold">To report SUSPECTED ADVERSE REACTIONS, contact </content>
+                           <content styleCode="bold">Perrigo at 1-866-634-9120</content>
+                           <content styleCode="bold"> or FDA at 1-800-FDA-1088 or <linkHtml href="http://www.fda.gov/medwatch">www.fda.gov/medwatch.</linkHtml>
+                           </content>
+                        </paragraph>
+                     </text>
+                  </highlight>
+               </excerpt>
+               <component>
+                  <section ID="ID_b9d1f052-701b-4def-96c2-ba64a48e2eb4">
+                     <id root="b9d1f052-701b-4def-96c2-ba64a48e2eb4"/>
+                     <code code="42229-5" codeSystem="2.16.840.1.113883.6.1" displayName="SPL UNCLASSIFIED SECTION"/>
+                     <title>6.1 Clinical Trials Experience </title>
+                     <text>
+                        <paragraph>Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice. </paragraph>
+                        <paragraph>In two clinical trials, 791 subjects were treated with tavaborole topical solution. The most commonly reported adverse reactions are listed below (Table 1).</paragraph>
+                        <paragraph>
+                           <content styleCode="bold">Table 1: Adverse Reactions Occurring in ≥1% of Tavaborole Topical Solution, 5%-Treated Subjects and at a Greater Frequency than Observed with Vehicle</content>
+                        </paragraph>
+                        <table cellpadding="0pt" width="100%">
+                           <col width="38%"/>
+                           <col width="32%"/>
+                           <col width="29%"/>
+                           <tbody>
+                              <tr>
+                                 <td styleCode="Rrule Botrule Lrule Toprule " valign="top">
+                                    <paragraph>
+                                       <content styleCode="bold">Preferred Term</content>
+                                    </paragraph>
+                                 </td>
+                                 <td styleCode="Rrule Botrule Lrule Toprule " valign="top">
+                                    <paragraph>
+                                       <content styleCode="bold">Tavaborole Topical Solution</content>
+                                    </paragraph>
+                                    <paragraph>
+                                       <content styleCode="bold">N=791 <br/>n(%)</content>
+                                    </paragraph>
+                                 </td>
+                                 <td styleCode="Rrule Botrule Lrule Toprule " valign="top">
+                                    <paragraph>
+                                       <content styleCode="bold">Vehicle N=395<br/>n(%)</content>
+                                    </paragraph>
+                                 </td>
+                              </tr>
+                              <tr>
+                                 <td styleCode="Rrule Lrule Botrule " valign="top">
+                                    <paragraph>Application site exfoliation</paragraph>
+                                 </td>
+                                 <td styleCode="Rrule Lrule Toprule Botrule " valign="top">
+                                    <paragraph>21 (2.7%)</paragraph>
+                                 </td>
+                                 <td styleCode="Rrule Lrule Toprule Botrule " valign="top">
+                                    <paragraph>1 (0.3%)</paragraph>
+                                 </td>
+                              </tr>
+                              <tr>
+                                 <td styleCode="Rrule Lrule Botrule " valign="top">
+                                    <paragraph>Ingrown toenail</paragraph>
+                                 </td>
+                                 <td styleCode="Rrule Lrule Toprule Botrule " valign="top">
+                                    <paragraph>20 (2.5%)</paragraph>
+                                 </td>
+                                 <td styleCode="Rrule Lrule Toprule Botrule " valign="top">
+                                    <paragraph>1 (0.3%)</paragraph>
+                                 </td>
+                              </tr>
+                              <tr>
+                                 <td styleCode="Rrule Lrule Botrule " valign="top">
+                                    <paragraph>Application site erythema</paragraph>
+                                 </td>
+                                 <td styleCode="Rrule Lrule Toprule Botrule " valign="top">
+                                    <paragraph>13 (1.6%)</paragraph>
+                                 </td>
+                                 <td styleCode="Rrule Lrule Toprule Botrule " valign="top">
+                                    <paragraph>0 (0%)</paragraph>
+                                 </td>
+                              </tr>
+                              <tr>
+                                 <td styleCode="Rrule Botrule Lrule Toprule " valign="top">
+                                    <paragraph>Application site dermatitis</paragraph>
+                                 </td>
+                                 <td styleCode="Rrule Botrule Lrule Toprule " valign="top">
+                                    <paragraph>10 (1.3%)</paragraph>
+                                 </td>
+                                 <td styleCode="Rrule Botrule Lrule Toprule " valign="top">
+                                    <paragraph>0 (0%)</paragraph>
+                                 </td>
+                              </tr>
+                           </tbody>
+                        </table>
+                     </text>
+                     <effectiveTime value="20201020"/>
+                  </section>
+               </component>
+               <component>
+                  <section ID="ID_b25dd023-35b0-4372-b170-0dc9fd381cf8">
+                     <id root="b25dd023-35b0-4372-b170-0dc9fd381cf8"/>
+                     <code code="42229-5" codeSystem="2.16.840.1.113883.6.1" displayName="SPL UNCLASSIFIED SECTION"/>
+                     <title>6.2 Postmarketing Experience </title>
+                     <text>
+                        <paragraph>The following adverse reactions have been identified during postmarketing use of tavaborole topical solution. Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug product exposure:</paragraph>
+                        <paragraph>Hypersensitivity; contact allergy</paragraph>
+                     </text>
+                     <effectiveTime value="20201020"/>
+                  </section>
+               </component>
+            </section>
+         </component>
+         <component>
+            <section ID="ID_5784ff5d-f617-48ae-9d96-e8a7a301219d">
+               <id root="5784ff5d-f617-48ae-9d96-e8a7a301219d"/>
+               <code code="43684-0" codeSystem="2.16.840.1.113883.6.1" displayName="USE IN SPECIFIC POPULATIONS SECTION"/>
+               <title>8 USE IN SPECIFIC POPULATIONS </title>
+               <effectiveTime value="20201020"/>
+               <component>
+                  <section ID="ID_59bcf415-9714-4a38-bebe-2049852f2134">
+                     <id root="59bcf415-9714-4a38-bebe-2049852f2134"/>
+                     <code code="42228-7" codeSystem="2.16.840.1.113883.6.1" displayName="PREGNANCY SECTION"/>
+                     <title>8.1 Pregnancy </title>
+                     <text>
+                        <paragraph>
+                           <content styleCode="underline">Risk Summary</content>
+                        </paragraph>
+                        <paragraph>There are no available data on tavaborole topical solution use in pregnant women to inform a drug associated risk for major birth defects, miscarriage or adverse maternal or fetal outcomes. In oral animal reproductive studies, administration of tavaborole during the period of organogenesis resulted in embryofetal toxicity and malformations at 570 times the Maximum Recommended Human Dose (MRHD) based on Area Under the Curve (AUC) comparisons in rats and embryofetal toxicity at 155 times the MRHD based on AUC comparisons in rabbits. Embryofetal toxicity was noted following dermal administration in rabbits up to 36 times the MRHD based on AUC comparisons [<content styleCode="italics">see Data</content>].</paragraph>
+                        <paragraph>The background risk of major birth defects and miscarriage for the indicated population is unknown. All pregnancies carry some risk of birth defect, loss, or other adverse outcomes. The background risk of major birth defects in the U.S. general population is 2% to 4% and of miscarriage is 15% to 20% of clinically recognized pregnancies.</paragraph>
+                        <paragraph>
+                           <content styleCode="underline">Data</content>
+                        </paragraph>
+                        <paragraph>
+                           <content styleCode="italics">Animal Data</content>
+                        </paragraph>
+                        <paragraph>
+                           <content styleCode="italics">Oral administration:</content>
+                        </paragraph>
+                        <paragraph>In an oral embryofetal development study in rats, oral doses of 30, 100, and 300 mg/kg/day tavaborole were administered during the period of organogenesis (gestational days 6-19) to pregnant female rats. In the presence of maternal toxicity, embryofetal toxicity (increased embryofetal resorption and/or deaths) and drug-related skeletal malformations and variations suggestive of delayed development (i.e., a delay in ossification) were noted in fetuses at 300 mg/kg/day tavaborole [570 times the MRHD based on AUC comparisons]. No developmental toxicity was noted in rats at 100 mg/kg/day tavaborole (26 times the MRHD based on AUC comparisons).</paragraph>
+                        <paragraph>In an oral embryofetal development study in rabbits, oral doses of 15, 50, and 150 mg/kg/day tavaborole were administered during the period of organogenesis (gestational days 7-19) to pregnant female rabbits. In the presence of maternal toxicity, excessive embryofetal mortality due to post-implantation loss was noted at 150 mg/kg/day tavaborole. No drug related malformations were noted in rabbits at 150 mg/kg/day tavaborole (155 times the MRHD based on AUC comparisons). No embryofetal mortality was noted in rabbits at 50 mg/kg/day tavaborole (16 times the MRHD based on AUC comparisons).</paragraph>
+                        <paragraph>In an oral pre- and post-natal development study in rats, oral doses of 15, 60, and 100 mg/kg/day tavaborole were administered from the beginning of organogenesis (gestation day 6) through the end of lactation (lactation day 20). In the presence of minimal maternal toxicity, no embryofetal toxicity or effects on postnatal development were noted at 100 mg/kg/day (29 times the MRHD based on AUC comparisons).</paragraph>
+                        <paragraph>
+                           <content styleCode="italics">Topical administration:</content>
+                        </paragraph>
+                        <paragraph>In a dermal embryofetal development study in rabbits, topical doses of 1%, 5%, and 10% tavaborole solution were administered during the period of organogenesis (gestational days 6-28) to pregnant female rabbits. A dose dependent increase in dermal irritation at the treatment site was noted at 5% and 10% tavaborole solution. A decrease in fetal bodyweight was noted at 10% tavaborole solution. No drug related malformations were noted in rabbits at 10% tavaborole solution (36 times the MRHD based on AUC comparisons). No embryofetal toxicity was noted in rabbits at 5% tavaborole solution (26 times the MRHD based on AUC comparisons).</paragraph>
+                     </text>
+                     <effectiveTime value="20201020"/>
+                  </section>
+               </component>
+               <component>
+                  <section ID="ID_cd794668-c516-4616-b56f-a4899339effb">
+                     <id root="cd794668-c516-4616-b56f-a4899339effb"/>
+                     <code code="77290-5" codeSystem="2.16.840.1.113883.6.1" displayName="LACTATION SECTION"/>
+                     <title>8.2 Lactation </title>
+                     <text>
+                        <paragraph>
+                           <content styleCode="underline">Risk Summary</content>
+                        </paragraph>
+                        <paragraph>There is no information available on the presence of tavaborole in human milk, the effects of the drug on the breastfed infant or the effects of the drug on milk production after topical application of tavaborole topical solution to women who are breastfeeding. Tavaborole topical solution is systemically absorbed. The lack of clinical data during lactation precludes a clear determination of the risk of tavaborole topical solution to a breastfed infant. Therefore, the developmental and health benefits of breastfeeding should be considered along with the mother’s clinical need for tavaborole topical solution and any potential adverse effects on the breastfed child from tavaborole topical solution or from the underlying maternal condition.</paragraph>
+                     </text>
+                     <effectiveTime value="20201020"/>
+                  </section>
+               </component>
+               <component>
+                  <section ID="ID_6223ae6d-595e-4b78-9d43-5c7d3824e354">
+                     <id root="6223ae6d-595e-4b78-9d43-5c7d3824e354"/>
+                     <code code="34081-0" codeSystem="2.16.840.1.113883.6.1" displayName="PEDIATRIC USE SECTION"/>
+                     <title>8.4 Pediatric Use </title>
+                     <text>
+                        <paragraph>The safety and efficacy of tavaborole topical solution were established in patients 6 years of age and older. Use of tavaborole topical solution in these age groups is supported by evidence from adequate and well controlled studies of tavaborole topical solution in adults with additional data from an open-label pharmacokinetics study of tavaborole in subjects 12 years to less than 17 years old <content styleCode="italics">[</content>see <content styleCode="italics">Clinical Pharmacology (12.3)].</content>
+                        </paragraph>
+                     </text>
+                     <effectiveTime value="20201020"/>
+                  </section>
+               </component>
+               <component>
+                  <section ID="ID_71228c21-70ab-4038-ab83-5a1c25b08ac6">
+                     <id root="71228c21-70ab-4038-ab83-5a1c25b08ac6"/>
+                     <code code="34082-8" codeSystem="2.16.840.1.113883.6.1" displayName="GERIATRIC USE SECTION"/>
+                     <title>8.5 Geriatric Use </title>
+                     <text>
+                        <paragraph>In clinical trials of 791 subjects who were exposed to tavaborole topical solution, 19% were 65 years of age and over, while 4% were 75 years of age and over. No overall differences in safety or effectiveness were observed between these subjects and younger subjects, but greater sensitivity of some older individuals cannot be ruled out.</paragraph>
+                     </text>
+                     <effectiveTime value="20201020"/>
+                  </section>
+               </component>
+            </section>
+         </component>
+         <component>
+            <section ID="ID_81b2276b-9c4c-464b-bbb6-645a3c15a944">
+               <id root="81b2276b-9c4c-464b-bbb6-645a3c15a944"/>
+               <code code="34089-3" codeSystem="2.16.840.1.113883.6.1" displayName="DESCRIPTION SECTION"/>
+               <title>11 DESCRIPTION </title>
+               <text>
+                  <paragraph>Tavaborole topical solution, 5% contains tavaborole, 5% (w/w) in a clear, colorless alcohol-based solution for topical use. The active ingredient, tavaborole, is an oxaborole antifungal with the chemical name of 5-fluoro-1,3-dihydro-1-hydroxy-2,1-benzoxaborole. The chemical formula is C<sub>7</sub>H<sub>6</sub>BFO<sub>2</sub>, the molecular weight is 151.93 and the structural formula is:</paragraph>
+                  <content styleCode="bold">
+                     <renderMultiMedia ID="id1180470220" referencedObject="d18c53cf-7b4c-40f5-b8fa-906c98d78de9"/>
+                  </content>
+                  <paragraph>Tavaborole is a white to off-white powder. It is slightly soluble in water and freely soluble in ethanol and propylene glycol. </paragraph>
+                  <paragraph>Each mL of tavaborole topical solution contains 43.5 mg of tavaborole. Inactive ingredients include alcohol (73.3% v/v absolute), edetate calcium disodium, and propylene glycol.</paragraph>
+               </text>
+               <effectiveTime value="20201020"/>
+               <component>
+                  <observationMedia ID="d18c53cf-7b4c-40f5-b8fa-906c98d78de9">
+                     <text>chemical-structure</text>
+                     <value mediaType="image/jpeg" xsi:type="ED">
+                        <reference value="image-01.jpg"/>
+                     </value>
+                  </observationMedia>
+               </component>
+            </section>
+         </component>
+         <component>
+            <section ID="ID_6a3549b5-5760-40a7-b16d-75323e4cedef">
+               <id root="6a3549b5-5760-40a7-b16d-75323e4cedef"/>
+               <code code="34090-1" codeSystem="2.16.840.1.113883.6.1" displayName="CLINICAL PHARMACOLOGY SECTION"/>
+               <title>12 CLINICAL PHARMACOLOGY </title>
+               <effectiveTime value="20201020"/>
+               <component>
+                  <section ID="ID_5f984076-efda-48dc-a38a-9124c5b6d99b">
+                     <id root="5f984076-efda-48dc-a38a-9124c5b6d99b"/>
+                     <code code="43679-0" codeSystem="2.16.840.1.113883.6.1" displayName="MECHANISM OF ACTION SECTION"/>
+                     <title>12.1 Mechanism of Action </title>
+                     <text>
+                        <paragraph>Tavaborole is an oxaborole antifungal [see <content styleCode="italics">Clinical Pharmacology (12.4)</content>].</paragraph>
+                     </text>
+                     <effectiveTime value="20201020"/>
+                  </section>
+               </component>
+               <component>
+                  <section ID="ID_b05a6188-1ea7-470b-921b-ffcef915843f">
+                     <id root="b05a6188-1ea7-470b-921b-ffcef915843f"/>
+                     <code code="43681-6" codeSystem="2.16.840.1.113883.6.1" displayName="PHARMACODYNAMICS SECTION"/>
+                     <title>12.2 Pharmacodynamics </title>
+                     <text>
+                        <paragraph>At therapeutic doses, tavaborole topical solution is not expected to prolong QTc to any clinically relevant extent.</paragraph>
+                     </text>
+                     <effectiveTime value="20201020"/>
+                  </section>
+               </component>
+               <component>
+                  <section ID="ID_7ee658ac-e936-4893-a879-c63ca79b881e">
+                     <id root="7ee658ac-e936-4893-a879-c63ca79b881e"/>
+                     <code code="43682-4" codeSystem="2.16.840.1.113883.6.1" displayName="PHARMACOKINETICS SECTION"/>
+                     <title>12.3 Pharmacokinetics </title>
+                     <text>
+                        <paragraph>Tavaborole undergoes extensive metabolism. Renal excretion is the major route of elimination of the metabolites. </paragraph>
+                        <paragraph>In a clinical pharmacology trial of six healthy adult male volunteers who received a single topical application of 5% <sup>14</sup>C-tavaborole solution, tavaborole conjugates and metabolites were shown to be excreted primarily in the urine. </paragraph>
+                        <paragraph>The pharmacokinetics of tavaborole was investigated in 24 adult subjects with distal subungual onychomycosis involving at least 4 toenails (including at least 1 great toenail) following a single dose and a 2-week daily topical application of 200 μL of a 5% solution of tavaborole to all ten toenails and 2 mm of skin surrounding each toenail. Steady state was achieved after 14 days of dosing. After a single dose, the mean (± standard deviation) peak concentration (C<sub>max</sub>) of tavaborole was 3.5 ± 2.3 ng/mL (n=21 with measurable concentrations, range 0.618-10.2 ng/mL, LLOQ=0.5 ng/mL), and the mean AUC<sub>last</sub> ± SD 44.4 ± 25.5 ng*hr/mL (n=21). After 2 weeks of daily dosing, the mean C<sub>max</sub> ± SD was 5.2 ± 3.5 ng/mL (n=24, range 1.51 - 12.8 ng/mL), and the mean AUC<sub>τ</sub> ± SD was 75.8 ± 44.5 ng*hr/mL.</paragraph>
+                        <paragraph>In another study PK of tavaborole was investigated in 22 subjects aged 12 years to less than 17 years with distal subungual onychomycosis involving at least 4 toenails (including at least 1 great toenail with at least 20% involvement) following once daily application of 5% solution of tavaborole to all ten toenails and 2 mm of skin surrounding each toenail for 29 days. On Day 29, the mean ± SD Cmax was 5.9 ± 4.9 ng/mL (n=21 with measurable concentrations, range 1.0 -16.4 ng/mL, LLOQ=0.5 ng/mL), and the mean ± SD AUC0-24 was 76.0 ± 62.5 ng*hr/mL.</paragraph>
+                        <paragraph>
+                           <content styleCode="underline">Drug Interaction Studies</content>
+                        </paragraph>
+                        <paragraph>
+                           <content styleCode="italics">In Vitro Studies</content>
+                        </paragraph>
+                        <paragraph>In vitro studies have shown that tavaborole, at therapeutic concentrations, neither inhibits nor induces cytochrome P450 (CYP450) enzymes.</paragraph>
+                     </text>
+                     <effectiveTime value="20201020"/>
+                  </section>
+               </component>
+               <component>
+                  <section ID="ID_b0bd1e1f-ca86-435b-b219-dd4b11d9605d">
+                     <id root="b0bd1e1f-ca86-435b-b219-dd4b11d9605d"/>
+                     <code code="49489-8" codeSystem="2.16.840.1.113883.6.1" displayName="MICROBIOLOGY SECTION"/>
+                     <title>12.4 Microbiology </title>
+                     <text>
+                        <paragraph>
+                           <content styleCode="bold">Mechanism of Action </content>
+                        </paragraph>
+                        <paragraph>The mechanism of action of tavaborole is inhibition of fungal protein synthesis. Tavaborole inhibits protein synthesis by inhibition of an aminoacyl-transfer ribonucleic acid (tRNA) synthetase (AARS). </paragraph>
+                        <paragraph>
+                           <content styleCode="bold">Activity in vitro and in clinical infections </content>
+                        </paragraph>
+                        <paragraph>Tavaborole has been shown to be active against most strains of the following microorganisms, both in vitro and in clinical infections [see <content styleCode="italics">Indications and Usage (1)</content>]:</paragraph>
+                        <paragraph>
+                           <content styleCode="italics">Trichophyton rubrum </content>
+                        </paragraph>
+                        <paragraph>
+                           <content styleCode="italics">Trichophyton mentagrophytes </content>
+                        </paragraph>
+                        <paragraph>
+                           <content styleCode="bold">Mechanism of Resistance </content>
+                        </paragraph>
+                        <paragraph>
+                           <content styleCode="italics">Trichophyton mentagrophytes </content>and <content styleCode="italics">Trichophyton rubrum </content>strains from isolates collected in the clinical trials have not demonstrated resistance following repeated exposure to tavaborole.</paragraph>
+                     </text>
+                     <effectiveTime value="20201020"/>
+                  </section>
+               </component>
+            </section>
+         </component>
+         <component>
+            <section ID="ID_ca9b628f-a56d-4eeb-8880-a41a4971268f">
+               <id root="ca9b628f-a56d-4eeb-8880-a41a4971268f"/>
+               <code code="43680-8" codeSystem="2.16.840.1.113883.6.1" displayName="NONCLINICAL TOXICOLOGY SECTION"/>
+               <title>13 NONCLINICAL TOXICOLOGY </title>
+               <effectiveTime value="20201020"/>
+               <component>
+                  <section ID="ID_3c24d83e-561c-4f64-95ca-369e86d1cb1a">
+                     <id root="3c24d83e-561c-4f64-95ca-369e86d1cb1a"/>
+                     <code code="34083-6" codeSystem="2.16.840.1.113883.6.1" displayName="CARCINOGENESIS &amp; MUTAGENESIS &amp; IMPAIRMENT OF FERTILITY SECTION"/>
+                     <title>13.1 Carcinogenesis, Mutagenesis, Impairment of Fertility </title>
+                     <text>
+                        <paragraph>In an oral carcinogenicity study in Sprague-Dawley rats, oral doses of 12.5, 25, and 50 mg/kg/day tavaborole were administered to rats once daily for 104 weeks. No drug related neoplastic findings were noted at oral doses up to 50 mg/kg/day tavaborole (14 times the MRHD based on AUC comparisons). </paragraph>
+                        <paragraph>In a dermal carcinogenicity study in CD-1 mice, topical doses of 5%, 10%, and 15% tavaborole solution were administered to mice once daily for 104 weeks. No drug related neoplastic findings were noted at topical doses up to 15% tavaborole solution (89 times the MRHD based on AUC comparisons). </paragraph>
+                        <paragraph>Tavaborole revealed no evidence of mutagenic or clastogenic potential based on the results of two in vitro genotoxicity tests (Ames assay and Human lymphocyte chromosomal aberration assay) and one in vivo genotoxicity test (rat micronucleus assay). </paragraph>
+                        <paragraph>No effects on fertility were observed in male and female rats that were administered oral doses up to 300 mg/kg/day tavaborole (107 times the MRHD based on AUC comparisons) prior to and during early pregnancy.</paragraph>
+                     </text>
+                     <effectiveTime value="20201020"/>
+                  </section>
+               </component>
+            </section>
+         </component>
+         <component>
+            <section ID="ID_53ce8d69-eb8f-4d14-924c-52c39cd83c9f">
+               <id root="53ce8d69-eb8f-4d14-924c-52c39cd83c9f"/>
+               <code code="34092-7" codeSystem="2.16.840.1.113883.6.1" displayName="CLINICAL STUDIES SECTION"/>
+               <title>14 CLINICAL STUDIES </title>
+               <text>
+                  <paragraph>The efficacy and safety of tavaborole topical solution was evaluated in two multicenter, double-blind, randomized, vehicle-controlled trials. Tavaborole topical solution or vehicle was applied once daily for 48 weeks in subjects with 20% to 60% clinical involvement of the target toenail, without dermatophytomas or lunula (matrix) involvement.</paragraph>
+                  <paragraph>A total of 1194 subjects (795 tavaborole topical solution, 399 Vehicle) 18 to 88 years of age, 82% male, 84% white, participated in these two trials. Efficacy assessments were made at 52 weeks following a 48-week treatment period. </paragraph>
+                  <paragraph>The Complete Cure efficacy endpoint included negative mycology (negative KOH wet mount and negative fungal culture) and Completely Clear Nail (no clinical evidence of onychomycosis as evidenced by a normal toenail plate, no onycholysis, and no subungual hyperkeratosis). Efficacy results from the two trials are summarized in Table 2.</paragraph>
+                  <paragraph>
+                     <content styleCode="bold">Table 2: Efficacy Outcomes</content>
+                  </paragraph>
+                  <table cellpadding="0pt" width="463.3pt">
+                     <col width="28%"/>
+                     <col width="22%"/>
+                     <col width="8%"/>
+                     <col width="22%"/>
+                     <col width="18%"/>
+                     <tbody>
+                        <tr>
+                           <td rowspan="2" styleCode="Rrule Botrule Lrule Toprule " valign="middle">
+                              <paragraph>
+                                 <content styleCode="bold">Efficacy Variable</content>
+                              </paragraph>
+                           </td>
+                           <td colspan="2" styleCode="Rrule Botrule Lrule Toprule " valign="top">
+                              <paragraph>
+                                 <content styleCode="bold">Trial 1</content>
+                              </paragraph>
+                           </td>
+                           <td colspan="2" styleCode="Rrule Botrule Lrule Toprule " valign="top">
+                              <paragraph>
+                                 <content styleCode="bold">Trial 2</content>
+                              </paragraph>
+                           </td>
+                        </tr>
+                        <tr>
+                           <td styleCode="Rrule Lrule Toprule Botrule " valign="top">
+                              <paragraph>
+                                 <content styleCode="bold">Tavaborole Topical Solution<br/>N=399<br/>n(%)</content>
+                              </paragraph>
+                           </td>
+                           <td styleCode="Rrule Lrule Toprule Botrule " valign="top">
+                              <paragraph>
+                                 <content styleCode="bold">Vehicle <br/>N=194 <br/>n(%)</content>
+                              </paragraph>
+                           </td>
+                           <td styleCode="Rrule Lrule Toprule Botrule " valign="top">
+                              <paragraph>
+                                 <content styleCode="bold">Tavaborole Topical Solution N=396 <br/>n(%)</content>
+                              </paragraph>
+                           </td>
+                           <td styleCode="Rrule Lrule Toprule Botrule " valign="top">
+                              <paragraph>
+                                 <content styleCode="bold">Vehicle <br/>N=205 <br/>n(%)</content>
+                              </paragraph>
+                           </td>
+                        </tr>
+                        <tr>
+                           <td styleCode="Rrule Lrule Botrule " valign="top">
+                              <paragraph>
+                                 <content styleCode="bold">Complete Cure<sup>a</sup>
+                                 </content>
+                              </paragraph>
+                           </td>
+                           <td styleCode="Rrule Lrule Toprule Botrule " valign="top">
+                              <paragraph>26 (6.5%)</paragraph>
+                           </td>
+                           <td styleCode="Rrule Lrule Toprule Botrule " valign="top">
+                              <paragraph>1 (0.5%)</paragraph>
+                           </td>
+                           <td styleCode="Rrule Lrule Toprule Botrule " valign="top">
+                              <paragraph>36 (9.1%)</paragraph>
+                           </td>
+                           <td styleCode="Rrule Lrule Toprule Botrule " valign="top">
+                              <paragraph>3 (1.5%)</paragraph>
+                           </td>
+                        </tr>
+                        <tr>
+                           <td styleCode="Rrule Lrule Botrule " valign="top">
+                              <paragraph>
+                                 <content styleCode="bold">Complete or Almost Complete Cure<sup>b</sup>
+                                 </content>
+                              </paragraph>
+                           </td>
+                           <td styleCode="Rrule Lrule Toprule Botrule " valign="top">
+                              <paragraph>61 (15.3%)</paragraph>
+                           </td>
+                           <td styleCode="Rrule Lrule Toprule Botrule " valign="top">
+                              <paragraph>3 (1.5%)</paragraph>
+                           </td>
+                           <td styleCode="Rrule Lrule Toprule Botrule " valign="top">
+                              <paragraph>71 (17.9%)</paragraph>
+                           </td>
+                           <td styleCode="Rrule Lrule Toprule Botrule " valign="top">
+                              <paragraph>8 (3.9%)</paragraph>
+                           </td>
+                        </tr>
+                        <tr>
+                           <td styleCode="Rrule Botrule Lrule Toprule " valign="top">
+                              <paragraph>
+                                 <content styleCode="bold">Mycologic Cure<sup>c</sup>
+                                 </content>
+                              </paragraph>
+                           </td>
+                           <td styleCode="Rrule Botrule Lrule Toprule " valign="top">
+                              <paragraph>124 (31.1%)</paragraph>
+                           </td>
+                           <td styleCode="Rrule Botrule Lrule Toprule " valign="top">
+                              <paragraph>14 (7.2%)</paragraph>
+                           </td>
+                           <td styleCode="Rrule Botrule Lrule Toprule " valign="top">
+                              <paragraph>142 (35.9%)</paragraph>
+                           </td>
+                           <td styleCode="Rrule Botrule Lrule Toprule " valign="top">
+                              <paragraph>25 (12.2%)</paragraph>
+                           </td>
+                        </tr>
+                     </tbody>
+                  </table>
+                  <paragraph>
+                     <sup>a.</sup> Complete cure defined as 0% clinical involvement of the target toenail plus negative KOH and negative culture. </paragraph>
+                  <paragraph>
+                     <sup>b.</sup> Complete or almost complete cure defined as ≤10% affected target toenail area involved and negative KOH and culture. </paragraph>
+                  <paragraph>
+                     <sup>c.</sup> Mycologic cure defined as negative KOH and negative culture.</paragraph>
+               </text>
+               <effectiveTime value="20201020"/>
+            </section>
+         </component>
+         <component>
+            <section ID="ID_4185d120-0fd5-4696-829e-d416962883e8">
+               <id root="4185d120-0fd5-4696-829e-d416962883e8"/>
+               <code code="34069-5" codeSystem="2.16.840.1.113883.6.1" displayName="HOW SUPPLIED SECTION"/>
+               <title>16 HOW SUPPLIED/STORAGE AND HANDLING </title>
+               <effectiveTime value="20201020"/>
+               <component>
+                  <section ID="ID_d8b8ac15-d1ca-479b-acff-ede222a407c0">
+                     <id root="d8b8ac15-d1ca-479b-acff-ede222a407c0"/>
+                     <code code="42229-5" codeSystem="2.16.840.1.113883.6.1" displayName="SPL UNCLASSIFIED SECTION"/>
+                     <title>16.1 How Supplied </title>
+                     <text>
+                        <paragraph>Tavaborole topical solution, 5% is a clear, colorless solution supplied in an amber glass bottle with a screw cap. At initial use, the screw cap is replaced with the dropper assembly. </paragraph>
+                        <paragraph>
+                           <content styleCode="bold">This Product Contains Dry Natural Rubber.</content>
+                        </paragraph>
+                        <paragraph>Tavaborole topical solution, 5% is supplied in the following presentations: </paragraph>
+                        <paragraph>NDC 0574-0157-10: One bottle containing 10 mL of solution with one glass pointed-tip dropper.</paragraph>
+                        <paragraph>NDC 0574-0157-04: One bottle containing 4 mL of solution with one glass pointed-tip dropper.</paragraph>
+                     </text>
+                     <effectiveTime value="20201020"/>
+                  </section>
+               </component>
+               <component>
+                  <section ID="ID_e68cedc4-3b57-4eda-a87f-49fabfbab72b">
+                     <id root="e68cedc4-3b57-4eda-a87f-49fabfbab72b"/>
+                     <code code="42229-5" codeSystem="2.16.840.1.113883.6.1" displayName="SPL UNCLASSIFIED SECTION"/>
+                     <title>16.2 Storage and Handling </title>
+                     <text>
+                        <paragraph>Store at 20-25°C (68-77°F) [see USP Controlled Room Temperature]. </paragraph>
+                        <paragraph>CAUTION: Flammable. Keep away from heat and flame. </paragraph>
+                        <paragraph>Discard product within 3 months after insertion of the dropper.</paragraph>
+                        <paragraph>Keep bottle tightly closed. Keep out of reach of children.</paragraph>
+                     </text>
+                     <effectiveTime value="20201020"/>
+                  </section>
+               </component>
+            </section>
+         </component>
+         <component>
+            <section ID="ID_7bf0a4e1-8506-4e1e-af0d-e61002a62bdb">
+               <id root="7bf0a4e1-8506-4e1e-af0d-e61002a62bdb"/>
+               <code code="34076-0" codeSystem="2.16.840.1.113883.6.1" displayName="INFORMATION FOR PATIENTS SECTION"/>
+               <title>17 PATIENT COUNSELING INFORMATION </title>
+               <text>
+                  <paragraph>See FDA-approved patient labeling (Patient Information and Instructions for Use) </paragraph>
+                  <paragraph>The patient should be told the following: </paragraph>
+                  <list listType="unordered">
+                     <item>
+                        <caption>•</caption>The impact of nail polish or other cosmetic nail products on the efficacy of tavaborole topical solution has not been evaluated.</item>
+                     <item>
+                        <caption>•</caption>Inform a health care professional if the area of application shows signs of persistent irritation (for example, redness, itching, swelling).</item>
+                     <item>
+                        <caption>•</caption>Product is flammable. Avoid use near heat or open flame.</item>
+                  </list>
+                  <paragraph>Manufactured by:</paragraph>
+                  <paragraph>Perrigo®</paragraph>
+                  <paragraph>Minneapolis, MN 55427</paragraph>
+                  <paragraph>2203794</paragraph>
+                  <paragraph>Revised: 05/2019</paragraph>
+               </text>
+               <effectiveTime value="20201020"/>
+            </section>
+         </component>
+         <component>
+            <section ID="ID_fdab88dd-9c19-4ddf-be07-1c5162b1d559">
+               <id root="fdab88dd-9c19-4ddf-be07-1c5162b1d559"/>
+               <code code="68498-5" codeSystem="2.16.840.1.113883.6.1" displayName="PATIENT MEDICATION INFORMATION SECTION"/>
+               <title>PATIENT INFORMATION</title>
+               <text>
+                  <paragraph>
+                     <content styleCode="bold">Tavaborole (ta״-va-bor׳-ole)</content>
+                  </paragraph>
+                  <paragraph>
+                     <content styleCode="bold">Topical Solution, 5%</content>
+                  </paragraph>
+                  <paragraph>
+                     <content styleCode="bold">Important information: Tavaborole topical solution is for use on toenails only. </content>Do not use tavaborole topical solution in your mouth, eyes, or vagina.</paragraph>
+                  <paragraph>
+                     <content styleCode="bold">What is tavaborole topical solution?</content>
+                  </paragraph>
+                  <paragraph>Tavaborole topical solution is a prescription medicine used to treat fungal infections of the toenails. </paragraph>
+                  <paragraph>It is not known if tavaborole topical solution is safe and effective in children less than 6 years age.</paragraph>
+                  <paragraph>
+                     <content styleCode="bold">Before using tavaborole topical solution, tell your healthcare provider about all of your medical conditions, including if you:</content>
+                  </paragraph>
+                  <list listType="unordered">
+                     <item>
+                        <caption>•</caption>are pregnant or plan to become pregnant. It is not known if tavaborole topical solution can harm your unborn baby.</item>
+                     <item>
+                        <caption>•</caption>are breastfeeding or plan to breastfeed. It is not known if tavaborole passes into your breast milk. Talk to your healthcare provider about the best way to feed your baby during your treatment with tavaborole topical solution.</item>
+                  </list>
+                  <paragraph>
+                     <content styleCode="bold">Tell your healthcare provider about all the medicines you take, </content>including prescription and over-the‑ counter medicines, vitamins, and herbal supplements.</paragraph>
+                  <paragraph>
+                     <content styleCode="bold">How should I use tavaborole topical solution?</content>
+                  </paragraph>
+                  <paragraph>
+                     <content styleCode="bold">See the “Instructions for Use” at the end of this Patient Information for detailed information about the right way to use tavaborole topical solution.</content>
+                  </paragraph>
+                  <list listType="unordered">
+                     <item>
+                        <caption>•</caption>Use tavaborole topical solution exactly as your healthcare provider tells you to use it.</item>
+                     <item>
+                        <caption>•</caption>Apply tavaborole topical solution to your affected toenails 1 time each day.</item>
+                     <item>
+                        <caption>•</caption>Tavaborole topical solution is used for 48 weeks.</item>
+                     <item>
+                        <caption>•</caption>It is not known if the use of nail polish or other cosmetic nail products (such as gel nails or acrylic nails) will affect how tavaborole topical solution works.</item>
+                  </list>
+                  <paragraph>
+                     <content styleCode="bold">What should I avoid while using tavaborole topical solution?</content>
+                  </paragraph>
+                  <list listType="unordered">
+                     <item>
+                        <caption>•</caption>Tavaborole topical solution is flammable. Avoid heat and flame while applying tavaborole topical solution to your toenail.</item>
+                  </list>
+                  <paragraph>
+                     <content styleCode="bold">What are the possible side effects of tavaborole topical solution?</content>
+                  </paragraph>
+                  <paragraph>The most common side effects of tavaborole topical solution include: skin peeling, ingrown toenail, redness, itching, and swelling. </paragraph>
+                  <paragraph>Tavaborole topical solution may cause irritation at or near the application site. Tell your healthcare provider if you develop irritation at the application site that does not go away. These are not all of the possible side effects of tavaborole topical solution. Call your doctor for medical advice about side effects. You may report side effects to FDA at 1-800-FDA‑ 1088.</paragraph>
+                  <paragraph>
+                     <content styleCode="bold">How should I store tavaborole topical solution?</content>
+                  </paragraph>
+                  <list listType="unordered">
+                     <item>
+                        <caption>•</caption>Store tavaborole topical solution at room temperature, between 68°F to 77°F (20°C to 25°C).</item>
+                     <item>
+                        <caption>•</caption>Tavaborole topical solution is flammable. Keep away from heat and flame.</item>
+                     <item>
+                        <caption>•</caption>Keep the bottle tightly closed.</item>
+                     <item>
+                        <caption>•</caption>Safely throw away tavaborole topical solution after 3 months of inserting the dropper.</item>
+                  </list>
+                  <paragraph>
+                     <content styleCode="bold">Keep tavaborole topical solution and all medicines out of the reach of children.</content>
+                  </paragraph>
+                  <paragraph>
+                     <content styleCode="bold">General information about the safe and effective use of tavaborole topical solution</content>
+                  </paragraph>
+                  <paragraph>Medicines are sometimes prescribed for purposes other than those listed in a Patient Information leaflet. Do not use tavaborole topical solution for a condition for which it was not prescribed. Do not give tavaborole topical solution to other people, even if they have the same symptoms that you have. It may harm them. You can ask your pharmacist or healthcare provider for information about tavaborole topical solution that is written for health professionals.</paragraph>
+                  <paragraph>
+                     <content styleCode="bold">What are the ingredients in tavaborole topical solution?</content>
+                  </paragraph>
+                  <paragraph>
+                     <content styleCode="bold">Active ingredient: </content>tavaborole</paragraph>
+                  <paragraph>
+                     <content styleCode="bold">Inactive ingredients: </content>alcohol (73.3% v/v absolute), edetate calcium disodium, and propylene glycol</paragraph>
+                  <paragraph>Manufactured by: Perrigo®</paragraph>
+                  <paragraph>Minneapolis, MN 55427 </paragraph>
+                  <paragraph>For more information, Perrigo® at 1-866-634-9120 or go to www.perrigo.com.</paragraph>
+                  <paragraph>This Patient Information has been approved by the U.S. Food and Drug Administration.</paragraph>
+                  <paragraph>Issued: 05/2019</paragraph>
+               </text>
+               <effectiveTime value="20201020"/>
+            </section>
+         </component>
+         <component>
+            <section ID="ID_fadf1c0e-b16c-4298-b189-b2759d2f1495">
+               <id root="fadf1c0e-b16c-4298-b189-b2759d2f1495"/>
+               <code code="59845-8" codeSystem="2.16.840.1.113883.6.1" displayName="INSTRUCTIONS FOR USE SECTION"/>
+               <title>Instructions for Use</title>
+               <text>
+                  <paragraph>
+                     <content styleCode="bold">Tavaborole (ta״-va-bor׳-ole)</content>
+                  </paragraph>
+                  <paragraph>
+                     <content styleCode="bold">Topical Solution, 5%</content>
+                  </paragraph>
+                  <table width="100%">
+                     <col width="100%"/>
+                     <tbody>
+                        <tr>
+                           <td styleCode="Rrule Botrule Lrule Toprule " valign="top">
+                              <paragraph>
+                                 <content styleCode="bold">Important information: Tavaborole topical solution is for use on toenails only. </content>Do not use tavaborole topical solution in your mouth, eyes, or vagina. </paragraph>
+                           </td>
+                        </tr>
+                     </tbody>
+                  </table>
+                  <paragraph>Read the Instructions for Use that comes with tavaborole topical solution before you start using it. Talk to your healthcare provider if you have any questions.</paragraph>
+                  <paragraph>
+                     <content styleCode="bold">How to apply tavaborole topical solution:</content>
+                  </paragraph>
+                  <paragraph>Your toenails should be clean and dry before you apply tavaborole topical solution.</paragraph>
+                  <list listType="ordered">
+                     <item>
+                        <caption> </caption>
+                        <content styleCode="bold">Step 1: </content>Before you apply tavaborole topical solution to your affected toenail for the first time, remove the cap from the tavaborole topical solution bottle. <content styleCode="bold">(See Figure A) </content>Throw away the cap.</item>
+                     <item>
+                        <caption> </caption>
+                        <content styleCode="bold">Step 2: </content>Remove the wrapping from the dropper that comes with tavaborole topical solution. Insert the dropper into the tavaborole topical solution bottle. <content styleCode="bold">(See Figure B)</content>
+                     </item>
+                  </list>
+                  <renderMultiMedia ID="id399575969" referencedObject="ID_73c742d1-33c6-4641-a54c-f21290a86e5e"/>
+                  <list listType="ordered">
+                     <item>
+                        <caption> </caption>
+                        <content styleCode="bold">Figure A</content>
+                     </item>
+                  </list>
+                  <renderMultiMedia ID="id1988737856" referencedObject="ID_8d743c16-ea3f-46a7-aaf1-d9eb047ce7d6"/>
+                  <paragraph>
+                     <content styleCode="bold">Figure B</content>
+                  </paragraph>
+                  <paragraph>Only apply tavaborole topical solution using the provided dropper. Do not use the dropper for any other purpose.</paragraph>
+                  <paragraph>
+                     <content styleCode="bold">Step 3: </content>With the dropper inserted into the tavaborole topical solution, squeeze the bulb and then release the bulb to draw tavaborole topical solution into the dropper.</paragraph>
+                  <paragraph>
+                     <content styleCode="bold">Step 4: </content>Remove the dropper from the bottle and hold the dropper tip over your affected toenail.</paragraph>
+                  <paragraph>
+                     <content styleCode="bold">Step 5: </content>Slowly squeeze the bulb to apply tavaborole topical solution to your toenail. Apply enough solution to completely cover your toenail. You may need to use more than one drop. <content styleCode="bold">(See Figure C)</content>
+                  </paragraph>
+                  <renderMultiMedia ID="id1799643441" referencedObject="ID_7f0ca56a-70c0-4675-8876-2d536dffb73a"/>
+                  <list listType="ordered">
+                     <item>
+                        <caption> </caption>
+                        <content styleCode="bold">Figure C</content>
+                     </item>
+                  </list>
+                  <paragraph>
+                     <content styleCode="bold">Step 6: </content>Use the dropper tip to gently spread tavaborole topical solution to cover the entire toenail up to the edges of the toenail. <content styleCode="bold">(See Figure D)</content>
+                  </paragraph>
+                  <content styleCode="bold">
+                     <renderMultiMedia ID="id888697176" referencedObject="edb423ef-1daf-4611-bf93-40894ca9f96a"/>
+                  </content>
+                  <paragraph>
+                     <content styleCode="bold">Figure D</content>
+                  </paragraph>
+                  <paragraph>
+                     <content styleCode="bold">Step 7: </content>In addition to the top of the toenail, also apply tavaborole topical solution under the tip of the toenail. Use the dropper tip to gently spread tavaborole topical solution under the entire tip of the toenail. <content styleCode="bold">(See Figures E and F)</content>
+                  </paragraph>
+                  <renderMultiMedia ID="id-344244538" referencedObject="ID_84f4e785-41ea-4cbf-960b-38de13871d5d"/>
+                  <paragraph>
+                     <content styleCode="bold">Figure E</content>
+                  </paragraph>
+                  <renderMultiMedia ID="id942336857" referencedObject="ID_93d3382f-4d01-4ef5-bef5-8d0b0c4d86f2"/>
+                  <paragraph>
+                     <content styleCode="bold">Figure F</content>
+                  </paragraph>
+                  <paragraph>
+                     <content styleCode="bold">Step 8: </content>Repeat Steps 3 to 7 to apply tavaborole topical solution to each affected toenail.</paragraph>
+                  <paragraph>
+                     <content styleCode="bold">Step 9: </content>Let the tavaborole topical solution dry completely. This may take a couple of minutes.</paragraph>
+                  <paragraph>Avoid getting tavaborole topical solution on skin that is not surrounding the treated toenail(s). If tavaborole topical solution comes in contact with surrounding skin, use a tissue to wipe any excess solution from the surrounding skin. <content styleCode="bold">Do not wipe tavaborole topical solution off of your toenails.</content>
+                  </paragraph>
+                  <paragraph>
+                     <content styleCode="bold">Step 10</content>: After applying tavaborole topical solution to your toenails, insert the dropper back into the bottle and screw it on tightly.</paragraph>
+                  <paragraph>
+                     <content styleCode="bold">Step 11: </content>Wash your hands with soap and water after applying tavaborole topical solution.</paragraph>
+                  <paragraph>This Patient Information and Instructions for Use has been approved by the U.S. Food and Drug Administration.</paragraph>
+                  <paragraph>Manufactured by: Perrigo®</paragraph>
+                  <paragraph>Minneapolis, MN 55427</paragraph>
+                  <paragraph>Revised: 05/2019</paragraph>
+               </text>
+               <effectiveTime value="20201020"/>
+               <component>
+                  <observationMedia ID="ID_73c742d1-33c6-4641-a54c-f21290a86e5e">
+                     <text>figure-a</text>
+                     <value mediaType="image/jpeg" xsi:type="ED">
+                        <reference value="figure-a.jpg"/>
+                     </value>
+                  </observationMedia>
+               </component>
+               <component>
+                  <observationMedia ID="ID_8d743c16-ea3f-46a7-aaf1-d9eb047ce7d6">
+                     <text>figure-b</text>
+                     <value mediaType="image/jpeg" xsi:type="ED">
+                        <reference value="figure-b.jpg"/>
+                     </value>
+                  </observationMedia>
+               </component>
+               <component>
+                  <observationMedia ID="ID_7f0ca56a-70c0-4675-8876-2d536dffb73a">
+                     <text>figure-c</text>
+                     <value mediaType="image/jpeg" xsi:type="ED">
+                        <reference value="figure-c.jpg"/>
+                     </value>
+                  </observationMedia>
+               </component>
+               <component>
+                  <observationMedia ID="edb423ef-1daf-4611-bf93-40894ca9f96a">
+                     <text>figure-d</text>
+                     <value mediaType="image/jpeg" xsi:type="ED">
+                        <reference value="figure-d.jpg"/>
+                     </value>
+                  </observationMedia>
+               </component>
+               <component>
+                  <observationMedia ID="ID_84f4e785-41ea-4cbf-960b-38de13871d5d">
+                     <text>figure-e</text>
+                     <value mediaType="image/jpeg" xsi:type="ED">
+                        <reference value="figure-e.jpg"/>
+                     </value>
+                  </observationMedia>
+               </component>
+               <component>
+                  <observationMedia ID="ID_93d3382f-4d01-4ef5-bef5-8d0b0c4d86f2">
+                     <text>figure-f</text>
+                     <value mediaType="image/jpeg" xsi:type="ED">
+                        <reference value="figure-f.jpg"/>
+                     </value>
+                  </observationMedia>
+               </component>
+            </section>
+         </component>
+         <component>
+            <section ID="ID_d2dcf38b-a160-4133-ab5b-4d2c944a4de6">
+               <id root="d2dcf38b-a160-4133-ab5b-4d2c944a4de6"/>
+               <code code="51945-4" codeSystem="2.16.840.1.113883.6.1" displayName="PACKAGE LABEL.PRINCIPAL DISPLAY PANEL"/>
+               <title>PACKAGE/LABEL PRINCIPAL DISPLAY PANEL </title>
+               <text>
+                  <paragraph>Rx Only</paragraph>
+                  <paragraph>NDC 0574-0157-04</paragraph>
+                  <paragraph>Tavaborole Topical Solution</paragraph>
+                  <paragraph>5%</paragraph>
+                  <paragraph>For Topical Use Only</paragraph>
+                  <paragraph>Not for oral, ophthalmic or intravaginal use</paragraph>
+                  <paragraph>This Product Contains Dry Natural Rubber.</paragraph>
+                  <paragraph>4 mL</paragraph>
+                  <paragraph>Perrigo®</paragraph>
+                  <renderMultiMedia ID="id1276440771" referencedObject="ID_722be15f-b298-4514-b68d-70b5215ff658"/>
+               </text>
+               <effectiveTime value="20201020"/>
+               <component>
+                  <observationMedia ID="ID_722be15f-b298-4514-b68d-70b5215ff658">
+                     <text>tavaborole-ctn-05-19</text>
+                     <value mediaType="image/jpeg" xsi:type="ED">
+                        <reference value="tavaborole-ctn-05-19.jpg"/>
+                     </value>
+                  </observationMedia>
+               </component>
+            </section>
+         </component>
+      </structuredBody>
+   </component>
+</document>

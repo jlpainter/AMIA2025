@@ -1,0 +1,1920 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet href="https://www.accessdata.fda.gov/spl/stylesheet/spl.xsl" type="text/xsl"?>
+<document xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:hl7-org:v3 https://www.accessdata.fda.gov/spl/schema/spl.xsd">
+   <id root="c8018585-1855-4cbe-a324-9b1c59b3650b"/>
+   <code code="34391-3" codeSystem="2.16.840.1.113883.6.1" displayName="HUMAN PRESCRIPTION DRUG LABEL"/>
+   <title>These highlights do not include all the information needed to use DAXXIFY safely and effectively. See full prescribing information for DAXXIFY. <br/>
+      <br/>DAXXIFY<sup>®</sup> (daxibotulinumtoxinA-lanm) for injection, for intramuscular use <br/>Initial U.S. Approval: 2022</title>
+   <effectiveTime value="20240124"/>
+   <setId root="3aaa6e14-a3f7-4fb2-b9f9-d3a9c3ae1f74"/>
+   <versionNumber value="10"/>
+   <author>
+      <time/>
+      <assignedEntity>
+         <representedOrganization>
+            <id root="1.3.6.1.4.1.519.1" extension="113114321"/>
+            <name>Revance Therapeutics, Inc.</name>
+            <assignedEntity>
+               <assignedOrganization>
+                  <assignedEntity>
+                     <assignedOrganization>
+                        <id root="1.3.6.1.4.1.519.1" extension="023050730"/>
+                        <name>Ajinomoto Althea, Inc. DBA Ajinomoto Bio-Pharma Services</name>
+                     </assignedOrganization>
+                     <performance>
+                        <actDefinition>
+                           <code code="C43360" displayName="manufacture" codeSystem="2.16.840.1.113883.3.26.1.1"/>
+                           <product>
+                              <manufacturedProduct classCode="MANU">
+                                 <manufacturedMaterialKind>
+                                    <code code="72960-112" codeSystem="2.16.840.1.113883.6.69"/>
+                                 </manufacturedMaterialKind>
+                              </manufacturedProduct>
+                           </product>
+                        </actDefinition>
+                     </performance>
+                  </assignedEntity>
+                  <assignedEntity>
+                     <assignedOrganization>
+                        <id root="1.3.6.1.4.1.519.1" extension="118195550"/>
+                        <name>Revance Therapeutics, Inc.</name>
+                     </assignedOrganization>
+                     <performance>
+                        <actDefinition>
+                           <code code="C82401" displayName="api manufacture" codeSystem="2.16.840.1.113883.3.26.1.1"/>
+                           <product>
+                              <manufacturedProduct classCode="MANU">
+                                 <manufacturedMaterialKind>
+                                    <code code="72960-112" codeSystem="2.16.840.1.113883.6.69"/>
+                                 </manufacturedMaterialKind>
+                              </manufacturedProduct>
+                           </product>
+                        </actDefinition>
+                     </performance>
+                     <performance>
+                        <actDefinition>
+                           <code code="C43360" displayName="manufacture" codeSystem="2.16.840.1.113883.3.26.1.1"/>
+                           <product>
+                              <manufacturedProduct classCode="MANU">
+                                 <manufacturedMaterialKind>
+                                    <code code="72960-112" codeSystem="2.16.840.1.113883.6.69"/>
+                                 </manufacturedMaterialKind>
+                              </manufacturedProduct>
+                           </product>
+                        </actDefinition>
+                     </performance>
+                     <performance>
+                        <actDefinition>
+                           <code code="C25391" displayName="analysis" codeSystem="2.16.840.1.113883.3.26.1.1"/>
+                           <product>
+                              <manufacturedProduct classCode="MANU">
+                                 <manufacturedMaterialKind>
+                                    <code code="72960-112" codeSystem="2.16.840.1.113883.6.69"/>
+                                 </manufacturedMaterialKind>
+                              </manufacturedProduct>
+                           </product>
+                        </actDefinition>
+                     </performance>
+                  </assignedEntity>
+                  <assignedEntity>
+                     <assignedOrganization>
+                        <id root="1.3.6.1.4.1.519.1" extension="963589036"/>
+                        <name>A+ Secure Packaging, LLC</name>
+                     </assignedOrganization>
+                     <performance>
+                        <actDefinition>
+                           <code code="C84732" displayName="label" codeSystem="2.16.840.1.113883.3.26.1.1"/>
+                           <product>
+                              <manufacturedProduct classCode="MANU">
+                                 <manufacturedMaterialKind>
+                                    <code code="72960-112" codeSystem="2.16.840.1.113883.6.69"/>
+                                 </manufacturedMaterialKind>
+                              </manufacturedProduct>
+                           </product>
+                        </actDefinition>
+                     </performance>
+                     <performance>
+                        <actDefinition>
+                           <code code="C84731" displayName="pack" codeSystem="2.16.840.1.113883.3.26.1.1"/>
+                           <product>
+                              <manufacturedProduct classCode="MANU">
+                                 <manufacturedMaterialKind>
+                                    <code code="72960-112" codeSystem="2.16.840.1.113883.6.69"/>
+                                 </manufacturedMaterialKind>
+                              </manufacturedProduct>
+                           </product>
+                        </actDefinition>
+                     </performance>
+                  </assignedEntity>
+               </assignedOrganization>
+            </assignedEntity>
+         </representedOrganization>
+      </assignedEntity>
+   </author>
+   <component>
+      <structuredBody>
+         <component>
+            <section>
+               <id root="e7057f2e-e828-4f79-ad81-d2ded35b4166"/>
+               <code code="48780-1" codeSystem="2.16.840.1.113883.6.1" displayName="SPL product data elements section"/>
+               <effectiveTime value="20231108"/>
+               <subject>
+                  <manufacturedProduct>
+                     <manufacturedProduct>
+                        <code code="72960-112" codeSystem="2.16.840.1.113883.6.69"/>
+                        <name>DAXXIFY</name>
+                        <formCode code="C42957" codeSystem="2.16.840.1.113883.3.26.1.1" displayName="INJECTION, POWDER, LYOPHILIZED, FOR SOLUTION"/>
+                        <asEntityWithGeneric>
+                           <genericMedicine>
+                              <name>botulinum toxin type A</name>
+                           </genericMedicine>
+                        </asEntityWithGeneric>
+                        <ingredient classCode="IACT">
+                           <quantity>
+                              <numerator unit="mg" value="0.14"/>
+                              <denominator unit="mL" value="1.2"/>
+                           </quantity>
+                           <ingredientSubstance>
+                              <code code="4QD397987E" codeSystem="2.16.840.1.113883.4.9"/>
+                              <name>HISTIDINE</name>
+                           </ingredientSubstance>
+                        </ingredient>
+                        <ingredient classCode="IACT">
+                           <quantity>
+                              <numerator unit="mg" value="36"/>
+                              <denominator unit="mL" value="1.2"/>
+                           </quantity>
+                           <ingredientSubstance>
+                              <code code="7YIN7J07X4" codeSystem="2.16.840.1.113883.4.9"/>
+                              <name>TREHALOSE DIHYDRATE</name>
+                           </ingredientSubstance>
+                        </ingredient>
+                        <ingredient classCode="IACT">
+                           <quantity>
+                              <numerator unit="mg" value="0.1"/>
+                              <denominator unit="mL" value="1.2"/>
+                           </quantity>
+                           <ingredientSubstance>
+                              <code code="7T1F30V5YH" codeSystem="2.16.840.1.113883.4.9"/>
+                              <name>POLYSORBATE 20</name>
+                           </ingredientSubstance>
+                        </ingredient>
+                        <ingredient classCode="ACTIB">
+                           <quantity>
+                              <numerator unit="U" value="100"/>
+                              <denominator unit="mL" value="1.2"/>
+                           </quantity>
+                           <ingredientSubstance>
+                              <code code="E211KPY694" codeSystem="2.16.840.1.113883.4.9"/>
+                              <name>BOTULINUM TOXIN TYPE A</name>
+                              <activeMoiety>
+                                 <activeMoiety>
+                                    <code code="E211KPY694" codeSystem="2.16.840.1.113883.4.9"/>
+                                    <name>BOTULINUM TOXIN TYPE A</name>
+                                 </activeMoiety>
+                              </activeMoiety>
+                           </ingredientSubstance>
+                        </ingredient>
+                        <asContent>
+                           <quantity>
+                              <numerator value="1.2" unit="mL"/>
+                              <denominator value="1"/>
+                           </quantity>
+                           <containerPackagedProduct>
+                              <code/>
+                              <formCode code="C43216" codeSystem="2.16.840.1.113883.3.26.1.1" displayName="VIAL, SINGLE-USE"/>
+                              <asContent>
+                                 <quantity>
+                                    <numerator value="1" unit="1"/>
+                                    <denominator value="1"/>
+                                 </quantity>
+                                 <containerPackagedProduct>
+                                    <code code="72960-112-01" codeSystem="2.16.840.1.113883.6.69"/>
+                                    <formCode code="C43182" codeSystem="2.16.840.1.113883.3.26.1.1" displayName="CARTON"/>
+                                 </containerPackagedProduct>
+                                 <subjectOf>
+                                    <marketingAct>
+                                       <code code="C53292" codeSystem="2.16.840.1.113883.3.26.1.1"/>
+                                       <statusCode code="active"/>
+                                       <effectiveTime>
+                                          <low value="20220920"/>
+                                       </effectiveTime>
+                                    </marketingAct>
+                                 </subjectOf>
+                              </asContent>
+                           </containerPackagedProduct>
+                           <subjectOf>
+                              <characteristic>
+                                 <code code="SPLCMBPRDTP" codeSystem="2.16.840.1.113883.1.11.19255"/>
+                                 <value code="C112160" codeSystem="2.16.840.1.113883.3.26.1.1" displayName="Type 0: Not a Combination Product" xsi:type="CV"/>
+                              </characteristic>
+                           </subjectOf>
+                        </asContent>
+                        <asContent>
+                           <quantity>
+                              <numerator value="1.2" unit="mL"/>
+                              <denominator value="1"/>
+                           </quantity>
+                           <containerPackagedProduct>
+                              <code/>
+                              <formCode code="C43216" codeSystem="2.16.840.1.113883.3.26.1.1" displayName="VIAL, SINGLE-USE"/>
+                              <asContent>
+                                 <quantity>
+                                    <numerator value="1" unit="1"/>
+                                    <denominator value="1"/>
+                                 </quantity>
+                                 <containerPackagedProduct>
+                                    <code code="72960-112-02" codeSystem="2.16.840.1.113883.6.69"/>
+                                    <formCode code="C43182" codeSystem="2.16.840.1.113883.3.26.1.1" displayName="CARTON"/>
+                                 </containerPackagedProduct>
+                                 <subjectOf>
+                                    <marketingAct>
+                                       <code code="C96974" codeSystem="2.16.840.1.113883.3.26.1.1"/>
+                                       <statusCode code="active"/>
+                                       <effectiveTime>
+                                          <low value="20220920"/>
+                                       </effectiveTime>
+                                    </marketingAct>
+                                 </subjectOf>
+                              </asContent>
+                           </containerPackagedProduct>
+                           <subjectOf>
+                              <characteristic>
+                                 <code code="SPLCMBPRDTP" codeSystem="2.16.840.1.113883.1.11.19255"/>
+                                 <value code="C112160" codeSystem="2.16.840.1.113883.3.26.1.1" displayName="Type 0: Not a Combination Product" xsi:type="CV"/>
+                              </characteristic>
+                           </subjectOf>
+                        </asContent>
+                        <asContent>
+                           <quantity>
+                              <numerator value="1.2" unit="mL"/>
+                              <denominator value="1"/>
+                           </quantity>
+                           <containerPackagedProduct>
+                              <code/>
+                              <formCode code="C43216" codeSystem="2.16.840.1.113883.3.26.1.1" displayName="VIAL, SINGLE-USE"/>
+                              <asContent>
+                                 <quantity>
+                                    <numerator value="1" unit="1"/>
+                                    <denominator value="1"/>
+                                 </quantity>
+                                 <containerPackagedProduct>
+                                    <code code="72960-112-05" codeSystem="2.16.840.1.113883.6.69"/>
+                                    <formCode code="C43182" codeSystem="2.16.840.1.113883.3.26.1.1" displayName="CARTON"/>
+                                 </containerPackagedProduct>
+                                 <subjectOf>
+                                    <marketingAct>
+                                       <code code="C53292" codeSystem="2.16.840.1.113883.3.26.1.1"/>
+                                       <statusCode code="active"/>
+                                       <effectiveTime>
+                                          <low value="20220920"/>
+                                       </effectiveTime>
+                                    </marketingAct>
+                                 </subjectOf>
+                              </asContent>
+                           </containerPackagedProduct>
+                           <subjectOf>
+                              <characteristic>
+                                 <code code="SPLCMBPRDTP" codeSystem="2.16.840.1.113883.1.11.19255"/>
+                                 <value code="C112160" codeSystem="2.16.840.1.113883.3.26.1.1" displayName="Type 0: Not a Combination Product" xsi:type="CV"/>
+                              </characteristic>
+                           </subjectOf>
+                        </asContent>
+                        <asContent>
+                           <quantity>
+                              <numerator value="1.2" unit="mL"/>
+                              <denominator value="1"/>
+                           </quantity>
+                           <containerPackagedProduct>
+                              <code/>
+                              <formCode code="C43216" codeSystem="2.16.840.1.113883.3.26.1.1" displayName="VIAL, SINGLE-USE"/>
+                              <asContent>
+                                 <quantity>
+                                    <numerator value="1" unit="1"/>
+                                    <denominator value="1"/>
+                                 </quantity>
+                                 <containerPackagedProduct>
+                                    <code code="72960-112-06" codeSystem="2.16.840.1.113883.6.69"/>
+                                    <formCode code="C43182" codeSystem="2.16.840.1.113883.3.26.1.1" displayName="CARTON"/>
+                                 </containerPackagedProduct>
+                                 <subjectOf>
+                                    <marketingAct>
+                                       <code code="C96974" codeSystem="2.16.840.1.113883.3.26.1.1"/>
+                                       <statusCode code="active"/>
+                                       <effectiveTime>
+                                          <low value="20220920"/>
+                                       </effectiveTime>
+                                    </marketingAct>
+                                 </subjectOf>
+                              </asContent>
+                           </containerPackagedProduct>
+                           <subjectOf>
+                              <characteristic>
+                                 <code code="SPLCMBPRDTP" codeSystem="2.16.840.1.113883.1.11.19255"/>
+                                 <value code="C112160" codeSystem="2.16.840.1.113883.3.26.1.1" displayName="Type 0: Not a Combination Product" xsi:type="CV"/>
+                              </characteristic>
+                           </subjectOf>
+                        </asContent>
+                     </manufacturedProduct>
+                     <subjectOf>
+                        <approval>
+                           <id extension="BLA761127" root="2.16.840.1.113883.3.150"/>
+                           <code code="C73585" codeSystem="2.16.840.1.113883.3.26.1.1" displayName="BLA"/>
+                           <author>
+                              <territorialAuthority>
+                                 <territory>
+                                    <code code="USA" codeSystem="2.16.840.1.113883.5.28"/>
+                                 </territory>
+                              </territorialAuthority>
+                           </author>
+                        </approval>
+                     </subjectOf>
+                     <subjectOf>
+                        <marketingAct>
+                           <code code="C53292" codeSystem="2.16.840.1.113883.3.26.1.1"/>
+                           <statusCode code="active"/>
+                           <effectiveTime>
+                              <low value="20220920"/>
+                           </effectiveTime>
+                        </marketingAct>
+                     </subjectOf>
+                     <consumedIn>
+                        <substanceAdministration>
+                           <routeCode code="C28161" codeSystem="2.16.840.1.113883.3.26.1.1" displayName="INTRAMUSCULAR"/>
+                        </substanceAdministration>
+                     </consumedIn>
+                  </manufacturedProduct>
+               </subject>
+            </section>
+         </component>
+         <component>
+            <section ID="BOX">
+               <id root="b81148e5-3c06-4b67-883c-6ad1b95466b0"/>
+               <code code="34066-1" codeSystem="2.16.840.1.113883.6.1" displayName="BOXED WARNING SECTION"/>
+               <title>
+                  <content styleCode="emphasis">WARNING: DISTANT SPREAD OF TOXIN EFFECT</content>
+               </title>
+               <text>
+                  <paragraph>
+                     <content styleCode="xmChange">
+                        <content styleCode="bold">The effects of all botulinum toxin products, including DAXXIFY, may spread from the area of injection to produce symptoms consistent with botulinum toxin effects. These symptoms have been reported hours to weeks after injection. Swallowing and breathing difficulties can be life-threatening, and there have been reports of death. The risk of symptoms is probably greatest in children treated for spasticity, an unapproved use for DAXXIFY, but symptoms can also occur in adults, particularly in those patients who have an underlying condition that would predispose them to these symptoms <content styleCode="italics">[see <linkHtml href="#S5.1">Warnings and Precautions (5.1)</linkHtml>].</content>
+                        </content>
+                     </content>
+                  </paragraph>
+               </text>
+               <effectiveTime value="20231108"/>
+               <excerpt>
+                  <highlight>
+                     <text>
+                        <paragraph>WARNING: DISTANT SPREAD OF TOXIN EFFECT</paragraph>
+                        <paragraph>
+                           <content styleCode="italics">See full prescribing information for complete boxed warning.</content>
+                        </paragraph>
+                        <paragraph>
+                           <content styleCode="bold">The effects of DAXXIFY and all botulinum toxin products may spread from the area of injection to produce symptoms consistent with botulinum toxin effects. These symptoms have been reported hours to weeks after injection. Swallowing and breathing difficulties can be life-threatening, and there have been reports of death. The risk of symptoms is probably greatest in children treated for spasticity, an unapproved use for DAXXIFY, but symptoms can also occur in adults, particularly in those patients who have an underlying condition that would predispose them to these symptoms. (<linkHtml href="#S5.1">5.1</linkHtml>)</content>
+                        </paragraph>
+                     </text>
+                  </highlight>
+               </excerpt>
+            </section>
+         </component>
+         <component>
+            <section>
+               <id root="74edf490-049b-4d4b-9615-fff2e3b40cbb"/>
+               <code code="43683-2" codeSystem="2.16.840.1.113883.6.1" displayName="RECENT MAJOR CHANGES SECTION"/>
+               <effectiveTime value="20231108"/>
+               <excerpt>
+                  <highlight>
+                     <text>
+                        <table width="100%" styleCode="Noautorules">
+                           <col width="80%" align="left" valign="bottom"/>
+                           <col width="20%" align="right" valign="bottom"/>
+                           <tbody>
+                              <tr>
+                                 <td>
+                                    <linkHtml href="#BOX">Boxed Warning</linkHtml>
+                                 </td>
+                                 <td>8/2023</td>
+                              </tr>
+                              <tr>
+                                 <td>Indications and Usage (<linkHtml href="#S1">1</linkHtml>)</td>
+                                 <td>8/2023 </td>
+                              </tr>
+                              <tr>
+                                 <td>Dosage and Administration (<linkHtml href="#S2.1">2.1</linkHtml>,<linkHtml href="#S2.3"> 2.3</linkHtml>, <linkHtml href="#S2.4">2.4</linkHtml>)</td>
+                                 <td>8/2023 </td>
+                              </tr>
+                              <tr>
+                                 <td>Warnings and Precautions (<linkHtml href="#S5.1">5.1</linkHtml>)</td>
+                                 <td> 8/2023</td>
+                              </tr>
+                           </tbody>
+                        </table>
+                     </text>
+                  </highlight>
+               </excerpt>
+            </section>
+         </component>
+         <component>
+            <section ID="S1">
+               <id root="f51f1a93-74fd-475b-9646-2c06e8971d3d"/>
+               <code code="34067-9" codeSystem="2.16.840.1.113883.6.1" displayName="INDICATIONS &amp; USAGE SECTION"/>
+               <title>1 INDICATIONS AND USAGE</title>
+               <effectiveTime value="20231108"/>
+               <excerpt>
+                  <highlight>
+                     <text>
+                        <paragraph>DAXXIFY is an acetylcholine release inhibitor and neuromuscular-blocking agent indicated for:</paragraph>
+                        <list listType="unordered" styleCode="disc">
+                           <item>Temporary improvement in the appearance of moderate to severe glabellar lines associated with corrugator and/ or procerus muscle activity in adult patients. (<linkHtml href="#S1.1">1.1</linkHtml>)</item>
+                           <item>The treatment of cervical dystonia in adult patients. (<linkHtml href="#S1.2">1.2</linkHtml>)</item>
+                        </list>
+                     </text>
+                  </highlight>
+               </excerpt>
+               <component>
+                  <section ID="S1.1">
+                     <id root="1399acd9-9be7-4305-b02e-e5cc21c4648c"/>
+                     <code code="42229-5" codeSystem="2.16.840.1.113883.6.1" displayName="SPL UNCLASSIFIED SECTION"/>
+                     <title>1.1	Glabellar Lines</title>
+                     <text>
+                        <paragraph>DAXXIFY is indicated for the temporary improvement in the appearance of moderate to severe glabellar lines associated with corrugator and/or procerus muscle activity in adult patients.</paragraph>
+                     </text>
+                     <effectiveTime value="20231108"/>
+                  </section>
+               </component>
+               <component>
+                  <section ID="S1.2">
+                     <id root="88c76acc-e7aa-48a3-9279-ba8feb88f04f"/>
+                     <code code="42229-5" codeSystem="2.16.840.1.113883.6.1" displayName="SPL UNCLASSIFIED SECTION"/>
+                     <title>1.2	Cervical Dystonia</title>
+                     <text>
+                        <paragraph>
+                           <content styleCode="xmChange">DAXXIFY is indicated for the treatment of cervical dystonia in adult patients.</content>
+                        </paragraph>
+                     </text>
+                     <effectiveTime value="20231108"/>
+                  </section>
+               </component>
+            </section>
+         </component>
+         <component>
+            <section ID="S2">
+               <id root="395cfc94-1e00-4e6e-8021-b884bf1b695b"/>
+               <code code="34068-7" codeSystem="2.16.840.1.113883.6.1" displayName="DOSAGE &amp; ADMINISTRATION SECTION"/>
+               <title>2 DOSAGE AND ADMINISTRATION</title>
+               <effectiveTime value="20231108"/>
+               <excerpt>
+                  <highlight>
+                     <text>
+                        <paragraph>
+                           <content styleCode="underline">Glabellar Lines</content>: the recommended dose is 0.1 mL (8 Units) by intramuscular injection into each of five sites, for a total dose of 40 Units. (<linkHtml href="#S2.2">2.2</linkHtml>)</paragraph>
+                        <paragraph>
+                           <content styleCode="underline">Cervical Dystonia</content>: the recommended dose is 125 Units to 250 Units given intramuscularly as a divided dose among affected muscles. (<linkHtml href="#S2.3">2.3</linkHtml>)</paragraph>
+                     </text>
+                  </highlight>
+               </excerpt>
+               <component>
+                  <section ID="S2.1">
+                     <id root="df0a6d8d-eb9d-46e4-aaca-c7fc2e013404"/>
+                     <code code="42229-5" codeSystem="2.16.840.1.113883.6.1" displayName="SPL UNCLASSIFIED SECTION"/>
+                     <title>2.1	Important Administration Instructions</title>
+                     <text>
+                        <paragraph>
+                           <content styleCode="xmChange">The potency units of DAXXIFY for injection are specific to the preparation and test method utilized. They are not interchangeable with other preparations of botulinum toxin products, and, therefore, units of biological activity of DAXXIFY cannot be compared to, or converted into, units of any other botulinum toxin products assessed with any other specific test method <content styleCode="italics">[see <linkHtml href="#S5.2">Warnings and Precautions (5.2)</linkHtml> and <linkHtml href="#S11">Description (11)</linkHtml>].</content>
+                           </content>
+                        </paragraph>
+                        <paragraph>The safe and effective use of DAXXIFY depends upon proper storage of the product, selection of the correct dose, and proper reconstitution and administration techniques.</paragraph>
+                        <paragraph>DAXXIFY should be administered no more frequently than every three months for any indication. Consideration of the cumulative dose is necessary when treating adult patients with DAXXIFY. Physicians should be aware of whether patients are receiving treatment with other botulinum toxin products for other indications.</paragraph>
+                        <paragraph>Reconstituted DAXXIFY is intended for intramuscular injection only.</paragraph>
+                        <paragraph>After reconstitution, only use each DAXXIFY vial for only one injection session and for only one patient. Discard any remaining solution in vial immediately after administration.</paragraph>
+                        <paragraph>Reconstitution instructions are provided specifically for the 50 Unit and the 100 Unit vials (Table 1; Table 2).</paragraph>
+                     </text>
+                     <effectiveTime value="20231108"/>
+                  </section>
+               </component>
+               <component>
+                  <section ID="S2.2">
+                     <id root="bdae9893-0031-4b6d-b565-3dcbbc149ab2"/>
+                     <code code="42229-5" codeSystem="2.16.840.1.113883.6.1" displayName="SPL UNCLASSIFIED SECTION"/>
+                     <title>2.2	Recommended Dosage and Administration for Glabellar Lines</title>
+                     <effectiveTime value="20231108"/>
+                     <component>
+                        <section>
+                           <id root="a1593480-1289-4633-97d8-8c4b8033f6e0"/>
+                           <code code="42229-5" codeSystem="2.16.840.1.113883.6.1" displayName="SPL UNCLASSIFIED SECTION"/>
+                           <text>
+                              <paragraph>
+                                 <content styleCode="underline">Recommended Dosage for Glabellar Lines</content>
+                              </paragraph>
+                              <paragraph>The total recommended dose is 40 Units per treatment session divided into five equal intramuscular injections of 8 Units each (two injections in each corrugator muscle and one injection in the procerus muscle).</paragraph>
+                           </text>
+                           <effectiveTime value="20231108"/>
+                        </section>
+                     </component>
+                     <component>
+                        <section>
+                           <id root="eeb9a885-3409-419c-bcba-033087af53d3"/>
+                           <code code="42229-5" codeSystem="2.16.840.1.113883.6.1" displayName="SPL UNCLASSIFIED SECTION"/>
+                           <text>
+                              <paragraph>
+                                 <content styleCode="underline">Administration for Glabellar Lines</content>
+                              </paragraph>
+                              <paragraph>Glabellar lines arise from the contraction of the corrugator and procerus muscles. These can be identified by palpation of the glabellar muscle mass while having the patient frown maximally. Contraction of the corrugator muscles compresses the skin, creating a vertical line or lines surrounded by ridges of tensed muscle. Because the exact location, size, and activity of the muscles can vary markedly among individuals, physicians administering DAXXIFY must understand the relevant anatomy of the area involved and any alterations to the anatomy due to prior surgical procedures and diseases <content styleCode="italics">[see <linkHtml href="#S5.3">Warnings and Precautions (5.3)</linkHtml>]</content>. After assessment, the location of the corrugator muscle injection sites may need to be adjusted based on individual facial anatomy and the pattern of muscle contraction.</paragraph>
+                              <paragraph>The upper eyelid margin position should be carefully examined for separation or weakness of the levator palpebrae superioris muscle. Evaluate the range of upper eyelid excursion while manually immobilizing the frontalis to assess degree of levator function and frontalis compensation.</paragraph>
+                              <paragraph>In order to reduce the complication of ptosis, the following steps should be taken:</paragraph>
+                              <list listType="unordered" styleCode="disc">
+                                 <item>Avoid injection near the levator palpebrae superioris, particularly in patients with larger brow depressor complexes.</item>
+                                 <item>Ensure the injected volume/dose is accurate and administer in a steady, controlled manner.</item>
+                                 <item>Do not inject DAXXIFY less than 1 centimeter above the superior orbital rim.</item>
+                              </list>
+                              <paragraph>To inject DAXXIFY, clean the exposed portion of the stopper with an alcohol swab and aseptically withdraw at least 0.5 mL of the reconstituted solution from the vial into a sterile syringe. Replace the needle used to withdraw the product with a 30- to 33-gauge sterile needle for injection. Expel any air bubbles prior to administration.</paragraph>
+                              <paragraph>Advance the needle through the skin into the underlying muscle while applying finger pressure on the superior medial orbital rim.</paragraph>
+                              <list listType="unordered" styleCode="disc">
+                                 <item>Inject a dose of 8 Units (0.1 mL) into each of the 5 injection sites: 2 injections into medial corrugator and lateral corrugator muscles respectively, and 1 injection in the procerus muscle (Figure 1). 							<table width="90%" styleCode="Noautorules">
+                                       <col width="100%" align="center" valign="top"/>
+                                       <tbody>
+                                          <tr>
+                                             <td>
+                                                <content styleCode="bold">FIGURE 1: INJECTION SITES FOR GLABELLAR LINES</content>
+                                             </td>
+                                          </tr>
+                                          <tr>
+                                             <td>
+                                                <renderMultiMedia referencedObject="MM1"/>
+                                             </td>
+                                          </tr>
+                                       </tbody>
+                                    </table>
+                                 </item>
+                              </list>
+                           </text>
+                           <effectiveTime value="20231108"/>
+                           <component>
+                              <observationMedia ID="MM1">
+                                 <text>FIGURE 1</text>
+                                 <value xsi:type="ED" mediaType="image/jpeg">
+                                    <reference value="daxxify-01.jpg"/>
+                                 </value>
+                              </observationMedia>
+                           </component>
+                        </section>
+                     </component>
+                  </section>
+               </component>
+               <component>
+                  <section ID="S2.3">
+                     <id root="1c1cfbc0-a437-469c-96e8-9faf93888a90"/>
+                     <code code="42229-5" codeSystem="2.16.840.1.113883.6.1" displayName="SPL UNCLASSIFIED SECTION"/>
+                     <title>2.3	Recommended Dosage for Cervical Dystonia</title>
+                     <text>
+                        <paragraph>
+                           <content styleCode="xmChange">The recommended dose of DAXXIFY for the treatment of cervical dystonia ranges from 125 Units to 250 Units given intramuscularly as a divided dose among affected muscles. In patients previously treated with another botulinum toxin, their past dose, response to treatment, duration of effect, and adverse event history should be taken into consideration when determining the initial DAXXIFY dose. A description of the average DAXXIFY dose and percentage of total dose injected into specific muscles in the pivotal clinical trials can be found in Section 14. Limiting the dose injected into the sternocleidomastoid muscle may reduce the occurrence of dysphagia.</content>
+                        </paragraph>
+                     </text>
+                     <effectiveTime value="20231108"/>
+                     <component>
+                        <section>
+                           <id root="ba840fd3-417c-411d-8967-a564a43baed6"/>
+                           <code code="42229-5" codeSystem="2.16.840.1.113883.6.1" displayName="SPL UNCLASSIFIED SECTION"/>
+                           <text>
+                              <paragraph>
+                                 <content styleCode="xmChange">
+                                    <content styleCode="underline">Dose Modification in Cervical Dystonia</content>
+                                 </content>
+                              </paragraph>
+                              <paragraph>
+                                 <content styleCode="xmChange">When dose modification is necessary, dose adjustment can be made in 50 to75 Unit increments according to the individual patient's response. The total dose administered in a single treatment is recommended to be between 125 Units and 250 Units.</content>
+                              </paragraph>
+                           </text>
+                           <effectiveTime value="20231108"/>
+                        </section>
+                     </component>
+                  </section>
+               </component>
+               <component>
+                  <section ID="S2.4">
+                     <id root="65f0127a-b305-4d88-bd72-899ce6ccffc5"/>
+                     <code code="42229-5" codeSystem="2.16.840.1.113883.6.1" displayName="SPL UNCLASSIFIED SECTION"/>
+                     <title>2.4	Preparation and Dilution Technique</title>
+                     <text>
+                        <paragraph>
+                           <content styleCode="xmChange">DAXXIFY is supplied in single-dose 50 Unit and 100 Unit vials. Prior to intramuscular injection, reconstitute each vial of DAXXIFY with the required amount of sterile, preservative-free 0.9% Sodium Chloride Injection, USP to obtain a reconstituted solution at the appropriate concentration described in Tables 1 and 2.</content>
+                        </paragraph>
+                        <table width="90%">
+                           <caption>TABLE 1: DAXXIFY 50 Unit Vials Dilution Volume for Reconstitution</caption>
+                           <col width="33%" align="left" valign="middle"/>
+                           <col width="33%" align="left" valign="middle"/>
+                           <col width="34%" align="left" valign="middle"/>
+                           <thead>
+                              <tr>
+                                 <th styleCode="Lrule Rrule">
+                                    <content styleCode="xmChange">Indication</content>
+                                 </th>
+                                 <th styleCode="Rrule">Diluent<footnote>Preservative-free 0.9% Sodium Chloride Injection, USP</footnote> Added to 50 Unit Vial</th>
+                                 <th styleCode="Rrule">Resulting Dose in Units per 0.1 mL</th>
+                              </tr>
+                           </thead>
+                           <tbody>
+                              <tr>
+                                 <td styleCode="Lrule Rrule">
+                                    <content styleCode="xmChange">Glabellar Lines, Adults</content>
+                                 </td>
+                                 <td styleCode="Rrule">0.6 mL</td>
+                                 <td styleCode="Rrule">8 Units</td>
+                              </tr>
+                           </tbody>
+                        </table>
+                        <table width="90%">
+                           <caption>TABLE 2: DAXXIFY 100 Unit Vials Dilution Volume for Reconstitution</caption>
+                           <col width="33%" align="left" valign="top"/>
+                           <col width="33%" align="left" valign="top"/>
+                           <col width="34%" align="left" valign="top"/>
+                           <thead>
+                              <tr>
+                                 <th styleCode="Lrule Rrule">
+                                    <content styleCode="xmChange">Indication</content>
+                                 </th>
+                                 <th styleCode="Rrule">Diluent <footnote>Preservative-free 0.9% Sodium Chloride Injection, USP</footnote> Added to 100 Unit Vials</th>
+                                 <th styleCode="Rrule">Resulting Dose in Units per 0.1 mL</th>
+                              </tr>
+                           </thead>
+                           <tbody>
+                              <tr styleCode="Botrule">
+                                 <td styleCode="Lrule Rrule">
+                                    <content styleCode="xmChange">Glabellar Lines, Adults</content>
+                                 </td>
+                                 <td styleCode="Rrule">1.2 mL</td>
+                                 <td styleCode="Rrule">8 Units</td>
+                              </tr>
+                              <tr>
+                                 <td styleCode="Lrule Rrule">
+                                    <content styleCode="xmChange">Cervical Dystonia, Adults</content>
+                                 </td>
+                                 <td styleCode="Rrule">1 mL<br/> or<br/>2 mL</td>
+                                 <td styleCode="Rrule">10 Units<br/> or<br/>5 Units</td>
+                              </tr>
+                           </tbody>
+                        </table>
+                        <paragraph>Slowly inject the diluent into the vial. Discard the vial if a vacuum does not pull the diluent into the vial. Dispose of any unused diluent. Gently mix DAXXIFY with 0.9% Sodium Chloride Injection, USP by rotating the vial.</paragraph>
+                        <paragraph>Reconstituted DAXXIFY solution is clear to slightly opalescent and colorless and free of particulate matter. Inspect visually the reconstituted DAXXIFY for particulate matter and discoloration prior to administration. Do not use if the solution is cloudy or discolored or contains flakes or particles.</paragraph>
+                        <paragraph>Administer DAXXIFY within 72 hours after reconstitution. During this time period, store unused reconstituted DAXXIFY in a refrigerator between 2°C to 8°C (36°F to 46°F) and protected from light. Do not freeze reconstituted DAXXIFY. Dispose of any unused DAXXIFY.</paragraph>
+                     </text>
+                     <effectiveTime value="20231108"/>
+                  </section>
+               </component>
+            </section>
+         </component>
+         <component>
+            <section ID="S3">
+               <id root="a570a602-7c6e-479f-9210-cbe68f76b518"/>
+               <code code="43678-2" codeSystem="2.16.840.1.113883.6.1" displayName="DOSAGE FORMS &amp; STRENGTHS SECTION"/>
+               <title>3 DOSAGE FORMS AND STRENGTHS</title>
+               <text>
+                  <paragraph>For injection: 50 Units or 100 Units of white to off-white lyophilized powder in single-dose vial for reconstitution with sterile preservative-free 0.9% Sodium Chloride Injection, USP.</paragraph>
+               </text>
+               <effectiveTime value="20231108"/>
+               <excerpt>
+                  <highlight>
+                     <text>
+                        <paragraph>For injection: 50 Units or 100 Units sterile lyophilized powder in a single-dose vial. (<linkHtml href="#S3">3</linkHtml>)</paragraph>
+                     </text>
+                  </highlight>
+               </excerpt>
+            </section>
+         </component>
+         <component>
+            <section ID="S4">
+               <id root="6109102e-37f3-4a0a-a3b4-053fc01b7bb0"/>
+               <code code="34070-3" codeSystem="2.16.840.1.113883.6.1" displayName="CONTRAINDICATIONS SECTION"/>
+               <title>4 CONTRAINDICATIONS</title>
+               <text>
+                  <paragraph>DAXXIFY is contraindicated in:</paragraph>
+                  <list listType="unordered" styleCode="disc">
+                     <item>patients with known hypersensitivity to any botulinum toxin preparation, DAXXIFY,  or any of the components in the DAXXIFY formulation <content styleCode="italics">[see <linkHtml href="#S5.4">Warnings and Precautions (5.4)</linkHtml>].</content>
+                     </item>
+                     <item>the presence of infection at the proposed injection sites.</item>
+                  </list>
+               </text>
+               <effectiveTime value="20231108"/>
+               <excerpt>
+                  <highlight>
+                     <text>
+                        <list listType="unordered" styleCode="disc">
+                           <item>Known hypersensitivity to any botulinum toxin preparation, DAXXIFY, or any of the components in the DAXXIFY formulation. (<linkHtml href="#S4">4</linkHtml>)</item>
+                           <item>Infection at the injection sites. (<linkHtml href="#S4">4</linkHtml>)</item>
+                        </list>
+                     </text>
+                  </highlight>
+               </excerpt>
+            </section>
+         </component>
+         <component>
+            <section ID="S5">
+               <id root="699222ee-bb10-4941-8a82-fd52fa8c0cc4"/>
+               <code code="43685-7" codeSystem="2.16.840.1.113883.6.1" displayName="WARNINGS AND PRECAUTIONS SECTION"/>
+               <title>5 WARNINGS AND PRECAUTIONS</title>
+               <effectiveTime value="20231108"/>
+               <excerpt>
+                  <highlight>
+                     <text>
+                        <list listType="unordered" styleCode="disc">
+                           <item>The potency units of DAXXIFY are not interchangeable with other preparations of other botulinum toxin products. (<linkHtml href="#S5.2">5.2</linkHtml>, <linkHtml href="#S11">11)</linkHtml>
+                           </item>
+                           <item>Spread of toxin effects, swallowing and breathing difficulties can lead to death. Seek immediate medical attention if respiratory, speech, or swallowing difficulties occur. (<linkHtml href="#S5.1">5.1</linkHtml>)</item>
+                           <item>Adverse event reports have been received involving the cardiovascular system with botulinum toxin products, some with fatal outcomes. Use caution when administering to patients with pre-existing cardiovascular disease. (<linkHtml href="#S5.5">5.5</linkHtml>)</item>
+                           <item>Concomitant neuromuscular disorder may exacerbate clinical effects of treatment. (<linkHtml href="#S5.6">5.6</linkHtml>)</item>
+                           <item>Use with caution in patients with compromised respiratory function or dysphagia. (<linkHtml href="#S5.7">5.7</linkHtml>)</item>
+                           <item>Potential serious adverse reactions after administration of DAXXIFY for unapproved use. (<linkHtml href="#S5.3">5.3</linkHtml>)</item>
+                        </list>
+                     </text>
+                  </highlight>
+               </excerpt>
+               <component>
+                  <section ID="S5.1">
+                     <id root="d3554287-0fd4-477d-9d3e-efa8d69bfa6b"/>
+                     <code code="42229-5" codeSystem="2.16.840.1.113883.6.1" displayName="SPL UNCLASSIFIED SECTION"/>
+                     <title>5.1	Spread of Toxin Effect</title>
+                     <text>
+                        <paragraph>
+                           <content styleCode="xmChange">Postmarketing safety data from other approved botulinum toxins suggest that botulinum toxin effects may be observed beyond the site of local injection. The symptoms are consistent with the mechanism of action of botulinum toxin and may include asthenia, generalized muscle weakness, diplopia, blurred vision, ptosis, dysphagia, dysphonia, dysarthria, urinary incontinence, and breathing difficulties. These symptoms have been reported hours to weeks after injection. Swallowing and breathing difficulties can be life-threatening, and there have been reports of death related to the spread of toxin effects. The risk of symptoms is greatest in children treated for spasticity, an unapproved use for DAXXIFY, but symptoms can occur in adults treated for spasticity and other conditions, and particularly in those patients who have underlying conditions that would predispose them to these symptoms. In unapproved uses, including upper limb spasticity in children, and approved indications, symptoms consistent with spread of toxin effect have been reported at doses comparable to, or lower than, the maximum recommended total dose. Patients or caregivers should be advised to seek immediate medical care if swallowing, speech, or respiratory difficulties occur.</content>
+                        </paragraph>
+                     </text>
+                     <effectiveTime value="20231108"/>
+                  </section>
+               </component>
+               <component>
+                  <section ID="S5.2">
+                     <id root="3d861242-7c89-4a36-852e-a339c8da78db"/>
+                     <code code="42229-5" codeSystem="2.16.840.1.113883.6.1" displayName="SPL UNCLASSIFIED SECTION"/>
+                     <title>5.2	Lack of Interchangeability between Botulinum Toxin Products</title>
+                     <text>
+                        <paragraph>The potency units of DAXXIFY are specific to the preparation and assay method utilized. They are not interchangeable with other preparations of botulinum toxin products; therefore, units of biological activity of DAXXIFY cannot be compared to or converted to units of any other botulinum toxin products assessed with any other specific assay method <content styleCode="italics">[see <linkHtml href="#S11">Description (11)</linkHtml>]</content>.</paragraph>
+                     </text>
+                     <effectiveTime value="20231108"/>
+                  </section>
+               </component>
+               <component>
+                  <section ID="S5.3">
+                     <id root="8d931db9-d3a4-4bde-90b1-a0026e100520"/>
+                     <code code="42229-5" codeSystem="2.16.840.1.113883.6.1" displayName="SPL UNCLASSIFIED SECTION"/>
+                     <title>5.3	Serious Adverse Reactions with Unapproved Use</title>
+                     <text>
+                        <paragraph>Serious adverse reactions, including excessive weakness, dysphagia, and aspiration pneumonia, with some adverse reactions associated with fatal outcomes, have been reported in patients who received botulinum toxin injections for unapproved uses. In these cases, the adverse reactions may have resulted from the administration of botulinum toxin products to the site of injection and/or adjacent structures. In some cases, patients had pre-existing dysphagia or other significant disabilities. There is insufficient information to identify factors associated with an increased risk for adverse reactions associated with the unapproved uses of botulinum toxin products.</paragraph>
+                     </text>
+                     <effectiveTime value="20231108"/>
+                  </section>
+               </component>
+               <component>
+                  <section ID="S5.4">
+                     <id root="5fc2208d-11b9-4b2c-ac20-7e01964bc25f"/>
+                     <code code="42229-5" codeSystem="2.16.840.1.113883.6.1" displayName="SPL UNCLASSIFIED SECTION"/>
+                     <title>5.4	Hypersensitivity Reactions</title>
+                     <text>
+                        <paragraph>Serious and/or immediate hypersensitivity reactions have been reported for botulinum toxin products. These reactions include anaphylaxis, serum sickness, urticaria, soft tissue edema, and dyspnea. If such a reaction occurs, discontinue further injection of DAXXIFY and immediately institute appropriate medical therapy. The use of DAXXIFY in patients with a known hypersensitivity to any botulinum toxin preparation, DAXXIFY, or any of its formulation components could lead to a life-threatening allergic reaction <content styleCode="italics">[see <linkHtml href="#S4">Contraindications (4)</linkHtml>].</content>
+                        </paragraph>
+                     </text>
+                     <effectiveTime value="20231108"/>
+                  </section>
+               </component>
+               <component>
+                  <section ID="S5.5">
+                     <id root="5826c000-e5db-4636-a521-18a7e4d4dd45"/>
+                     <code code="42229-5" codeSystem="2.16.840.1.113883.6.1" displayName="SPL UNCLASSIFIED SECTION"/>
+                     <title>5.5	Cardiovascular System Adverse Reactions</title>
+                     <text>
+                        <paragraph>There have been reports following administration of botulinum toxins of adverse events involving the cardiovascular system, including arrhythmia and myocardial infarction, some with fatal outcomes. Some of these patients had risk factors, including pre-existing cardiovascular disease. Use caution when administering to patients with pre-existing cardiovascular disease.</paragraph>
+                     </text>
+                     <effectiveTime value="20231108"/>
+                  </section>
+               </component>
+               <component>
+                  <section ID="S5.6">
+                     <id root="b9d736df-847c-410f-971a-a0b92ff95cca"/>
+                     <code code="42229-5" codeSystem="2.16.840.1.113883.6.1" displayName="SPL UNCLASSIFIED SECTION"/>
+                     <title>5.6	Increased Neuromuscular Compromise in Patients with Pre-Existing Neuromuscular Disorders </title>
+                     <text>
+                        <paragraph>Monitor patients with peripheral motor neuropathic diseases, amyotrophic lateral sclerosis, or neuromuscular junctional disorders (e.g., myasthenia gravis or Lambert-Eaton syndrome) for increased neuromuscular compromise following botulinum toxin treatment. Patients with neuromuscular disorders may be at increased risk of clinically significant effects, including generalized muscle weakness, diplopia, ptosis, dysphonia, dysarthria, severe dysphagia, and respiratory compromise from typical doses of DAXXIFY.</paragraph>
+                     </text>
+                     <effectiveTime value="20231108"/>
+                  </section>
+               </component>
+               <component>
+                  <section ID="S5.7">
+                     <id root="38121342-d68d-4ea0-89b1-a043c8d5313c"/>
+                     <code code="42229-5" codeSystem="2.16.840.1.113883.6.1" displayName="SPL UNCLASSIFIED SECTION"/>
+                     <title>5.7	Dysphagia and Breathing Difficulties</title>
+                     <text>
+                        <paragraph>Treatment with botulinum toxin products, including DAXXIFY, can result in swallowing or breathing difficulties. These reactions can occur within hours to weeks after injection with botulinum toxin. Patients with pre-existing swallowing or breathing difficulties may be more susceptible to these complications. In most cases, this is a consequence of weakening of muscles in the area of injection that are involved in breathing or swallowing. When distant effects occur, additional respiratory mechanisms may be involved <content styleCode="italics">[see <linkHtml href="#S5.3">Warnings and Precautions (5.3)</linkHtml>].</content>
+                        </paragraph>
+                        <paragraph>Deaths as a complication of severe dysphagia have been reported after treatment with botulinum toxin products. Dysphagia may persist for several months. Aspiration may result from severe dysphagia and is a particular risk when treating patients in whom swallowing or respiratory function is already compromised. Treatment with botulinum toxins, including DAXXIFY, may weaken neck muscles that serve as accessory muscles of ventilation. This may result in a critical loss of breathing capacity in patients with respiratory disorders who may have become dependent upon these accessory muscles. There have been postmarketing reports from other botulinum toxin products of serious breathing difficulties, including respiratory failure.</paragraph>
+                        <paragraph>Patients treated with botulinum toxin may require immediate medical attention should they develop problems with swallowing, speech, or respiratory disorders.</paragraph>
+                     </text>
+                     <effectiveTime value="20231108"/>
+                  </section>
+               </component>
+               <component>
+                  <section ID="S5.8">
+                     <id root="3d15b215-70eb-4990-8dde-38a7299cf3fe"/>
+                     <code code="42229-5" codeSystem="2.16.840.1.113883.6.1" displayName="SPL UNCLASSIFIED SECTION"/>
+                     <title>5.8	Facial Anatomy in the Treatment of Glabellar Lines</title>
+                     <text>
+                        <paragraph>Use caution when administering DAXXIFY to patients with surgical alterations to the facial anatomy, marked facial asymmetry, excessive dermatochalasis, deep dermal scarring, thick sebaceous skin, inflammation at the injection site(s), pre-existing eyelid or eyebrow ptosis, when excessive weakness or atrophy is present in the target muscles, or the inability to substantially lessen glabellar lines even by physically spreading them apart.</paragraph>
+                     </text>
+                     <effectiveTime value="20231108"/>
+                  </section>
+               </component>
+               <component>
+                  <section ID="S5.9">
+                     <id root="056ecba6-15fc-4927-bc16-7d284ed61ca6"/>
+                     <code code="42229-5" codeSystem="2.16.840.1.113883.6.1" displayName="SPL UNCLASSIFIED SECTION"/>
+                     <title>5.9	Ophthalmic Adverse Reactions in Patients Treated for Glabellar Lines</title>
+                     <text>
+                        <paragraph>Dry eye has been reported with the use of botulinum toxin products in the treatment of glabellar lines. Reduced tear production, reduced blinking, and corneal disorders may occur with use of botulinum toxins, including DAXXIFY. If symptoms of dry eye (e.g., eye irritation, photophobia, or visual changes) persist, consider referring patient to an ophthalmologist.</paragraph>
+                     </text>
+                     <effectiveTime value="20231108"/>
+                  </section>
+               </component>
+            </section>
+         </component>
+         <component>
+            <section ID="S6">
+               <id root="47e4f562-d6c4-4b28-bfa8-0b6fb5fbe2e8"/>
+               <code code="34084-4" codeSystem="2.16.840.1.113883.6.1" displayName="ADVERSE REACTIONS SECTION"/>
+               <title>6 ADVERSE REACTIONS</title>
+               <text>
+                  <paragraph>The following clinically significant adverse reactions are discussed in greater detail in other sections of the labeling:</paragraph>
+                  <list listType="unordered" styleCode="disc">
+                     <item>Spread of Toxin Effect <content styleCode="italics">[see <linkHtml href="#S5.1">Warnings and Precautions (5.1)</linkHtml>]</content>
+                     </item>
+                     <item>Hypersensitivity Reactions <content styleCode="italics">[see <linkHtml href="#S5.4">Warnings and Precautions (5.4)</linkHtml>]</content>
+                     </item>
+                     <item>Cardiovascular System Adverse Reactions <content styleCode="italics">[see <linkHtml href="#S5.5">Warnings and Precautions (5.5)</linkHtml>]</content>
+                     </item>
+                     <item>Increased Neuromuscular Compromise in Patients with Pre-Existing Neuromuscular Disorders <content styleCode="italics">[see <linkHtml href="#S5.6">Warnings and Precautions (5.6)</linkHtml>]</content>
+                     </item>
+                     <item>Dysphagia and Breathing Difficulties <content styleCode="italics">[see <linkHtml href="#S5.7">Warnings and Precautions (5.7)</linkHtml>]</content>
+                     </item>
+                     <item>Ophthalmic Adverse Reactions in Patients Treated for Glabellar Lines <content styleCode="italics">[see <linkHtml href="#S5.9">Warnings and Precautions (5.9)</linkHtml>]</content>
+                     </item>
+                  </list>
+               </text>
+               <effectiveTime value="20231108"/>
+               <excerpt>
+                  <highlight>
+                     <text>
+                        <paragraph>The most commonly observed adverse reactions are:</paragraph>
+                        <list listType="unordered" styleCode="disc">
+                           <item>Glabellar Lines (≥1%): headache (6%), eyelid ptosis (2%), and facial paresis (1%). (<linkHtml href="#S6.1">6.1</linkHtml>)</item>
+                           <item>Cervical Dystonia (≥5%): headache (9%), injection site pain (8%), injection site erythema (5%), muscular weakness (5%), and upper respiratory tract infection (5%). (<linkHtml href="#S6.1">6.1</linkHtml>)</item>
+                        </list>
+                        <br/>
+                        <paragraph>
+                           <content styleCode="bold">To report SUSPECTED ADVERSE REACTIONS, contact Revance Therapeutics, Inc. at 1-877-373-8669 or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch.</content>
+                        </paragraph>
+                     </text>
+                  </highlight>
+               </excerpt>
+               <component>
+                  <section ID="S6.1">
+                     <id root="dd2a329e-6ad8-46c8-852e-74c5cfa18e4a"/>
+                     <code code="90374-0" codeSystem="2.16.840.1.113883.6.1" displayName="CLINICAL TRIALS EXPERIENCE SECTION"/>
+                     <title>6.1 Clinical Trial Experience</title>
+                     <text>
+                        <paragraph>Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice. The most common side effects from treatment with DAXXIFY usually occur within one to two weeks after injection and, while generally transient, may have a duration of several weeks or months.</paragraph>
+                     </text>
+                     <effectiveTime value="20231108"/>
+                     <component>
+                        <section>
+                           <id root="b91d367d-6e82-4ca5-a0a1-8a623f1c38e5"/>
+                           <code code="42229-5" codeSystem="2.16.840.1.113883.6.1" displayName="SPL UNCLASSIFIED SECTION"/>
+                           <text>
+                              <paragraph>
+                                 <content styleCode="underline">Glabellar Lines</content>
+                              </paragraph>
+                              <paragraph>In the two randomized, placebo-controlled, Phase 3 clinical trials that assess the use of DAXXIFY for the temporary improvement in the appearance of moderate to severe glabellar lines, GL-1 and GL-2, 406 subjects received a single-dose treatment of 40 Units DAXXIFY, and 203 subjects received placebo.</paragraph>
+                              <paragraph>The most frequent adverse reactions are presented in Table 3.</paragraph>
+                              <table width="90%" ID="table3">
+                                 <caption>TABLE 3: Most Common Adverse Reactions ≥1% and More Frequent than Placebo in Pooled Double- Blind, Placebo-Controlled Trials for Glabellar Lines</caption>
+                                 <col width="34%" align="left" valign="top"/>
+                                 <col width="33%" align="center" valign="top"/>
+                                 <col width="33%" align="center" valign="top"/>
+                                 <thead>
+                                    <tr>
+                                       <th styleCode="Lrule Rrule">Adverse Reaction</th>
+                                       <th styleCode="Rrule">DAXXIFY <br/>N=406<br/>n (%)</th>
+                                       <th styleCode="Rrule">Placebo <br/>N=203<br/>n (%)</th>
+                                    </tr>
+                                 </thead>
+                                 <tbody>
+                                    <tr styleCode="Botrule">
+                                       <td styleCode="Lrule Rrule">Headache</td>
+                                       <td styleCode="Rrule">26 (6%)</td>
+                                       <td styleCode="Rrule">4 (2%)</td>
+                                    </tr>
+                                    <tr styleCode="Botrule">
+                                       <td styleCode="Lrule Rrule">Eyelid ptosis</td>
+                                       <td styleCode="Rrule">9 (2%)</td>
+                                       <td styleCode="Rrule">0 (0%)</td>
+                                    </tr>
+                                    <tr>
+                                       <td styleCode="Lrule Rrule">Facial paresis<footnote>Facial paresis, including facial asymmetry.</footnote>
+                                       </td>
+                                       <td styleCode="Rrule">5 (1%)</td>
+                                       <td styleCode="Rrule">0 (0%)</td>
+                                    </tr>
+                                 </tbody>
+                              </table>
+                              <paragraph>Injection site reactions were reported in 6% of subjects treated with DAXXIFY and in 6% of subjects treated with placebo (these reactions included injection site pain, injection site erythema, injection site oedema, injection site bruising, injection site hematoma, injection site papule, and  injection site pruritus).</paragraph>
+                              <paragraph>In an 84-week, open-label, repeat-dose safety study in glabellar lines, 2691 subjects were treated with 40 Units of DAXXIFY. Of these, 2380 subjects received one treatment with DAXXIFY, 882 received two treatments with DAXXIFY, and 568 subjects received three treatments with DAXXIFY. Adverse reactions were reported in 535 of the 2691 subjects (20%). The adverse reaction profile was similar to that reported in single-dose trials.</paragraph>
+                              <paragraph>Injection site reactions were the most common adverse reactions, reported in 9% of subjects [including injection site pain (4%), injection site erythema (3%), injection site oedema (3%), injection site bruising (1%), injection site papule (&lt;1%), and injection site pruritus (&lt;1%)], followed by headache (5%), edema (2%), erythema (2%), and eyelid ptosis in 1% of subjects. The incidence of these adverse reactions did not increase with multiple re- treatments.</paragraph>
+                           </text>
+                           <effectiveTime value="20231108"/>
+                        </section>
+                     </component>
+                     <component>
+                        <section>
+                           <id root="7199863a-099c-4973-8393-789bd22bae78"/>
+                           <code code="42229-5" codeSystem="2.16.840.1.113883.6.1" displayName="SPL UNCLASSIFIED SECTION"/>
+                           <text>
+                              <paragraph>
+                                 <content styleCode="underline">Cervical Dystonia</content>
+                              </paragraph>
+                              <paragraph>In the randomized, placebo-controlled, Phase 3 clinical trial to assess the use of DAXXIFY for the treatment of cervical dystonia, 255 patients received a dose of DAXXIFY (n=125 for 125 Units and n=130 for 250 Units), and 46 patients received placebo. Table 4 lists adverse reactions that occurred in ≥2% of patients treated with DAXXIFY and more frequently than placebo.</paragraph>
+                              <table width="90%" ID="table4">
+                                 <caption>TABLE 4: Most Common Adverse Reactions ≥2% and More Frequent than Placebo in the Phase 3 Double-Blind, Placebo-Controlled Clinical Trial for Cervical Dystonia</caption>
+                                 <col width="40%" align="left" valign="top"/>
+                                 <col width="20%" align="center" valign="top"/>
+                                 <col width="20%" align="center" valign="top"/>
+                                 <col width="20%" align="center" valign="top"/>
+                                 <thead>
+                                    <tr>
+                                       <th styleCode="Lrule Rrule">Adverse Reaction</th>
+                                       <th styleCode="Rrule">DAXXIFY<br/>125 Units<br/> N=125<br/> n (%)</th>
+                                       <th styleCode="Rrule">DAXXIFY<br/>250 Units<br/>N = 130<br/>n (%)</th>
+                                       <th styleCode="Rrule">Placebo<br/> N=46<br/> n (%)</th>
+                                    </tr>
+                                 </thead>
+                                 <tbody>
+                                    <tr styleCode="Botrule">
+                                       <td styleCode="Lrule Rrule">Headache</td>
+                                       <td styleCode="Rrule">11 (9%)</td>
+                                       <td styleCode="Rrule">9 (7%)</td>
+                                       <td styleCode="Rrule">1 (2%)</td>
+                                    </tr>
+                                    <tr styleCode="Botrule">
+                                       <td styleCode="Lrule Rrule">Injection site pain</td>
+                                       <td styleCode="Rrule">10 (8%)</td>
+                                       <td styleCode="Rrule">7 (5%)</td>
+                                       <td styleCode="Rrule">2 (4%)</td>
+                                    </tr>
+                                    <tr styleCode="Botrule">
+                                       <td styleCode="Lrule Rrule">Injection site erythema</td>
+                                       <td styleCode="Rrule">6 (5%)</td>
+                                       <td styleCode="Rrule">3 (2%)</td>
+                                       <td styleCode="Rrule">1 (2%)</td>
+                                    </tr>
+                                    <tr styleCode="Botrule">
+                                       <td styleCode="Lrule Rrule">Muscular weakness</td>
+                                       <td styleCode="Rrule">6 (5%)</td>
+                                       <td styleCode="Rrule">3 (2%)</td>
+                                       <td styleCode="Rrule">0 (0%)</td>
+                                    </tr>
+                                    <tr styleCode="Botrule">
+                                       <td styleCode="Lrule Rrule">Musculoskeletal pain</td>
+                                       <td styleCode="Rrule">5 (4%)</td>
+                                       <td styleCode="Rrule">5 (4%)</td>
+                                       <td styleCode="Rrule">0 (0%)</td>
+                                    </tr>
+                                    <tr styleCode="Botrule">
+                                       <td styleCode="Lrule Rrule">Nasopharyngitis</td>
+                                       <td styleCode="Rrule">4 (3%)</td>
+                                       <td styleCode="Rrule">3 (2%)</td>
+                                       <td styleCode="Rrule">0 (0%)</td>
+                                    </tr>
+                                    <tr styleCode="Botrule">
+                                       <td styleCode="Lrule Rrule">Arthralgia</td>
+                                       <td styleCode="Rrule">3 (2%)</td>
+                                       <td styleCode="Rrule">1 (1%)</td>
+                                       <td styleCode="Rrule">0 (0%)</td>
+                                    </tr>
+                                    <tr styleCode="Botrule">
+                                       <td styleCode="Lrule Rrule">Upper respiratory tract infection</td>
+                                       <td styleCode="Rrule">2 (2%)</td>
+                                       <td styleCode="Rrule">7 (5%)</td>
+                                       <td styleCode="Rrule">2 (4%)</td>
+                                    </tr>
+                                    <tr styleCode="Botrule">
+                                       <td styleCode="Lrule Rrule">Spinal pain</td>
+                                       <td styleCode="Rrule">3 (2%)</td>
+                                       <td styleCode="Rrule">4 (3%)</td>
+                                       <td styleCode="Rrule">1 (2%)</td>
+                                    </tr>
+                                    <tr styleCode="Botrule">
+                                       <td styleCode="Lrule Rrule">Atrioventricular block first degree</td>
+                                       <td styleCode="Rrule">2 (2%)</td>
+                                       <td styleCode="Rrule">0 (0%)</td>
+                                       <td styleCode="Rrule">0 (0%)</td>
+                                    </tr>
+                                    <tr styleCode="Botrule">
+                                       <td styleCode="Lrule Rrule">Urinary tract infection</td>
+                                       <td styleCode="Rrule">3 (2%)</td>
+                                       <td styleCode="Rrule">0 (0%)</td>
+                                       <td styleCode="Rrule">0 (0%)</td>
+                                    </tr>
+                                    <tr>
+                                       <td styleCode="Lrule Rrule">Dysphagia</td>
+                                       <td styleCode="Rrule">2 (2%)</td>
+                                       <td styleCode="Rrule">5 (4%)</td>
+                                       <td styleCode="Rrule">0 (0%)</td>
+                                    </tr>
+                                 </tbody>
+                              </table>
+                              <paragraph>In a 52-week, open-label, repeat-dose safety study in cervical dystonia, 357 subjects (271 from the randomized trial, 86 newly enrolled) received up to 4 treatments with DAXXIFY. Of these, 28 subjects received one treatment with DAXXIFY, 95 subjects received two treatments, 169 received three treatments, and 65 received four treatments with DAXXIFY.</paragraph>
+                              <paragraph>Adverse reactions were reported in 138 patients (20%).</paragraph>
+                           </text>
+                           <effectiveTime value="20231108"/>
+                        </section>
+                     </component>
+                  </section>
+               </component>
+            </section>
+         </component>
+         <component>
+            <section ID="S7">
+               <id root="06106be6-81ab-48c8-8c84-2fc81d5b3f4b"/>
+               <code code="34073-7" codeSystem="2.16.840.1.113883.6.1" displayName="DRUG INTERACTIONS SECTION"/>
+               <title>7 DRUG INTERACTIONS</title>
+               <text>
+                  <paragraph>No formal drug interaction studies have been conducted with DAXXIFY.</paragraph>
+                  <paragraph>However, the potential for certain drugs to potentiate the effects of DAXXIFY warrants consideration given the potential risks involved and should be used with caution.</paragraph>
+                  <list listType="unordered" styleCode="disc">
+                     <item>Aminoglycosides or other agents interfering with neuromuscular transmission</item>
+                     <item>Anticholinergic drugs</item>
+                     <item>Botulinum neurotoxin products</item>
+                     <item>Muscle relaxants</item>
+                  </list>
+               </text>
+               <effectiveTime value="20231108"/>
+               <excerpt>
+                  <highlight>
+                     <text>
+                        <paragraph>Aminoglycoside antibiotics, anticholinergic agents, or any other agents that interfere with neuromuscular transmission may potentiate the effect of DAXXIFY; co-administer only with caution and close observation. (<linkHtml href="#S7">7</linkHtml>)</paragraph>
+                     </text>
+                  </highlight>
+               </excerpt>
+            </section>
+         </component>
+         <component>
+            <section ID="S8">
+               <id root="ae17f86d-0022-404c-95d5-9e2f0f0fe8ac"/>
+               <code code="43684-0" codeSystem="2.16.840.1.113883.6.1" displayName="USE IN SPECIFIC POPULATIONS SECTION"/>
+               <title>8 USE IN SPECIFIC POPULATIONS</title>
+               <effectiveTime value="20231108"/>
+               <component>
+                  <section ID="S8.1">
+                     <id root="66ec5f7b-b8f0-4d22-b6bc-1ed3372a8f35"/>
+                     <code code="42228-7" codeSystem="2.16.840.1.113883.6.1" displayName="PREGNANCY SECTION"/>
+                     <title>8.1 Pregnancy</title>
+                     <effectiveTime value="20231108"/>
+                     <component>
+                        <section>
+                           <id root="4d536384-3932-40bf-bee8-0e3ed07153a2"/>
+                           <code code="42229-5" codeSystem="2.16.840.1.113883.6.1" displayName="SPL UNCLASSIFIED SECTION"/>
+                           <text>
+                              <paragraph>
+                                 <content styleCode="underline">Risk Summary</content>
+                              </paragraph>
+                              <paragraph>There are no available data on DAXXIFY use in pregnant women to evaluate for a drug-associated risk of major birth defects, miscarriage, or adverse maternal or fetal outcomes. In animal reproduction studies, intramuscular administration of DAXXIFY during pregnancy resulted in adverse effects on fetal growth (decreased fetal body weight and skeletal ossification) at maternally toxic doses approximately equivalent to 40 times the maximum recommended human dose (MRHD) (<content styleCode="italics">see <linkHtml href="#data">Data</linkHtml>
+                                 </content>).</paragraph>
+                              <paragraph>The background risk of major birth defects and miscarriage for the indicated population is unknown. In the U.S. general population, the estimated background risk of major birth defects and miscarriages in clinically recognized pregnancies is 2-4% and 15-20%, respectively.</paragraph>
+                           </text>
+                           <effectiveTime value="20231108"/>
+                        </section>
+                     </component>
+                     <component>
+                        <section ID="data">
+                           <id root="5ec5633b-6127-4bd8-b848-b10c1663889f"/>
+                           <code code="42229-5" codeSystem="2.16.840.1.113883.6.1" displayName="SPL UNCLASSIFIED SECTION"/>
+                           <text>
+                              <paragraph>
+                                 <content styleCode="underline">Data</content>
+                              </paragraph>
+                           </text>
+                           <effectiveTime value="20231108"/>
+                           <component>
+                              <section>
+                                 <id root="739917e3-c4a2-4fde-a11d-47c07c4e1d3f"/>
+                                 <code code="42229-5" codeSystem="2.16.840.1.113883.6.1" displayName="SPL UNCLASSIFIED SECTION"/>
+                                 <text>
+                                    <paragraph>
+                                       <content styleCode="italics">Animal Data</content>
+                                    </paragraph>
+                                    <paragraph>Embryofetal development studies were conducted in rats and rabbits with DAXXIFY. For comparison of animal to human doses based on a body weight comparison, the MRHD is set at 40 Units/subject (0.67 Units/kg for an average 60 kg subject).</paragraph>
+                                    <paragraph>Intramuscular administration of DAXXIFY (3, 10, or 30 Units/kg) to pregnant rats four times during the period of organogenesis (on gestation days 7, 10, 13, and 16) caused decreased fetal body weight and decreased fetal skeletal ossification at the highest dose, which was associated with maternal toxicity. No embryofetal developmental toxicity was noted at doses up to 10 Units/kg, which is 15 times the MRHD.</paragraph>
+                                    <paragraph>Intramuscular administration of DAXXIFY (0.02, 0.1, 0.48,  or 2.4 Units/kg/day) to pregnant rabbits during the period of organogenesis (total of 13 doses) resulted in maternal lethality at 2.4 Units/kg/day and significant decreased maternal body weight at 0.48 Units/kg/day. No embryofetal developmental toxicity was noted at doses up to 0.48 Units/kg/day, which is approximately equivalent to the MRHD.</paragraph>
+                                 </text>
+                                 <effectiveTime value="20231108"/>
+                              </section>
+                           </component>
+                        </section>
+                     </component>
+                  </section>
+               </component>
+               <component>
+                  <section ID="S8.2">
+                     <id root="bbfd54fe-a0ce-431f-8d16-fa8a39009417"/>
+                     <code code="77290-5" codeSystem="2.16.840.1.113883.6.1" displayName="LACTATION SECTION"/>
+                     <title>8.2 Lactation</title>
+                     <effectiveTime value="20231108"/>
+                     <component>
+                        <section>
+                           <id root="72523c0e-b0ca-4a7e-896c-5bb2c1c74e2e"/>
+                           <code code="42229-5" codeSystem="2.16.840.1.113883.6.1" displayName="SPL UNCLASSIFIED SECTION"/>
+                           <text>
+                              <paragraph>
+                                 <content styleCode="underline">Risk Summary</content>
+                              </paragraph>
+                              <paragraph>There are no data on the presence of DAXXIFY in human or animal milk, the effects on the breastfed infant, or the effects on milk production. The developmental and health benefits of breastfeeding should be considered, along with the mother's clinical need for DAXXIFY and any potential adverse effects on the breastfed infant from DAXXIFY or from the underlying maternal condition.</paragraph>
+                           </text>
+                           <effectiveTime value="20231108"/>
+                        </section>
+                     </component>
+                  </section>
+               </component>
+               <component>
+                  <section ID="S8.4">
+                     <id root="feea9359-2a78-47bd-9c29-2439842b8813"/>
+                     <code code="34081-0" codeSystem="2.16.840.1.113883.6.1" displayName="PEDIATRIC USE SECTION"/>
+                     <title>8.4 Pediatric Use</title>
+                     <text>
+                        <paragraph>Safety and effectiveness of DAXXIFY in patients less than 18 years of age have not been established.</paragraph>
+                     </text>
+                     <effectiveTime value="20231108"/>
+                  </section>
+               </component>
+               <component>
+                  <section ID="S8.5">
+                     <id root="2610d43d-19e6-450c-9a6d-55e41ca7090e"/>
+                     <code code="34082-8" codeSystem="2.16.840.1.113883.6.1" displayName="GERIATRIC USE SECTION"/>
+                     <title>8.5 Geriatric Use</title>
+                     <effectiveTime value="20231108"/>
+                     <component>
+                        <section>
+                           <id root="d46c4264-41af-4c75-9db2-d7245067c6c7"/>
+                           <code code="42229-5" codeSystem="2.16.840.1.113883.6.1" displayName="SPL UNCLASSIFIED SECTION"/>
+                           <text>
+                              <paragraph>
+                                 <content styleCode="underline">Glabellar Lines</content>
+                              </paragraph>
+                              <paragraph>Among the 406 subjects treated with DAXXIFY in the placebo-controlled clinical trials, 36 subjects were 65 years or older. There was no increase in the incidence of treatment-related adverse events in patients over 65 years treated with DAXXIFY. Clinical studies of DAXXIFY did not include sufficient numbers of subjects aged 65 and older to determine whether they responded differently from younger subjects <content styleCode="italics">[see <linkHtml href="#S14">Clinical Studies (14)</linkHtml>].</content>
+                              </paragraph>
+                           </text>
+                           <effectiveTime value="20231108"/>
+                        </section>
+                     </component>
+                     <component>
+                        <section>
+                           <id root="89d37e55-993d-4d14-a94a-f2b342483238"/>
+                           <code code="42229-5" codeSystem="2.16.840.1.113883.6.1" displayName="SPL UNCLASSIFIED SECTION"/>
+                           <text>
+                              <paragraph>
+                                 <content styleCode="underline">Cervical Dystonia</content>
+                              </paragraph>
+                              <paragraph>Among the 255 patients treated with DAXXIFY in the placebo-controlled clinical trial, 83 patients were 65 years or older. There was no increase in the incidence of treatment-related adverse events in patients over 65 years treated with DAXXIFY. Clinical studies of DAXXIFY did not include sufficient numbers of patients aged 65 and older to determine whether they responded differently from younger patients <content styleCode="italics">[see <linkHtml href="#S14">Clinical Studies (14)</linkHtml>].</content>
+                              </paragraph>
+                           </text>
+                           <effectiveTime value="20231108"/>
+                        </section>
+                     </component>
+                  </section>
+               </component>
+            </section>
+         </component>
+         <component>
+            <section ID="S10">
+               <id root="15ee27c6-a0b9-4d48-8913-bc466322435b"/>
+               <code code="34088-5" codeSystem="2.16.840.1.113883.6.1" displayName="OVERDOSAGE SECTION"/>
+               <title>10 OVERDOSAGE</title>
+               <text>
+                  <paragraph>Excessive doses of DAXXIFY may be expected to produce neuromuscular weakness with a variety of symptoms. Respiratory support may be required where excessive doses cause paralysis of the respiratory muscles. In the event of overdose, the patient should be medically monitored for symptoms or excessive muscle weakness or muscle paralysis <content styleCode="italics">[see <linkHtml href="#S5.1">Warnings and Precautions (5.1)</linkHtml>, <linkHtml href="#S5.7">(5.7)</linkHtml>]</content>. Symptomatic treatment may be necessary.</paragraph>
+                  <paragraph>Symptoms of overdose are not likely to be present immediately following injection. Should accidental injection or oral ingestion occur, the person should be medically supervised for several weeks for signs and symptoms of excessive muscle weakness or paralysis.</paragraph>
+                  <paragraph>In the event of overdose, antitoxin raised against botulinum toxin is available from the Centers for Disease Control and Prevention (CDC) in Atlanta, GA. However, the antitoxin will not reverse any botulinum toxin-induced effects already apparent by the time of antitoxin administration. In the event of suspected or actual cases of botulinum toxin poisoning, please contact your local or state Health Department to process a request for antitoxin through the CDC. If you do not receive a response within 30 minutes, please contact the CDC directly at 1-770-488-7100.</paragraph>
+               </text>
+               <effectiveTime value="20231108"/>
+            </section>
+         </component>
+         <component>
+            <section ID="S11">
+               <id root="95d2b795-7a27-4ca7-a52b-6191abe346cf"/>
+               <code code="34089-3" codeSystem="2.16.840.1.113883.6.1" displayName="DESCRIPTION SECTION"/>
+               <title>11 DESCRIPTION</title>
+               <text>
+                  <paragraph>DaxibotulinumtoxinA-lanm is an acetylcholine release inhibitor and neuromuscular blocking agent. DaxibotulinumtoxinA-lanm is a 150 kDa botulinum toxin without accessory proteins purified from the bacterium <content styleCode="italics">Clostridium botulinum</content> type A.</paragraph>
+                  <paragraph>DAXXIFY (daxibotulinumtoxinA-lanm) for injection is supplied as a sterile, preservative-free, white to off- white lyophilized powder in a single-dose vial for intramuscular use after reconstitution. DAXXIFY is formulated with a 35 amino acid peptide excipient (RTP004) that prevents surface adsorption and promotes thermal stability of DAXXIFY. Each vial contains 50 Units or 100 Units of daxibotulinumtoxinA-lanm, L- histidine (0.14 mg), L-histidine HCl monohydrate (0.65 mg), polysorbate 20 (0.1 mg), RTP004 peptide (11.7 mcg), and trehalose dihydrate (36 mg).</paragraph>
+               </text>
+               <effectiveTime value="20231108"/>
+            </section>
+         </component>
+         <component>
+            <section ID="S12">
+               <id root="d7a9b1e5-57d3-4e20-b087-51deab310706"/>
+               <code code="34090-1" codeSystem="2.16.840.1.113883.6.1" displayName="CLINICAL PHARMACOLOGY SECTION"/>
+               <title>12 CLINICAL PHARMACOLOGY</title>
+               <effectiveTime value="20231108"/>
+               <component>
+                  <section ID="S12.1">
+                     <id root="2f36076e-5416-461d-a3fa-4be81b72ecb1"/>
+                     <code code="43679-0" codeSystem="2.16.840.1.113883.6.1" displayName="MECHANISM OF ACTION SECTION"/>
+                     <title>12.1 Mechanism of Action</title>
+                     <text>
+                        <paragraph>DAXXIFY blocks neuromuscular transmission at the neuromuscular junction by inhibiting the release of acetylcholine. This inhibition occurs as the neurotoxin cleaves SNAP-25, a protein necessary for the successful docking and release of acetylcholine vesicles within nerve endings. Recovery of neurotransmission occurs gradually as the neuromuscular junction recovers from SNAP-25 cleavage and as new nerve endings are formed.</paragraph>
+                     </text>
+                     <effectiveTime value="20231108"/>
+                  </section>
+               </component>
+               <component>
+                  <section ID="S12.2">
+                     <id root="afe7bf7d-03aa-4845-b896-b4714420106c"/>
+                     <code code="43681-6" codeSystem="2.16.840.1.113883.6.1" displayName="PHARMACODYNAMICS SECTION"/>
+                     <title>12.2 Pharmacodynamics</title>
+                     <text>
+                        <paragraph>No formal pharmacodynamics studies have been conducted with DAXXIFY.</paragraph>
+                     </text>
+                     <effectiveTime value="20231108"/>
+                  </section>
+               </component>
+               <component>
+                  <section ID="S12.3">
+                     <id root="192f52af-6fcb-42f9-a124-a28fbcdb688b"/>
+                     <code code="43682-4" codeSystem="2.16.840.1.113883.6.1" displayName="PHARMACOKINETICS SECTION"/>
+                     <title>12.3 Pharmacokinetics</title>
+                     <text>
+                        <paragraph>Using currently available analytical technology, it is not possible to detect DAXXIFY in the peripheral blood following intramuscular injection at the recommended dose.</paragraph>
+                     </text>
+                     <effectiveTime value="20231108"/>
+                  </section>
+               </component>
+               <component>
+                  <section ID="S12.6">
+                     <id root="6d6e726e-8308-4e0a-ae32-811d6f0200b8"/>
+                     <code code="88830-5" codeSystem="2.16.840.1.113883.6.1" displayName="IMMUNOGENICITY"/>
+                     <title>12.6 Immunogenicity</title>
+                     <text>
+                        <paragraph>The observed incidence of anti-drug antibodies is highly dependent on the sensitivity and specificity of the assay. Differences in assay methods preclude meaningful comparisons of the incidence of anti-drug antibodies in the studies described below with the incidence of anti-drug antibodies in other studies, including those of DAXXIFY.</paragraph>
+                     </text>
+                     <effectiveTime value="20231108"/>
+                     <component>
+                        <section>
+                           <id root="ecc9ee54-24bf-47d8-a69a-38c32e1374f0"/>
+                           <code code="42229-5" codeSystem="2.16.840.1.113883.6.1" displayName="SPL UNCLASSIFIED SECTION"/>
+                           <text>
+                              <paragraph>
+                                 <content styleCode="underline">Glabellar Lines</content>
+                              </paragraph>
+                              <paragraph>In the 2786 subjects receiving up to 3 treatments throughout 120 weeks with DAXXIFY in the Phase 3 studies, the incidence of anti-DAXXIFY antibody formation was 0.8% to daxibotulinumtoxinA-lanm and 1.2% to RTP004, the 35 amino acid peptide excipient. No subjects developed neutralizing antibodies to DAXXIFY.</paragraph>
+                           </text>
+                           <effectiveTime value="20231108"/>
+                        </section>
+                     </component>
+                     <component>
+                        <section>
+                           <id root="cf28abd1-bf53-48c1-beae-c474c4b4a649"/>
+                           <code code="42229-5" codeSystem="2.16.840.1.113883.6.1" displayName="SPL UNCLASSIFIED SECTION"/>
+                           <text>
+                              <paragraph>
+                                 <content styleCode="underline">Cervical Dystonia</content>
+                              </paragraph>
+                              <paragraph>In the 382 subjects receiving up to 5 treatments throughout 88 weeks with DAXXIFY in the Phase 3 studies, the incidence of anti-DAXXIFY antibody formation was 1.8% to daxibotulinumtoxinA-lanm and 2.4% to RTP004, the 35 amino acid peptide excipient. Two patients who had been previously treated with botulinum toxin tested positive for neutralizing antibodies.</paragraph>
+                              <paragraph>Because of the low occurrence of anti-drug antibodies, the effect of these antibodies on the PK, PD, safety, and/or effectiveness of DAXXIFY products is unknown.</paragraph>
+                           </text>
+                           <effectiveTime value="20231108"/>
+                        </section>
+                     </component>
+                  </section>
+               </component>
+            </section>
+         </component>
+         <component>
+            <section ID="S13">
+               <id root="1c810c07-7a18-4df5-9861-9399799470c3"/>
+               <code code="43680-8" codeSystem="2.16.840.1.113883.6.1" displayName="NONCLINICAL TOXICOLOGY SECTION"/>
+               <title>13 NONCLINICAL TOXICOLOGY</title>
+               <effectiveTime value="20231108"/>
+               <component>
+                  <section ID="S13.1">
+                     <id root="b66d855a-2bd4-4b84-9e88-5942aa1e06c0"/>
+                     <code code="34083-6" codeSystem="2.16.840.1.113883.6.1" displayName="CARCINOGENESIS &amp; MUTAGENESIS &amp; IMPAIRMENT OF FERTILITY SECTION"/>
+                     <title>13.1 Carcinogenesis, Mutagenesis, Impairment of Fertility</title>
+                     <text>
+                        <paragraph>Long-term studies in animals have not been performed to evaluate the carcinogenic potential of DAXXIFY. </paragraph>
+                        <paragraph>Genotoxicity studies have not been conducted for DAXXIFY.</paragraph>
+                        <paragraph>In fertility and early embryonic development studies in rats, intramuscular administration of 3, 10, or 20 Units/kg in males and 3, 10, or 30 Units/kg in females to either male or female rats, respectively, prior to mating and during mating (7 doses, 1 week apart for males; and 4 doses, 1 week apart for females) to untreated animals, caused reduced fertility at doses associated with paternal or maternal toxicity as indicated by reductions in body weight gain and food intake. No effects on fertility were noted at 3 Units/kg in males or at 10 Units/kg in females, which are approximately 4 and 15 times, respectively, the MRHD.</paragraph>
+                     </text>
+                     <effectiveTime value="20231108"/>
+                  </section>
+               </component>
+            </section>
+         </component>
+         <component>
+            <section ID="S14">
+               <id root="f0614457-34df-4d8c-b93d-6bc0e447bf25"/>
+               <code code="34092-7" codeSystem="2.16.840.1.113883.6.1" displayName="CLINICAL STUDIES SECTION"/>
+               <title>14 CLINICAL STUDIES</title>
+               <effectiveTime value="20231108"/>
+               <component>
+                  <section ID="S14.1">
+                     <id root="377c54f9-0b4e-4df6-a438-b44b382bf18a"/>
+                     <code code="42229-5" codeSystem="2.16.840.1.113883.6.1" displayName="SPL UNCLASSIFIED SECTION"/>
+                     <title>14.1	Glabellar Lines</title>
+                     <text>
+                        <paragraph>Two randomized, double-blind, multi-center, placebo-controlled clinical trials, Studies GL-1 and GL-2, were conducted to evaluate DAXXIFY for use in the temporary improvement of moderate-to-severe glabellar lines in adults. The 2 trials enrolled a total of 609 subjects (≥18 years old) with glabellar lines of at least moderate severity at maximum frown. A total of 405 subjects were randomized and 406 were treated with 40 Units of DAXXIFY and 204 subjects were randomized and 203 were treated with an equal volume of placebo. Subjects were excluded if they had eyelid ptosis, deep dermal scarring, excessive dermatochalasis, or an inability to lessen glabellar lines by physically spreading them apart. Enrolled subjects were 21 to 75 years old (with a mean age of 50 years), and predominantly female (87%) and Caucasian (86%). The total dose was delivered in 5 equally divided intramuscular injections of 8 Units each to specific sites in the glabella (Figure 1). Subjects were followed for at least 24 weeks after treatment.</paragraph>
+                        <paragraph>Efficacy was determined through the assessment by investigators and subjects of frown wrinkle severity at maximum frown using a 4-point scale (0 = none, 1 = mild, 2 = moderate, 3 = severe). The primary efficacy endpoint (treatment success) was defined as achieving a score of 0 or 1 (none or mild) and an improvement of at least 2 points from baseline for both the investigator's and subject's assessments at Week 4. The percentages of subjects with treatment success at Week 4 are presented in Table 5.</paragraph>
+                        <table width="95%" ID="table5">
+                           <caption>TABLE 5: Percentage of Subjects Achieving a Score of None or Mild and ≥ 2-Grade Improvement from Baseline on the Investigator and Subject Assessment of Glabellar Line Severity at Maximum Frown at Week 4</caption>
+                           <col width="16%" align="left" valign="middle"/>
+                           <col width="16%" align="left" valign="middle"/>
+                           <col width="10%" align="left" valign="middle"/>
+                           <col width="16%" align="left" valign="middle"/>
+                           <col width="16%" align="left" valign="middle"/>
+                           <col width="10%" align="left" valign="middle"/>
+                           <col width="16%" align="left" valign="middle"/>
+                           <thead>
+                              <tr>
+                                 <th styleCode="Lrule Rrule"/>
+                                 <th styleCode="Botrule Rrule" colspan="3" valign="middle" align="center">STUDY GL-1</th>
+                                 <th styleCode="Botrule Rrule" colspan="3" valign="top" align="center">STUDY GL-2</th>
+                              </tr>
+                              <tr>
+                                 <th styleCode="Lrule Rrule"/>
+                                 <th styleCode="Rrule">DAXXIFY <br/>(N=201)<br/>n (%)</th>
+                                 <th styleCode="Rrule">Placebo <br/>(N=102) <br/>n (%)</th>
+                                 <th styleCode="Rrule">Treatment Difference and 95% Confidence Interval</th>
+                                 <th styleCode="Rrule">DAXXIFY<br/>(N=205)<br/>n (%)</th>
+                                 <th styleCode="Rrule">Placebo<br/> (N=101) <br/>n (%)</th>
+                                 <th styleCode="Rrule">Treatment Difference and 95% Confidence Interval</th>
+                              </tr>
+                           </thead>
+                           <tbody>
+                              <tr styleCode="Botrule">
+                                 <td styleCode="Lrule Rrule">Treatment Success<footnote>A score of 0 or 1 (none or mild) and ≥ 2-grade improvement from baseline on both the investigator and subject assessment.</footnote>
+                                 </td>
+                                 <td styleCode="Rrule">148 (74%)</td>
+                                 <td styleCode="Rrule">0 (0%)</td>
+                                 <td styleCode="Rrule" align="center">74% (68%, 80%)</td>
+                                 <td styleCode="Rrule">152 (74%)</td>
+                                 <td styleCode="Rrule">0 (0%)</td>
+                                 <td styleCode="Rrule" align="center">74% (68%, 80%)</td>
+                              </tr>
+                              <tr styleCode="Botrule">
+                                 <td styleCode="Lrule Rrule" colspan="7">  Individual Components</td>
+                              </tr>
+                              <tr styleCode="Botrule">
+                                 <td styleCode="Lrule Rrule">  Investigator Assessment</td>
+                                 <td styleCode="Rrule">172 (86%)</td>
+                                 <td styleCode="Rrule">1 (1%)</td>
+                                 <td styleCode="Rrule" align="center">---</td>
+                                 <td styleCode="Rrule">187 (92%)</td>
+                                 <td styleCode="Rrule">2 (2%)</td>
+                                 <td styleCode="Rrule" align="center">---</td>
+                              </tr>
+                              <tr styleCode="Botrule">
+                                 <td styleCode="Lrule Rrule">  Subject Assessment</td>
+                                 <td styleCode="Rrule">152 (76%)</td>
+                                 <td styleCode="Rrule">0 (0%)</td>
+                                 <td styleCode="Rrule" align="center">---</td>
+                                 <td styleCode="Rrule">156 (77%)</td>
+                                 <td styleCode="Rrule">0 (0%)</td>
+                                 <td styleCode="Rrule" align="center">---</td>
+                              </tr>
+                           </tbody>
+                        </table>
+                        <paragraph>Figure 2 shows the proportion of subjects, over 36 weeks, rated as 0 or 1 (none or mild) by the investigator, 0 or 1 by the subject, and 0 or 1 with at least a 2-point improvement from their baseline based on both the investigator and subject ratings. Subjects were followed through at least Week 24 and then were discontinued from the study when both the investigator and subject scores returned to baseline. Subjects who returned to baseline levels prior to Week 36 were counted as non-responders following study discontinuation.</paragraph>
+                        <paragraph>
+                           <content styleCode="bold">FIGURE 2: Proportion of subjects rated as 0 or 1 (none or mild) by investigator, 0 or 1 by the subject, and 0 or 1 with at least 2-point improvement from their baseline (based on both the investigator and subject ratings) in Study GL-1 and Study GL-2.</content>
+                        </paragraph>
+                        <table width="90%" styleCode="Noautorules">
+                           <col width="100%" align="center" valign="top"/>
+                           <tfoot>
+                              <tr>
+                                 <td align="left" valign="top">Treatment success is defined as a score of 0 or 1 (none or mild) and ≥ 2-grade improvement from baseline on both the investigator and subject assessment.</td>
+                              </tr>
+                           </tfoot>
+                           <tbody>
+                              <tr>
+                                 <td>
+                                    <renderMultiMedia referencedObject="MM2"/>
+                                 </td>
+                              </tr>
+                              <tr>
+                                 <td>
+                                    <renderMultiMedia referencedObject="MM3"/>
+                                 </td>
+                              </tr>
+                           </tbody>
+                        </table>
+                     </text>
+                     <effectiveTime value="20231108"/>
+                     <component>
+                        <observationMedia ID="MM2">
+                           <text>FIGURE 2 - Study GL-1</text>
+                           <value xsi:type="ED" mediaType="image/jpeg">
+                              <reference value="daxxify-02.jpg"/>
+                           </value>
+                        </observationMedia>
+                     </component>
+                     <component>
+                        <observationMedia ID="MM3">
+                           <text>FIGURE 2 - Study GL-2</text>
+                           <value xsi:type="ED" mediaType="image/jpeg">
+                              <reference value="daxxify-03.jpg"/>
+                           </value>
+                        </observationMedia>
+                     </component>
+                  </section>
+               </component>
+               <component>
+                  <section ID="S14.2">
+                     <id root="bd404f99-5fb6-4cfd-a319-022260e6bf29"/>
+                     <code code="42229-5" codeSystem="2.16.840.1.113883.6.1" displayName="SPL UNCLASSIFIED SECTION"/>
+                     <title>14.2	Cervical Dystonia</title>
+                     <text>
+                        <paragraph>The efficacy of DAXXIFY was evaluated in a randomized, double-blind, placebo-controlled, multi-center trial in a total of 301 patients (NCT03608397). The mean age of patients was 58 years, 65% were women, and 96% were White. At study baseline, 84% of patients had previously received a botulinum toxin as treatment for cervical dystonia. Patients had a clinical diagnosis of cervical dystonia with baseline Toronto Western Spasmodic Torticollis Rating Scale (TWSTRS) total score ≥ 20, TWSTRS severity score ≥15, TWSTRS disability score ≥3, and TWSTRS pain score ≥1. For patients who had previously received a botulinum toxin treatment for cervical dystonia, the trial required that ≥14 weeks had passed since the most recent botulinum toxin administration.</paragraph>
+                        <paragraph>Patients were randomized (3:3:1) to receive a single administration of 2.5 mL of either DAXXIFY 125 Units (n = 125), DAXXIFY 250 Units (n = 130), or placebo (n = 46), divided amongst the affected muscles as selected by the investigator. Table 6 indicates the treated muscles, along with the number of patients treated and DAXXIFY units.</paragraph>
+                        <table width="90%" ID="table6">
+                           <caption>TABLE 6: Summary of Muscles Treated in Each DAXXIFY Treatment Group</caption>
+                           <col width="40%" align="left" valign="top"/>
+                           <col width="15%" align="center" valign="top"/>
+                           <col width="15%" align="center" valign="top"/>
+                           <col width="15%" align="center" valign="top"/>
+                           <col width="15%" align="center" valign="top"/>
+                           <thead>
+                              <tr styleCode="Botrule">
+                                 <th styleCode="Lrule Rrule">Unilateral Muscle Injected</th>
+                                 <th styleCode="Rrule" colspan="2">DAXXIFY 125 Units</th>
+                                 <th styleCode="Rrule" colspan="2">DAXXIFY 250 Units</th>
+                              </tr>
+                              <tr>
+                                 <th styleCode="Lrule Rrule"/>
+                                 <th styleCode="Rrule">Number of Patients</th>
+                                 <th styleCode="Rrule">Median Units <br/>(min, max)</th>
+                                 <th styleCode="Rrule">Number of Patients</th>
+                                 <th styleCode="Rrule">Median Units <br/>(min, max)</th>
+                              </tr>
+                           </thead>
+                           <tbody>
+                              <tr styleCode="Botrule">
+                                 <td styleCode="Lrule Rrule">Levator Scapulae</td>
+                                 <td styleCode="Rrule">106</td>
+                                 <td styleCode="Rrule">20 (10, 30)</td>
+                                 <td styleCode="Rrule">105</td>
+                                 <td styleCode="Rrule">50 (20, 60)</td>
+                              </tr>
+                              <tr styleCode="Botrule">
+                                 <td styleCode="Lrule Rrule">Longissimus Capitis and Cervices</td>
+                                 <td styleCode="Rrule">45</td>
+                                 <td styleCode="Rrule">15 (10, 30)</td>
+                                 <td styleCode="Rrule">58</td>
+                                 <td styleCode="Rrule">40 (20, 60)</td>
+                              </tr>
+                              <tr styleCode="Botrule">
+                                 <td styleCode="Lrule Rrule">Scalenus Complex</td>
+                                 <td styleCode="Rrule">55</td>
+                                 <td styleCode="Rrule">15 (10, 15)</td>
+                                 <td styleCode="Rrule">44</td>
+                                 <td styleCode="Rrule">30 (20, 30)</td>
+                              </tr>
+                              <tr styleCode="Botrule">
+                                 <td styleCode="Lrule Rrule">Splenius Capitis</td>
+                                 <td styleCode="Rrule">120</td>
+                                 <td styleCode="Rrule">25 (10, 50)</td>
+                                 <td styleCode="Rrule">127</td>
+                                 <td styleCode="Rrule">50 (20, 100)</td>
+                              </tr>
+                              <tr styleCode="Botrule">
+                                 <td styleCode="Lrule Rrule">Splenius Cervices</td>
+                                 <td styleCode="Rrule">65</td>
+                                 <td styleCode="Rrule">20 (10, 50)</td>
+                                 <td styleCode="Rrule">71</td>
+                                 <td styleCode="Rrule">40 (20, 100)</td>
+                              </tr>
+                              <tr styleCode="Botrule">
+                                 <td styleCode="Lrule Rrule">Sternocleidomastoid</td>
+                                 <td styleCode="Rrule">115</td>
+                                 <td styleCode="Rrule">25 (10, 25)</td>
+                                 <td styleCode="Rrule">121</td>
+                                 <td styleCode="Rrule">50 (20, 50)</td>
+                              </tr>
+                              <tr>
+                                 <td styleCode="Lrule Rrule">Trapezius</td>
+                                 <td styleCode="Rrule">105</td>
+                                 <td styleCode="Rrule">20 (15, 40)</td>
+                                 <td styleCode="Rrule">105</td>
+                                 <td styleCode="Rrule">40 (30, 80)</td>
+                              </tr>
+                           </tbody>
+                        </table>
+                        <paragraph>The primary efficacy endpoint was the mean change in the TWSTRS total score from baseline averaged over weeks 4 and 6. TWSTRS evaluates the severity of dystonia, patient-perceived disability from dystonia, and pain, with a range of possible scores from 0 to 85. The mean change from baseline in the total TWSTRS score was significantly greater for both dosage groups of DAXXIFY than for placebo (Table 7).</paragraph>
+                        <table width="90%" ID="table7">
+                           <caption>TABLE 7: Change in TWSTRS Score Averaged over Weeks 4 and 6 in Patients with Cervical Dystonia</caption>
+                           <col width="25%" align="left" valign="top"/>
+                           <col width="25%" align="center" valign="top"/>
+                           <col width="25%" align="center" valign="top"/>
+                           <col width="25%" align="center" valign="top"/>
+                           <thead>
+                              <tr>
+                                 <th styleCode="Lrule Rrule">TWSTRS Assessment</th>
+                                 <th styleCode="Rrule">Placebo <br/>(N = 46)</th>
+                                 <th styleCode="Rrule">DAXI 125 Units<br/>(N = 125)</th>
+                                 <th styleCode="Rrule">DAXI 250 Units<br/>(N = 130)</th>
+                              </tr>
+                           </thead>
+                           <tbody>
+                              <tr styleCode="Botrule">
+                                 <td styleCode="Lrule Rrule">Baseline mean</td>
+                                 <td styleCode="Rrule">45.3</td>
+                                 <td styleCode="Rrule">43.1</td>
+                                 <td styleCode="Rrule">42.6</td>
+                              </tr>
+                              <tr styleCode="Botrule">
+                                 <td styleCode="Lrule Rrule">Least squares mean change from baseline</td>
+                                 <td styleCode="Rrule">-4.3</td>
+                                 <td styleCode="Rrule">-12.7</td>
+                                 <td styleCode="Rrule">-10.9</td>
+                              </tr>
+                              <tr styleCode="Botrule">
+                                 <td styleCode="Lrule Rrule">Least squares mean difference from placebo<br/>(95% CI)</td>
+                                 <td styleCode="Rrule"/>
+                                 <td styleCode="Rrule">-8.4 (-12.2, -4.6)</td>
+                                 <td styleCode="Rrule">-6.6 (-10.4, -2.8)</td>
+                              </tr>
+                              <tr>
+                                 <td styleCode="Lrule Rrule">p-value</td>
+                                 <td styleCode="Rrule"/>
+                                 <td styleCode="Rrule">&lt;0.0001</td>
+                                 <td styleCode="Rrule">0.0007</td>
+                              </tr>
+                           </tbody>
+                        </table>
+                        <paragraph>A similar pattern of significant improvement versus placebo was observed in the clinician global impression of change (CGIC) and patient global impression of change (PGIC) scales.</paragraph>
+                     </text>
+                     <effectiveTime value="20231108"/>
+                  </section>
+               </component>
+            </section>
+         </component>
+         <component>
+            <section ID="S16">
+               <id root="3f5423ea-a1ce-48df-b556-c1d988b2685b"/>
+               <code code="34069-5" codeSystem="2.16.840.1.113883.6.1" displayName="HOW SUPPLIED SECTION"/>
+               <title>16 HOW SUPPLIED/STORAGE AND HANDLING</title>
+               <effectiveTime value="20231108"/>
+               <component>
+                  <section>
+                     <id root="97ad44d1-c233-4762-b802-f41e334858ea"/>
+                     <code code="42229-5" codeSystem="2.16.840.1.113883.6.1" displayName="SPL UNCLASSIFIED SECTION"/>
+                     <text>
+                        <paragraph>
+                           <content styleCode="underline">How Supplied</content>
+                        </paragraph>
+                        <paragraph>DAXXIFY (daxibotulinumtoxinA-lanm) for injection is a sterile lyophilized powder supplied in a single-dose vial in the following sizes:</paragraph>
+                        <paragraph>Carton containing one 50 Units/Vial NDC 72960-111-01 <br/>Carton containing one 100 Units/Vial NDC 72960-112-01</paragraph>
+                     </text>
+                     <effectiveTime value="20231108"/>
+                  </section>
+               </component>
+               <component>
+                  <section>
+                     <id root="e3d5efc7-7e2a-42e4-926e-2037f96e608d"/>
+                     <code code="44425-7" codeSystem="2.16.840.1.113883.6.1" displayName="STORAGE AND HANDLING SECTION"/>
+                     <text>
+                        <paragraph>
+                           <content styleCode="underline">Storage and Handling</content>
+                        </paragraph>
+                        <paragraph>Unopened DAXXIFY vials should be stored at room temperature 20°C to 25°C (68°F to 77°F) or refrigerated at 2°C to 8° C (36°F to 46°F) in the original carton to protect from light.</paragraph>
+                     </text>
+                     <effectiveTime value="20231108"/>
+                  </section>
+               </component>
+            </section>
+         </component>
+         <component>
+            <section ID="S17">
+               <id root="12e0ab69-641a-43e0-a4fa-8b257b5f6da8"/>
+               <code code="34076-0" codeSystem="2.16.840.1.113883.6.1" displayName="INFORMATION FOR PATIENTS SECTION"/>
+               <title>17 PATIENT COUNSELING INFORMATION</title>
+               <text>
+                  <paragraph>Advise the patient to read the FDA-approved patient labeling (Medication Guide).</paragraph>
+               </text>
+               <effectiveTime value="20231108"/>
+               <component>
+                  <section>
+                     <id root="11bec84f-1078-44b1-8286-81d9c30a0ed2"/>
+                     <code code="42229-5" codeSystem="2.16.840.1.113883.6.1" displayName="SPL UNCLASSIFIED SECTION"/>
+                     <text>
+                        <paragraph>
+                           <content styleCode="underline">Swallowing, Speaking, or Breathing Difficulties, or other Unusual Symptoms</content>
+                        </paragraph>
+                        <paragraph>Advise patients or caregivers to seek immediate medical care if swallowing, speech, or respiratory disorders arise or existing symptoms worsen <content styleCode="italics">[see <linkHtml href="#S5.1">Warnings and Precautions (5.1) </linkHtml>
+                              <linkHtml href="#S5.7">(5.7)</linkHtml>].</content>
+                        </paragraph>
+                     </text>
+                     <effectiveTime value="20231108"/>
+                  </section>
+               </component>
+               <component>
+                  <section>
+                     <id root="4f3a3dcf-efd7-4fc0-bae2-ac65dd9469ed"/>
+                     <code code="42229-5" codeSystem="2.16.840.1.113883.6.1" displayName="SPL UNCLASSIFIED SECTION"/>
+                     <text>
+                        <paragraph>
+                           <content styleCode="underline">Ability to Operate Machinery or Vehicles</content>
+                        </paragraph>
+                        <paragraph>Advise patients if they develop any unusual symptoms such as loss of strength, muscle weakness, blurred vision, or drooping eyelids, they should avoid driving a car or engaging in other potentially hazardous activities <content styleCode="italics">[see <linkHtml href="#S5.1">Warnings and Precautions (5.1)</linkHtml>].</content>
+                        </paragraph>
+                     </text>
+                     <effectiveTime value="20231108"/>
+                  </section>
+               </component>
+               <component>
+                  <section>
+                     <id root="3a27e4c9-a100-4f4b-a5b5-ec2e4b9808c6"/>
+                     <code code="42229-5" codeSystem="2.16.840.1.113883.6.1" displayName="SPL UNCLASSIFIED SECTION"/>
+                     <text>
+                        <paragraph>
+                           <content styleCode="underline">Ophthalmic Adverse Reactions</content>
+                        </paragraph>
+                        <paragraph>Inform patients that DAXXIFY injection may cause eye dryness. Advise patients to report symptoms of eye dryness (e.g., eye pain, eye irritation, photosensitivity, or changes in vision) to their doctor <content styleCode="italics">[</content>see <content styleCode="italics">
+                              <linkHtml href="#S5.9">Warnings and Precautions (5.9)</linkHtml>].</content>
+                        </paragraph>
+                     </text>
+                     <effectiveTime value="20231108"/>
+                  </section>
+               </component>
+            </section>
+         </component>
+         <component>
+            <section>
+               <id root="9888fe95-f10c-486b-b3a0-2ef8beab3bf5"/>
+               <code code="42229-5" codeSystem="2.16.840.1.113883.6.1" displayName="SPL UNCLASSIFIED SECTION"/>
+               <text>
+                  <paragraph>Manufactured for:<br/>Revance Therapeutics, Inc. Newark, CA 94560<br/>U.S. License Number 2101</paragraph>
+                  <paragraph>© 2023 Revance Therapeutics, Inc.<br/>DAXXIFY is a registered trademark of Revance Therapeutics, Inc.<br/>PI761127-5.0</paragraph>
+               </text>
+               <effectiveTime value="20231108"/>
+            </section>
+         </component>
+         <component>
+            <section ID="medguide">
+               <id root="6cacae3a-130a-4b2a-94bb-cc9f9595713a"/>
+               <code code="42231-1" codeSystem="2.16.840.1.113883.6.1" displayName="SPL MEDGUIDE SECTION"/>
+               <text>
+                  <table width="100%">
+                     <col width="2%" align="left" valign="top"/>
+                     <col width="32%" align="left" valign="top"/>
+                     <col width="32%" align="left" valign="top"/>
+                     <col width="32%" align="left" valign="top"/>
+                     <col width="2%" align="right" valign="top"/>
+                     <thead>
+                        <tr>
+                           <th styleCode="Lrule Rrule" colspan="5" align="center">MEDICATION GUIDE<br/>DAXXIFY<sup>®</sup> (dax'-i-fye) <br/>daxibotulinumtoxinA-lanm<br/>for injection, for intramuscular use</th>
+                        </tr>
+                     </thead>
+                     <tfoot>
+                        <tr>
+                           <td align="left" valign="top" colspan="3">    This Medication Guide has been approved by the U.S. Food and Drug Administration.</td>
+                           <td align="right" valign="top" colspan="2">Revised: 11/2023        </td>
+                        </tr>
+                     </tfoot>
+                     <tbody>
+                        <tr>
+                           <td styleCode="Lrule Rrule" colspan="5">
+                              <content styleCode="bold" ID="important">What is the most important information I should know about DAXXIFY?<br/>DAXXIFY may cause serious side effects that can be life-threatening. Call your healthcare provider or get medical help right away if you have any of these problems after treatment with DAXXIFY:</content>
+                              <list listType="unordered" styleCode="disc">
+                                 <item>
+                                    <content styleCode="bold">Problems swallowing, speaking, or breathing. These problems can happen hours, days, or weeks after an injection of DAXXIFY</content> if the muscles that you use to breathe and swallow become weak after the injection. Death can happen as a complication if you have severe problems with swallowing or breathing after treatment with DAXXIFY. 	<list listType="unordered" styleCode="circle">
+                                       <item>People with certain breathing problems may need to use muscles in their neck to help them breathe. These people may be at greater risk for serious breathing problems with DAXXIFY.</item>
+                                       <item>Swallowing problems may last for several months. People who cannot swallow well may need a feeding tube to receive food and water. If swallowing problems are severe, food or liquids may go into your lungs. People who already have swallowing or breathing problems before receiving DAXXIFY have the highest risk of getting these problems.</item>
+                                    </list>
+                                 </item>
+                                 <item>
+                                    <content styleCode="bold">Spread of toxin effects</content>. In some cases, the effect of botulinum toxin may affect areas of the body away from the injection site and cause symptoms of a serious condition called botulism. The symptoms of botulism include:</item>
+                              </list>
+                           </td>
+                        </tr>
+                        <tr>
+                           <td styleCode="Lrule"/>
+                           <td>
+                              <list listType="unordered" styleCode="circle">
+                                 <item>loss of strength and muscle weakness all over the body</item>
+                                 <item>blurred vision and drooping eyelids</item>
+                                 <item>trouble saying words clearly</item>
+                                 <item>trouble breathing</item>
+                              </list>
+                           </td>
+                           <td colspan="3" styleCode="Rrule">
+                              <list listType="unordered" styleCode="circle">
+                                 <item>double vision</item>
+                                 <item>hoarseness or change or loss of voice</item>
+                                 <item>loss of bladder control</item>
+                                 <item>trouble swallowing</item>
+                              </list>
+                           </td>
+                        </tr>
+                        <tr styleCode="Botrule">
+                           <td styleCode="Lrule Rrule" colspan="5">These symptoms can happen hours, days, or weeks after you receive an injection of DAXXIFY.<br/>These problems could make it unsafe for you to drive a car or do other dangerous activities. See "<content styleCode="bold">
+                                 <linkHtml href="#avoid">What should I avoid while receiving DAXXIFY?</linkHtml>"</content>
+                           </td>
+                        </tr>
+                        <tr styleCode="Botrule">
+                           <td styleCode="Lrule Rrule" colspan="5">
+                              <content styleCode="bold">What is DAXXIFY?</content>
+                              <br/>DAXXIFY is a prescription medicine for adults that is injected into muscles and used:<list listType="unordered" styleCode="disc">
+                                 <item>to temporarily improve the look of moderate to severe frown lines between the eyebrows (glabellar lines)</item>
+                                 <item>to treat cervical dystonia (CD)</item>
+                              </list>It is not known if DAXXIFY is safe and effective in children less than 18 years of age.</td>
+                        </tr>
+                        <tr styleCode="Botrule">
+                           <td styleCode="Lrule Rrule" colspan="5">
+                              <content styleCode="bold">Do not receive DAXXIFY if you:</content>
+                              <list listType="unordered" styleCode="disc">
+                                 <item>are allergic to DAXXIFY or to any of the ingredients in DAXXIFY. See the end of this Medication Guide for a complete list of ingredients in DAXXIFY.</item>
+                                 <item>have had an allergic reaction to any other botulinum toxin product such as rimabotulinumtoxinB (MYOBLOC), onabotulinumtoxinA (BOTOX, BOTOX COSMETIC), abobotulinumtoxinA (DYSPORT), incobotulinumtoxinA (XEOMIN), or prabotulinumtoxinA-xvfs (JEUVEAU).</item>
+                                 <item>have a skin infection at the planned injection site.</item>
+                              </list>
+                           </td>
+                        </tr>
+                        <tr styleCode="Botrule">
+                           <td styleCode="Lrule Rrule" colspan="5">
+                              <content styleCode="bold">Before receiving DAXXIFY, tell your healthcare provider about all of your medical conditions, including if you:</content>
+                              <list listType="unordered" styleCode="disc">
+                                 <item>have a disease that affects your muscles and nerves (such as amyotrophic lateral sclerosis [ALS or Lou Gehrig's disease], myasthenia gravis, or Lambert-Eaton syndrome). See <content styleCode="bold">"<linkHtml href="#important">What is the most important information I should know about DAXXIFY?</linkHtml>"</content>
+                                 </item>
+                                 <item>have had any side effect from any other botulinum toxin in the past.</item>
+                                 <item>have or have had a breathing problem, such as asthma or emphysema.</item>
+                                 <item>have or have had swallowing problems.</item>
+                                 <item>have or have had heart problems.</item>
+                                 <item>have or have had bleeding problems.</item>
+                                 <item>have weakness of your forehead muscles, such as trouble raising your eyebrows.</item>
+                                 <item>have drooping eyelids.</item>
+                                 <item>plan to have surgery.</item>
+                                 <item>have had surgery on your face.</item>
+                                 <item>have had dry eye problems with the use of botulinum toxin products in the past.</item>
+                                 <item>are pregnant or plan to become pregnant. It is not known if DAXXIFY can harm your unborn baby.</item>
+                                 <item>are breastfeeding or plan to breastfeed. It is not known if DAXXIFY passes into your breast milk. Talk to your healthcare provider about the best way to feed your baby during treatment with DAXXIFY.</item>
+                              </list>
+                              <content styleCode="bold">Tell your healthcare provider about all the medicines you take,</content> including prescription and over-the-counter medicines, vitamins, and herbal supplements.<br/>Using DAXXIFY with certain other medicines may cause serious side effects. <content styleCode="bold">Do not start any new medicines until you have told your healthcare provider that you have received DAXXIFY in the past.<br/>Especially tell your healthcare provider if you:</content>
+                              <list listType="unordered" styleCode="disc">
+                                 <item>have received any other botulinum toxin product in the last 4 months.</item>
+                                 <item>have received injections of botulinum toxin such as rimabotulinumtoxinB (MYOBLOC), onabotulinumtoxinA (BOTOX, BOTOX COSMETIC), abobotulinumtoxinA (DYSPORT), prabotulinumtoxinA (JEUVEAU), and incobotulinumtoxinA (XEOMIN) in the past. Be sure your healthcare provider knows exactly which product you received.</item>
+                              </list>Know the medicines you take. Keep a list of your medicines with you to show your healthcare provider and pharmacist each time you get a new medicine.</td>
+                        </tr>
+                        <tr styleCode="Botrule">
+                           <td styleCode="Lrule Rrule" colspan="5">
+                              <content styleCode="bold">How will I receive DAXXIFY?</content>
+                              <list listType="unordered" styleCode="disc">
+                                 <item>DAXXIFY is an injection that your healthcare provider will give you.</item>
+                                 <item>DAXXIFY is injected into your affected muscles.</item>
+                                 <item>Your healthcare provider may change your dose of DAXXIFY until you and your healthcare provider find the best dose for you.</item>
+                                 <item>DAXXIFY should not be received more than 1 time every 3 months.</item>
+                                 <item>Your healthcare provider will tell you how often you will receive your dose of DAXXIFY injections.</item>
+                              </list>
+                           </td>
+                        </tr>
+                        <tr styleCode="Botrule">
+                           <td styleCode="Lrule Rrule" colspan="5">
+                              <content styleCode="bold" ID="avoid">What should I avoid while receiving DAXXIFY?</content>
+                              <br/>DAXXIFY may cause loss of strength or general muscle weakness, blurred vision, or drooping eyelids within hours to weeks of receiving DAXXIFY. <content styleCode="bold">If this happens, do not drive a car, operate machinery, or do other dangerous activities.</content> See "<content styleCode="bold">
+                                 <linkHtml href="#important">What is the most important information I should know about DAXXIFY?</linkHtml>" 										</content>
+                           </td>
+                        </tr>
+                        <tr>
+                           <td styleCode="Lrule Rrule" colspan="5">
+                              <content styleCode="bold">What are the possible side effects of DAXXIFY? DAXXIFY may cause serious side effects, including:</content>
+                              <list listType="unordered" styleCode="disc">
+                                 <item>See <content styleCode="bold">"<linkHtml href="#important">What is the most important information I should know about DAXXIFY?</linkHtml>"</content>
+                                 </item>
+                                 <item>
+                                    <content styleCode="bold">Allergic reactions.</content> Symptoms of an allergic reaction to DAXXIFY may include itching, rash, redness, swelling, wheezing, trouble breathing, or dizziness or feeling faint. Tell your healthcare provider or get medical help right away if you have wheezing or trouble breathing, or if you feel dizzy or faint.</item>
+                                 <item>
+                                    <content styleCode="bold">Heart problems.</content> Irregular heartbeat and heart attacks that have resulted in death have happened in some people who received botulinum toxin products.</item>
+                                 <item>
+                                    <content styleCode="bold">Eye problems.</content> Dry eye, reduced blinking, and corneal problems have happened in some people who receive DAXXIFY to treat glabellar lines. Tell your healthcare provider if you develop eye pain or irritation, sensitivity to light, or changes in your vision.</item>
+                              </list>
+                              <content styleCode="bold">The most common side effects of DAXXIFY in people with glabellar lines include:</content>
+                           </td>
+                        </tr>
+                        <tr>
+                           <td styleCode="Lrule"/>
+                           <td>
+                              <list listType="unordered" styleCode="disc">
+                                 <item>headache</item>
+                                 <item>eyelid drooping</item>
+                              </list>
+                           </td>
+                           <td colspan="3" styleCode="Rrule">
+                              <list listType="unordered" styleCode="disc">
+                                 <item>loss of the ability to move the muscles in your face</item>
+                              </list>
+                           </td>
+                        </tr>
+                        <tr>
+                           <td styleCode="Lrule Rrule" colspan="5">
+                              <content styleCode="bold">The most common side effects of DAXXIFY in people with cervical dystonia include:</content>
+                           </td>
+                        </tr>
+                        <tr>
+                           <td styleCode="Lrule"/>
+                           <td>
+                              <list listType="unordered" styleCode="disc">
+                                 <item>headache</item>
+                                 <item>muscle weakness</item>
+                              </list>
+                           </td>
+                           <td>
+                              <list listType="unordered" styleCode="disc">
+                                 <item>injection site pain</item>
+                                 <item>upper respiratory tract infection </item>
+                              </list>
+                           </td>
+                           <td colspan="2" styleCode="Rrule">
+                              <list listType="unordered" styleCode="disc">
+                                 <item>injection site redness</item>
+                              </list>
+                           </td>
+                        </tr>
+                        <tr styleCode="Botrule">
+                           <td styleCode="Lrule Rrule" colspan="5">These are not all the possible side effects of DAXXIFY.<br/>Call your doctor for medical advice about side effects. You may report side effects to FDA at 1-800-FDA-1088.<br/> You may also report side effects to Revance Therapeutics, Inc. at 1-877-373-8669.</td>
+                        </tr>
+                        <tr styleCode="Botrule">
+                           <td styleCode="Lrule Rrule" colspan="5">
+                              <content styleCode="bold">General information about the safe and effective use of DAXXIFY.</content>
+                              <br/>Medicines are sometimes prescribed for purposes other than those listed in a Medication Guide. You can ask your pharmacist or healthcare provider for information about DAXXIFY that is written for health professionals.</td>
+                        </tr>
+                        <tr>
+                           <td styleCode="Lrule Rrule" colspan="5">
+                              <content styleCode="bold">What are the ingredients in DAXXIFY? <br/>Active ingredient:</content> daxibotulinumtoxinA-lanm<br/>
+                              <content styleCode="bold">Inactive ingredients:</content> L-histidine, L-histidine HCl monohydrate, polysorbate 20, RTP004 peptide, trehalose dihydrate<br/>Manufactured by: Revance Therapeutics, Inc. Newark, CA 94560<br/>U.S. License Number 2101<br/>© 2023 Revance Therapeutics, Inc.<br/>All trademarks are the property of their respective owners. MG761127-4.0</td>
+                        </tr>
+                     </tbody>
+                  </table>
+               </text>
+               <effectiveTime value="20231108"/>
+            </section>
+         </component>
+         <component>
+            <section>
+               <id root="6508ea9f-2f68-480f-a725-aa4c1a37933a"/>
+               <code code="51945-4" codeSystem="2.16.840.1.113883.6.1" displayName="PACKAGE LABEL.PRINCIPAL DISPLAY PANEL"/>
+               <title>PRINCIPAL DISPLAY PANEL - 100 Units Vial Carton</title>
+               <text>
+                  <paragraph>daxibotulinumtoxinA-lanm</paragraph>
+                  <paragraph>DAXXIFY<sup>®</sup>
+                     <br/>FOR INJECTION</paragraph>
+                  <paragraph>100<br/>units/vial</paragraph>
+                  <paragraph>REVANCE<sup>®</sup>
+                  </paragraph>
+                  <paragraph>ATTENTION:<br/>Each patient is required to<br/>receive the enclosed<br/>Medication Guide.</paragraph>
+                  <paragraph>Rx only<br/>1 Single-Dose Vial<br/>For intramuscular use</paragraph>
+                  <renderMultiMedia referencedObject="MM4"/>
+               </text>
+               <effectiveTime value="20231108"/>
+               <component>
+                  <observationMedia ID="MM4">
+                     <text>PRINCIPAL DISPLAY PANEL - 100 Units Vial Carton</text>
+                     <value mediaType="image/jpeg" xsi:type="ED">
+                        <reference value="daxxify-04.jpg"/>
+                     </value>
+                  </observationMedia>
+               </component>
+            </section>
+         </component>
+         <component>
+            <section>
+               <id root="dfeb5526-f13e-4f6e-a310-fc38385db96b"/>
+               <code code="51945-4" codeSystem="2.16.840.1.113883.6.1" displayName="PACKAGE LABEL.PRINCIPAL DISPLAY PANEL"/>
+               <title>PRINCIPAL DISPLAY PANEL - 100 Units Vial Carton - 112-05</title>
+               <text>
+                  <paragraph>daxibotulinumtoxinA-lanm</paragraph>
+                  <paragraph>DAXXIFY<sup>®</sup>
+                     <br/>FOR INJECTION</paragraph>
+                  <paragraph>100<br/>units/vial</paragraph>
+                  <paragraph>REVANCE<sup>®</sup>
+                  </paragraph>
+                  <paragraph>ATTENTION:<br/>Each patient is required to<br/>receive the enclosed<br/>Medication Guide.</paragraph>
+                  <paragraph>Rx only<br/>1 Single-Dose Vial<br/>For intramuscular use</paragraph>
+                  <renderMultiMedia referencedObject="MM5"/>
+               </text>
+               <effectiveTime value="20231108"/>
+               <component>
+                  <observationMedia ID="MM5">
+                     <text>PRINCIPAL DISPLAY PANEL - 100 Units Vial Carton - 112-05</text>
+                     <value mediaType="image/jpeg" xsi:type="ED">
+                        <reference value="daxxify-05.jpg"/>
+                     </value>
+                  </observationMedia>
+               </component>
+            </section>
+         </component>
+      </structuredBody>
+   </component>
+</document>

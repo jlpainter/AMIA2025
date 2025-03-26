@@ -1,0 +1,988 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet href="http://www.accessdata.fda.gov/spl/stylesheet/spl.xsl" type="text/xsl"?>
+<document xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:hl7-org:v3 http://www.accessdata.fda.gov/spl/schema/spl.xsd">
+   <id root="b16cb744-b0d8-4f1a-a32e-43b20fe074be"/>
+   <code code="34391-3" codeSystem="2.16.840.1.113883.6.1" displayName="HUMAN PRESCRIPTION DRUG LABEL"/>
+   <title>Tofranil<br/>imipramine hydrochloride tablets USP<br/>(10 mg)<br/>
+      <br/>Rx only</title>
+   <effectiveTime value="20161223"/>
+   <setId root="e6aba45c-9e3c-4d14-82ce-fda3ba771fe1"/>
+   <versionNumber value="1"/>
+   <author>
+      <time/>
+      <assignedEntity>
+         <representedOrganization>
+            <id root="1.3.6.1.4.1.519.1" extension="079802154"/>
+            <name>Thompson Medical Solutions LLC</name>
+            <assignedEntity>
+               <assignedOrganization/>
+            </assignedEntity>
+         </representedOrganization>
+      </assignedEntity>
+   </author>
+   <component>
+      <structuredBody>
+         <component>
+            <section>
+               <id root="56b73689-b358-46b5-a9d9-4649e5918cb0"/>
+               <code code="48780-1" codeSystem="2.16.840.1.113883.6.1" displayName="SPL product data elements section"/>
+               <title/>
+               <text/>
+               <effectiveTime value="20161230"/>
+               <subject>
+                  <manufacturedProduct>
+                     <manufacturedProduct>
+                        <code code="69874-992" codeSystem="2.16.840.1.113883.6.69"/>
+                        <name>Tofranil</name>
+                        <formCode code="C42992" codeSystem="2.16.840.1.113883.3.26.1.1" displayName="TABLET, SUGAR COATED"/>
+                        <asEntityWithGeneric>
+                           <genericMedicine>
+                              <name>Imipramine hydrochloride</name>
+                           </genericMedicine>
+                        </asEntityWithGeneric>
+                        <ingredient classCode="ACTIB">
+                           <quantity>
+                              <numerator value="10" unit="mg"/>
+                              <denominator value="1" unit="1"/>
+                           </quantity>
+                           <ingredientSubstance>
+                              <code code="BKE5Q1J60U" codeSystem="2.16.840.1.113883.4.9"/>
+                              <name>IMIPRAMINE HYDROCHLORIDE</name>
+                              <activeMoiety>
+                                 <activeMoiety>
+                                    <code code="OGG85SX4E4" codeSystem="2.16.840.1.113883.4.9"/>
+                                    <name>IMIPRAMINE</name>
+                                 </activeMoiety>
+                              </activeMoiety>
+                           </ingredientSubstance>
+                        </ingredient>
+                        <ingredient classCode="IACT">
+                           <ingredientSubstance>
+                              <code code="97Z1WI3NDX" codeSystem="2.16.840.1.113883.4.9"/>
+                              <name>CALCIUM PHOSPHATE, UNSPECIFIED FORM</name>
+                           </ingredientSubstance>
+                        </ingredient>
+                        <ingredient classCode="IACT">
+                           <ingredientSubstance>
+                              <code code="OP1R32D61U" codeSystem="2.16.840.1.113883.4.9"/>
+                              <name>MICROCRYSTALLINE CELLULOSE</name>
+                           </ingredientSubstance>
+                        </ingredient>
+                        <ingredient classCode="IACT">
+                           <ingredientSubstance>
+                              <code code="F05Q2T2JA0" codeSystem="2.16.840.1.113883.4.9"/>
+                              <name>DOCUSATE SODIUM</name>
+                           </ingredientSubstance>
+                        </ingredient>
+                        <ingredient classCode="IACT">
+                           <ingredientSubstance>
+                              <code code="1K09F3G675" codeSystem="2.16.840.1.113883.4.9"/>
+                              <name>FERRIC OXIDE RED</name>
+                           </ingredientSubstance>
+                        </ingredient>
+                        <ingredient classCode="IACT">
+                           <ingredientSubstance>
+                              <code code="XM0M87F357" codeSystem="2.16.840.1.113883.4.9"/>
+                              <name>FERROSOFERRIC OXIDE</name>
+                           </ingredientSubstance>
+                        </ingredient>
+                        <ingredient classCode="IACT">
+                           <ingredientSubstance>
+                              <code code="70097M6I30" codeSystem="2.16.840.1.113883.4.9"/>
+                              <name>MAGNESIUM STEARATE</name>
+                           </ingredientSubstance>
+                        </ingredient>
+                        <ingredient classCode="IACT">
+                           <ingredientSubstance>
+                              <code code="3WJQ0SDW1A" codeSystem="2.16.840.1.113883.4.9"/>
+                              <name>POLYETHYLENE GLYCOL, UNSPECIFIED</name>
+                           </ingredientSubstance>
+                        </ingredient>
+                        <ingredient classCode="IACT">
+                           <ingredientSubstance>
+                              <code code="FZ989GH94E" codeSystem="2.16.840.1.113883.4.9"/>
+                              <name>POVIDONE, UNSPECIFIED</name>
+                           </ingredientSubstance>
+                        </ingredient>
+                        <ingredient classCode="IACT">
+                           <ingredientSubstance>
+                              <code code="5856J3G2A2" codeSystem="2.16.840.1.113883.4.9"/>
+                              <name>SODIUM STARCH GLYCOLATE TYPE A POTATO</name>
+                           </ingredientSubstance>
+                        </ingredient>
+                        <ingredient classCode="IACT">
+                           <ingredientSubstance>
+                              <code code="C151H8M554" codeSystem="2.16.840.1.113883.4.9"/>
+                              <name>SUCROSE</name>
+                           </ingredientSubstance>
+                        </ingredient>
+                        <ingredient classCode="IACT">
+                           <ingredientSubstance>
+                              <code code="7SEV7J4R1U" codeSystem="2.16.840.1.113883.4.9"/>
+                              <name>TALC</name>
+                           </ingredientSubstance>
+                        </ingredient>
+                        <ingredient classCode="IACT">
+                           <ingredientSubstance>
+                              <code code="15FIX9V2JP" codeSystem="2.16.840.1.113883.4.9"/>
+                              <name>TITANIUM DIOXIDE</name>
+                           </ingredientSubstance>
+                        </ingredient>
+                        <asContent>
+                           <quantity>
+                              <numerator value="100" unit="1"/>
+                              <denominator value="1" unit="1"/>
+                           </quantity>
+                           <containerPackagedProduct>
+                              <code code="69874-992-01" codeSystem="2.16.840.1.113883.6.69"/>
+                              <formCode code="C43169" displayName="BOTTLE" codeSystem="2.16.840.1.113883.3.26.1.1"/>
+                           </containerPackagedProduct>
+                           <subjectOf>
+                              <characteristic classCode="OBS">
+                                 <code code="SPLCMBPRDTP" codeSystem="2.16.840.1.113883.1.11.19255"/>
+                                 <value code="C112160" displayName="Type 0: Not a Combination Product" codeSystem="2.16.840.1.113883.3.26.1.1" xsi:type="CE"/>
+                              </characteristic>
+                           </subjectOf>
+                           <subjectOf>
+                              <marketingAct>
+                                 <code code="C53292" codeSystem="2.16.840.1.113883.3.26.1.1"/>
+                                 <statusCode code="active"/>
+                                 <effectiveTime>
+                                    <low value="20161223"/>
+                                 </effectiveTime>
+                              </marketingAct>
+                           </subjectOf>
+                        </asContent>
+                     </manufacturedProduct>
+                     <subjectOf>
+                        <marketingAct>
+                           <code code="C53292" codeSystem="2.16.840.1.113883.3.26.1.1"/>
+                           <statusCode code="active"/>
+                           <effectiveTime>
+                              <low value="20161223"/>
+                           </effectiveTime>
+                        </marketingAct>
+                     </subjectOf>
+                     <subjectOf>
+                        <approval>
+                           <id extension="ANDA087844" root="2.16.840.1.113883.3.150"/>
+                           <code code="C73584" codeSystem="2.16.840.1.113883.3.26.1.1" displayName="ANDA"/>
+                           <author>
+                              <territorialAuthority>
+                                 <territory>
+                                    <code code="USA" codeSystem="2.16.840.1.113883.5.28"/>
+                                 </territory>
+                              </territorialAuthority>
+                           </author>
+                        </approval>
+                     </subjectOf>
+                     <subjectOf>
+                        <characteristic>
+                           <code code="SPLCOLOR" codeSystem="2.16.840.1.113883.1.11.19255"/>
+                           <value code="C48326" codeSystem="2.16.840.1.113883.3.26.1.1" displayName="red" xsi:type="CE">
+                              <originalText>coral-reddish brown</originalText>
+                           </value>
+                        </characteristic>
+                     </subjectOf>
+                     <subjectOf>
+                        <characteristic>
+                           <code code="SPLSHAPE" codeSystem="2.16.840.1.113883.1.11.19255"/>
+                           <value code="C48353" codeSystem="2.16.840.1.113883.3.26.1.1" displayName="TRIANGLE" xsi:type="CE"/>
+                        </characteristic>
+                     </subjectOf>
+                     <subjectOf>
+                        <characteristic>
+                           <code code="SPLSIZE" codeSystem="2.16.840.1.113883.1.11.19255"/>
+                           <value unit="mm" value="5" xsi:type="PQ"/>
+                        </characteristic>
+                     </subjectOf>
+                     <subjectOf>
+                        <characteristic>
+                           <code code="SPLSCORE" codeSystem="2.16.840.1.113883.1.11.19255"/>
+                           <value value="1" xsi:type="INT"/>
+                        </characteristic>
+                     </subjectOf>
+                     <subjectOf>
+                        <characteristic>
+                           <code code="SPLIMPRINT" codeSystem="2.16.840.1.113883.1.11.19255"/>
+                           <value xsi:type="ST">M;10</value>
+                        </characteristic>
+                     </subjectOf>
+                     <consumedIn>
+                        <substanceAdministration>
+                           <routeCode code="C38288" codeSystem="2.16.840.1.113883.3.26.1.1" displayName="ORAL"/>
+                        </substanceAdministration>
+                     </consumedIn>
+                  </manufacturedProduct>
+               </subject>
+            </section>
+         </component>
+         <component>
+            <section ID="L996ad07b-5c6d-4b92-8e68-c3cf3084d62c">
+               <id root="72a1610f-785d-479e-8421-5d3231a07d8c"/>
+               <code code="42229-5" codeSystem="2.16.840.1.113883.6.1" displayName="SPL UNCLASSIFIED SECTION"/>
+               <title/>
+               <text>
+                  <paragraph>
+                     <content styleCode="bold">Prescribing Information</content>
+                  </paragraph>
+               </text>
+               <effectiveTime value="20161225"/>
+            </section>
+         </component>
+         <component>
+            <section ID="Lf239f8c1-0f07-49d0-bd57-6c1f1d9c265d">
+               <id root="7eecad11-69b0-4566-ade3-67008006b7d3"/>
+               <code code="34066-1" codeSystem="2.16.840.1.113883.6.1" displayName="BOXED WARNING SECTION"/>
+               <title>Suicidality and Antidepressant Drugs</title>
+               <text>
+                  <paragraph>
+                     <content styleCode="bold">Antidepressants increased the risk compared to placebo of suicidal thinking and behavior (suicidality) in children, adolescents, and young adults in short-term studies of major depressive disorder (MDD) and other psychiatric disorders. Anyone considering the use of imipramine hydrochloride or any other antidepressant in a child, adolescent, or young adult must balance this risk with the clinical need. Short-term studies did not show an increase in the risk of suicidality with antidepressants compared to placebo in adults beyond age 24; there was a reduction in risk with antidepressants compared to placebo in adults aged 65 and older. Depression and certain other psychiatric disorders are themselves associated with increases in the risk of suicide. Patients of all ages who are started on antidepressant therapy should be monitored appropriately and observed closely for clinical worsening, suicidality, or unusual changes in behavior. Families and caregivers should be advised of the need for close observation and communication with the prescriber. Imipramine hydrochloride is not approved for use in pediatric patients (<content styleCode="italics">see  </content>
+                        <linkHtml href="#Lef797adc-929d-4722-8a34-862ed84f5bca">WARNINGS, Clinical Worsening and Suicide Risk</linkHtml>; <linkHtml href="#L3a551b22-b3f0-4dd1-811e-63e9633690ff">PRECAUTIONS, Information for Patients</linkHtml>; <content styleCode="italics">and  </content>
+                        <linkHtml href="#L001d8dec-ee29-428b-a0dc-183ec541222d">PRECAUTIONS, Pediatric Use</linkHtml>).</content>
+                  </paragraph>
+               </text>
+               <effectiveTime value="20161225"/>
+            </section>
+         </component>
+         <component>
+            <section ID="L4869e258-1d00-48d4-b937-4f57c33caa88">
+               <id root="211936d7-620f-45c0-959d-617892463e64"/>
+               <code code="34089-3" codeSystem="2.16.840.1.113883.6.1" displayName="DESCRIPTION SECTION"/>
+               <title>DESCRIPTION</title>
+               <text>
+                  <paragraph>Tofranil™ is supplied in tablet form for oral administration.</paragraph>
+                  <paragraph>Tofranil, imipramine hydrochloride USP, the original tricyclic antidepressant, is a member of the dibenzazepine group of compounds. It is designated 5-3-(dimethylamino)propyl-10,11-dihydro-5<content styleCode="italics">H</content>-dibenz [<content styleCode="italics">b,f</content>]-azepine monohydrochloride. Its structural formula is:</paragraph>
+                  <paragraph>
+                     <renderMultiMedia referencedObject="Lf93b241a-0efd-4348-b748-8fbf8fba85d4"/>
+                  </paragraph>
+                  <paragraph>Imipramine hydrochloride USP is a white to off-white, odorless, or practically odorless crystalline powder. It is freely soluble in water and in alcohol, soluble in acetone, and insoluble in ether and in benzene.</paragraph>
+                  <paragraph>
+                     <content styleCode="italics">Inactive Ingredients:</content> Calcium phosphate, cellulose compounds, docusate sodium, iron oxides, magnesium stearate, polyethylene glycol, povidone, sodium starch glycolate, sucrose, talc, and titanium dioxide.</paragraph>
+               </text>
+               <effectiveTime value="20161225"/>
+               <component>
+                  <observationMedia ID="Lf93b241a-0efd-4348-b748-8fbf8fba85d4">
+                     <text>Digram</text>
+                     <value mediaType="image/jpeg" xsi:type="ED">
+                        <reference value="struct-1.jpg"/>
+                     </value>
+                  </observationMedia>
+               </component>
+            </section>
+         </component>
+         <component>
+            <section ID="La3d950e3-3ded-4d49-b27f-f7ef5269be4a">
+               <id root="015b320f-6abd-4d72-82ce-daabaa24c5bb"/>
+               <code code="34090-1" codeSystem="2.16.840.1.113883.6.1" displayName="CLINICAL PHARMACOLOGY SECTION"/>
+               <title>CLINICAL PHARMACOLOGY</title>
+               <text>
+                  <paragraph>The mechanism of action of Tofranil is not definitely known. However, it does not act primarily by stimulation of the central nervous system. The clinical effect is hypothesized as being due to potentiation of adrenergic synapses by blocking uptake of norepinephrine at nerve endings. The mode of action of the drug in controlling childhood enuresis is thought to be apart from its antidepressant effect.</paragraph>
+               </text>
+               <effectiveTime value="20161225"/>
+            </section>
+         </component>
+         <component>
+            <section ID="Ld5a93de9-f69f-428d-9ea6-cb118078938c">
+               <id root="886ff04e-4532-4698-b2c1-318b5cee8260"/>
+               <code code="34067-9" codeSystem="2.16.840.1.113883.6.1" displayName="INDICATIONS &amp; USAGE SECTION"/>
+               <title>INDICATIONS AND USAGE</title>
+               <text/>
+               <effectiveTime value="20161225"/>
+               <component>
+                  <section ID="Lb8843b23-57b4-43cb-b63e-4b606d97cecb">
+                     <id root="fc0bbd8b-9e40-4ada-8d9a-a6b8b6560ee6"/>
+                     <code code="42229-5" codeSystem="2.16.840.1.113883.6.1" displayName="SPL UNCLASSIFIED SECTION"/>
+                     <title/>
+                     <text>
+                        <paragraph>
+                           <content styleCode="bold">Depression –</content> For the relief of symptoms of depression. Endogenous depression is more likely to be alleviated than other depressive states. One to three weeks of treatment may be needed before optimal therapeutic effects are evident.</paragraph>
+                     </text>
+                     <effectiveTime value="20161225"/>
+                  </section>
+               </component>
+               <component>
+                  <section ID="L1cde3ba6-ddcf-4070-a90d-2940aa1bb058">
+                     <id root="7023a18d-d3f5-4369-bee8-a9eb30c3c5ad"/>
+                     <code code="42229-5" codeSystem="2.16.840.1.113883.6.1" displayName="SPL UNCLASSIFIED SECTION"/>
+                     <title/>
+                     <text>
+                        <paragraph>
+                           <content styleCode="bold">Childhood Enuresis –</content> May be useful as temporary adjunctive therapy in reducing enuresis in children aged 6 years and older, after possible organic causes have been excluded by appropriate tests. In patients having daytime symptoms of frequency and urgency, examination should include voiding cystourethrography and cystoscopy, as necessary. The effectiveness of treatment may decrease with continued drug administration.</paragraph>
+                     </text>
+                     <effectiveTime value="20161225"/>
+                  </section>
+               </component>
+            </section>
+         </component>
+         <component>
+            <section ID="Lc6f43109-a91c-4848-bdc8-16d488af076d">
+               <id root="f01a4363-06ce-46d9-ab23-c7e83d681a08"/>
+               <code code="34070-3" codeSystem="2.16.840.1.113883.6.1" displayName="CONTRAINDICATIONS SECTION"/>
+               <title>CONTRAINDICATIONS</title>
+               <text>
+                  <paragraph>The concomitant use of monoamine oxidase inhibiting compounds is contraindicated. Hyperpyretic crises or severe convulsive seizures may occur in patients receiving such combinations. The potentiation of adverse effects can be serious, or even fatal. When it is desired to substitute Tofranil in patients receiving a monoamine oxidase inhibitor, as long an interval should elapse as the clinical situation will allow, with a minimum of 14 days. Initial dosage should be low and increases should be gradual and cautiously prescribed.</paragraph>
+                  <paragraph>The drug is contraindicated during the acute recovery period after a myocardial infarction. Patients with a known hypersensitivity to this compound should not be given the drug. The possibility of cross-sensitivity to other dibenzazepine compounds should be kept in mind.</paragraph>
+               </text>
+               <effectiveTime value="20161225"/>
+            </section>
+         </component>
+         <component>
+            <section ID="L35f9038b-c8ee-42cd-b3df-09fe578c9ceb">
+               <id root="153417c8-371a-40a6-b311-510ab64eb84d"/>
+               <code code="34071-1" codeSystem="2.16.840.1.113883.6.1" displayName="WARNINGS SECTION"/>
+               <title>WARNINGS</title>
+               <text/>
+               <effectiveTime value="20161225"/>
+               <component>
+                  <section ID="Lef797adc-929d-4722-8a34-862ed84f5bca">
+                     <id root="0ece3398-eb52-483b-981a-230650cc120f"/>
+                     <code code="42229-5" codeSystem="2.16.840.1.113883.6.1" displayName="SPL UNCLASSIFIED SECTION"/>
+                     <title>Clinical Worsening and Suicide Risk</title>
+                     <text>
+                        <paragraph>Patients with major depressive disorder (MDD), both adult and pediatric, may experience worsening of their depression and/or the emergence of suicidal ideation and behavior (suicidality) or unusual changes in behavior, whether or not they are taking antidepressant medications, and this risk may persist until significant remission occurs. Suicide is a known risk of depression and certain other psychiatric disorders, and these disorders themselves are the strongest predictors of suicide. There has been a long-standing concern, however, that antidepressants may have a role in inducing worsening of depression and the emergence of suicidality in certain patients during the early phases of treatment. Pooled analyses of short-term placebo-controlled trials of antidepressant drugs (SSRIs and others) showed that these drugs increase the risk of suicidal thinking and behavior (suicidality) in children, adolescents, and young adults (ages 18 to 24) with major depressive disorder (MDD) and other psychiatric disorders. Short-term studies did not show an increase in the risk of suicidality with antidepressants compared to placebo in adults beyond age 24; there was a reduction with antidepressants compared to placebo in adults aged 65 and older.</paragraph>
+                        <paragraph>The pooled analyses of placebo-controlled trials in children and adolescents with MDD, obsessive compulsive disorder (OCD), or other psychiatric disorders included a total of 24 short-term trials of 9 antidepressant drugs in over 4400 patients. The pooled analyses of placebo-controlled trials in adults with MDD or other psychiatric disorders included a total of 295 short-term trials (median duration of 2 months) of 11 antidepressant drugs in over 77,000 patients. There was considerable variation in risk of suicidality among drugs, but a tendency toward an increase in the younger patients for almost all drugs studied. There were differences in absolute risk of suicidality across the different indications, with the highest incidence in MDD. The risk differences (drug vs. placebo), however, were relatively stable within age strata and across indications. These risk differences (drug-placebo difference in the number of cases of suicidality per 1000 patients treated) are provided in <content styleCode="bold">Table 1.</content>
+                        </paragraph>
+                        <table width="32%">
+                           <caption> Table 1</caption>
+                           <tbody>
+                              <tr>
+                                 <td styleCode="Botrule Lrule Rrule Toprule" align="center">
+                                    <content styleCode="bold">Age Range</content>
+                                 </td>
+                                 <td styleCode="Botrule Lrule Rrule Toprule" align="center">
+                                    <content styleCode="bold">Drug-Placebo Difference in</content>
+                                    <br/>
+                                    <content styleCode="bold">Number of Cases of Suicidality</content>
+                                    <br/>
+                                    <content styleCode="bold">per 1000 Patients Treated</content>
+                                 </td>
+                              </tr>
+                              <tr>
+                                 <td styleCode="Botrule Lrule Rrule Toprule" colspan="2" align="center">
+                                    <content styleCode="bold">Increases Compared to Placebo</content>
+                                 </td>
+                              </tr>
+                              <tr>
+                                 <td styleCode="Lrule Rrule" align="center">&lt;18</td>
+                                 <td styleCode="Lrule Rrule" align="center">14 additional cases</td>
+                              </tr>
+                              <tr>
+                                 <td styleCode="Lrule Rrule" align="center">18-24</td>
+                                 <td styleCode="Lrule Rrule" align="center">5 additional cases</td>
+                              </tr>
+                              <tr>
+                                 <td styleCode="Botrule Lrule Rrule Toprule" colspan="2" align="center">
+                                    <content styleCode="bold">Decreases Compared to Placebo</content>
+                                 </td>
+                              </tr>
+                              <tr>
+                                 <td styleCode="Lrule Rrule" align="center">25-64</td>
+                                 <td styleCode="Lrule Rrule" align="center">1 fewer case</td>
+                              </tr>
+                              <tr>
+                                 <td styleCode="Lrule Rrule" align="center">
+                                    <content styleCode="underline">&gt;</content>65</td>
+                                 <td styleCode="Lrule Rrule" align="center">6 fewer cases</td>
+                              </tr>
+                           </tbody>
+                        </table>
+                        <paragraph>No suicides occurred in any of the pediatric trials. There were suicides in the adult trials, but the number was not sufficient to reach any conclusion about drug effect on suicide.</paragraph>
+                        <paragraph>It is unknown whether the suicidality risk extends to longer-term use, i.e., beyond several months. However, there is substantial evidence from placebo-controlled maintenance trials in adults with depression that the use of antidepressants can delay the recurrence of depression.</paragraph>
+                        <paragraph>
+                           <content styleCode="bold">All patients being treated with antidepressants for any indication should be monitored appropriately and observed closely for clinical worsening, suicidality, and unusual changes in behavior, especially during the initial few months of a course of drug therapy, or at times of dose changes, either increases or decreases.</content>
+                        </paragraph>
+                        <paragraph>The following symptoms, anxiety, agitation, panic attacks, insomnia, irritability, hostility, aggressiveness, impulsivity, akathisia (psychomotor restlessness), hypomania, and mania, have been reported in adult and pediatric patients being treated with antidepressants for major depressive disorder as well as for other indications, both psychiatric and nonpsychiatric. Although a causal link between the emergence of such symptoms and either the worsening of depression and/or the emergence of suicidal impulses has not been established, there is concern that such symptoms may represent precursors to emerging suicidality.</paragraph>
+                        <paragraph>Consideration should be given to changing the therapeutic regimen, including possibly discontinuing the medication, in patients whose depression is persistently worse, or who are experiencing emergent suicidality or symptoms that might be precursors to worsening depression or suicidality, especially if these symptoms are severe, abrupt in onset, or were not part of the patient's presenting symptoms.</paragraph>
+                        <paragraph>
+                           <content styleCode="bold">Families and caregivers of patients being treated with antidepressants for major depressive disorder or other indications, both psychiatric and nonpsychiatric, should be alerted about the need to monitor patients for the emergence of agitation, irritability, unusual changes in behavior, and the other symptoms described above, as well as the emergence of suicidality, and to report such symptoms immediately to healthcare providers. Such monitoring should include daily observation by families and caregivers.</content> Prescriptions for imipramine hydrochloride should be written for the smallest quantity of tablets consistent with good patient management, in order to reduce the risk of overdose.</paragraph>
+                     </text>
+                     <effectiveTime value="20161225"/>
+                     <component>
+                        <section ID="Le04e97f5-b6a1-4fcd-826c-e66d8291b64b">
+                           <id root="8a20755c-eb4e-4344-9f6f-a72d12c4579b"/>
+                           <code code="42229-5" codeSystem="2.16.840.1.113883.6.1" displayName="SPL UNCLASSIFIED SECTION"/>
+                           <title/>
+                           <text>
+                              <paragraph>
+                                 <content styleCode="bold">Screening Patients for Bipolar Disorder</content> – A major depressive episode may be the initial presentation of bipolar disorder. It is generally believed (though not established in controlled trials) that treating such an episode with an antidepressant alone may increase the likelihood of precipitation of a mixed/manic episode in patients at risk for bipolar disorder. Whether any of the symptoms described above represent such a conversion is unknown. However, prior to initiating treatment with an antidepressant, patients with depressive symptoms should be adequately screened to determine if they are at risk for bipolar disorder; such screening should include a detailed psychiatric history, including a family history of suicide, bipolar disorder, and depression. It should be noted that imipramine hydrochloride is not approved for use in treating bipolar depression.</paragraph>
+                              <paragraph>
+                                 <content styleCode="bold">Angle-Closure Glaucoma</content> – The pupillary dilation that occurs following use of many antidepressant drugs including Tofranil may trigger an angle-closure attack in a patient with anatomically narrow angles who does not have a patent iridectomy.</paragraph>
+                           </text>
+                           <effectiveTime value="20161225"/>
+                        </section>
+                     </component>
+                     <component>
+                        <section ID="L1137c71f-8c01-44e4-88dc-469b5f52fd59">
+                           <id root="25a9cbb4-8f85-40b1-b77d-25e569acf17e"/>
+                           <code code="42229-5" codeSystem="2.16.840.1.113883.6.1" displayName="SPL UNCLASSIFIED SECTION"/>
+                           <title/>
+                           <text>
+                              <paragraph>
+                                 <content styleCode="bold">Children</content> – A dose of 2.5 mg/kg/day of Tofranil should not be exceeded in childhood. ECG changes of unknown significance have been reported in pediatric patients with doses twice this amount.</paragraph>
+                              <paragraph>Extreme caution should be used when this drug is given to: patients with cardiovascular disease because of the possibility of conduction defects, arrhythmias, congestive heart failure, myocardial infarction, strokes, and tachycardia. These patients require cardiac surveillance at all dosage levels of the drug;</paragraph>
+                              <paragraph>patients with history of urinary retention, or history of narrow-angle glaucoma because of the drug's anticholinergic properties; hyperthyroid patients or those on thyroid medication because of the possibility of cardiovascular toxicity;</paragraph>
+                              <paragraph>patients with a history of seizure disorder because this drug has been shown to lower the seizure threshold;</paragraph>
+                              <paragraph>patients receiving guanethidine, clonidine, or similar agents, since Tofranil may block the pharmacologic effects of these drugs;</paragraph>
+                              <paragraph>patients receiving methylphenidate hydrochloride. Since methylphenidate hydrochloride may inhibit the metabolism of Tofranil, downward dosage adjustment of imipramine hydrochloride may be required when given concomitantly with methylphenidate hydrochloride.</paragraph>
+                              <paragraph>Tofranil may enhance the CNS depressant effects of alcohol. Therefore, it should be borne in mind that the dangers inherent in a suicide attempt or accidental overdosage with the drug may be increased for the patient who uses excessive amounts of alcohol (<content styleCode="italics">see </content>
+                                 <linkHtml href="#L52c9f7e8-07ae-43d3-8b90-169fd53dc1cf">PRECAUTIONS</linkHtml>).</paragraph>
+                              <paragraph>Since Tofranil may impair the mental and/or physical abilities required for the performance of potentially hazardous tasks, such as operating an automobile or machinery, the patient should be cautioned accordingly.</paragraph>
+                           </text>
+                           <effectiveTime value="20161225"/>
+                        </section>
+                     </component>
+                  </section>
+               </component>
+            </section>
+         </component>
+         <component>
+            <section ID="L52c9f7e8-07ae-43d3-8b90-169fd53dc1cf">
+               <id root="2ff8660a-4eec-4d75-8ff6-ee697f258a61"/>
+               <code code="42232-9" codeSystem="2.16.840.1.113883.6.1" displayName="PRECAUTIONS SECTION"/>
+               <title>PRECAUTIONS</title>
+               <text/>
+               <effectiveTime value="20161226"/>
+               <component>
+                  <section ID="Lee41ddb4-c941-43f7-954f-ba5b4e6f94e2">
+                     <id root="d1798b7e-6e02-498b-a2ce-d671c3d4ae0c"/>
+                     <code code="34072-9" codeSystem="2.16.840.1.113883.6.1" displayName="GENERAL PRECAUTIONS SECTION"/>
+                     <title>General</title>
+                     <text>
+                        <paragraph>An ECG recording should be taken prior to the initiation of larger-than-usual doses of Tofranil and at appropriate intervals thereafter until steady state is achieved. (Patients with any evidence of cardiovascular disease require cardiac surveillance at all dosage levels of the drug. <content styleCode="italics">See </content>
+                           <content styleCode="bold">
+                              <linkHtml href="#L35f9038b-c8ee-42cd-b3df-09fe578c9ceb"/>
+                           </content>
+                           <linkHtml href="#L35f9038b-c8ee-42cd-b3df-09fe578c9ceb">WARNINGS</linkHtml>.) Elderly patients and patients with cardiac disease or a prior history of cardiac disease are at special risk of developing the cardiac abnormalities associated with the use of Tofranil.</paragraph>
+                        <paragraph>It should be kept in mind that the possibility of suicide in seriously depressed patients is inherent in the illness and may persist until significant remission occurs. Such patients should be carefully supervised during the early phase of treatment with Tofranil, and may require hospitalization. Prescriptions should be written for the smallest amount feasible. Hypomanic or manic episodes may occur, particularly in patients with cyclic disorders. Such reactions may necessitate discontinuation of the drug. If needed, Tofranil may be resumed in lower dosage when these episodes are relieved.</paragraph>
+                        <paragraph>Administration of a tranquilizer may be useful in controlling such episodes.</paragraph>
+                        <paragraph>An activation of the psychosis may occasionally be observed in schizophrenic patients and may require reduction of dosage and the addition of a phenothiazine.</paragraph>
+                        <paragraph>Concurrent administration of Tofranil with electroshock therapy may increase the hazards; such treatment should be limited to those patients for whom it is essential, since there is limited clinical experience.</paragraph>
+                        <paragraph>Patients taking imipramine hydrochloride should avoid excessive exposure to sunlight since there have been reports of photosensitization.</paragraph>
+                        <paragraph>Both elevation and lowering of blood sugar levels have been reported with imipramine hydrochloride use.</paragraph>
+                        <paragraph>Imipramine hydrochloride should be used with caution in patients with significantly impaired renal or hepatic function.</paragraph>
+                        <paragraph>Patients who develop a fever and a sore throat during therapy with imipramine hydrochloride should have leukocyte and differential blood counts performed. Imipramine hydrochloride should be discontinued if there is evidence of pathological neutrophil depression.</paragraph>
+                        <paragraph>Prior to elective surgery, imipramine hydrochloride should be discontinued for as long as the clinical situation will allow.</paragraph>
+                     </text>
+                     <effectiveTime value="20161225"/>
+                  </section>
+               </component>
+               <component>
+                  <section ID="L3a551b22-b3f0-4dd1-811e-63e9633690ff">
+                     <id root="5516a3d3-5f86-4483-a00c-a454cbf35347"/>
+                     <code code="34076-0" codeSystem="2.16.840.1.113883.6.1" displayName="INFORMATION FOR PATIENTS SECTION"/>
+                     <title>Information for Patients</title>
+                     <text>
+                        <paragraph>Prescribers or other health professionals should inform patients, their families, and their caregivers about the benefits and risks associated with treatment with imipramine hydrochloride and should counsel them in its appropriate use. A patient Medication Guide about "Antidepressant Medicines, Depression and other Serious Mental Illness, and Suicidal Thoughts or Actions" is available for imipramine hydrochloride. The prescriber or health professional should instruct patients, their families, and their caregivers to read the Medication Guide and should assist them in understanding its contents. Patients should be given the opportunity to discuss the contents of the Medication Guide and to obtain answers to any questions they may have. The complete text of the Medication Guide is reprinted at the end of this document.</paragraph>
+                        <paragraph>Patients should be advised of the following issues and asked to alert their prescriber if these occur while taking imipramine hydrochloride.</paragraph>
+                        <paragraph>Patients should be advised that taking Tofranil can cause mild pupillary dilation, which in susceptible individuals, can lead to an episode of angle-closure glaucoma. Pre-existing glaucoma is almost always open-angle glaucoma because angle-closure glaucoma, when diagnosed, can be treated definitively with iridectomy. Open-angle glaucoma is not a risk factor for angle-closure glaucoma. Patients may wish to be examined to determine whether they are susceptible to angle closure, and have a prophylactic procedure (e.g., iridectomy), if they are susceptible.</paragraph>
+                     </text>
+                     <effectiveTime value="20161225"/>
+                     <component>
+                        <section ID="Ld9adaaa7-01fd-46bc-bcdc-51356abfa519">
+                           <id root="b941e94a-e135-43a2-98fa-de62b2a4d334"/>
+                           <code code="42229-5" codeSystem="2.16.840.1.113883.6.1" displayName="SPL UNCLASSIFIED SECTION"/>
+                           <title/>
+                           <text>
+                              <paragraph>
+                                 <content styleCode="bold">Clinical Worsening and Suicide Risk –</content> Patients, their families, and their caregivers should be encouraged to be alert to the emergence of anxiety, agitation, panic attacks, insomnia, irritability, hostility, aggressiveness, impulsivity, akathisia (psychomotor restlessness), hypomania, mania, other unusual changes in behavior, worsening of depression, and suicidal ideation, especially early during antidepressant treatment and when the dose is adjusted up or down. Families and caregivers of patients should be advised to look for the emergence of such symptoms on a day-to-day basis, since changes may be abrupt. Such symptoms should be reported to the patient’s prescriber or health professional, especially if they are severe, abrupt in onset, or were not part of the patient’s presenting symptoms. Symptoms such as these may be associated with an increased risk for suicidal thinking and behavior and indicate a need for very close monitoring and possibly changes in the medication.</paragraph>
+                           </text>
+                           <effectiveTime value="20161225"/>
+                        </section>
+                     </component>
+                  </section>
+               </component>
+               <component>
+                  <section ID="Laadf08b3-084c-46b9-8bf3-1e6c700d5193">
+                     <id root="a3740435-a582-473a-baf5-dd9388d23c55"/>
+                     <code code="34073-7" codeSystem="2.16.840.1.113883.6.1" displayName="DRUG INTERACTIONS SECTION"/>
+                     <title>Drug Interactions</title>
+                     <text/>
+                     <effectiveTime value="20161225"/>
+                     <component>
+                        <section ID="L0859663f-e38b-4590-84ee-22ed5ebf7ac2">
+                           <id root="c100e395-c783-40c4-ad31-563114e3de69"/>
+                           <code code="42229-5" codeSystem="2.16.840.1.113883.6.1" displayName="SPL UNCLASSIFIED SECTION"/>
+                           <title/>
+                           <text>
+                              <paragraph>
+                                 <content styleCode="bold">
+                                    <linkHtml href="#L35f9038b-c8ee-42cd-b3df-09fe578c9ceb"/>Drugs Metabolized by P450 2D6 –</content> The biochemical activity of the drug metabolizing isozyme cytochrome P450 2D6 (debrisoquin hydroxylase) is reduced in a subset of the Caucasian population (about 7% to 10% of Caucasians are so-called “poor metabolizers”); reliable estimates of the prevalence of reduced P450 2D6 isozyme activity among Asian, African, and other populations are not yet available. Poor metabolizers have higher than expected plasma concentrations of tricyclic antidepressants (TCAs) when given usual doses. Depending on the fraction of drug metabolized by P450 2D6, the increase in plasma concentration may be small, or quite large (8-fold increase in plasma AUC of the TCA).</paragraph>
+                              <paragraph>In addition, certain drugs inhibit the activity of this isozyme and make normal metabolizers resemble poor metabolizers. An individual who is stable on a given dose of TCA may become abruptly toxic when given one of these inhibiting drugs as concomitant therapy. The drugs that inhibit cytochrome P450 2D6 include some that are not metabolized by the enzyme (quinidine; cimetidine) and many that are substrates for P450 2D6 (many other antidepressants, phenothiazines, and the Type 1C antiarrhythmics propafenone and flecainide). While all the selective serotonin reuptake inhibitors (SSRIs), e.g., fluoxetine, sertraline, and paroxetine, inhibit P450 2D6, they may vary in the extent of inhibition. The extent to which SSRI-TCA interaction may pose clinical problems will depend on the degree of inhibition and the pharmacokinetics of the SSRI involved. Nevertheless, caution is indicated in the coadministration of TCAs with any of the SSRIs and also in switching from one class to the other. Of particular importance, sufficient time must elapse before initiating TCA treatment in a patient being withdrawn from fluoxetine, given the long half-life of the parent and active metabolite (at least 5 weeks may be necessary).</paragraph>
+                              <paragraph>Concomitant use of tricyclic antidepressants with drugs that can inhibit cytochrome P450 2D6 may require lower doses than usually prescribed for either the tricyclic antidepressant or the other drug. Furthermore, whenever one of these other drugs is withdrawn from co-therapy, an increased dose of tricyclic antidepressant may be required. It is desirable to monitor TCA plasma levels whenever a TCA is going to be coadministered with another drug known to be an inhibitor of P450 2D6.</paragraph>
+                              <paragraph>The plasma concentration of imipramine may increase when the drug is given concomitantly with hepatic enzyme inhibitors (e.g., cimetidine, fluoxetine) and decrease by concomitant administration with hepatic enzyme inducers (e.g., barbiturates, phenytoin), and adjustment of the dosage of imipramine may therefore be necessary.</paragraph>
+                              <paragraph>In occasional susceptible patients or in those receiving anticholinergic drugs (including antiparkinsonism agents) in addition, the atropine-like effects may become more pronounced (e.g., paralytic ileus). Close supervision and careful adjustment of dosage is required when imipramine hydrochloride is administered concomitantly with anticholinergic drugs.</paragraph>
+                              <paragraph>Avoid the use of preparations, such as decongestants and local anesthetics, that contain any sympathomimetic amine (e.g., epinephrine, norepinephrine), since it has been reported that tricyclic antidepressants can potentiate the effects of catecholamines.</paragraph>
+                              <paragraph>Caution should be exercised when imipramine hydrochloride is used with agents that lower blood pressure. Imipramine hydrochloride may potentiate the effects of CNS depressant drugs.</paragraph>
+                              <paragraph>Patients should be warned that imipramine hydrochloride may enhance the CNS depressant effects of alcohol (<content styleCode="italics">see </content>
+                                 <linkHtml href="#L35f9038b-c8ee-42cd-b3df-09fe578c9ceb">WARNINGS</linkHtml>).</paragraph>
+                           </text>
+                           <effectiveTime value="20161225"/>
+                        </section>
+                     </component>
+                  </section>
+               </component>
+               <component>
+                  <section ID="Lab537149-e03a-42b2-a6eb-bdb52eeef70f">
+                     <id root="dd992d0f-8574-478c-9c01-c8cf9f060ad4"/>
+                     <code code="42228-7" codeSystem="2.16.840.1.113883.6.1" displayName="PREGNANCY SECTION"/>
+                     <title>Pregnancy</title>
+                     <text>
+                        <paragraph>Animal reproduction studies have yielded inconclusive results (<content styleCode="italics">see also </content>
+                           <linkHtml href="#L0b090b4d-2591-4950-bb09-8ca4e077f3aa">ANIMAL PHARMACOLOGY &amp; TOXICOLOGY</linkHtml>).</paragraph>
+                        <paragraph>There have been no well-controlled studies conducted with pregnant women to determine the effect of Tofranil on the fetus. However, there have been clinical reports of congenital malformations associated with the use of the drug. Although a causal relationship between these effects and the drug could not be established, the possibility of fetal risk from the maternal ingestion of Tofranil cannot be excluded. Therefore, Tofranil should be used in women who are or might become pregnant only if the clinical condition clearly justifies potential risk to the fetus.</paragraph>
+                     </text>
+                     <effectiveTime value="20161225"/>
+                  </section>
+               </component>
+               <component>
+                  <section ID="L927009f7-c29a-4b55-b3a2-c27ef141b115">
+                     <id root="308a2961-0651-4a98-913b-da30f9e8cffc"/>
+                     <code code="34080-2" codeSystem="2.16.840.1.113883.6.1" displayName="NURSING MOTHERS SECTION"/>
+                     <title>Nursing mothers</title>
+                     <text>
+                        <paragraph>Limited data suggest that Tofranil is likely to be excreted in human breast milk. As a general rule, a woman taking a drug should not nurse since the possibility exists that the drug may be excreted in breast milk and be harmful to the child.</paragraph>
+                     </text>
+                     <effectiveTime value="20161225"/>
+                  </section>
+               </component>
+               <component>
+                  <section ID="L001d8dec-ee29-428b-a0dc-183ec541222d">
+                     <id root="afdfae73-ada4-4f69-8b7f-1c7ef9bcbcc8"/>
+                     <code code="34081-0" codeSystem="2.16.840.1.113883.6.1" displayName="PEDIATRIC USE SECTION"/>
+                     <title>Pediatric Use</title>
+                     <text>
+                        <paragraph>Safety and effectiveness in the pediatric population other than pediatric patients with nocturnal enuresis have not been established (<content styleCode="italics">see </content>
+                           <linkHtml href="#Lf239f8c1-0f07-49d0-bd57-6c1f1d9c265d">BOX WARNING</linkHtml>
+                           <content styleCode="italics">and </content>
+                           <linkHtml href="#Lef797adc-929d-4722-8a34-862ed84f5bca">WARNINGS, Clinical Worsening and Suicide Risk</linkHtml>). Anyone considering the use of imipramine hydrochloride in a child or adolescent must balance the potential risks with the clinical need.</paragraph>
+                        <paragraph>The safety and effectiveness of the drug as temporary adjunctive therapy for nocturnal enuresis in pediatric patients less than 6 years of age has not been established.</paragraph>
+                        <paragraph>The safety of the drug for long-term, chronic use as adjunctive therapy for nocturnal enuresis in pediatric patients 6 years of age or older has not been established; consideration should be given to instituting a drug-free period following an adequate therapeutic trial with a favorable response.</paragraph>
+                        <paragraph>A dose of 2.5 mg/kg/day should not be exceeded in childhood. ECG changes of unknown significance have been reported in pediatric patients with doses twice this amount.</paragraph>
+                     </text>
+                     <effectiveTime value="20161226"/>
+                  </section>
+               </component>
+               <component>
+                  <section ID="L759b86a1-6c2b-4434-a02a-63579e29b28b">
+                     <id root="699074fd-258d-4e81-8330-07586c80d72e"/>
+                     <code code="34082-8" codeSystem="2.16.840.1.113883.6.1" displayName="GERIATRIC USE SECTION"/>
+                     <title>Geriatric Use</title>
+                     <text>
+                        <paragraph>In the literature, there were four well-controlled, randomized, double-blind, parallel group comparison clinical studies done with Tofranil in the elderly population. There was a total number of 651 subjects included in these studies. These studies did not provide a comparison to younger subjects. There were no additional adverse experiences identified in the elderly.</paragraph>
+                        <paragraph>Clinical studies of Tofranil in the original application did not include sufficient numbers of subjects aged 65 and over to determine whether they respond differently from younger subjects. Postmarketing clinical experience has not identified differences in responses between the elderly and younger subjects. In general, dose selection for the elderly should be cautious, usually starting at the low end of the dosing range, reflecting greater frequency of decreased hepatic, renal, or cardiac function, and of concomitant disease or other drug therapy.</paragraph>
+                        <paragraph>(<content styleCode="italics">See also </content>
+                           <linkHtml href="#Lb1cbc4cc-d9cf-4262-9584-c774dc2f83b8">DOSAGE AND ADMINISTRATION, Adolescent and Geriatric Patients</linkHtml>.)</paragraph>
+                        <paragraph>(<content styleCode="italics">See also </content>
+                           <linkHtml href="#Lee41ddb4-c941-43f7-954f-ba5b4e6f94e2">PRECAUTIONS, General</linkHtml>.)</paragraph>
+                     </text>
+                     <effectiveTime value="20161226"/>
+                  </section>
+               </component>
+            </section>
+         </component>
+         <component>
+            <section ID="L01b38212-f87f-4a9f-b505-ff9c9266d4ed">
+               <id root="897ef13b-792f-481a-9ce8-9b029270f7bb"/>
+               <code code="34084-4" codeSystem="2.16.840.1.113883.6.1" displayName="ADVERSE REACTIONS SECTION"/>
+               <title>ADVERSE REACTIONS</title>
+               <text>
+                  <paragraph>
+                     <content styleCode="bold">Note –</content> Although the listing which follows includes a few adverse reactions which have not been reported with this specific drug, the pharmacological similarities among the tricyclic antidepressant drugs require that each of the reactions be considered when Tofranil is administered.</paragraph>
+                  <paragraph>
+                     <content styleCode="italics">Cardiovascular:</content> Orthostatic hypotension, hypertension, tachycardia, palpitation, myocardial infarction, arrhythmias, heart block, ECG changes, precipitation of congestive heart failure, stroke.</paragraph>
+                  <paragraph>
+                     <content styleCode="italics">Psychiatric:</content> Confusional states (especially in the elderly) with hallucinations, disorientation, delusions; anxiety, restlessness, agitation; insomnia and nightmares; hypomania; exacerbation of psychosis.</paragraph>
+                  <paragraph>
+                     <content styleCode="italics">Neurological:</content> Numbness, tingling, paresthesias of extremities; incoordination, ataxia, tremors; peripheral neuropathy; extrapyramidal symptoms; seizures, alterations in EEG patterns; tinnitus.</paragraph>
+                  <paragraph>
+                     <content styleCode="italics">Anticholinergic:</content> Dry mouth, and, rarely, associated sublingual adenitis; blurred vision, disturbances of accommodation, mydriasis; constipation, paralytic ileus; urinary retention, delayed micturition, dilation of the urinary tract.</paragraph>
+                  <paragraph>
+                     <content styleCode="italics">Allergic:</content> Skin rash, petechiae, urticaria, itching, photosensitization; edema (general or of face and tongue); drug fever; cross-sensitivity with desipramine.</paragraph>
+                  <paragraph>
+                     <content styleCode="italics">Hematologic:</content> Bone marrow depression including agranulocytosis; eosinophilia; purpura; thrombocytopenia.</paragraph>
+                  <paragraph>
+                     <content styleCode="italics">Gastrointestinal:</content> Nausea and vomiting, anorexia, epigastric distress, diarrhea; peculiar taste, stomatitis, abdominal cramps, black tongue.</paragraph>
+                  <paragraph>
+                     <content styleCode="italics">Endocrine:</content> Gynecomastia in the male; breast enlargement and galactorrhea in the female; increased or decreased libido, impotence; testicular swelling; elevation or depression of blood sugar levels; inappropriate antidiuretic hormone (ADH) secretion syndrome.</paragraph>
+                  <paragraph>
+                     <content styleCode="italics">Other:</content> Jaundice (simulating obstructive); altered liver function; weight gain or loss; perspiration; flushing; urinary frequency; drowsiness, dizziness, weakness and fatigue; headache; parotid swelling; alopecia; proneness to falling.</paragraph>
+                  <paragraph>
+                     <content styleCode="italics">Withdrawal Symptoms:</content> Though not indicative of addiction, abrupt cessation of treatment after prolonged therapy may produce nausea, headache, and malaise.</paragraph>
+                  <paragraph>
+                     <content styleCode="bold">Note –</content> In enuretic children treated with Tofranil the most common adverse reactions have been nervousness, sleep disorders, tiredness, and mild gastrointestinal disturbances. These usually disappear during continued drug administration or when dosage is decreased. Other reactions which have been reported include constipation, convulsions, anxiety, emotional instability, syncope, and collapse. All of the adverse effects reported with adult use should be considered.</paragraph>
+               </text>
+               <effectiveTime value="20161225"/>
+            </section>
+         </component>
+         <component>
+            <section ID="Lbcd57879-b0b0-449e-989b-51caecbbc6f6">
+               <id root="ff6757ec-0365-4292-b677-8ade90b40ef2"/>
+               <code code="34088-5" codeSystem="2.16.840.1.113883.6.1" displayName="OVERDOSAGE SECTION"/>
+               <title>OVERDOSAGE</title>
+               <text>
+                  <paragraph>Deaths may occur from overdosage with this class of drugs. Multiple drug ingestion (including alcohol) is common in deliberate tricyclic overdose. As the management is complex and changing, it is recommended that the physician contact a poison control center for current information on treatment. Signs and symptoms of toxicity develop rapidly after tricyclic overdose. Therefore, hospital monitoring is required as soon as possible.</paragraph>
+                  <paragraph>Children have been reported to be more sensitive than adults to an acute overdosage of imipramine hydrochloride. An acute overdose of any amount in infants or young children, especially, must be considered serious and potentially fatal.</paragraph>
+               </text>
+               <effectiveTime value="20161226"/>
+               <component>
+                  <section ID="L9cbac5d3-c16b-47e7-a6f4-9584d3079cf5">
+                     <id root="0a7e1904-02c3-44e1-86dc-2806016efeac"/>
+                     <code code="42229-5" codeSystem="2.16.840.1.113883.6.1" displayName="SPL UNCLASSIFIED SECTION"/>
+                     <title>Manifestations</title>
+                     <text>
+                        <paragraph>These may vary in severity depending upon factors such as the amount of drug absorbed, the age of the patient, and the interval between drug ingestion and the start of treatment. Critical manifestations of overdose include cardiac dysrhythmias, severe hypotension, convulsions, and CNS depression including coma. Changes in the electrocardiogram, particularly in QRS axis or width, are clinically significant indicators of tricyclic toxicity.</paragraph>
+                        <paragraph>Other CNS manifestations may include drowsiness, stupor, ataxia, restlessness, agitation, hyperactive reflexes, muscle rigidity, athetoid and choreiform movements.</paragraph>
+                        <paragraph>Cardiac abnormalities may include tachycardia and signs of congestive failure. Respiratory depression, cyanosis, shock, vomiting, hyperpyrexia, mydriasis, and diaphoresis may also be present.</paragraph>
+                     </text>
+                     <effectiveTime value="20161225"/>
+                  </section>
+               </component>
+               <component>
+                  <section ID="Lf71e42bd-1c06-4174-85f9-acde61f6bec7">
+                     <id root="924ad94e-71bd-4f41-b902-edce26be3887"/>
+                     <code code="42229-5" codeSystem="2.16.840.1.113883.6.1" displayName="SPL UNCLASSIFIED SECTION"/>
+                     <title>Management</title>
+                     <text>
+                        <paragraph>Obtain an ECG and immediately initiate cardiac monitoring. Protect the patient's airway, establish an intravenous line and initiate gastric decontamination. A minimum of 6 hours of observation with cardiac monitoring and observation for signs of CNS or respiratory depression, hypotension, cardiac dysrhythmias and/or conduction blocks, and seizures is necessary. If signs of toxicity occur at anytime during this period, extended monitoring is required. There are case reports of patients succumbing to fatal dysrhythmias late after overdose; these patients had clinical evidence of significant poisoning prior to death and most received inadequate gastrointestinal decontamination. Monitoring of plasma drug levels should not guide management of the patient.</paragraph>
+                     </text>
+                     <effectiveTime value="20161226"/>
+                     <component>
+                        <section ID="L2efb0b09-b687-4022-b681-5facb720a73c">
+                           <id root="df6744c9-1df4-4654-b586-031e5a428328"/>
+                           <code code="42229-5" codeSystem="2.16.840.1.113883.6.1" displayName="SPL UNCLASSIFIED SECTION"/>
+                           <title/>
+                           <text>
+                              <paragraph>
+                                 <content styleCode="bold">Gastrointestinal Decontamination –</content> All patients suspected of tricyclic overdose should receive gastrointestinal decontamination. This should include large volume gastric lavage followed by activated charcoal. If consciousness is impaired, the airway should be secured prior to lavage. Emesis is contraindicated.</paragraph>
+                           </text>
+                           <effectiveTime value="20161225"/>
+                        </section>
+                     </component>
+                     <component>
+                        <section ID="L3a3ff580-2f09-4fb7-9f68-40ecc3782a4d">
+                           <id root="97656569-5c67-422a-a90d-1fcbfd7566d4"/>
+                           <code code="42229-5" codeSystem="2.16.840.1.113883.6.1" displayName="SPL UNCLASSIFIED SECTION"/>
+                           <title/>
+                           <text>
+                              <paragraph>
+                                 <content styleCode="bold">Cardiovascular –</content> A maximal limb-lead QRS duration of ≥0.10 seconds may be the best indication of the severity of the overdose. Intravenous sodium bicarbonate should be used to maintain the serum pH in the range of 7.45 to 7.55. If the pH response is inadequate, hyperventilation may also be used. Concomitant use of hyperventilation and sodium bicarbonate should be done with extreme caution, with frequent pH monitoring. A pH &gt;7.60 or a pCO<sub>2</sub> &lt;20 mmHg is undesirable. Dysrhythmias unresponsive to sodium bicarbonate therapy/hyperventilation may respond to lidocaine, bretylium, or phenytoin. Type 1A and 1C antiarrhythmics are generally contraindicated (e.g., quinidine, disopyramide, and procainamide).</paragraph>
+                              <paragraph>In rare instances, hemoperfusion may be beneficial in acute refractory cardiovascular instability in patients with acute toxicity. However, hemodialysis, peritoneal dialysis, exchange transfusions, and forced diuresis generally have been reported as ineffective in tricyclic poisoning.</paragraph>
+                           </text>
+                           <effectiveTime value="20161226"/>
+                        </section>
+                     </component>
+                     <component>
+                        <section ID="Lab92207e-8391-4190-8580-027197cccde8">
+                           <id root="368711a4-821a-47f5-bb60-c24331bb81f1"/>
+                           <code code="42229-5" codeSystem="2.16.840.1.113883.6.1" displayName="SPL UNCLASSIFIED SECTION"/>
+                           <title/>
+                           <text>
+                              <paragraph>
+                                 <content styleCode="bold">CNS –</content> In patients with CNS depression, early intubation is advised because of the potential for abrupt deterioration. Seizures should be controlled with benzodiazepines, or if these are ineffective, other anticonvulsants (e.g., phenobarbital, phenytoin). Physostigmine is not recommended except to treat life-threatening symptoms that have been unresponsive to other therapies, and then only in consultation with a poison control center.</paragraph>
+                           </text>
+                           <effectiveTime value="20161225"/>
+                        </section>
+                     </component>
+                     <component>
+                        <section ID="Lbf398a2c-f2f3-4990-9310-95fe519ddd8e">
+                           <id root="7873707f-e4a5-4e6c-b582-08ab4c52dd01"/>
+                           <code code="42229-5" codeSystem="2.16.840.1.113883.6.1" displayName="SPL UNCLASSIFIED SECTION"/>
+                           <title/>
+                           <text>
+                              <paragraph>
+                                 <content styleCode="bold">Psychiatric Follow-up –</content> Since overdosage is often deliberate, patients may attempt suicide by other means during the recovery phase. Psychiatric referral may be appropriate.</paragraph>
+                           </text>
+                           <effectiveTime value="20161225"/>
+                        </section>
+                     </component>
+                     <component>
+                        <section ID="Lc3b2d072-3154-4fab-aa9c-dbcb9083b1b4">
+                           <id root="3857e5db-2a9a-44c4-8100-40433aa95637"/>
+                           <code code="42229-5" codeSystem="2.16.840.1.113883.6.1" displayName="SPL UNCLASSIFIED SECTION"/>
+                           <title/>
+                           <text>
+                              <paragraph>
+                                 <content styleCode="bold">Pediatric Management –</content> The principles of management of child and adult overdosages are similar. It is strongly recommended that the physician contact the local poison control center for specific pediatric treatment.</paragraph>
+                           </text>
+                           <effectiveTime value="20161225"/>
+                        </section>
+                     </component>
+                  </section>
+               </component>
+            </section>
+         </component>
+         <component>
+            <section ID="L664f74b6-1b36-4142-8dbd-f9a7a215820b">
+               <id root="02721583-6244-4530-9089-76a3670e0050"/>
+               <code code="34068-7" codeSystem="2.16.840.1.113883.6.1" displayName="DOSAGE &amp; ADMINISTRATION SECTION"/>
+               <title>DOSAGE AND ADMINISTRATION</title>
+               <text/>
+               <effectiveTime value="20161225"/>
+               <component>
+                  <section ID="L16851ed5-bd7e-480a-8255-273c5a1cfb77">
+                     <id root="e8e9a205-2c06-4899-a06c-8ec651bedf7f"/>
+                     <code code="42229-5" codeSystem="2.16.840.1.113883.6.1" displayName="SPL UNCLASSIFIED SECTION"/>
+                     <title>Depression</title>
+                     <text>
+                        <paragraph>Lower dosages are recommended for elderly patients and adolescents. Lower dosages are also recommended for outpatients as compared to hospitalized patients who will be under close supervision. Dosage should be initiated at a low level and increased gradually, noting carefully the clinical response and any evidence of intolerance. Following remission, maintenance medication may be required for a longer period of time, at the lowest dose that will maintain remission.</paragraph>
+                     </text>
+                     <effectiveTime value="20161225"/>
+                     <component>
+                        <section ID="Lb1cbc4cc-d9cf-4262-9584-c774dc2f83b8">
+                           <id root="20fb339e-1cd9-424a-a85c-58d1efcd0849"/>
+                           <code code="42229-5" codeSystem="2.16.840.1.113883.6.1" displayName="SPL UNCLASSIFIED SECTION"/>
+                           <title/>
+                           <text>
+                              <paragraph>
+                                 <content styleCode="bold">Usual Adult Dose</content>
+                              </paragraph>
+                           </text>
+                           <effectiveTime value="20161225"/>
+                           <component>
+                              <section ID="Lf357e903-1faa-491f-807f-cac14bb9700b">
+                                 <id root="add9d667-7fe0-4c62-9cdc-f748b6217b69"/>
+                                 <code code="42229-5" codeSystem="2.16.840.1.113883.6.1" displayName="SPL UNCLASSIFIED SECTION"/>
+                                 <title/>
+                                 <text>
+                                    <paragraph>
+                                       <content styleCode="bold">Hospitalized Patients –</content> Initially, 100 mg/day in divided doses gradually increased to 200 mg/day as required. If no response after two weeks, increase to 250 to 300 mg/day.</paragraph>
+                                 </text>
+                                 <effectiveTime value="20161225"/>
+                              </section>
+                           </component>
+                           <component>
+                              <section ID="L2b5d19fc-c48e-4ee9-be9c-c0368a47d45b">
+                                 <id root="20af7040-0160-4a73-8b0c-a848ef33e6ea"/>
+                                 <code code="42229-5" codeSystem="2.16.840.1.113883.6.1" displayName="SPL UNCLASSIFIED SECTION"/>
+                                 <title/>
+                                 <text>
+                                    <paragraph>
+                                       <content styleCode="bold">Outpatients –</content> Initially, 75 mg/day increased to 150 mg/day. Dosages over 200 mg/day are not recommended. Maintenance, 50 to 150 mg/day.</paragraph>
+                                 </text>
+                                 <effectiveTime value="20161225"/>
+                              </section>
+                           </component>
+                           <component>
+                              <section ID="Lf1cb9af0-ef2d-4d2c-aabd-a20fdf5f222b">
+                                 <id root="30defa8c-ba50-4c85-aa43-48d003d96965"/>
+                                 <code code="42229-5" codeSystem="2.16.840.1.113883.6.1" displayName="SPL UNCLASSIFIED SECTION"/>
+                                 <title/>
+                                 <text>
+                                    <paragraph>
+                                       <content styleCode="bold">Adolescent and Geriatric Patients –</content> Initially, 30 to 40 mg/day; it is generally not necessary to exceed 100 mg/day.</paragraph>
+                                 </text>
+                                 <effectiveTime value="20161225"/>
+                              </section>
+                           </component>
+                        </section>
+                     </component>
+                  </section>
+               </component>
+               <component>
+                  <section ID="Lf47e2798-4c1d-47b9-966c-47fb463a66a3">
+                     <id root="e2fa41b7-3abf-4039-a15d-8d9895e47691"/>
+                     <code code="42229-5" codeSystem="2.16.840.1.113883.6.1" displayName="SPL UNCLASSIFIED SECTION"/>
+                     <title>Childhood Enuresis</title>
+                     <text>
+                        <paragraph>Initially, an oral dose of 25 mg/day should be tried in children aged 6 and older. Medication should be given one hour before bedtime. If a satisfactory response does not occur within one week, increase the dose to 50 mg nightly in children under 12 years; children over 12 may receive up to 75 mg nightly. A daily dose greater than 75 mg does not enhance efficacy and tends to increase side effects. Evidence suggests that in early night bedwetters, the drug is more effective given earlier and in divided amounts, i.e., 25 mg in midafternoon, repeated at bedtime. Consideration should be given to instituting a drug free period following an adequate therapeutic trial with a favorable response. Dosage should be tapered off gradually rather than abruptly discontinued; this may reduce the tendency to relapse. Children who relapse when the drug is discontinued do not always respond to a subsequent course of treatment.</paragraph>
+                        <paragraph>A dose of 2.5 mg/kg/day should not be exceeded. ECG changes of unknown significance have been reported in pediatric patients with doses twice this amount.</paragraph>
+                        <paragraph>The safety and effectiveness of Tofranil as temporary adjunctive therapy for nocturnal enuresis in children less than 6 years of age has not been established.</paragraph>
+                     </text>
+                     <effectiveTime value="20161225"/>
+                  </section>
+               </component>
+            </section>
+         </component>
+         <component>
+            <section ID="Lcef7f1f3-ce8e-44c0-9230-fff69a447fcb">
+               <id root="59bf1915-32b7-4d78-8fbd-aca2f292d1b7"/>
+               <code code="34069-5" codeSystem="2.16.840.1.113883.6.1" displayName="HOW SUPPLIED SECTION"/>
+               <title>HOW SUPPLIED</title>
+               <text>
+                  <paragraph>
+                     <content styleCode="bold">The three strengths of Tofranil™ (imipramine hydrochloride USP) are available as follows:</content>
+                  </paragraph>
+                  <paragraph>
+                     <content styleCode="italics">Tablets</content> 10 mg – triangular, biconvex, coral-reddish brown, sugar-coated tablet, imprinted with <renderMultiMedia referencedObject="L513ca79a-4b1a-49a1-a361-56e3a023c4eb"/> on one side and “10” on the other side in black.</paragraph>
+                  <paragraph>Bottles of 30 ……………… NDC 0406-9920-03</paragraph>
+                  <paragraph>Bottles of 100 ……………… NDC 0406-9920-01</paragraph>
+                  <paragraph>
+                     <content styleCode="italics">Tablets</content> 25 mg – round, biconvex, coral-reddish brown, sugar-coated tablet, imprinted with <renderMultiMedia referencedObject="L513ca79a-4b1a-49a1-a361-56e3a023c4eb"/> on one side and “25” on the other side in black.</paragraph>
+                  <paragraph>Bottles of 30 ……………… NDC 0406-9921-03</paragraph>
+                  <paragraph>Bottles of 100 ……………… NDC 0406-9921-01</paragraph>
+                  <paragraph>
+                     <content styleCode="italics">Tablets</content> 50 mg – round, biconvex, coral-reddish brown, sugar-coated tablet, imprinted with <renderMultiMedia referencedObject="L513ca79a-4b1a-49a1-a361-56e3a023c4eb"/> on one side and “50” on the other side in black.</paragraph>
+                  <paragraph>Bottles of 30 ……………… NDC 0406-9922-03</paragraph>
+                  <paragraph>Bottles of 100 ……………… NDC 0406-9922-01</paragraph>
+                  <paragraph>Store at 20° to 25°C (68° to 77°F) [see USP Controlled Room Temperature].</paragraph>
+                  <paragraph>
+                     <content styleCode="italics">Dispense in tight container (USP) with a child-resistant closure.</content>
+                  </paragraph>
+               </text>
+               <effectiveTime value="20161225"/>
+               <component>
+                  <observationMedia ID="L513ca79a-4b1a-49a1-a361-56e3a023c4eb">
+                     <text>Msymbol</text>
+                     <value mediaType="image/jpeg" xsi:type="ED">
+                        <reference value="Msymb.jpg"/>
+                     </value>
+                  </observationMedia>
+               </component>
+            </section>
+         </component>
+         <component>
+            <section ID="L0b090b4d-2591-4950-bb09-8ca4e077f3aa">
+               <id root="09ca2ea3-1561-4a88-ab45-6458c086b0e6"/>
+               <code code="34091-9" codeSystem="2.16.840.1.113883.6.1" displayName="ANIMAL PHARMACOLOGY &amp; OR TOXICOLOGY SECTION"/>
+               <title>ANIMAL PHARMACOLOGY &amp; TOXICOLOGY</title>
+               <text/>
+               <effectiveTime value="20161226"/>
+               <component>
+                  <section ID="La64d4e1e-b7b1-4459-96f9-411407655368">
+                     <id root="58404d04-7601-422d-8064-f875f22202c9"/>
+                     <code code="42229-5" codeSystem="2.16.840.1.113883.6.1" displayName="SPL UNCLASSIFIED SECTION"/>
+                     <title/>
+                     <text>
+                        <paragraph>
+                           <content styleCode="italics">A. Acute:</content> Oral LD<sub>50</sub> ranges are as follows:</paragraph>
+                        <paragraph>
+                           <content>Rat 355 to 682 mg/kg</content>
+                        </paragraph>
+                        <paragraph>   Dog 100 to 215 mg/kg</paragraph>
+                        <paragraph>Depending on the dosage in both species, toxic signs proceeded progressively from depression, irregular respiration and ataxia to convulsions and death.</paragraph>
+                     </text>
+                     <effectiveTime value="20161225"/>
+                  </section>
+               </component>
+               <component>
+                  <section ID="Ld4610cd4-5285-45b3-86cf-7adfdbfd0784">
+                     <id root="d6c9c373-b0dc-4103-b7b3-9ac7bad79e22"/>
+                     <code code="42229-5" codeSystem="2.16.840.1.113883.6.1" displayName="SPL UNCLASSIFIED SECTION"/>
+                     <title/>
+                     <text>
+                        <paragraph>
+                           <content styleCode="italics">B. Reproduction/Teratogenic:</content> The overall evaluation may be summed up in the following manner:</paragraph>
+                     </text>
+                     <effectiveTime value="20161225"/>
+                  </section>
+               </component>
+               <component>
+                  <section ID="L59abfeba-be56-481e-a715-d79e9d4cd742">
+                     <id root="e8bc6c0a-83e2-4080-b145-c4618ab8c2a3"/>
+                     <code code="42229-5" codeSystem="2.16.840.1.113883.6.1" displayName="SPL UNCLASSIFIED SECTION"/>
+                     <title/>
+                     <text>
+                        <paragraph>Oral: Independent studies in three species (rat, mouse, and rabbit) revealed that when Tofranil is administered orally in doses up to approximately 2-1/2 times the maximum human dose in the first 2 species and up to 25 times the maximum human dose in the third species, the drug is essentially free from teratogenic potential. In the three species studied, only one instance of fetal abnormality occurred (in the rabbit) and in that study there was likewise an abnormality in the control group. However, evidence does exist from the rat studies that some systemic and embryotoxic potential is demonstrable. This is manifested by reduced litter size, a slight increase in the stillborn rate, and a reduction in the mean birth weight.</paragraph>
+                        <paragraph>Manufactured by:<br/>Patheon Inc.<br/>Whitby, Ontario, Canada<br/>L1N 5Z5</paragraph>
+                        <paragraph>Manufactured for:<br/>Thompson Medical Solutions<br/>Birmingham, AL 35242<br/>NDC:69874-992-01</paragraph>
+                        <paragraph>Keep out of the reach of children</paragraph>
+                        <paragraph>REV 12/2016</paragraph>
+                     </text>
+                     <effectiveTime value="20161226"/>
+                  </section>
+               </component>
+            </section>
+         </component>
+         <component>
+            <section ID="L1b7a5679-36ca-471f-990f-f480d3c25c9f">
+               <id root="bf49b7e2-11e7-4acc-bada-b1e4f18c8969"/>
+               <code code="42231-1" codeSystem="2.16.840.1.113883.6.1" displayName="SPL MEDGUIDE SECTION"/>
+               <title>Medication Guide - Tofranil™ (tō-ˈfrā-nil)<br/>imipramine hydrochloride tablets USP</title>
+               <text>
+                  <paragraph>
+                     <content styleCode="bold">Antidepressant Medicines, Depression and other Serious Mental Illnesses, and Suicidal Thoughts or Actions</content>
+                  </paragraph>
+                  <paragraph>Read the Medication Guide that comes with you or your family member’s antidepressant medicine. This Medication Guide is only about the risk of suicidal thoughts and actions with antidepressant medicines. <content styleCode="bold">Talk to your, or your family member’s, healthcare provider about:</content>
+                  </paragraph>
+                  <list listType="unordered">
+                     <item>all risks and benefits of treatment with antidepressant medicines</item>
+                     <item>all treatment choices for depression or other serious mental illness</item>
+                  </list>
+                  <paragraph>
+                     <content styleCode="bold">What is the most important information I should know about antidepressant medicines, depression and other serious mental illnesses, and suicidal thoughts or actions?</content>
+                  </paragraph>
+                  <paragraph>
+                     <content styleCode="bold">1.    Antidepressant medicines may increase suicidal thoughts or actions in some children, teenagers, and young adults within the first few months of treatment.</content>
+                  </paragraph>
+                  <paragraph>
+                     <content styleCode="bold">2.    Depression and other serious mental illnesses are the most important causes of suicidal thoughts and actions. Some people may have a particularly high risk of having suicidal thoughts or actions.</content> These include people who have (or have a family history of) bipolar illness (also called manic-depressive illness) or suicidal thoughts or actions.</paragraph>
+                  <paragraph>
+                     <content styleCode="bold">3.   How can I watch for and try to prevent suicidal thoughts and actions in myself or a family member?</content>
+                  </paragraph>
+                  <list listType="unordered">
+                     <item>Pay close attention to any changes, especially sudden changes, in mood, behaviors, thoughts, or feelings. This is very important when an antidepressant medicine is started or when the dose is changed.</item>
+                     <item>Call the healthcare provider right away to report new or sudden changes in mood, behavior, thoughts, or feelings.</item>
+                     <item>Keep all follow-up visits with the healthcare provider as scheduled. Call the healthcare provider between visits as needed, especially if you have concerns about symptoms.</item>
+                  </list>
+                  <paragraph>
+                     <content styleCode="bold">Call a healthcare provider right away if you or your family member has any of the following symptoms, especially if they are new, worse, or worry you:</content>
+                  </paragraph>
+                  <list listType="unordered">
+                     <item>thoughts about suicide or dying</item>
+                     <item>attempts to commit suicide</item>
+                     <item>new or worse depression</item>
+                     <item>new or worse anxiety</item>
+                     <item>feeling very agitated or restless</item>
+                     <item>panic attacks</item>
+                     <item>trouble sleeping (insomnia)</item>
+                     <item>new or worse irritability</item>
+                     <item>acting aggressive, being angry, or violent</item>
+                     <item>acting on dangerous impulses</item>
+                     <item>an extreme increase in activity and talking (mania)</item>
+                     <item>other unusual changes in behavior or mood</item>
+                     <item>
+                        <content styleCode="bold">Visual problems:</content> eye pain, changes in vision, swelling or redness in or around the eye</item>
+                  </list>
+                  <paragraph>
+                     <content styleCode="bold">Who should not take Tofranil?</content>
+                     <br/>Do not take Tofranil if you:<br/>• take a monoamine oxidase inhibitor (MAOI). Ask your healthcare provider or pharmacist if you are not sure if you take an MAOI, including the antibiotic linezolid.<br/>   •   Do not take an MAOI within 2 weeks of stopping Tofranil unless directed to do so by your physician.<br/>   •   Do not start Tofranil if you stopped taking an MAOI in the last 2 weeks unless directed to do so by your physician.</paragraph>
+                  <paragraph>
+                     <content styleCode="bold">What else do I need to know about antidepressant medicines?</content>
+                  </paragraph>
+                  <list listType="unordered">
+                     <item>
+                        <content styleCode="bold">Never stop an antidepressant medicine without first talking to a healthcare provider.</content> Stopping an antidepressant medicine suddenly can cause other symptoms.</item>
+                     <item>
+                        <content styleCode="bold">Visual problems:</content> Only some people are at risk for these problems. You may want to undergo an eye examination to see if you are at risk and receive preventative treatment if you are.</item>
+                     <item>
+                        <content styleCode="bold">Antidepressants are medicines used to treat depression and other illnesses.</content> It is important to discuss all the risks of treating depression and also the risks of not treating it. Patients and their families or other caregivers should discuss all treatment choices with the healthcare provider, not just the use of antidepressants.</item>
+                     <item>
+                        <content styleCode="bold">Antidepressant medicines have other side effects.</content> Talk to the healthcare provider about the side effects of the medicine prescribed for you or your family member.</item>
+                     <item>
+                        <content styleCode="bold">Antidepressant medicines can interact with other medicines.</content> Know all of the medicines that you or your family member takes. Keep a list of all medicines to show the healthcare provider. Do not start new medicines without first checking with your healthcare provider.</item>
+                     <item>
+                        <content styleCode="bold">Not all antidepressant medicines prescribed for children are FDA approved for use in children.</content> Talk to your child’s healthcare provider for more information.</item>
+                  </list>
+                  <paragraph>Call your doctor for medical advice about side effects. You may report side effects to FDA at 1-800-FDA-1088.</paragraph>
+                  <paragraph>This Medication Guide has been approved by the U.S. Food and Drug Administration.</paragraph>
+                  <paragraph>Manufactured by:<br/>Patheon Inc.<br/>Whitby, Ontario, Canada<br/>L1N 5Z5</paragraph>
+                  <paragraph>Manufactured for:<br/>Thompson Medical Solutions<br/>Birmingham, AL 35242<br/>NDC:69874-992-01<br/>
+                     <br/>REV 12/2016</paragraph>
+               </text>
+               <effectiveTime value="20161226"/>
+            </section>
+         </component>
+         <component>
+            <section ID="L4ca072a6-e5f6-4eec-8263-67d0b02de92f">
+               <id root="8c05ff16-cc75-45a7-a273-7db3cbf57108"/>
+               <code code="51945-4" codeSystem="2.16.840.1.113883.6.1" displayName="PACKAGE LABEL.PRINCIPAL DISPLAY PANEL"/>
+               <title>Packaging</title>
+               <text>
+                  <paragraph>
+                     <renderMultiMedia referencedObject="Lebda2a39-8f99-412d-bf89-d23fb3f87d3f"/>
+                  </paragraph>
+               </text>
+               <effectiveTime value="20161225"/>
+               <component>
+                  <observationMedia ID="Lebda2a39-8f99-412d-bf89-d23fb3f87d3f">
+                     <text>Trofanil</text>
+                     <value mediaType="image/jpeg" xsi:type="ED">
+                        <reference value="Tofranil-2.jpg"/>
+                     </value>
+                  </observationMedia>
+               </component>
+            </section>
+         </component>
+      </structuredBody>
+   </component>
+</document>

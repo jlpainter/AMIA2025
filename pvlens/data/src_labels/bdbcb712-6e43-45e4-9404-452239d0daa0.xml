@@ -1,0 +1,2815 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="https://www.accessdata.fda.gov/spl/stylesheet/spl.xsl"?>
+<document xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:hl7-org:v3 https://www.accessdata.fda.gov/spl/schema/spl.xsd">
+   <id root="bdbcb712-6e43-45e4-9404-452239d0daa0"/>
+   <code code="34391-3" codeSystem="2.16.840.1.113883.6.1" displayName="HUMAN PRESCRIPTION DRUG LABEL"/>
+   <title>These highlights do not include all the information needed to use ADUHELM<sup>®</sup> safely and effectively. See full prescribing information for ADUHELM.<br/>
+      <br/>ADUHELM<sup>®</sup> (aducanumab-avwa) injection, for intravenous use <br/>Initial U.S. Approval: 2021
+</title>
+   <effectiveTime value="20230831"/>
+   <setId root="41706573-546f-6774-6872-5374726f6e67"/>
+   <versionNumber value="8"/>
+   <author>
+      <time/>
+      <assignedEntity>
+         <representedOrganization>
+            <id extension="121376230" root="1.3.6.1.4.1.519.1"/>
+            <name>Biogen Inc.</name>
+            <assignedEntity>
+               <assignedOrganization/>
+            </assignedEntity>
+         </representedOrganization>
+      </assignedEntity>
+   </author>
+   <component>
+      <structuredBody>
+         <component>
+            <section ID="dcl-dpl">
+               <id root="307a50d6-2a43-4529-804f-bc78ace5ddc2"/>
+               <code code="48780-1" codeSystem="2.16.840.1.113883.6.1" displayName="SPL PRODUCT DATA ELEMENTS SECTION"/>
+               <effectiveTime value="20210608"/>
+               <subject>
+                  <manufacturedProduct>
+                     <manufacturedProduct>
+                        <code code="64406-101" codeSystem="2.16.840.1.113883.6.69"/>
+                        <name>Aduhelm</name>
+                        <formCode code="C42945" codeSystem="2.16.840.1.113883.3.26.1.1" displayName="INJECTION, SOLUTION"/>
+                        <asEntityWithGeneric>
+                           <genericMedicine>
+                              <name>Aducanumab</name>
+                           </genericMedicine>
+                        </asEntityWithGeneric>
+                        <ingredient classCode="ACTIB">
+                           <quantity>
+                              <numerator value="100" unit="mg"/>
+                              <denominator value="1" unit="mL"/>
+                           </quantity>
+                           <ingredientSubstance>
+                              <code code="105J35OE21" codeSystem="2.16.840.1.113883.4.9"/>
+                              <name>aducanumab</name>
+                              <activeMoiety>
+                                 <activeMoiety>
+                                    <code code="105J35OE21" codeSystem="2.16.840.1.113883.4.9"/>
+                                    <name>aducanumab</name>
+                                 </activeMoiety>
+                              </activeMoiety>
+                           </ingredientSubstance>
+                        </ingredient>
+                        <ingredient classCode="IACT">
+                           <quantity>
+                              <numerator value="31.60" unit="mg"/>
+                              <denominator value="1" unit="mL"/>
+                           </quantity>
+                           <ingredientSubstance>
+                              <code code="F7LTH1E20Y" codeSystem="2.16.840.1.113883.4.9"/>
+                              <name>arginine hydrochloride</name>
+                           </ingredientSubstance>
+                        </ingredient>
+                        <ingredient classCode="IACT">
+                           <quantity>
+                              <numerator value="0.60" unit="mg"/>
+                              <denominator value="1" unit="mL"/>
+                           </quantity>
+                           <ingredientSubstance>
+                              <code code="4QD397987E" codeSystem="2.16.840.1.113883.4.9"/>
+                              <name>histidine</name>
+                           </ingredientSubstance>
+                        </ingredient>
+                        <ingredient classCode="IACT">
+                           <quantity>
+                              <numerator value="3.39" unit="mg"/>
+                              <denominator value="1" unit="mL"/>
+                           </quantity>
+                           <ingredientSubstance>
+                              <code code="X573657P6P" codeSystem="2.16.840.1.113883.4.9"/>
+                              <name>histidine monohydrochloride monohydrate</name>
+                           </ingredientSubstance>
+                        </ingredient>
+                        <ingredient classCode="IACT">
+                           <quantity>
+                              <numerator value="1.49" unit="mg"/>
+                              <denominator value="1" unit="mL"/>
+                           </quantity>
+                           <ingredientSubstance>
+                              <code code="AE28F7PNPL" codeSystem="2.16.840.1.113883.4.9"/>
+                              <name>methionine</name>
+                           </ingredientSubstance>
+                        </ingredient>
+                        <ingredient classCode="IACT">
+                           <quantity>
+                              <numerator value="0.50" unit="mg"/>
+                              <denominator value="1" unit="mL"/>
+                           </quantity>
+                           <ingredientSubstance>
+                              <code code="6OZP39ZG8H" codeSystem="2.16.840.1.113883.4.9"/>
+                              <name>polysorbate 80</name>
+                           </ingredientSubstance>
+                        </ingredient>
+                        <ingredient classCode="IACT">
+                           <ingredientSubstance>
+                              <code code="059QF0KO0R" codeSystem="2.16.840.1.113883.4.9"/>
+                              <name>Water</name>
+                           </ingredientSubstance>
+                        </ingredient>
+                        <asContent>
+                           <quantity>
+                              <numerator value="1.7" unit="mL"/>
+                              <denominator value="1" unit="1"/>
+                           </quantity>
+                           <containerPackagedProduct>
+                              <code codeSystem="2.16.840.1.113883.6.69"/>
+                              <formCode code="C43226" codeSystem="2.16.840.1.113883.3.26.1.1" displayName="VIAL"/>
+                              <asContent>
+                                 <quantity>
+                                    <numerator value="1" unit="1"/>
+                                    <denominator value="1" unit="1"/>
+                                 </quantity>
+                                 <containerPackagedProduct>
+                                    <code code="64406-101-01" codeSystem="2.16.840.1.113883.6.69"/>
+                                    <formCode code="C43182" codeSystem="2.16.840.1.113883.3.26.1.1" displayName="CARTON"/>
+                                 </containerPackagedProduct>
+                                 <subjectOf>
+                                    <marketingAct>
+                                       <code code="C53292" codeSystem="2.16.840.1.113883.3.26.1.1"/>
+                                       <statusCode code="active"/>
+                                       <effectiveTime>
+                                          <low value="20210607"/>
+                                       </effectiveTime>
+                                    </marketingAct>
+                                 </subjectOf>
+                              </asContent>
+                           </containerPackagedProduct>
+                           <subjectOf>
+                              <characteristic>
+                                 <code code="SPLCMBPRDTP" codeSystem="2.16.840.1.113883.1.11.19255"/>
+                                 <value code="C112160" codeSystem="2.16.840.1.113883.3.26.1.1" xsi:type="CV" displayName="Type 0: Not a Combination Product"/>
+                              </characteristic>
+                           </subjectOf>
+                        </asContent>
+                     </manufacturedProduct>
+                     <subjectOf>
+                        <marketingAct>
+                           <code code="C53292" codeSystem="2.16.840.1.113883.3.26.1.1"/>
+                           <statusCode code="active"/>
+                           <effectiveTime>
+                              <low value="20210607"/>
+                           </effectiveTime>
+                        </marketingAct>
+                     </subjectOf>
+                     <subjectOf>
+                        <approval>
+                           <id extension="BLA761178" root="2.16.840.1.113883.3.150"/>
+                           <code code="C73585" codeSystem="2.16.840.1.113883.3.26.1.1" displayName="BLA"/>
+                           <author>
+                              <territorialAuthority>
+                                 <territory>
+                                    <code code="USA" codeSystem="2.16.840.1.113883.5.28"/>
+                                 </territory>
+                              </territorialAuthority>
+                           </author>
+                        </approval>
+                     </subjectOf>
+                     <consumedIn>
+                        <substanceAdministration>
+                           <routeCode code="C38276" codeSystem="2.16.840.1.113883.3.26.1.1" displayName="INTRAVENOUS"/>
+                        </substanceAdministration>
+                     </consumedIn>
+                  </manufacturedProduct>
+               </subject>
+               <subject>
+                  <manufacturedProduct>
+                     <manufacturedProduct>
+                        <code code="64406-102" codeSystem="2.16.840.1.113883.6.69"/>
+                        <name>Aduhelm</name>
+                        <formCode code="C42945" codeSystem="2.16.840.1.113883.3.26.1.1" displayName="INJECTION, SOLUTION"/>
+                        <asEntityWithGeneric>
+                           <genericMedicine>
+                              <name>Aducanumab</name>
+                           </genericMedicine>
+                        </asEntityWithGeneric>
+                        <ingredient classCode="ACTIB">
+                           <quantity>
+                              <numerator value="100" unit="mg"/>
+                              <denominator value="1" unit="mL"/>
+                           </quantity>
+                           <ingredientSubstance>
+                              <code code="105J35OE21" codeSystem="2.16.840.1.113883.4.9"/>
+                              <name>aducanumab</name>
+                              <activeMoiety>
+                                 <activeMoiety>
+                                    <code code="105J35OE21" codeSystem="2.16.840.1.113883.4.9"/>
+                                    <name>aducanumab</name>
+                                 </activeMoiety>
+                              </activeMoiety>
+                           </ingredientSubstance>
+                        </ingredient>
+                        <ingredient classCode="IACT">
+                           <quantity>
+                              <numerator value="31.60" unit="mg"/>
+                              <denominator value="1" unit="mL"/>
+                           </quantity>
+                           <ingredientSubstance>
+                              <code code="F7LTH1E20Y" codeSystem="2.16.840.1.113883.4.9"/>
+                              <name>arginine hydrochloride</name>
+                           </ingredientSubstance>
+                        </ingredient>
+                        <ingredient classCode="IACT">
+                           <quantity>
+                              <numerator value="0.60" unit="mg"/>
+                              <denominator value="1" unit="mL"/>
+                           </quantity>
+                           <ingredientSubstance>
+                              <code code="4QD397987E" codeSystem="2.16.840.1.113883.4.9"/>
+                              <name>histidine</name>
+                           </ingredientSubstance>
+                        </ingredient>
+                        <ingredient classCode="IACT">
+                           <quantity>
+                              <numerator value="3.39" unit="mg"/>
+                              <denominator value="1" unit="mL"/>
+                           </quantity>
+                           <ingredientSubstance>
+                              <code code="X573657P6P" codeSystem="2.16.840.1.113883.4.9"/>
+                              <name>histidine monohydrochloride monohydrate</name>
+                           </ingredientSubstance>
+                        </ingredient>
+                        <ingredient classCode="IACT">
+                           <quantity>
+                              <numerator value="1.49" unit="mg"/>
+                              <denominator value="1" unit="mL"/>
+                           </quantity>
+                           <ingredientSubstance>
+                              <code code="AE28F7PNPL" codeSystem="2.16.840.1.113883.4.9"/>
+                              <name>methionine</name>
+                           </ingredientSubstance>
+                        </ingredient>
+                        <ingredient classCode="IACT">
+                           <quantity>
+                              <numerator value="0.50" unit="mg"/>
+                              <denominator value="1" unit="mL"/>
+                           </quantity>
+                           <ingredientSubstance>
+                              <code code="6OZP39ZG8H" codeSystem="2.16.840.1.113883.4.9"/>
+                              <name>polysorbate 80</name>
+                           </ingredientSubstance>
+                        </ingredient>
+                        <ingredient classCode="IACT">
+                           <ingredientSubstance>
+                              <code code="059QF0KO0R" codeSystem="2.16.840.1.113883.4.9"/>
+                              <name>Water</name>
+                           </ingredientSubstance>
+                        </ingredient>
+                        <asContent>
+                           <quantity>
+                              <numerator value="3" unit="mL"/>
+                              <denominator value="1" unit="1"/>
+                           </quantity>
+                           <containerPackagedProduct>
+                              <code codeSystem="2.16.840.1.113883.6.69"/>
+                              <formCode code="C43226" codeSystem="2.16.840.1.113883.3.26.1.1" displayName="VIAL"/>
+                              <asContent>
+                                 <quantity>
+                                    <numerator value="1" unit="1"/>
+                                    <denominator value="1" unit="1"/>
+                                 </quantity>
+                                 <containerPackagedProduct>
+                                    <code code="64406-102-02" codeSystem="2.16.840.1.113883.6.69"/>
+                                    <formCode code="C43182" codeSystem="2.16.840.1.113883.3.26.1.1" displayName="CARTON"/>
+                                 </containerPackagedProduct>
+                                 <subjectOf>
+                                    <marketingAct>
+                                       <code code="C53292" codeSystem="2.16.840.1.113883.3.26.1.1"/>
+                                       <statusCode code="active"/>
+                                       <effectiveTime>
+                                          <low value="20210607"/>
+                                       </effectiveTime>
+                                    </marketingAct>
+                                 </subjectOf>
+                              </asContent>
+                           </containerPackagedProduct>
+                           <subjectOf>
+                              <characteristic>
+                                 <code code="SPLCMBPRDTP" codeSystem="2.16.840.1.113883.1.11.19255"/>
+                                 <value code="C112160" codeSystem="2.16.840.1.113883.3.26.1.1" xsi:type="CV" displayName="Type 0: Not a Combination Product"/>
+                              </characteristic>
+                           </subjectOf>
+                        </asContent>
+                     </manufacturedProduct>
+                     <subjectOf>
+                        <marketingAct>
+                           <code code="C53292" codeSystem="2.16.840.1.113883.3.26.1.1"/>
+                           <statusCode code="active"/>
+                           <effectiveTime>
+                              <low value="20210607"/>
+                           </effectiveTime>
+                        </marketingAct>
+                     </subjectOf>
+                     <subjectOf>
+                        <approval>
+                           <id extension="BLA761178" root="2.16.840.1.113883.3.150"/>
+                           <code code="C73585" codeSystem="2.16.840.1.113883.3.26.1.1" displayName="BLA"/>
+                           <author>
+                              <territorialAuthority>
+                                 <territory>
+                                    <code code="USA" codeSystem="2.16.840.1.113883.5.28"/>
+                                 </territory>
+                              </territorialAuthority>
+                           </author>
+                        </approval>
+                     </subjectOf>
+                     <consumedIn>
+                        <substanceAdministration>
+                           <routeCode code="C38276" codeSystem="2.16.840.1.113883.3.26.1.1" displayName="INTRAVENOUS"/>
+                        </substanceAdministration>
+                     </consumedIn>
+                  </manufacturedProduct>
+               </subject>
+            </section>
+         </component>
+         <component>
+            <section ID="s1">
+               <id root="86d74bf4-b003-4f7f-a907-f9dba87b6494"/>
+               <code code="43683-2" codeSystem="2.16.840.1.113883.6.1" displayName="RECENT MAJOR CHANGES SECTION"/>
+               <effectiveTime value="20230831"/>
+               <excerpt>
+                  <highlight>
+                     <text>
+                        <table width="100%" styleCode="Noautorules">
+                           <col width="90.000%" align="left"/>
+                           <col width="10.000%" align="left"/>
+                           <tbody>
+                              <tr>
+                                 <td align="left" valign="top">Boxed Warning
+</td>
+                                 <td align="right" valign="top">8/2023
+</td>
+                              </tr>
+                              <tr>
+                                 <td align="left" valign="top">Indications and Usage (<linkHtml href="#s3">1</linkHtml>)
+</td>
+                                 <td align="right" valign="top">8/2023
+</td>
+                              </tr>
+                              <tr>
+                                 <td align="left" valign="top">Dosage and Administration (<linkHtml href="#s5">2.1</linkHtml>, <linkHtml href="#s6">2.2</linkHtml>, <linkHtml href="#s7">2.3</linkHtml>, <linkHtml href="#s12">2.4</linkHtml>, <linkHtml href="#s13">2.5</linkHtml>)
+</td>
+                                 <td align="right" valign="top">2/2023
+</td>
+                              </tr>
+                              <tr>
+                                 <td align="left" valign="top">Dosage and Administration (<linkHtml href="#s7">2.3</linkHtml>)
+</td>
+                                 <td align="right" valign="top">8/2023
+</td>
+                              </tr>
+                              <tr>
+                                 <td align="left" valign="top">Warnings and Precautions (<linkHtml href="#s17">5.1</linkHtml>)
+</td>
+                                 <td align="right" valign="top">8/2023
+</td>
+                              </tr>
+                           </tbody>
+                        </table>
+                     </text>
+                  </highlight>
+               </excerpt>
+            </section>
+         </component>
+         <component>
+            <section ID="s2">
+               <id root="3dadd999-b29c-4503-9c44-b741d9825d6f"/>
+               <code code="34066-1" codeSystem="2.16.840.1.113883.6.1" displayName="BOXED WARNING SECTION"/>
+               <title>
+                  <content styleCode="xmChange"/>WARNING: AMYLOID RELATED IMAGING ABNORMALITIES
+</title>
+               <text>
+                  <paragraph>
+                     <content styleCode="xmChange"/>
+                     <content styleCode="bold">Monoclonal antibodies directed against aggregated forms of beta amyloid, including ADUHELM, can cause amyloid related imaging abnormalities (ARIA), characterized as ARIA with edema (ARIA-E) and ARIA with hemosiderin deposition (ARIA-H). Incidence and timing of ARIA vary among treatments. ARIA usually occurs early in treatment and is usually asymptomatic, although serious and life-threatening events rarely can occur. Serious intracerebral hemorrhages, some of which have been fatal, have been observed in patients treated with this class of medications
+</content>
+                     <content styleCode="bold italics">[see Warnings and Precautions (<linkHtml href="#s17">5.1</linkHtml>), Adverse Reactions (<linkHtml href="#s25">6.1</linkHtml>)].</content>
+                  </paragraph>
+                  <paragraph>
+                     <content styleCode="xmChange"/>
+                     <content styleCode="bold underline">ApoE ε4 Homozygotes</content>
+                  </paragraph>
+                  <paragraph>
+                     <content styleCode="xmChange"/>
+                     <content styleCode="bold">Patients who are apolipoprotein E ε4 (ApoE ε4) homozygotes (appr</content>
+                     <content styleCode="bold">oximately 15% of Alzheimer's disease patients) treated with this class of medications, including ADUHELM, have a higher incidence of ARIA, including symptomatic, serious, and severe radiographic ARIA, compared to heterozygotes and noncarriers. Testing for ApoE ε4 status should be performed prior to initiation of treatment to inform the risk of developing ARIA. Prior to testing, prescribers should discuss with patients the risk of ARIA across genotypes and the implications of genetic testing results. Prescribers should inform patients that if genotype testing is not performed they can still be treated with ADUHELM; however, it cannot be determined if they are ApoE ε4 homozygotes and at higher risk for ARIA </content>
+                     <content styleCode="bold italics">[see Warnings and Precautions (<linkHtml href="#s17">5.1</linkHtml>)]</content>.
+</paragraph>
+                  <paragraph>
+                     <content styleCode="xmChange"/>
+                     <content styleCode="bold">Consider the benefit of ADUHELM for the treatment of Alzheimer's disease and potential risk of serious adverse events associated with ARIA when deciding to initiate treatment with ADUHELM </content>
+                     <content styleCode="bold italics">[see Warnings and Precautions (5.1</content>
+                     <content styleCode="bold italics">) and Clinical Studies (<linkHtml href="#s53">14</linkHtml>)]</content>.
+</paragraph>
+               </text>
+               <effectiveTime value="20230831"/>
+               <excerpt>
+                  <highlight>
+                     <text>
+                        <paragraph>
+                           <content styleCode="bold">WARNING: AMYLOID RELATED IMAGING ABNORMALITIES</content>
+                        </paragraph>
+                        <paragraph>
+                           <content styleCode="bold italics">See full prescribing information for complete boxed warning.</content>
+                        </paragraph>
+                        <paragraph>
+                           <content styleCode="bold">Monoclonal antibodies directed against aggregated forms of beta amyloid, including ADUHELM, can cause amyloid related imaging abnormalities (ARIA), characterized as ARIA with edema (ARIA-E) and ARIA with hemosiderin deposition (ARIA-H). ARIA is usually asymptomatic, although rarely serious and life-threatening events can occur. Serious intracerebral hemorrhage greater than 1 cm have occurred in patients treated with this class of medications. (<linkHtml href="#s17">5.1</linkHtml>, <linkHtml href="#s25">6.1</linkHtml>)</content>
+                        </paragraph>
+                        <paragraph>
+                           <content styleCode="bold underline">ApoE ε4 Homozygotes</content>
+                        </paragraph>
+                        <paragraph>
+                           <content styleCode="bold">Patients treated with this class of medications, including ADUHELM,
+</content>
+                           <content styleCode="bold">who are ApoE ε4 homozygotes have a
+</content>
+                           <content styleCode="bold">higher incidence of ARIA, including symptomatic and serious ARIA, compared to heterozygotes and noncarriers.
+</content>
+                           <content styleCode="bold">Testing for ApoE ε4 status should be perform</content>
+                           <content styleCode="bold">ed prior to initiation of treatment to inform the risk of developing ARIA. Prior to testing, prescribers should discuss with patients the risk of ARIA across genotypes and the implications of genetic testing results. (<linkHtml href="#s17">5.1</linkHtml>)</content>
+                        </paragraph>
+                        <paragraph>
+                           <content styleCode="bold">Consider the benefit of ADUHELM for the treatment of Alzheimer's disease and potential risk of serious adverse events associated with ARIA when deciding to initiate treatment with ADUHELM. (<linkHtml href="#s17">5.1</linkHtml>, <linkHtml href="#s53">14</linkHtml>)</content>
+                        </paragraph>
+                     </text>
+                  </highlight>
+               </excerpt>
+            </section>
+         </component>
+         <component>
+            <section ID="s3">
+               <id root="a6336bad-07ff-4b87-a0c7-cd111a854d18"/>
+               <code code="34067-9" codeSystem="2.16.840.1.113883.6.1" displayName="INDICATIONS &amp; USAGE SECTION"/>
+               <title>1 INDICATIONS AND USAGE
+</title>
+               <text>
+                  <paragraph>
+                     <content styleCode="xmChange"/>ADUHELM is indicated for the treatment of Alzheimer's disease. Treatment with ADUHELM should be initiated in patients with mild cognitive impairment or mild dementia stage of disease, the population in which treatment was initiated in clinical trials. This indication is approved under accelerated approval based on reduction in amyloid beta plaques observed in patients treated with ADUHELM <content styleCode="italics">[see Clinical Studies (<linkHtml href="#s53">14</linkHtml>)]</content>. Continued approval for this indication may be contingent upon verification of clinical benefit in confirmatory trial(s).
+</paragraph>
+               </text>
+               <effectiveTime value="20230831"/>
+               <excerpt>
+                  <highlight>
+                     <text>
+                        <paragraph>ADUHELM is an amyloid beta-directed antibody indicated for the treatment of Alzheimer's disease. Treatment with ADUHELM should be initiated in patients with mild cognitive impairment or mild dementia stage of disease, the population in which treatment was initiated in clinical trials. This indication is approved under accelerated approval based on reduction in amyloid beta plaques observed in patients treated with ADUHELM. Continued approval for this indication may be contingent upon verification of clinical benefit in confirmatory trial(s). (<linkHtml href="#s3">1</linkHtml>)
+</paragraph>
+                     </text>
+                  </highlight>
+               </excerpt>
+            </section>
+         </component>
+         <component>
+            <section ID="s4">
+               <id root="83be3854-2c77-4ee8-8c54-e855efa68f02"/>
+               <code code="34068-7" codeSystem="2.16.840.1.113883.6.1" displayName="DOSAGE &amp; ADMINISTRATION SECTION"/>
+               <title>2 DOSAGE AND ADMINISTRATION
+</title>
+               <effectiveTime value="20230831"/>
+               <excerpt>
+                  <highlight>
+                     <text>
+                        <list listType="unordered" styleCode="Disc">
+                           <item>Confirm the presence of amyloid beta pathology prior to initiating treatment. (<linkHtml href="#s5">2.1</linkHtml>)
+</item>
+                           <item>Titration is required for treatment initiation. (<linkHtml href="#s6">2.2</linkHtml> )
+</item>
+                           <item>The recommended maintenance dosage is 10 mg/kg administered as an intravenous infusion over approximately one hour every four weeks. (<linkHtml href="#s6">2.2</linkHtml> )
+</item>
+                           <item>Obtain a recent (within one year) brain MRI prior to initiating treatment. (<linkHtml href="#s7">2.3</linkHtml>, <linkHtml href="#s17">5.1</linkHtml>)
+</item>
+                           <item>Obtain MRIs prior to the 5<sup>th</sup>, 7<sup>th</sup>, 9<sup>th</sup>, and 12<sup>th</sup> infusions; if radiographically observed ARIA occurs, treatment recommendations are based on type, severity, and presence of symptoms. (<linkHtml href="#s7">2.3</linkHtml>, <linkHtml href="#s17">5.1</linkHtml>)
+</item>
+                           <item>Dilution in 100 mL of 0.9% Sodium Chloride Injection, USP, is required prior to administration. (<linkHtml href="#s12">2.4</linkHtml>)
+</item>
+                           <item>Administer as an intravenous infusion over approximately one hour via a 0.2 or 0.22 micron in-line filter. (<linkHtml href="#s13">2.5</linkHtml>)
+</item>
+                        </list>
+                     </text>
+                  </highlight>
+               </excerpt>
+               <component>
+                  <section ID="s5">
+                     <id root="2dcb307f-2a06-4ef6-bff9-62618617b884"/>
+                     <code code="42229-5" codeSystem="2.16.840.1.113883.6.1" displayName="SPL UNCLASSIFIED SECTION"/>
+                     <title>
+                        <content styleCode="xmChange"/>2.1 Patient Selection
+</title>
+                     <text>
+                        <paragraph>
+                           <content styleCode="xmChange"/>Confirm the presence of amyloid beta pathology prior to initiating treatment <content styleCode="italics">[see Clinical Pharmacology (<linkHtml href="#s37">12.1</linkHtml>)]</content>.
+</paragraph>
+                     </text>
+                     <effectiveTime value="20230215"/>
+                  </section>
+               </component>
+               <component>
+                  <section ID="s6">
+                     <id root="eefd0c23-76d4-478e-a644-1864fe88f1ab"/>
+                     <code code="42229-5" codeSystem="2.16.840.1.113883.6.1" displayName="SPL UNCLASSIFIED SECTION"/>
+                     <title>2.2 Dosing Instructions
+</title>
+                     <text>
+                        <paragraph>
+                           <content styleCode="xmChange"/>After an initial titration, the recommended dosage of ADUHELM is 10 mg/kg (see <linkHtml href="#t1">Table 1</linkHtml>). ADUHELM must be diluted and is administered as an intravenous  infusion over approximately one hour every four weeks.
+</paragraph>
+                        <table ID="t1" width="100%">
+                           <caption>Table 1: Dosing Schedule
+</caption>
+                           <col width="51.350%" align="left"/>
+                           <col width="48.650%" align="left"/>
+                           <tbody>
+                              <tr>
+                                 <td align="center" valign="top" styleCode="Toprule Botrule Lrule Rrule">
+                                    <content styleCode="bold">Intravenous Infusion</content>
+                                    <br/>
+                                    <content styleCode="bold">(every 4 weeks)</content>
+                                 </td>
+                                 <td align="center" valign="top" styleCode="Toprule Botrule Rrule">
+                                    <content styleCode="bold">ADUHELM Dosage (administered over approximately one hour)</content>
+                                 </td>
+                              </tr>
+                              <tr>
+                                 <td align="center" valign="top" styleCode="Botrule Lrule Rrule">Infusion 1 and 2
+</td>
+                                 <td align="center" valign="top" styleCode="Botrule Rrule">1 mg/kg
+</td>
+                              </tr>
+                              <tr>
+                                 <td align="center" valign="top" styleCode="Botrule Lrule Rrule">Infusion 3 and 4
+</td>
+                                 <td align="center" valign="top" styleCode="Botrule Rrule">3 mg/kg
+</td>
+                              </tr>
+                              <tr>
+                                 <td align="center" valign="top" styleCode="Botrule Lrule Rrule">Infusion 5 and 6
+</td>
+                                 <td align="center" valign="top" styleCode="Botrule Rrule">6 mg/kg
+</td>
+                              </tr>
+                              <tr>
+                                 <td align="center" valign="top" styleCode="Botrule Lrule Rrule">Infusion 7 and beyond
+</td>
+                                 <td align="center" valign="top" styleCode="Botrule Rrule">10 mg/kg
+</td>
+                              </tr>
+                           </tbody>
+                        </table>
+                        <paragraph>
+                           <content styleCode="xmChange"/>If an infusion is missed, resume administration at the same dose as soon as possible and at least 21 days apart.
+</paragraph>
+                     </text>
+                     <effectiveTime value="20230215"/>
+                  </section>
+               </component>
+               <component>
+                  <section ID="s7">
+                     <id root="9632d976-393f-43c2-b9cf-c7e13bb76c8e"/>
+                     <code code="42229-5" codeSystem="2.16.840.1.113883.6.1" displayName="SPL UNCLASSIFIED SECTION"/>
+                     <title>2.3 Monitoring and Dosing Interruptions for Amyloid Related Imaging Abnormalities
+</title>
+                     <text>
+                        <paragraph>
+                           <content styleCode="xmChange"/>ADUHELM can cause amyloid related imaging abnormalities -edema (ARIA-E) and hemosiderin deposition (ARIA-H) <content styleCode="italics">[see Warnings and Precautions (<linkHtml href="#s17">5.1</linkHtml>)]</content>.
+</paragraph>
+                     </text>
+                     <effectiveTime value="20230831"/>
+                     <component>
+                        <section ID="s8">
+                           <id root="db3f026e-143f-4c36-8056-4987209ce0b5"/>
+                           <code code="42229-5" codeSystem="2.16.840.1.113883.6.1" displayName="SPL UNCLASSIFIED SECTION"/>
+                           <text>
+                              <paragraph>
+                                 <content styleCode="xmChange"/>
+                                 <content styleCode="underline">Monitoring for ARIA</content>
+                              </paragraph>
+                              <paragraph>
+                                 <content styleCode="xmChange"/>Obtain a recent brain magnetic resonance imaging (MRI) prior to initiating treatment with ADUHELM. Obtain MRIs prior to the 5<sup>th</sup> infusion (first dose of 6 mg/kg), 7<sup>th</sup> infusion (first dose of 10 mg/kg), 9<sup>th</sup> infusion (third dose of 10 mg/kg), and 12<sup>th</sup> infusion (sixth dose of 10 mg/kg). If a patient experiences symptoms suggestive of ARIA, clinical evaluation should be performed, including an MRI if indicated. 
+</paragraph>
+                           </text>
+                           <effectiveTime value="20230831"/>
+                        </section>
+                     </component>
+                     <component>
+                        <section ID="s9">
+                           <id root="36782fa4-c94a-4f4d-a914-e0ca85b6b7c2"/>
+                           <code code="42229-5" codeSystem="2.16.840.1.113883.6.1" displayName="SPL UNCLASSIFIED SECTION"/>
+                           <text>
+                              <paragraph>
+                                 <content styleCode="xmChange"/>
+                                 <content styleCode="underline">Recommendations for Dosing Interruptions in Patients with ARIA</content>
+                              </paragraph>
+                              <paragraph>
+                                 <content styleCode="xmChange"/>If dosing is resumed following a temporary suspension, dosing may resume at that same dose and titration schedule prior to the dosing suspension. The benefits of reaching and maintaining the 10 mg/kg dosage should be considered when evaluating a potential dose suspension.
+</paragraph>
+                           </text>
+                           <effectiveTime value="20230831"/>
+                           <component>
+                              <section ID="s10">
+                                 <id root="8cd4af05-3097-4d56-b222-abca2476bf8c"/>
+                                 <code code="42229-5" codeSystem="2.16.840.1.113883.6.1" displayName="SPL UNCLASSIFIED SECTION"/>
+                                 <text>
+                                    <paragraph>
+                                       <content styleCode="xmChange"/>
+                                       <content styleCode="italics">ARIA-E</content>
+                                    </paragraph>
+                                    <paragraph>
+                                       <content styleCode="xmChange"/>The recommendations for dosing interruptions for patients with ARIA-E are provided in <linkHtml href="#t300">Table 2</linkHtml>.
+</paragraph>
+                                    <table ID="t300" width="100%">
+                                       <caption>Table 2: Dosing Recommendations for Patients with ARIA-E
+</caption>
+                                       <col width="25.000%" align="left"/>
+                                       <col width="25.000%" align="left"/>
+                                       <col width="25.000%" align="left"/>
+                                       <col width="25.000%" align="left"/>
+                                       <tfoot>
+                                          <tr>
+                                             <td colspan="4" align="left" valign="top">
+                                                <paragraph styleCode="footnote">
+                                                   <content styleCode="xmChange"/>
+                                                   <sup>1</sup>  Mild: discomfort noticed, but no disruption of normal daily activity.<br/>Moderate: discomfort sufficient to reduce or affect normal daily activity.<br/>Severe: incapacitating, with inability to work or to perform normal daily activity.
+</paragraph>
+                                             </td>
+                                          </tr>
+                                          <tr>
+                                             <td colspan="4" align="left" valign="top">
+                                                <paragraph styleCode="footnote">
+                                                   <content styleCode="xmChange"/>
+                                                   <sup>2</sup>  Suspend until MRI demonstrates radiographic resolution and symptoms, if present, resolve; consider a follow-up MRI to assess for resolution 2 to 4 months after initial identification. Resumption of dosing should be guided by clinical judgment.
+</paragraph>
+                                             </td>
+                                          </tr>
+                                          <tr>
+                                             <td colspan="4" align="left" valign="top">
+                                                <paragraph styleCode="footnote">
+                                                   <content styleCode="xmChange"/>
+                                                   <sup>3</sup>  See <linkHtml href="#t4">table 4</linkHtml>.
+</paragraph>
+                                             </td>
+                                          </tr>
+                                       </tfoot>
+                                       <tbody>
+                                          <tr>
+                                             <td rowspan="2" align="left" valign="top" styleCode="Toprule Botrule Lrule Rrule">
+                                                <content styleCode="xmChange"/>
+                                                <content styleCode="bold">Clinical Symptom Severity</content>
+                                                <content styleCode="bold">
+                                                   <sup>1</sup>
+                                                </content>
+                                             </td>
+                                             <td colspan="3" align="center" valign="top" styleCode="Toprule Botrule Rrule">
+                                                <content styleCode="bold">ARIA-E Severity on MRI</content>
+                                                <content styleCode="bold">
+                                                   <sup>3</sup>
+                                                </content>
+                                             </td>
+                                          </tr>
+                                          <tr>
+                                             <td align="left" valign="middle" styleCode="Botrule Rrule">
+                                                <content styleCode="xmChange"/>
+                                                <content styleCode="bold">Mild</content>
+                                             </td>
+                                             <td align="left" valign="middle" styleCode="Botrule Rrule">
+                                                <content styleCode="bold">Moderate</content>
+                                             </td>
+                                             <td align="left" valign="middle" styleCode="Botrule Rrule">
+                                                <content styleCode="bold">Severe</content>
+                                             </td>
+                                          </tr>
+                                          <tr>
+                                             <td align="left" valign="middle" styleCode="Botrule Lrule Rrule">
+                                                <content styleCode="xmChange"/>
+                                                <content styleCode="bold">Asymptomatic</content>
+                                             </td>
+                                             <td align="left" valign="top" styleCode="Botrule Rrule">May continue dosing at current dose and schedule
+</td>
+                                             <td align="left" valign="top" styleCode="Botrule Rrule">Suspend dosing<sup>2</sup>
+                                             </td>
+                                             <td rowspan="3" align="left" valign="top" styleCode="Botrule Rrule">Suspend dosing<sup>2</sup>
+                                             </td>
+                                          </tr>
+                                          <tr>
+                                             <td align="left" valign="middle" styleCode="Botrule Lrule Rrule">
+                                                <content styleCode="xmChange"/>
+                                                <content styleCode="bold">Mild</content>
+                                                <br/>
+                                             </td>
+                                             <td align="left" valign="top" styleCode="Botrule Rrule">May continue dosing based on clinical judgment
+</td>
+                                             <td align="left" valign="top" styleCode="Botrule Rrule">Suspend dosing<sup>2</sup>
+                                             </td>
+                                          </tr>
+                                          <tr>
+                                             <td align="left" valign="middle" styleCode="Botrule Lrule Rrule">
+                                                <content styleCode="xmChange"/>
+                                                <content styleCode="bold">Moderate or Severe</content>
+                                                <br/>
+                                             </td>
+                                             <td colspan="2" align="left" valign="top" styleCode="Botrule Rrule">Suspend dosing<sup>2</sup>
+                                             </td>
+                                          </tr>
+                                       </tbody>
+                                    </table>
+                                 </text>
+                                 <effectiveTime value="20230831"/>
+                              </section>
+                           </component>
+                           <component>
+                              <section ID="s11">
+                                 <id root="e245c749-393c-4de0-a80e-9471cde61326"/>
+                                 <code code="42229-5" codeSystem="2.16.840.1.113883.6.1" displayName="SPL UNCLASSIFIED SECTION"/>
+                                 <text>
+                                    <paragraph>
+                                       <content styleCode="xmChange"/>
+                                       <content styleCode="italics">ARIA-H</content>
+                                    </paragraph>
+                                    <paragraph>
+                                       <content styleCode="xmChange"/>The recommendations for dosing interruptions for patients with ARIA-H are provided in <linkHtml href="#t301">Table 3</linkHtml>.
+</paragraph>
+                                    <table ID="t301" width="100%">
+                                       <caption>Table 3: Dosing Recommendations for Patients with ARIA-H
+</caption>
+                                       <col width="25.000%" align="left"/>
+                                       <col width="25.000%" align="left"/>
+                                       <col width="25.000%" align="left"/>
+                                       <col width="25.000%" align="left"/>
+                                       <tfoot>
+                                          <tr>
+                                             <td colspan="4" align="left" valign="top">
+                                                <paragraph styleCode="footnote">
+                                                   <content styleCode="xmChange"/>
+                                                   <sup>1</sup>  Suspend until MRI demonstrates radiographic stabilization and symptoms, if present, resolve; resumption of dosing should be guided by clinical judgment; consider a follow-up MRI to assess for stabilization 2 to 4 months after initial identification.
+</paragraph>
+                                             </td>
+                                          </tr>
+                                          <tr>
+                                             <td colspan="4" align="left" valign="top">
+                                                <paragraph styleCode="footnote">
+                                                   <content styleCode="xmChange"/>
+                                                   <sup>2</sup>  Suspend until MRI demonstrates radiographic stabilization and symptoms, if present, resolve; use clinical judgment in considering whether to continue treatment or permanently discontinue ADUHELM.
+</paragraph>
+                                             </td>
+                                          </tr>
+                                          <tr>
+                                             <td colspan="4" align="left" valign="top">
+                                                <paragraph styleCode="footnote">
+                                                   <content styleCode="xmChange"/>
+                                                   <sup>3</sup>  See <linkHtml href="#t4">table 4</linkHtml>.
+</paragraph>
+                                             </td>
+                                          </tr>
+                                       </tfoot>
+                                       <tbody>
+                                          <tr>
+                                             <td rowspan="2" align="left" valign="top" styleCode="Toprule Botrule Lrule Rrule">
+                                                <content styleCode="xmChange"/>
+                                                <content styleCode="bold">Clinical Symptom Severity</content>
+                                             </td>
+                                             <td colspan="3" align="center" valign="top" styleCode="Toprule Botrule Rrule">
+                                                <content styleCode="bold">ARIA-H Severity on MRI</content>
+                                                <content styleCode="bold">
+                                                   <sup>3</sup>
+                                                </content>
+                                             </td>
+                                          </tr>
+                                          <tr>
+                                             <td align="left" valign="middle" styleCode="Botrule Rrule">
+                                                <content styleCode="xmChange"/>
+                                                <content styleCode="bold">Mild</content>
+                                             </td>
+                                             <td align="left" valign="middle" styleCode="Botrule Rrule">
+                                                <content styleCode="bold">Moderate</content>
+                                             </td>
+                                             <td align="left" valign="middle" styleCode="Botrule Rrule">
+                                                <content styleCode="bold">Severe</content>
+                                             </td>
+                                          </tr>
+                                          <tr>
+                                             <td align="left" valign="middle" styleCode="Botrule Lrule Rrule">
+                                                <content styleCode="xmChange"/>
+                                                <content styleCode="bold">Asymptomatic</content>
+                                             </td>
+                                             <td align="left" valign="top" styleCode="Botrule Rrule">May continue dosing at current dose and schedule
+</td>
+                                             <td align="left" valign="top" styleCode="Botrule Rrule">Suspend dosing<sup>1</sup>
+                                             </td>
+                                             <td rowspan="2" align="left" valign="top" styleCode="Botrule Rrule">Suspend dosing<sup>2</sup>
+                                             </td>
+                                          </tr>
+                                          <tr>
+                                             <td align="left" valign="middle" styleCode="Botrule Lrule Rrule">
+                                                <content styleCode="xmChange"/>
+                                                <content styleCode="bold">Symptomatic</content>
+                                                <br/>
+                                             </td>
+                                             <td align="left" valign="top" styleCode="Botrule Rrule">Suspend dosing<sup>1</sup>
+                                             </td>
+                                             <td align="left" valign="top" styleCode="Botrule Rrule">Suspend dosing<sup>1</sup>
+                                             </td>
+                                          </tr>
+                                       </tbody>
+                                    </table>
+                                    <paragraph>
+                                       <content styleCode="xmChange"/>In patients who develop intracerebral hemorrhage greater than 1 cm in diameter during treatment with ADUHELM, suspend dosing until MRI demonstrates radiographic stabilization and symptoms, if present, resolve. In Studies 1 and 2, dosing was permanently discontinued in patients who developed intracerebral hemorrhage greater than 1 cm in diameter. Use clinical judgment in considering whether to continue treatment after radiographic stabilization and resolution of symptoms or permanently discontinue ADUHELM.
+</paragraph>
+                                 </text>
+                                 <effectiveTime value="20230215"/>
+                              </section>
+                           </component>
+                        </section>
+                     </component>
+                  </section>
+               </component>
+               <component>
+                  <section ID="s12">
+                     <id root="a3ddb3b2-ef54-4859-9b3b-31f7f7c9e41a"/>
+                     <code code="42229-5" codeSystem="2.16.840.1.113883.6.1" displayName="SPL UNCLASSIFIED SECTION"/>
+                     <title>2.4 Dilution Instructions
+</title>
+                     <text>
+                        <list listType="unordered" styleCode="Disc">
+                           <item>
+                              <content styleCode="xmChange"/>Prior to administration, ADUHELM must be diluted in 100 mL of 0.9% Sodium Chloride Injection, USP.
+</item>
+                           <item>
+                              <content styleCode="xmChange"/>Use aseptic technique when preparing the ADUHELM diluted solution for intravenous infusion.
+</item>
+                           <item>
+                              <content styleCode="xmChange"/>Calculate the dose, total volume of ADUHELM solution required, and the number of vials needed based on the patient's actual body weight. Each vial contains an ADUHELM concentration of 100 mg per mL.
+</item>
+                           <item>
+                              <content styleCode="xmChange"/>Parenteral drug products should be inspected visually for particulate matter and discoloration prior to administration, whenever solution and container permit. Check that the ADUHELM solution is clear to opalescent and colorless to yellow solution. Do not use if opaque particles, discoloration, or other foreign particles are present.
+</item>
+                           <item>Remove the flip-off cap from the vial. Insert the syringe needle into the vial through the center of the rubber stopper.
+</item>
+                           <item>Withdraw the required volume of ADUHELM from the vial(s) and add to an infusion bag of 100 mL of 0.9% Sodium Chloride Injection, USP. Do not use other intravenous diluents to prepare the ADUHELM diluted solution.
+</item>
+                           <item>
+                              <content styleCode="xmChange"/>Each vial is for single-dose only. Discard any unused portion.
+</item>
+                           <item>Gently invert the infusion bag containing the ADUHELM diluted solution to mix completely. Do not shake.
+</item>
+                           <item>
+                              <content styleCode="xmChange"/>After dilution, immediate use is recommended. If not administered immediately, store the diluted solution of ADUHELM in 0.9% Sodium Chloride Injection, USP refrigerated at 2°C to 8°C (36°F to 46°F) for up to 3 days, or at room temperature up to 30°C (86°F) for up to 12 hours. Do not freeze.
+</item>
+                        </list>
+                     </text>
+                     <effectiveTime value="20230215"/>
+                  </section>
+               </component>
+               <component>
+                  <section ID="s13">
+                     <id root="086a1422-aeba-4188-b249-947f79b03fbd"/>
+                     <code code="42229-5" codeSystem="2.16.840.1.113883.6.1" displayName="SPL UNCLASSIFIED SECTION"/>
+                     <title>2.5 Administration Instructions
+</title>
+                     <text>
+                        <list listType="unordered" styleCode="Disc">
+                           <item>Visually inspect the ADUHELM diluted solution for particles or discoloration prior to administration. Do not use if it is discolored, or opaque or foreign particles are seen.
+</item>
+                           <item>
+                              <content styleCode="xmChange"/>Prior to infusion, allow the ADUHELM diluted solution to warm to room temperature.
+</item>
+                           <item>Infuse ADUHELM diluted solution intravenously over approximately one hour through an intravenous line containing a sterile, low-protein binding, 0.2 or 0.22 micron in-line filter.
+</item>
+                           <item>Promptly discontinue the infusion upon the first observation of any signs or symptoms consistent with a hypersensitivity-type reaction <content styleCode="italics">[see Warnings and Precautions (<linkHtml href="#s23">5.2</linkHtml>)]</content>.
+</item>
+                        </list>
+                     </text>
+                     <effectiveTime value="20230215"/>
+                  </section>
+               </component>
+            </section>
+         </component>
+         <component>
+            <section ID="s14">
+               <id root="6b4c2a2a-2e31-4d10-b519-35c828cb92c5"/>
+               <code code="43678-2" codeSystem="2.16.840.1.113883.6.1" displayName="DOSAGE FORMS &amp; STRENGTHS SECTION"/>
+               <title>3 DOSAGE FORMS AND STRENGTHS
+</title>
+               <text>
+                  <paragraph>ADUHELM is a clear to opalescent and colorless to yellow solution, available as:
+</paragraph>
+                  <list listType="unordered" styleCode="Disc">
+                     <item>Injection: 170 mg/1.7 mL (100 mg/mL) in a single-dose vial
+</item>
+                     <item>Injection: 300 mg/3 mL (100 mg/mL) in a single-dose vial
+</item>
+                  </list>
+               </text>
+               <effectiveTime value="20230215"/>
+               <excerpt>
+                  <highlight>
+                     <text>
+                        <paragraph>Injection:
+</paragraph>
+                        <list listType="unordered" styleCode="Disc">
+                           <item>170 mg/1.7 mL (100 mg/mL) solution in a single-dose vial (<linkHtml href="#s14">3</linkHtml>)
+</item>
+                           <item>300 mg/3 mL (100 mg/mL) solution in a single-dose vial (<linkHtml href="#s14">3</linkHtml>)
+</item>
+                        </list>
+                     </text>
+                  </highlight>
+               </excerpt>
+            </section>
+         </component>
+         <component>
+            <section ID="s15">
+               <id root="c8ffb83a-a2ec-4f0f-85f0-d9f0e79e5b23"/>
+               <code code="34070-3" codeSystem="2.16.840.1.113883.6.1" displayName="CONTRAINDICATIONS SECTION"/>
+               <title>4 CONTRAINDICATIONS
+</title>
+               <text>
+                  <paragraph>None.
+</paragraph>
+               </text>
+               <effectiveTime value="20230215"/>
+               <excerpt>
+                  <highlight>
+                     <text>
+                        <paragraph>None. (<linkHtml href="#s15">4</linkHtml>)
+</paragraph>
+                     </text>
+                  </highlight>
+               </excerpt>
+            </section>
+         </component>
+         <component>
+            <section ID="s16">
+               <id root="9cb8b94a-23b9-448e-953b-358ea5da43b8"/>
+               <code code="43685-7" codeSystem="2.16.840.1.113883.6.1" displayName="WARNINGS AND PRECAUTIONS SECTION"/>
+               <title>5 WARNINGS AND PRECAUTIONS
+</title>
+               <effectiveTime value="20230831"/>
+               <excerpt>
+                  <highlight>
+                     <text>
+                        <list listType="unordered" styleCode="Disc">
+                           <item>Amyloid Related Imaging Abnormalities (ARIA): Enhanced clinical vigilance for ARIA is recommended during the first 8 doses of treatment with ADUHELM, particularly during titration.  Risk of ARIA, including symptomatic ARIA, was increased in apolipoprotein E ε4 homozygotes compared to heterozygotes and noncarriers. If a patient experiences symptoms which could be suggestive of ARIA, clinical evaluation should be performed, including MRI testing if indicated. (<linkHtml href="#s7">2.3</linkHtml>, <linkHtml href="#s17">5.1</linkHtml>)
+</item>
+                           <item>Hypersensitivity Reactions: Angioedema and urticaria have occurred. If a hypersensitivity reaction occurs, promptly discontinue the infusion of ADUHELM and initiate appropriate therapy. (<linkHtml href="#s23">5.2</linkHtml>)
+</item>
+                        </list>
+                     </text>
+                  </highlight>
+               </excerpt>
+               <component>
+                  <section ID="s17">
+                     <id root="6861b89c-03eb-4b22-9d5c-2e8068532d7f"/>
+                     <code code="42229-5" codeSystem="2.16.840.1.113883.6.1" displayName="SPL UNCLASSIFIED SECTION"/>
+                     <title>5.1 Amyloid Related Imaging Abnormalities
+</title>
+                     <text>
+                        <paragraph>
+                           <content styleCode="xmChange"/>Monoclonal antibodies directed against aggregated forms of beta amyloid, including ADUHELM, can cause amyloid related imaging abnormalities (ARIA), characterized as ARIA with edema (ARIA-E), which can be observed on MRI as brain edema or sulcal effusions, and ARIA with hemosiderin deposition (ARIA-H), which includes microhemorrhage and superficial siderosis. ARIA can occur spontaneously in patients with Alzheimer's disease. ARIA-H associated with monoclonal antibodies directed against aggregated forms of beta amyloid generally occurs in association with an occurrence of ARIA-E. ARIA-H of any cause and ARIA-E can occur together.
+</paragraph>
+                        <paragraph>
+                           <content styleCode="xmChange"/>ARIA usually occurs early in treatment and is usually asymptomatic, although serious and life-threatening events, including seizure and status epilepticus, rarely can occur. When present, reported symptoms associated with ARIA may include headache, confusion, visual changes, dizziness, nausea, and gait difficulty. Focal neurologic deficits may also occur. Symptoms associated with ARIA usually resolve over time. The risk of ARIA, including symptomatic and serious ARIA, is increased in apolipoprotein E ε4 (ApoE ε4) homozygotes. In addition to ARIA, intracerebral hemorrhages greater than 1 cm in diameter have occurred in patients treated with ADUHELM.
+</paragraph>
+                        <paragraph>
+                           <content styleCode="xmChange"/>Consider the benefit of ADUHELM for the treatment of Alzheimer's disease and potential risk of serious adverse events associated with ARIA when deciding to initiate treatment with ADUHELM.
+</paragraph>
+                     </text>
+                     <effectiveTime value="20230831"/>
+                     <component>
+                        <section ID="s18">
+                           <id root="0742b62c-0d2c-4676-92e6-dd3328eba8e2"/>
+                           <code code="42229-5" codeSystem="2.16.840.1.113883.6.1" displayName="SPL UNCLASSIFIED SECTION"/>
+                           <text>
+                              <paragraph>
+                                 <content styleCode="xmChange"/>
+                                 <content styleCode="underline">Incidence of ARIA</content>
+                              </paragraph>
+                              <paragraph>
+                                 <content styleCode="xmChange"/>Symptomatic ARIA occurred in 10% (110/1105) of patients treated with ADUHELM in Studies 1 and 2. Serious symptoms associated with ARIA were reported in 0.3% of patients treated with ADUHELM. Clinical symptoms associated with ARIA resolved in 88% of patients during the period of observation. Overall, recurrent episodes of ARIA-E were less frequently symptomatic (12%) compared with initial episodes of ARIA-E (25%).
+</paragraph>
+                              <paragraph>
+                                 <content styleCode="xmChange"/>Including asymptomatic radiographic events, ARIA was observed in 41% (454/1105) of patients treated with ADUHELM 10mg/kg compared to 10% (111/1087) of patients on placebo in Studies 1 and 2.
+</paragraph>
+                              <paragraph>
+                                 <content styleCode="xmChange"/>ARIA-E was observed in 35% (387/1105) of patients treated with ADUHELM 10 mg/kg compared with 3% (29/1087) of patients on placebo. ARIA-H was observed in 28% (312/1105) of patients treated with ADUHELM compared to 9% (94/1087) of patients on placebo. There was no increase in isolated ARIA-H (i.e., ARIA-H in patients who did not also experience ARIA-E) for ADUHELM compared to placebo.
+</paragraph>
+                              <paragraph>The overall incidence of seizure, independent of ARIA, was 0.5% in the 10 mg/kg ADUHELM group and 0.8% in the placebo group in Studies 1 and 2. In patients with ARIA in the 10 mg/kg ADUHELM group, the incidence of seizure was 0.7%. Status epilepticus was reported in the placebo-controlled and long-term extension studies in patients treated with ADUHELM.
+</paragraph>
+                           </text>
+                           <effectiveTime value="20230831"/>
+                        </section>
+                     </component>
+                     <component>
+                        <section ID="s19">
+                           <id root="76fb920c-fc80-4d57-8779-89ee89ba5f52"/>
+                           <code code="42229-5" codeSystem="2.16.840.1.113883.6.1" displayName="SPL UNCLASSIFIED SECTION"/>
+                           <text>
+                              <paragraph>
+                                 <content styleCode="xmChange"/>
+                                 <content styleCode="underline">ApoE ε4 Carrier Status and Risk of ARIA</content>
+                              </paragraph>
+                              <paragraph>
+                                 <content styleCode="xmChange"/>Approximately 15% of Alzheimer's disease patients are ApoE ε4 homozygotes. In Studies 1 and 2, among patients with a known ApoE ε4 genotype, 17% (182/1103) of patients in the ADUHELM group were ApoE ε4 homozygotes, 51% (564/1103) were heterozygotes, and 32% (357/1103) were noncarriers. The incidence of symptomatic ARIA was higher in ApoE ε4 homozygotes (16%) than in heterozygotes (11%) and noncarriers (5%) among patients treated with ADUHELM. However, the incidence of serious adverse reactions with ARIA-E, including risk of death, persistent or significant disability or incapacity, hospitalization, or other medically important event that may require intervention to prevent serious outcomes, was similar for ApoE ε4 carriers and noncarriers (2% in homozygotes, 1% in heterozygotes, 2% in noncarriers). The recommendations on management of ARIA do not differ between ApoE ε4 carriers and noncarriers <content styleCode="italics">[see Dosage and Administration (<linkHtml href="#s7">2.3</linkHtml>)]</content>. Testing for ApoE ε4 status should be performed prior to initiation of treatment to inform the risk of developing ARIA. Prior to testing, prescribers should discuss with patients the risk of ARIA across genotypes and the implications of genetic testing results. Prescribers should inform patients that if genotype testing is not performed they can still be treated with ADUHELM; however, it cannot be determined if they are ApoE ε4 homozygotes and at a higher risk for ARIA. An FDA-authorized test for detection of ApoE ε4 alleles to identify patients at risk of ARIA if treated with ADUHELM is not currently available. Currently available tests used to identify ApoE ε4 alleles may vary in accurary and design.
+</paragraph>
+                           </text>
+                           <effectiveTime value="20230215"/>
+                        </section>
+                     </component>
+                     <component>
+                        <section ID="s20">
+                           <id root="e4ab2f2e-4214-4b41-aca7-93ffabd374ae"/>
+                           <code code="42229-5" codeSystem="2.16.840.1.113883.6.1" displayName="SPL UNCLASSIFIED SECTION"/>
+                           <text>
+                              <paragraph>
+                                 <content styleCode="xmChange"/>
+                                 <content styleCode="underline">Radiographic Findings</content>
+                              </paragraph>
+                              <paragraph>
+                                 <content styleCode="xmChange"/>The radiographic severity of ARIA associated with ADUHELM was classified by the criteria shown in <linkHtml href="#t4">Table 4</linkHtml>.
+</paragraph>
+                              <table ID="t4" width="100%">
+                                 <caption>Table 4: ARIA MRI Classification Criteria
+</caption>
+                                 <col width="20.825%" align="left"/>
+                                 <col width="26.675%" align="left"/>
+                                 <col width="24.700%" align="left"/>
+                                 <col width="27.800%" align="left"/>
+                                 <tbody>
+                                    <tr>
+                                       <td rowspan="2" align="center" valign="bottom" styleCode="Toprule Botrule Lrule Rrule">
+                                          <content styleCode="bold">ARIA Type</content>
+                                       </td>
+                                       <td colspan="3" align="center" valign="top" styleCode="Toprule Botrule Rrule">
+                                          <content styleCode="bold">Radiographic Severity</content>
+                                       </td>
+                                    </tr>
+                                    <tr>
+                                       <td align="center" valign="top" styleCode="Botrule Rrule">
+                                          <content styleCode="bold">Mild</content>
+                                       </td>
+                                       <td align="center" valign="top" styleCode="Botrule Rrule">
+                                          <content styleCode="bold">Moderate</content>
+                                       </td>
+                                       <td align="center" valign="top" styleCode="Botrule Rrule">
+                                          <content styleCode="bold">Severe</content>
+                                       </td>
+                                    </tr>
+                                    <tr>
+                                       <td align="left" valign="top" styleCode="Botrule Lrule Rrule">ARIA-E
+</td>
+                                       <td align="left" valign="top" styleCode="Botrule Rrule">FLAIR hyperintensity confined to sulcus and or cortex/subcortical white matter in one location &lt; 5 cm
+</td>
+                                       <td align="left" valign="top" styleCode="Botrule Rrule">FLAIR hyperintensity 5 to 10 cm, or more than 1 site of involvement, each measuring &lt; 10 cm
+</td>
+                                       <td align="left" valign="top" styleCode="Botrule Rrule">FLAIR hyperintensity measuring &gt; 10 cm, often with significant subcortical white matter and/or sulcal involvement. One or more separate sites of involvement may be noted.
+</td>
+                                    </tr>
+                                    <tr>
+                                       <td align="left" valign="top" styleCode="Botrule Lrule Rrule">ARIA-H microhemorrhage
+</td>
+                                       <td align="left" valign="top" styleCode="Botrule Rrule">≤ 4 new incident microhemorrhages
+</td>
+                                       <td align="left" valign="top" styleCode="Botrule Rrule">5 to 9 new incident microhemorrhages
+</td>
+                                       <td align="left" valign="top" styleCode="Botrule Rrule">10 or more new incident microhemorrhages
+</td>
+                                    </tr>
+                                    <tr>
+                                       <td align="left" valign="top" styleCode="Botrule Lrule Rrule">ARIA-H superficial siderosis
+</td>
+                                       <td align="left" valign="top" styleCode="Botrule Rrule">1 focal area of<br/>superficial siderosis
+</td>
+                                       <td align="left" valign="top" styleCode="Botrule Rrule">2 focal areas of superficial siderosis
+</td>
+                                       <td align="left" valign="top" styleCode="Botrule Rrule">&gt; 2 focal areas of superficial siderosis
+</td>
+                                    </tr>
+                                 </tbody>
+                              </table>
+                              <paragraph>
+                                 <content styleCode="xmChange"/>The majority of ARIA-E radiographic events occurred early in treatment (within the first 8 doses), although ARIA can occur at any time and patients can have more than 1 episode. The maximum radiographic severity of ARIA-E in patients treated with ADUHELM was mild in 10% (115/1105) of patients, moderate in 20% (223/1105) of patients, and severe in 4% (49/1105) of patients. Resolution on MRI occurred in 68% of ARIA-E patients by 12 weeks, 91% by 20 weeks, and 98% overall after detection. The maximum radiographic severity of ARIA-H microhemorrhage in patients treated with ADUHELM was mild in 14% (154/1105) of patients, moderate in 3% (29/1105) of patients, and severe in 3% (29/1105) patients.  The maximum radiographic severity of ARIA-H superficial siderosis in patients treated with ADUHELM was mild in 7% (79/1105) of patients, moderate in 4% (47/1105) of patients, and severe in 3% (36/1105) of patients. Among patients treated with ADUHELM, the incidence of severe radiographic ARIA-E was highest in ApoE ε4 homozygotes 11% (20/182), compared to heterozygotes 4% (21/564) or noncarriers 2% (8/357). Among patients treated with ADUHELM, the incidence of severe radiographic ARIA-H (microhemorrhage or superficial siderosis) was highest in ApoE ε4 homozygotes 20% (36/182), compared to heterozygotes 4% (21/564) or noncarriers 2% (6/357).
+</paragraph>
+                           </text>
+                           <effectiveTime value="20230831"/>
+                        </section>
+                     </component>
+                     <component>
+                        <section ID="e9">
+                           <id root="43e42010-7f18-41f6-a167-8917be223379"/>
+                           <code code="42229-5" codeSystem="2.16.840.1.113883.6.1" displayName="SPL UNCLASSIFIED SECTION"/>
+                           <text>
+                              <paragraph>
+                                 <content styleCode="xmChange"/>
+                                 <content styleCode="underline">Intracerebral Hemorrhage</content>
+                              </paragraph>
+                              <paragraph>
+                                 <content styleCode="xmChange"/>Intracerebral hemorrhage greater than 1 cm in diameter was reported in 0.5% (6/1105) of patients in Studies 1 and 2 after treatment with ADUHELM compared to 0.4% (4/1087) of patients on placebo. Fatal events of intracerebral hemorrhage in patients taking ADUHELM have been observed.
+</paragraph>
+                           </text>
+                           <effectiveTime value="20230831"/>
+                        </section>
+                     </component>
+                     <component>
+                        <section ID="s21">
+                           <id root="fe15e6f6-6111-4396-ad74-cf6632063e50"/>
+                           <code code="42229-5" codeSystem="2.16.840.1.113883.6.1" displayName="SPL UNCLASSIFIED SECTION"/>
+                           <text>
+                              <paragraph>
+                                 <content styleCode="italics underline">Concomitant Antithrombotic Medication</content>
+                              </paragraph>
+                              <paragraph>
+                                 <content styleCode="xmChange"/>Patients were excluded from enrollment in Studies 1 and 2 for use of antiplatelet or anticoagulant medications other than 325 mg or less daily of aspirin. Although patients were allowed to receive aspirin in daily doses of 325 mg or less, some patients, because of intercurrent medical events that occurred after enrollment and required treatment, received aspirin in doses greater than 325 mg, other antiplatelet drugs, or anticoagulants during Studies 1 and 2. Patients who received ADUHELM and an antithrombotic medication (aspirin, other antiplatelets, or anticoagulants ) did not have an increased risk of ARIA-H or intracerebral hemorrhage  compared to patients who received placebo and an antithrombotic medication. The majority of exposures to antithrombotic medications were to aspirin; few patients were exposed to other antiplatelet drugs or anticoagulants, limiting any meaningful conclusions about the risk of ARIA or intracerebral hemorrhage in patients taking other antiplatelet drugs or anticoagulants.
+</paragraph>
+                              <paragraph>
+                                 <content styleCode="xmChange"/>Because intracerebral hemorrhages greater than 1 cm in diameter have been observed in patients taking ADUHELM, additional caution should be exercised when considering the administration of anticoagulants or a thrombolytic agent (e.g., tissue plasminogen activator) to a patient already being treated with ADUHELM.
+</paragraph>
+                           </text>
+                           <effectiveTime value="20230831"/>
+                        </section>
+                     </component>
+                     <component>
+                        <section ID="e11">
+                           <id root="d5635ca5-5534-4bbe-8589-b3a803783e09"/>
+                           <code code="42229-5" codeSystem="2.16.840.1.113883.6.1" displayName="SPL UNCLASSIFIED SECTION"/>
+                           <text>
+                              <paragraph>
+                                 <content styleCode="xmChange"/>
+                                 <content styleCode="italics underline">Other Risk Factors for Intracerebral Hemorrhage</content>
+                              </paragraph>
+                              <paragraph>
+                                 <content styleCode="xmChange"/>Patients were excluded from enrollment in Studies 1 and 2 for findings on neuroimaging that indicated an increased risk for intracerebral hemorrhage. These included findings suggestive of cerebral amyloid angiopathy (prior intracerebral hemorrhage greater than 1 cm in diameter, more than 4 microhemorrhages, superficial siderosis, and history of diffuse white matter disease). Vasogenic edema could also be suggestive of cerebral amyloid angiopathy. These and other lesions (aneurysm, vascular malformation) could potentially increase the risk of intracerebral hemorrhage.
+</paragraph>
+                              <paragraph>
+                                 <content styleCode="xmChange"/>The presence of an ApoE ε4 allele is also associated with cerebral amyloid angiopathy which has an increased risk for intracerebral hemorrhage.
+</paragraph>
+                              <paragraph>
+                                 <content styleCode="xmChange"/>Caution should be exercised when considering the use of ADUHELM in patients with factors that indicate an increased risk for intracerebral hemorrhage and in particular for patients who need to be on anticoagulant therapy.
+</paragraph>
+                           </text>
+                           <effectiveTime value="20230831"/>
+                        </section>
+                     </component>
+                     <component>
+                        <section ID="s22">
+                           <id root="de7979fe-e784-4da0-9b3c-9b7291189844"/>
+                           <code code="42229-5" codeSystem="2.16.840.1.113883.6.1" displayName="SPL UNCLASSIFIED SECTION"/>
+                           <text>
+                              <paragraph>
+                                 <content styleCode="xmChange"/>
+                                 <content styleCode="underline">Monitoring and Dose Management Guidelines</content>
+                              </paragraph>
+                              <paragraph>
+                                 <content styleCode="xmChange"/>Recommendations for dosing in patients with ARIA-E depend on clinical symptoms and radiographic severity <content styleCode="italics">[see Dosage and Administration (<linkHtml href="#s7">2.3</linkHtml>)]</content>. Recommendations for dosing in patients with ARIA-H depend on the type of ARIA-H and radiographic severity <content styleCode="italics">[see Dosage and Administration (<linkHtml href="#s7">2.3</linkHtml>)]</content>.  Use clinical judgment in considering whether to continue dosing in patients with recurrent ARIA-E.
+</paragraph>
+                              <paragraph>
+                                 <content styleCode="xmChange"/>Baseline brain MRI and periodic monitoring with MRI are recommended <content styleCode="italics">[see Dosage and Administration (<linkHtml href="#s7">2.3</linkHtml>)]</content>.  Enhanced clinical vigilance for ARIA is recommended during the first 8 doses of treatment with ADUHELM, particularly during titration. If a patient experiences symptoms suggestive of ARIA, clinical evaluation should be performed, including MRI if indicated. If ARIA is observed on MRI, careful clinical evaluation should be performed prior to continuing treatment.
+</paragraph>
+                              <paragraph>
+                                 <content styleCode="xmChange"/>There is limited experience in patients who continued dosing through symptomatic ARIA-E or through asymptomatic moderate or severe ARIA-E. There are limited data in dosing patients who experienced recurrent ARIA-E.
+</paragraph>
+                              <paragraph>
+                                 <content styleCode="xmChange"/>The Alzheimer's Network for Treatment and Diagnostics (ALZ-NET) is a voluntary provider-enrolled patient registry that collects information on treatments for Alzheimer's disease, including ADUHELM. Providers may obtain information about the registry at www.alz-net.org or contact alz-net@acr.org.
+</paragraph>
+                           </text>
+                           <effectiveTime value="20230215"/>
+                        </section>
+                     </component>
+                  </section>
+               </component>
+               <component>
+                  <section ID="s23">
+                     <id root="47362c70-6965-4e54-9cfb-01370301ef05"/>
+                     <code code="42229-5" codeSystem="2.16.840.1.113883.6.1" displayName="SPL UNCLASSIFIED SECTION"/>
+                     <title>5.2 Hypersensitivity Reactions
+</title>
+                     <text>
+                        <paragraph>Angioedema and urticaria were reported in one patient in the placebo-controlled period of Studies 1 and 2, and occurred during the ADUHELM infusion. Promptly discontinue the infusion upon the first observation of any signs or symptoms consistent with a hypersensitivity reaction, and initiate appropriate therapy.
+</paragraph>
+                     </text>
+                     <effectiveTime value="20230215"/>
+                  </section>
+               </component>
+            </section>
+         </component>
+         <component>
+            <section ID="s24">
+               <id root="a6c8467c-f900-4f7a-9a14-26c683f5e98b"/>
+               <code code="34084-4" codeSystem="2.16.840.1.113883.6.1" displayName="ADVERSE REACTIONS SECTION"/>
+               <title>6 ADVERSE REACTIONS
+</title>
+               <text>
+                  <paragraph>The following clinically significant adverse reactions are described elsewhere in the labeling:
+</paragraph>
+                  <list listType="unordered" styleCode="Disc">
+                     <item>Amyloid Related Imaging Abnormalities <content styleCode="italics">[see Warnings and Precautions (<linkHtml href="#s17">5.1</linkHtml>)]</content>
+                     </item>
+                     <item>Hypersensitivity Reactions <content styleCode="italics">[see Warnings and Precautions (<linkHtml href="#s23">5.2</linkHtml>)]</content>
+                     </item>
+                  </list>
+               </text>
+               <effectiveTime value="20230831"/>
+               <excerpt>
+                  <highlight>
+                     <text>
+                        <paragraph>Most common adverse reactions (at least 10% and higher incidence compared to placebo): ARIA-Edema, headache, ARIA-H microhemorrhage, ARIA-H superficial siderosis, and fall. (<linkHtml href="#s25">6.1</linkHtml>)
+</paragraph>
+                        <paragraph>
+                           <content styleCode="bold">To report SUSPECTED ADVERSE REACTIONS, contact Biogen at 1-833-425-9360 or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch.</content>
+                        </paragraph>
+                     </text>
+                  </highlight>
+               </excerpt>
+               <component>
+                  <section ID="s25">
+                     <id root="4a23f560-c601-400b-8cd8-cb39583fb920"/>
+                     <code code="90374-0" codeSystem="2.16.840.1.113883.6.1" displayName="CLINICAL TRIALS EXPERIENCE SECTION"/>
+                     <title>6.1 Clinical Trials Experience
+</title>
+                     <text>
+                        <paragraph>Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in clinical practice.
+</paragraph>
+                        <paragraph>The safety of ADUHELM has been evaluated in 3,078 patients who received at least one dose of ADUHELM. In two placebo-controlled studies (Studies 1 and 2) in patients with Alzheimer's disease, a total of 1105 patients received ADUHELM 10 mg/kg <content styleCode="italics">[see Clinical Studies (<linkHtml href="#s53">14</linkHtml>)]</content>. Of these 1105 patients, approximately 52% were female, 76% were White, 10% were Asian, and 3% were of Hispanic or Latino ethnicity. The mean age at study entry was 70 years (range from 50 to 85).
+</paragraph>
+                        <paragraph>In the combined placebo-controlled and long-term extension periods of Studies 1 and 2, 834 patients received at least one dose of ADUHELM 10 mg/kg once monthly for at least 6 months, 551 patients for at least 12 months, and 309 patients for at least 18 months. In the combined placebo-controlled and long-term extension periods, 5% (66 out of 1386) of patients in the 10 mg/kg dose group withdrew from the study because of an adverse reaction. The most common adverse reaction resulting in study withdrawal in the combined placebo-controlled and long-term extension periods was ARIA-H superficial siderosis. <linkHtml href="#t5">Table 5</linkHtml> shows adverse reactions that were reported in at least 2% of patients treated with ADUHELM and at least 2% more frequently than in patients on placebo.
+</paragraph>
+                        <table ID="t5" width="100%">
+                           <caption>Table 5: Adverse Reactions Reported in at Least 2% of Patients Treated with ADUHELM 10 mg/kg and at Least 2% Higher Than Placebo in Studies 1 and 2
+</caption>
+                           <col width="44.933%" align="left"/>
+                           <col width="29.533%" align="left"/>
+                           <col width="25.533%" align="left"/>
+                           <thead>
+                              <tr>
+                                 <th align="left" valign="middle" styleCode="Toprule Botrule Lrule Rrule">
+                                    <content styleCode="bold">Adverse Reaction</content>
+                                 </th>
+                                 <th align="center" valign="top" styleCode="Toprule Botrule Rrule">
+                                    <content styleCode="bold">ADUHELM</content>
+                                    <br/>
+                                    <content styleCode="bold">10 mg/kg</content>
+                                    <br/>
+                                    <content styleCode="bold">N=1105</content>
+                                    <br/>
+                                    <content styleCode="bold">%</content>
+                                 </th>
+                                 <th align="center" valign="top" styleCode="Toprule Botrule Rrule">
+                                    <content styleCode="bold">Placebo</content>
+                                    <br/>
+                                    <content styleCode="bold">N=1087</content>
+                                    <br/>
+                                    <content styleCode="bold">%</content>
+                                    <br/>
+                                 </th>
+                              </tr>
+                           </thead>
+                           <tfoot>
+                              <tr>
+                                 <td colspan="3" align="left" valign="top">
+                                    <paragraph styleCode="footnote">
+                                       <content styleCode="italics">
+                                          <sup>a</sup>
+                                       </content>
+                                       <content styleCode="italics">Headache includes the adverse reaction related terms headache, head discomfort, migraine, migraine with aura, and occipital neuralgia.</content>
+                                    </paragraph>
+                                 </td>
+                              </tr>
+                              <tr>
+                                 <td colspan="3" align="left" valign="top">
+                                    <paragraph styleCode="footnote">
+                                       <content styleCode="italics">
+                                          <sup>b</sup>
+                                       </content>
+                                       <content styleCode="italics">Diarrhea includes the adverse reaction related terms diarrhea and infectious diarrhea.</content>
+                                    </paragraph>
+                                 </td>
+                              </tr>
+                              <tr>
+                                 <td colspan="3" align="left" valign="top">
+                                    <paragraph styleCode="footnote">
+                                       <content styleCode="italics">
+                                          <sup>c</sup>
+                                       </content>
+                                       <content styleCode="italics">Confusion/Delirium/Altered Mental Status/Disorientation includes the adverse reaction related terms confusional state, delirium, altered state of consciousness, disorientation, depressed level of consciousness, disturbance in attention, mental impairment, mental status changes, postoperative confusion, and somnolence.</content>
+                                    </paragraph>
+                                 </td>
+                              </tr>
+                           </tfoot>
+                           <tbody>
+                              <tr>
+                                 <td align="left" valign="middle" styleCode="Botrule Lrule Rrule">ARIA-E
+</td>
+                                 <td align="center" valign="top" styleCode="Botrule Rrule">35
+</td>
+                                 <td align="center" valign="top" styleCode="Botrule Rrule">3
+</td>
+                              </tr>
+                              <tr>
+                                 <td align="left" valign="middle" styleCode="Botrule Lrule Rrule">Headache<sup>a</sup>
+                                 </td>
+                                 <td align="center" valign="top" styleCode="Botrule Rrule">21
+</td>
+                                 <td align="center" valign="top" styleCode="Botrule Rrule">16
+</td>
+                              </tr>
+                              <tr>
+                                 <td align="left" valign="middle" styleCode="Botrule Lrule Rrule">ARIA-H microhemorrhage
+</td>
+                                 <td align="center" valign="top" styleCode="Botrule Rrule">19
+</td>
+                                 <td align="center" valign="top" styleCode="Botrule Rrule">7
+</td>
+                              </tr>
+                              <tr>
+                                 <td align="left" valign="middle" styleCode="Botrule Lrule Rrule">ARIA-H superficial siderosis
+</td>
+                                 <td align="center" valign="top" styleCode="Botrule Rrule">15
+</td>
+                                 <td align="center" valign="top" styleCode="Botrule Rrule">2
+</td>
+                              </tr>
+                              <tr>
+                                 <td align="left" valign="middle" styleCode="Botrule Lrule Rrule">Fall
+</td>
+                                 <td align="center" valign="top" styleCode="Botrule Rrule">15
+</td>
+                                 <td align="center" valign="top" styleCode="Botrule Rrule">12
+</td>
+                              </tr>
+                              <tr>
+                                 <td align="left" valign="middle" styleCode="Botrule Lrule Rrule">Diarrhea<sup>b</sup>
+                                 </td>
+                                 <td align="center" valign="top" styleCode="Botrule Rrule">9
+</td>
+                                 <td align="center" valign="top" styleCode="Botrule Rrule">7
+</td>
+                              </tr>
+                              <tr>
+                                 <td align="left" valign="middle" styleCode="Botrule Lrule Rrule">Confusion/Delirium/Altered Mental Status/Disorientation<sup>c</sup>
+                                 </td>
+                                 <td align="center" valign="top" styleCode="Botrule Rrule">8
+</td>
+                                 <td align="center" valign="top" styleCode="Botrule Rrule">4
+</td>
+                              </tr>
+                           </tbody>
+                        </table>
+                     </text>
+                     <effectiveTime value="20230831"/>
+                  </section>
+               </component>
+            </section>
+         </component>
+         <component>
+            <section ID="s26">
+               <id root="85497999-6dcf-4bb0-a088-9b139f055033"/>
+               <code code="43684-0" codeSystem="2.16.840.1.113883.6.1" displayName="USE IN SPECIFIC POPULATIONS SECTION"/>
+               <title>8 USE IN SPECIFIC POPULATIONS
+</title>
+               <effectiveTime value="20230215"/>
+               <component>
+                  <section ID="s27">
+                     <id root="0988d994-21e2-4567-aea7-ec960a170b50"/>
+                     <code code="42228-7" codeSystem="2.16.840.1.113883.6.1" displayName="PREGNANCY SECTION"/>
+                     <title>8.1 Pregnancy
+</title>
+                     <effectiveTime value="20230215"/>
+                     <component>
+                        <section ID="s28">
+                           <id root="8c9884bd-f3f7-4120-9445-65aaa3edd3de"/>
+                           <code code="42229-5" codeSystem="2.16.840.1.113883.6.1" displayName="SPL UNCLASSIFIED SECTION"/>
+                           <text>
+                              <paragraph>
+                                 <content styleCode="underline">Risk Summary</content>
+                              </paragraph>
+                              <paragraph>There are no adequate data on ADUHELM use in pregnant women to evaluate for a drug-associated risk of major birth defects, miscarriage, or other adverse maternal or fetal outcomes.
+</paragraph>
+                              <paragraph>In the U.S. general population, the estimated background risk of major birth defects and miscarriage in clinically recognized pregnancies is 2 to 4% and 15 to 20%, respectively. The background risk of major birth defects and miscarriage for the indicated population is unknown.
+</paragraph>
+                           </text>
+                           <effectiveTime value="20230215"/>
+                        </section>
+                     </component>
+                     <component>
+                        <section ID="s29">
+                           <id root="814668fa-681a-4300-8efd-b1f10451592b"/>
+                           <code code="42229-5" codeSystem="2.16.840.1.113883.6.1" displayName="SPL UNCLASSIFIED SECTION"/>
+                           <text>
+                              <paragraph>
+                                 <content styleCode="underline">Data</content>
+                              </paragraph>
+                           </text>
+                           <effectiveTime value="20230215"/>
+                           <component>
+                              <section ID="s30">
+                                 <id root="8f8a5359-026b-4603-8a9f-694f83c587a4"/>
+                                 <code code="42229-5" codeSystem="2.16.840.1.113883.6.1" displayName="SPL UNCLASSIFIED SECTION"/>
+                                 <text>
+                                    <paragraph>
+                                       <content styleCode="italics">Animal Data</content>
+                                    </paragraph>
+                                    <paragraph>Intravenous administration of aducanumab-avwa (0, 100, 300, or 1000 mg/kg/week) to female rats through organogenesis had no adverse effect on embryofetal development.
+</paragraph>
+                                    <paragraph>Intravenous administration of aducanumab-avwa (0, 100, 300, or 1000 mg/kg/week) to female rats throughout pregnancy and lactation had no adverse effects on pre- or postnatal development.
+</paragraph>
+                                    <paragraph>The relevance of these data to humans is limited because aggregated amyloid beta, the pharmacological target of aducanumab-avwa, is not present in rat.
+</paragraph>
+                                 </text>
+                                 <effectiveTime value="20230215"/>
+                              </section>
+                           </component>
+                        </section>
+                     </component>
+                  </section>
+               </component>
+               <component>
+                  <section ID="s31">
+                     <id root="95956007-7aa7-441b-be0b-2a4ff8bc67e2"/>
+                     <code code="77290-5" codeSystem="2.16.840.1.113883.6.1" displayName="LACTATION SECTION"/>
+                     <title>8.2 Lactation
+</title>
+                     <effectiveTime value="20230215"/>
+                     <component>
+                        <section ID="s32">
+                           <id root="9fb1ed4b-81c2-44da-9743-aeebe4c09a8e"/>
+                           <code code="42229-5" codeSystem="2.16.840.1.113883.6.1" displayName="SPL UNCLASSIFIED SECTION"/>
+                           <text>
+                              <paragraph>
+                                 <content styleCode="underline">Risk Summary</content>
+                              </paragraph>
+                              <paragraph>There are no data on the presence of aducanumab-avwa in human milk, the effects on the breastfed infant, or the effects of the drug on milk production. Published data from other monoclonal antibodies generally indicate low passage of monoclonal antibodies into human milk and limited systemic exposure in the breastfed infant. The effects of this limited exposure are unknown. The developmental and health benefits of breastfeeding should be considered along with the mother's clinical need for ADUHELM and any potential adverse effects on the breastfed infant from ADUHELM or from the underlying maternal condition.
+</paragraph>
+                           </text>
+                           <effectiveTime value="20230215"/>
+                        </section>
+                     </component>
+                  </section>
+               </component>
+               <component>
+                  <section ID="s33">
+                     <id root="ca18606a-5e6e-448b-9796-2e9705113cf7"/>
+                     <code code="34081-0" codeSystem="2.16.840.1.113883.6.1" displayName="PEDIATRIC USE SECTION"/>
+                     <title>8.4 Pediatric Use
+</title>
+                     <text>
+                        <paragraph>Safety and effectiveness of ADUHELM in pediatric patients have not been established.
+</paragraph>
+                     </text>
+                     <effectiveTime value="20230215"/>
+                  </section>
+               </component>
+               <component>
+                  <section ID="s34">
+                     <id root="62bcb95f-9f5d-46c7-b047-a7f8d812051c"/>
+                     <code code="34082-8" codeSystem="2.16.840.1.113883.6.1" displayName="GERIATRIC USE SECTION"/>
+                     <title>8.5 Geriatric Use
+</title>
+                     <text>
+                        <paragraph>In Studies 1 and 2, the age of patients ranged from 50 to 85 years, with a mean age of 70 years; 79% were 65 and older, and 32% were 75 and older. There were no notable differences in the incidence of adverse reactions between these age groups, and no additional safety concerns in patients 65 years of age and older compared to younger patients.
+</paragraph>
+                     </text>
+                     <effectiveTime value="20230215"/>
+                  </section>
+               </component>
+            </section>
+         </component>
+         <component>
+            <section ID="s35">
+               <id root="569c2975-7071-4217-8320-c595fa715666"/>
+               <code code="34089-3" codeSystem="2.16.840.1.113883.6.1" displayName="DESCRIPTION SECTION"/>
+               <title>11 DESCRIPTION
+</title>
+               <text>
+                  <paragraph>Aducanumab-avwa is a recombinant human immunoglobulin gamma 1 (IgG1) monoclonal antibody directed against aggregated soluble and insoluble forms of amyloid beta, and is expressed in a Chinese hamster ovary cell line. Aducanumab-avwa has an approximate molecular weight of 146 kDa.
+</paragraph>
+                  <paragraph>ADUHELM (aducanumab-avwa) injection is a preservative-free, sterile, clear to opalescent, and colorless to yellow solution for intravenous infusion after dilution supplied in single-dose vials available in concentrations of 170 mg/1.7 mL (100 mg/mL) or 300 mg/3 mL (100 mg/mL) of ADUHELM.
+</paragraph>
+                  <paragraph>Each mL of solution contains 100 mg of aducanumab-avwa and L-arginine hydrochloride (31.60 mg), L-histidine (0.60 mg), L-histidine hydrochloride monohydrate (3.39 mg), L-methionine (1.49 mg), polysorbate 80 (0.50 mg), and Water for Injection at an approximate pH of 5.5.
+</paragraph>
+               </text>
+               <effectiveTime value="20230215"/>
+            </section>
+         </component>
+         <component>
+            <section ID="s36">
+               <id root="2154e350-13f2-4dbb-a39d-dda749faa64a"/>
+               <code code="34090-1" codeSystem="2.16.840.1.113883.6.1" displayName="CLINICAL PHARMACOLOGY SECTION"/>
+               <title>12 CLINICAL PHARMACOLOGY
+</title>
+               <effectiveTime value="20230215"/>
+               <component>
+                  <section ID="s37">
+                     <id root="1523c6d9-c19c-43d6-9039-5e0d09f22883"/>
+                     <code code="43679-0" codeSystem="2.16.840.1.113883.6.1" displayName="MECHANISM OF ACTION SECTION"/>
+                     <title>12.1 Mechanism of Action
+</title>
+                     <text>
+                        <paragraph>Aducanumab-avwa is a human, immunoglobulin gamma 1 (IgG1) monoclonal antibody directed against aggregated soluble and insoluble forms of amyloid beta. The accumulation of amyloid beta plaques in the brain is a defining pathophysiological feature of Alzheimer's disease. ADUHELM reduces amyloid beta plaques, as evaluated in Studies 1, 2, and 3 <content styleCode="italics">[see Clinical Studies (<linkHtml href="#s53">14</linkHtml>)].</content>
+                        </paragraph>
+                     </text>
+                     <effectiveTime value="20230215"/>
+                  </section>
+               </component>
+               <component>
+                  <section ID="s38">
+                     <id root="f1b4d57c-5048-4a3f-8225-476792d26a9f"/>
+                     <code code="43681-6" codeSystem="2.16.840.1.113883.6.1" displayName="PHARMACODYNAMICS SECTION"/>
+                     <title>12.2 Pharmacodynamics
+</title>
+                     <effectiveTime value="20230215"/>
+                     <component>
+                        <section ID="s39">
+                           <id root="8c4a6284-8cd0-42f2-af74-a9b025a0933f"/>
+                           <code code="42229-5" codeSystem="2.16.840.1.113883.6.1" displayName="SPL UNCLASSIFIED SECTION"/>
+                           <text>
+                              <paragraph>
+                                 <content styleCode="underline">Effect of ADUHELM on Amyloid Beta Pathology</content>
+                              </paragraph>
+                              <paragraph>ADUHELM reduced amyloid beta plaque in a dose- and time-dependent manner in Study 1, Study 2, and Study 3, compared with placebo <content styleCode="italics">[see Dosage and Administration (<linkHtml href="#s6">2.2</linkHtml>) and Clinical Studies (<linkHtml href="#s53">14</linkHtml>)]</content>.
+</paragraph>
+                              <paragraph>The effect of ADUHELM on amyloid beta plaque levels in the brain was evaluated using PET imaging (<sup>18</sup>F-florbetapir tracer). The PET signal was quantified using the Standard Uptake Value Ratio (SUVR) method to estimate brain levels of amyloid beta plaque in composites of brain areas expected to be widely affected by Alzheimer's disease pathology (frontal, parietal, lateral temporal, sensorimotor, and anterior and posterior cingulate cortices), compared to a brain region expected to be spared of such pathology (cerebellum). The SUVR was also expressed on the Centiloid scale.
+</paragraph>
+                              <paragraph>In substudies of Study 1 and Study 2, ADUHELM reduced amyloid beta plaque levels in the brain, producing reductions at both ADUHELM low dose and high dose levels and at both Weeks 26 and 78 (p &lt; 0.0001), compared to placebo. The magnitude of reduction was time- and dose-dependent. In the long-term extension of Study 1 and Study 2, a continued decrease in brain amyloid beta plaque levels was observed at Week 132 in patients initially randomized to ADUHELM.
+</paragraph>
+                              <paragraph>In Study 3, ADUHELM reduced amyloid beta plaque levels in the brain, producing statistically significant dose- and time-dependent reductions compared to placebo in the 3 mg/kg, 6 mg/kg, and 10 mg/kg ADUHELM treatment groups at Week 26, and in all ADUHELM treatment groups at Week 54. Among those dosed with ADUHELM during the placebo-controlled period in Study 3, amyloid beta plaque levels in the brain continued to decline in a time- and dose-dependent manner in the long-term extension period through Week 222.
+</paragraph>
+                           </text>
+                           <effectiveTime value="20230215"/>
+                        </section>
+                     </component>
+                     <component>
+                        <section ID="s40">
+                           <id root="2a73d0d4-28e9-4476-a0c7-fd3980bedbd2"/>
+                           <code code="42229-5" codeSystem="2.16.840.1.113883.6.1" displayName="SPL UNCLASSIFIED SECTION"/>
+                           <text>
+                              <paragraph>
+                                 <content styleCode="underline">Effect of ADUHELM on Tau Pathophysiology</content>
+                              </paragraph>
+                              <paragraph>ADUHELM reduced markers of tau pathophysiology (CSF p-Tau 181, plasma p-Tau 181, and Tau PET) and neurodegeneration (CSF t-Tau) in Study 1 and Study 2 <content styleCode="italics">[see Clinical Studies (<linkHtml href="#s53">14</linkHtml>)]</content>.
+</paragraph>
+                              <paragraph>ADUHELM reduced CSF levels of p-Tau 181 in substudies conducted in Study 1 and Study 2. The adjusted mean change from baseline in CSF p-Tau 181 levels relative to placebo was in favor of the ADUHELM low (p&lt;0.01) and high (p&lt;0.001) dose groups at Week 78 in Study 1. Results in Study 2 numerically favored ADUHELM but were not statistically significant.
+</paragraph>
+                              <paragraph>In Study 1 and Study 2, ADUHELM reduced plasma p-tau 181 levelscompared to placebo. In the long-term extension of Study 1 and Study 2, a continued decrease in plasma p-Tau 181 levels was observed at the high dose through Week 128 in patients initially randomized to ADUHELM.
+</paragraph>
+                              <paragraph>ADUHELM reduced CSF levels of t-Tau in substudies conducted in Study 1 and Study 2. The adjusted mean change from baseline in CSF t-Tau levels relative to placebo was in favor of the ADUHELM low (p&lt;0.05) and high (p&lt;0.01) dose groups at Week 78 in Study 1. Results in Study 2 numerically favored ADUHELM but were not statistically significant.
+</paragraph>
+                              <paragraph>Substudies were conducted in both Study 1 and Study 2 to evaluate the effect of ADUHELM on neurofibrillary tangles composed of tau protein using PET imaging (<sup>18</sup>F-MK6240 tracer). The PET signal was quantified using the SUVR method to estimate brain levels of tau in brain regions expected to be affected by Alzheimer's disease pathology (medial temporal, temporal, frontal, cingulate, parietal, and occipital cortices) in the study population compared to a brain region expected to be spared of such pathology (cerebellum). Data from the substudies were pooled, comprising 37 patients with longitudinal follow-up. The adjusted mean change from baseline in tau PET SUVR relative to placebo at follow-up was in favor of ADUHELM high dose in the medial temporal (p&lt;0.001), temporal (p&lt;0.05), and frontal (p&lt;0.05) brain regions. No statistically significant differences were observed for the cingulate, parietal, or occipital cortices.
+</paragraph>
+                           </text>
+                           <effectiveTime value="20230215"/>
+                        </section>
+                     </component>
+                     <component>
+                        <section ID="s41">
+                           <id root="a9289565-1d77-498d-96cf-8299ea3a39e6"/>
+                           <code code="42229-5" codeSystem="2.16.840.1.113883.6.1" displayName="SPL UNCLASSIFIED SECTION"/>
+                           <text>
+                              <paragraph>
+                                 <content styleCode="underline">Exposure-Response Relationships</content>
+                              </paragraph>
+                              <paragraph>Model based exposure-response analyses for Studies 1 and 2 demonstrated that higher exposures to ADUHELM were associated with greater reduction in clinical decline on CDR-SB, ADAS-Cog13, and ADCS-ADL-MCI. In addition, higher exposures to ADUHELM were associated with greater reduction in amyloid beta plaque in Studies 1 and 2. An association between reduction in amyloid beta plaque and clinical decline on CDR-SB was also observed.
+</paragraph>
+                              <paragraph>Higher exposures to ADUHELM were associated with greater reduction in plasma p-Tau 181.
+</paragraph>
+                              <paragraph>An association between reduction in plasma p-Tau 181 and reduction in Amyloid PET SUVR was  observed. An association between reduction in plasma p-Tau 181 and reduced clinical decline on CDR-SB, ADAS-Cog 13, and ADCS-ADL-MCI was also observed.
+</paragraph>
+                           </text>
+                           <effectiveTime value="20230215"/>
+                        </section>
+                     </component>
+                  </section>
+               </component>
+               <component>
+                  <section ID="s42">
+                     <id root="63d35b2d-9880-4010-89f1-ba4cebbe8ad3"/>
+                     <code code="43682-4" codeSystem="2.16.840.1.113883.6.1" displayName="PHARMACOKINETICS SECTION"/>
+                     <title>12.3 Pharmacokinetics
+</title>
+                     <text>
+                        <paragraph>The pharmacokinetics (PK) of ADUHELM were characterized using a population PK analysis with concentration data collected from 2961 subjects with Alzheimer's disease who received ADUHELM in single or multiple doses.
+</paragraph>
+                        <paragraph>Steady-state concentrations of ADUHELM were reached by 16 weeks of repeated dosing with an every 4-week regimen, and the systemic accumulation was 1.7-fold. The peak concentration (C<sub>max</sub>), trough concentration (C<sub>min</sub>), and area under the plasma concentration versus time curve at steady state (AUC<sub>ss</sub>) of ADUHELM increased dose proportionally in the dose range of 1 to 10 mg/kg every 4 weeks.
+</paragraph>
+                     </text>
+                     <effectiveTime value="20230215"/>
+                     <component>
+                        <section ID="s43">
+                           <id root="140a5512-731a-4939-8a80-c20b8ed45632"/>
+                           <code code="42229-5" codeSystem="2.16.840.1.113883.6.1" displayName="SPL UNCLASSIFIED SECTION"/>
+                           <text>
+                              <paragraph>
+                                 <content styleCode="underline">Distribution</content>
+                              </paragraph>
+                              <paragraph>The mean value (95% CI) for volume of distribution at steady state is 9.63 L (9.48, 9.79).
+</paragraph>
+                           </text>
+                           <effectiveTime value="20230215"/>
+                        </section>
+                     </component>
+                     <component>
+                        <section ID="s44">
+                           <id root="dbe3546b-92d2-434a-9c19-63aaecbba778"/>
+                           <code code="42229-5" codeSystem="2.16.840.1.113883.6.1" displayName="SPL UNCLASSIFIED SECTION"/>
+                           <text>
+                              <paragraph>
+                                 <content styleCode="underline">Elimination</content>
+                              </paragraph>
+                              <paragraph>ADUHELM is expected to be degraded into small peptides and amino acids via catabolic pathways in the same manner as endogenous IgG. ADUHELM clearance (95% CI) is 0.0159 (0.0156, 0.0161) L/hr. The terminal half-life is 24.8 (14.8, 37.9) days.
+</paragraph>
+                           </text>
+                           <effectiveTime value="20230215"/>
+                        </section>
+                     </component>
+                     <component>
+                        <section ID="s45">
+                           <id root="bda5fd66-f60b-4f3e-8a37-8a9c3d51e3fe"/>
+                           <code code="42229-5" codeSystem="2.16.840.1.113883.6.1" displayName="SPL UNCLASSIFIED SECTION"/>
+                           <text>
+                              <paragraph>
+                                 <content styleCode="underline">Specific Populations</content>
+                              </paragraph>
+                              <paragraph>Body weight, age, sex, and race were found to impact exposure to ADUHELM. However, none of these covariates were found to be clinically significant.
+</paragraph>
+                           </text>
+                           <effectiveTime value="20230215"/>
+                           <component>
+                              <section ID="s46">
+                                 <id root="65465435-95ef-4d4a-b070-81d854f1a385"/>
+                                 <code code="42229-5" codeSystem="2.16.840.1.113883.6.1" displayName="SPL UNCLASSIFIED SECTION"/>
+                                 <text>
+                                    <paragraph>
+                                       <content styleCode="italics">Patients with Renal or Hepatic Impairment</content>
+                                    </paragraph>
+                                    <paragraph>No studies were conducted to evaluate the pharmacokinetics of ADUHELM in patients with renal or hepatic impairment. ADUHELM is not expected to undergo renal elimination or metabolism by hepatic enzymes.
+</paragraph>
+                                 </text>
+                                 <effectiveTime value="20230215"/>
+                              </section>
+                           </component>
+                        </section>
+                     </component>
+                  </section>
+               </component>
+               <component>
+                  <section ID="s47">
+                     <id root="2e5ebd3e-1c01-4414-9113-8a3a05ad3f37"/>
+                     <code code="42229-5" codeSystem="2.16.840.1.113883.6.1" displayName="SPL UNCLASSIFIED SECTION"/>
+                     <title>12.6 Immunogenicity
+</title>
+                     <text>
+                        <paragraph>The observed incidence of anti-drug antibodies is highly dependent on the sensitivity and specificity of the assay. Differences in assay methods preclude meaningful comparisons of the incidence of anti-drug antibodies in other studies, including those of aducanumab-avwa or of other aducanumab products.
+</paragraph>
+                        <paragraph>The immunogenicity of ADUHELM has been evaluated using an in vitro assay for the detection of binding anti-aducanumab-avwa antibodies.
+</paragraph>
+                        <paragraph>In up to 41 months of treatment in the combined placebo-controlled and long-term extension periods of Studies 1 and 2, up to 0.6% (15/2689) of patients receiving ADUHELM once monthly developed anti-aducanumab-avwa antibodies.
+</paragraph>
+                        <paragraph>Based on the limited number of patients who tested positive for anti-aducanumab-avwa antibodies, no observations were made concerning a potential effect of neutralizing activity of anti-aducanumab-avwa antibodies on exposure or efficacy; however, the available data are too limited to make definitive conclusions regarding an effect on pharmacokinetics, safety, or efficacy of ADUHELM. Quantification of neutralizing anti-aducanumab-avwa antibodies has not been assessed.
+</paragraph>
+                     </text>
+                     <effectiveTime value="20230215"/>
+                  </section>
+               </component>
+            </section>
+         </component>
+         <component>
+            <section ID="s48">
+               <id root="36035626-ca12-43d9-80dd-9c0d2fe3da2d"/>
+               <code code="43680-8" codeSystem="2.16.840.1.113883.6.1" displayName="NONCLINICAL TOXICOLOGY SECTION"/>
+               <title>13 NONCLINICAL TOXICOLOGY
+</title>
+               <effectiveTime value="20230215"/>
+               <component>
+                  <section ID="s49">
+                     <id root="0a6b1430-36b9-4a5b-b58e-aa831f32fe99"/>
+                     <code code="34083-6" codeSystem="2.16.840.1.113883.6.1" displayName="CARCINOGENESIS &amp; MUTAGENESIS &amp; IMPAIRMENT OF FERTILITY SECTION"/>
+                     <title>13.1 Carcinogenesis, Mutagenesis, Impairment of Fertility
+</title>
+                     <effectiveTime value="20230215"/>
+                     <component>
+                        <section ID="s50">
+                           <id root="e5aae14f-b0d0-4d2b-a587-10ab9c94a2b9"/>
+                           <code code="42229-5" codeSystem="2.16.840.1.113883.6.1" displayName="SPL UNCLASSIFIED SECTION"/>
+                           <text>
+                              <paragraph>
+                                 <content styleCode="underline">Carcinogenesis</content>
+                              </paragraph>
+                              <paragraph>Carcinogenicity studies have not been conducted.
+</paragraph>
+                           </text>
+                           <effectiveTime value="20230215"/>
+                        </section>
+                     </component>
+                     <component>
+                        <section ID="s51">
+                           <id root="2ebfb4d8-1eeb-4ffd-8d9f-d3a25abd6f33"/>
+                           <code code="42229-5" codeSystem="2.16.840.1.113883.6.1" displayName="SPL UNCLASSIFIED SECTION"/>
+                           <text>
+                              <paragraph>
+                                 <content styleCode="underline">Mutagenesis</content>
+                              </paragraph>
+                              <paragraph>Genotoxicity studies have not been conducted.
+</paragraph>
+                           </text>
+                           <effectiveTime value="20230215"/>
+                        </section>
+                     </component>
+                     <component>
+                        <section ID="s52">
+                           <id root="c4f82843-dea3-44e4-86e9-c767bc1235e7"/>
+                           <code code="42229-5" codeSystem="2.16.840.1.113883.6.1" displayName="SPL UNCLASSIFIED SECTION"/>
+                           <text>
+                              <paragraph>
+                                 <content styleCode="underline">Impairment of Fertility</content>
+                              </paragraph>
+                              <paragraph>Intravenous administration of aducanumab-avwa (0, 100, 300, or 1000 mg/kg/week) to male and female rats prior to and during mating and continuing in females to gestation day 7 resulted in no adverse effects on fertility or reproductive performance.
+</paragraph>
+                              <paragraph>The relevance of these data to humans is limited because aggregated amyloid beta, the pharmacological target of aducanumab-avwa, is not present in rat.
+</paragraph>
+                           </text>
+                           <effectiveTime value="20230215"/>
+                        </section>
+                     </component>
+                  </section>
+               </component>
+            </section>
+         </component>
+         <component>
+            <section ID="s53">
+               <id root="0110ba36-1ee2-409c-9513-d8d2b761629d"/>
+               <code code="34092-7" codeSystem="2.16.840.1.113883.6.1" displayName="CLINICAL STUDIES SECTION"/>
+               <title>14 CLINICAL STUDIES
+</title>
+               <text>
+                  <paragraph>The efficacy of ADUHELM was evaluated in two double-blind, randomized, placebo-controlled, parallel group studies (Study 1, NCT 02484547 and Study 2, NCT 02477800) in patients with Alzheimer's disease (patients with confirmed presence of amyloid pathology and mild cognitive impairment or mild dementia stage of disease, consistent with Stage 3 and Stage 4 Alzheimer's disease, stratified to include 80% Stage 3 patients and 20% Stage 4 patients). The effects of ADUHELM were also supported by a double-blind, randomized, placebo-controlled, dose-ranging study (Study 3, NCT 01677572) in patients with Alzheimer's disease (patients with confirmed presence of amyloid pathology and prodromal or mild dementia stage of disease, consistent with Stage 3 and Stage 4 Alzheimer's disease, with an enrolled distribution of 43% Stage 3 patients and 57% Stage 4 patients), followed by an optional, dose-blind, long-term extension period.
+</paragraph>
+                  <paragraph>In Studies 1 and 2, patients were randomized to receive ADUHELM low dose (3 or 6 mg/kg for ApoE ε4 carriers and noncarriers, respectively), ADUHELM high dose (10 mg/kg), or placebo every 4 weeks for 18 months, followed by an optional, dose-blind, long-term extension period. Both studies included an initial titration period of up to 6 months to the maximum target dose. At the beginning of the study, ApoE ε4 carriers were initially titrated up to a maximum of 6 mg/kg in the high dose group, which was later adjusted to 10 mg/kg.
+</paragraph>
+                  <paragraph>In Studies 1 and 2, patients were enrolled with a Clinical Dementia Rating (CDR) global score of 0.5, a Repeatable Battery for Assessment of Neuropsychological Status (RBANS) delayed memory index score ≤ 85, and a Mini-Mental State Examination (MMSE) score of 24-30. In Study 3, patients were enrolled with a global CDR score of 0.5 or 1.0 and an MMSE score of 20-30. Patients were enrolled with or without concomitant approved therapies (cholinesterase inhibitors and the N-methyl-D-aspartate antagonist memantine) for Alzheimer's disease.
+</paragraph>
+                  <paragraph>Studies 1 and 2 were terminated prior to their planned completion. Study endpoints were analyzed based on the prespecified statistical analysis plan.
+</paragraph>
+               </text>
+               <effectiveTime value="20230215"/>
+               <component>
+                  <section ID="s54">
+                     <id root="4eb16435-4f46-453a-85a2-001bf64626f8"/>
+                     <code code="42229-5" codeSystem="2.16.840.1.113883.6.1" displayName="SPL UNCLASSIFIED SECTION"/>
+                     <text>
+                        <paragraph>
+                           <content styleCode="underline">Study 1</content>
+                        </paragraph>
+                        <paragraph>In Study 1, 1638 patients were randomized 1:1:1 to receive ADUHELM low dose, ADUHELM high dose, or placebo. At baseline, the mean age of patients was 71 years, with a range of 50 to 85 years.
+</paragraph>
+                        <paragraph>A subgroup of 488 patients were enrolled in the amyloid PET substudy; of these, 302 were evaluated at week 78. Results from the amyloid beta PET substudy are described in <linkHtml href="#fig1">Figure 1</linkHtml> and <linkHtml href="#t6">Table 6</linkHtml>.  CSF and plasma biomarkers are described in <linkHtml href="#t6">Table 6</linkHtml>.
+</paragraph>
+                        <paragraph ID="fig1">
+                           <content styleCode="bold">Figure 1: Reduction in Brain Amyloid Beta Plaque (Change from Baseline in Amyloid Beta PET Composite, SUVR and Centiloids) in Study 1</content>
+                        </paragraph>
+                        <renderMultiMedia ID="f01" referencedObject="mm01"/>
+                        <paragraph>*** p&lt;0.001
+</paragraph>
+                        <table ID="t6" width="100%">
+                           <caption>Table 6: Biomarker Results of ADUHELM in Study 1
+</caption>
+                           <col width="51.933%" align="left"/>
+                           <col width="25.033%" align="left"/>
+                           <col width="23.033%" align="left"/>
+                           <tfoot>
+                              <tr>
+                                 <td colspan="3" align="left" valign="top">
+                                    <paragraph styleCode="footnote">
+                                       <sup>1</sup> P-values were not statistically controlled for multiple comparisons.
+</paragraph>
+                                 </td>
+                              </tr>
+                              <tr>
+                                 <td colspan="3" align="left" valign="top">
+                                    <paragraph styleCode="footnote">
+                                       <sup>2</sup> The analysis results on plasma p-Tau 181 should be interpreted with caution because of uncertainties related to stability of stored samples.
+</paragraph>
+                                 </td>
+                              </tr>
+                           </tfoot>
+                           <tbody>
+                              <tr>
+                                 <td align="left" valign="middle" styleCode="Botrule Lrule Rrule">
+                                    <content styleCode="bold">Biomarker Endpoint at Week 78</content>
+                                    <content styleCode="bold">
+                                       <sup>1</sup>
+                                    </content>
+                                 </td>
+                                 <td align="center" valign="middle" styleCode="Botrule Rrule">
+                                    <content styleCode="bold">ADUHELM</content>
+                                    <br/>
+                                    <content styleCode="bold">High dose</content>
+                                 </td>
+                                 <td align="center" valign="middle" styleCode="Botrule Rrule">
+                                    <content styleCode="bold">Placebo</content>
+                                 </td>
+                              </tr>
+                              <tr>
+                                 <td align="left" valign="middle" styleCode="Botrule Lrule Rrule">
+                                    <content styleCode="bold">Amyloid Beta PET Composite SUVR</content>
+                                 </td>
+                                 <td align="center" valign="middle" styleCode="Botrule Rrule">N=170
+</td>
+                                 <td align="center" valign="middle" styleCode="Botrule Rrule">N=159
+</td>
+                              </tr>
+                              <tr>
+                                 <td align="left" valign="middle" styleCode="Botrule Lrule Rrule">     Mean baseline
+</td>
+                                 <td align="center" valign="middle" styleCode="Botrule Rrule">1.383
+</td>
+                                 <td align="center" valign="middle" styleCode="Botrule Rrule">1.375
+</td>
+                              </tr>
+                              <tr>
+                                 <td align="left" valign="top" styleCode="Botrule Lrule Rrule">     Change from baseline<br/>           Difference from placebo
+</td>
+                                 <td align="center" valign="top" styleCode="Botrule Rrule">-0.264<br/>-0.278, p&lt;0.0001
+</td>
+                                 <td align="center" valign="top" styleCode="Botrule Rrule">0.014
+</td>
+                              </tr>
+                              <tr>
+                                 <td align="left" valign="middle" styleCode="Botrule Lrule Rrule">
+                                    <content styleCode="bold">Amyloid
+</content>
+                                    <content styleCode="bold">Beta PET Centiloid</content>
+                                 </td>
+                                 <td align="center" valign="middle" styleCode="Botrule Rrule">N=170
+</td>
+                                 <td align="center" valign="middle" styleCode="Botrule Rrule">N=159
+</td>
+                              </tr>
+                              <tr>
+                                 <td align="left" valign="middle" styleCode="Botrule Lrule Rrule">     Mean baseline
+</td>
+                                 <td align="center" valign="middle" styleCode="Botrule Rrule">85.3
+</td>
+                                 <td align="center" valign="middle" styleCode="Botrule Rrule">83.5
+</td>
+                              </tr>
+                              <tr>
+                                 <td align="left" valign="top" styleCode="Botrule Lrule Rrule">     Change from baseline (%)<br/>           Difference from placebo
+</td>
+                                 <td align="center" valign="top" styleCode="Botrule Rrule">-60.8 (-71%)<br/>-64.2, p&lt;0.0001
+</td>
+                                 <td align="center" valign="top" styleCode="Botrule Rrule">3.4
+</td>
+                              </tr>
+                              <tr>
+                                 <td align="left" valign="top" styleCode="Botrule Lrule Rrule">
+                                    <content styleCode="bold">CSF p-Tau 181 (pg/mL)</content>
+                                 </td>
+                                 <td align="center" valign="middle" styleCode="Botrule Rrule">N=17
+</td>
+                                 <td align="center" valign="middle" styleCode="Botrule Rrule">N=28
+</td>
+                              </tr>
+                              <tr>
+                                 <td align="left" valign="top" styleCode="Botrule Lrule Rrule">     Mean baseline
+</td>
+                                 <td align="center" valign="top" styleCode="Botrule Rrule">100.11
+</td>
+                                 <td align="center" valign="top" styleCode="Botrule Rrule">72.55
+</td>
+                              </tr>
+                              <tr>
+                                 <td align="left" valign="top" styleCode="Botrule Lrule Rrule">     Change from baseline<br/>           Difference from placebo
+</td>
+                                 <td align="center" valign="top" styleCode="Botrule Rrule">-22.93<br/>-22.44, p=0.0005
+</td>
+                                 <td align="center" valign="top" styleCode="Botrule Rrule">-0.49
+</td>
+                              </tr>
+                              <tr>
+                                 <td align="left" valign="top" styleCode="Botrule Lrule Rrule">
+                                    <content styleCode="bold">Plasma p-Tau 181 (pg/mL)</content>
+                                    <content styleCode="bold">
+                                       <sup>2</sup>
+                                    </content>
+                                 </td>
+                                 <td align="center" valign="middle" styleCode="Botrule Rrule">N=294
+</td>
+                                 <td align="center" valign="middle" styleCode="Botrule Rrule">N=294
+</td>
+                              </tr>
+                              <tr>
+                                 <td align="left" valign="top" styleCode="Botrule Lrule Rrule">     Mean baseline
+</td>
+                                 <td align="center" valign="middle" styleCode="Botrule Rrule">3.342
+</td>
+                                 <td align="center" valign="middle" styleCode="Botrule Rrule">3.181
+</td>
+                              </tr>
+                              <tr>
+                                 <td align="left" valign="top" styleCode="Botrule Lrule Rrule">     Change from baseline<br/>           Difference from placebo
+</td>
+                                 <td align="center" valign="middle" styleCode="Botrule Rrule">-0.424<br/>-0.669, p&lt;0.0001
+</td>
+                                 <td align="center" valign="top" styleCode="Botrule Rrule">0.245
+</td>
+                              </tr>
+                              <tr>
+                                 <td align="left" valign="top" styleCode="Botrule Lrule Rrule">
+                                    <content styleCode="bold">CSF t-Tau (pg/mL)</content>
+                                 </td>
+                                 <td align="center" valign="middle" styleCode="Botrule Rrule">N=17
+</td>
+                                 <td align="center" valign="middle" styleCode="Botrule Rrule">N=28
+</td>
+                              </tr>
+                              <tr>
+                                 <td align="left" valign="top" styleCode="Botrule Lrule Rrule">     Mean baseline
+</td>
+                                 <td align="center" valign="top" styleCode="Botrule Rrule">686.65
+</td>
+                                 <td align="center" valign="top" styleCode="Botrule Rrule">484.00
+</td>
+                              </tr>
+                              <tr>
+                                 <td align="left" valign="top" styleCode="Botrule Lrule Rrule">     Change from baseline<br/>           Difference from placebo
+</td>
+                                 <td align="center" valign="top" styleCode="Botrule Rrule">-112.44<br/>-112.05, p=0.0088
+</td>
+                                 <td align="center" valign="top" styleCode="Botrule Rrule">-0.39
+</td>
+                              </tr>
+                           </tbody>
+                        </table>
+                        <paragraph>The primary efficacy endpoint was the change from baseline on the CDR-Sum of Boxes (CDR-SB) at Week 78. In Study 1, treatment with ADUHELM high dose demonstrated reduced clinical decline, as evidenced by a statistically significant treatment effect on change from baseline in CDR-SB compared to placebo (-0.39 [-22%], p = 0.0120), as shown in <linkHtml href="#fig2">Figure 2</linkHtml> and <linkHtml href="#t7">Table 7</linkHtml>. The estimate of the treatment effect favored ADUHELM across all prespecified subgroups of interest.
+</paragraph>
+                        <paragraph ID="fig2">
+                           <content styleCode="bold">Figure 2: Line Plot of Primary Efficacy Endpoint (Change From Baseline in CDR Sum of Boxes) in Study 1</content>
+                        </paragraph>
+                        <renderMultiMedia ID="f02" referencedObject="mm02"/>
+                        <paragraph>* p&lt;0.05
+</paragraph>
+                        <paragraph>Secondary efficacy endpoints included the change from baseline in MMSE score at Week 78, the change from baseline in the Alzheimer's Disease Assessment Scale-Cognitive Subscale (13 items) (ADAS-Cog 13) at Week 78, and the change from baseline in the Alzheimer's Disease Cooperative Study – Activities of Daily Living Inventory (Mild Cognitive Impairment version) (ADCS-ADL-MCI) score at Week 78. In Study 1, statistically significant differences from placebo were observed in the ADUHELM high dose group on all secondary efficacy endpoints evaluated. The estimate of the treatment effect favored ADUHELM across most prespecified subgroups of interest for the secondary efficacy endpoints. The Neuropsychiatric Inventory-10 item (NPI-10) was the only tertiary endpoint that assessed efficacy. The results of the high dose group, compared to placebo, are presented in <linkHtml href="#t7">Table 7</linkHtml>.
+</paragraph>
+                        <paragraph>Differences from placebo observed in the ADUHELM low dose group numerically favored ADUHELM but were not statistically significant.
+</paragraph>
+                        <table ID="t7" width="100%">
+                           <caption>Table 7: Clinical Results of ADUHELM in Study 1
+</caption>
+                           <col width="45.167%" align="left"/>
+                           <col width="28.900%" align="left"/>
+                           <col width="25.933%" align="left"/>
+                           <tfoot>
+                              <tr>
+                                 <td colspan="3" align="left" valign="top">
+                                    <paragraph styleCode="footnote">
+                                       <sup>1</sup>P-value was not statistically controlled for multiple comparisons.
+</paragraph>
+                                 </td>
+                              </tr>
+                           </tfoot>
+                           <tbody>
+                              <tr>
+                                 <td align="left" valign="middle" styleCode="Toprule Botrule Lrule Rrule">
+                                    <content styleCode="bold">Clinical Endpoint at Week 78</content>
+                                 </td>
+                                 <td align="center" valign="top" styleCode="Toprule Botrule Rrule">
+                                    <content styleCode="bold">ADUHELM High dose</content>
+                                    <br/>
+                                    <content styleCode="bold">(N=547)</content>
+                                 </td>
+                                 <td align="center" valign="top" styleCode="Toprule Botrule Rrule">
+                                    <content styleCode="bold">Placebo</content>
+                                    <br/>
+                                    <content styleCode="bold">(N=548)</content>
+                                 </td>
+                              </tr>
+                              <tr>
+                                 <td colspan="3" align="left" valign="top" styleCode="Botrule Lrule Rrule">
+                                    <content styleCode="bold">CDR-SB</content>
+                                 </td>
+                              </tr>
+                              <tr>
+                                 <td align="left" valign="top" styleCode="Botrule Lrule Rrule">     Mean baseline
+</td>
+                                 <td align="center" valign="top" styleCode="Botrule Rrule">2.51
+</td>
+                                 <td align="center" valign="top" styleCode="Botrule Rrule">2.47
+</td>
+                              </tr>
+                              <tr>
+                                 <td align="left" valign="top" styleCode="Botrule Lrule Rrule">     Change from baseline<br/>           Difference from placebo (%)<br/>
+                                 </td>
+                                 <td align="center" valign="top" styleCode="Botrule Rrule">1.35<br/>-0.39 (-22%)<br/>p=0.0120
+</td>
+                                 <td align="center" valign="top" styleCode="Botrule Rrule">1.74
+</td>
+                              </tr>
+                              <tr>
+                                 <td colspan="3" align="left" valign="top" styleCode="Botrule Lrule Rrule">
+                                    <content styleCode="bold">MMSE</content>
+                                 </td>
+                              </tr>
+                              <tr>
+                                 <td align="left" valign="top" styleCode="Botrule Lrule Rrule">     Mean baseline
+</td>
+                                 <td align="center" valign="top" styleCode="Botrule Rrule">26.3
+</td>
+                                 <td align="center" valign="top" styleCode="Botrule Rrule">26.4
+</td>
+                              </tr>
+                              <tr>
+                                 <td align="left" valign="top" styleCode="Botrule Lrule Rrule">     Change from baseline<br/>           Difference from placebo (%)<br/>
+                                 </td>
+                                 <td align="center" valign="top" styleCode="Botrule Rrule">-2.7<br/>0.6 (-18%)<br/>p=0.0493
+</td>
+                                 <td align="center" valign="top" styleCode="Botrule Rrule">-3.3
+</td>
+                              </tr>
+                              <tr>
+                                 <td colspan="3" align="left" valign="top" styleCode="Botrule Lrule Rrule">
+                                    <content styleCode="bold">ADAS-Cog 13</content>
+                                 </td>
+                              </tr>
+                              <tr>
+                                 <td align="left" valign="top" styleCode="Botrule Lrule Rrule">     Mean baseline
+</td>
+                                 <td align="center" valign="top" styleCode="Botrule Rrule">22.246
+</td>
+                                 <td align="center" valign="top" styleCode="Botrule Rrule">21.867
+</td>
+                              </tr>
+                              <tr>
+                                 <td align="left" valign="top" styleCode="Botrule Lrule Rrule">     Change from baseline<br/>           Difference from placebo (%)<br/>
+                                 </td>
+                                 <td align="center" valign="top" styleCode="Botrule Rrule">3.763<br/>-1.400 (-27%)<br/>p=0.0097
+</td>
+                                 <td align="center" valign="top" styleCode="Botrule Rrule">5.162
+</td>
+                              </tr>
+                              <tr>
+                                 <td colspan="3" align="left" valign="top" styleCode="Botrule Lrule Rrule">
+                                    <content styleCode="bold">ADCS-ADL-MCI</content>
+                                 </td>
+                              </tr>
+                              <tr>
+                                 <td align="left" valign="top" styleCode="Botrule Lrule Rrule">     Mean baseline
+</td>
+                                 <td align="center" valign="top" styleCode="Botrule Rrule">42.5
+</td>
+                                 <td align="center" valign="top" styleCode="Botrule Rrule">42.6
+</td>
+                              </tr>
+                              <tr>
+                                 <td align="left" valign="top" styleCode="Botrule Lrule Rrule">     Change from baseline<br/>           Difference from placebo (%)<br/>
+                                 </td>
+                                 <td align="center" valign="top" styleCode="Botrule Rrule">-2.5<br/>1.7 (-40%)<br/>p=0.0006
+</td>
+                                 <td align="center" valign="top" styleCode="Botrule Rrule">-4.3
+</td>
+                              </tr>
+                              <tr>
+                                 <td colspan="3" align="left" valign="top" styleCode="Botrule Lrule Rrule">
+                                    <content styleCode="bold">NPI-10</content>
+                                    <content styleCode="bold">
+                                       <sup>1</sup>
+                                    </content>
+                                 </td>
+                              </tr>
+                              <tr>
+                                 <td align="left" valign="top" styleCode="Botrule Lrule Rrule">     Mean baseline
+</td>
+                                 <td align="center" valign="top" styleCode="Botrule Rrule">4.5
+</td>
+                                 <td align="center" valign="top" styleCode="Botrule Rrule">4.3
+</td>
+                              </tr>
+                              <tr>
+                                 <td align="left" valign="top" styleCode="Botrule Lrule Rrule">     Change from baseline<br/>           Difference from placebo (%)<br/>
+                                 </td>
+                                 <td align="center" valign="top" styleCode="Botrule Rrule">0.2<br/>-1.3 (-87%)<br/>p=0.0215
+</td>
+                                 <td align="center" valign="top" styleCode="Botrule Rrule">1.5
+</td>
+                              </tr>
+                           </tbody>
+                        </table>
+                     </text>
+                     <effectiveTime value="20230831"/>
+                     <component>
+                        <observationMedia ID="mm01">
+                           <text>Figure 1
+</text>
+                           <value xsi:type="ED" mediaType="image/jpeg">
+                              <reference value="adu00-0009-01.jpg"/>
+                           </value>
+                        </observationMedia>
+                     </component>
+                     <component>
+                        <observationMedia ID="mm02">
+                           <text>Figure 2
+</text>
+                           <value xsi:type="ED" mediaType="image/jpeg">
+                              <reference value="adu00-0009-02.jpg"/>
+                           </value>
+                        </observationMedia>
+                     </component>
+                  </section>
+               </component>
+               <component>
+                  <section ID="s55">
+                     <id root="9d3d6548-b826-4cd7-87f1-89083215b1ac"/>
+                     <code code="42229-5" codeSystem="2.16.840.1.113883.6.1" displayName="SPL UNCLASSIFIED SECTION"/>
+                     <text>
+                        <paragraph>
+                           <content styleCode="underline">Study 2</content>
+                        </paragraph>
+                        <paragraph>In Study 2, 1647 patients were randomized 1:1:1 to receive ADUHELM low dose, ADUHELM high dose, or placebo. At baseline, the mean age of patients was 71 years, with a range of 50 to 85 years.
+</paragraph>
+                        <paragraph>A subgroup of 585 patients were enrolled in the amyloid PET subgroup; of these, 374 were evaluated at week 78. Results from the amyloid beta PET substudy are described in <linkHtml href="#fig3">Figure 3</linkHtml> and <linkHtml href="#t8">Table 8</linkHtml>. CSF and plasma biomarkers are described in <linkHtml href="#t8">Table 8</linkHtml>.
+</paragraph>
+                        <paragraph ID="fig3">
+                           <content styleCode="bold">Figure 3: Reduction in Brain Amyloid Beta Plaque (Change from Baseline in Amyloid Beta PET Composite, SUVR and Centiloids) in Study 2</content>
+                        </paragraph>
+                        <renderMultiMedia ID="f03" referencedObject="mm03"/>
+                        <paragraph>*** p&lt;0.001
+</paragraph>
+                        <table ID="t8" width="100%">
+                           <caption>Table 8: Biomarker Results of ADUHELM in Study 2
+</caption>
+                           <col width="51.933%" align="left"/>
+                           <col width="25.033%" align="left"/>
+                           <col width="23.033%" align="left"/>
+                           <tfoot>
+                              <tr>
+                                 <td colspan="3" align="left" valign="top">
+                                    <paragraph styleCode="footnote">
+                                       <sup>1</sup> P-values were not statistically controlled for multiple comparisons.
+</paragraph>
+                                 </td>
+                              </tr>
+                              <tr>
+                                 <td colspan="3" align="left" valign="top">
+                                    <paragraph styleCode="footnote">
+                                       <sup>2</sup> The analysis results on plasma p-Tau 181 should be interpreted with caution because of uncertainties related to stability of stored samples.
+</paragraph>
+                                 </td>
+                              </tr>
+                           </tfoot>
+                           <tbody>
+                              <tr>
+                                 <td align="left" valign="middle" styleCode="Botrule Lrule Rrule">
+                                    <content styleCode="bold">Biomarker Endpoint at Week 78</content>
+                                    <content styleCode="bold">
+                                       <sup>1</sup>
+                                    </content>
+                                 </td>
+                                 <td align="center" valign="middle" styleCode="Botrule Rrule">
+                                    <content styleCode="bold">ADUHELM</content>
+                                    <br/>
+                                    <content styleCode="bold">High dose</content>
+                                 </td>
+                                 <td align="center" valign="middle" styleCode="Botrule Rrule">
+                                    <content styleCode="bold">Placebo</content>
+                                 </td>
+                              </tr>
+                              <tr>
+                                 <td align="left" valign="middle" styleCode="Botrule Lrule Rrule">
+                                    <content styleCode="bold">Amyloid Beta PET Composite SUVR</content>
+                                 </td>
+                                 <td align="center" valign="middle" styleCode="Botrule Rrule">N=183
+</td>
+                                 <td align="center" valign="middle" styleCode="Botrule Rrule">N=204
+</td>
+                              </tr>
+                              <tr>
+                                 <td align="left" valign="middle" styleCode="Botrule Lrule Rrule">     Mean baseline
+</td>
+                                 <td align="center" valign="middle" styleCode="Botrule Rrule">1.407
+</td>
+                                 <td align="center" valign="middle" styleCode="Botrule Rrule">1.376
+</td>
+                              </tr>
+                              <tr>
+                                 <td align="left" valign="top" styleCode="Botrule Lrule Rrule">     Change from baseline<br/>           Difference from placebo
+</td>
+                                 <td align="center" valign="top" styleCode="Botrule Rrule">-0.235<br/>-0.232, p&lt;0.0001
+</td>
+                                 <td align="center" valign="top" styleCode="Botrule Rrule">-0.003
+</td>
+                              </tr>
+                              <tr>
+                                 <td align="left" valign="middle" styleCode="Botrule Lrule Rrule">
+                                    <content styleCode="bold">Amyloid Beta PET Centiloid</content>
+                                 </td>
+                                 <td align="center" valign="middle" styleCode="Botrule Rrule">N=183
+</td>
+                                 <td align="center" valign="middle" styleCode="Botrule Rrule">N=204
+</td>
+                              </tr>
+                              <tr>
+                                 <td align="left" valign="middle" styleCode="Botrule Lrule Rrule">     Mean baseline
+</td>
+                                 <td align="center" valign="middle" styleCode="Botrule Rrule">90.8
+</td>
+                                 <td align="center" valign="middle" styleCode="Botrule Rrule">83.8
+</td>
+                              </tr>
+                              <tr>
+                                 <td align="left" valign="top" styleCode="Botrule Lrule Rrule">     Change from baseline (%)<br/>           Difference from placebo
+</td>
+                                 <td align="center" valign="top" styleCode="Botrule Rrule">-54.0 (-59%)<br/>-53.5, p&lt;0.0001
+</td>
+                                 <td align="center" valign="top" styleCode="Botrule Rrule">-0.5
+</td>
+                              </tr>
+                              <tr>
+                                 <td align="left" valign="top" styleCode="Botrule Lrule Rrule">
+                                    <content styleCode="bold">CSF p-Tau 181 (pg/mL)</content>
+                                 </td>
+                                 <td align="center" valign="middle" styleCode="Botrule Rrule">N=18
+</td>
+                                 <td align="center" valign="middle" styleCode="Botrule Rrule">N=15
+</td>
+                              </tr>
+                              <tr>
+                                 <td align="left" valign="top" styleCode="Botrule Lrule Rrule">     Mean baseline
+</td>
+                                 <td align="center" valign="top" styleCode="Botrule Rrule">121.81
+</td>
+                                 <td align="center" valign="top" styleCode="Botrule Rrule">94.53
+</td>
+                              </tr>
+                              <tr>
+                                 <td align="left" valign="top" styleCode="Botrule Lrule Rrule">     Change from baseline<br/>           Difference from placebo
+</td>
+                                 <td align="center" valign="top" styleCode="Botrule Rrule">-13.19<br/>-10.95, p=0.3019
+</td>
+                                 <td align="center" valign="top" styleCode="Botrule Rrule">-2.24
+</td>
+                              </tr>
+                              <tr>
+                                 <td align="left" valign="top" styleCode="Botrule Lrule Rrule">
+                                    <content styleCode="bold">Plasma p-Tau 181 (pg/mL)</content>
+                                    <content styleCode="bold">
+                                       <sup>2</sup>
+                                    </content>
+                                 </td>
+                                 <td align="center" valign="middle" styleCode="Botrule Rrule">N = 285
+</td>
+                                 <td align="center" valign="middle" styleCode="Botrule Rrule">N = 334
+</td>
+                              </tr>
+                              <tr>
+                                 <td align="left" valign="top" styleCode="Botrule Lrule Rrule">     Mean baseline
+</td>
+                                 <td align="center" valign="middle" styleCode="Botrule Rrule">3.131
+</td>
+                                 <td align="center" valign="middle" styleCode="Botrule Rrule">3.180
+</td>
+                              </tr>
+                              <tr>
+                                 <td align="left" valign="top" styleCode="Botrule Lrule Rrule">     Change from baseline<br/>           Difference from placebo
+</td>
+                                 <td align="center" valign="middle" styleCode="Botrule Rrule">-0.484<br/>-.0769, p&lt;0.0001
+</td>
+                                 <td align="center" valign="top" styleCode="Botrule Rrule">0.286
+</td>
+                              </tr>
+                              <tr>
+                                 <td align="left" valign="top" styleCode="Botrule Lrule Rrule">
+                                    <content styleCode="bold">CSF t-Tau (pg/mL)</content>
+                                 </td>
+                                 <td align="center" valign="middle" styleCode="Botrule Rrule">N=16
+</td>
+                                 <td align="center" valign="middle" styleCode="Botrule Rrule">N=14
+</td>
+                              </tr>
+                              <tr>
+                                 <td align="left" valign="top" styleCode="Botrule Lrule Rrule">     Mean baseline
+</td>
+                                 <td align="center" valign="top" styleCode="Botrule Rrule">618.50
+</td>
+                                 <td align="center" valign="top" styleCode="Botrule Rrule">592.57
+</td>
+                              </tr>
+                              <tr>
+                                 <td align="left" valign="top" styleCode="Botrule Lrule Rrule">     Change from baseline<br/>           Difference from placebo
+</td>
+                                 <td align="center" valign="top" styleCode="Botrule Rrule">-102.51<br/>-69.25, p=0.3098
+</td>
+                                 <td align="center" valign="top" styleCode="Botrule Rrule">-33.26
+</td>
+                              </tr>
+                           </tbody>
+                        </table>
+                        <paragraph>No statistically significant differences were observed between the ADUHELM-treated and placebo-treated patients on the primary efficacy endpoint, the change from baseline in CDR-SB score at 78 weeks.
+</paragraph>
+                     </text>
+                     <effectiveTime value="20230831"/>
+                     <component>
+                        <observationMedia ID="mm03">
+                           <text>Figure 3
+</text>
+                           <value xsi:type="ED" mediaType="image/jpeg">
+                              <reference value="adu00-0009-03.jpg"/>
+                           </value>
+                        </observationMedia>
+                     </component>
+                  </section>
+               </component>
+               <component>
+                  <section ID="s56">
+                     <id root="a86032c0-4a8c-46f8-9b0b-84cdf21f3e83"/>
+                     <code code="42229-5" codeSystem="2.16.840.1.113883.6.1" displayName="SPL UNCLASSIFIED SECTION"/>
+                     <text>
+                        <paragraph>
+                           <content styleCode="underline">Study 3</content>
+                        </paragraph>
+                        <paragraph>In Study 3, 197 patients were randomized to receive a fixed dose of ADUHELM 1 mg/kg (n=31), 3 mg/kg (n=32), 6 mg/kg (n=30), 10 mg/kg (n=32), titration of ADUHELM to 10 mg/kg over 44 weeks (n=23), or placebo (n=48) for 12 months. At baseline, the mean age of patients was 73 years, with a range of 51-91 years.
+</paragraph>
+                        <paragraph>Results from the amyloid beta PET substudy are described in <linkHtml href="#fig4">Figure 4</linkHtml> and <linkHtml href="#t9">Table 9</linkHtml>.
+</paragraph>
+                        <paragraph ID="fig4">
+                           <content styleCode="bold">Figure 4: Reduction in Brain Amyloid Beta Plaque (Change from Baseline in Amyloid Beta PET Composite, SUVR and Centiloids ) in Study 3</content>
+                        </paragraph>
+                        <renderMultiMedia ID="f04" referencedObject="mm04"/>
+                        <paragraph>* p&lt;0.05, ** p&lt;0.01, *** p&lt;0.001
+</paragraph>
+                        <table ID="t9" width="100%">
+                           <caption>Table 9: Biomarker Results of ADUHELM in Study 3
+</caption>
+                           <col width="51.933%" align="left"/>
+                           <col width="25.033%" align="left"/>
+                           <col width="23.033%" align="left"/>
+                           <tfoot>
+                              <tr>
+                                 <td colspan="3" align="left" valign="top">
+                                    <paragraph styleCode="footnote">
+                                       <sup>1</sup>P-values were not statistically controlled for multiple comparisons.
+</paragraph>
+                                 </td>
+                              </tr>
+                           </tfoot>
+                           <tbody>
+                              <tr>
+                                 <td align="left" valign="middle" styleCode="Toprule Botrule Lrule Rrule">
+                                    <content styleCode="bold">Biomarker Endpoint at Week 54</content>
+                                    <content styleCode="bold">
+                                       <sup>1</sup>
+                                    </content>
+                                 </td>
+                                 <td align="center" valign="middle" styleCode="Toprule Botrule Rrule">
+                                    <content styleCode="bold">ADUHELM</content>
+                                    <br/>
+                                    <content styleCode="bold">10 mg/kg</content>
+                                 </td>
+                                 <td align="center" valign="middle" styleCode="Toprule Botrule Rrule">
+                                    <content styleCode="bold">Placebo</content>
+                                 </td>
+                              </tr>
+                              <tr>
+                                 <td align="left" valign="middle" styleCode="Botrule Lrule Rrule">
+                                    <content styleCode="bold">Amyloid Beta PET Composite SUVR</content>
+                                 </td>
+                                 <td align="center" valign="middle" styleCode="Botrule Rrule">N=28
+</td>
+                                 <td align="center" valign="middle" styleCode="Botrule Rrule">N=42
+</td>
+                              </tr>
+                              <tr>
+                                 <td align="left" valign="middle" styleCode="Botrule Lrule Rrule">     Mean baseline
+</td>
+                                 <td align="center" valign="middle" styleCode="Botrule Rrule">1.432
+</td>
+                                 <td align="center" valign="middle" styleCode="Botrule Rrule">1.441
+</td>
+                              </tr>
+                              <tr>
+                                 <td align="left" valign="top" styleCode="Botrule Lrule Rrule">     Change from baseline<br/>           Difference from placebo
+</td>
+                                 <td align="center" valign="top" styleCode="Botrule Rrule">-0.263<br/>-0.277, p&lt;0.0001
+</td>
+                                 <td align="center" valign="top" styleCode="Botrule Rrule">0.014
+</td>
+                              </tr>
+                              <tr>
+                                 <td align="left" valign="middle" styleCode="Botrule Lrule Rrule">
+                                    <content styleCode="bold">Amyloid Beta PET Centiloid</content>
+                                 </td>
+                                 <td align="center" valign="middle" styleCode="Botrule Rrule">N=28
+</td>
+                                 <td align="center" valign="middle" styleCode="Botrule Rrule">N=42
+</td>
+                              </tr>
+                              <tr>
+                                 <td align="left" valign="middle" styleCode="Botrule Lrule Rrule">           Mean baseline
+</td>
+                                 <td align="center" valign="middle" styleCode="Botrule Rrule">94.5
+</td>
+                                 <td align="center" valign="middle" styleCode="Botrule Rrule">96.5
+</td>
+                              </tr>
+                              <tr>
+                                 <td align="left" valign="top" styleCode="Botrule Lrule Rrule">     Change from baseline (%)<br/>           Difference from placebo
+</td>
+                                 <td align="center" valign="top" styleCode="Botrule Rrule">-58.0 (-61%)<br/>-61.1, p&lt;0.0001
+</td>
+                                 <td align="center" valign="top" styleCode="Botrule Rrule">3.1
+</td>
+                              </tr>
+                           </tbody>
+                        </table>
+                        <paragraph>Clinical assessments in Study 3 were exploratory. Results for clinical assessments were directionally aligned with the findings from Study 1, with less change from baseline in CDR-SB and MMSE scores at 1 year in the ADUHELM 10 mg/kg fixed-dose group than in patients on placebo (CDR-SB: -1.26, 95% CI [-2.356, -0.163]; MMSE: 1.9, 95% CI [0.06, 3.75]).
+</paragraph>
+                     </text>
+                     <effectiveTime value="20230831"/>
+                  </section>
+               </component>
+               <component>
+                  <observationMedia ID="mm04">
+                     <text>Figure 4
+</text>
+                     <value xsi:type="ED" mediaType="image/jpeg">
+                        <reference value="adu00-0009-04.jpg"/>
+                     </value>
+                  </observationMedia>
+               </component>
+            </section>
+         </component>
+         <component>
+            <section ID="s57">
+               <id root="0e2ef20f-c1d2-4945-94a1-94ab4b2c4002"/>
+               <code code="34069-5" codeSystem="2.16.840.1.113883.6.1" displayName="HOW SUPPLIED SECTION"/>
+               <title>16 HOW SUPPLIED/STORAGE AND HANDLING
+</title>
+               <effectiveTime value="20230215"/>
+               <component>
+                  <section ID="s58">
+                     <id root="0d73444f-41d7-4d68-8d39-65ba67c8d233"/>
+                     <code code="42229-5" codeSystem="2.16.840.1.113883.6.1" displayName="SPL UNCLASSIFIED SECTION"/>
+                     <title>16.1 How Supplied
+</title>
+                     <text>
+                        <paragraph>ADUHELM (aducanumab-avwa) injection is a preservative-free, sterile, clear to opalescent, and colorless to yellow solution. ADUHELM is supplied one vial per carton as follows:
+</paragraph>
+                        <paragraph>170 mg/1.7 mL (100 mg/mL) single-dose vial (with red flip cap) – NDC 64406-101-01
+</paragraph>
+                        <paragraph>300 mg/3 mL (100 mg/mL) single-dose vial (with blue flip cap) – NDC 64406-102-02
+</paragraph>
+                     </text>
+                     <effectiveTime value="20230215"/>
+                  </section>
+               </component>
+               <component>
+                  <section ID="s59">
+                     <id root="c59a41be-92c7-434f-975f-c75ad0ce2b0e"/>
+                     <code code="44425-7" codeSystem="2.16.840.1.113883.6.1" displayName="STORAGE AND HANDLING SECTION"/>
+                     <title>16.2 Storage and Handling
+</title>
+                     <text>
+                        <paragraph>
+                           <content styleCode="underline">Unopened Vial</content>
+                        </paragraph>
+                        <list listType="unordered" styleCode="Disc">
+                           <item>Store in original carton until use to protect from light.
+</item>
+                           <item>Store in a refrigerator at 2°C to 8°C (36°F to 46°F).
+</item>
+                           <item>not freeze or shake.
+</item>
+                           <item>If no refrigeration is available, ADUHELM may be stored unopened in its original carton to protect from light at room temperature up to 25°C (77°F) for up to 3 days.
+</item>
+                           <item>Prior to dilution, unopened vials of ADUHELM may be removed from and returned to the refrigerator if necessary, when kept in the original carton. Total combined time out of refrigeration with protection from light should not exceed 24 hours at room temperature up to 25°C (77°F).
+</item>
+                        </list>
+                     </text>
+                     <effectiveTime value="20230215"/>
+                  </section>
+               </component>
+            </section>
+         </component>
+         <component>
+            <section ID="s60">
+               <id root="16efbb37-b255-4a16-ac5c-3a2b1784509d"/>
+               <code code="34076-0" codeSystem="2.16.840.1.113883.6.1" displayName="INFORMATION FOR PATIENTS SECTION"/>
+               <title>17 PATIENT COUNSELING INFORMATION
+</title>
+               <text>
+                  <paragraph>Advise the patient and/or caregiver to read the FDA-approved patient labeling (<linkHtml href="#s64">Medication Guide</linkHtml>).
+</paragraph>
+               </text>
+               <effectiveTime value="20230831"/>
+               <component>
+                  <section ID="s61">
+                     <id root="4d8a1542-0ed7-4483-8ce6-e946c2689f62"/>
+                     <code code="42229-5" codeSystem="2.16.840.1.113883.6.1" displayName="SPL UNCLASSIFIED SECTION"/>
+                     <text>
+                        <paragraph>
+                           <content styleCode="underline">Amyloid Related Imaging Abnormalities</content>
+                        </paragraph>
+                        <paragraph>Inform patients that ADUHELM may cause Amyloid Related Imaging Abnormalities or “ARIA”. ARIA most commonly presents as temporary swelling in areas of the brain that usually resolves over time. Some people may also have small spots of bleeding in or on the surface of the brain. Inform patients that most people with swelling in areas of the brain do not experience symptoms, however, some people may experience symptoms such as headache, confusion, dizziness, vision changes, nausea, aphasia, weakness, or seizure. Instruct patients to notify their healthcare provider if these symptoms occur. Inform patients that events of intracerebral hemorrhage greater than 1 cm in diameter have been reported infrequently in patients taking ADUHELM, and that the use of anticoagulant or thrombolytic medications while taking ADUHELM may increase the risk of bleeding in the brain.  Notify patients that their healthcare provider will perform MRI scans to monitor for ARIA <content styleCode="italics">[see Warnings and Precautions (<linkHtml href="#s17">5.1</linkHtml>)]</content>.
+</paragraph>
+                        <paragraph>Inform patients that although ARIA can occur in any patient treated with ADUHELM, there is an increased risk in patients who are ApoE ε4 homozygotes, and that testing for ApoE ε4 status should be performed prior to initiation of treatment to inform the risk of developing ARIA. Prior to testing, discuss with patients the risk of ARIA across genotypes and the implications of genetic testing results. Inform patients that if testing is not performed, it cannot be determined if they are ApoE ε4 homozygotes and at a higher risk for ARIA.
+</paragraph>
+                     </text>
+                     <effectiveTime value="20230831"/>
+                  </section>
+               </component>
+               <component>
+                  <section ID="s62">
+                     <id root="ad12e95e-3314-4767-9466-346eaaedd90d"/>
+                     <code code="42229-5" codeSystem="2.16.840.1.113883.6.1" displayName="SPL UNCLASSIFIED SECTION"/>
+                     <text>
+                        <paragraph>
+                           <content styleCode="underline">Patient Registry</content>
+                        </paragraph>
+                        <paragraph>Advise patients that the Alzheimer's Network for Treatment and Diagnostics (ALZ-NET) is a voluntary provider-enrolled patient registry that collects information on treatments for Alzheimer's disease, including ADUHELM. Encourage patients to participate in the ALZ-NET registry <content styleCode="italics">[see Warnings and Precautions (<linkHtml href="#s17">5.1</linkHtml>)]</content>.
+</paragraph>
+                     </text>
+                     <effectiveTime value="20230215"/>
+                  </section>
+               </component>
+               <component>
+                  <section ID="s63">
+                     <id root="8e11e14d-03fd-4ad7-92d8-7c6f3758210c"/>
+                     <code code="42229-5" codeSystem="2.16.840.1.113883.6.1" displayName="SPL UNCLASSIFIED SECTION"/>
+                     <text>
+                        <paragraph>
+                           <content styleCode="underline">Hypersensitivity Reactions</content>
+                        </paragraph>
+                        <paragraph>Inform patients that ADUHELM may cause hypersensitivity reactions, including angioedema and urticaria, and to contact their healthcare provider if hypersensitivity reactions occur <content styleCode="italics">[see Warnings and Precautions (<linkHtml href="#s23">5.2</linkHtml>)].</content>
+                        </paragraph>
+                        <paragraph>55093-06
+</paragraph>
+                        <paragraph>Manufactured by:<br/>Biogen Inc.<br/>Cambridge, MA 02142 <br/>US License #1697
+</paragraph>
+                        <paragraph>ADUHELM is a registered trademark of Biogen.
+</paragraph>
+                        <paragraph>© 2023 Biogen
+</paragraph>
+                     </text>
+                     <effectiveTime value="20230831"/>
+                  </section>
+               </component>
+            </section>
+         </component>
+         <component>
+            <section ID="s64">
+               <id root="0af564d4-a97b-4e15-9cab-9654c5c4b9d4"/>
+               <code code="42231-1" codeSystem="2.16.840.1.113883.6.1" displayName="SPL MEDGUIDE SECTION"/>
+               <text>
+                  <table width="100%">
+                     <col width="4.950%" align="left"/>
+                     <col width="27.275%" align="left"/>
+                     <col width="42.775%" align="left"/>
+                     <col width="25.000%" align="left"/>
+                     <tfoot>
+                        <tr>
+                           <td colspan="3" align="left" valign="top">
+                              <paragraph styleCode="footnote">This Medication Guide has been approved by the U.S. Food and Drug Administration
+</paragraph>
+                           </td>
+                           <td align="right" valign="top">
+                              <paragraph styleCode="footnote">Revised: 08/2023
+</paragraph>
+                           </td>
+                        </tr>
+                     </tfoot>
+                     <tbody>
+                        <tr>
+                           <td colspan="4" align="center" valign="top" styleCode="Toprule Botrule Lrule Rrule">
+                              <content styleCode="bold">MEDICATION GUIDE</content>
+                              <br/>ADUHELM<sup>®</sup> (AD-yew-helm)<br/>(aducanumab-avwa)<br/>injection, for intravenous use
+</td>
+                        </tr>
+                        <tr>
+                           <td colspan="4" align="left" valign="top" styleCode="Lrule Rrule">
+                              <paragraph ID="p01">
+                                 <content styleCode="bold">What is the most important information I should know about ADUHELM?</content>
+                                 <br/>
+                                 <content styleCode="bold">ADUHELM can cause serious side effects, including:</content>
+                                 <br/>
+                              </paragraph>
+                              <list listType="unordered" styleCode="Disc">
+                                 <item>
+                                    <content styleCode="bold">Amyloid Related Imaging Abnormalities or “ARIA”. ARIA is a common side effect that does not usually cause any symptoms but can be serious.</content> It is most commonly seen as temporary swelling in areas of the brain that usually resolves over time. Some people may also have small spots of bleeding in or on the surface of the brain, and infrequently, larger areas of bleeding in the brain can occur. Most people with this type of swelling in the brain do not get symptoms, however some people may have symptoms, such as:
+</item>
+                              </list>
+                           </td>
+                        </tr>
+                        <tr>
+                           <td align="left" valign="top" styleCode="Lrule"/>
+                           <td align="left" valign="top">
+                              <list listType="unordered" styleCode="Circle">
+                                 <item>headache
+</item>
+                                 <item>confusion
+</item>
+                                 <item>dizziness
+</item>
+                                 <item>vision changes
+</item>
+                              </list>
+                           </td>
+                           <td align="left" valign="top">
+                              <list listType="unordered" styleCode="Circle">
+                                 <item>nausea
+</item>
+                                 <item>difficulty walking
+</item>
+                                 <item>seizures
+</item>
+                              </list>
+                           </td>
+                           <td align="left" valign="top" styleCode="Rrule"/>
+                        </tr>
+                        <tr>
+                           <td colspan="4" align="left" valign="top" styleCode="Botrule Lrule Rrule">Some people have a genetic risk factor (homozygous apolipoprotein E gene carriers) that may cause an increased risk for ARIA.  Talk to your healthcare provider about testing to see if you have this risk factor.  <br/>
+                              <br/>Some medicines may increase the risk for larger areas of bleeding in the brain in patients taking ADUHELM. Talk to your healthcare provider to see if you are on any medicines that increase this risk.<br/>
+                              <br/>Your healthcare provider will do magnetic resonance imaging (MRI) scans before and during your treatment with ADUHELM to check you for ARIA.<br/>
+                              <br/>
+                              <content styleCode="bold">Call your healthcare provider or go to the nearest hospital emergency room right away if you have any of the symptoms listed above.</content>
+                           </td>
+                        </tr>
+                        <tr>
+                           <td colspan="4" align="left" valign="top" styleCode="Botrule Lrule Rrule">
+                              <content styleCode="bold">What is ADUHELM?</content>
+                              <br/>ADUHELM is a prescription medicine used to treat people with Alzheimer's disease.<br/>It is not known if ADUHELM is safe and effective in children.
+</td>
+                        </tr>
+                        <tr>
+                           <td colspan="4" align="left" valign="top" styleCode="Lrule Rrule">Before receiving ADUHELM, tell your healthcare provider about all of your medical conditions, including if you:<br/>
+                              <list listType="unordered" styleCode="Disc">
+                                 <item>are pregnant or plan to become pregnant. It is not known if ADUHELM will harm your unborn baby. Tell your healthcare provider if you become pregnant during your treatment with ADUHELM.
+</item>
+                                 <item>are breastfeeding or plan to breastfeed. It is not known if aducanumab-avwa (the active ingredient in ADUHELM) passes into your breast milk. Talk to your healthcare provider about the best way to feed your baby while receiving ADUHELM.
+</item>
+                              </list>
+                           </td>
+                        </tr>
+                        <tr>
+                           <td colspan="4" align="left" valign="top" styleCode="Botrule Lrule Rrule">
+                              <content styleCode="bold">Tell your healthcare provider about all of the medicines you take,</content> including prescription and over-the-counter medicines, vitamins, and herbal supplements.<br/>Especially tell your healthcare provider if you take medicines to reduce blood clots from forming (antithrombotic medicines, including aspirin).  Ask your healthcare provider for a list of these medicines if you are not sure.<br/>Know the medicines you take.  Keep a list of them to show your healthcare provider and pharmacists when you get a new medicine.
+</td>
+                        </tr>
+                        <tr>
+                           <td colspan="4" align="left" valign="top" styleCode="Botrule Lrule Rrule">
+                              <content styleCode="bold">How will I receive ADUHELM?</content>
+                              <br/>
+                              <list listType="unordered" styleCode="Disc">
+                                 <item>ADUHELM is given through a needle placed in your vein (intravenous (IV) infusion) in your arm.
+</item>
+                                 <item>ADUHELM is given every 4 weeks. Each infusion will last about 1 hour.
+</item>
+                              </list>
+                           </td>
+                        </tr>
+                        <tr>
+                           <td colspan="4" align="left" valign="top" styleCode="Lrule Rrule">
+                              <content styleCode="bold">What are the possible side effects of ADUHELM?</content>
+                              <br/>
+                              <content styleCode="bold">ADUHELM can cause serious side effects, including:</content>
+                              <br/>
+                              <list listType="unordered" styleCode="Disc">
+                                 <item>
+                                    <content styleCode="bold">See above “<linkHtml href="#p01">What is the most important information I should know about ADUHELM?</linkHtml>”</content>
+                                 </item>
+                                 <item>
+                                    <content styleCode="bold">Serious allergic reactions.</content> Swelling of the face, lips, mouth, or tongue and hives have happened during an ADUHELM infusion. <content styleCode="bold">Tell your healthcare provider if you have any of the symptoms of a serious allergic reaction during or after ADUHELM infusion.</content>
+                                 </item>
+                              </list>
+                           </td>
+                        </tr>
+                        <tr>
+                           <td colspan="4" align="left" valign="top" styleCode="Lrule Rrule">The most common side effects of ADUHELM include:<br/>
+                              <list listType="unordered" styleCode="Disc">
+                                 <item>swelling in areas of the brain, with or without small spots of bleeding in or on the surface of the brain (ARIA)
+</item>
+                                 <item>headache
+</item>
+                                 <item>fall
+</item>
+                              </list>
+                           </td>
+                        </tr>
+                        <tr>
+                           <td colspan="4" align="left" valign="top" styleCode="Botrule Lrule Rrule">These are not all the possible side effects of ADUHELM.  For more information, ask your healthcare provider or pharmacist.<br/>Call your doctor for medical advice about side effects. You may report side effects to FDA at 1-800-FDA-1088.
+</td>
+                        </tr>
+                        <tr>
+                           <td colspan="4" align="left" valign="top" styleCode="Botrule Lrule Rrule">
+                              <content styleCode="bold">General Information about the safe and effective use of ADUHELM.</content>
+                              <br/>Medicines are sometimes prescribed for purposes other than those listed in this Medication Guide. You can ask your pharmacist or healthcare provider for more information about ADUHELM that is written for health professionals.<br/>There is a registry that collects information on treatments for Alzheimer's disease.  The registry is named ALZ-NET (Alzheimer's Network for Treatment and Diagnostics). Your healthcare provider can help you become enrolled in this registry.<br/>For more information, go to www.aduhelm.com or call at 1-833-425-9360.
+</td>
+                        </tr>
+                        <tr>
+                           <td colspan="4" align="left" valign="top" styleCode="Botrule Lrule Rrule">
+                              <content styleCode="bold">What are the ingredients in ADUHELM?</content>
+                              <br/>
+                              <content styleCode="bold">Active ingredient:</content> aducanumab-avwa<br/>
+                              <content styleCode="bold">Inactive ingredients:</content> L-arginine hydrochloride, L-histidine, L-histidine hydrochloride monohydrate, L-methionine, polysorbate 80, and water for injection<br/>Manufactured by: Biogen Inc., Cambridge, MA 02142, U.S. License #1697<br/>ADUHELM is a registered trademark of Biogen.   ©2023 Biogen
+</td>
+                        </tr>
+                     </tbody>
+                  </table>
+               </text>
+               <effectiveTime value="20230831"/>
+            </section>
+         </component>
+         <component>
+            <section ID="s65">
+               <id root="3684e072-f134-4de7-81e4-7f31966040a8"/>
+               <code code="51945-4" codeSystem="2.16.840.1.113883.6.1" displayName="PACKAGE LABEL.PRINCIPAL DISPLAY PANEL"/>
+               <text>
+                  <paragraph>
+                     <content styleCode="bold">Principal Display Panel – 1.7 mL Carton Label</content>
+                  </paragraph>
+                  <paragraph>Rx Only
+</paragraph>
+                  <paragraph>NDC 64406-<content styleCode="bold">101</content>-01
+</paragraph>
+                  <paragraph>
+                     <content styleCode="bold">Aduhelm</content>
+                     <content styleCode="bold">
+                        <sup>®</sup>
+                     </content>
+                  </paragraph>
+                  <paragraph>
+                     <content styleCode="bold">(aducanumab-avwa)<br/>Injection</content>
+                  </paragraph>
+                  <paragraph>
+                     <content styleCode="bold">170 mg/1.7 mL</content>
+                     <br/>(100 mg/mL)
+</paragraph>
+                  <paragraph>
+                     <content styleCode="bold">For Intravenous Infusion Only</content>
+                  </paragraph>
+                  <paragraph>
+                     <content styleCode="bold">Must be diluted prior to use</content>
+                  </paragraph>
+                  <paragraph>
+                     <content styleCode="bold">ATTENTION: Dispense the enclosed<br/>Medication Guide to Each Patient.</content>
+                  </paragraph>
+                  <renderMultiMedia ID="f05" referencedObject="mm05"/>
+               </text>
+               <effectiveTime value="20230831"/>
+               <component>
+                  <observationMedia ID="mm05">
+                     <text>Principal Display Panel – 1.7 mL Carton Label
+</text>
+                     <value xsi:type="ED" mediaType="image/jpeg">
+                        <reference value="adu00-0009-05.jpg"/>
+                     </value>
+                  </observationMedia>
+               </component>
+            </section>
+         </component>
+         <component>
+            <section ID="s66">
+               <id root="7ddc1b6b-50cc-49e4-b053-c3f48e8a99ef"/>
+               <code code="51945-4" codeSystem="2.16.840.1.113883.6.1" displayName="PACKAGE LABEL.PRINCIPAL DISPLAY PANEL"/>
+               <text>
+                  <paragraph>
+                     <content styleCode="bold">Principal Display Panel – 3 mL Carton Label</content>
+                  </paragraph>
+                  <paragraph>Rx Only
+</paragraph>
+                  <paragraph>NDC 64406-<content styleCode="bold">102</content>-02
+</paragraph>
+                  <paragraph>
+                     <content styleCode="bold">Aduhelm</content>
+                     <content styleCode="bold">
+                        <sup>®</sup>
+                     </content>
+                  </paragraph>
+                  <paragraph>
+                     <content styleCode="bold">(aducanumab-avwa)<br/>Injection</content>
+                  </paragraph>
+                  <paragraph>
+                     <content styleCode="bold">300 mg/3 mL</content>
+                     <br/>(100 mg/mL)
+</paragraph>
+                  <paragraph>
+                     <content styleCode="bold">For Intravenous Infusion Only</content>
+                  </paragraph>
+                  <paragraph>
+                     <content styleCode="bold">Must be diluted prior to use</content>
+                  </paragraph>
+                  <paragraph>
+                     <content styleCode="bold">ATTENTION: Dispense the enclosed<br/>Medication Guide to Each patient.</content>
+                  </paragraph>
+                  <renderMultiMedia ID="f06" referencedObject="mm06"/>
+               </text>
+               <effectiveTime value="20230831"/>
+               <component>
+                  <observationMedia ID="mm06">
+                     <text>Principal Display Panel – 3 mL Carton Label
+</text>
+                     <value xsi:type="ED" mediaType="image/jpeg">
+                        <reference value="adu00-0009-06.jpg"/>
+                     </value>
+                  </observationMedia>
+               </component>
+            </section>
+         </component>
+      </structuredBody>
+   </component>
+</document>

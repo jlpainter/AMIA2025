@@ -1,0 +1,820 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="https://www.accessdata.fda.gov/spl/stylesheet/spl.xsl"?>
+<document xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:hl7-org:v3 https://www.accessdata.fda.gov/spl/schema/spl.xsd">
+   <id root="2f85745e-01d9-47d2-b1d6-0b454850dba8"/>
+   <code code="34391-3" codeSystem="2.16.840.1.113883.6.1" displayName="HUMAN PRESCRIPTION DRUG LABEL"/>
+   <title>
+      <content styleCode="bold">These highlights do not include all the information needed to use RHOPRESSA<sup>®</sup> safely and effectively. See full prescribing information for RHOPRESSA<sup>®</sup>.<br/>
+      </content>
+      <br/>
+      <content styleCode="bold">RHOPRESSA<sup>®</sup> (netarsudil ophthalmic solution) 0.02%, for topical ophthalmic use</content>
+      <br/>
+      <content styleCode="bold">Initial U.S. Approval: </content>
+      <content styleCode="bold">2017<br/>
+      </content>
+   </title>
+   <effectiveTime value="20240920"/>
+   <setId root="7d4f0e3a-5b86-4c43-982a-813b22ae7e22"/>
+   <versionNumber value="14"/>
+   <author>
+      <time/>
+      <assignedEntity>
+         <representedOrganization>
+            <id extension="008018525" root="1.3.6.1.4.1.519.1"/>
+            <name>Alcon Laboratories, Inc.</name>
+            <assignedEntity>
+               <assignedOrganization/>
+            </assignedEntity>
+         </representedOrganization>
+      </assignedEntity>
+   </author>
+   <component>
+      <structuredBody>
+         <component>
+            <section>
+               <id root="08e14019-252e-4894-85ed-1d1d592f930a"/>
+               <code code="48780-1" codeSystem="2.16.840.1.113883.6.1" displayName="SPL PRODUCT DATA ELEMENTS SECTION"/>
+               <effectiveTime value="20240920"/>
+               <subject>
+                  <manufacturedProduct>
+                     <manufacturedProduct>
+                        <code code="70727-497" codeSystem="2.16.840.1.113883.6.69"/>
+                        <name>Rhopressa</name>
+                        <formCode code="C60992" codeSystem="2.16.840.1.113883.3.26.1.1" displayName="SOLUTION/ DROPS"/>
+                        <asEntityWithGeneric>
+                           <genericMedicine>
+                              <name>netarsudil</name>
+                           </genericMedicine>
+                        </asEntityWithGeneric>
+                        <ingredient classCode="ACTIM">
+                           <quantity>
+                              <numerator unit="mg" value="0.200"/>
+                              <denominator unit="mL" value="1"/>
+                           </quantity>
+                           <ingredientSubstance>
+                              <code code="VL756B1K0U" codeSystem="2.16.840.1.113883.4.9"/>
+                              <name>NETARSUDIL MESYLATE</name>
+                              <activeMoiety>
+                                 <activeMoiety>
+                                    <code code="W6I5QDT7QI" codeSystem="2.16.840.1.113883.4.9"/>
+                                    <name>NETARSUDIL</name>
+                                 </activeMoiety>
+                              </activeMoiety>
+                           </ingredientSubstance>
+                        </ingredient>
+                        <ingredient classCode="IACT">
+                           <ingredientSubstance>
+                              <code code="F5UM2KM3W7" codeSystem="2.16.840.1.113883.4.9"/>
+                              <name>BENZALKONIUM CHLORIDE</name>
+                           </ingredientSubstance>
+                        </ingredient>
+                        <ingredient classCode="IACT">
+                           <ingredientSubstance>
+                              <code code="3OWL53L36A" codeSystem="2.16.840.1.113883.4.9"/>
+                              <name>MANNITOL</name>
+                           </ingredientSubstance>
+                        </ingredient>
+                        <ingredient classCode="IACT">
+                           <ingredientSubstance>
+                              <code code="R57ZHV85D4" codeSystem="2.16.840.1.113883.4.9"/>
+                              <name>BORIC ACID</name>
+                           </ingredientSubstance>
+                        </ingredient>
+                        <ingredient classCode="IACT">
+                           <ingredientSubstance>
+                              <code code="55X04QC32I" codeSystem="2.16.840.1.113883.4.9"/>
+                              <name>SODIUM HYDROXIDE</name>
+                           </ingredientSubstance>
+                        </ingredient>
+                        <ingredient classCode="IACT">
+                           <ingredientSubstance>
+                              <code code="059QF0KO0R" codeSystem="2.16.840.1.113883.4.9"/>
+                              <name>WATER</name>
+                           </ingredientSubstance>
+                        </ingredient>
+                        <asContent>
+                           <quantity>
+                              <numerator unit="mL" value="2.5"/>
+                              <denominator value="1"/>
+                           </quantity>
+                           <containerPackagedProduct>
+                              <code/>
+                              <formCode code="C43169" codeSystem="2.16.840.1.113883.3.26.1.1" displayName="BOTTLE"/>
+                              <asContent>
+                                 <quantity>
+                                    <numerator unit="1" value="1"/>
+                                    <denominator value="1"/>
+                                 </quantity>
+                                 <containerPackagedProduct>
+                                    <code code="70727-497-25" codeSystem="2.16.840.1.113883.6.69"/>
+                                    <formCode code="C43182" codeSystem="2.16.840.1.113883.3.26.1.1" displayName="CARTON"/>
+                                 </containerPackagedProduct>
+                                 <subjectOf>
+                                    <marketingAct>
+                                       <code code="C53292" codeSystem="2.16.840.1.113883.3.26.1.1"/>
+                                       <statusCode code="active"/>
+                                       <effectiveTime>
+                                          <low value="20171218"/>
+                                       </effectiveTime>
+                                    </marketingAct>
+                                 </subjectOf>
+                              </asContent>
+                           </containerPackagedProduct>
+                           <subjectOf>
+                              <characteristic classCode="OBS">
+                                 <code code="SPLCMBPRDTP" codeSystem="2.16.840.1.113883.1.11.19255"/>
+                                 <value code="C112160" codeSystem="2.16.840.1.113883.3.26.1.1" displayName="Type 0: Not a Combination Product" xsi:type="CE"/>
+                              </characteristic>
+                           </subjectOf>
+                        </asContent>
+                        <asContent>
+                           <quantity>
+                              <numerator unit="mL" value="2.5"/>
+                              <denominator value="1"/>
+                           </quantity>
+                           <containerPackagedProduct>
+                              <code/>
+                              <formCode code="C43169" codeSystem="2.16.840.1.113883.3.26.1.1" displayName="BOTTLE"/>
+                              <asContent>
+                                 <quantity>
+                                    <numerator unit="1" value="1"/>
+                                    <denominator value="1"/>
+                                 </quantity>
+                                 <containerPackagedProduct>
+                                    <code code="70727-497-99" codeSystem="2.16.840.1.113883.6.69"/>
+                                    <formCode code="C43182" codeSystem="2.16.840.1.113883.3.26.1.1" displayName="CARTON"/>
+                                 </containerPackagedProduct>
+                                 <subjectOf>
+                                    <marketingAct>
+                                       <code code="C96974" codeSystem="2.16.840.1.113883.3.26.1.1"/>
+                                       <statusCode code="active"/>
+                                       <effectiveTime>
+                                          <low value="20171218"/>
+                                       </effectiveTime>
+                                    </marketingAct>
+                                 </subjectOf>
+                              </asContent>
+                           </containerPackagedProduct>
+                           <subjectOf>
+                              <characteristic classCode="OBS">
+                                 <code code="SPLCMBPRDTP" codeSystem="2.16.840.1.113883.1.11.19255"/>
+                                 <value code="C112160" codeSystem="2.16.840.1.113883.3.26.1.1" displayName="Type 0: Not a Combination Product" xsi:type="CE"/>
+                              </characteristic>
+                           </subjectOf>
+                        </asContent>
+                     </manufacturedProduct>
+                     <subjectOf>
+                        <approval>
+                           <id extension="NDA208254" root="2.16.840.1.113883.3.150"/>
+                           <code code="C73594" codeSystem="2.16.840.1.113883.3.26.1.1" displayName="NDA"/>
+                           <author>
+                              <territorialAuthority>
+                                 <territory>
+                                    <code code="USA" codeSystem="2.16.840.1.113883.5.28"/>
+                                 </territory>
+                              </territorialAuthority>
+                           </author>
+                        </approval>
+                     </subjectOf>
+                     <subjectOf>
+                        <marketingAct>
+                           <code code="C53292" codeSystem="2.16.840.1.113883.3.26.1.1"/>
+                           <statusCode code="active"/>
+                           <effectiveTime>
+                              <low value="20171218"/>
+                           </effectiveTime>
+                        </marketingAct>
+                     </subjectOf>
+                     <consumedIn>
+                        <substanceAdministration>
+                           <routeCode code="C38287" codeSystem="2.16.840.1.113883.3.26.1.1" displayName="OPHTHALMIC"/>
+                        </substanceAdministration>
+                     </consumedIn>
+                     <consumedIn>
+                        <substanceAdministration>
+                           <routeCode code="C38304" codeSystem="2.16.840.1.113883.3.26.1.1" displayName="TOPICAL"/>
+                        </substanceAdministration>
+                     </consumedIn>
+                  </manufacturedProduct>
+               </subject>
+               <component>
+                  <observationMedia ID="MM88267">
+                     <text>Label 25</text>
+                     <value mediaType="image/jpeg" xsi:type="ED">
+                        <reference value="label-25.jpg"/>
+                     </value>
+                  </observationMedia>
+               </component>
+               <component>
+                  <observationMedia ID="MM88268">
+                     <text>Label 99</text>
+                     <value mediaType="image/jpeg" xsi:type="ED">
+                        <reference value="label-99.jpg"/>
+                     </value>
+                  </observationMedia>
+               </component>
+            </section>
+         </component>
+         <component>
+            <section ID="ID_aee192da-b7bd-44b7-b056-c318bee7e44d">
+               <id root="f3bdd0f8-b756-40ed-9d90-e012af34f742"/>
+               <code code="34067-9" codeSystem="2.16.840.1.113883.6.1" displayName="INDICATIONS &amp; USAGE SECTION"/>
+               <title>1 INDICATIONS AND USAGE </title>
+               <text>
+                  <paragraph>RHOPRESSA is indicated for the reduction of elevated intraocular pressure (IOP) in patients with open-angle glaucoma or ocular hypertension.</paragraph>
+               </text>
+               <effectiveTime value="20240920"/>
+               <excerpt>
+                  <highlight>
+                     <text>
+                        <paragraph>RHOPRESSA<sup>®</sup> is a Rho kinase inhibitor indicated for the reduction of elevated intraocular pressure in patients with open-angle glaucoma or ocular hypertension. (<linkHtml href="#ID_aee192da-b7bd-44b7-b056-c318bee7e44d">1</linkHtml>)</paragraph>
+                     </text>
+                  </highlight>
+               </excerpt>
+            </section>
+         </component>
+         <component>
+            <section ID="ID_eab60b66-c2f2-4e28-a69b-5225469ca31f">
+               <id root="68ae1d71-40c1-4d2c-8267-e1720f3f1879"/>
+               <code code="43683-2" codeSystem="2.16.840.1.113883.6.1" displayName="RECENT MAJOR CHANGES SECTION"/>
+               <effectiveTime value="20240920"/>
+               <excerpt>
+                  <highlight>
+                     <text>
+                        <paragraph>Warnings and Precautions, Epithelial Corneal Edema (<linkHtml href="#ID_6b2e1608-cc2f-4397-acf3-67f2ac947b9c">5.1</linkHtml>)        9/2024</paragraph>
+                     </text>
+                  </highlight>
+               </excerpt>
+            </section>
+         </component>
+         <component>
+            <section ID="ID_eb81d075-0e11-49ac-8ed2-75b581f679ce">
+               <id root="36724821-3527-4e03-8876-6382881a7c6c"/>
+               <code code="34068-7" codeSystem="2.16.840.1.113883.6.1" displayName="DOSAGE &amp; ADMINISTRATION SECTION"/>
+               <title>2 DOSAGE AND ADMINISTRATION </title>
+               <text>
+                  <paragraph>The recommended dosage is one drop in the affected eye(s) once daily in the evening. </paragraph>
+                  <paragraph>If one dose is missed, treatment should continue with the next dose in the evening. Twice a day dosing is not well tolerated and is not recommended. If RHOPRESSA is to be used concomitantly with other topical ophthalmic drug products to lower IOP, administer each drug product at least 5 minutes apart <content styleCode="italics">[see Patient Counseling Information (<linkHtml href="#ID_db53491e-0bf8-4cf0-9247-53b4b443be40">17</linkHtml>)].</content>
+                  </paragraph>
+               </text>
+               <effectiveTime value="20240920"/>
+               <excerpt>
+                  <highlight>
+                     <text>
+                        <paragraph>One drop into the affected eye(s) once daily in the evening. (<linkHtml href="#ID_eb81d075-0e11-49ac-8ed2-75b581f679ce">2</linkHtml>)</paragraph>
+                     </text>
+                  </highlight>
+               </excerpt>
+            </section>
+         </component>
+         <component>
+            <section ID="ID_8c7746e2-d373-4a16-978b-33dac0ea9f79">
+               <id root="ed61a76e-ef1f-4bd2-bc08-d3bb3bbc5622"/>
+               <code code="43678-2" codeSystem="2.16.840.1.113883.6.1" displayName="DOSAGE FORMS &amp; STRENGTHS SECTION"/>
+               <title>3 DOSAGE FORMS AND STRENGTHS </title>
+               <text>
+                  <paragraph>Ophthalmic solution containing netarsudil 0.02% (0.2 mg/mL).</paragraph>
+               </text>
+               <effectiveTime value="20240920"/>
+               <excerpt>
+                  <highlight>
+                     <text>
+                        <paragraph>Ophthalmic solution containing netarsudil 0.02%. (<linkHtml href="#ID_8c7746e2-d373-4a16-978b-33dac0ea9f79">3</linkHtml>)</paragraph>
+                     </text>
+                  </highlight>
+               </excerpt>
+            </section>
+         </component>
+         <component>
+            <section ID="ID_92e98556-14f9-47ae-acc1-11ee9c9d92e6">
+               <id root="c5f33f1c-4a31-4d06-ba68-663fd9cf09c1"/>
+               <code code="34070-3" codeSystem="2.16.840.1.113883.6.1" displayName="CONTRAINDICATIONS SECTION"/>
+               <title>4 CONTRAINDICATIONS </title>
+               <text>
+                  <paragraph>None.</paragraph>
+               </text>
+               <effectiveTime value="20190325"/>
+               <excerpt>
+                  <highlight>
+                     <text>
+                        <paragraph>None. (<linkHtml href="#ID_92e98556-14f9-47ae-acc1-11ee9c9d92e6">4</linkHtml>)</paragraph>
+                     </text>
+                  </highlight>
+               </excerpt>
+            </section>
+         </component>
+         <component>
+            <section ID="ID_6be0ae92-ecda-4efd-97d8-2d64666231a4">
+               <id root="4cef5af5-945d-4774-8a0b-5571ad046d4d"/>
+               <code code="43685-7" codeSystem="2.16.840.1.113883.6.1" displayName="WARNINGS AND PRECAUTIONS SECTION"/>
+               <title>5 WARNINGS AND PRECAUTIONS </title>
+               <effectiveTime value="20240920"/>
+               <component>
+                  <section ID="ID_6b2e1608-cc2f-4397-acf3-67f2ac947b9c">
+                     <id root="9a644c87-11a5-4a95-9bc8-45d16d8488e2"/>
+                     <code code="42229-5" codeSystem="2.16.840.1.113883.6.1" displayName="SPL UNCLASSIFIED SECTION"/>
+                     <title>5.1 Epithelial Corneal Edema</title>
+                     <text>
+                        <paragraph>
+                           <content styleCode="xmChange">Epithelial corneal edema, described as honeycomb or bullous, has been reported in some patients with pre-existing corneal stromal edema or following ocular procedures that could affect corneal endothelial function. Epithelial corneal edema typically resolves upon discontinuation of RHOPRESSA. Advise patients to notify their physician if they experience eye pain or decreased vision while using RHOPRESSA <content styleCode="italics">[see Adverse Reactions (<linkHtml href="#ID_a4f69447-0958-4925-97a4-46e7bb6bdaeb">6.2</linkHtml>) and Patient Counselling Information (<linkHtml href="#ID_db53491e-0bf8-4cf0-9247-53b4b443be40">17</linkHtml>)]</content>.</content>
+                        </paragraph>
+                     </text>
+                     <effectiveTime value="20240920"/>
+                  </section>
+               </component>
+               <component>
+                  <section ID="ID_473d3365-ce84-4fcf-a7db-73b261156304">
+                     <id root="2c452b16-f12c-43b6-98c6-bbe2c5a587f8"/>
+                     <code code="42229-5" codeSystem="2.16.840.1.113883.6.1" displayName="SPL UNCLASSIFIED SECTION"/>
+                     <title>5.2 Bacterial Keratitis</title>
+                     <text>
+                        <paragraph>There have been reports of bacterial keratitis associated with the use of multiple-dose containers of topical ophthalmic products. These containers had been inadvertently contaminated by patients who, in most cases, had a concurrent corneal disease or a disruption of the ocular epithelial surface [see <content styleCode="italics">Patient Counseling Information (<linkHtml href="#ID_db53491e-0bf8-4cf0-9247-53b4b443be40">17</linkHtml>)].</content>
+                        </paragraph>
+                     </text>
+                     <effectiveTime value="20240920"/>
+                  </section>
+               </component>
+               <component>
+                  <section ID="ID_7dd16774-0ad9-4239-afcb-9a2e399aa120">
+                     <id root="ba414e76-894f-455a-aff4-11f5881e2fbd"/>
+                     <code code="42229-5" codeSystem="2.16.840.1.113883.6.1" displayName="SPL UNCLASSIFIED SECTION"/>
+                     <title>5.3 Use with Contact Lenses</title>
+                     <text>
+                        <paragraph>Contact lenses should be removed prior to instillation of RHOPRESSA and may be reinserted 15 minutes following its administration.</paragraph>
+                     </text>
+                     <effectiveTime value="20240920"/>
+                  </section>
+               </component>
+            </section>
+         </component>
+         <component>
+            <section ID="ID_90b95c63-725b-42a7-bd55-65b175666e0c">
+               <id root="a314bcb7-5f2e-4ec1-b405-10377976cf8e"/>
+               <code code="34084-4" codeSystem="2.16.840.1.113883.6.1" displayName="ADVERSE REACTIONS SECTION"/>
+               <title>6 ADVERSE REACTIONS </title>
+               <effectiveTime value="20240923"/>
+               <excerpt>
+                  <highlight>
+                     <text>
+                        <paragraph>The most common adverse reaction is conjunctival hyperemia (53%). Other common adverse reactions, approximately 20% include: corneal verticillata, instillation site pain, and conjunctival hemorrhage. (<linkHtml href="#ID_854cc8b8-05e9-4136-8d16-9066763a444c">6.1</linkHtml>) <br/> </paragraph>
+                        <paragraph>
+                           <content styleCode="bold">To report SUSPECTED ADVERSE REACTIONS, contact </content>
+                           <content styleCode="bold">Alcon Laboratories, Inc. at 1‑800-757-9195,</content>
+                           <content styleCode="bold"> or FDA at <br/>1-800-FDA-1088 or <linkHtml href="http://www.fda.gov/medwatch">www.fda.gov/medwatch</linkHtml>.<br/>
+                              <br/>
+                           </content>
+                        </paragraph>
+                     </text>
+                  </highlight>
+               </excerpt>
+               <component>
+                  <section ID="ID_854cc8b8-05e9-4136-8d16-9066763a444c">
+                     <id root="e3496d3f-aed0-49d0-b54c-5a3bd01e2240"/>
+                     <code code="42229-5" codeSystem="2.16.840.1.113883.6.1" displayName="SPL UNCLASSIFIED SECTION"/>
+                     <title>6.1 Clinical Trials Experience </title>
+                     <text>
+                        <paragraph>Because clinical studies are conducted under widely varying conditions, adverse reaction rates observed in the clinical studies of a drug cannot be directly compared to rates in the clinical studies of another drug and may not reflect the rates observed in practice.</paragraph>
+                        <paragraph>The most common ocular adverse reaction observed in controlled clinical studies with RHOPRESSA dosed once daily was conjunctival hyperemia which was reported in 53% of patients. Six percent of patients discontinued therapy due to conjunctival hyperemia. Other common (approximately 20%) ocular adverse reactions reported were: corneal verticillata, instillation site pain, and conjunctival hemorrhage.  Instillation site erythema, corneal staining, blurred vision, increased lacrimation, erythema of eyelid, and reduced visual acuity were reported in 5-10% of patients.</paragraph>
+                        <paragraph>
+                           <content styleCode="underline">Corneal Verticillata</content>
+                        </paragraph>
+                        <paragraph>Corneal verticillata occurred in approximately 20% of the patients in controlled clinical studies. The corneal verticillata seen in RHOPRESSA-treated patients were first noted at 4 weeks of daily dosing. This reaction did not result in any apparent visual functional changes in patients. Most corneal verticillata resolved upon discontinuation of treatment.</paragraph>
+                     </text>
+                     <effectiveTime value="20240920"/>
+                  </section>
+               </component>
+               <component>
+                  <section ID="ID_a4f69447-0958-4925-97a4-46e7bb6bdaeb">
+                     <id root="53f78ff4-17a6-4839-97f7-f4f46f6599c7"/>
+                     <code code="90375-7" codeSystem="2.16.840.1.113883.6.1" displayName="POSTMARKETING EXPERIENCE SECTION"/>
+                     <title>6.2 Postmarketing Experience</title>
+                     <text>
+                        <paragraph>The following adverse reactions have been identified during postmarketing use of RHOPRESSA. Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.</paragraph>
+                        <paragraph>
+                           <content styleCode="italics">Eye disorders</content>: Epithelial corneal edema has been reported in some patients with pre-existing corneal stromal edema or following ocular procedures (that could affect corneal endothelial function) <content styleCode="italics">[see Warnings and Precautions (<linkHtml href="#ID_6b2e1608-cc2f-4397-acf3-67f2ac947b9c">5.1</linkHtml>)]</content>.</paragraph>
+                     </text>
+                     <effectiveTime value="20240920"/>
+                  </section>
+               </component>
+            </section>
+         </component>
+         <component>
+            <section ID="ID_bb49fc4d-b35a-44b5-b84b-448e975a1f27">
+               <id root="7e572531-1701-4204-985b-ab5a56f9717e"/>
+               <code code="43684-0" codeSystem="2.16.840.1.113883.6.1" displayName="USE IN SPECIFIC POPULATIONS SECTION"/>
+               <title>8 USE IN SPECIFIC POPULATIONS </title>
+               <effectiveTime value="20190325"/>
+               <component>
+                  <section ID="ID_0b1b382a-e799-4acd-a1fc-f16cf2d5aa96">
+                     <id root="4a3f71ea-ec1c-4600-9d34-f2f89013ba76"/>
+                     <code code="42228-7" codeSystem="2.16.840.1.113883.6.1" displayName="PREGNANCY SECTION"/>
+                     <title>8.1 Pregnancy </title>
+                     <text>
+                        <paragraph>
+                           <content styleCode="underline">Risk Summary</content>
+                        </paragraph>
+                        <paragraph>There are no available data on RHOPRESSA use in pregnant women to inform any drug associated risk; however, systemic exposure to netarsudil from ocular administration is low <content styleCode="italics">[see Clinical Pharmacology (<linkHtml href="#ID_27913e1c-6b9d-461e-8a72-d38f686f8336">12.3</linkHtml>
+                           </content>)<content styleCode="italics">]</content>.  Intravenous administration of netarsudil to pregnant rats and rabbits during organogenesis did not produce adverse embryofetal effects at clinically relevant systemic exposures <content styleCode="italics">[see Data]</content>.</paragraph>
+                        <paragraph>
+                           <content styleCode="underline">Data</content>
+                        </paragraph>
+                        <paragraph>
+                           <content styleCode="italics">Animal Data</content>
+                        </paragraph>
+                        <paragraph>Netarsudil administered daily by intravenous injection to rats during organogenesis caused abortions and embryofetal lethality at doses ≥0.3 mg/kg/day (126-fold the plasma exposure at the recommended human ophthalmic dose [RHOD], based on C<sub>max</sub>). The no-observed-adverse-effect-level (NOAEL) for embryofetal development toxicity was 0.1 mg/kg/day (40-fold the plasma exposure at the RHOD, based on C<sub>max</sub>).</paragraph>
+                        <paragraph>Netarsudil administered daily by intravenous injection to rabbits during organogenesis caused embryofetal lethality and decreased fetal weight at 5 mg/kg/day (1480-fold the plasma exposure at the RHOD, based on C<sub>max</sub>). Malformations were observed at ≥3 mg/kg/day (1330-fold the plasma exposure at the RHOD, based on C<sub>max</sub>), including thoracogastroschisis, umbilical hernia and absent intermediate lung lobe. The NOAEL for embryofetal development toxicity was 0.5 mg/kg/day (214-fold the plasma exposure at the RHOD, based on C<sub>max</sub>).</paragraph>
+                     </text>
+                     <effectiveTime value="20190325"/>
+                  </section>
+               </component>
+               <component>
+                  <section ID="ID_bfc721bf-8d9e-40cb-979a-f9256eb7e84e">
+                     <id root="42573946-a27a-479d-9e06-f95cf0a04a93"/>
+                     <code code="77290-5" codeSystem="2.16.840.1.113883.6.1" displayName="LACTATION SECTION"/>
+                     <title>8.2 Lactation </title>
+                     <text>
+                        <paragraph>
+                           <content styleCode="underline">Risk Summary</content>
+                        </paragraph>
+                        <paragraph>There are no data on the presence of RHOPRESSA in human milk, the effects on the breastfed infant, or the effects on milk production. However, systemic exposure to netarsudil following topical ocular administration is low <content styleCode="italics">[see Clinical Pharmacology (<linkHtml href="#ID_27913e1c-6b9d-461e-8a72-d38f686f8336">12.3</linkHtml>)]</content>, and it is not known whether measurable levels of netarsudil would be present in maternal milk following topical ocular administration.</paragraph>
+                        <paragraph>The developmental and health benefits of breastfeeding should be considered along with the mother’s clinical need for RHOPRESSA and any potential adverse effects on the breast-fed child from RHOPRESSA.</paragraph>
+                     </text>
+                     <effectiveTime value="20190325"/>
+                  </section>
+               </component>
+               <component>
+                  <section ID="ID_2989726f-8bbe-449c-b89e-c5512b8cabf3">
+                     <id root="f7868005-c7ba-4599-a839-3e08d64b65da"/>
+                     <code code="34081-0" codeSystem="2.16.840.1.113883.6.1" displayName="PEDIATRIC USE SECTION"/>
+                     <title>8.4 Pediatric Use </title>
+                     <text>
+                        <paragraph>Safety and effectiveness in pediatric patients below the age of 18 years have not been established.</paragraph>
+                     </text>
+                     <effectiveTime value="20190325"/>
+                  </section>
+               </component>
+               <component>
+                  <section ID="ID_ec78829f-82dd-4097-a692-30c0f9cbd1a3">
+                     <id root="5a4d59d0-2a1f-4d34-9e95-38e1e622c45d"/>
+                     <code code="34082-8" codeSystem="2.16.840.1.113883.6.1" displayName="GERIATRIC USE SECTION"/>
+                     <title>8.5 Geriatric Use </title>
+                     <text>
+                        <paragraph>No overall differences in safety or effectiveness have been observed between elderly and other adult patients.</paragraph>
+                     </text>
+                     <effectiveTime value="20190325"/>
+                  </section>
+               </component>
+            </section>
+         </component>
+         <component>
+            <section ID="ID_a0e6d0ea-47e1-4a13-9c39-017c0f19e662">
+               <id root="e70a2c26-c347-45a9-8b43-e4dbd082f41c"/>
+               <code code="34089-3" codeSystem="2.16.840.1.113883.6.1" displayName="DESCRIPTION SECTION"/>
+               <title>11 DESCRIPTION </title>
+               <text>
+                  <paragraph>Netarsudil is a Rho kinase inhibitor. Its chemical name is (S)-4-(3-amino-1-(isoquinolin-6-yl-amino)-1-oxopropan-2-yl) benzyl 2,4-dimethylbenzoate dimesylate. The molecular formula of the free base is C<sub>28</sub>H<sub>27</sub>N<sub>3</sub>O<sub>3</sub> and the molecular formula of the dimesylate is C<sub>30</sub>H<sub>35</sub>N<sub>3</sub>O<sub>9</sub>S<sub>2</sub>.  The molecular weight of the free base is 453.54 and the molecular weight of the dimesylate is 645.74.  The chemical structure is:</paragraph>
+                  <renderMultiMedia ID="id-1993173284" referencedObject="ID_330e6081-30a2-48cb-aa2b-2d4b2438a602"/>
+                  <paragraph>Netarsudil dimesylate is a light yellow-to-white powder that is freely soluble in water, soluble in methanol, sparingly soluble in dimethyl formamide, and practically insoluble in dichloromethane and heptane.</paragraph>
+                  <paragraph>RHOPRESSA (netarsudil ophthalmic solution) 0.02% is supplied as a sterile, isotonic, buffered aqueous solution of netarsudil dimesylate with a pH of approximately 5 and an osmolality of approximately 295 mOsmol/kg. It is intended for topical application in the eye. Each mL of RHOPRESSA contains 0.2 mg of netarsudil (equivalent to 0.28 mg of netarsudil dimesylate). Benzalkonium chloride, 0.015%, is added as a preservative. The inactive ingredients are: boric acid, mannitol, sodium hydroxide to adjust pH, and water for injection.</paragraph>
+               </text>
+               <effectiveTime value="20190325"/>
+               <component>
+                  <observationMedia ID="ID_330e6081-30a2-48cb-aa2b-2d4b2438a602">
+                     <text>Netarsudil structural formula</text>
+                     <value mediaType="image/jpeg" xsi:type="ED">
+                        <reference value="molecule.jpg"/>
+                     </value>
+                  </observationMedia>
+               </component>
+            </section>
+         </component>
+         <component>
+            <section ID="ID_5ad5f7c7-1e00-4cd4-99ac-54a2189f6171">
+               <id root="a335c10a-aaf3-440a-aab9-0397e855c4a4"/>
+               <code code="34090-1" codeSystem="2.16.840.1.113883.6.1" displayName="CLINICAL PHARMACOLOGY SECTION"/>
+               <title>12 CLINICAL PHARMACOLOGY </title>
+               <effectiveTime value="20190325"/>
+               <component>
+                  <section ID="ID_6a38feb8-60cb-4c6d-b9fe-ceec30caf9dc">
+                     <id root="bcd9ffa1-1db2-42f6-9821-11f06a2eb131"/>
+                     <code code="43679-0" codeSystem="2.16.840.1.113883.6.1" displayName="MECHANISM OF ACTION SECTION"/>
+                     <title>12.1 Mechanism of Action </title>
+                     <text>
+                        <paragraph>Netarsudil is a rho kinase inhibitor, which is believed to reduce IOP by increasing the outflow of aqueous humor through the trabecular meshwork. The exact mechanism is unknown.</paragraph>
+                     </text>
+                     <effectiveTime value="20190325"/>
+                  </section>
+               </component>
+               <component>
+                  <section ID="ID_27913e1c-6b9d-461e-8a72-d38f686f8336">
+                     <id root="43994e78-169f-40dd-852f-f63630520bb4"/>
+                     <code code="43682-4" codeSystem="2.16.840.1.113883.6.1" displayName="PHARMACOKINETICS SECTION"/>
+                     <title>12.3 Pharmacokinetics </title>
+                     <text>
+                        <paragraph>
+                           <content styleCode="underline">Absorption</content>
+                        </paragraph>
+                        <paragraph>The systemic exposures of netarsudil and its active metabolite, AR-13503, were evaluated in 18 healthy subjects after topical ocular administration of RHOPRESSA 0.02% once daily (one drop bilaterally in the morning) for 8 days. There were no quantifiable plasma concentrations of netarsudil (lower limit of quantitation (LLOQ) 0.100 ng/mL) post dose on Day 1 and Day 8. Only one plasma concentration at 0.11 ng/mL for the active metabolite was observed for one subject on Day 8 at 8 hours post-dose. <br/>
+                           <br/>
+                           <content styleCode="underline">Metabolism</content>
+                        </paragraph>
+                        <paragraph>After topical ocular dosing, netarsudil is metabolized by esterases in the eye.</paragraph>
+                     </text>
+                     <effectiveTime value="20190325"/>
+                  </section>
+               </component>
+            </section>
+         </component>
+         <component>
+            <section ID="ID_55b3ad2b-1745-422e-bbba-3a9fb8ab278c">
+               <id root="c2ae2ec9-daea-48be-9d73-d652460f0752"/>
+               <code code="43680-8" codeSystem="2.16.840.1.113883.6.1" displayName="NONCLINICAL TOXICOLOGY SECTION"/>
+               <title>13 NONCLINICAL TOXICOLOGY </title>
+               <effectiveTime value="20240920"/>
+               <component>
+                  <section ID="ID_add1fb0e-a7a0-4ca2-bedf-26e76523d3ff">
+                     <id root="679abec3-2b04-46c6-9ecd-319a0b7e3390"/>
+                     <code code="34083-6" codeSystem="2.16.840.1.113883.6.1" displayName="CARCINOGENESIS &amp; MUTAGENESIS &amp; IMPAIRMENT OF FERTILITY SECTION"/>
+                     <title>13.1 Carcinogenesis, Mutagenesis, Impairment of Fertility </title>
+                     <text>
+                        <paragraph>Long-term studies in animals have not been performed to evaluate the carcinogenic potential of netarsudil. Netarsudil was not mutagenic in the Ames test, in the mouse lymphoma test, or in the in vivo rat micronucleus test. Studies to evaluate the effects of netarsudil on male or female fertility in animals have not been performed.</paragraph>
+                     </text>
+                     <effectiveTime value="20240920"/>
+                  </section>
+               </component>
+            </section>
+         </component>
+         <component>
+            <section ID="ID_53b11e87-4cfa-4a16-9359-557e5ca20f33">
+               <id root="51715e38-7ba4-4803-9cd9-ce338b70886e"/>
+               <code code="34092-7" codeSystem="2.16.840.1.113883.6.1" displayName="CLINICAL STUDIES SECTION"/>
+               <title>14 CLINICAL STUDIES </title>
+               <text>
+                  <paragraph>RHOPRESSA 0.02% was evaluated in three randomized and controlled clinical trials, namely AR-13324-CS301 (NCT 02207491, referred to as Study 301), AR-13324-CS302 (NCT 02207621, referred to as Study 302), and AR-13324-CS304 (NCT 02558374, referred to as Study 304), in patients with open-angle glaucoma or ocular hypertension. Studies 301 and 302 enrolled subjects with baseline IOP lower than 27 mmHg and Study 304 enrolled subjects with baseline IOP lower than 30 mmHg. The treatment duration was 3 months in Study 301, 12 months in Study 302, and 6 months in Study 304.</paragraph>
+                  <paragraph>The three studies demonstrated up to 5 mmHg reductions in IOP for subjects treated with RHOPRESSA 0.02% once daily in the evening. For patients with baseline IOP &lt; 25 mmHg, the IOP reductions with RHOPRESSA 0.02% dosed once daily were similar to those with timolol 0.5% dosed twice daily (see Table 1). For patients with baseline IOP equal to or above 25 mmHg, however, RHOPRESSA 0.02% resulted in smaller mean IOP reductions at the morning time points than timolol 0.5% for study visits on Days 43 and 90; the difference in mean IOP reduction between the two treatment groups was as high as 3 mmHg, favoring timolol.</paragraph>
+                  <paragraph>
+                     <content styleCode="bold">Table 1: Mean IOP Change from Baseline of Study Eye (mmHg) by Visit and Time  </content>
+                  </paragraph>
+                  <table styleCode="Noautorules" width="100%">
+                     <col width="50%"/>
+                     <col width="50%"/>
+                     <tbody>
+                        <tr>
+                           <td align="right" valign="top">
+                              <renderMultiMedia ID="id-1444306202" referencedObject="ID_09a0c27e-dfaf-434b-b7d6-cbbb020cf280"/>
+                           </td>
+                           <td valign="top">
+                              <renderMultiMedia ID="id-197942325" referencedObject="AB9901AA-F9A5-4768-AA2C-00270FBC40DE"/>
+                           </td>
+                        </tr>
+                        <tr>
+                           <td align="right" valign="top">
+                              <renderMultiMedia ID="id2036537431" referencedObject="ID_402e7b4e-d74a-4c02-bbd4-bbf4149ebdad"/>
+                           </td>
+                           <td align="justify" valign="top">
+                              <renderMultiMedia ID="id149482028" referencedObject="ID_166189cb-af7e-4f55-b7d9-3edd2b026e27"/>
+                           </td>
+                        </tr>
+                        <tr>
+                           <td align="right" valign="top">
+                              <renderMultiMedia ID="id1266339028" referencedObject="DBCD3621-7FA6-4FAB-96CE-D8FDBBF1E066"/>
+                           </td>
+                           <td valign="top">
+                              <renderMultiMedia ID="id1920363558" referencedObject="ID_6f5e6a5f-777c-447f-8e0b-f3ce23a9214c"/>
+                           </td>
+                        </tr>
+                     </tbody>
+                  </table>
+                  <paragraph>This table was produced based on the observed data from all randomized subjects who did not have major protocol violations. The treatment differences and two-sided CIs for comparing Rhopressa QD vs Timolol BID 0.5% were based on Analysis of Covariance (ANCOVA) adjusted for baseline IOP.</paragraph>
+               </text>
+               <effectiveTime value="20240920"/>
+               <component>
+                  <observationMedia ID="ID_09a0c27e-dfaf-434b-b7d6-cbbb020cf280">
+                     <text> Study 301:  Subjects with Baseline IOP &lt; 25 mmHg</text>
+                     <value mediaType="image/jpeg" xsi:type="ED">
+                        <reference value="image-01.jpg"/>
+                     </value>
+                  </observationMedia>
+               </component>
+               <component>
+                  <observationMedia ID="AB9901AA-F9A5-4768-AA2C-00270FBC40DE">
+                     <text> Study 301:  Subjects with Baseline IOP &gt;= 25 and &lt; 27 mmHg</text>
+                     <value mediaType="image/jpeg" xsi:type="ED">
+                        <reference value="image-02.jpg"/>
+                     </value>
+                  </observationMedia>
+               </component>
+               <component>
+                  <observationMedia ID="ID_402e7b4e-d74a-4c02-bbd4-bbf4149ebdad">
+                     <text>Study 302: Subjects with Baseline IOP &lt; 25 mmHg</text>
+                     <value mediaType="image/jpeg" xsi:type="ED">
+                        <reference value="image-03.jpg"/>
+                     </value>
+                  </observationMedia>
+               </component>
+               <component>
+                  <observationMedia ID="ID_166189cb-af7e-4f55-b7d9-3edd2b026e27">
+                     <text>Study 302: Subjects with Baseline IOP &gt;= 25 and &lt; 27 mmHg</text>
+                     <value mediaType="image/jpeg" xsi:type="ED">
+                        <reference value="image-04.jpg"/>
+                     </value>
+                  </observationMedia>
+               </component>
+               <component>
+                  <observationMedia ID="DBCD3621-7FA6-4FAB-96CE-D8FDBBF1E066">
+                     <text>Study 304: Subjects with Baseline IOP &lt; 25 mmHg</text>
+                     <value mediaType="image/jpeg" xsi:type="ED">
+                        <reference value="image-05.jpg"/>
+                     </value>
+                  </observationMedia>
+               </component>
+               <component>
+                  <observationMedia ID="ID_6f5e6a5f-777c-447f-8e0b-f3ce23a9214c">
+                     <text>Study 304: Subjects with Baseline IOP &gt;= 25 and &lt; 30 mmHg</text>
+                     <value mediaType="image/jpeg" xsi:type="ED">
+                        <reference value="image-06.jpg"/>
+                     </value>
+                  </observationMedia>
+               </component>
+            </section>
+         </component>
+         <component>
+            <section ID="ID_424f277c-40f8-473e-9806-7ac8df5f74b1">
+               <id root="1ff1a8f7-9632-4944-9705-0ce12e33baf4"/>
+               <code code="34069-5" codeSystem="2.16.840.1.113883.6.1" displayName="HOW SUPPLIED SECTION"/>
+               <title>16 HOW SUPPLIED/STORAGE AND HANDLING </title>
+               <text>
+                  <paragraph>RHOPRESSA<sup>®</sup> (netarsudil ophthalmic solution) 0.02% (0.2 mg per mL) is supplied sterile in opaque white low density polyethylene bottles and tips with white polypropylene caps.</paragraph>
+                  <paragraph>2.5 mL fill in a 4 mL container<br/>NDC # 70727-497-25</paragraph>
+                  <paragraph>Storage: Store at 2°C to 8°C (36°F to 46°F) until opened. After opening, the product may be kept at 2°C to 25°C (36°F to 77°F) for up to 6 weeks. If after opening the product is kept refrigerated at 2°C to 8°C (36°F to 46°F), then the product can be used until the expiration date stamped on the bottle. During shipment, the bottle may be maintained at temperatures up to 40°C (104°F) for a period not exceeding 14 days.</paragraph>
+               </text>
+               <effectiveTime value="20190325"/>
+            </section>
+         </component>
+         <component>
+            <section ID="ID_db53491e-0bf8-4cf0-9247-53b4b443be40">
+               <id root="d9e09f9a-1859-4b6a-a551-210047a9d48a"/>
+               <code code="34076-0" codeSystem="2.16.840.1.113883.6.1" displayName="INFORMATION FOR PATIENTS SECTION"/>
+               <title>17 PATIENT COUNSELING INFORMATION </title>
+               <text>
+                  <paragraph>
+                     <content styleCode="underline">Handling the Container</content>
+                  </paragraph>
+                  <paragraph>Instruct patients to avoid allowing the tip of the dispensing container to contact the eye, surrounding structures, fingers, or any other surface in order to minimize contamination of the solution. Serious damage to the eye and subsequent loss of vision may result from using contaminated solutions <content styleCode="italics">[see Warnings and Precautions (<linkHtml href="#ID_473d3365-ce84-4fcf-a7db-73b261156304">5.2</linkHtml>)].</content>
+                  </paragraph>
+                  <paragraph>
+                     <content styleCode="underline">When to Seek Physician Advice</content>
+                  </paragraph>
+                  <paragraph>Advise patients that if they develop an intercurrent ocular condition (e.g., trauma, infection, or decreased vision with or without eye pain), have ocular surgery, or develop any ocular reactions, particularly conjunctivitis and eyelid reactions, they should immediately seek their physician’s advice concerning the continued use of RHOPRESSA.</paragraph>
+                  <paragraph>
+                     <content styleCode="underline">Use with Contact Lenses</content>
+                  </paragraph>
+                  <paragraph>Advise patients that RHOPRESSA contains benzalkonium chloride, which may be absorbed by soft contact lenses. Contact lenses should be removed prior to instillation of RHOPRESSA and may be reinserted 15 minutes following its administration.</paragraph>
+                  <paragraph>
+                     <content styleCode="underline">Use with Other Ophthalmic Drugs</content>
+                  </paragraph>
+                  <paragraph>Advise patients that if more than one topical ophthalmic drug is being used, the drugs should be administered at least 5 minutes between applications.</paragraph>
+                  <paragraph>
+                     <content styleCode="underline">Missed Dose</content>
+                  </paragraph>
+                  <paragraph>Advise patients that if one dose is missed, treatment should continue with the next dose in the evening.</paragraph>
+                  <paragraph>@ 2024 Alcon Inc.</paragraph>
+                  <paragraph>U.S. Pat.: <linkHtml href="https://www.alconpatents.com">www.alconpatents.com</linkHtml>
+                     <br/>Manufactured for: ALCON LABORATORIES, INC. <br/>6201 South Freeway Fort Worth,<br/>Texas 76134 USA<br/> 1-800-757-9195<br/> Alcon.medinfo@alcon.com</paragraph>
+               </text>
+               <effectiveTime value="20240923"/>
+            </section>
+         </component>
+         <component>
+            <section ID="ID_f3bfccf6-649d-4776-b2c6-97ff4d4577d6">
+               <id root="5926f838-bd73-4503-a8a2-0625649d6996"/>
+               <code code="51945-4" codeSystem="2.16.840.1.113883.6.1" displayName="PACKAGE LABEL.PRINCIPAL DISPLAY PANEL"/>
+               <title>PACKAGE/LABEL PRINCIPAL DISPLAY PANEL </title>
+               <text>
+                  <paragraph>
+                     <content styleCode="bold">NDC</content> 70727-497-25<br/>
+                     <br/>
+                     <content styleCode="bold">rhopressa</content>
+                     <sup>®</sup>
+                     <br/>
+                     <content styleCode="bold">     </content>(netarsudil ophthalmic <br/>      solution) 0.02% <br/>
+                     <br/>
+                     <content styleCode="bold">For topical application <br/>in the eye </content>
+                     <br/>
+                     <br/>
+                     <content styleCode="bold">Sterile <br/>Rx only</content>
+                     <br/>
+                     <br/>
+                     <content styleCode="bold">2.5 mL<br/>
+                        <br/>Alcon<br/>
+                        <br/>Usual dosage: <br/>
+                     </content>One drop in the affected <br/>eye(s) once daily in the<br/>evening.<br/>
+                     <br/>Each mL Rhopressa<sup>®</sup>
+                     <br/>ophthalmic solution contains:<br/>
+                     <content styleCode="bold">Active:</content> netarsudil mesylate<br/> 0.285 mg<br/>
+                     <content styleCode="bold">Preservative:</content>
+                     <br/>benzalkonium chloride <br/>0.15 mg<br/>
+                     <content styleCode="bold">Inactives:</content> mannitol, boric <br/>acid, sodium hydroxide to <br/>adjust pH and water for<br/> injection.<br/>
+                     <br/>Manufactured for:<br/>ALCON LABORATORIES, INC.<br/>Fort Worth, TX 76134 USA<br/>
+                     <br/>U.S. Pat: www.alconpatents.com<br/>
+                     <br/>Store at 2°C - 8°C <br/>(36°F - 46°F) until opened.<br/> After opening, the product <br/>may be kept at 2°C - 25°C<br/> (36°F - 77°F) for up to 6 <br/>weeks. If after opening the<br/> product is kept refrigerated at<br/> 2°C - 8°C (36°F - 46°F), then<br/> the product can be used until<br/> the expiration date stamped<br/> on the bottle. During <br/>shipment, the bottle may be<br/> maintained at temperatures<br/> up to 40°C (104°F) for a<br/> period not exceeding 14 days.<br/>
+                     <br/>   41079</paragraph>
+                  <renderMultiMedia ID="id-110133291" referencedObject="ID_7ccf4b6c-2656-46d7-a89d-f1ed984bd4ee"/>
+                  <paragraph>
+                     <content styleCode="bold">NDC</content> 70727-497-25       <content styleCode="bold">For topical application in the eye.</content>
+                     <br/>
+                     <br/>
+                     <content styleCode="bold">rhopressa</content>
+                     <sup>®</sup>
+                     <br/>(netarsudil ophthalmic<br/>      solution) 0.02%<br/>
+                     <br/>
+                     <content styleCode="bold">Rx only</content>
+                     <br/>
+                     <content styleCode="bold">Sterile </content>
+                     <br/>
+                     <br/>
+                     <content styleCode="bold">2.5 mL                    Alcon                    </content>41077  <br/>
+                     <br/>See carton for storage conditions.<br/>Manufactured for:<br/>Alcon Laboratories, Inc.<br/>Fort Worth, TX 76134<br/>
+                     <br/>
+                     <br/>LOT:<br/>EXP:</paragraph>
+                  <renderMultiMedia referencedObject="MM88267"/>
+               </text>
+               <effectiveTime value="20240924"/>
+               <component>
+                  <observationMedia ID="ID_7ccf4b6c-2656-46d7-a89d-f1ed984bd4ee">
+                     <text>Rhopressa (netarsudil ophthalmic solution) 0.02% trade carton label</text>
+                     <value mediaType="image/jpeg" xsi:type="ED">
+                        <reference value="carton-25.jpg"/>
+                     </value>
+                  </observationMedia>
+               </component>
+            </section>
+         </component>
+         <component>
+            <section ID="ID_7306709c-2f1d-4a6b-a179-69d6daa45b1e">
+               <id root="d7d9ad06-d273-4cbc-89c8-335c3e0dd39a"/>
+               <code code="51945-4" codeSystem="2.16.840.1.113883.6.1" displayName="PACKAGE LABEL.PRINCIPAL DISPLAY PANEL"/>
+               <title>PACKAGE/LABEL PRINCIPAL DISPLAY PANEL </title>
+               <text>
+                  <paragraph>NDC 70727-497-99<br/>
+                     <br/>
+                     <content styleCode="bold">SAMPLE - Not for Resale</content>
+                     <br/>
+                     <br/>
+                     <content styleCode="bold">rhopressa</content>
+                     <sup>®</sup>
+                     <br/>(netarsudil ophthalmic<br/>      solution) 0.02%<br/>
+                     <br/>
+                     <content styleCode="bold">For topical application in the eye</content>
+                     <br/>
+                     <br/>
+                     <content styleCode="bold">Sterile Rx only</content>
+                     <br/>
+                     <br/>
+                     <content styleCode="bold">2.5 mL <br/>
+                        <br/>Alcon <br/>
+                        <br/>Usual dosage: <br/>
+                     </content>One drop in the affected<br/>eye(s) once daily in the<br/>evening.<br/>
+                     <br/>Each mL Rhopressa<sup>®</sup>
+                     <br/>ophthalmic solution contains:<br/>
+                     <content styleCode="bold">Active:</content> netarsudil mesylate<br/>0.285 mg<br/>
+                     <content styleCode="bold">Preservative:</content>
+                     <br/>benzalkonium chloride<br/>0.15 mg<br/>
+                     <content styleCode="bold">Inactives:</content> mannitol, boric<br/>acid, sodium hydroxide to<br/>adjust pH and water for<br/>injection.<br/>
+                     <br/>Manufactured for:<br/>ALCON LABORATORIES, INC.<br/>Fort Worth, TX 76134 USA<br/>
+                     <br/>U.S. Pat: www.alconpatents.com<br/>
+                     <br/>Store at 2°C - 8°C<br/>(36°F - 46°F) until opened.<br/>After opening, the product<br/>may be kept at 2°C - 25°C<br/>(36°F - 77°F) for up to 6<br/>weeks. If after opening the<br/>product is kept refrigerated at<br/>2°C - 8°C (36°F - 46°F), then<br/>the product can be used until<br/>the expiration date stamped<br/>on the bottle. During <br/>shipment, the bottle may be<br/>maintained at temperatures<br/>up to 40°C (104°F) for a<br/>period not exceeding 14 days.<br/>
+                     <br/>41080</paragraph>
+                  <renderMultiMedia ID="id-2131080713" referencedObject="ID_07139931-09dd-4f46-909c-2ed86ce237d8"/>
+                  <paragraph>
+                     <content styleCode="bold">NDC</content> 70727-497-25   <content styleCode="bold">SAMPLE - Not for Resale</content>    <content styleCode="bold">For topical application in the eye.</content>
+                     <br/>
+                     <br/>
+                     <content styleCode="bold">rhopressa</content>
+                     <sup>®</sup>
+                     <br/>(netarsudil ophthalmic<br/>      solution) 0.02%<br/>
+                     <br/>
+                     <content styleCode="bold">Rx only</content>
+                     <br/>
+                     <content styleCode="bold">Sterile </content>
+                     <br/>
+                     <br/>
+                     <content styleCode="bold">2.5 mL                    Alcon                    </content>41078<br/>
+                     <br/>See carton for<br/> storage conditions.<br/>Manufactured for:<br/>Alcon Laboratories, Inc.<br/>Fort Worth, TX 76134<br/>
+                     <br/>
+                     <br/>LOT:<br/>EXP: </paragraph>
+                  <renderMultiMedia referencedObject="MM88268"/>
+               </text>
+               <effectiveTime value="20240924"/>
+               <component>
+                  <observationMedia ID="ID_07139931-09dd-4f46-909c-2ed86ce237d8">
+                     <text>Rhopressa (netarsudil ophthalmic solution) 0.02% sample carton label</text>
+                     <value mediaType="image/jpeg" xsi:type="ED">
+                        <reference value="carton-99.jpg"/>
+                     </value>
+                  </observationMedia>
+               </component>
+            </section>
+         </component>
+      </structuredBody>
+   </component>
+</document>

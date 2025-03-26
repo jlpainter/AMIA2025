@@ -1,0 +1,1130 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet href="https://www.accessdata.fda.gov/spl/stylesheet/spl.xsl" type="text/xsl"?>
+<document xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:hl7-org:v3" xsi:schemaLocation="urn:hl7-org:v3 https://www.accessdata.fda.gov/spl/schema/spl.xsd">
+   <id root="ffe62883-85a4-6e94-e053-6294a90ac61f"/>
+   <code code="34391-3" codeSystem="2.16.840.1.113883.6.1" displayName="HUMAN PRESCRIPTION DRUG LABEL"/>
+   <title>These highlights do not include all the information needed to use OMIDRIA 
+ <sup>®</sup> safely and effectively. See full prescribing information for OMIDRIA.
+ <br/>
+      <br/>
+      <br/>
+      <br/>
+OMIDRIA 
+ <sup>®</sup> (phenylephrine and ketorolac intraocular solution) 1% / 0.3%, for addition to ocular irrigating solution
+ <br/>
+      <br/>
+      <br/>
+      <br/>
+Initial U.S. Approval: 2014
+</title>
+   <effectiveTime value="20230707"/>
+   <setId root="f25d7a42-da2a-7310-e053-2995a90a590f"/>
+   <versionNumber value="2"/>
+   <author>
+      <time/>
+      <assignedEntity>
+         <representedOrganization>
+            <id root="1.3.6.1.4.1.519.1" extension="118502278"/>
+            <name>Rayner Surgical Inc.</name>
+            <assignedEntity>
+               <assignedOrganization>
+                  <assignedEntity>
+                     <assignedOrganization>
+                        <id root="1.3.6.1.4.1.519.1" extension="079415560"/>
+                        <name>Patheon Manufacturing Services LLC</name>
+                     </assignedOrganization>
+                     <performance>
+                        <actDefinition>
+                           <code code="C43360" displayName="manufacture" codeSystem="2.16.840.1.113883.3.26.1.1"/>
+                           <product>
+                              <manufacturedProduct classCode="MANU">
+                                 <manufacturedMaterialKind>
+                                    <code code="82604-600" codeSystem="2.16.840.1.113883.6.69"/>
+                                 </manufacturedMaterialKind>
+                              </manufacturedProduct>
+                           </product>
+                        </actDefinition>
+                     </performance>
+                  </assignedEntity>
+                  <assignedEntity>
+                     <assignedOrganization>
+                        <id root="1.3.6.1.4.1.519.1" extension="093132819"/>
+                        <name>Hospira</name>
+                     </assignedOrganization>
+                     <performance>
+                        <actDefinition>
+                           <code code="C43360" displayName="manufacture" codeSystem="2.16.840.1.113883.3.26.1.1"/>
+                           <product>
+                              <manufacturedProduct classCode="MANU">
+                                 <manufacturedMaterialKind>
+                                    <code code="82604-600" codeSystem="2.16.840.1.113883.6.69"/>
+                                 </manufacturedMaterialKind>
+                              </manufacturedProduct>
+                           </product>
+                        </actDefinition>
+                     </performance>
+                  </assignedEntity>
+               </assignedOrganization>
+            </assignedEntity>
+         </representedOrganization>
+      </assignedEntity>
+   </author>
+   <component>
+      <structuredBody>
+         <component>
+            <section>
+               <id root="ffe6353f-a48f-e54f-e053-6294a90a8c33"/>
+               <code code="48780-1" codeSystem="2.16.840.1.113883.6.1" displayName="SPL product data elements section"/>
+               <effectiveTime value="20230707"/>
+               <subject>
+                  <manufacturedProduct>
+                     <manufacturedProduct>
+                        <code code="82604-600" codeSystem="2.16.840.1.113883.6.69"/>
+                        <name>Omidria</name>
+                        <formCode code="C42899" codeSystem="2.16.840.1.113883.3.26.1.1" displayName="INJECTION, SOLUTION, CONCENTRATE"/>
+                        <asEntityWithGeneric>
+                           <genericMedicine>
+                              <name>phenylephrine and ketorolac</name>
+                           </genericMedicine>
+                        </asEntityWithGeneric>
+                        <ingredient classCode="IACT">
+                           <ingredientSubstance>
+                              <code code="B22547B95K" codeSystem="2.16.840.1.113883.4.9"/>
+                              <name>TRISODIUM CITRATE DIHYDRATE</name>
+                           </ingredientSubstance>
+                        </ingredient>
+                        <ingredient classCode="IACT">
+                           <ingredientSubstance>
+                              <code code="059QF0KO0R" codeSystem="2.16.840.1.113883.4.9"/>
+                              <name>WATER</name>
+                           </ingredientSubstance>
+                        </ingredient>
+                        <ingredient classCode="IACT">
+                           <ingredientSubstance>
+                              <code code="2968PHW8QP" codeSystem="2.16.840.1.113883.4.9"/>
+                              <name>CITRIC ACID MONOHYDRATE</name>
+                           </ingredientSubstance>
+                        </ingredient>
+                        <ingredient classCode="ACTIB">
+                           <quantity>
+                              <numerator unit="mg" value="10.16"/>
+                              <denominator unit="mL" value="1"/>
+                           </quantity>
+                           <ingredientSubstance>
+                              <code code="1WS297W6MV" codeSystem="2.16.840.1.113883.4.9"/>
+                              <name>PHENYLEPHRINE
+</name>
+                              <activeMoiety>
+                                 <activeMoiety>
+                                    <code code="1WS297W6MV" codeSystem="2.16.840.1.113883.4.9"/>
+                                    <name>PHENYLEPHRINE</name>
+                                 </activeMoiety>
+                              </activeMoiety>
+                           </ingredientSubstance>
+                        </ingredient>
+                        <ingredient classCode="ACTIB">
+                           <quantity>
+                              <numerator unit="mg" value="2.88"/>
+                              <denominator unit="mL" value="1"/>
+                           </quantity>
+                           <ingredientSubstance>
+                              <code code="YZI5105V0L" codeSystem="2.16.840.1.113883.4.9"/>
+                              <name>KETOROLAC
+</name>
+                              <activeMoiety>
+                                 <activeMoiety>
+                                    <code code="YZI5105V0L" codeSystem="2.16.840.1.113883.4.9"/>
+                                    <name>KETOROLAC</name>
+                                 </activeMoiety>
+                              </activeMoiety>
+                           </ingredientSubstance>
+                        </ingredient>
+                        <asContent>
+                           <quantity>
+                              <numerator value="4" unit="mL"/>
+                              <denominator value="1"/>
+                           </quantity>
+                           <containerPackagedProduct>
+                              <code/>
+                              <formCode code="C43226" codeSystem="2.16.840.1.113883.3.26.1.1" displayName="VIAL"/>
+                              <asContent>
+                                 <quantity>
+                                    <numerator value="1" unit="1"/>
+                                    <denominator value="1"/>
+                                 </quantity>
+                                 <containerPackagedProduct>
+                                    <code code="82604-600-00" codeSystem="2.16.840.1.113883.6.69"/>
+                                    <formCode code="C43182" codeSystem="2.16.840.1.113883.3.26.1.1" displayName="CARTON"/>
+                                 </containerPackagedProduct>
+                                 <subjectOf>
+                                    <marketingAct>
+                                       <code code="C53292" codeSystem="2.16.840.1.113883.3.26.1.1"/>
+                                       <statusCode code="active"/>
+                                       <effectiveTime>
+                                          <low value="20230701"/>
+                                       </effectiveTime>
+                                    </marketingAct>
+                                 </subjectOf>
+                              </asContent>
+                           </containerPackagedProduct>
+                           <subjectOf>
+                              <characteristic>
+                                 <code code="SPLCMBPRDTP" codeSystem="2.16.840.1.113883.1.11.19255"/>
+                                 <value code="C112160" codeSystem="2.16.840.1.113883.3.26.1.1" displayName="Type 0: Not a Combination Product" xsi:type="CV"/>
+                              </characteristic>
+                           </subjectOf>
+                        </asContent>
+                        <asContent>
+                           <quantity>
+                              <numerator value="4" unit="mL"/>
+                              <denominator value="1"/>
+                           </quantity>
+                           <containerPackagedProduct>
+                              <code/>
+                              <formCode code="C43226" codeSystem="2.16.840.1.113883.3.26.1.1" displayName="VIAL"/>
+                              <asContent>
+                                 <quantity>
+                                    <numerator value="4" unit="1"/>
+                                    <denominator value="1"/>
+                                 </quantity>
+                                 <containerPackagedProduct>
+                                    <code code="82604-600-04" codeSystem="2.16.840.1.113883.6.69"/>
+                                    <formCode code="C43182" codeSystem="2.16.840.1.113883.3.26.1.1" displayName="CARTON"/>
+                                 </containerPackagedProduct>
+                                 <subjectOf>
+                                    <marketingAct>
+                                       <code code="C53292" codeSystem="2.16.840.1.113883.3.26.1.1"/>
+                                       <statusCode code="active"/>
+                                       <effectiveTime>
+                                          <low value="20230701"/>
+                                       </effectiveTime>
+                                    </marketingAct>
+                                 </subjectOf>
+                              </asContent>
+                           </containerPackagedProduct>
+                           <subjectOf>
+                              <characteristic>
+                                 <code code="SPLCMBPRDTP" codeSystem="2.16.840.1.113883.1.11.19255"/>
+                                 <value code="C112160" codeSystem="2.16.840.1.113883.3.26.1.1" displayName="Type 0: Not a Combination Product" xsi:type="CV"/>
+                              </characteristic>
+                           </subjectOf>
+                        </asContent>
+                        <asContent>
+                           <quantity>
+                              <numerator value="4" unit="mL"/>
+                              <denominator value="1"/>
+                           </quantity>
+                           <containerPackagedProduct>
+                              <code/>
+                              <formCode code="C43226" codeSystem="2.16.840.1.113883.3.26.1.1" displayName="VIAL"/>
+                              <asContent>
+                                 <quantity>
+                                    <numerator value="4" unit="1"/>
+                                    <denominator value="1"/>
+                                 </quantity>
+                                 <containerPackagedProduct>
+                                    <code code="82604-600-99" codeSystem="2.16.840.1.113883.6.69"/>
+                                    <formCode code="C43182" codeSystem="2.16.840.1.113883.3.26.1.1" displayName="CARTON"/>
+                                 </containerPackagedProduct>
+                                 <subjectOf>
+                                    <marketingAct>
+                                       <code code="C96974" codeSystem="2.16.840.1.113883.3.26.1.1"/>
+                                       <statusCode code="active"/>
+                                       <effectiveTime>
+                                          <low value="20230701"/>
+                                       </effectiveTime>
+                                    </marketingAct>
+                                 </subjectOf>
+                              </asContent>
+                           </containerPackagedProduct>
+                           <subjectOf>
+                              <characteristic>
+                                 <code code="SPLCMBPRDTP" codeSystem="2.16.840.1.113883.1.11.19255"/>
+                                 <value code="C112160" codeSystem="2.16.840.1.113883.3.26.1.1" displayName="Type 0: Not a Combination Product" xsi:type="CV"/>
+                              </characteristic>
+                           </subjectOf>
+                        </asContent>
+                     </manufacturedProduct>
+                     <subjectOf>
+                        <approval>
+                           <id extension="NDA205388" root="2.16.840.1.113883.3.150"/>
+                           <code code="C73594" codeSystem="2.16.840.1.113883.3.26.1.1" displayName="NDA"/>
+                           <author>
+                              <territorialAuthority>
+                                 <territory>
+                                    <code code="USA" codeSystem="2.16.840.1.113883.5.28"/>
+                                 </territory>
+                              </territorialAuthority>
+                           </author>
+                        </approval>
+                     </subjectOf>
+                     <subjectOf>
+                        <marketingAct>
+                           <code code="C53292" codeSystem="2.16.840.1.113883.3.26.1.1"/>
+                           <statusCode code="active"/>
+                           <effectiveTime>
+                              <low value="20230701"/>
+                           </effectiveTime>
+                        </marketingAct>
+                     </subjectOf>
+                     <consumedIn>
+                        <substanceAdministration>
+                           <routeCode code="C38255" codeSystem="2.16.840.1.113883.3.26.1.1" displayName="INTRAOCULAR"/>
+                        </substanceAdministration>
+                     </consumedIn>
+                  </manufacturedProduct>
+               </subject>
+            </section>
+         </component>
+         <component>
+            <section ID="s2">
+               <id root="f9be0658-2d13-24aa-e053-6294a90ab548"/>
+               <code code="34067-9" codeSystem="2.16.840.1.113883.6.1" displayName="INDICATIONS &amp; USAGE SECTION"/>
+               <title>1 INDICATIONS AND USAGE</title>
+               <text>
+                  <paragraph>Omidria 
+  <sup>®</sup> is added to an ocular irrigating solution used during cataract surgery or intraocular lens replacement and is indicated for maintaining pupil size by preventing intraoperative miosis and reducing postoperative ocular pain.
+ </paragraph>
+               </text>
+               <effectiveTime value="20230420"/>
+               <excerpt>
+                  <highlight>
+                     <text>
+                        <paragraph>OMIDRIA is an alpha 1-adrenergic receptor agonist and nonselective cyclooxygenase inhibitor indicated for:</paragraph>
+                        <list listType="unordered" styleCode="Disc">
+                           <item>Maintaining pupil size by preventing intraoperative miosis ( 
+     <linkHtml href="#s2">1</linkHtml>)
+    </item>
+                           <item>Reducing postoperative pain ( 
+     <linkHtml href="#s2">1</linkHtml>)
+    </item>
+                        </list>
+                        <paragraph>OMIDRIA is added to an ocular irrigating solution used during cataract surgery or intraocular lens replacement.</paragraph>
+                     </text>
+                  </highlight>
+               </excerpt>
+            </section>
+         </component>
+         <component>
+            <section ID="s3">
+               <id root="f9be0248-abd5-2b44-e053-6294a90a52a1"/>
+               <code code="34068-7" codeSystem="2.16.840.1.113883.6.1" displayName="DOSAGE &amp; ADMINISTRATION SECTION"/>
+               <title>2 DOSAGE AND ADMINISTRATION</title>
+               <text>
+                  <paragraph>Omidria must be diluted prior to intraocular use. For administration to patients undergoing cataract surgery or intraocular lens replacement, 4 mL of Omidria is diluted in 500 mL of ocular irrigating solution. Irrigation solution is to be used as needed for the surgical procedure for a single patient.</paragraph>
+                  <paragraph>The storage period for the diluted product is not more than 4 hours at room temperature or 24 hours under refrigerated conditions.</paragraph>
+                  <paragraph>Do not use if the solution is cloudy or if it contains particulate matter.</paragraph>
+               </text>
+               <effectiveTime value="20230420"/>
+               <excerpt>
+                  <highlight>
+                     <text>
+                        <list listType="unordered" styleCode="Disc">
+                           <item>Each vial of OMIDRIA must be diluted prior to use for administration to a single patient undergoing cataract surgery or intraocular lens replacement.</item>
+                           <item>Dilute 4 mL of OMIDRIA in 500 mL of ocular irrigating solution. Irrigation solution is to be used as needed for the surgical procedure. ( 
+     <linkHtml href="#s3">2</linkHtml>)
+    </item>
+                        </list>
+                     </text>
+                  </highlight>
+               </excerpt>
+            </section>
+         </component>
+         <component>
+            <section ID="s4">
+               <id root="f9be0658-2d12-24aa-e053-6294a90ab548"/>
+               <code code="43678-2" codeSystem="2.16.840.1.113883.6.1" displayName="DOSAGE FORMS &amp; STRENGTHS SECTION"/>
+               <title>3 DOSAGE FORMS AND STRENGTHS</title>
+               <text>
+                  <paragraph>Omidria is an intraocular solution containing 10.16 mg/mL (1% w/v) of phenylephrine and 2.88 mg/mL (0.3% w/v) of ketorolac for use in a single patient.</paragraph>
+               </text>
+               <effectiveTime value="20230420"/>
+               <excerpt>
+                  <highlight>
+                     <text>
+                        <paragraph>Intraocular solution containing phenylephrine 10.16 mg/mL (1%) and ketorolac 2.88 mg/mL (0.3%) for use in a single patient. ( 
+    <linkHtml href="#s4">3</linkHtml>)
+   </paragraph>
+                     </text>
+                  </highlight>
+               </excerpt>
+            </section>
+         </component>
+         <component>
+            <section ID="s5">
+               <id root="f9be0ade-0487-44bf-e053-6394a90a0043"/>
+               <code code="34070-3" codeSystem="2.16.840.1.113883.6.1" displayName="CONTRAINDICATIONS SECTION"/>
+               <title>4 CONTRAINDICATIONS</title>
+               <text>
+                  <paragraph>Omidria is contraindicated in patients with a known hypersensitivity to any of its ingredients.</paragraph>
+               </text>
+               <effectiveTime value="20230420"/>
+               <excerpt>
+                  <highlight>
+                     <text>
+                        <paragraph>Hypersensitivity to any component of this product ( 
+    <linkHtml href="#s5">4</linkHtml>)
+   </paragraph>
+                     </text>
+                  </highlight>
+               </excerpt>
+            </section>
+         </component>
+         <component>
+            <section ID="id_link_f9aba89b-17c2-3067-e053-6394a90aa759">
+               <id root="f9be0f45-3b7f-24a7-e053-6294a90a3639"/>
+               <code code="43685-7" codeSystem="2.16.840.1.113883.6.1" displayName="WARNINGS AND PRECAUTIONS SECTION"/>
+               <title>5 WARNINGS AND PRECAUTIONS</title>
+               <effectiveTime value="20230420"/>
+               <excerpt>
+                  <highlight>
+                     <text>
+                        <paragraph>Systemic exposure to phenylephrine can cause elevations in blood pressure (
+    <linkHtml href="#id_link_f9abdb8a-8d8b-88a3-e053-6394a90a804f">5.1</linkHtml>).
+   </paragraph>
+                     </text>
+                  </highlight>
+               </excerpt>
+               <component>
+                  <section ID="id_link_f9abdb8a-8d8b-88a3-e053-6394a90a804f">
+                     <id root="f9be0658-2d10-24aa-e053-6294a90ab548"/>
+                     <code code="42229-5" codeSystem="2.16.840.1.113883.6.1" displayName="SPL UNCLASSIFIED SECTION"/>
+                     <title>5.1 Elevated Blood Pressure</title>
+                     <text>
+                        <paragraph>Systemic exposure to phenylephrine can cause elevations in blood pressure.</paragraph>
+                     </text>
+                     <effectiveTime value="20230420"/>
+                  </section>
+               </component>
+               <component>
+                  <section ID="id_link_f9abefe3-b1c0-afa5-e053-6394a90a9f5c">
+                     <id root="f9be0658-2d0f-24aa-e053-6294a90ab548"/>
+                     <code code="42229-5" codeSystem="2.16.840.1.113883.6.1" displayName="SPL UNCLASSIFIED SECTION"/>
+                     <title>5.2 Cross-Sensitivity or Hypersensitivity</title>
+                     <text>
+                        <paragraph>There is the potential for cross-sensitivity to acetylsalicylic acid, phenylacetic acid derivatives, and other non-steroidal anti- inflammatory drugs (NSAIDs). There have been reports of bronchospasm or exacerbation of asthma associated with the use of ketorolac in patien ts who either have a known hypersensitivity to aspirin/NSAIDs or a past medical history of asthma. Therefore, use Omidria with caution in individuals who have previously exhibited sensitivities to these drugs.</paragraph>
+                     </text>
+                     <effectiveTime value="20230420"/>
+                  </section>
+               </component>
+            </section>
+         </component>
+         <component>
+            <section ID="s9">
+               <id root="f9be0ade-0486-44bf-e053-6394a90a0043"/>
+               <code code="34084-4" codeSystem="2.16.840.1.113883.6.1" displayName="ADVERSE REACTIONS SECTION"/>
+               <title>6 ADVERSE REACTIONS</title>
+               <effectiveTime value="20230420"/>
+               <excerpt>
+                  <highlight>
+                     <text>
+                        <paragraph>The most common reported adverse reactions (≥2%) are eye irritation, posterior capsule opacification, increased intraocular pressure, and anterior chamber inflammation. ( 
+    <linkHtml href="#s10">6.1</linkHtml>)
+   </paragraph>
+                        <paragraph>
+                           <content styleCode="bold">To report SUSPECTED ADVERSE REACTIONS, contact Rayner Surgical Inc. at 1-877-0MIDRIA or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch.</content>
+                        </paragraph>
+                     </text>
+                  </highlight>
+               </excerpt>
+               <component>
+                  <section ID="s10">
+                     <id root="f9be0658-2d0e-24aa-e053-6294a90ab548"/>
+                     <code code="42229-5" codeSystem="2.16.840.1.113883.6.1" displayName="SPL UNCLASSIFIED SECTION"/>
+                     <title>6.1 Clinical Studies Experience</title>
+                     <text>
+                        <paragraph>Because clinical studies are conducted under widely varying conditions, adverse reaction rates observed in the clinical studies of a drug cannot be directly compared to the rates in the clinical studies of another drug and may not reflect the rates observed in practice.</paragraph>
+                        <paragraph>
+                           <linkHtml href="#t1">Table 1</linkHtml> shows frequently reported ocular adverse reactions with an incidence of ≥ 2% of adult patients as seen in the combined clinical trial results from three randomized, placebo-controlled studies 
+  <content styleCode="italics">[see Clinical Studies ( 
+   <linkHtml href="#s27">14</linkHtml>)] 
+  </content>.
+ </paragraph>
+                        <table width="100%" ID="t1">
+                           <caption>Table 1: Ocular Adverse Reactions Reported by ≥ 2% of Adult Patients</caption>
+                           <colgroup>
+                              <col align="left" width="51.200%"/>
+                              <col align="left" width="24.400%"/>
+                              <col align="left" width="24.400%"/>
+                           </colgroup>
+                           <tbody>
+                              <tr>
+                                 <td align="left" styleCode="Toprule Botrule" valign="bottom">
+                                    <content styleCode="bold">MedDRA Preferred Term</content>
+                                 </td>
+                                 <td align="center" styleCode="Toprule Botrule" valign="top">
+                                    <content styleCode="bold">Placebo
+      <br/>
+                                       <br/>
+			(N=462) 
+     </content>
+                                 </td>
+                                 <td align="center" styleCode="Toprule Botrule" valign="top">
+                                    <content styleCode="bold">Omidria
+      <br/>
+                                       <br/>
+			(N=459) 
+     </content>
+                                 </td>
+                              </tr>
+                              <tr>
+                                 <td align="left" styleCode="Botrule" valign="top"/>
+                                 <td align="center" styleCode="Botrule" valign="top">n (%)</td>
+                                 <td align="center" styleCode="Botrule" valign="top">n (%)</td>
+                              </tr>
+                              <tr>
+                                 <td align="left" valign="top">
+                                    <content styleCode="bold">Ocular Events</content>
+                                 </td>
+                                 <td align="center" valign="top"/>
+                                 <td align="center" valign="top"/>
+                              </tr>
+                              <tr>
+                                 <td align="left" valign="top">Anterior Chamber Inflammation</td>
+                                 <td align="center" valign="top">102 (22%)</td>
+                                 <td align="center" valign="top">111 (24%)</td>
+                              </tr>
+                              <tr>
+                                 <td align="left" valign="top">Intraocular Pressure Increased</td>
+                                 <td align="center" valign="top">15 (3%)</td>
+                                 <td align="center" valign="top">20 (4%)</td>
+                              </tr>
+                              <tr>
+                                 <td align="left" valign="top">Posterior Capsule Opacification</td>
+                                 <td align="center" valign="top">16 (4%)</td>
+                                 <td align="center" valign="top">18 (4%)</td>
+                              </tr>
+                              <tr>
+                                 <td align="left" valign="top">Eye Irritation</td>
+                                 <td align="center" valign="top">6 (1%)</td>
+                                 <td align="center" valign="top">9 (2%)</td>
+                              </tr>
+                              <tr>
+                                 <td align="left" styleCode="Botrule" valign="top">Foreign Body Sensation in Eyes</td>
+                                 <td align="center" styleCode="Botrule" valign="top">11 (2%)</td>
+                                 <td align="center" styleCode="Botrule" valign="top">8 (2%)</td>
+                              </tr>
+                           </tbody>
+                        </table>
+                        <paragraph>In a safety study that enrolled 72 pediatric patients up to 3 years old, no overall difference in safety was observed between pediatric and adult patients.</paragraph>
+                     </text>
+                     <effectiveTime value="20230420"/>
+                  </section>
+               </component>
+            </section>
+         </component>
+         <component>
+            <section ID="s11">
+               <id root="f9be0658-2d0d-24aa-e053-6294a90ab548"/>
+               <code code="43684-0" codeSystem="2.16.840.1.113883.6.1" displayName="USE IN SPECIFIC POPULATIONS SECTION"/>
+               <title>8 USE IN SPECIFIC POPULATIONS</title>
+               <effectiveTime value="20230420"/>
+               <component>
+                  <section ID="s12">
+                     <id root="f9be0248-abd1-2b44-e053-6294a90a52a1"/>
+                     <code code="42228-7" codeSystem="2.16.840.1.113883.6.1" displayName="PREGNANCY SECTION"/>
+                     <title>8.1 Pregnancy</title>
+                     <text>
+                        <paragraph>Risk Summary
+  <br/>
+There are no available data on Omidria use in pregnant women or animals to inform
+  <br/>
+any drug-associated risks. Oral administration of ketorolac to rats during late
+  <br/>
+gestation produced dystocia and increased pup mortality at a dose 740-times the
+  <br/>
+plasma exposure at the recommended human ophthalmic dose (RHOD). Since
+  <br/>
+human systemic exposure to Omidria following a lens replacement procedure is low
+  <br/>
+(see Clinical Pharmacology (12.3)], the applicability of animal findings to the risk
+  <br/>
+of Omidria in humans during pregnancy is unclear. Omidria should be used during
+  <br/>
+pregnancy only if the potential benefit justifies the potential risk to the fetus.
+  <br/>
+Clinical Considerations
+  <br/>
+Fetal/Neonatal Adverse Reactions
+  <br/>
+Premature closure of the ductus arteriosus in the fetus has occurred with third
+  <br/>
+trimester use of oral and injectable NSAIDs. Ketorolac plasma concentrations are
+  <br/>
+detectable following ocular Omidria administration [see Clinical Pharmacology (12.3)].
+  <br/>
+The use of Omidria during late pregnancy should be avoided.
+  <br/>
+.Q.a1a
+  <br/>
+Animal Data
+  <br/>
+No well-controlled animal reproduction studies have been conducted with Omidria
+  <br/>
+or phenylephrine.
+  <br/>
+Ketorolac, administered during organogenesis, did not cause embryofetal abnormalities
+  <br/>
+or mortalities in rabbits or rats at oral doses of 3.6 mg/kg/day and 10 mg/kg/day,
+  <br/>
+respectively. These doses produced systemic exposure that is 1150 times and
+  <br/>
+4960 times the plasma exposure (based on Cma,c) at the RHOD, respectively. When
+  <br/>
+administered to rats during late gestation (after Day 17 of gestation) at oral doses
+  <br/>
+up to 1.5 mg/kg/day (740 times the plasma exposure at the RHOD), ketorolac
+  <br/>
+produced dystocia and increased pup mortality.
+ </paragraph>
+                     </text>
+                     <effectiveTime value="20230420"/>
+                     <component>
+                        <section ID="s13">
+                           <id root="f9be0248-abd0-2b44-e053-6294a90a52a1"/>
+                           <code code="42229-5" codeSystem="2.16.840.1.113883.6.1" displayName="SPL UNCLASSIFIED SECTION"/>
+                           <text>
+                              <paragraph>
+                                 <content styleCode="underline">Risk Summary</content>
+                              </paragraph>
+                              <paragraph>There are no available data on Omidria use in pregnant women or animals to inform any drug-associated risks. Oral administration of ketorolac to rats during late gestation produced dystocia and increased pup mortality at a dose 740-times the plasma exposure at the recommended human ophthalmic dose (RHOD). Since human systemic exposure to Omidria following a lens replacement procedure is low [ 
+  <content styleCode="italics">see Clinical Pharmacology ( 
+   <linkHtml href="#s26">12.3</linkHtml>) 
+  </content>], the applicability of animal findings to the risk of Omidria in humans during pregnancy is unclear. Omidria should be used during pregnancy only if the potential benefit justifies the potential risk to the fetus.
+ </paragraph>
+                           </text>
+                           <effectiveTime value="20230420"/>
+                        </section>
+                     </component>
+                     <component>
+                        <section ID="s14">
+                           <id root="f25d793c-fe0e-51a9-e053-2995a90af5a1"/>
+                           <code code="42229-5" codeSystem="2.16.840.1.113883.6.1" displayName="SPL UNCLASSIFIED SECTION"/>
+                           <text>
+                              <paragraph>
+                                 <content styleCode="underline">Clinical Considerations</content>
+                              </paragraph>
+                           </text>
+                           <effectiveTime value="20171211"/>
+                           <component>
+                              <section ID="s15">
+                                 <id root="f25d793c-fe0f-51a9-e053-2995a90af5a1"/>
+                                 <code code="42229-5" codeSystem="2.16.840.1.113883.6.1" displayName="SPL UNCLASSIFIED SECTION"/>
+                                 <text>
+                                    <paragraph>
+                                       <content styleCode="italics">Fetal/Neonatal Adverse Reactions</content>
+                                    </paragraph>
+                                    <paragraph>Premature closure of the ductus arteriosus in the fetus has occurred with third trimester use of oral and injectable NSAIDs. Ketorolac plasma concentrations are detectable following ocular Omidria administration 
+             
+ 
+  
+             
+ 
+  <content styleCode="italics">[see Clinical Pharmacology (
+              
+  
+   
+              
+  
+   <linkHtml href="#s26">12.3</linkHtml>)]
+             
+ 
+  
+             
+ 
+  </content>. The use of Omidria during late pregnancy should be avoided.
+
+            
+
+ 
+            
+
+ </paragraph>
+                                 </text>
+                                 <effectiveTime value="20171211"/>
+                              </section>
+                           </component>
+                        </section>
+                     </component>
+                     <component>
+                        <section ID="s16">
+                           <id root="f25d793c-fe10-51a9-e053-2995a90af5a1"/>
+                           <code code="42229-5" codeSystem="2.16.840.1.113883.6.1" displayName="SPL UNCLASSIFIED SECTION"/>
+                           <text>
+                              <paragraph>
+                                 <content styleCode="underline">Data</content>
+                              </paragraph>
+                           </text>
+                           <effectiveTime value="20171211"/>
+                           <component>
+                              <section ID="s17">
+                                 <id root="f25d793c-fe11-51a9-e053-2995a90af5a1"/>
+                                 <code code="42229-5" codeSystem="2.16.840.1.113883.6.1" displayName="SPL UNCLASSIFIED SECTION"/>
+                                 <text>
+                                    <paragraph>
+                                       <content styleCode="italics">Animal Data</content>
+                                    </paragraph>
+                                    <paragraph>No well-controlled animal reproduction studies have been conducted with Omidria or phenylephrine.
+</paragraph>
+                                    <paragraph>Ketorolac, administered during organogenesis, did not cause embryofetal abnormalities or mortalities in rabbits or rats at oral doses of 3.6 mg/kg/day and 10 mg/kg/day, respectively. These doses produced systemic exposure that is 1150 times and 4960 times the plasma exposure (based on C
+             
+ 
+  
+             
+ 
+  <sub>max</sub>) at the RHOD, respectively. When administered to rats during late gestation (after Day 17 of gestation) at oral doses up to 1.5 mg/kg/day (740 times the plasma exposure at the RHOD)
+             
+ 
+  
+             
+ 
+  <content styleCode="italics">,</content> ketorolac produced dystocia and increased pup mortality.
+
+            
+
+ 
+            
+
+ </paragraph>
+                                 </text>
+                                 <effectiveTime value="20171211"/>
+                              </section>
+                           </component>
+                        </section>
+                     </component>
+                  </section>
+               </component>
+               <component>
+                  <section ID="s18">
+                     <id root="f9bdea87-03e5-4600-e053-6394a90af955"/>
+                     <code code="77290-5" codeSystem="2.16.840.1.113883.6.1" displayName="LACTATION SECTION"/>
+                     <title>8.2 Lactation</title>
+                     <effectiveTime value="20230420"/>
+                     <component>
+                        <section ID="s19">
+                           <id root="f9bde488-b087-452d-e053-6394a90a2a1c"/>
+                           <code code="42229-5" codeSystem="2.16.840.1.113883.6.1" displayName="SPL UNCLASSIFIED SECTION"/>
+                           <text>
+                              <paragraph>
+                                 <content styleCode="underline">Risk Summary</content>
+                              </paragraph>
+                              <paragraph>There are no data on the presence of Omidria in human milk, the effects on the breastfed infant, or the effects on milk production. Howerver, systemic exposure to Omidria, following a lens replacement procedure is low 
+  <content styleCode="italics">[see Clinical Pharmacology ( 
+   <linkHtml href="#s26">12.3</linkHtml>)] 
+  </content>. The developmental and health benefits of breastfeeding should be considered along with the mother's clinical need for Omidria and any potential adverse effects on the breastfed child from Omidria.
+ </paragraph>
+                           </text>
+                           <effectiveTime value="20230420"/>
+                        </section>
+                     </component>
+                  </section>
+               </component>
+               <component>
+                  <section ID="s20">
+                     <id root="f9bdea87-03e4-4600-e053-6394a90af955"/>
+                     <code code="34081-0" codeSystem="2.16.840.1.113883.6.1" displayName="PEDIATRIC USE SECTION"/>
+                     <title>8.4 Pediatric Use</title>
+                     <text>
+                        <paragraph>The safety and effectiveness of Omidria have been established in the pediatric population from neonates to adolescents (birth to younger than 17 years). Use of Omidria in this population is supported by evidence from adequate and well-controlled studies of Omidria in adults with additional data from a single active-controlled safety study in pediatric patients up to 3 years old 
+  <content styleCode="italics">[see Clinical Studies ( 
+   <linkHtml href="#s27">14</linkHtml>)] 
+  </content>.
+ </paragraph>
+                        <paragraph>No overall differences in safety were observed between pediatric and adult patients.</paragraph>
+                     </text>
+                     <effectiveTime value="20230420"/>
+                  </section>
+               </component>
+               <component>
+                  <section ID="s21">
+                     <id root="f9bdea87-03e3-4600-e053-6394a90af955"/>
+                     <code code="34082-8" codeSystem="2.16.840.1.113883.6.1" displayName="GERIATRIC USE SECTION"/>
+                     <title>8.5 Geriatric Use</title>
+                     <text>
+                        <paragraph>No overall differences in safety or effectiveness have been observed between elderly and adult patients.</paragraph>
+                     </text>
+                     <effectiveTime value="20230420"/>
+                  </section>
+               </component>
+            </section>
+         </component>
+         <component>
+            <section ID="s22">
+               <id root="f9bdea87-03e2-4600-e053-6394a90af955"/>
+               <code code="34088-5" codeSystem="2.16.840.1.113883.6.1" displayName="OVERDOSAGE SECTION"/>
+               <title>10 OVERDOSAGE</title>
+               <text>
+                  <paragraph>Systemic overdosage of phenylephrine may cause a rise in blood pressure. It may also cause headache, anxiety, nausea, vomiting, and ventricular arrhythmias. Supportive care is recommended.</paragraph>
+               </text>
+               <effectiveTime value="20230420"/>
+            </section>
+         </component>
+         <component>
+            <section ID="s23">
+               <id root="f9bde488-b086-452d-e053-6394a90a2a1c"/>
+               <code code="34089-3" codeSystem="2.16.840.1.113883.6.1" displayName="DESCRIPTION SECTION"/>
+               <title>11 DESCRIPTION</title>
+               <text>
+                  <paragraph>Omidria is a sterile aqueous solution, containing the α 
+  <sub>1</sub>-adrenergic receptor agonist phenylephrine HCl and the nonsteroidal anti-inflammatory ketorolac tromethamine, for addition to ocular irrigating solution.
+ </paragraph>
+                  <paragraph>The descriptions and structural formulae are:</paragraph>
+                  <paragraph>
+                     <content styleCode="bold">Phenylephrine Hydrochloride Drug Substance:</content>
+                  </paragraph>
+                  <table width="100%">
+                     <colgroup>
+                        <col align="left" width="29.150%"/>
+                        <col align="left" width="70.850%"/>
+                     </colgroup>
+                     <tbody>
+                        <tr>
+                           <td align="left" valign="top">
+                              <content styleCode="bold">Common Name:</content>
+                           </td>
+                           <td align="left" valign="top">phenylephrine hydrochloride</td>
+                        </tr>
+                        <tr>
+                           <td align="left" valign="top">
+                              <content styleCode="bold">Chemical Name:</content>
+                           </td>
+                           <td align="left" valign="top">(-)- 
+     <content styleCode="italics">m</content>-Hydroxy-α-[(methylamino)methyl]benzyl alcohol hydrochloride
+    </td>
+                        </tr>
+                        <tr>
+                           <td align="left" valign="top">
+                              <content styleCode="bold">Molecular Formula:</content>
+                           </td>
+                           <td align="left" valign="top">C 
+     <sub>9</sub>H 
+     <sub>13</sub>NO 
+     <sub>2</sub> · HCl
+    </td>
+                        </tr>
+                        <tr>
+                           <td align="left" valign="top">
+                              <content styleCode="bold">Molecular Weight:</content>
+                           </td>
+                           <td align="left" valign="top">203.67 g/mole</td>
+                        </tr>
+                     </tbody>
+                  </table>
+                  <paragraph>
+                     <content styleCode="bold">Figure 1: Chemical Structure for Phenylephrine HCl</content>
+                  </paragraph>
+                  <paragraph>
+                     <renderMultiMedia referencedObject="mm01"/>
+                  </paragraph>
+                  <paragraph>
+                     <content styleCode="bold">Ketorolac Tromethamine Drug Substance:</content>
+                  </paragraph>
+                  <table width="100%">
+                     <colgroup>
+                        <col align="left" width="29.150%"/>
+                        <col align="left" width="70.850%"/>
+                     </colgroup>
+                     <tbody>
+                        <tr>
+                           <td align="left" valign="top">
+                              <content styleCode="bold">Common Name:</content>
+                           </td>
+                           <td align="left" valign="top">ketorolac tromethamine</td>
+                        </tr>
+                        <tr>
+                           <td align="left" valign="top">
+                              <content styleCode="bold">Chemical Name:</content>
+                           </td>
+                           <td align="left" valign="top">(±)-5-Benzoyl-2,3-dihydro-1H-pyrrolizine-1-carboxylic acid : 2-amino-2-(hydroxymethyl)-1,3-propanediol (1:1)</td>
+                        </tr>
+                        <tr>
+                           <td align="left" valign="top">
+                              <content styleCode="bold">Molecular Formula:</content>
+                           </td>
+                           <td align="left" valign="top">C 
+     <sub>15</sub>H 
+     <sub>13</sub>NO 
+     <sub>3</sub> · C 
+     <sub>4</sub>H 
+     <sub>11</sub>NO 
+     <sub>3</sub>
+                           </td>
+                        </tr>
+                        <tr>
+                           <td align="left" valign="top">
+                              <content styleCode="bold">Molecular Weight:</content>
+                           </td>
+                           <td align="left" valign="top">376.40 g/mole</td>
+                        </tr>
+                     </tbody>
+                  </table>
+                  <paragraph>
+                     <content styleCode="bold">Figure 2: Chemical Structure for Ketorolac Tromethamine</content>
+                  </paragraph>
+                  <paragraph>
+                     <renderMultiMedia referencedObject="mm02"/>
+                  </paragraph>
+                  <paragraph>Omidria is a clear, colorless to slightly yellow, sterile solution concentrate with a pH of approximately 6.3.</paragraph>
+                  <paragraph>
+                     <content styleCode="bold">Each vial of Omidria contains:</content>
+                  </paragraph>
+                  <paragraph>
+                     <content styleCode="bold">Actives:</content> phenylephrine hydrochloride 12.4 mg/mL equivalent to 10.16 mg/mL of phenylephrine and ketorolac tromethamine 4.24 mg/mL equivalent to 2.88 mg/mL of ketorolac.
+ </paragraph>
+                  <paragraph>
+                     <content styleCode="bold">Inactives:</content> citric acid monohydrate; sodium citrate dihydrate; water for injection; may include sodium hydroxide and/or hydrochloric acid for pH adjustment.
+ </paragraph>
+               </text>
+               <effectiveTime value="20230420"/>
+               <component>
+                  <observationMedia ID="mm01">
+                     <text>Figure 1
+</text>
+                     <value mediaType="image/jpeg" xsi:type="ED">
+                        <reference value="omi00-0003-01.jpg"/>
+                     </value>
+                  </observationMedia>
+               </component>
+               <component>
+                  <observationMedia ID="mm02">
+                     <text>Figure 2
+</text>
+                     <value mediaType="image/jpeg" xsi:type="ED">
+                        <reference value="omi00-0003-02.jpg"/>
+                     </value>
+                  </observationMedia>
+               </component>
+            </section>
+         </component>
+         <component>
+            <section ID="s24">
+               <id root="f9bde488-b085-452d-e053-6394a90a2a1c"/>
+               <code code="34090-1" codeSystem="2.16.840.1.113883.6.1" displayName="CLINICAL PHARMACOLOGY SECTION"/>
+               <title>12 CLINICAL PHARMACOLOGY</title>
+               <effectiveTime value="20230420"/>
+               <component>
+                  <section ID="s25">
+                     <id root="f9bdea87-03e1-4600-e053-6394a90af955"/>
+                     <code code="43679-0" codeSystem="2.16.840.1.113883.6.1" displayName="MECHANISM OF ACTION SECTION"/>
+                     <title>12.1 Mechanism of Action</title>
+                     <text>
+                        <paragraph>The two active pharmaceutical ingredients (API) in Omidria, phenylephrine and ketorolac, act to maintain pupil size by preventing intraoperative miosis, and reducing postoperative pain.</paragraph>
+                        <paragraph>Phenylephrine is an α 
+  <sub>1</sub>-adrenergic receptor agonist and, in the eye, acts as a mydriatic agent by contracting the radial muscle of the iris. Ketorolac is a nonsteroidal anti-inflammatory that inhibits both cyclooxygenase enzymes (COX-1 and COX-2), resulting in a decrease in tissue concentrations of prostaglandins to reduce pain due to surgical trauma. Ketorolac, by inhibiting prostaglandin synthesis secondary to ocular surgical insult or direct mechanical stimulation of the iris, also prevents surgically induced miosis.
+ </paragraph>
+                     </text>
+                     <effectiveTime value="20230420"/>
+                  </section>
+               </component>
+               <component>
+                  <section ID="s26">
+                     <id root="f9bde488-b084-452d-e053-6394a90a2a1c"/>
+                     <code code="43682-4" codeSystem="2.16.840.1.113883.6.1" displayName="PHARMACOKINETICS SECTION"/>
+                     <title>12.3 Pharmacokinetics</title>
+                     <text>
+                        <paragraph>In a pharmacokinetic study evaluating Omidria, systemic exposure to both phenylephrine and ketorolac was low or undetectable.</paragraph>
+                        <paragraph>A single-dose of Omidria as part of the irrigation solution was administered in 14 patients during lens replacement surgery. The volume of irrigation solution used during surgery ranged between 150 mL to 300 mL (median 212.5 mL). Detectable phenylephrine plasma concentrations were observed in one of 14 patients (range 1.2 to 1.4 ng/mL) during the first 2 hours after the initiation of Omidria administration. The observed phenylephrine plasma concentrations could not be distinguished from the preoperative administration of phenylephrine 2.5% ophthalmic solution prior to exposure to Omidria.</paragraph>
+                        <paragraph>Ketorolac plasma concentrations were detected in 10 of 14 patients (range 1.0 to 4.2 ng/mL) during the first 8 hours after the initiation of Omidria administration. The maximum ketorolac concentration was 15 ng/mL at 24 hours after the initiation of Omidria administration, which may have been due to application of postoperative ketorolac ophthalmic solution.</paragraph>
+                     </text>
+                     <effectiveTime value="20230420"/>
+                  </section>
+               </component>
+            </section>
+         </component>
+         <component>
+            <section ID="s27">
+               <id root="f9bde488-b083-452d-e053-6394a90a2a1c"/>
+               <code code="34092-7" codeSystem="2.16.840.1.113883.6.1" displayName="CLINICAL STUDIES SECTION"/>
+               <title>14 CLINICAL STUDIES</title>
+               <effectiveTime value="20230420"/>
+               <component>
+                  <section ID="s28">
+                     <id root="f9bdea87-03e0-4600-e053-6394a90af955"/>
+                     <code code="42229-5" codeSystem="2.16.840.1.113883.6.1" displayName="SPL UNCLASSIFIED SECTION"/>
+                     <text>
+                        <paragraph>
+                           <content styleCode="bold">Studies in Adults</content>
+                        </paragraph>
+                        <paragraph>The efficacy and safety of Omidria were evaluated in two Phase 3, randomized, multicenter, double-masked, placebo-controlled clinical trials in 808 adult patients undergoing cataract surgery or intraocular lens replacement.</paragraph>
+                        <paragraph>Patients were randomized to either Omidria or placebo. Patients were treated with preoperative topical mydriatic and anesthetic agents. Pupil diameter was measured throughout the surgical procedure. Postoperative pain was evaluated by self-administered 0-100 mm visual analog scales (VAS).</paragraph>
+                        <paragraph>Mydriasis was maintained in the Omidria-treated groups while the placebo-treated groups experienced progressive constriction.</paragraph>
+                        <paragraph>
+                           <content styleCode="bold">Figure 3: Intraoperative Pupil Diameter (mm) Change-from-Baseline</content>
+                        </paragraph>
+                        <paragraph>
+                           <renderMultiMedia referencedObject="mm03"/>
+                        </paragraph>
+                        <paragraph>At the end of cortical clean-up, 23% of placebo-treated patients and 4% of Omidria-treated patients had a pupil diameter less than 6 mm (p &lt; 0.01).</paragraph>
+                        <paragraph>Pain during the initial 10-12 hours postoperatively was statistically significantly less in the Omidria-treated groups than in the placebo-treated groups.</paragraph>
+                        <paragraph>
+                           <content styleCode="bold">Figure 4: Postoperative Mean Visual Analog Scale (VAS) Scores for Pain</content>
+                        </paragraph>
+                        <paragraph>
+                           <renderMultiMedia referencedObject="mm04"/>
+                        </paragraph>
+                        <paragraph>During the 10-12 hours postoperatively, 26% of Omidria-treated patients reported no pain (VAS = 0 at all timepoints) while 17% of placebo-treated patients reported no pain (p &lt; 0.01).</paragraph>
+                     </text>
+                     <effectiveTime value="20230420"/>
+                     <component>
+                        <observationMedia ID="mm03">
+                           <text>Figure 3
+</text>
+                           <value mediaType="image/jpeg" xsi:type="ED">
+                              <reference value="omi00-0003-03.jpg"/>
+                           </value>
+                        </observationMedia>
+                     </component>
+                     <component>
+                        <observationMedia ID="mm04">
+                           <text>Figure 4
+</text>
+                           <value mediaType="image/jpeg" xsi:type="ED">
+                              <reference value="omi00-0003-04.jpg"/>
+                           </value>
+                        </observationMedia>
+                     </component>
+                  </section>
+               </component>
+               <component>
+                  <section ID="s29">
+                     <id root="f9bde488-b082-452d-e053-6394a90a2a1c"/>
+                     <code code="42229-5" codeSystem="2.16.840.1.113883.6.1" displayName="SPL UNCLASSIFIED SECTION"/>
+                     <text>
+                        <paragraph>
+                           <content styleCode="bold">Study in Pediatric Patients</content>
+                        </paragraph>
+                        <paragraph>The safety of Omidria was evaluated in a single, randomized, multicenter, double-masked, active-controlled clinical study in 72 pediatric patients up to 3 years old undergoing cataract surgery with or without intraocular lens replacement.</paragraph>
+                        <paragraph>Patients were randomized to either Omidria or phenylephrine. Patients were treated with preoperative topical mydriatic and anesthetic agents. As in the adult studies, mydriasis was maintained in the Omidria-treated group. No overall differences in safety were observed between pediatric and adult patients.</paragraph>
+                     </text>
+                     <effectiveTime value="20230420"/>
+                  </section>
+               </component>
+            </section>
+         </component>
+         <component>
+            <section ID="s30">
+               <id root="f9bde488-b081-452d-e053-6394a90a2a1c"/>
+               <code code="34069-5" codeSystem="2.16.840.1.113883.6.1" displayName="HOW SUPPLIED SECTION"/>
+               <title>16 HOW SUPPLIED/STORAGE AND HANDLING</title>
+               <text>
+                  <paragraph>Omidria (phenylephrine and ketorolac intraocular solution) 1%/0.3% is supplied in a clear, 5-mL glass, single-patient-use vial containing 4 mL of sterile solution, for addition to ocular irrigating solution.</paragraph>
+                  <paragraph>Omidria is supplied in a multi-pack containing:</paragraph>
+                  <paragraph>4 vials : NDC 82604-600-04 or</paragraph>
+                  <paragraph>1 vials: NDC 82604-600-00</paragraph>
+               </text>
+               <effectiveTime value="20230420"/>
+               <component>
+                  <section ID="s31">
+                     <id root="f9bda4b8-a8f7-1cf0-e053-6294a90a555a"/>
+                     <code code="44425-7" codeSystem="2.16.840.1.113883.6.1" displayName="STORAGE AND HANDLING SECTION"/>
+                     <text>
+                        <paragraph>
+                           <content styleCode="bold">Storage:</content> Store at 20˚ to 25˚C (68˚ to 77˚F). Protect from light.
+ </paragraph>
+                     </text>
+                     <effectiveTime value="20230420"/>
+                  </section>
+               </component>
+            </section>
+         </component>
+         <component>
+            <section ID="s32">
+               <id root="f9bdd126-d538-f8c7-e053-6394a90a5579"/>
+               <code code="34076-0" codeSystem="2.16.840.1.113883.6.1" displayName="INFORMATION FOR PATIENTS SECTION"/>
+               <title>17 PATIENT COUNSELING INFORMATION</title>
+               <text>
+                  <paragraph>Inform patients that they may experience sensitivity to light.</paragraph>
+                  <paragraph>Rayner Surgical Inc.
+  <br/>
+                     <br/>
+Suite 102, 14335 NE 24 Street
+  <br/>
+Bellevue, WA 98007
+ </paragraph>
+                  <paragraph/>
+                  <paragraph>© Rayner 2023</paragraph>
+                  <paragraph>
+                     <br/>
+Patented product; see www.rayner.com/patents for further details.
+ </paragraph>
+                  <paragraph>OMIDRIA®and the OMIDRIA® Logo are registered trademarks of Rayner Surgical Inc.</paragraph>
+                  <paragraph>
+                     <br/>
+640069
+ </paragraph>
+               </text>
+               <effectiveTime value="20230420"/>
+            </section>
+         </component>
+         <component>
+            <section ID="s33">
+               <id root="f9bdd126-d539-f8c7-e053-6394a90a5579"/>
+               <code code="51945-4" codeSystem="2.16.840.1.113883.6.1" displayName="PACKAGE LABEL.PRINCIPAL DISPLAY PANEL"/>
+               <title>PRINCIPAL DISPLAY PANEL</title>
+               <text>
+                  <paragraph>NDC 82604-600-04</paragraph>
+                  <paragraph>
+                     <content styleCode="bold">OMIDRIA</content>
+                     <content styleCode="bold">
+                        <sup>®</sup>
+                     </content>
+                  </paragraph>
+                  <paragraph>
+                     <content styleCode="bold">(phenylephrine and ketorolac intraocular solution)</content>
+                  </paragraph>
+                  <paragraph>
+                     <content styleCode="bold">1% / 0.3%</content>
+                  </paragraph>
+                  <paragraph>For Intraocular use.</paragraph>
+                  <paragraph>
+                     <content styleCode="bold">Must Be Diluted.</content>
+                  </paragraph>
+                  <paragraph>Single-Patient vial</paragraph>
+                  <paragraph>Sterile 4 mL</paragraph>
+                  <paragraph>Quantity: 4</paragraph>
+                  <paragraph>
+                     <content styleCode="bold">Rx Only</content>
+                  </paragraph>
+                  <paragraph/>
+                  <paragraph>
+                     <renderMultiMedia referencedObject="img_f9b0bcf0-f5c7-485a-e053-6394a90ad236"/>
+                  </paragraph>
+                  <paragraph/>
+                  <paragraph/>
+                  <paragraph>NDC 82604-600-00</paragraph>
+                  <paragraph>OMIDRIA ®</paragraph>
+                  <paragraph>(phenylephrine and ketorolac intraocular solution)</paragraph>
+                  <paragraph>1% / 0.3%</paragraph>
+                  <paragraph>For Intraocular use.</paragraph>
+                  <paragraph>Must Be Diluted.</paragraph>
+                  <paragraph>Single-Patient vial</paragraph>
+                  <paragraph>Sterile 4 mL</paragraph>
+                  <paragraph>Quantity: 1</paragraph>
+                  <paragraph>Rx Only</paragraph>
+                  <paragraph/>
+                  <paragraph/>
+                  <paragraph>
+                     <renderMultiMedia referencedObject="img_f9b114f7-bb5c-aefb-e053-6394a90a4551"/>
+                  </paragraph>
+               </text>
+               <effectiveTime value="20230420"/>
+               <component>
+                  <observationMedia ID="img_f9b0bcf0-f5c7-485a-e053-6394a90ad236">
+                     <text>omi00-0003-05</text>
+                     <value mediaType="image/jpeg" xsi:type="ED">
+                        <reference value="omi00-0003-05.jpg"/>
+                     </value>
+                  </observationMedia>
+               </component>
+               <component>
+                  <observationMedia ID="img_f9b114f7-bb5c-aefb-e053-6394a90a4551">
+                     <text>omi00-0003-06</text>
+                     <value mediaType="image/jpeg" xsi:type="ED">
+                        <reference value="omi00-0003-06.jpg"/>
+                     </value>
+                  </observationMedia>
+               </component>
+            </section>
+         </component>
+      </structuredBody>
+   </component>
+</document>

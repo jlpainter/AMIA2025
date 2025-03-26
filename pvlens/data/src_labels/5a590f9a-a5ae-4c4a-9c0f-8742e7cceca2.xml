@@ -1,0 +1,1803 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="https://www.accessdata.fda.gov/spl/stylesheet/spl.xsl"?>
+<document xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:hl7-org:v3 https://www.accessdata.fda.gov/spl/schema/spl.xsd">
+   <id root="5a590f9a-a5ae-4c4a-9c0f-8742e7cceca2"/>
+   <code code="34391-3" displayName="HUMAN PRESCRIPTION DRUG LABEL" codeSystem="2.16.840.1.113883.6.1"/>
+   <title>These highlights do not include all the information needed to use QUININE SULFATE CAPSULES safely and effectively.  See full prescribing information for QUININE SULFATE CAPSULES.<br/>QUININE SULFATE capsules, for oral use <br/>Initial U.S. Approval: 2005<br/>
+   </title>
+   <effectiveTime value="20230131"/>
+   <setId root="e782283e-2608-4fd6-a8b2-6c30b9d5d3b0"/>
+   <versionNumber value="10"/>
+   <author>
+      <time/>
+      <assignedEntity>
+         <representedOrganization>
+            <id extension="001627975" root="1.3.6.1.4.1.519.1"/>
+            <name>Teva Pharmaceuticals USA, Inc.</name>
+            <assignedEntity>
+               <assignedOrganization/>
+            </assignedEntity>
+         </representedOrganization>
+      </assignedEntity>
+   </author>
+   <component>
+      <structuredBody>
+         <component>
+            <section>
+               <id root="a2b04457-4e74-481b-ac4e-8b359c57843a"/>
+               <code code="48780-1" displayName="SPL listing data elements section" codeSystem="2.16.840.1.113883.6.1"/>
+               <effectiveTime value="20230131"/>
+               <subject>
+                  <manufacturedProduct>
+                     <manufacturedProduct>
+                        <code code="0093-3002" codeSystem="2.16.840.1.113883.6.69"/>
+                        <name>Quinine Sulfate</name>
+                        <formCode code="C25158" displayName="CAPSULE" codeSystem="2.16.840.1.113883.3.26.1.1"/>
+                        <asEntityWithGeneric>
+                           <genericMedicine>
+                              <name>Quinine Sulfate</name>
+                           </genericMedicine>
+                        </asEntityWithGeneric>
+                        <ingredient classCode="ACTIB">
+                           <quantity>
+                              <numerator unit="mg" value="324"/>
+                              <denominator unit="1" value="1"/>
+                           </quantity>
+                           <ingredientSubstance>
+                              <code code="KF7Z0E0Q2B" codeSystem="2.16.840.1.113883.4.9"/>
+                              <name>QUININE SULFATE</name>
+                              <activeMoiety>
+                                 <activeMoiety>
+                                    <code code="A7V27PHC7A" codeSystem="2.16.840.1.113883.4.9"/>
+                                    <name>QUININE</name>
+                                 </activeMoiety>
+                              </activeMoiety>
+                           </ingredientSubstance>
+                        </ingredient>
+                        <ingredient classCode="IACT">
+                           <ingredientSubstance>
+                              <code code="ETJ7Z6XBU4" codeSystem="2.16.840.1.113883.4.9"/>
+                              <name>SILICON DIOXIDE</name>
+                           </ingredientSubstance>
+                        </ingredient>
+                        <ingredient classCode="IACT">
+                           <ingredientSubstance>
+                              <code code="2G86QN327L" codeSystem="2.16.840.1.113883.4.9"/>
+                              <name>GELATIN</name>
+                           </ingredientSubstance>
+                        </ingredient>
+                        <ingredient classCode="IACT">
+                           <ingredientSubstance>
+                              <code code="XM0M87F357" codeSystem="2.16.840.1.113883.4.9"/>
+                              <name>FERROSOFERRIC OXIDE</name>
+                           </ingredientSubstance>
+                        </ingredient>
+                        <ingredient classCode="IACT">
+                           <ingredientSubstance>
+                              <code code="70097M6I30" codeSystem="2.16.840.1.113883.4.9"/>
+                              <name>MAGNESIUM STEARATE</name>
+                           </ingredientSubstance>
+                        </ingredient>
+                        <ingredient classCode="IACT">
+                           <ingredientSubstance>
+                              <code code="O8232NY3SJ" codeSystem="2.16.840.1.113883.4.9"/>
+                              <name>STARCH, CORN</name>
+                           </ingredientSubstance>
+                        </ingredient>
+                        <ingredient classCode="IACT">
+                           <ingredientSubstance>
+                              <code code="6DC9Q167V3" codeSystem="2.16.840.1.113883.4.9"/>
+                              <name>PROPYLENE GLYCOL</name>
+                           </ingredientSubstance>
+                        </ingredient>
+                        <ingredient classCode="IACT">
+                           <ingredientSubstance>
+                              <code code="46N107B71O" codeSystem="2.16.840.1.113883.4.9"/>
+                              <name>SHELLAC</name>
+                           </ingredientSubstance>
+                        </ingredient>
+                        <ingredient classCode="IACT">
+                           <ingredientSubstance>
+                              <code code="368GB5141J" codeSystem="2.16.840.1.113883.4.9"/>
+                              <name>SODIUM LAURYL SULFATE</name>
+                           </ingredientSubstance>
+                        </ingredient>
+                        <ingredient classCode="IACT">
+                           <ingredientSubstance>
+                              <code code="15FIX9V2JP" codeSystem="2.16.840.1.113883.4.9"/>
+                              <name>TITANIUM DIOXIDE</name>
+                           </ingredientSubstance>
+                        </ingredient>
+                        <ingredient classCode="IACT">
+                           <ingredientSubstance>
+                              <code code="WZH3C48M4T" codeSystem="2.16.840.1.113883.4.9"/>
+                              <name>POTASSIUM HYDROXIDE</name>
+                           </ingredientSubstance>
+                        </ingredient>
+                        <asContent>
+                           <quantity>
+                              <numerator unit="1" value="30"/>
+                              <denominator value="1"/>
+                           </quantity>
+                           <containerPackagedProduct>
+                              <code code="0093-3002-56" codeSystem="2.16.840.1.113883.6.69"/>
+                              <formCode code="C43169" displayName="BOTTLE" codeSystem="2.16.840.1.113883.3.26.1.1"/>
+                           </containerPackagedProduct>
+                           <subjectOf>
+                              <characteristic>
+                                 <code code="SPLCMBPRDTP" codeSystem="2.16.840.1.113883.1.11.19255"/>
+                                 <value code="C112160" displayName="Type 0: Not a Combination Product" codeSystem="2.16.840.1.113883.3.26.1.1" xsi:type="CV"/>
+                              </characteristic>
+                           </subjectOf>
+                           <subjectOf>
+                              <marketingAct>
+                                 <code code="C53292" codeSystem="2.16.840.1.113883.3.26.1.1"/>
+                                 <statusCode code="active"/>
+                                 <effectiveTime>
+                                    <low value="20120928"/>
+                                 </effectiveTime>
+                              </marketingAct>
+                           </subjectOf>
+                        </asContent>
+                     </manufacturedProduct>
+                     <subjectOf>
+                        <approval>
+                           <id extension="ANDA091661" root="2.16.840.1.113883.3.150"/>
+                           <code code="C73584" displayName="ANDA" codeSystem="2.16.840.1.113883.3.26.1.1"/>
+                           <author>
+                              <territorialAuthority>
+                                 <territory>
+                                    <code code="USA" codeSystem="2.16.840.1.113883.5.28"/>
+                                 </territory>
+                              </territorialAuthority>
+                           </author>
+                        </approval>
+                     </subjectOf>
+                     <subjectOf>
+                        <marketingAct>
+                           <code code="C53292" codeSystem="2.16.840.1.113883.3.26.1.1"/>
+                           <statusCode code="active"/>
+                           <effectiveTime>
+                              <low value="20120928"/>
+                           </effectiveTime>
+                        </marketingAct>
+                     </subjectOf>
+                     <subjectOf>
+                        <characteristic classCode="OBS">
+                           <code code="SPLCOLOR" codeSystem="2.16.840.1.113883.1.11.19255"/>
+                           <value code="C48325" displayName="white" codeSystem="2.16.840.1.113883.3.26.1.1" xsi:type="CV"/>
+                        </characteristic>
+                     </subjectOf>
+                     <subjectOf>
+                        <characteristic classCode="OBS">
+                           <code code="SPLIMPRINT" codeSystem="2.16.840.1.113883.1.11.19255"/>
+                           <value xsi:type="ST">93;3002;93;3002</value>
+                        </characteristic>
+                     </subjectOf>
+                     <subjectOf>
+                        <characteristic classCode="OBS">
+                           <code code="SPLSCORE" codeSystem="2.16.840.1.113883.1.11.19255"/>
+                           <value value="1" xsi:type="INT"/>
+                        </characteristic>
+                     </subjectOf>
+                     <subjectOf>
+                        <characteristic classCode="OBS">
+                           <code code="SPLSHAPE" codeSystem="2.16.840.1.113883.1.11.19255"/>
+                           <value code="C48336" displayName="CAPSULE" codeSystem="2.16.840.1.113883.3.26.1.1" xsi:type="CV"/>
+                        </characteristic>
+                     </subjectOf>
+                     <subjectOf>
+                        <characteristic classCode="OBS">
+                           <code code="SPLSIZE" codeSystem="2.16.840.1.113883.1.11.19255"/>
+                           <value unit="mm" value="22" xsi:type="PQ"/>
+                        </characteristic>
+                     </subjectOf>
+                     <consumedIn>
+                        <substanceAdministration>
+                           <routeCode code="C38288" displayName="ORAL" codeSystem="2.16.840.1.113883.3.26.1.1"/>
+                        </substanceAdministration>
+                     </consumedIn>
+                  </manufacturedProduct>
+               </subject>
+            </section>
+         </component>
+         <component>
+            <section ID="LINK_fc440593-edf4-44eb-896e-581567aefbc1">
+               <id root="3892e416-aafa-41b4-8e2d-e03a71da9aec"/>
+               <code code="34066-1" codeSystem="2.16.840.1.113883.6.1" displayName="BOXED WARNING SECTION"/>
+               <title/>
+               <text>
+                  <paragraph>
+                     <content styleCode="bold">Quinine sulfate use for the treatment or prevention of nocturnal leg cramps may result in serious and life-threatening hematologic reactions, including thrombocytopenia and hemolytic uremic syndrome/thrombotic thrombocytopenic purpura (HUS/TTP). Chronic renal impairment associated with the development of TTP has been reported. The risk associated with quinine sulfate use in the absence of evidence of its effectiveness in the treatment or prevention of nocturnal leg cramps outweighs any potential benefit [<content styleCode="italics">
+                           <content styleCode="bold">
+                              <content styleCode="italics">see Indications and Usage (<content styleCode="bold">
+                                    <content styleCode="italics">
+                                       <linkHtml href="#LINK_9eb2553d-f2c3-43c4-8f27-f5952bed4654">1</linkHtml>
+                                    </content>
+                                 </content>) and</content>
+                           </content> Warnings and Precautions (<linkHtml href="#LINK_4ac71155-5885-47ae-abc2-f756c6db47ed">5.1</linkHtml>)</content>]<content styleCode="italics">.</content>
+                     </content>
+                  </paragraph>
+               </text>
+               <effectiveTime value="20230131"/>
+               <excerpt>
+                  <highlight>
+                     <text>
+                        <paragraph>
+                           <content styleCode="bold">WARNING: HEMATOLOGIC REACTIONS</content>
+                        </paragraph>
+                        <paragraph>
+                           <content styleCode="bold">
+                              <content styleCode="italics">See full prescribing information for complete boxed warning</content>
+                           </content>
+                        </paragraph>
+                        <paragraph>
+                           <content styleCode="bold">Quinine sulfate use for the treatment or prevention of nocturnal leg cramps may result in serious and life-threatening hematologic reactions, including thrombocytopenia and hemolytic uremic syndrome/thrombotic thrombocytopenic purpura (HUS/TTP). Chronic renal impairment associated with the development of TTP has been reported. The risk associated with quinine sulfate use in the absence of evidence of its effectiveness in the treatment or prevention of nocturnal leg cramps outweighs any potential benefit. (<linkHtml href="#LINK_9eb2553d-f2c3-43c4-8f27-f5952bed4654">1</linkHtml>, <linkHtml href="#LINK_4ac71155-5885-47ae-abc2-f756c6db47ed">5.1</linkHtml>).</content>
+                        </paragraph>
+                     </text>
+                  </highlight>
+               </excerpt>
+            </section>
+         </component>
+         <component>
+            <section ID="LINK_9eb2553d-f2c3-43c4-8f27-f5952bed4654">
+               <id root="be38c303-2573-4413-8d4e-312c2481e125"/>
+               <code code="34067-9" codeSystem="2.16.840.1.113883.6.1" displayName="INDICATIONS &amp; USAGE SECTION"/>
+               <title>1 INDICATIONS AND USAGE</title>
+               <text>
+                  <paragraph>Quinine sulfate capsules are an antimalarial drug indicated only for treatment of uncomplicated <content styleCode="italics">Plasmodium falciparum</content> malaria. Quinine sulfate has been shown to be effective in geographical regions where resistance to chloroquine has been documented [<content styleCode="italics">see Clinical Studies (<linkHtml href="#LINK_5bb9ee8c-47a6-44c6-b83f-2bbe6ce1ce9f">14</linkHtml>)</content>].</paragraph>
+                  <paragraph>
+                     <content styleCode="underline">Limitations of Use:<br/>
+                     </content>Quinine sulfate capsules are not approved for:</paragraph>
+                  <list listType="unordered" styleCode="Disk">
+                     <item>Treatment of severe or complicated <content styleCode="italics">P. falciparum</content> malaria.</item>
+                     <item>Prevention of malaria.</item>
+                     <item>Treatment or prevention of nocturnal leg cramps [<content styleCode="italics">see Warnings and Precautions (<linkHtml href="#LINK_4ac71155-5885-47ae-abc2-f756c6db47ed">5.1</linkHtml>)</content>].</item>
+                  </list>
+               </text>
+               <effectiveTime value="20230131"/>
+               <excerpt>
+                  <highlight>
+                     <text>
+                        <paragraph>Quinine sulfate capsules are a antimalarial indicated for treatment of uncomplicated <content styleCode="italics">Plasmodium falciparum</content> malaria. (<linkHtml href="#LINK_9eb2553d-f2c3-43c4-8f27-f5952bed4654">1</linkHtml>)</paragraph>
+                        <paragraph>
+                           <content styleCode="underline">Limitations of Use:</content>
+                        </paragraph>
+                        <paragraph>Quinine sulfate capsules are not approved for:</paragraph>
+                        <list listType="unordered" styleCode="Disc">
+                           <item>Treatment of severe or complicated P. falciparum malaria.</item>
+                           <item>Prevention of malaria.</item>
+                           <item>Treatment or prevention of nocturnal leg cramps</item>
+                        </list>
+                     </text>
+                  </highlight>
+               </excerpt>
+            </section>
+         </component>
+         <component>
+            <section ID="LINK_7ef1cef4-8801-4979-91bc-cff967381fb4">
+               <id root="b03e6eb1-716d-4bf0-a388-63bba7ce61eb"/>
+               <code code="34068-7" codeSystem="2.16.840.1.113883.6.1" displayName="DOSAGE &amp; ADMINISTRATION SECTION"/>
+               <title>2 DOSAGE AND ADMINISTRATION</title>
+               <text/>
+               <effectiveTime value="20230131"/>
+               <excerpt>
+                  <highlight>
+                     <text>
+                        <list listType="unordered" styleCode="Disk">
+                           <item>Adults (≥ 16 years of age): 648 mg (two capsules) every 8 hours for 7 days. (<linkHtml href="#LINK_6653f0c4-868b-420a-ae1e-34ae04d6f0dd">2.1</linkHtml>)</item>
+                           <item>Patients with Severe Chronic Renal Impairment: One loading dose of 648 mg (two capsules) followed 12 hours later by 324 mg (one capsule) every 12 hours for 7 days. (<linkHtml href="#LINK_f150ca4c-24d2-46ed-b468-6dd915ba7d90">2.2</linkHtml>)</item>
+                        </list>
+                     </text>
+                  </highlight>
+               </excerpt>
+               <component>
+                  <section ID="LINK_6653f0c4-868b-420a-ae1e-34ae04d6f0dd">
+                     <id root="a774d812-55f6-498e-bdb1-2821fcca1497"/>
+                     <code code="42229-5" codeSystem="2.16.840.1.113883.6.1" displayName="SPL UNCLASSIFIED SECTION"/>
+                     <title>2.1 Treatment of Uncomplicated <content styleCode="italics">P. falciparum</content> Malaria</title>
+                     <text>
+                        <paragraph>For treatment of uncomplicated <content styleCode="italics">P. falciparum</content> malaria in adults: Orally, 648 mg (two capsules) every 8 hours for 7 days [<content styleCode="italics">see Clinical Studies (<linkHtml href="#LINK_5bb9ee8c-47a6-44c6-b83f-2bbe6ce1ce9f">14</linkHtml>)</content>]. </paragraph>
+                        <paragraph>Quinine sulfate capsules should be taken with food to minimize gastric upset [<content styleCode="italics">see Clinical Pharmacology (<linkHtml href="#LINK_b77a25b4-3e2a-471a-9ca8-20cd715cc7ac">12.3</linkHtml>)</content>]. </paragraph>
+                     </text>
+                     <effectiveTime value="20230131"/>
+                  </section>
+               </component>
+               <component>
+                  <section ID="LINK_f150ca4c-24d2-46ed-b468-6dd915ba7d90">
+                     <id root="2253a421-3bff-4a02-952f-0c6bcf0e6f3f"/>
+                     <code code="42229-5" codeSystem="2.16.840.1.113883.6.1" displayName="SPL UNCLASSIFIED SECTION"/>
+                     <title>2.2 Renal Impairment</title>
+                     <text>
+                        <paragraph>In patients with acute uncomplicated malaria and severe chronic renal impairment, the following dosage regimen is recommended: one loading dose of 648 mg quinine sulfate capsules, followed 12 hours later by maintenance doses of 324 mg every 12 hours.</paragraph>
+                        <paragraph>The effects of mild and moderate renal impairment on the safety and pharmacokinetics of quinine sulfate are not known [<content styleCode="italics">see Use in Specific Populations (<linkHtml href="#LINK_f44fdf35-5a71-41b5-a7e4-1a4414093913">8.6</linkHtml>) and Clinical Pharmacology (<linkHtml href="#LINK_b77a25b4-3e2a-471a-9ca8-20cd715cc7ac">12.3</linkHtml>)</content>].</paragraph>
+                     </text>
+                     <effectiveTime value="20230131"/>
+                  </section>
+               </component>
+               <component>
+                  <section ID="LINK_0cccd1c5-e682-401f-9ca3-3224a6e62d1a">
+                     <id root="df955c8d-62bd-461e-9064-d945e405c58c"/>
+                     <code code="42229-5" codeSystem="2.16.840.1.113883.6.1" displayName="SPL UNCLASSIFIED SECTION"/>
+                     <title>2.3 Hepatic Impairment</title>
+                     <text>
+                        <paragraph>Adjustment of the recommended dose is not required in mild (Child-Pugh A) or moderate (Child-Pugh B) hepatic impairment, but patients should be monitored closely for adverse effects of quinine. Quinine should not be administered in patients with severe (Child-Pugh C) hepatic impairment [<content styleCode="italics">see Use in Specific Populations (<linkHtml href="#LINK_66b8e727-8327-49e8-9588-8a9e572ebe81">8.7</linkHtml>) and Clinical Pharmacology (<linkHtml href="#LINK_b77a25b4-3e2a-471a-9ca8-20cd715cc7ac">12.3</linkHtml>)</content>].</paragraph>
+                     </text>
+                     <effectiveTime value="20230131"/>
+                  </section>
+               </component>
+            </section>
+         </component>
+         <component>
+            <section ID="LINK_a5968a5e-2659-41c1-90a2-c01803801f04">
+               <id root="29e0cc07-6dbf-45d3-8dce-2ad29157f888"/>
+               <code code="43678-2" codeSystem="2.16.840.1.113883.6.1" displayName="DOSAGE FORMS &amp; STRENGTHS SECTION"/>
+               <title>3 DOSAGE FORMS AND STRENGTHS</title>
+               <text>
+                  <paragraph>324 mg capsules – opaque white hard gelatin capsules, imprinted in black "93" over "3002" on the cap portion and "93" over "3002" on the body portion of the capsule.</paragraph>
+               </text>
+               <effectiveTime value="20230131"/>
+               <excerpt>
+                  <highlight>
+                     <text>
+                        <list listType="unordered" styleCode="Disk">
+                           <item>324 mg opaque white hard gelatin capsules, imprinted in black "93" over "3002" on the cap portion and "93" over "3002" on the body portion of the capsule. (<linkHtml href="#LINK_a5968a5e-2659-41c1-90a2-c01803801f04">3</linkHtml>)</item>
+                        </list>
+                     </text>
+                  </highlight>
+               </excerpt>
+            </section>
+         </component>
+         <component>
+            <section ID="LINK_3d9a0a89-48ba-4040-9c27-6c067b55edbf">
+               <id root="e711e283-9fdd-46f8-823c-9d9eff00e26b"/>
+               <code code="34070-3" codeSystem="2.16.840.1.113883.6.1" displayName="CONTRAINDICATIONS SECTION"/>
+               <title>4 CONTRAINDICATIONS</title>
+               <text>
+                  <paragraph>Quinine sulfate capsules are contraindicated in patients with the following:</paragraph>
+                  <list listType="unordered" styleCode="Disc">
+                     <item>Prolonged QT interval. One case of a fatal ventricular arrhythmia was reported in an elderly patient with a prolonged QT interval at baseline, who received quinine sulfate intravenously for <content styleCode="italics">P. falciparum</content> malaria [<content styleCode="italics">see Warnings and Precautions (5.4)</content>].<br/>
+                     </item>
+                     <item>Known hypersensitivity reactions to quinine. These include, but are not limited to, the following [<content styleCode="italics">see Warnings and Precautions (5.7)</content>]:<list listType="unordered" styleCode="Circle">
+                           <item>Thrombocytopenia</item>
+                           <item>Idiopathic thrombocytopenia purpura (ITP) and thrombotic thrombocytopenic purpura (TTP)</item>
+                           <item>Hemolytic uremic syndrome (HUS)</item>
+                           <item>Blackwater fever (acute intravascular hemolysis, hemoglobinuria, and hemoglobinemia)</item>
+                        </list>
+                     </item>
+                     <item>Known hypersensitivity to mefloquine or quinidine: cross-sensitivity to quinine has been documented [<content styleCode="italics">see Warnings and Precautions (5.7)</content>].<br/>
+                     </item>
+                     <item>Myasthenia gravis. Quinine has neuromuscular blocking activity, and may exacerbate muscle weakness.</item>
+                     <item>Optic neuritis. Quinine may exacerbate active optic neuritis [<content styleCode="italics">see Adverse Reactions (6.1)</content>].</item>
+                  </list>
+               </text>
+               <effectiveTime value="20230131"/>
+               <excerpt>
+                  <highlight>
+                     <text>
+                        <paragraph>Quinine sulfate capsules are contraindicated in patients with the following:</paragraph>
+                        <list listType="unordered" styleCode="Disk">
+                           <item>Prolongation of QT interval (<linkHtml href="#LINK_3d9a0a89-48ba-4040-9c27-6c067b55edbf">4</linkHtml>)<br/>
+                           </item>
+                           <item>Myasthenia gravis (<linkHtml href="#LINK_3d9a0a89-48ba-4040-9c27-6c067b55edbf">4</linkHtml>)</item>
+                           <item>Known hypersensitivity to quinine, mefloquine, or quinidine (<linkHtml href="#LINK_3d9a0a89-48ba-4040-9c27-6c067b55edbf">4</linkHtml>)</item>
+                           <item>Optic neuritis (<linkHtml href="#LINK_3d9a0a89-48ba-4040-9c27-6c067b55edbf">4</linkHtml>) </item>
+                        </list>
+                     </text>
+                  </highlight>
+               </excerpt>
+            </section>
+         </component>
+         <component>
+            <section ID="LINK_daf415b4-c222-4da8-b023-71dce949df4a">
+               <id root="22178b02-9cf3-4528-8c55-d55f24a368a0"/>
+               <code code="43685-7" codeSystem="2.16.840.1.113883.6.1" displayName="WARNINGS AND PRECAUTIONS SECTION"/>
+               <title>5 WARNINGS AND PRECAUTIONS</title>
+               <text/>
+               <effectiveTime value="20230131"/>
+               <excerpt>
+                  <highlight>
+                     <text>
+                        <list listType="unordered" styleCode="Disc">
+                           <item>Thrombocytopenia, including ITP and HUS/TTP, has been reported. Discontinue drug. (<linkHtml href="#LINK_d1f214b0-7a55-4ee1-832c-a8bd852c8b2c">5.2</linkHtml>)</item>
+                           <item>
+                              <content styleCode="underline">Hemolytic Anemia:</content> Monitor hemoglobin and hematocrit. Discontinue drug if hemolytic anemia occurs. (<linkHtml href="#LINK_d6a0f511-da21-492b-960a-afba1aa56f3e">5.3</linkHtml>) </item>
+                           <item>
+                              <content styleCode="underline">QT Prolongation and Ventricular Arrhythmias:</content> Avoid concomitant use with drugs known to prolong QT interval. (<linkHtml href="#LINK_c1b8abc5-00b0-468a-8c8b-520cbeeb7709">5.4</linkHtml>)</item>
+                           <item>Avoid concomitant use with rifampin. Quinine sulfate treatment failures have been reported. (<linkHtml href="#LINK_5fb18e4f-3122-4f1d-b255-c6ca70ef10b7">5.5</linkHtml>)</item>
+                           <item>Avoid concomitant use with neuromuscular blocking agents. Quinine sulfate may potentiate neuromuscular blockade and cause respiratory depression. (<linkHtml href="#LINK_8e19783d-cec0-4c29-84d6-ae81912998b9">5.6</linkHtml>)</item>
+                           <item>
+                              <content styleCode="underline">Serious and Life-Threatening Hypersensitivity Reactions</content>: Discontinue drug. (<linkHtml href="#LINK_3d9a0a89-48ba-4040-9c27-6c067b55edbf">4</linkHtml>, <linkHtml href="#LINK_92e318b6-c4a1-4655-8795-9b23665c1df4">5.7</linkHtml>)</item>
+                           <item>
+                              <content styleCode="underline">Atrial Fibrillation and Flutter:</content> Paradoxical increase in ventricular rate may occur. Closely monitor digoxin levels if used concomitantly. (<linkHtml href="#LINK_e917ab6e-2e3d-46d9-a36d-4f43dc09cf4f">5.8</linkHtml>)</item>
+                           <item>
+                              <content styleCode="underline">Hypoglycemia</content>: Monitor for signs and symptoms. (<linkHtml href="#LINK_ac0f79ae-ab51-4aff-8667-66f9b18f0838">5.9</linkHtml>)</item>
+                        </list>
+                     </text>
+                  </highlight>
+               </excerpt>
+               <component>
+                  <section ID="LINK_4ac71155-5885-47ae-abc2-f756c6db47ed">
+                     <id root="b3197830-aadc-4b71-81f8-d669e1755f6b"/>
+                     <code code="42229-5" codeSystem="2.16.840.1.113883.6.1" displayName="SPL UNCLASSIFIED SECTION"/>
+                     <title>5.1 Use of Quinine Sulfate for Treatment or Prevention of Nocturnal Leg Cramps</title>
+                     <text>
+                        <paragraph>Quinine sulfate may cause unpredictable serious and life-threatening hematologic reactions including thrombocytopenia and hemolytic-uremic syndrome/thrombotic thrombocytopenic purpura (HUS/TTP) in addition to hypersensitivity reactions, QT prolongation, serious cardiac arrhythmias including torsades de pointes, and other serious adverse events requiring medical intervention and hospitalization. Chronic renal impairment associated with the development of TTP, and fatalities have also been reported. The risk associated with the use of quinine sulfate in the absence of evidence of its effectiveness for treatment or prevention of nocturnal leg cramps, outweighs any potential benefit in treating and/or preventing this benign, self-limiting condition [<content styleCode="italics">see <linkHtml href="#LINK_fc440593-edf4-44eb-896e-581567aefbc1">Boxed Warning</linkHtml> and Contraindications (<linkHtml href="#LINK_3d9a0a89-48ba-4040-9c27-6c067b55edbf">4</linkHtml>)</content>].</paragraph>
+                     </text>
+                     <effectiveTime value="20230131"/>
+                  </section>
+               </component>
+               <component>
+                  <section ID="LINK_d1f214b0-7a55-4ee1-832c-a8bd852c8b2c">
+                     <id root="7fc0423b-7740-4498-851d-ad4876b5f1d7"/>
+                     <code code="42229-5" codeSystem="2.16.840.1.113883.6.1" displayName="SPL UNCLASSIFIED SECTION"/>
+                     <title>5.2 Thrombocytopenia</title>
+                     <text>
+                        <paragraph>Quinine-induced thrombocytopenia is an immune-mediated disorder. Severe cases of thrombocytopenia that are fatal or life threatening have been reported, including cases of HUS/TTP. Chronic renal impairment associated with the development of TTP has also been reported. Thrombocytopenia usually resolves within a week upon discontinuation of quinine. If quinine is not stopped, a patient is at risk for fatal hemorrhage. Upon re-exposure to quinine from any source, a patient with quinine-dependent antibodies could develop thrombocytopenia that is more rapid in onset and more severe than the original episode.</paragraph>
+                     </text>
+                     <effectiveTime value="20230131"/>
+                  </section>
+               </component>
+               <component>
+                  <section ID="LINK_d6a0f511-da21-492b-960a-afba1aa56f3e">
+                     <id root="f929b713-3dad-49c7-bc21-719f4407533b"/>
+                     <code code="42229-5" codeSystem="2.16.840.1.113883.6.1" displayName="SPL UNCLASSIFIED SECTION"/>
+                     <title>5.3 Hemolytic Anemia</title>
+                     <text>
+                        <paragraph>Acute hemolytic anemia has been reported in patients receiving quinine for treatment of malaria, including patients with glucose-6-phosphate dehydrogenase (G6PD) deficiency. The cause for the acute hemolytic anemia in quinine-treated patients with malaria and its potential relationship with G6PD deficiency has not been determined. Closely monitor hemoglobin and hematocrit during quinine treatment. Quinine should be discontinued if patients develop acute hemolytic anemia.</paragraph>
+                     </text>
+                     <effectiveTime value="20230131"/>
+                  </section>
+               </component>
+               <component>
+                  <section ID="LINK_c1b8abc5-00b0-468a-8c8b-520cbeeb7709">
+                     <id root="92e27f51-1910-4893-a985-f1cee3c6d424"/>
+                     <code code="42229-5" codeSystem="2.16.840.1.113883.6.1" displayName="SPL UNCLASSIFIED SECTION"/>
+                     <title>5.4 QT Prolongation and Ventricular Arrhythmias</title>
+                     <text>
+                        <paragraph>QT interval prolongation has been a consistent finding in studies which evaluated electrocardiographic changes with oral or parenteral quinine administration, regardless of age, clinical status, or severity of disease. The maximum increase in QT interval has been shown to correspond with peak quinine plasma concentration [<content styleCode="italics">see Clinical Pharmacology (<linkHtml href="#LINK_8e3b9427-c087-414c-b493-5ea355a05fa8">12.2</linkHtml>)</content>]. Quinine sulfate has been rarely associated with potentially fatal cardiac arrhythmias, including torsades de pointes, and ventricular fibrillation.</paragraph>
+                        <paragraph>Quinine sulfate has been shown to cause concentration-dependent prolongation of the PR and QRS interval. At particular risk are patients with underlying structural heart disease and preexisting conduction system abnormalities, elderly patients with sick sinus syndrome, patients with atrial fibrillation with slow ventricular response, patients with myocardial ischemia or patients receiving drugs known to prolong the PR interval (e.g., verapamil) or QRS interval (e.g., flecainide or quinidine) [<content styleCode="italics">see Clinical Pharmacology (<linkHtml href="#LINK_8e3b9427-c087-414c-b493-5ea355a05fa8">12.2</linkHtml>)</content>].</paragraph>
+                        <paragraph>Quinine sulfate is not recommended for use with other drugs known to cause QT prolongation, including Class IA antiarrhythmic agents (e.g., quinidine, procainamide, disopyramide), and Class III antiarrhythmic agents (e.g., amiodarone, sotalol, dofetilide).</paragraph>
+                        <paragraph>The use of macrolide antibiotics such as erythromycin should be avoided in patients receiving quinine sulfate. Fatal torsades de pointes was reported in an elderly patient who received concomitant quinine, erythromycin, and dopamine. Although a causal relationship between a specific drug and the arrhythmia was not established in this case, erythromycin is a CYP3A4 inhibitor and has been shown to increase quinine plasma levels when used concomitantly. A related macrolide antibiotic, troleandomycin, has also been shown to increase quinine exposure in a pharmacokinetic study [<content styleCode="italics">see Drug Interactions (<linkHtml href="#LINK_44fc0537-5954-47c8-819d-639266ec315a">7</linkHtml>)</content>].</paragraph>
+                        <paragraph>Quinine may inhibit the metabolism of certain drugs that are CYP3A4 substrates and are known to cause QT prolongation, e.g., astemizole, cisapride, terfenadine, pimozide, halofantrine and quinidine. Torsades de pointes has been reported in patients who received concomitant quinine and astemizole. Therefore, concurrent use of quinine sulfate with these medications, or drugs with similar properties, should be avoided [<content styleCode="italics">see Drug Interactions (<linkHtml href="#LINK_44fc0537-5954-47c8-819d-639266ec315a">7</linkHtml>)</content>].</paragraph>
+                        <paragraph>Concomitant administration of quinine sulfate with the antimalarial drugs, mefloquine or halofantrine, may result in electrocardiographic abnormalities, including QT prolongation, and increase the risk for torsades de pointes or other serious ventricular arrhythmias. Concurrent use of quinine sulfate and mefloquine may also increase the risk of seizures [<content styleCode="italics">see Drug Interactions (<linkHtml href="#LINK_44fc0537-5954-47c8-819d-639266ec315a">7</linkHtml>)</content>].</paragraph>
+                        <paragraph>Quinine sulfate should also be avoided in patients with known prolongation of QT interval and in patients with clinical conditions known to prolong the QT interval, such as uncorrected hypokalemia, bradycardia, and certain cardiac conditions [<content styleCode="italics">see Contraindications (<linkHtml href="#LINK_3d9a0a89-48ba-4040-9c27-6c067b55edbf">4</linkHtml>)</content>].</paragraph>
+                     </text>
+                     <effectiveTime value="20230131"/>
+                  </section>
+               </component>
+               <component>
+                  <section ID="LINK_5fb18e4f-3122-4f1d-b255-c6ca70ef10b7">
+                     <id root="60062a38-e6cf-4e53-b569-0f5433075377"/>
+                     <code code="42229-5" codeSystem="2.16.840.1.113883.6.1" displayName="SPL UNCLASSIFIED SECTION"/>
+                     <title>5.5 Concomitant Use of Rifampin</title>
+                     <text>
+                        <paragraph>Treatment failures may result from the concurrent use of rifampin with quinine sulfate, due to decreased plasma concentrations of quinine, and concomitant use of these medications should be avoided [<content styleCode="italics">see Drug Interactions (<linkHtml href="#LINK_44fc0537-5954-47c8-819d-639266ec315a">7</linkHtml>)</content>].</paragraph>
+                     </text>
+                     <effectiveTime value="20230131"/>
+                  </section>
+               </component>
+               <component>
+                  <section ID="LINK_8e19783d-cec0-4c29-84d6-ae81912998b9">
+                     <id root="d5af2223-724e-418d-8c5e-363bb8a0827f"/>
+                     <code code="42229-5" codeSystem="2.16.840.1.113883.6.1" displayName="SPL UNCLASSIFIED SECTION"/>
+                     <title>5.6 Concomitant Use of Neuromuscular Blocking Agents</title>
+                     <text>
+                        <paragraph>The use of neuromuscular blocking agents should be avoided in patients receiving quinine sulfate. In one patient who received pancuronium during an operative procedure, subsequent administration of quinine resulted in respiratory depression and apnea. Although there are no clinical reports with succinylcholine or tubocurarine, quinine may also potentiate neuromuscular blockade when used with these drugs [<content styleCode="italics">see Drug Interactions (<linkHtml href="#LINK_44fc0537-5954-47c8-819d-639266ec315a">7</linkHtml>)</content>].</paragraph>
+                     </text>
+                     <effectiveTime value="20230131"/>
+                  </section>
+               </component>
+               <component>
+                  <section ID="LINK_92e318b6-c4a1-4655-8795-9b23665c1df4">
+                     <id root="3dbb6011-d1ca-4943-9d32-96536aea3f50"/>
+                     <code code="42229-5" codeSystem="2.16.840.1.113883.6.1" displayName="SPL UNCLASSIFIED SECTION"/>
+                     <title>5.7 Hypersensitivity</title>
+                     <text>
+                        <paragraph>Serious hypersensitivity reactions reported with quinine sulfate include anaphylactic shock, anaphylactoid reactions, urticaria, serious skin rashes, including Stevens-Johnson syndrome and toxic epidermal necrolysis, angioedema, facial edema, bronchospasm, and pruritus.</paragraph>
+                        <paragraph>A number of other serious adverse reactions reported with quinine, including thrombotic thrombocytopenic purpura (TTP) and hemolytic uremic syndrome (HUS), thrombocytopenia, immune thrombocytopenic purpura (ITP), blackwater fever, disseminated intravascular coagulation, leukopenia, neutropenia, granulomatous hepatitis, and acute interstitial nephritis may also be due to hypersensitivity reactions.</paragraph>
+                        <paragraph>Quinine sulfate should be discontinued in case of any signs or symptoms of hypersensitivity [<content styleCode="italics">see Contraindications (<linkHtml href="#LINK_3d9a0a89-48ba-4040-9c27-6c067b55edbf">4</linkHtml>)</content>].</paragraph>
+                     </text>
+                     <effectiveTime value="20230131"/>
+                  </section>
+               </component>
+               <component>
+                  <section ID="LINK_e917ab6e-2e3d-46d9-a36d-4f43dc09cf4f">
+                     <id root="7809b0be-ab27-4481-897e-9112c1957e5a"/>
+                     <code code="42229-5" codeSystem="2.16.840.1.113883.6.1" displayName="SPL UNCLASSIFIED SECTION"/>
+                     <title>5.8 Atrial Fibrillation and Flutter</title>
+                     <text>
+                        <paragraph>Quinine sulfate should be used with caution in patients with atrial fibrillation or atrial flutter. A paradoxical increase in ventricular response rate may occur with quinine, similar to that observed with quinidine. If digoxin is used to prevent a rapid ventricular response, serum digoxin levels should be closely monitored, because digoxin levels may be increased with use of quinine [<content styleCode="italics">see Drug Interactions (<linkHtml href="#LINK_44fc0537-5954-47c8-819d-639266ec315a">7</linkHtml>)</content>].</paragraph>
+                     </text>
+                     <effectiveTime value="20230131"/>
+                  </section>
+               </component>
+               <component>
+                  <section ID="LINK_ac0f79ae-ab51-4aff-8667-66f9b18f0838">
+                     <id root="2f135972-2e6a-4a85-a696-85091b39599d"/>
+                     <code code="42229-5" codeSystem="2.16.840.1.113883.6.1" displayName="SPL UNCLASSIFIED SECTION"/>
+                     <title>5.9 Hypoglycemia</title>
+                     <text>
+                        <paragraph>Quinine stimulates release of insulin from the pancreas, and patients, especially pregnant women, may experience clinically significant hypoglycemia.</paragraph>
+                     </text>
+                     <effectiveTime value="20230131"/>
+                  </section>
+               </component>
+            </section>
+         </component>
+         <component>
+            <section ID="LINK_8f247af0-d8e0-464a-844b-f5919695e8b8">
+               <id root="de011453-aff2-4492-be6b-384c6ec018d1"/>
+               <code code="34084-4" codeSystem="2.16.840.1.113883.6.1" displayName="ADVERSE REACTIONS SECTION"/>
+               <title>6 ADVERSE REACTIONS</title>
+               <text/>
+               <effectiveTime value="20230131"/>
+               <excerpt>
+                  <highlight>
+                     <text>
+                        <paragraph>Most common adverse reactions are a cluster of symptoms called "cinchonism", which occurs to some degree in almost all patients taking quinine: headache, vasodilation and sweating, nausea, tinnitus, hearing impairment, vertigo or dizziness, blurred vision, disturbance in color perception, vomiting, diarrhea, abdominal pain, deafness, blindness, and disturbances in cardiac rhythm or conduction. (<linkHtml href="#LINK_69ebb1ae-0f21-4189-b3b7-07d2d8630482">6.1</linkHtml>)</paragraph>
+                        <paragraph>
+                           <content styleCode="bold">To report SUSPECTED ADVERSE REACTIONS, contact Teva at 1-888-838-2872 or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch.</content>
+                        </paragraph>
+                     </text>
+                  </highlight>
+               </excerpt>
+               <component>
+                  <section ID="LINK_69ebb1ae-0f21-4189-b3b7-07d2d8630482">
+                     <id root="d02bfeb3-e2c1-4ee3-9014-d65cc78d85fa"/>
+                     <code code="42229-5" codeSystem="2.16.840.1.113883.6.1" displayName="SPL UNCLASSIFIED SECTION"/>
+                     <title>6.1 Overall</title>
+                     <text>
+                        <paragraph>Quinine can adversely affect almost every body system. The most common adverse events associated with quinine use are a cluster of symptoms called “cinchonism”, which occurs to some degree in almost all patients taking quinine. Symptoms of mild cinchonism include headache, vasodilation and sweating, nausea, tinnitus, hearing impairment, vertigo or dizziness, blurred vision, and disturbance in color perception. More severe symptoms of cinchonism are vomiting, diarrhea, abdominal pain, deafness, blindness, and disturbances in cardiac rhythm or conduction. Most symptoms of cinchonism are reversible and resolve with discontinuation of quinine. </paragraph>
+                        <paragraph>The following adverse reactions have been reported with quinine sulfate. Because these reactions have been reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.</paragraph>
+                        <paragraph>
+                           <content styleCode="bold">General:</content> fever, chills, sweating, flushing, asthenia, lupus-like syndrome, and hypersensitivity reactions. </paragraph>
+                        <paragraph>
+                           <content styleCode="bold">Hematologic:</content> agranulocytosis, hypoprothrombinemia, thrombocytopenia, disseminated intravascular coagulation, hemolytic anemia; hemolytic uremic syndrome, thrombotic thrombocytopenic purpura, idiopathic thrombocytopenic purpura, petechiae, ecchymosis, hemorrhage, coagulopathy, blackwater fever, leukopenia, neutropenia, pancytopenia, aplastic anemia, and lupus anticoagulant. </paragraph>
+                        <paragraph>
+                           <content styleCode="bold">Neuropsychiatric:</content> headache, diplopia, confusion, altered mental status, seizures, coma, disorientation, tremors, restlessness, ataxia, acute dystonic reaction, aphasia, and suicide. </paragraph>
+                        <paragraph>
+                           <content styleCode="bold">Dermatologic:</content> cutaneous rashes, including urticarial, papular, or scarlatinal rashes, pruritus, bullous dermatitis, exfoliative dermatitis, erythema multiforme, Stevens-Johnson syndrome, toxic epidermal necrolysis, fixed drug eruption, photosensitivity reactions, allergic contact dermatitis, acral necrosis, and cutaneous vasculitis. </paragraph>
+                        <paragraph>
+                           <content styleCode="bold">Respiratory:</content> asthma, dyspnea, pulmonary edema. </paragraph>
+                        <paragraph>
+                           <content styleCode="bold">Cardiovascular:</content> chest pain, vasodilatation, hypotension, postural hypotension, tachycardia, bradycardia, palpitations, syncope, atrioventricular block, atrial fibrillation, irregular rhythm, unifocal premature ventricular contractions, nodal escape beats, U waves, QT prolongation, ventricular fibrillation, ventricular tachycardia, torsades de pointes, and cardiac arrest. </paragraph>
+                        <paragraph>
+                           <content styleCode="bold">Gastrointestinal:</content> nausea, vomiting, diarrhea, abdominal pain, gastric irritation, and esophagitis. </paragraph>
+                        <paragraph>
+                           <content styleCode="bold">Hepatobiliary:</content> granulomatous hepatitis, hepatitis, jaundice, and abnormal liver function tests. </paragraph>
+                        <paragraph>
+                           <content styleCode="bold">Metabolic:</content> hypoglycemia and anorexia. </paragraph>
+                        <paragraph>
+                           <content styleCode="bold">Musculoskeletal:</content> myalgias and muscle weakness. </paragraph>
+                        <paragraph>
+                           <content styleCode="bold">Renal:</content> hemoglobinuria, renal failure, renal impairment, and acute interstitial nephritis. </paragraph>
+                        <paragraph>
+                           <content styleCode="bold">Special Senses:</content> visual disturbances, including blurred vision with scotomata, sudden loss of vision, photophobia, diplopia, night blindness, diminished visual fields, fixed pupillary dilatation, disturbed color vision, optic neuritis, blindness, vertigo, tinnitus, hearing impairment, and deafness. </paragraph>
+                     </text>
+                     <effectiveTime value="20230131"/>
+                  </section>
+               </component>
+            </section>
+         </component>
+         <component>
+            <section ID="LINK_44fc0537-5954-47c8-819d-639266ec315a">
+               <id root="30394823-9ef1-4ad8-9238-e645cf022ffd"/>
+               <code code="34073-7" codeSystem="2.16.840.1.113883.6.1" displayName="DRUG INTERACTIONS SECTION"/>
+               <title>7 DRUG INTERACTIONS</title>
+               <text>
+                  <paragraph>Table 1 below presents clinically significant drug interactions with quinine sulfate capsules.</paragraph>
+                  <table width="1000px" cellspacing="0" cellpadding="5" border="1">
+                     <caption>Table 1: Clinically Significant Drug Interactions with quinine sulfate capsules</caption>
+                     <col width="1px1pt1pt1px"/>
+                     <col width="2.55in"/>
+                     <col width="2.55in"/>
+                     <tbody>
+                        <tr>
+                           <td align="center" styleCode=" Toprule Lrule">
+                              <paragraph>
+                                 <content styleCode="bold">Drug(s)</content>
+                              </paragraph>
+                           </td>
+                           <td align="center" styleCode=" Botrule Toprule Lrule Rrule">
+                              <paragraph>
+                                 <content styleCode="bold">Clinical Impact</content>
+                              </paragraph>
+                           </td>
+                           <td align="center" styleCode=" Botrule Toprule Lrule Rrule">
+                              <paragraph>
+                                 <content styleCode="bold">Recommendation </content>
+                              </paragraph>
+                           </td>
+                        </tr>
+                        <tr>
+                           <td align="center" colspan="3" styleCode=" Botrule Toprule Lrule Rrule">
+                              <paragraph>
+                                 <content styleCode="bold">Effects of Drugs and Other Substances on Quinine Pharmacokinetics</content>
+                              </paragraph>
+                           </td>
+                        </tr>
+                        <tr>
+                           <td styleCode=" Botrule Toprule Lrule Rrule">
+                              <paragraph>Antacids </paragraph>
+                           </td>
+                           <td styleCode=" Botrule Toprule Lrule Rrule">
+                              <paragraph>Antacids containing aluminum and/or magnesium may delay or decrease absorption of quinine. </paragraph>
+                           </td>
+                           <td styleCode=" Botrule Toprule Lrule Rrule">
+                              <paragraph>Concomitant administration of these antacids with quinine sulfate capsules should be avoided. </paragraph>
+                           </td>
+                        </tr>
+                        <tr>
+                           <td styleCode=" Botrule Toprule Lrule Rrule">
+                              <paragraph>Antiepileptics (AEDs) (carbamazepine, phenobarbital, and phenytoin) </paragraph>
+                           </td>
+                           <td styleCode=" Botrule Toprule Lrule Rrule">
+                              <paragraph>Carbamazepine, phenobarbital, and phenytoin are CYP3A4 inducers and may decrease quinine plasma concentrations if used concurrently with quinine sulfate capsules. </paragraph>
+                           </td>
+                           <td styleCode=" Botrule Toprule Lrule Rrule">
+                              <paragraph>If concomitant administration with carbamazepine or phenobarbital cannot be avoided, frequent monitoring of anticonvulsant drug concentrations is recommended. Additionally, patients should be monitored closely for adverse reactions associated with these anticonvulsants. </paragraph>
+                           </td>
+                        </tr>
+                        <tr>
+                           <td styleCode=" Botrule Toprule Lrule Rrule">
+                              <paragraph>Histamine H2-receptor blockers [cimetidine, ranitidine (nonspecific CYP450 inhibitors)]</paragraph>
+                           </td>
+                           <td styleCode=" Botrule Toprule Lrule Rrule">
+                              <paragraph>When quinine is to be given concomitantly with a histamine H2-receptor blocker, the use of ranitidine is preferred over cimetidine. Although cimetidine and ranitidine may be used concomitantly with quinine sulfate capsules<content styleCode="italics"> [see Clinical Pharmacology (<linkHtml href="#LINK_b77a25b4-3e2a-471a-9ca8-20cd715cc7ac">12.3</linkHtml>)]</content>.</paragraph>
+                           </td>
+                           <td styleCode=" Botrule Toprule Lrule Rrule">
+                              <paragraph>Patients should be monitored closely for adverse events associated with quinine.</paragraph>
+                           </td>
+                        </tr>
+                        <tr>
+                           <td styleCode=" Botrule Toprule Lrule Rrule">
+                              <paragraph>Ketoconazole (CYP3A4 inhibitor) </paragraph>
+                           </td>
+                           <td styleCode=" Botrule Toprule Lrule Rrule">
+                              <paragraph>No change in the quinine sulfate capsules dosage regimen is necessary with concomitant ketoconazole <content styleCode="italics">[see Clinical Pharmacology (<content styleCode="italics">
+                                       <linkHtml href="#LINK_b77a25b4-3e2a-471a-9ca8-20cd715cc7ac">12.3</linkHtml>
+                                    </content>)]</content>. </paragraph>
+                           </td>
+                           <td styleCode=" Botrule Toprule Lrule Rrule">
+                              <paragraph>Patients should be monitored closely for adverse reactions associated with quinine. </paragraph>
+                           </td>
+                        </tr>
+                        <tr>
+                           <td styleCode=" Botrule Toprule Lrule Rrule">
+                              <paragraph>Macrolide antibiotics (erythromycin, troleandomycin) (CYP3A4 inhibitors) </paragraph>
+                           </td>
+                           <td styleCode=" Botrule Toprule Lrule Rrule">
+                              <paragraph>Increased quinine plasma levels have been observed when used concomitantly <content styleCode="italics">[see Clinical Pharmacology (<content styleCode="italics">
+                                       <linkHtml href="#LINK_b77a25b4-3e2a-471a-9ca8-20cd715cc7ac">12.3</linkHtml>
+                                    </content>)]</content>. </paragraph>
+                           </td>
+                           <td styleCode=" Botrule Toprule Lrule Rrule">
+                              <paragraph>Concomitant administration of macrolide antibiotics such as erythromycin or troleandomycin with quinine sulfate capsules should be avoided <content styleCode="italics">[see Warnings and Precautions (<linkHtml href="#LINK_c1b8abc5-00b0-468a-8c8b-520cbeeb7709">5.4</linkHtml>)]</content>. </paragraph>
+                           </td>
+                        </tr>
+                        <tr>
+                           <td styleCode=" Botrule Toprule Lrule Rrule">
+                              <paragraph>Rifampin (CYP3A4 inducer) </paragraph>
+                           </td>
+                           <td styleCode=" Botrule Toprule Lrule Rrule">
+                              <paragraph>Decreased quinine plasma levels have been observed when used concomitantly <content styleCode="italics">[see Clinical Pharmacology (<content styleCode="italics">
+                                       <linkHtml href="#LINK_b77a25b4-3e2a-471a-9ca8-20cd715cc7ac">12.3</linkHtml>
+                                    </content>)]</content>. </paragraph>
+                           </td>
+                           <td styleCode=" Botrule Toprule Lrule Rrule">
+                              <paragraph>Concomitant administration of rifampin with quinine sulfate capsules should be avoided <content styleCode="italics">[see Warnings and Precautions (<linkHtml href="#LINK_5fb18e4f-3122-4f1d-b255-c6ca70ef10b7">5.5</linkHtml>)]</content>. </paragraph>
+                           </td>
+                        </tr>
+                        <tr>
+                           <td styleCode=" Botrule Toprule Lrule Rrule">
+                              <paragraph>Ritonavir </paragraph>
+                           </td>
+                           <td styleCode=" Botrule Toprule Lrule Rrule">
+                              <paragraph>Increased quinine plasma levels have been observed when used concomitantly <content styleCode="italics">[see Clinical Pharmacology (<content styleCode="italics">
+                                       <linkHtml href="#LINK_b77a25b4-3e2a-471a-9ca8-20cd715cc7ac">12.3</linkHtml>
+                                    </content>)]</content>. </paragraph>
+                           </td>
+                           <td styleCode=" Botrule Toprule Lrule Rrule">
+                              <paragraph>Concomitant administration of ritonavir with quinine sulfate capsules should be avoided. </paragraph>
+                           </td>
+                        </tr>
+                        <tr>
+                           <td styleCode=" Botrule Toprule Lrule Rrule">
+                              <paragraph>Tetracycline</paragraph>
+                           </td>
+                           <td styleCode=" Botrule Toprule Lrule Rrule">
+                              <paragraph>Tetracycline may be concomitantly administered with quinine sulfate capsules<content styleCode="italics"> [see Clinical Pharmacology (<content styleCode="italics">
+                                       <linkHtml href="#LINK_b77a25b4-3e2a-471a-9ca8-20cd715cc7ac">12.3</linkHtml>
+                                    </content>)]</content>.</paragraph>
+                           </td>
+                           <td styleCode=" Botrule Toprule Lrule Rrule">
+                              <paragraph>Patients should be monitored closely for adverse reactions associated with quinine sulfate.</paragraph>
+                           </td>
+                        </tr>
+                        <tr>
+                           <td styleCode=" Botrule Toprule Lrule Rrule">
+                              <paragraph>Theophylline or aminophylline</paragraph>
+                           </td>
+                           <td styleCode=" Botrule Toprule Lrule Rrule">
+                              <paragraph>No change in the quinine sulfate capsules dosage regimen is necessary with concomitant theophylline or aminophylline <content styleCode="italics">[see Clinical Pharmacology (<content styleCode="italics">
+                                       <linkHtml href="#LINK_b77a25b4-3e2a-471a-9ca8-20cd715cc7ac">12.3</linkHtml>
+                                    </content>)]</content>.</paragraph>
+                           </td>
+                           <td styleCode=" Botrule Toprule Lrule Rrule">
+                              <paragraph>Patients should be monitored closely for adverse reactions associated with quinine.</paragraph>
+                           </td>
+                        </tr>
+                        <tr>
+                           <td styleCode=" Botrule Toprule Lrule Rrule">
+                              <paragraph>Urinary alkalizers (acetazolamide, sodium bicarbonate)</paragraph>
+                           </td>
+                           <td styleCode=" Botrule Toprule Lrule Rrule">
+                              <paragraph>Urinary alkalinizing agents may increase plasma quinine concentrations.</paragraph>
+                           </td>
+                           <td styleCode=" Botrule Toprule Lrule Rrule">
+                              <paragraph>Use caution if using concomitantly.</paragraph>
+                           </td>
+                        </tr>
+                        <tr>
+                           <td align="center" colspan="3" styleCode=" Botrule Toprule Lrule Rrule">
+                              <paragraph>
+                                 <content styleCode="bold">Effects of Quinine on the Pharmacokinetics of Other Drugs</content>
+                              </paragraph>
+                           </td>
+                        </tr>
+                        <tr>
+                           <td styleCode=" Botrule Toprule Lrule Rrule">
+                              <paragraph>Anticonvulsants (carbamazepine, phenobarbital, and phenytoin)</paragraph>
+                           </td>
+                           <td styleCode=" Botrule Toprule Lrule Rrule">
+                              <paragraph>Carbamazepine, phenobarbital, and phenytoin are CYP3A4 inducers and may decrease quinine plasma concentrations if used concurrently with quinine sulfate capsules<content styleCode="italics"> [see Clinical Pharmacology (<content styleCode="italics">
+                                       <linkHtml href="#LINK_b77a25b4-3e2a-471a-9ca8-20cd715cc7ac">12.3</linkHtml>
+                                    </content>)]</content>.</paragraph>
+                           </td>
+                           <td styleCode=" Botrule Toprule Lrule Rrule">
+                              <paragraph>If concomitant administration with carbamazepine or phenobarbital cannot be avoided, frequent monitoring of anticonvulsant drug concentrations is recommended. Patients should be monitored closely for adverse reactions associated with these anticonvulsants. </paragraph>
+                           </td>
+                        </tr>
+                        <tr>
+                           <td styleCode=" Botrule Toprule Lrule Rrule">
+                              <paragraph>Astemizole (CYP3A4 substrate) </paragraph>
+                           </td>
+                           <td styleCode=" Botrule Toprule Lrule Rrule">
+                              <paragraph>Elevated plasma astemizole concentrations were reported in a subject who experienced torsades de pointes after receiving three doses of quinine sulfate for nocturnal leg cramps concomitantly with chronic astemizole 10 mg/day. </paragraph>
+                           </td>
+                           <td styleCode=" Botrule Toprule Lrule Rrule">
+                              <paragraph>The concurrent use of quinine sulfate capsules with astemizole and other CYP3A4 substrates with QT prolongation potential (e.g., cisapride, terfenadine, halofantrine, pimozide and quinidine) should also be avoided <content styleCode="italics">[see Warnings and Precautions (<linkHtml href="#LINK_c1b8abc5-00b0-468a-8c8b-520cbeeb7709">5.4</linkHtml>)]</content>. </paragraph>
+                           </td>
+                        </tr>
+                        <tr>
+                           <td styleCode=" Botrule Toprule Lrule Rrule">
+                              <paragraph>Atorvastatin (CYP3A4 substrate) </paragraph>
+                           </td>
+                           <td styleCode=" Botrule Toprule Lrule Rrule">
+                              <paragraph>Rhabdomyolysis with acute renal failure secondary to myoglobinuria was reported in a patient taking atorvastatin administered with a single dose of quinine. Quinine may increase plasma concentrations of atorvastatin, thereby increasing the risk of myopathy or rhabdomyolysis. Thus, clinicians considering combined therapy of quinine sulfate capsules with atorvastatin or other HMG-CoA reductase inhibitors (“statins”) that are CYP3A4 substrates (e.g., simvastatin, lovastatin) should carefully weigh the potential benefits and risks of each medication. If quinine sulfate capsules is used concomitantly with any of these statins, lower starting and maintenance doses of the statin should be considered. </paragraph>
+                           </td>
+                           <td styleCode=" Botrule Toprule Lrule Rrule">
+                              <paragraph>Patients should also be monitored closely for any signs or symptoms of muscle pain, tenderness, or weakness, particularly during initial therapy. If marked creatine phosphokinase (CPK) elevation occurs or myopathy (defined as muscle aches or muscle weakness in conjunction with CPK values &gt;10 times the upper limit of normal) is diagnosed or suspected, atorvastatin or other statin should be discontinued. </paragraph>
+                           </td>
+                        </tr>
+                        <tr>
+                           <td styleCode=" Botrule Toprule Lrule Rrule">
+                              <paragraph>Desipramine (CYP2D6 substrate) </paragraph>
+                           </td>
+                           <td styleCode=" Botrule Toprule Lrule Rrule">
+                              <paragraph>Quinine may inhibit the metabolism of drugs that are CYP2D6 substrates if used at antimalarial doses (greater than or equal to 600 mg) <content styleCode="italics">[see Clinical Pharmacology (<content styleCode="italics">
+                                       <linkHtml href="#LINK_b77a25b4-3e2a-471a-9ca8-20cd715cc7ac">12.3</linkHtml>
+                                    </content>)]</content>. </paragraph>
+                           </td>
+                           <td styleCode=" Botrule Toprule Lrule Rrule">
+                              <paragraph>Patients taking medications that are CYP2D6 substrates with quinine sulfate capsules should be monitored closely for adverse reactions associated with these medications. </paragraph>
+                           </td>
+                        </tr>
+                        <tr>
+                           <td styleCode=" Botrule Toprule Lrule Rrule">
+                              <paragraph>Digoxin (P-gp substrate) </paragraph>
+                           </td>
+                           <td styleCode=" Botrule Toprule Lrule Rrule">
+                              <paragraph>Digoxin levels may be increased with use of quinine <content styleCode="italics">[see Clinical Pharmacology (<content styleCode="italics">
+                                       <linkHtml href="#LINK_b77a25b4-3e2a-471a-9ca8-20cd715cc7ac">12.3</linkHtml>
+                                    </content>)]</content>. </paragraph>
+                           </td>
+                           <td styleCode=" Botrule Toprule Lrule Rrule">
+                              <paragraph>If quinine sulfate capsules are administered to patients receiving digoxin, plasma digoxin concentrations should be closely monitored, and the digoxin dose adjusted, as necessary <content styleCode="italics">[see Warnings and Precautions (<linkHtml href="#LINK_e917ab6e-2e3d-46d9-a36d-4f43dc09cf4f">5.8</linkHtml>)]</content>. </paragraph>
+                           </td>
+                        </tr>
+                        <tr>
+                           <td styleCode=" Botrule Toprule Lrule Rrule">
+                              <paragraph>Mefloquine </paragraph>
+                           </td>
+                           <td styleCode=" Botrule Toprule Lrule Rrule">
+                              <paragraph>The concomitant administration of mefloquine and quinine sulfate capsules may produce electrocardiographic abnormalities (including QTc prolongation) and may increase the risk of seizures <content styleCode="italics">[see Clinical Pharmacology (<content styleCode="italics">
+                                       <linkHtml href="#LINK_b77a25b4-3e2a-471a-9ca8-20cd715cc7ac">12.3</linkHtml>
+                                    </content>)]</content>. </paragraph>
+                           </td>
+                           <td styleCode=" Botrule Toprule Lrule Rrule">
+                              <paragraph>Avoid concomitant use <content styleCode="italics">[see Warnings and Precautions (<linkHtml href="#LINK_c1b8abc5-00b0-468a-8c8b-520cbeeb7709">5.4</linkHtml>)]</content>. </paragraph>
+                           </td>
+                        </tr>
+                        <tr>
+                           <td styleCode=" Botrule Toprule Lrule Rrule">
+                              <paragraph>Neuromuscular blocking agents (pancuronium, succinylcholine, tubocurarine) </paragraph>
+                           </td>
+                           <td styleCode=" Botrule Toprule Lrule Rrule">
+                              <paragraph>Quinine may also enhance the neuromuscular blocking effects of succinylcholine and tubocurarine <content styleCode="italics">[see Clinical Pharmacology (<content styleCode="italics">
+                                       <linkHtml href="#LINK_b77a25b4-3e2a-471a-9ca8-20cd715cc7ac">12.3</linkHtml>
+                                    </content>)]</content>. </paragraph>
+                           </td>
+                           <td styleCode=" Botrule Toprule Lrule Rrule">
+                              <paragraph>Avoid concomitant use <content styleCode="italics">[see Warnings and Precautions (<linkHtml href="#LINK_8e19783d-cec0-4c29-84d6-ae81912998b9">5.6</linkHtml>)]</content>. </paragraph>
+                           </td>
+                        </tr>
+                        <tr>
+                           <td styleCode=" Botrule Toprule Lrule Rrule">
+                              <paragraph>Ritonavir </paragraph>
+                           </td>
+                           <td styleCode=" Botrule Toprule Lrule Rrule">
+                              <paragraph>Ritonavir has significant effect on quinine pharmacokinetics <content styleCode="italics">[see Clinical Pharmacology (<content styleCode="italics">
+                                       <linkHtml href="#LINK_b77a25b4-3e2a-471a-9ca8-20cd715cc7ac">12.3</linkHtml>
+                                    </content>)]</content>. </paragraph>
+                           </td>
+                           <td styleCode=" Botrule Toprule Lrule Rrule">
+                              <paragraph>The concomitant administration of quinine sulfate capsules with ritonavir should be avoided. </paragraph>
+                           </td>
+                        </tr>
+                        <tr>
+                           <td styleCode=" Botrule Toprule Lrule Rrule">
+                              <paragraph>Theophylline or aminophylline (CYP1A2 substrate)</paragraph>
+                           </td>
+                           <td styleCode=" Botrule Toprule Lrule Rrule">
+                              <paragraph>Increased quinine plasma levels when used concomitantly <content styleCode="italics">[see Clinical Pharmacology (<content styleCode="italics">
+                                       <linkHtml href="#LINK_b77a25b4-3e2a-471a-9ca8-20cd715cc7ac">12.3</linkHtml>
+                                    </content>)]</content>.</paragraph>
+                           </td>
+                           <td styleCode=" Botrule Toprule Lrule Rrule">
+                              <paragraph>If quinine sulfate capsules are co- administered to patients receiving theophylline or aminophylline, plasma theophylline concentrations should be monitored frequently to ensure therapeutic concentrations.</paragraph>
+                           </td>
+                        </tr>
+                        <tr>
+                           <td styleCode=" Botrule Toprule Lrule Rrule">
+                              <paragraph>Warfarin and oral anticoagulants</paragraph>
+                           </td>
+                           <td styleCode=" Botrule Toprule Lrule Rrule">
+                              <paragraph>Cinchona alkaloids, including quinine, may have the potential to depress hepatic enzyme synthesis of vitamin K-dependent coagulation pathway proteins and may enhance the action of warfarin and other oral anticoagulants. Quinine may also interfere with the anticoagulant effect of heparin. </paragraph>
+                           </td>
+                           <td styleCode=" Botrule Toprule Lrule Rrule">
+                              <paragraph>In patients receiving these anticoagulants, the prothrombin time (PT), partial thromboplastin time (PTT), or international normalization ratio (INR) should be closely monitored as appropriate, during concurrent therapy with quinine sulfate capsules. </paragraph>
+                           </td>
+                        </tr>
+                        <tr>
+                           <td styleCode=" Botrule Toprule Lrule Rrule">
+                              <paragraph>Drug/Laboratory Interactions</paragraph>
+                           </td>
+                           <td styleCode=" Botrule Toprule Lrule Rrule">
+                              <paragraph>Quinine may produce an elevated value for urinary 17-ketogenic steroids when the Zimmerman method is used.</paragraph>
+                              <paragraph>Quinine may interfere with urine qualitative dipstick protein assays as well as quantitative methods (e.g., pyrogallol red-molybdate). </paragraph>
+                           </td>
+                           <td styleCode=" Botrule Toprule Lrule Rrule">
+                              <paragraph>Special attention to patients using quinine is needed to minimize errors in the interpretation of laboratory results.</paragraph>
+                           </td>
+                        </tr>
+                     </tbody>
+                  </table>
+                  <br/>
+               </text>
+               <effectiveTime value="20230131"/>
+               <excerpt>
+                  <highlight>
+                     <text>
+                        <table>
+                           <col width="41%"/>
+                           <col width="59%"/>
+                           <tbody>
+                              <tr>
+                                 <td valign="top" styleCode=" Botrule Toprule Lrule">
+                                    <paragraph>
+                                       <content styleCode="bold">Interacting Drug</content>
+                                    </paragraph>
+                                 </td>
+                                 <td valign="top" styleCode=" Botrule Toprule Lrule Rrule">
+                                    <paragraph>
+                                       <content styleCode="bold">Interaction</content>
+                                    </paragraph>
+                                 </td>
+                              </tr>
+                              <tr>
+                                 <td valign="top" styleCode=" Botrule Lrule">
+                                    <paragraph>Drugs known to prolong QT interval (e.g., Class 1A and Class III antiarrhythmic agents)</paragraph>
+                                 </td>
+                                 <td valign="top" styleCode=" Botrule Lrule Rrule">
+                                    <paragraph>Quinine sulfate prolongs QT interval, ECG abnormalities including QT prolongation and Torsades de Pointes. Avoid concomitant use. (<linkHtml href="#LINK_c1b8abc5-00b0-468a-8c8b-520cbeeb7709">5.4</linkHtml>)</paragraph>
+                                 </td>
+                              </tr>
+                              <tr>
+                                 <td valign="top" styleCode=" Botrule Lrule">
+                                    <paragraph>Other antimalarials (e.g., halofantrine, mefloquine)</paragraph>
+                                 </td>
+                                 <td valign="top" styleCode=" Botrule Lrule Rrule">
+                                    <paragraph>ECG abnormalities including QT prolongation. Avoid concomitant use. (<linkHtml href="#LINK_c1b8abc5-00b0-468a-8c8b-520cbeeb7709">5.4</linkHtml>, <linkHtml href="#LINK_44fc0537-5954-47c8-819d-639266ec315a">7</linkHtml>)</paragraph>
+                                 </td>
+                              </tr>
+                              <tr>
+                                 <td valign="top" styleCode=" Botrule Lrule">
+                                    <paragraph>CYP3A4 inducers or inhibitors</paragraph>
+                                 </td>
+                                 <td valign="top" styleCode=" Botrule Lrule Rrule">
+                                    <paragraph>Alteration in plasma quinine concentration. Monitor for lack of efficacy or increased adverse reactions of quinine. (<linkHtml href="#LINK_44fc0537-5954-47c8-819d-639266ec315a">7</linkHtml>)</paragraph>
+                                 </td>
+                              </tr>
+                              <tr>
+                                 <td valign="top" styleCode=" Botrule Lrule">
+                                    <paragraph>CYP3A4 and CYP2D6 substrates</paragraph>
+                                 </td>
+                                 <td valign="top" styleCode=" Botrule Lrule Rrule">
+                                    <paragraph>Quinine is an inhibitor of CYP3A4 and CYP2D6. Monitor for lack of efficacy or increased adverse reactions of the coadministered drug. (<linkHtml href="#LINK_44fc0537-5954-47c8-819d-639266ec315a">7</linkHtml>)</paragraph>
+                                 </td>
+                              </tr>
+                              <tr>
+                                 <td valign="top" styleCode=" Botrule Lrule">
+                                    <paragraph>Digoxin</paragraph>
+                                 </td>
+                                 <td valign="top" styleCode=" Botrule Lrule Rrule">
+                                    <paragraph>Increased digoxin plasma concentration. (<linkHtml href="#LINK_ac0f79ae-ab51-4aff-8667-66f9b18f0838">5.8</linkHtml>, <linkHtml href="#LINK_44fc0537-5954-47c8-819d-639266ec315a">7</linkHtml>)</paragraph>
+                                 </td>
+                              </tr>
+                           </tbody>
+                        </table>
+                        <paragraph>See full prescribing information for a complete list of reported and potential interactions.</paragraph>
+                     </text>
+                  </highlight>
+               </excerpt>
+            </section>
+         </component>
+         <component>
+            <section ID="LINK_3e0e9707-b287-4be9-a207-dbb16ea15409">
+               <id root="a4a0fb8b-c9f9-4fa7-82c8-0d779aed48bd"/>
+               <code code="43684-0" codeSystem="2.16.840.1.113883.6.1" displayName="USE IN SPECIFIC POPULATIONS SECTION"/>
+               <title>8 USE IN SPECIFIC POPULATIONS</title>
+               <text/>
+               <effectiveTime value="20230131"/>
+               <excerpt>
+                  <highlight>
+                     <text>
+                        <list listType="unordered" styleCode="Disk">
+                           <item>Renal Impairment: Reduce dose and dosing frequency for patients with severe chronic renal impairment. (<linkHtml href="#LINK_f150ca4c-24d2-46ed-b468-6dd915ba7d90">2.2</linkHtml>, <linkHtml href="#LINK_f44fdf35-5a71-41b5-a7e4-1a4414093913">8.6</linkHtml>, <linkHtml href="#LINK_b77a25b4-3e2a-471a-9ca8-20cd715cc7ac">12.3</linkHtml>)</item>
+                           <item>Hepatic Impairment: Closely monitor for adverse reactions. Quinine should not be administered in patients with severe (Child-Pugh C) hepatic impairment. (<linkHtml href="#LINK_0cccd1c5-e682-401f-9ca3-3224a6e62d1a">2.3</linkHtml>, <linkHtml href="#LINK_66b8e727-8327-49e8-9588-8a9e572ebe81">8.7</linkHtml>, <linkHtml href="#LINK_b77a25b4-3e2a-471a-9ca8-20cd715cc7ac">12.3</linkHtml>)<br/>
+                           </item>
+                        </list>
+                     </text>
+                  </highlight>
+               </excerpt>
+               <component>
+                  <section ID="LINK_9e60b49e-ec35-4570-a932-552d19257b67">
+                     <id root="1bc3f080-b77b-430e-b7e2-879158512e0e"/>
+                     <code code="42228-7" codeSystem="2.16.840.1.113883.6.1" displayName="PREGNANCY SECTION"/>
+                     <title>8.1 Pregnancy</title>
+                     <text>
+                        <paragraph>
+                           <content styleCode="underline">Risk Summary<br/>
+                           </content>Prolonged experience with quinine in pregnant women over several decades, based on published prospective and retrospective observational studies, surveys, safety and efficacy studies, review articles, case reports and case series have not identified a drug associated risk of major birth defects, miscarriage or adverse maternal or fetal outcomes <content styleCode="italics">(see Data)</content>.</paragraph>
+                        <paragraph>In animal reproduction studies, administration of quinine by multiple routes of administration to pregnant rabbits, dogs, guinea pigs, rats, and monkeys during the period of organogenesis at doses of 0.25 to 2 times the maximum recommended human dose (MRHD) based on body surface area (BSA), produced embryo-fetal toxicity including malformations. Offspring of pregnant rats administered oral quinine sulfate during mating, gestation, and lactation at a dose approximately equivalent to 0.1 times the MRHD based on BSA comparison experienced impaired growth and delayed physical development <content styleCode="italics">(see Data)</content>. </paragraph>
+                        <paragraph>The estimated background risk of major birth defects and miscarriage for the indicated population are unknown. All pregnancies have a background risk of birth defect, loss, or other adverse outcomes. In the U.S. general population, the estimated background risk of major birth defects and miscarriage in clinically recognized pregnancies is 2 to 4% and 15 to 20%, respectively.</paragraph>
+                        <paragraph>
+                           <content styleCode="underline">Clinical Considerations<br/>
+                           </content>
+                           <content styleCode="italics">Disease-associated maternal and/or embryo/fetal risk</content>
+                        </paragraph>
+                        <paragraph>Malaria during and after pregnancy increases the risk for adverse pregnancy and neonatal outcomes, including maternal anemia, severe malaria, spontaneous abortion, stillbirths, preterm delivery, low birth weight, intrauterine growth retardation, congenital malaria, and maternal and neonatal mortality. </paragraph>
+                        <paragraph>
+                           <content styleCode="italics">Maternal adverse reactions<br/>
+                           </content>An increased incidence of hypoglycemia, due to increased pancreatic secretion of insulin, has been reported with quinine use, in pregnant women, especially during the third trimester<sup>1</sup>. Monitor glucose levels in pregnant woman taking quinine. Tinnitus, vomiting, dizziness, and nausea are commonly reported adverse reactions in pregnant women taking quinine. Pregnant women are also at risk for a rare triad of complications: massive hemolysis, hemoglobinemia, and hemoglobinuria<sup>2</sup>.</paragraph>
+                        <paragraph>
+                           <content styleCode="italics">Labor or delivery<br/>
+                           </content>In doses several times higher than those used to treat malaria, quinine may cause uterine contractions; however, there is no evidence that quinine causes uterine contractions at the doses recommended for the treatment of malaria.</paragraph>
+                        <paragraph>
+                           <content styleCode="underline">Data<br/>
+                           </content>
+                           <content styleCode="italics">Human Data<br/>
+                           </content>Quinine crosses the placenta with measurable blood concentrations in the fetus. In 8 women who delivered live infants 1 to 6 days after starting quinine therapy, umbilical cord plasma quinine concentrations were between 1.0 and 4.6 mg/L (mean 2.4 mg/L) and the mean (±SD) ratio of cord plasma to maternal plasma quinine concentrations was 0.32 ± 0.14. Quinine levels in the fetus may not be therapeutic.</paragraph>
+                        <paragraph>Adverse outcomes have been identified in the post-marketing experience with quinine during pregnancy. Because these outcomes are reported from varied data sources and have inconsistent findings and/or important methodological limitations, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure. </paragraph>
+                        <paragraph>In studies in which more than 893 pregnant women were treated with quinine for malaria in the first trimester, no quinine-associated increases in the incidence of congenital anomalies were observed compared with other antimalarial drugs<sup>3</sup>.</paragraph>
+                        <paragraph>A retrospective study of women with <content styleCode="italics">P. falciparum </content>malaria who were treated with oral quinine sulfate 10 mg/kg 3 times daily for 7 days at any time in pregnancy reported no significant difference in the rate of stillbirths at &gt;28 weeks of gestation in women treated with quinine (10 of 633 women [1.6%]) as compared with a control group without malaria or exposure to antimalarial drugs during pregnancy (40 of 2201 women [1.8%]). The overall rate of congenital malformations (9 of 633 offspring [1.4%]) was not different for women who were treated with quinine sulfate compared with the control group (38 of 2201 offspring [1.7%]). The spontaneous abortion rate was higher in the control group (10.9%) than in women treated with quinine sulfate (3.5%) [OR = 3.1; 95% CI 2.1 to 4.7]. An epidemiologic survey that included 104 mother-child pairs exposed to quinine during the first 4 months of pregnancy, found no increased risk of structural birth defects was seen (2 fetal malformations [1.9%]). Case reports describe deafness and optic nerve hypoplasia in children exposed in utero due to maternal ingestion of high doses of quinine. </paragraph>
+                        <paragraph>
+                           <content styleCode="italics">Animal Data<br/>
+                           </content>In animal developmental studies conducted in multiple animal species<sup>4</sup>, pregnant animals received quinine by the subcutaneous, intramuscular, and oral routes at doses 0.25 to 2 times the maximum recommended human dose (MRHD) based on body surface area (BSA). Increases in fetal death were observed in utero in pregnant rabbits at maternal doses ≥ 100 mg/kg/day and in pregnant dogs at ≥ 15 mg/kg/day corresponding to dose levels approximately 0.5 and 0.25 times the MRHD respectively based on BSA comparisons. Rabbit offspring had increased rates of degenerated auditory nerve and spiral ganglion and increased rates of CNS anomalies such as anencephaly and microcephaly at a dose of 130 mg/kg/day corresponding to a maternal dose approximately 1.3 times the MRHD based on BSA comparison. Guinea pig offspring had increased rates of cochlear hemorrhage at maternal doses of 200 mg/kg corresponding to a dose level of approximately 1.4 times the MRHD based on BSA comparison. No fetal malformations were observed in rats at maternal doses up to 300 mg/kg/day and in monkeys at maternal doses up to 200 mg/kg/day corresponding to doses approximately 1 and 2 times the MRHD respectively based on BSA comparisons.</paragraph>
+                        <paragraph>In a pre-postnatal study, pregnant rats received quinine sulfate in feed beginning two weeks prior to mating, through gestation, and lactation. An estimated oral dose of quinine sulfate of 20 mg/kg/day corresponding to approximately 0.1 times the MRHD based on BSA comparison resulted in offspring with impaired growth, lower body weights at birth and during the lactation period, and delayed physical development of teeth eruption and eye opening during the lactation period.</paragraph>
+                     </text>
+                     <effectiveTime value="20230131"/>
+                  </section>
+               </component>
+               <component>
+                  <section ID="LINK_bbdea96e-14c6-445b-8476-a6ac9ad925f9">
+                     <id root="58bd1102-f1d1-4b0e-b330-946f04f01430"/>
+                     <code code="34079-4" codeSystem="2.16.840.1.113883.6.1" displayName="LABOR &amp; DELIVERY SECTION"/>
+                     <title>8.2 Lactation</title>
+                     <text>
+                        <paragraph>
+                           <content styleCode="underline">Risk Summary<br/>
+                           </content>Quinine is present in human milk. It is estimated that breastfed infants would receive less than 2 to 3 mg per day of quinine base (&lt; 0.4% of the maternal dose) via breast milk <content styleCode="italics">(see Data)</content>. There are no data on the effects of quinine on the breastfed infant or the effects on milk production. The developmental and health benefits of breastfeeding should be considered along with the mother’s clinical need for quinine sulfate capsules and any potential adverse effects on the breastfed child from quinine sulfate capsules or from the underlying maternal condition.</paragraph>
+                        <paragraph>
+                           <content styleCode="underline">Data<br/>
+                           </content>No toxicity was reported in infants in a single study where oral quinine sulfate (10 mg/kg every 8 hours for 1 to 10 days) was administered to 25 lactating women. Quinine concentrations in breast milk are approximately 31% of quinine concentrations in maternal plasma.</paragraph>
+                     </text>
+                     <effectiveTime value="20230131"/>
+                  </section>
+               </component>
+               <component>
+                  <section ID="LINK_fd40b63d-3e5a-4c22-9513-0be47a3e7922">
+                     <id root="5484335d-4902-4e8a-b11d-98a61c02de90"/>
+                     <code code="34080-2" codeSystem="2.16.840.1.113883.6.1" displayName="NURSING MOTHERS SECTION"/>
+                     <title>8.3 Females
+and Males of Reproductive Potential</title>
+                     <text>
+                        <paragraph>
+                           <content styleCode="italics">Infertility<br/>
+                           </content>In a published study<sup>5 </sup>in 5 men receiving oral tablets of 600 mg quinine three times a day for one week, sperm motility was decreased and percent sperm with abnormal morphology was increased, but sperm count and serum testosterone were unaffected.</paragraph>
+                        <paragraph>Based on findings from animal studies, quinine sulfate capsules may impair fertility <content styleCode="italics">[see Nonclinical Toxicology (<linkHtml href="#LINK_0cc3a957-5186-4584-b18f-5767d4cebfeb">13.1</linkHtml>)]</content>.</paragraph>
+                     </text>
+                     <effectiveTime value="20230131"/>
+                  </section>
+               </component>
+               <component>
+                  <section ID="LINK_53dcfbd6-a7f3-48e5-b8fb-cc614a5a0d3f">
+                     <id root="c59c143d-0351-4191-ad7b-ad7edc718d67"/>
+                     <code code="34081-0" codeSystem="2.16.840.1.113883.6.1" displayName="PEDIATRIC USE SECTION"/>
+                     <title>8.4 Pediatric Use</title>
+                     <text>
+                        <paragraph>The safety and efficacy of quinine sulfate in pediatric patients under the age of 16 has not been established. </paragraph>
+                     </text>
+                     <effectiveTime value="20230131"/>
+                  </section>
+               </component>
+               <component>
+                  <section ID="LINK_b0a7dfb5-1ddb-4730-b807-9e162a98067a">
+                     <id root="f8686150-beae-4935-ab20-3acb42174e13"/>
+                     <code code="34082-8" codeSystem="2.16.840.1.113883.6.1" displayName="GERIATRIC USE SECTION"/>
+                     <title>8.5 Geriatric Use</title>
+                     <text>
+                        <paragraph>Clinical studies of quinine sulfate did not include sufficient numbers of subjects aged 65 and over to determine whether they respond to treatment differently from younger subjects. Other reported clinical experience has not identified differences in responses between the elderly and younger patients. </paragraph>
+                     </text>
+                     <effectiveTime value="20230131"/>
+                  </section>
+               </component>
+               <component>
+                  <section ID="LINK_f44fdf35-5a71-41b5-a7e4-1a4414093913">
+                     <id root="42407520-7367-49bf-b808-c9cbf15b8b63"/>
+                     <code code="42229-5" codeSystem="2.16.840.1.113883.6.1" displayName="SPL UNCLASSIFIED SECTION"/>
+                     <title>8.6 Renal Impairment</title>
+                     <text>
+                        <paragraph>Clearance of quinine is decreased in patients with severe chronic renal failure. The dosage and dosing frequency should be reduced [<content styleCode="italics">see Dosage and Administration (<linkHtml href="#LINK_f150ca4c-24d2-46ed-b468-6dd915ba7d90">2.2</linkHtml>) and Clinical Pharmacology (<linkHtml href="#LINK_b77a25b4-3e2a-471a-9ca8-20cd715cc7ac">12.3</linkHtml>)</content>].</paragraph>
+                     </text>
+                     <effectiveTime value="20230131"/>
+                  </section>
+               </component>
+               <component>
+                  <section ID="LINK_66b8e727-8327-49e8-9588-8a9e572ebe81">
+                     <id root="253b1b12-1cb8-4b7a-843a-49e8798b8183"/>
+                     <code code="42229-5" codeSystem="2.16.840.1.113883.6.1" displayName="SPL UNCLASSIFIED SECTION"/>
+                     <title>8.7 Hepatic Impairment</title>
+                     <text>
+                        <paragraph>In patients with severe hepatic impairment (Child-Pugh C), quinine oral clearance (CL/F) is decreased, volume of distribution (Vd/F) is increased, and half-life is prolonged, relative to subjects with normal liver function. Therefore, quinine is not indicated in patients with severe hepatic impairment and alternate therapy should be administered [<content styleCode="italics">see Dosage and Administration (<linkHtml href="#LINK_0cccd1c5-e682-401f-9ca3-3224a6e62d1a">2.3</linkHtml>) and Clinical Pharmacology (<linkHtml href="#LINK_b77a25b4-3e2a-471a-9ca8-20cd715cc7ac">12.3</linkHtml>)</content>]. </paragraph>
+                        <paragraph>Close monitoring is recommended for patients with mild (Child-Pugh A) or moderate (Child-Pugh B) hepatic impairment, as exposure to quinine may be increased relative to subjects with normal liver function [<content styleCode="italics">see Clinical Pharmacology (<linkHtml href="#LINK_b77a25b4-3e2a-471a-9ca8-20cd715cc7ac">12.3</linkHtml>)</content>].</paragraph>
+                     </text>
+                     <effectiveTime value="20230131"/>
+                  </section>
+               </component>
+            </section>
+         </component>
+         <component>
+            <section ID="LINK_7d2690c5-2e6d-43f7-a8d5-0863ce373037">
+               <id root="afa720b5-4dbb-47ab-9484-3a4b1e9d4bce"/>
+               <code code="34088-5" codeSystem="2.16.840.1.113883.6.1" displayName="OVERDOSAGE SECTION"/>
+               <title>10 OVERDOSAGE</title>
+               <text>
+                  <paragraph>Quinine overdose can be associated with serious complications, including visual impairment, hypoglycemia, cardiac arrhythmias, and death. Visual impairment can range from blurred vision and defective color perception, to visual field constriction and permanent blindness. Cinchonism occurs in virtually all patients with quinine overdose. Symptoms range from headache, nausea, vomiting, abdominal pain, diarrhea, tinnitus, vertigo, hearing impairment, sweating, flushing, and blurred vision, to deafness, blindness, serious cardiac arrhythmias, hypotension, and circulatory collapse. Central nervous system toxicity (drowsiness, disturbances of consciousness, ataxia, convulsions, respiratory depression, and coma) has also been reported with quinine overdose, as well as pulmonary edema and adult respiratory distress syndrome. </paragraph>
+                  <paragraph>Most toxic reactions are dose-related; however, some reactions may be idiosyncratic because of the variable sensitivity of patients to the toxic effects of quinine. A lethal dose of quinine has not been clearly defined, but fatalities have been reported after the ingestion of 2 to 8 grams in adults.</paragraph>
+                  <paragraph>Quinine, like quinidine, has Class I antiarrhythmic properties. The cardiotoxicity of quinine is due to its negative inotropic action, and to its effect on cardiac conduction, resulting in decreased rates of depolarization and conduction, and increased action potential and effective refractory period. ECG changes observed with quinine overdose include sinus tachycardia, PR prolongation, T wave inversion, bundle branch block, an increased QT interval, and a widening of the QRS complex. Quinine’s alpha-blocking properties may result in hypotension and further exacerbate myocardial depression by decreasing coronary perfusion. Quinine overdose has been also associated with hypotension, cardiogenic shock, and circulatory collapse, ventricular arrhythmias, including ventricular tachycardia, ventricular fibrillation, idioventricular rhythm, and torsades de pointes, as well as bradycardia, and atrioventricular block [<content styleCode="italics">see Warnings and Precautions (<linkHtml href="#LINK_daf415b4-c222-4da8-b023-71dce949df4a">5</linkHtml>) and Clinical Pharmacology (<linkHtml href="#LINK_b77a25b4-3e2a-471a-9ca8-20cd715cc7ac">12.3</linkHtml>)</content>]. </paragraph>
+                  <paragraph>Quinine is rapidly absorbed, and attempts to remove residual quinine sulfate from the stomach by gastric lavage may not be effective. Multiple-dose activated charcoal has been shown to decrease plasma quinine concentrations [<content styleCode="italics">see Clinical Pharmacology (<linkHtml href="#LINK_b77a25b4-3e2a-471a-9ca8-20cd715cc7ac">12.3</linkHtml>)</content>]. </paragraph>
+                  <paragraph>Forced acid diuresis, hemodialysis, charcoal column hemoperfusion, and plasma exchange were not found to be effective in significantly increasing quinine elimination in a series of 16 patients. </paragraph>
+               </text>
+               <effectiveTime value="20230131"/>
+            </section>
+         </component>
+         <component>
+            <section ID="LINK_c13be081-10be-499e-8352-46c3b2939610">
+               <id root="f8d6bdf7-aeef-4316-bd98-b4032beca63e"/>
+               <code code="34089-3" codeSystem="2.16.840.1.113883.6.1" displayName="DESCRIPTION SECTION"/>
+               <title>11 DESCRIPTION</title>
+               <text>
+                  <paragraph>Quinine sulfate, USP is a cinchona alkaloid chemically described as bis[(<content styleCode="italics">R</content>)-(6-methoxyquinolin-4-yl)-[2<content styleCode="italics">S</content>,4<content styleCode="italics">S</content>,5<content styleCode="italics">R</content>)-5-ethenyl-1-azabicyclo[2.2.2]oct-2-yl]methanol] sulfate. The structural formula of quinine sulfate, USP is:</paragraph>
+                  <renderMultiMedia referencedObject="MM1"/>
+                  <paragraph>C<sub>40</sub>H<sub>50</sub>N<sub>4</sub>O<sub>8</sub>S•2H<sub>2</sub>O      M.W. 783.0</paragraph>
+                  <paragraph>Quinine sulfate, USP occurs as a white or almost white, crystalline powder that darkens on exposure to light. It is odorless and has a persistent very bitter taste. It is slightly soluble in water, sparingly soluble in boiling water and in alcohol, and practically insoluble in ether. </paragraph>
+                  <paragraph>Quinine Sulfate Capsules USP are supplied for oral administration as capsules containing 324 mg of the active ingredient quinine sulfate, USP equivalent to 269 mg free base. Inactive ingredients: colloidal silicon dioxide, gelatin, iron oxide black, magnesium stearate, pregelatinized corn starch, propylene glycol, shellac, sodium lauryl sulfate, and titanium dioxide. The imprinting ink may contain potassium hydroxide.</paragraph>
+                  <paragraph>FDA approved dissolution test specifications differ from USP.</paragraph>
+               </text>
+               <effectiveTime value="20230131"/>
+               <component>
+                  <observationMedia ID="MM1">
+                     <text>quinine sulfate structural formula</text>
+                     <value xsi:type="ED" mediaType="image/jpeg">
+                        <reference value="quinine-sulfate-capsule-091661-1.jpg"/>
+                     </value>
+                  </observationMedia>
+               </component>
+            </section>
+         </component>
+         <component>
+            <section ID="LINK_be430989-6475-42ce-b59a-2c84506289ab">
+               <id root="31f16ffa-3ece-491b-863b-6ad2e071c23a"/>
+               <code code="34090-1" codeSystem="2.16.840.1.113883.6.1" displayName="CLINICAL PHARMACOLOGY SECTION"/>
+               <title>12 CLINICAL PHARMACOLOGY</title>
+               <effectiveTime value="20230131"/>
+               <component>
+                  <section ID="LINK_132aa8ab-306d-43ed-8406-74bb1eb5ed19">
+                     <id root="97939e33-3644-4ce9-baf0-cc6bf8f356d5"/>
+                     <code code="43679-0" codeSystem="2.16.840.1.113883.6.1" displayName="MECHANISM OF ACTION SECTION"/>
+                     <title>12.1 Mechanism of Action</title>
+                     <text>
+                        <paragraph>Quinine is an antimalarial agent [<content styleCode="italics">see Microbiology (<linkHtml href="#LINK_25177e66-1151-49e8-8517-55804f59c23a">12.4</linkHtml>)</content>].</paragraph>
+                     </text>
+                     <effectiveTime value="20230131"/>
+                  </section>
+               </component>
+               <component>
+                  <section ID="LINK_8e3b9427-c087-414c-b493-5ea355a05fa8">
+                     <id root="d2221f4c-5fde-4e93-8068-cd59f6c1a676"/>
+                     <code code="43681-6" codeSystem="2.16.840.1.113883.6.1" displayName="PHARMACODYNAMICS SECTION"/>
+                     <title>12.2 Pharmacodynamics</title>
+                     <text>
+                        <paragraph>QT<sub>c</sub> interval prolongation was studied in a double-blind, multiple dose, placebo- and positive-controlled crossover study in young (N=13, 20 to 39 years) and elderly (N=13, 65 to 78 years) subjects. After 7 days of dosing with quinine sulfate 648 mg three times daily, the maximum mean (95% upper confidence bound) differences in QTcI from placebo after baseline correction was 27.7 (32.2) ms.</paragraph>
+                        <paragraph>Prolongation of the PR and QRS interval was also noted in subjects receiving quinine sulfate. The maximum mean (95% upper confidence bound) difference in PR from placebo after baseline-correction was 14.5 (18.0) ms. The maximum mean (95% upper confidence bound) difference in QRS from placebo after baseline-correction was 11.5 (13.3) ms. [<content styleCode="italics">see Warnings and Precautions (<linkHtml href="#LINK_c1b8abc5-00b0-468a-8c8b-520cbeeb7709">5.4</linkHtml>)</content>].</paragraph>
+                     </text>
+                     <effectiveTime value="20230131"/>
+                  </section>
+               </component>
+               <component>
+                  <section ID="LINK_b77a25b4-3e2a-471a-9ca8-20cd715cc7ac">
+                     <id root="c29534ff-2ccd-4304-984f-24da55787d13"/>
+                     <code code="43682-4" codeSystem="2.16.840.1.113883.6.1" displayName="PHARMACOKINETICS SECTION"/>
+                     <title>12.3 Pharmacokinetics</title>
+                     <text>
+                        <paragraph>
+                           <content styleCode="italics">
+                              <content styleCode="underline">Absorption<br/>
+                              </content>
+                           </content>The oral bioavailability of quinine is 76 to 88% in healthy adults. Quinine exposure is higher in patients with malaria than in healthy subjects. After a single oral dose of quinine sulfate, the mean quinine T<sub>max</sub> was longer, and mean AUC and C<sub>max</sub> were higher in patients with uncomplicated <content styleCode="italics">P. falciparum</content> malaria than in healthy subjects, as shown in Table 2 below.</paragraph>
+                        <table width="800px" cellpadding="5">
+                           <caption>Table 2: Pharmacokinetic Parameters of Quinine in Healthy Subjects and Patients with Uncomplicated P. falciparum Malaria after a Single Dose<sup>a</sup> of Oral Quinine Sulfate Capsules</caption>
+                           <col/>
+                           <col/>
+                           <col/>
+                           <tbody>
+                              <tr>
+                                 <td styleCode=" Botrule Toprule Lrule Rrule"> </td>
+                                 <td align="center" styleCode=" Botrule Toprule Lrule Rrule"> <paragraph>
+                                       <content styleCode="bold">Healthy Subjects</content>
+                                    </paragraph>
+                                    <paragraph>
+                                       <content styleCode="bold">(N=23)</content>
+                                    </paragraph>
+                                    <paragraph>
+                                       <content styleCode="bold">
+                                          <content styleCode="bold">Mean ± SD</content>
+                                       </content>
+                                    </paragraph>
+                                 </td>
+                                 <td align="center" styleCode=" Botrule Toprule Lrule Rrule"> <paragraph>
+                                       <content styleCode="bold">Uncomplicated <content styleCode="italics">P. falciparum</content> Malaria Patients</content>
+                                    </paragraph>
+                                    <paragraph>
+                                       <content styleCode="bold">(N=15)</content>
+                                    </paragraph>
+                                    <paragraph>
+                                       <content styleCode="bold">
+                                          <content styleCode="bold">Mean ± SD </content>
+                                       </content>
+                                    </paragraph>
+                                 </td>
+                              </tr>
+                              <tr>
+                                 <td styleCode=" Botrule Toprule Lrule Rrule">Dose (mg/kg)<sup>a</sup>
+                                 </td>
+                                 <td align="center" styleCode=" Botrule Toprule Lrule Rrule"> 8.7 </td>
+                                 <td align="center" styleCode=" Botrule Toprule Lrule Rrule"> 10 </td>
+                              </tr>
+                              <tr>
+                                 <td styleCode=" Botrule Toprule Lrule Rrule"> T<sub>max</sub> (h) </td>
+                                 <td align="center" styleCode=" Botrule Toprule Lrule Rrule"> 2.8 ± 0.8 </td>
+                                 <td align="center" styleCode=" Botrule Toprule Lrule Rrule"> 5.9 ± 4.7 </td>
+                              </tr>
+                              <tr>
+                                 <td styleCode=" Botrule Toprule Lrule Rrule"> C<sub>max</sub> (mcg/mL) </td>
+                                 <td align="center" styleCode=" Botrule Toprule Lrule Rrule"> 3.2 ± 0.7 </td>
+                                 <td align="center" styleCode=" Botrule Toprule Lrule Rrule"> 8.4 </td>
+                              </tr>
+                              <tr>
+                                 <td styleCode=" Botrule Toprule Lrule Rrule">AUC<sub>0-12</sub> (mcg<sup>*</sup>h/mL) </td>
+                                 <td align="center" styleCode=" Botrule Toprule Lrule Rrule"> 28.0 </td>
+                                 <td align="center" styleCode=" Botrule Toprule Lrule Rrule"> 73.0 </td>
+                              </tr>
+                              <tr>
+                                 <td colspan="3">
+                                    <sup>a </sup>Quinine sulfate dose was 648 mg (approximately 8.7 mg/kg) in healthy subjects; and 10 mg/kg in patients with malaria</td>
+                              </tr>
+                           </tbody>
+                        </table>
+                        <paragraph>Quinine sulfate capsules may be administered without regard to meals. When a single oral 324 mg capsule of quinine sulfate was administered to healthy subjects (N=26) with a standardized high-fat breakfast, the mean T<sub>max</sub> of quinine was prolonged to about 4.0 hours, but the mean C<sub>max</sub> and AUC<sub>0-24h</sub> were similar to those achieved when quinine sulfate capsule was given under fasted conditions [<content styleCode="italics">see Dosage and Administration (<linkHtml href="#LINK_6653f0c4-868b-420a-ae1e-34ae04d6f0dd">2.1</linkHtml>)</content>]. </paragraph>
+                        <paragraph>
+                           <content styleCode="italics">
+                              <content styleCode="underline">Distribution</content>
+                           </content>
+                        </paragraph>
+                        <paragraph>In patients with malaria, the volume of distribution (Vd/F) decreases in proportion to the severity of the infection. In published studies with healthy subjects who received a single oral 600 mg dose of quinine sulfate, the mean Vd/F ranged from 2.5 to 7.1 L/kg. </paragraph>
+                        <paragraph>Quinine is moderately protein-bound in blood in healthy subjects, ranging from 69 to 92%. During active malarial infection, protein binding of quinine is increased to 78 to 95%, corresponding to the increase in α<sub>1</sub>-acid glycoprotein that occurs with malaria infection. </paragraph>
+                        <paragraph>Intra-erythrocytic levels of quinine are approximately 30 to 50% of the plasma concentration.</paragraph>
+                        <paragraph>Quinine penetrates relatively poorly into the cerebrospinal fluid (CSF) in patients with cerebral malaria, with CSF concentration approximately 2 to 7% of plasma concentration. </paragraph>
+                        <paragraph>In one study, quinine concentrations in placental cord blood and breast milk were approximately 32% and 31%, respectively, of quinine concentrations in maternal plasma. The estimated total dose of quinine secreted into breast milk was less than 2 to 3 mg per day [<content styleCode="italics">see Use in Specific Populations (<linkHtml href="#LINK_9e60b49e-ec35-4570-a932-552d19257b67">8.1</linkHtml>, <linkHtml href="#LINK_bbdea96e-14c6-445b-8476-a6ac9ad925f9">8.2</linkHtml>)</content>].</paragraph>
+                        <paragraph>
+                           <content styleCode="underline">Elimination</content>
+                        </paragraph>
+                        <paragraph>
+                           <content styleCode="italics">Metabolism</content>
+                        </paragraph>
+                        <paragraph>Quinine is metabolized almost exclusively via hepatic oxidative cytochrome P450 (CYP) pathways, resulting in four primary metabolites, 3-hydroxyquinine, 2´-quinone, <content styleCode="italics">O</content>-desmethylquinine, and 10,11-dihydroxydihydroquinine. Six secondary metabolites result from further biotransformation of the primary metabolites. The major metabolite, 3-hydroxyquinine, is less active than the parent drug. </paragraph>
+                        <paragraph>
+                           <content styleCode="italics">In vitro</content> studies using human liver microsomes and recombinant P450 enzymes have shown that quinine is metabolized mainly by CYP3A4. Depending on the <content styleCode="italics">in vitro</content> experimental conditions, other enzymes, including CYP1A2, CYP2C8, CYP2C9, CYP2C19, CYP2D6, and CYP2E1 were shown to have some role in the metabolism of quinine.</paragraph>
+                        <paragraph>
+                           <content styleCode="italics">Excretion</content>
+                        </paragraph>
+                        <paragraph>Quinine is eliminated primarily <content styleCode="italics">via</content> hepatic biotransformation. Approximately 20% of quinine is excreted unchanged in urine. Because quinine is reabsorbed when the urine is alkaline, renal excretion of the drug is twice as rapid when the urine is acidic than when it is alkaline. </paragraph>
+                        <paragraph>In various published studies, healthy subjects who received a single oral 600 mg dose of quinine sulfate exhibited a mean plasma clearance ranging from 0.08 to 0.47 L/h/kg (median value: 0.17 L/h/kg) with a mean plasma elimination half-life of 9.7 to 12.5 hours. </paragraph>
+                        <paragraph>In 15 patients with uncomplicated malaria who received a 10 mg/kg oral dose of quinine sulfate, the mean total clearance of quinine was slower (approximately 0.09 L/h/kg) during the acute phase of the infection, and faster (approximately 0.16 L/h/kg) during the recovery or convalescent phase.</paragraph>
+                        <paragraph>
+                           <content styleCode="italics">Extracorporeal Elimination:</content> Administration of multiple-dose activated charcoal (50 grams administered 4 hours after quinine dosing followed by 3 further doses over the next 12 hours) decreased the mean quinine elimination half-life from 8.2 to 4.6 hours, and increased the mean quinine clearance by 56% (from 11.8 L/h to 18.4 L/h) in 7 healthy adult subjects who received a single oral 600 mg dose of quinine sulfate. Likewise, in 5 symptomatic patients with acute quinine poisoning who received multiple-dose activated charcoal (50 grams every 4 hours), the mean quinine elimination half-life was shortened to 8.1 hours in comparison to a half-life of approximately 26 hours in patients who did not receive activated charcoal [<content styleCode="italics">see Overdosage (<linkHtml href="#LINK_7d2690c5-2e6d-43f7-a8d5-0863ce373037">10</linkHtml>)</content>]. </paragraph>
+                        <paragraph>In 6 patients with quinine poisoning, forced acid diuresis did not change the half-life of quinine elimination (25.1 ± 4.6 hours <content styleCode="italics">vs.</content> 26.5 ± 5.8 hours), or the amount of unchanged quinine recovered in the urine, in comparison to 8 patients not treated in this manner [<content styleCode="italics">see Overdosage (<linkHtml href="#LINK_7d2690c5-2e6d-43f7-a8d5-0863ce373037">10</linkHtml>)</content>].</paragraph>
+                        <paragraph>
+                           <content styleCode="underline">Specific Populations</content>
+                        </paragraph>
+                        <paragraph>
+                           <content styleCode="italics">Pediatric Patients</content>
+                        </paragraph>
+                        <paragraph>The pharmacokinetics of quinine in children (1.5 to 12 years old) with uncomplicated <content styleCode="italics">P. falciparum</content> malaria appear to be similar to that seen in adults with uncomplicated malaria. Furthermore, as seen in adults, the mean total clearance and the volume of distribution of quinine were reduced in pediatric patients with malaria as compared to the healthy pediatric controls. Table 3<content styleCode="bold"> </content>below provides a comparison of the mean ± SD pharmacokinetic parameters of quinine in pediatric patients versus healthy pediatric controls.</paragraph>
+                        <table width="800px" cellpadding="5">
+                           <caption>Table 3: Quinine Pharmacokinetic Parameters Following the First 10 mg/kg Quinine Sulfate Oral Dose in Healthy Pediatric Controls and Pediatric Patients with Acute Uncomplicated P. falciparum Malaria</caption>
+                           <col/>
+                           <col/>
+                           <col/>
+                           <tbody>
+                              <tr>
+                                 <td styleCode=" Botrule Toprule Lrule Rrule"> </td>
+                                 <td align="center" styleCode=" Botrule Toprule Lrule Rrule">
+                                    <paragraph>
+                                       <content styleCode="bold">Healthy Pediatric<br/>  Controls</content>
+                                       <sup>1 </sup>
+                                       <content styleCode="bold">(N=5)</content>
+                                    </paragraph>
+                                    <content styleCode="bold">Mean ± SD</content> </td>
+                                 <td align="center" styleCode=" Botrule Toprule Lrule Rrule">
+                                    <paragraph>
+                                       <content styleCode="bold">
+                                          <content styleCode="italics">P. falciparum</content>
+                                       </content>
+                                       <content styleCode="bold"> Malaria Pediatric Patients</content>
+                                       <sup>1</sup>
+                                    </paragraph>
+                                    <paragraph>
+                                       <content styleCode="bold">(N=15)</content>
+                                    </paragraph>
+                                    <content styleCode="bold">Mean ± SD</content> </td>
+                              </tr>
+                              <tr>
+                                 <td styleCode=" Botrule Toprule Lrule Rrule">T<sub>max</sub> (h) </td>
+                                 <td align="center" styleCode=" Botrule Toprule Lrule Rrule"> 2.0</td>
+                                 <td align="center" styleCode=" Botrule Toprule Lrule Rrule"> 4.0</td>
+                              </tr>
+                              <tr>
+                                 <td styleCode=" Botrule Toprule Lrule Rrule">C<sub>max</sub> (mcg/mL)</td>
+                                 <td align="center" styleCode=" Botrule Toprule Lrule Rrule"> 3.4 ± 1.18</td>
+                                 <td align="center" styleCode=" Botrule Toprule Lrule Rrule"> 7.5 ± 1.1</td>
+                              </tr>
+                              <tr>
+                                 <td styleCode=" Botrule Toprule Lrule Rrule">Half-life (h)</td>
+                                 <td align="center" styleCode=" Botrule Toprule Lrule Rrule"> 3.2 ± 0.3</td>
+                                 <td align="center" styleCode=" Botrule Toprule Lrule Rrule"> 12.1 ± 1.4</td>
+                              </tr>
+                              <tr>
+                                 <td styleCode=" Botrule Toprule Lrule Rrule">Total CL (L/h/kg)</td>
+                                 <td align="center" styleCode=" Botrule Toprule Lrule Rrule"> 0.30 ± 0.04</td>
+                                 <td align="center" styleCode=" Botrule Toprule Lrule Rrule"> 0.06 ± 0.01</td>
+                              </tr>
+                              <tr>
+                                 <td styleCode=" Botrule Toprule Lrule Rrule">Vd (L/kg)</td>
+                                 <td align="center" styleCode=" Botrule Toprule Lrule Rrule"> 1.43 ± 0.18</td>
+                                 <td align="center" styleCode=" Botrule Toprule Lrule Rrule">  0.87 ± 0.12</td>
+                              </tr>
+                              <tr>
+                                 <td colspan="3"> <sup>1 </sup>age 1.5 to 12 years</td>
+                              </tr>
+                           </tbody>
+                        </table>
+                        <paragraph>
+                           <content styleCode="italics">Geriatric Patients<br/>
+                           </content>Following a single oral dose of 600 mg quinine sulfate, the mean AUC was about 38% higher in 8 healthy elderly subjects (65 to 78 years old) than in 12 younger subjects (20 to 35 years old). The mean T<sub>max</sub> and C<sub>max</sub> were similar in elderly and younger subjects after a single oral dose of quinine sulfate 600 mg. The mean oral clearance of quinine was significantly decreased, and the mean elimination half-life was significantly increased in elderly subjects compared with younger subjects (0.06 versus 0.08 L/h/kg, and 18.4 hours versus 10.5 hours, respectively). Although there was no significant difference in the renal clearance of quinine between the two age groups, elderly subjects excreted a larger proportion of the dose in urine as unchanged drug than younger subjects (16.6% versus 11.2%).</paragraph>
+                        <paragraph>After a single 648 mg dose or at steady state, following quinine sulfate 648 mg given three times daily for 7 days, no difference in the rate and extent of absorption or clearance of quinine was seen between 13 elderly subjects (65 to 78 years old) and 14 young subjects (20 to 39 years old). The mean elimination half-life was 20% longer in the elderly subjects (24.0 hours) than in younger subjects (20.0 hours). The steady state C<sub>max</sub> (± SD) and AUC<sub>0-8</sub> (± SD) for healthy volunteers are 6.8 ± 1.24 mcg/mL and 48.8 ± 9.15 mcg*h/mL, respectively, following 7 days of oral quinine sulfate 648 mg three times daily. The steady state pharmacokinetic parameters in healthy elderly subjects were similar to the pharmacokinetic parameters in healthy young subjects.</paragraph>
+                        <paragraph>
+                           <content styleCode="italics">Patients with Renal Impairment<br/>
+                           </content>Following a single oral 600 mg dose of quinine sulfate in otherwise healthy subjects with severe chronic renal failure not receiving any form of dialysis (mean serum creatinine = 9.6 mg/dL), the median AUC was higher by 195% and the median C<sub>max</sub> was higher by 79% than in subjects with normal renal function (mean serum creatinine = 1 mg/dL). The mean plasma half-life in subjects with severe chronic renal impairment was prolonged to 26 hours compared to 9.7 hours in the healthy controls. Computer assisted modeling and simulation indicates that in patients with malaria and severe chronic renal failure, a dosage regimen consisting of one loading dose of 648 mg quinine sulfate followed 12 hours later by a maintenance dosing regimen of 324 mg every 12 hours will provide adequate systemic exposure to quinine [<content styleCode="italics">see Dosage and Administration (<linkHtml href="#LINK_f150ca4c-24d2-46ed-b468-6dd915ba7d90">2.2</linkHtml>)</content>]. The effects of mild and moderate renal impairment on the pharmacokinetics and safety of quinine sulfate are not known.</paragraph>
+                        <paragraph>Negligible to minimal amounts of circulating quinine in the blood are removed by hemodialysis or hemofiltration. In subjects with chronic renal failure (CRF) on hemodialysis, only about 6.5% of quinine is removed in 1 hour. Plasma quinine concentrations do not change during or shortly after hemofiltration in subjects with CRF [<content styleCode="italics">see Overdosage (<linkHtml href="#LINK_7d2690c5-2e6d-43f7-a8d5-0863ce373037">10</linkHtml>)</content>]. </paragraph>
+                        <paragraph>
+                           <content styleCode="italics">Patients with Hepatic Impairment<br/>
+                           </content>In otherwise healthy subjects with mild hepatic impairment (Child-Pugh A; N=10), who received a single 500 mg dose of quinine sulfate, there was no significant difference in quinine pharmacokinetic parameters or exposure to the primary metabolite, 3-hydroxyquinine as compared to healthy controls (N=10). In otherwise healthy subjects with moderate hepatic impairment (Child-Pugh B; N=9) who received a single oral 600 mg dose of quinine sulfate, the mean AUC increased by 55% without a significant change in mean C<sub>max</sub>, as compared to healthy volunteer controls (N=6). In subjects with hepatitis, the absorption of quinine was prolonged, the elimination half-life was increased, the apparent volume of distribution was higher, but there was no significant difference in weight-adjusted clearance. Therefore, in patients with mild to moderate hepatic impairment, dosage adjustment is not needed, but patients should be monitored closely for adverse effects of quinine [<content styleCode="italics">see Use in Specific Populations (<linkHtml href="#LINK_66b8e727-8327-49e8-9588-8a9e572ebe81">8.7</linkHtml>)</content>].</paragraph>
+                        <paragraph>In subjects with severe hepatic impairment (Child-Pugh C; N=10), quinine oral clearance (CL/F) was reduced as was formation of the primary 3-hydroxyquinine metabolite. Volume of distribution (Vd/F) was higher and the plasma elimination half-life was increased. Therefore, quinine is not indicated in this population and alternate therapy should be administered [<content styleCode="italics">see Dosage and Administration (<linkHtml href="#LINK_0cccd1c5-e682-401f-9ca3-3224a6e62d1a">2.3</linkHtml>)</content>].</paragraph>
+                        <paragraph>
+                           <content styleCode="underline">Drug Interaction Studies<br/>
+                           </content>
+                           <content styleCode="italics">Effect of other drugs on quinine</content>
+                        </paragraph>
+                        <paragraph>Quinine is a P-gp substrate and is primarily metabolized by CYP3A4. Other enzymes, including CYP1A2, CYP2C8, CYP2C9, CYP2C19, CYP2D6, and CYP2E1 may contribute to the metabolism of quinine. </paragraph>
+                        <paragraph>
+                           <content styleCode="italics">Cholestyramine: </content>In 8 healthy subjects who received quinine sulfate 600 mg with or without 8 grams of cholestyramine resin, no significant difference in quinine pharmacokinetic parameters was seen.</paragraph>
+                        <paragraph>
+                           <content styleCode="italics">Cigarette Smoking (CYP1A2 inducer): </content>In healthy male heavy smokers, the mean quinine AUC following a single 600 mg dose was 44% lower, the mean C<sub>max</sub> was 18% lower, and the elimination half-life was shorter (7.5 hours versus 12 hours) than in their non-smoking counterparts. However, in malaria patients who received the full 7-day course of quinine therapy, cigarette smoking produced only a 25% decrease in median quinine AUC and a 16.5% decrease in median C<sub>max</sub>, suggesting that the already reduced clearance of quinine in acute malaria could have diminished the metabolic induction effect of smoking. Because smoking did not appear to influence the therapeutic outcome in malaria patients, it is not necessary to increase the dose of quinine in the treatment of acute malaria in heavy cigarette smokers. </paragraph>
+                        <paragraph>
+                           <content styleCode="italics">Grapefruit juice (P-gp/CYP3A4 inhibitor): </content>In a pharmacokinetic study involving 10 healthy subjects, the administration of a single 600 mg dose of quinine sulfate with grapefruit juice (full-strength or half-strength) did not significantly alter the pharmacokinetic parameters of quinine. Quinine sulfate capsules may be taken with grapefruit juice.</paragraph>
+                        <paragraph>
+                           <content styleCode="italics">Histamine H2-receptor blockers [cimetidine, ranitidine (nonspecific CYP450 inhibitors)]: </content>In healthy subjects who were given a single oral 600 mg dose of quinine sulfate after pretreatment with cimetidine (200 mg three times daily and 400 mg at bedtime for 7 days) or ranitidine (150 mg twice daily for 7 days), the apparent oral clearance of quinine decreased and the mean elimination half-life increased significantly when given with cimetidine but not with ranitidine. Compared to untreated controls, the mean AUC of quinine increased by 20% with ranitidine and by 42% with cimetidine (p&lt;0.05) without a significant change in mean quinine C<sub>max </sub>
+                           <content styleCode="italics">[see Drug Interactions (<content styleCode="italics">
+                                 <linkHtml href="#LINK_44fc0537-5954-47c8-819d-639266ec315a">7</linkHtml>
+                              </content>)]</content>. </paragraph>
+                        <paragraph>
+                           <content styleCode="italics">Isoniazid: </content>Isoniazid 300 mg/day pretreatment for 1 week did not significantly alter the pharmacokinetic parameter values of quinine. Adjustment of quinine sulfate capsules dosage is not necessary when isoniazid is given concomitantly.</paragraph>
+                        <paragraph>
+                           <content styleCode="italics">Ketoconazole (CYP3A4 inhibitor): </content>In a crossover study, healthy subjects (N=9) who received a single oral dose of quinine hydrochloride (500 mg) concomitantly with ketoconazole (100 mg twice daily for 3 days) had a mean quinine AUC that was higher by 45% and a mean oral clearance of quinine that was 31% lower than after receiving quinine alone <content styleCode="italics">[see Drug Interactions (<content styleCode="italics">
+                                 <linkHtml href="#LINK_44fc0537-5954-47c8-819d-639266ec315a">7</linkHtml>
+                              </content>)]</content>. </paragraph>
+                        <paragraph>
+                           <content styleCode="italics">Macrolide antibiotics (erythromycin, troleandomycin) (CYP3A4 inhibitors): </content>In a crossover study (N=10), healthy subjects who received a single oral 600 mg dose of quinine sulfate with the macrolide antibiotic, troleandomycin (500 mg every 8 hours) exhibited a 87% higher mean quinine AUC, a 45% lower mean oral clearance of quinine, and a 81% lower formation clearance of the main metabolite, 3-hydroxyquinine, than when quinine was given alone <content styleCode="italics">[see Drug Interactions (<linkHtml href="#LINK_44fc0537-5954-47c8-819d-639266ec315a">7</linkHtml>)]</content>. </paragraph>
+                        <paragraph>Erythromycin was shown to inhibit the <content styleCode="italics">in vitro</content> metabolism of quinine in human liver microsomes, an observation confirmed by an <content styleCode="italics">in vivo</content> interaction study. In a crossover study (N=10), healthy subjects who received a single oral 500 mg dose of quinine sulfate with erythromycin (600 mg every 8 hours for four days) showed a decrease in quinine oral clearance (CL/F), an increase in half-life, and a decreased metabolite (3-hydroxyquinine) to quinine AUC ratio, as compared to when quinine was given with placebo <content styleCode="italics">[see Drug Interactions (<linkHtml href="#LINK_44fc0537-5954-47c8-819d-639266ec315a">7</linkHtml>)]</content>.</paragraph>
+                        <paragraph>
+                           <content styleCode="italics">Oral contraceptives (estrogen, progestin): </content>In 7 healthy females who were using single-ingredient progestin or combination estrogen-containing oral contraceptives, the pharmacokinetic parameters of a single 600 mg dose of quinine sulfate were not altered in comparison to those observed in 7 age-matched female control subjects not using oral contraceptives.</paragraph>
+                        <paragraph>
+                           <content styleCode="italics">Rifampin (CYP3A4 inducer): </content>In patients with uncomplicated <content styleCode="italics">P. falciparum </content>malaria who received quinine sulfate 10 mg/kg concomitantly with rifampin 15 mg/kg/day for 7 days (N=29), the median AUC of quinine between days 3 and 7 of therapy was 75% lower as compared to those who received quinine monotherapy. In healthy subjects (N=9) who received a single oral 600 mg dose of quinine sulfate after 2 weeks of pretreatment with rifampin 600 mg/day, the mean quinine AUC and C<sub>max</sub> decreased by 85% and 55%, respectively <content styleCode="italics">[see Drug Interactions (<content styleCode="italics">
+                                 <linkHtml href="#LINK_44fc0537-5954-47c8-819d-639266ec315a">7</linkHtml>
+                              </content>)]</content>.</paragraph>
+                        <paragraph>
+                           <content styleCode="italics">Ritonavir: </content>In healthy subjects who received a single oral 600 mg dose of quinine sulfate with the 15<sup>th </sup>dose of ritonavir (200 mg every 12 hours for 9 days), there were 4-fold increases in the mean quinine AUC and C<sub>max</sub>, and an increase in the mean elimination half-life (13.4 hours versus 11.2 hours), compared to when quinine was given alone <content styleCode="italics">[see Drug Interactions (<content styleCode="italics">
+                                 <linkHtml href="#LINK_44fc0537-5954-47c8-819d-639266ec315a">7</linkHtml>
+                              </content>)]</content>. </paragraph>
+                        <paragraph>
+                           <content styleCode="italics">Tetracycline: </content>In 8 patients with acute uncomplicated <content styleCode="italics">P. falciparum </content>malaria who were treated with oral quinine sulfate (600 mg every 8 hours for 7 days) in combination with oral tetracycline (250 mg every 6 hours for 7 days), the mean plasma quinine concentrations were about two-fold higher than in 8 patients who received quinine monotherapy <content styleCode="italics">[see Drug Interactions (<content styleCode="italics">
+                                 <linkHtml href="#LINK_44fc0537-5954-47c8-819d-639266ec315a">7</linkHtml>
+                              </content>)]</content>. </paragraph>
+                        <paragraph>
+                           <content styleCode="italics">Theophylline or aminophylline: </content>In 20 healthy subjects who received multiple doses of quinine sulfate capsules (648 mg every 8 hours x 7 days) with a single 300 mg oral dose of theophylline, the quinine mean C<sub>max</sub> and AUC were increased by 13% and 14% respectively <content styleCode="italics">[see Drug Interactions (<content styleCode="italics">
+                                 <linkHtml href="#LINK_44fc0537-5954-47c8-819d-639266ec315a">7</linkHtml>
+                              </content>)]</content>. </paragraph>
+                        <paragraph>
+                           <content styleCode="italics">Effects of quinine on other drugs</content>
+                        </paragraph>
+                        <paragraph>Results of <content styleCode="italics">in vivo </content>drug interaction studies suggest that quinine has the potential to inhibit the metabolism of drugs that are substrates of CYP3A4 and CYP2D6. Quinine inhibits P-gp and has the potential to affect the transport of drugs that are P-gp substrates. </paragraph>
+                        <paragraph>
+                           <content styleCode="italics">Anticonvulsants (carbamazepine, phenobarbital, and phenytoin): </content>A single 600 mg oral dose of quinine sulfate increased the mean plasma C<sub>max</sub>, and AUC<sub>0–24</sub> of single oral doses of carbamazepine (200 mg) and phenobarbital (120 mg) but not phenytoin (200 mg) in 8 healthy subjects. The mean AUC increases of carbamazepine, phenobarbital and phenytoin were 104%, 81%, and 4%, respectively; the mean increases in C<sub>max</sub> were 56%, 53%, and 4%, respectively. Mean urinary recoveries of the three antiepileptics over 24 hours were also profoundly increased by quinine <content styleCode="italics">[see Drug Interactions (<content styleCode="italics">
+                                 <linkHtml href="#LINK_44fc0537-5954-47c8-819d-639266ec315a">7</linkHtml>
+                              </content>)]</content>. </paragraph>
+                        <paragraph>
+                           <content styleCode="italics">Desipramine (CYP2D6 substrate): </content>Quinine (750 mg/day for 2 days) decreased the metabolism of desipramine in patients who were extensive CYP2D6 metabolizers, but had no effect in patients who were poor CYP2D6 metabolizers. Lower doses (80 mg to 400 mg) of quinine did not significantly affect the pharmacokinetics of other CYP2D6 substrates, namely, debrisoquine, dextromethorphan, and methoxyphenamine. Although clinical drug interaction studies have not been performed, antimalarial doses (greater than or equal to 600 mg) of quinine may inhibit the metabolism of other drugs that are CYP2D6 substrates (e.g., flecainide, debrisoquine, dextromethorphan, metoprolol, paroxetine) <content styleCode="italics">[see Drug Interactions (<content styleCode="italics">
+                                 <linkHtml href="#LINK_44fc0537-5954-47c8-819d-639266ec315a">7</linkHtml>
+                              </content>)]</content>.</paragraph>
+                        <paragraph>
+                           <content styleCode="italics">Digoxin (P-gp substrate): </content>In 4 healthy subjects who received digoxin (0.5 to 0.75 mg/day) during treatment with quinine (750 mg/day), a 33% increase in mean steady state AUC of digoxin and a 35% reduction in the steady state biliary clearance of digoxin were observed compared to digoxin alone <content styleCode="italics">[see Drug Interactions (<content styleCode="italics">
+                                 <linkHtml href="#LINK_44fc0537-5954-47c8-819d-639266ec315a">7</linkHtml>
+                              </content>)]</content>. </paragraph>
+                        <paragraph>
+                           <content styleCode="italics">Halofantrine: </content>Although not studied clinically, quinine was shown to inhibit the metabolism of halofantrine <content styleCode="italics">in vitro</content> using human liver microsomes. Therefore, concomitant administration of quinine sulfate capsules is likely to increase plasma halofantrine concentrations <content styleCode="italics">[see Warnings and Precautions (<linkHtml href="#LINK_c1b8abc5-00b0-468a-8c8b-520cbeeb7709">5.4</linkHtml>)]</content>.</paragraph>
+                        <paragraph>
+                           <content styleCode="italics">Mefloquine: </content>In 7 healthy subjects who received mefloquine (750 mg) at 24 hours before an oral 600 mg dose of quinine sulfate, the AUC of mefloquine was increased by 22% compared to mefloquine alone. In this study, the QTc interval was significantly prolonged in the subjects who received mefloquine and quinine sulfate 24 hours apart <content styleCode="italics">[see Drug Interactions (<content styleCode="italics">
+                                 <linkHtml href="#LINK_44fc0537-5954-47c8-819d-639266ec315a">7</linkHtml>
+                              </content>)]</content>. </paragraph>
+                        <paragraph>
+                           <content styleCode="italics">Midazolam (CYP3A4 substrate): </content>In 23 healthy subjects who received multiple doses of quinine sulfate capsules 324 mg three times daily x 7 days with a single oral 2 mg dose of midazolam, the mean AUC and C<sub>max</sub> of midazolam and 1-hydroxymidazolam were not significantly affected. This finding indicates that 7-day dosing with quinine sulfate capsules 324 mg every 8 hours did not induce the metabolism of midazolam. </paragraph>
+                        <paragraph>
+                           <content styleCode="italics">Neuromuscular blocking agents (pancuronium, succinylcholine, tubocurarine): </content>In one report, quinine potentiated neuromuscular blockade in a patient who received pancuronium during an operative procedure, and subsequently (3 hours after receiving pancuronium) received quinine 1800 mg daily <content styleCode="italics">[see Drug Interactions (<content styleCode="italics">
+                                 <linkHtml href="#LINK_44fc0537-5954-47c8-819d-639266ec315a">7</linkHtml>
+                              </content>)]</content>.</paragraph>
+                        <paragraph>
+                           <content styleCode="italics">Ritonavir: </content>In healthy subjects who received a single oral 600 mg dose of quinine sulfate with the 15<sup>th </sup>dose of ritonavir (200 mg every 12 hours for 9 days), the mean ritonavir AUC, Cmax, and elimination half-life were slightly but not significantly increased compared to when ritonavir was given alone <content styleCode="italics">[see Drug Interactions (<content styleCode="italics">
+                                 <linkHtml href="#LINK_44fc0537-5954-47c8-819d-639266ec315a">7</linkHtml>
+                              </content>)]</content>. </paragraph>
+                        <paragraph>
+                           <content styleCode="italics">Theophylline or aminophylline (CYP1A2 substrate): </content>In 19 healthy subjects who received multiple doses of quinine sulfate capsules 648 mg every 8 hours x 7 days with a single 300 mg oral dose of theophylline, the mean theophylline AUC was 10% lower than when theophylline was given alone. There was no significant effect on mean theophylline C<sub>max </sub>
+                           <content styleCode="italics">[see Drug Interactions (<content styleCode="italics">
+                                 <linkHtml href="#LINK_44fc0537-5954-47c8-819d-639266ec315a">7</linkHtml>
+                              </content>)]</content>.</paragraph>
+                     </text>
+                     <effectiveTime value="20230131"/>
+                  </section>
+               </component>
+               <component>
+                  <section ID="LINK_25177e66-1151-49e8-8517-55804f59c23a">
+                     <id root="0ffbaca8-d65e-47f1-ad9c-6cd63380d9a2"/>
+                     <code code="49489-8" codeSystem="2.16.840.1.113883.6.1" displayName="MICROBIOLOGY SECTION"/>
+                     <title>12.4 Microbiology</title>
+                     <text>
+                        <paragraph>
+                           <content styleCode="underline">Mechanism of Action<br/>
+                           </content>Quinine inhibits nucleic acid synthesis, protein synthesis, and glycolysis in <content styleCode="italics">P. falciparum</content> and can bind with hemazoin in parasitized erythrocytes. However, the precise mechanism of the antimalarial activity of quinine sulfate is not completely understood.</paragraph>
+                        <paragraph>
+                           <content styleCode="underline">Antimicrobial Activity<br/>
+                           </content>Quinine sulfate acts primarily on the blood schizont form of <content styleCode="italics">P. falciparum</content>. It is not gametocidal and has little effect on the sporozoite or pre-erythrocytic forms.</paragraph>
+                        <paragraph>
+                           <content styleCode="underline">Resistance<br/>
+                           </content>Strains of <content styleCode="italics">P. falciparum</content> with decreased sensitivity to quinine can be selected <content styleCode="italics">in vivo</content>. <content styleCode="italics">P. falciparum</content> malaria that is clinically resistant to quinine has been reported in some areas of South America, Southeast Asia, and Bangladesh.</paragraph>
+                     </text>
+                     <effectiveTime value="20230131"/>
+                  </section>
+               </component>
+            </section>
+         </component>
+         <component>
+            <section ID="LINK_93a16312-1c46-4358-a164-390d78d13085">
+               <id root="4b7d6b82-bbe7-4421-a0a7-b040ac83bafd"/>
+               <code code="43680-8" codeSystem="2.16.840.1.113883.6.1" displayName="NONCLINICAL TOXICOLOGY SECTION"/>
+               <title>13 NONCLINICAL TOXICOLOGY</title>
+               <effectiveTime value="20230131"/>
+               <component>
+                  <section ID="LINK_0cc3a957-5186-4584-b18f-5767d4cebfeb">
+                     <id root="acc43e88-fcb7-4e42-a33b-e721b20a4a73"/>
+                     <code code="34083-6" codeSystem="2.16.840.1.113883.6.1" displayName="CARCINOGENESIS &amp; MUTAGENESIS &amp; IMPAIRMENT OF FERTILITY SECTION"/>
+                     <title>13.1 Carcinogenesis, Mutagenesis, Impairment of Fertility</title>
+                     <text>
+                        <paragraph>
+                           <content styleCode="underline">Carcinogenesis<br/>
+                           </content>Carcinogenicity studies of quinine have not been conducted.</paragraph>
+                        <paragraph>
+                           <content styleCode="underline">Mutagenesis<br/>
+                           </content>Genotoxicity studies of quinine were positive in the Ames bacterial mutation assay with metabolic activation and in the sister chromatid exchange assay in mice. The sex-linked recessive lethal test performed in <content styleCode="italics">Drosophila</content>, the <content styleCode="italics">in vivo</content> mouse micronucleus assay, and the chromosomal aberration assay in mice and Chinese hamsters were negative.</paragraph>
+                        <paragraph>
+                           <content styleCode="underline">Impairment of Fertility<br/>
+                           </content>In published studies, quinine produced testicular toxicity in mice at a single intraperitoneal dose of 300 mg/kg corresponding to a dose of approximately 0.75 times the maximum recommended human dose (MRHD; 32 mg/kg/day) and in rats at an intramuscular dose of 10 mg/kg/day, 5 days/week, for 8 weeks corresponding to a daily dose of approximately 0.05 times the MRHD based on body surface area (BSA) comparisons. The findings include atrophy or degeneration of the seminiferous tubules, decreased sperm count and motility, and decreased testosterone levels in the serum and testes. There were no changes in testes weight or testicular histopathology in studies of oral doses of up to 500 mg/kg/day in mice and 700 mg/kg/day in rats (approximately 1.2 and 3.5 times the MRHD respectively based on BSA comparisons).</paragraph>
+                     </text>
+                     <effectiveTime value="20230131"/>
+                  </section>
+               </component>
+            </section>
+         </component>
+         <component>
+            <section ID="LINK_5bb9ee8c-47a6-44c6-b83f-2bbe6ce1ce9f">
+               <id root="920a6f7d-14c4-4c49-ad5e-604041c68e08"/>
+               <code code="34092-7" codeSystem="2.16.840.1.113883.6.1" displayName="CLINICAL STUDIES SECTION"/>
+               <title>14 CLINICAL STUDIES</title>
+               <text>
+                  <paragraph>Quinine has been used worldwide for hundreds of years in the treatment of malaria. Thorough searches of the published literature identified over 1300 references to the treatment of malaria with quinine, and from these, 21 randomized, active-controlled studies were identified which evaluated oral quinine monotherapy or combination therapy for treatment of uncomplicated <content styleCode="italics">P. falciparum </content>malaria. Over 2900 patients from malaria-endemic areas were enrolled in these studies, and more than 1400 patients received oral quinine. </paragraph>
+                  <paragraph>The following conclusions were drawn from review of these studies:</paragraph>
+                  <list listType="unordered" styleCode="Disk">
+                     <item>In areas where multi-drug resistance of <content styleCode="italics">P. falciparum</content> is increasing, such as Southeast Asia, cure rates with 7 days of oral quinine monotherapy were at least 80%; while cure rates for 7 days of oral quinine combined with an antimicrobial agent (tetracycline or clindamycin) were greater than 90%. </item>
+                     <item>In areas where multi-drug resistance of the parasite was not as widespread, cure rates with 7 days of quinine monotherapy ranged from 86 to 100%. </item>
+                     <item>Cure was defined as initial clearing of parasitemia within 7 days without recrudescence by day 28 after treatment initiation. </item>
+                     <item>
+                        <content styleCode="italics">P. falciparum</content> malaria that is clinically resistant to quinine has been reported in some areas of South America, Southeast Asia, and Bangladesh, and quinine may not be as effective in those areas.</item>
+                  </list>
+                  <paragraph>Completion of a 7 day oral quinine treatment regimen may be limited by drug intolerance, and shorter courses (3 days) of quinine combination therapy have been used. However, the published data from randomized, controlled clinical trials for shorter regimens of oral quinine in conjunction with tetracycline, doxycycline, or clindamycin for treatment of uncomplicated <content styleCode="italics">P. falciparum</content> malaria is limited, and these shorter course combination regimens may not be as effective as the longer regimens.</paragraph>
+               </text>
+               <effectiveTime value="20230131"/>
+            </section>
+         </component>
+         <component>
+            <section ID="LINK_1c5b566e-be46-4738-aa46-aab75c47e2e3">
+               <id root="2f51e947-f1cd-4a90-91d5-4f709c2b411a"/>
+               <code code="34093-5" codeSystem="2.16.840.1.113883.6.1" displayName="REFERENCES SECTION"/>
+               <title>15 REFERENCES</title>
+               <text>
+                  <list listType="ordered" styleCode="Arabic">
+                     <item>Looareesuwan S et al (1985). Quinine and severe falciparum malaria in late pregnancy. Lancet. 2(8445):4-8. </item>
+                     <item>Kovacs SD et al (2015). Treating severe malaria in pregnancy: a review of the evidence. Drug Saf. 38(2):165-81. </item>
+                     <item>Clark RL (2017). Animal embryotoxicity studies of key non-artemisinin antimalarials and use in women in the first trimester. Birth Defects Res. 109(14):1075-1126. </item>
+                     <item>Tanimura T (1972). The use of non-human primates in research on human reproduction. WHO research and Training Centre on Human Reproduction. Karolinska Institutet (Symposium), Stockholm, 293-308. </item>
+                     <item>Ejebe DE <content styleCode="italics">et al. </content>(2008). Effects of anti-malarial alkaloids on the sperm properties and blood levels of reproductive hormones of adult men. Afr J Biotech. 7: 3395-3400. </item>
+                  </list>
+               </text>
+               <effectiveTime value="20230131"/>
+            </section>
+         </component>
+         <component>
+            <section ID="LINK_9f96cebc-d643-47c9-9524-5dc3ab476869">
+               <id root="6ea47867-42f6-418d-bc9b-7a6a1a5f0f8c"/>
+               <code code="34069-5" codeSystem="2.16.840.1.113883.6.1" displayName="HOW SUPPLIED SECTION"/>
+               <title>16 HOW SUPPLIED/STORAGE AND HANDLING</title>
+               <text>
+                  <paragraph>
+                     <content styleCode="underline">How Supplied<br/>
+                     </content>Quinine Sulfate Capsules USP, 324 mg are available as opaque white hard gelatin capsules, imprinted in black “93” over “3002” on the cap portion and “93” over “3002” on the body portion of the capsule, in bottles of 30 (NDC 0093-3002-56).</paragraph>
+                  <paragraph>
+                     <content styleCode="underline">Storage<br/>
+                     </content>Store at 20° to 25°C (68° to 77°F) [See USP Controlled Room Temperature].</paragraph>
+                  <paragraph>Dispense in a tight, light-resistant container as defined in the USP, with a child-resistant closure (as required).</paragraph>
+                  <paragraph>Keep this and all medications out of the reach of children.</paragraph>
+               </text>
+               <effectiveTime value="20230131"/>
+            </section>
+         </component>
+         <component>
+            <section ID="LINK_d2b108bd-19ed-40be-b4ef-62dbc1edf63b">
+               <id root="4b5c215d-362a-4906-a1ec-3b833e4357a0"/>
+               <code code="34076-0" codeSystem="2.16.840.1.113883.6.1" displayName="INFORMATION FOR PATIENTS SECTION"/>
+               <title>17 PATIENT COUNSELING INFORMATION</title>
+               <text>
+                  <paragraph>Advise the patient to read the FDA-approved patient labeling (Medication Guide) </paragraph>
+                  <paragraph>
+                     <content styleCode="underline">Important Administration Instructions<br/>
+                     </content>Instruct patients to:</paragraph>
+                  <list listType="unordered" styleCode="Disc">
+                     <item>Take all of the medication as directed. </item>
+                     <item>Take no more of the medication than the amount prescribed. </item>
+                     <item>Take with food to minimize possible gastrointestinal irritation. </item>
+                  </list>
+                  <paragraph>
+                     <content styleCode="underline">Missed Doses<br/>
+                     </content>Advise patients that if a dose is missed, patients should not double the next dose. If more than 4 hours has elapsed since the missed dose, the patient should wait and take the next dose as previously scheduled.</paragraph>
+                  <paragraph>Brands listed are the trademarks of their respective owners.</paragraph>
+                  <paragraph>Dispense with Medication Guide available at: www.tevausa.com/medguides</paragraph>
+                  <paragraph>Manufactured In Canada By:<br/>
+                     <content styleCode="bold">Teva Canada Limited<br/>
+                     </content>Toronto, Canada M1B 2K9</paragraph>
+                  <paragraph>Manufactured For:<br/>
+                     <content styleCode="bold">Teva Pharmaceuticals<br/>
+                     </content>Parsippany, NJ 07054</paragraph>
+                  <paragraph>Rev. I 1/2023<br/>
+                  </paragraph>
+               </text>
+               <effectiveTime value="20230131"/>
+            </section>
+         </component>
+         <component>
+            <section ID="LINK_244fc7e6-8c1e-4c0b-bba8-29bbbee3e509">
+               <id root="f669ec9f-0cc9-4c5d-a400-d54b3612085b"/>
+               <code code="42231-1" codeSystem="2.16.840.1.113883.6.1" displayName="SPL MEDGUIDE SECTION"/>
+               <title/>
+               <text>
+                  <paragraph>Dispense with Medication Guide available at: www.tevausa.com/medguides</paragraph>
+                  <table width="1000px" cellpadding="5">
+                     <col/>
+                     <col/>
+                     <tbody>
+                        <tr>
+                           <td align="center" colspan="2" styleCode=" Botrule Toprule Lrule Rrule">
+                              <paragraph>
+                                 <content styleCode="bold">MEDICATION GUIDE</content>
+                              </paragraph>
+                              <paragraph>
+                                 <content styleCode="bold">Quinine Sulfate </content>
+                                 <content styleCode="bold">(kwye’ nine sul’ fate) <br/> Capsules, for oral use</content>
+                              </paragraph>
+                              <paragraph>Read the Medication Guide that comes with quinine sulfate capsules before you start taking them and each time you get a refill. There may be new information. This Medication Guide does not take the place of talking to your healthcare provider about your medical condition or treatment. You and your healthcare provider should talk about quinine sulfate capsules when you start taking them and at regular checkups. Quinine sulfate capsules are not approved for the prevention or treatment of night-time leg cramps.<br/>
+                              </paragraph>
+                           </td>
+                        </tr>
+                        <tr>
+                           <td colspan="2" styleCode=" Toprule Lrule Rrule">
+                              <paragraph>
+                                 <content styleCode="bold">What is the most important information I should know about quinine sulfate capsules?</content>
+                              </paragraph>
+                              <paragraph>
+                                 <content styleCode="bold">Quinine sulfate capsules used to treat or prevent leg cramps may cause serious side effects or even death.</content>
+                              </paragraph>
+                              <paragraph>
+                                 <content styleCode="bold">Quinine sulfate capsules may cause:</content>
+                              </paragraph>
+                              <list listType="unordered" styleCode="Disc">
+                                 <item>your blood cell (platelet) count to drop causing serious bleeding problems. In some people, serious kidney problems can happen.</item>
+                                 <item>problems with your heart rhythm that can lead to death.</item>
+                                 <item>serious allergic reactions.</item>
+                              </list>
+                              <content styleCode="bold">Call your healthcare provider right away if you have:</content>
+                           </td>
+                        </tr>
+                        <tr>
+                           <td styleCode=" Botrule Lrule">
+                              <list listType="unordered" styleCode="Disk">
+                                 <item>easy bruising</item>
+                                 <item>severe nose bleed</item>
+                                 <item>blood in urine or stool</item>
+                                 <item>bleeding gums</item>
+                                 <item>unusual purple, brown or red spots on your skin<br/>(bleeding under your skin)</item>
+                                 <item>rash</item>
+                                 <item>hives</item>
+                                 <item>severe itching</item>
+                              </list>
+                           </td>
+                           <td styleCode=" Botrule Rrule">
+                              <list listType="unordered" styleCode="Disk">
+                                 <item>severe flushing</item>
+                                 <item>swelling of your face</item>
+                                 <item>trouble breathing</item>
+                                 <item>chest pain</item>
+                                 <item>rapid heartbeat</item>
+                                 <item>irregular heart rhythm</item>
+                                 <item>weakness</item>
+                                 <item>sweating</item>
+                                 <item>nervousness</item>
+                              </list>
+                           </td>
+                        </tr>
+                        <tr>
+                           <td colspan="2" styleCode=" Botrule Toprule Lrule Rrule">Quinine sulfate capsules can have other serious side effects. See “<content styleCode="bold">What are the possible side effects of quinine sulfate capsules?</content>”</td>
+                        </tr>
+                        <tr>
+                           <td colspan="2" styleCode=" Botrule Toprule Lrule Rrule">
+                              <paragraph>
+                                 <content styleCode="bold">What are quinine sulfate capsules? </content>
+                              </paragraph>
+                              <paragraph>Quinine sulfate capsules are a prescription medicine used to treat uncomplicated malaria caused by the parasite <content styleCode="italics">Plasmodium falciparum</content>. </paragraph>
+                              <paragraph>
+                                 <content styleCode="bold">Quinine sulfate capsules are not approved to: </content>
+                              </paragraph>
+                              <list listType="unordered" styleCode="Disc">
+                                 <item>Prevent malaria </item>
+                                 <item>Treat severe or complicated <content styleCode="italics">Plasmodium falciparum </content>malaria </item>
+                                 <item>Prevent or treat night-time leg cramps</item>
+                              </list> It is not known if quinine sulfate capsules are safe and effective in children under 16 years of age.</td>
+                        </tr>
+                        <tr>
+                           <td colspan="2" styleCode=" Botrule Lrule Rrule">
+                              <paragraph>
+                                 <content styleCode="bold">Who should not take quinine sulfate capsules?</content>
+                              </paragraph>
+                              <paragraph>
+                                 <content styleCode="bold">Do not take quinine sulfate capsules if you have:</content>
+                              </paragraph>
+                              <list listType="unordered" styleCode="Disc">
+                                 <item>changes in the electrical activity of your heart called QT prolongation.</item>
+                                 <item>had allergic reactions to quinine (the active ingredient in quinine sulfate capsules), such as low platelets, which are necessary for your blood to clot.</item>
+                                 <item>had allergic reactions to mefloquine (Lariam) or quinidine.</item>
+                                 <item>an autoimmune disease (myasthenia gravis) that leads to muscle weakness.</item>
+                                 <item>an inflammation of the nerve important for vision (optic neuritis).</item>
+                              </list>
+                           </td>
+                        </tr>
+                        <tr>
+                           <td colspan="2" styleCode=" Botrule Toprule Lrule Rrule">
+                              <paragraph>
+                                 <content styleCode="bold">What should I tell my healthcare provider before taking quinine sulfate capsules?</content>
+                              </paragraph>
+                              <paragraph>Before taking quinine sulfate capsules, tell your healthcare provider about all of your medical conditions, including if you:</paragraph>
+                              <list listType="unordered" styleCode="Disc">
+                                 <item>have heart problems.</item>
+                                 <item>have kidney problems.</item>
+                                 <item>have liver problems.</item>
+                                 <item>are pregnant or plan to become pregnant. Treatment of malaria is important because it can be a serious disease for a pregnant woman and her unborn baby. Talk to your healthcare provider about the benefits and risks of taking quinine sulfate capsules during pregnancy. Low blood sugar (hypoglycemia) can happen in pregnant women while taking quinine sulfate capsules. Signs and symptoms of low blood sugar can include sweating, weakness, nausea, vomiting, and confusion. You and your healthcare provider can decide if quinine sulfate capsules are right for you.</item>
+                                 <item>are breastfeeding or plan to breastfeed. Quinine sulfate can pass into your breast milk. You should talk with your healthcare provider about the best way to feed your baby while taking quinine sulfate capsules.<br/>
+                                 </item>
+                              </list>
+                              <paragraph>
+                                 <content styleCode="bold">Tell your healthcare provider about all the medicines you take, including prescription and over-the-counter medicines, vitamins and herbal supplements.</content> Quinine sulfate capsules and other medicines may affect each other causing serious side effects. Certain medicines can cause the blood levels of quinine sulfate capsules to be too high or too low in your body. <content styleCode="bold">Do not start taking a new medicine without telling your healthcare provider or pharmacist. </content>Even medicines that you may take for a short period of time, such as antibiotics, can mix in your blood with quinine sulfate and cause serious side effects or death. </paragraph>
+                           </td>
+                        </tr>
+                        <tr>
+                           <td colspan="2" styleCode=" Botrule Toprule Lrule Rrule">
+                              <paragraph>
+                                 <content styleCode="bold">How should I take quinine sulfate capsules?</content>
+                              </paragraph>
+                              <list listType="unordered" styleCode="Disc">
+                                 <item>Take quinine sulfate capsules exactly as your healthcare provider tells you to take it.</item>
+                                 <item>Your healthcare provider will tell you how many quinine sulfate capsules to take and when to take them.</item>
+                                 <item>Take quinine sulfate capsules <content styleCode="bold">with food</content> to lower your chance of having an upset stomach</item>
+                                 <item>Do not skip any doses or stop taking quinine sulfate capsules without first talking to your healthcare provider, even if you feel better.</item>
+                                 <item>
+                                    <content styleCode="bold">Do not</content> take more quinine sulfate capsules than prescribed. </item>
+                                 <item>If you miss a dose of quinine sulfate capsules, <content styleCode="bold">do not</content> double the next dose to make up for a missed dose. If it has been more than <content styleCode="bold">4 hours</content> since the missed dose, take your next dose at the next scheduled time. Call your healthcare provider if you are not sure what to do.</item>
+                                 <item>If you take too many quinine sulfate capsules, call your healthcare provider or go to the nearest emergency room right away.</item>
+                              </list>
+                           </td>
+                        </tr>
+                        <tr>
+                           <td colspan="2" styleCode=" Toprule Lrule Rrule">
+                              <paragraph>
+                                 <content styleCode="bold">What are the possible side effects of quinine sulfate capsules?</content>
+                              </paragraph>
+                              <paragraph>
+                                 <content styleCode="bold">Quinine sulfate capsules may cause serious side effects, including:</content>
+                              </paragraph>
+                              <list listType="unordered" styleCode="Disc">
+                                 <item>See "<content styleCode="bold">What is the most important information I should know about quinine sulfate capsules</content>".</item>
+                                 <item>
+                                    <content styleCode="bold">Heart rhythm problems</content> (atrial fibrillation and atrial flutter).</item>
+                                 <item>
+                                    <content styleCode="bold">Low blood sugar (hypoglycemia)</content>. Signs and symptoms of low blood sugar can include sweating, weakness, nausea, vomiting, and confusion. </item>
+                              </list> The most common side effects of quinine sulfate capsules include:</td>
+                        </tr>
+                        <tr>
+                           <td styleCode=" Lrule">
+                              <list listType="unordered" styleCode="Disc">
+                                 <item>headache</item>
+                                 <item>sweating</item>
+                                 <item>flushing</item>
+                                 <item>nausea</item>
+                                 <item>ringing in your ears</item>
+                                 <item>diarrhea</item>
+                                 <item>deafness</item>
+                                 <item>problems with heart rhythm or conduction</item>
+                              </list>
+                           </td>
+                           <td styleCode=" Rrule">
+                              <list listType="unordered" styleCode="Disc">
+                                 <item>hearing loss</item>
+                                 <item>dizziness (vertigo)</item>
+                                 <item>blurred vision</item>
+                                 <item>changes in how you see color</item>
+                                 <item>vomiting</item>
+                                 <item>stomach pain</item>
+                                 <item>blindness</item>
+                              </list>
+                           </td>
+                        </tr>
+                        <tr>
+                           <td colspan="2" styleCode=" Botrule Lrule Rrule">
+                              <paragraph>Tell your healthcare provider if you have any side effect that bothers you or that does not go away.<br/>These are not all of the possible side effects of quinine sulfate capsules. For more information, ask your healthcare provider or pharmacist.<br/>Call your doctor for medical advice about side effects. You may report side effects to FDA at 1-800-FDA-1088.</paragraph>
+                           </td>
+                        </tr>
+                        <tr>
+                           <td colspan="2" styleCode=" Botrule Toprule Lrule Rrule"> <content styleCode="bold">How should I store quinine sulfate capsules?</content>
+                              <list listType="unordered" styleCode="Disc">
+                                 <item>Keep the capsules in a tightly closed container.</item>
+                                 <item>Store quinine sulfate capsules at room temperature between 68°F to 77°F (20°C to 25°C).</item>
+                              </list>
+                              <paragraph>
+                                 <content styleCode="bold">Keep quinine sulfate capsules and all medicines out of the reach of children.</content>
+                              </paragraph>
+                           </td>
+                        </tr>
+                        <tr>
+                           <td colspan="2" styleCode=" Botrule Toprule Lrule Rrule">
+                              <content styleCode="bold">General information about the safe and effective use of quinine sulfate capsules</content>
+                              <paragraph>Medicines are sometimes prescribed for purposes other than those listed in a Medication Guide. Do not use quinine sulfate capsules for a condition for which they were not prescribed. Do not give quinine sulfate capsules to other people, even if they have the same symptoms that you have. They may harm them.</paragraph> This Medication Guide summarizes the most important information about quinine sulfate capsules. If you would like more information, talk with your healthcare provider. You can ask your healthcare provider or pharmacist for information about quinine sulfate capsules that is written for health professionals.</td>
+                        </tr>
+                        <tr>
+                           <td colspan="2" styleCode=" Botrule Toprule Lrule Rrule">
+                              <content styleCode="bold">What are the ingredients in quinine sulfate capsules?</content>
+                              <paragraph>
+                                 <content styleCode="bold">Active Ingredients:</content> quinine sulfate, USP</paragraph>
+                              <paragraph>
+                                 <content styleCode="bold">Inactive Ingredients:</content> colloidal silicon dioxide, gelatin, iron oxide black, magnesium stearate, pregelatinized corn starch, propylene glycol, shellac, sodium lauryl sulfate, and titanium dioxide. The imprinting ink may contain potassium hydroxide.<br/>
+                              </paragraph>
+                              <paragraph>Brands listed are the trademarks of their respective owners.<br/>
+                              </paragraph>
+                              <paragraph>Manufactured In Canada By: <content styleCode="bold">Teva Canada Limited</content>, Toronto, Canada M1B 2K9<br/>Manufactured For: <content styleCode="bold">Teva Pharmaceuticals</content>, Parsippany, NJ 07054</paragraph> For more information, call 1-888-838-2872.</td>
+                        </tr>
+                     </tbody>
+                  </table>
+                  <paragraph>This Medication Guide has been approved by the U.S. Food and Drug Administration.                                                                                   Rev. H 1/2023</paragraph>
+               </text>
+               <effectiveTime value="20230131"/>
+            </section>
+         </component>
+         <component>
+            <section ID="LINK_87cda180-d786-4442-a4aa-2f02da73314c">
+               <id root="e95ff458-fda4-470f-aa4b-ad709585c455"/>
+               <code code="51945-4" codeSystem="2.16.840.1.113883.6.1" displayName="PACKAGE LABEL.PRINCIPAL DISPLAY PANEL"/>
+               <title>Package/Label Display Panel</title>
+               <text>
+                  <paragraph>NDC 0093-3002-56</paragraph>
+                  <paragraph>Quinine Sulfate Capsules, USP 324 mg</paragraph>
+                  <paragraph>PHARMACIST: Dispense the accompanying Medication Guide to each patient.</paragraph>
+                  <paragraph>Rx only</paragraph>
+                  <paragraph>30 Capsules</paragraph>
+                  <renderMultiMedia referencedObject="MM2"/>
+               </text>
+               <effectiveTime value="20230131"/>
+               <component>
+                  <observationMedia ID="MM2">
+                     <text>30s</text>
+                     <value xsi:type="ED" mediaType="image/jpeg">
+                        <reference value="quinine-sulfate-capsule-091661-2.jpg"/>
+                     </value>
+                  </observationMedia>
+               </component>
+            </section>
+         </component>
+      </structuredBody>
+   </component>
+</document>

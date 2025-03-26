@@ -1,0 +1,2497 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet href="https://www.accessdata.fda.gov/spl/stylesheet/spl.xsl" type="text/xsl"?>
+<document xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:hl7-org:v3" xsi:schemaLocation="urn:hl7-org:v3 https://www.accessdata.fda.gov/spl/schema/spl.xsd">
+   <id root="a742815a-7705-9153-e053-2995a90a562d"/>
+   <code code="34391-3" codeSystem="2.16.840.1.113883.6.1" displayName="HUMAN PRESCRIPTION DRUG LABEL"/>
+   <title>These highlights do not include all the information needed to use RUCONEST
+ <sup>®</sup> safely and effectively. See full prescribing information for RUCONEST.
+ <br/>
+      <br/>
+      <br/>
+      <br/>
+RUCONEST (C1 esterase inhibitor [recombinant])
+ <br/>
+      <br/>
+For Intravenous Use, Lyophilized Powder For Reconstitution
+ <br/>
+      <br/>
+Initial U.S. Approval: 2014
+</title>
+   <effectiveTime value="20200430"/>
+   <setId root="66d3fecb-32a4-7781-e053-2a91aa0a83ca"/>
+   <versionNumber value="3"/>
+   <author>
+      <time/>
+      <assignedEntity>
+         <representedOrganization>
+            <id root="1.3.6.1.4.1.519.1" extension="073255908"/>
+            <name>Pharming Healthcare Inc.</name>
+            <assignedEntity>
+               <assignedOrganization/>
+            </assignedEntity>
+         </representedOrganization>
+      </assignedEntity>
+   </author>
+   <component>
+      <structuredBody>
+         <component>
+            <section>
+               <id root="a743324d-61ac-63ad-e053-2a95a90ac15d"/>
+               <code code="48780-1" codeSystem="2.16.840.1.113883.6.1" displayName="SPL product data elements section"/>
+               <effectiveTime value="20200430"/>
+               <subject>
+                  <manufacturedProduct>
+                     <manufacturedProduct>
+                        <code code="71274-350" codeSystem="2.16.840.1.113883.6.69"/>
+                        <name>Ruconest</name>
+                        <formCode code="C42974" codeSystem="2.16.840.1.113883.3.26.1.1" displayName="INJECTION, POWDER, FOR SOLUTION"/>
+                        <asEntityWithGeneric>
+                           <genericMedicine>
+                              <name>c1 esterase inhibitor recombinant</name>
+                           </genericMedicine>
+                        </asEntityWithGeneric>
+                        <ingredient classCode="IACT">
+                           <ingredientSubstance>
+                              <code code="C151H8M554" codeSystem="2.16.840.1.113883.4.9"/>
+                              <name>SUCROSE</name>
+                           </ingredientSubstance>
+                        </ingredient>
+                        <ingredient classCode="IACT">
+                           <ingredientSubstance>
+                              <code code="1Q73Q2JULR" codeSystem="2.16.840.1.113883.4.9"/>
+                              <name>SODIUM CITRATE, UNSPECIFIED FORM</name>
+                           </ingredientSubstance>
+                        </ingredient>
+                        <ingredient classCode="IACT">
+                           <ingredientSubstance>
+                              <code code="2968PHW8QP" codeSystem="2.16.840.1.113883.4.9"/>
+                              <name>CITRIC ACID MONOHYDRATE</name>
+                           </ingredientSubstance>
+                        </ingredient>
+                        <ingredient classCode="ACTIB">
+                           <quantity>
+                              <numerator unit="U" value="2100"/>
+                              <denominator unit="1" value="1"/>
+                           </quantity>
+                           <ingredientSubstance>
+                              <code code="5QS67N4551" codeSystem="2.16.840.1.113883.4.9"/>
+                              <name>CONESTAT ALFA</name>
+                              <activeMoiety>
+                                 <activeMoiety>
+                                    <code code="5QS67N4551" codeSystem="2.16.840.1.113883.4.9"/>
+                                    <name>CONESTAT ALFA</name>
+                                 </activeMoiety>
+                              </activeMoiety>
+                           </ingredientSubstance>
+                        </ingredient>
+                        <asContent>
+                           <quantity>
+                              <numerator value="1" unit="1"/>
+                              <denominator value="1"/>
+                           </quantity>
+                           <containerPackagedProduct>
+                              <code code="71274-350-01" codeSystem="2.16.840.1.113883.6.69"/>
+                              <formCode code="C43216" codeSystem="2.16.840.1.113883.3.26.1.1" displayName="VIAL, SINGLE-USE"/>
+                              <asContent>
+                                 <quantity>
+                                    <numerator value="1" unit="1"/>
+                                    <denominator value="1"/>
+                                 </quantity>
+                                 <containerPackagedProduct>
+                                    <code code="71274-350-02" codeSystem="2.16.840.1.113883.6.69"/>
+                                    <formCode code="C43182" codeSystem="2.16.840.1.113883.3.26.1.1" displayName="CARTON"/>
+                                 </containerPackagedProduct>
+                                 <subjectOf>
+                                    <marketingAct>
+                                       <code code="C53292" codeSystem="2.16.840.1.113883.3.26.1.1"/>
+                                       <statusCode code="active"/>
+                                       <effectiveTime>
+                                          <low value="20180401"/>
+                                       </effectiveTime>
+                                    </marketingAct>
+                                 </subjectOf>
+                              </asContent>
+                           </containerPackagedProduct>
+                           <subjectOf>
+                              <characteristic>
+                                 <code code="SPLCMBPRDTP" codeSystem="2.16.840.1.113883.1.11.19255"/>
+                                 <value code="C112160" codeSystem="2.16.840.1.113883.3.26.1.1" displayName="Type 0: Not a Combination Product" xsi:type="CV"/>
+                              </characteristic>
+                           </subjectOf>
+                        </asContent>
+                     </manufacturedProduct>
+                     <subjectOf>
+                        <approval>
+                           <id extension="BLA125495" root="2.16.840.1.113883.3.150"/>
+                           <code code="C73585" codeSystem="2.16.840.1.113883.3.26.1.1" displayName="BLA"/>
+                           <author>
+                              <territorialAuthority>
+                                 <territory>
+                                    <code code="USA" codeSystem="2.16.840.1.113883.5.28"/>
+                                 </territory>
+                              </territorialAuthority>
+                           </author>
+                        </approval>
+                     </subjectOf>
+                     <subjectOf>
+                        <marketingAct>
+                           <code code="C53292" codeSystem="2.16.840.1.113883.3.26.1.1"/>
+                           <statusCode code="active"/>
+                           <effectiveTime>
+                              <low value="20180401"/>
+                           </effectiveTime>
+                        </marketingAct>
+                     </subjectOf>
+                     <subjectOf>
+                        <characteristic classCode="OBS">
+                           <code code="SPLCOLOR" codeSystem="2.16.840.1.113883.1.11.19255"/>
+                           <value code="C48325" codeSystem="2.16.840.1.113883.3.26.1.1" displayName="white" xsi:type="CE">
+                              <originalText/>
+                           </value>
+                        </characteristic>
+                     </subjectOf>
+                     <consumedIn>
+                        <substanceAdministration>
+                           <routeCode code="C38276" codeSystem="2.16.840.1.113883.3.26.1.1" displayName="INTRAVENOUS"/>
+                        </substanceAdministration>
+                     </consumedIn>
+                  </manufacturedProduct>
+               </subject>
+            </section>
+         </component>
+         <component>
+            <section ID="LINK_490fbe89-590b-44d2-9522-665f23fd30fc">
+               <id root="9af0c7e6-fa5e-1d9f-e053-2995a90aaa51"/>
+               <code code="34067-9" codeSystem="2.16.840.1.113883.6.1" displayName="INDICATIONS &amp; USAGE SECTION"/>
+               <title>
+                  <content styleCode="bold">1 INDICATIONS AND USAGE</content>
+               </title>
+               <text>
+                  <paragraph>RUCONEST is a C1 esterase inhibitor [recombinant] indicated for the treatment of acute attacks in adult and adolescent patients with hereditary angioedema (HAE).</paragraph>
+                  <paragraph/>
+                  <paragraph>Limitation of Use: Effectiveness was not established in HAE patients with laryngeal attacks.</paragraph>
+               </text>
+               <effectiveTime value="20180316"/>
+               <excerpt>
+                  <highlight>
+                     <text>
+                        <paragraph>RUCONEST is a C1 esterase inhibitor [recombinant] indicated for the treatment of acute attacks in adult and adolescent patients with hereditary angioedema (HAE). (
+    <linkHtml href="#LINK_490fbe89-590b-44d2-9522-665f23fd30fc">1</linkHtml>)
+   </paragraph>
+                        <paragraph/>
+                        <paragraph>Limitation of Use: Effectiveness was not established in HAE patients with laryngeal attacks.</paragraph>
+                     </text>
+                  </highlight>
+               </excerpt>
+            </section>
+         </component>
+         <component>
+            <section ID="LINK_527e7a36-0a64-4a06-a7e4-99c5a224271c">
+               <id root="9af1178f-baab-4972-e053-2995a90a8222"/>
+               <code code="34068-7" codeSystem="2.16.840.1.113883.6.1" displayName="DOSAGE &amp; ADMINISTRATION SECTION"/>
+               <title>
+                  <content styleCode="bold">2 DOSAGE AND ADMINISTRATION</content>
+               </title>
+               <text>
+                  <paragraph>For intravenous use after reconstitution only.</paragraph>
+               </text>
+               <effectiveTime value="20191223"/>
+               <excerpt>
+                  <highlight>
+                     <text>
+                        <paragraph>For Intravenous Use Only.</paragraph>
+                        <list listType="unordered">
+                           <item>Reconstitute each vial (2100 U) by adding 14 mL sterile Water for Injection per vial to obtain a solution of 150 U per mL. (
+     <linkHtml href="#LINK_c0d7997b-df2c-4348-9597-f79485e98380">2.3</linkHtml>)
+    </item>
+                           <item>Administer the reconstituted solution at room temperature as a slow intravenous injection over approximately 5 minutes. (
+     <linkHtml href="#LINK_8d9032e3-1d63-44b3-b98f-74ab06f0076b">2.4</linkHtml>)
+    </item>
+                           <item>Appropriately trained patients may self-administer upon recognition of an HAE attack. (
+     <linkHtml href="#LINK_8d9032e3-1d63-44b3-b98f-74ab06f0076b">2.4</linkHtml>)
+    </item>
+                        </list>
+                        <paragraph/>
+                        <paragraph>Recommended dose of RUCONEST for an acute attack</paragraph>
+                        <table width="100%">
+                           <colgroup>
+                              <col width="26%"/>
+                              <col width="33%"/>
+                              <col width="41%"/>
+                           </colgroup>
+                           <tbody>
+                              <tr>
+                                 <td align="center" styleCode="Rrule Botrule Lrule Toprule " valign="top">
+                                    <paragraph>
+                                       <content styleCode="bold">Body weight</content>
+                                    </paragraph>
+                                 </td>
+                                 <td align="center" styleCode="Rrule Botrule Lrule Toprule " valign="top">
+                                    <paragraph>
+                                       <content styleCode="bold">RUCONEST Dose for Intravenous Injection</content>
+                                    </paragraph>
+                                 </td>
+                                 <td align="center" styleCode="Rrule Botrule Lrule Toprule " valign="top">
+                                    <paragraph>
+                                       <content styleCode="bold">Volume (mL) of Reconstituted Solution (150 U/mL) to be Administered</content>
+                                    </paragraph>
+                                 </td>
+                              </tr>
+                              <tr>
+                                 <td align="center" styleCode="Rrule Lrule Botrule " valign="top">
+                                    <paragraph>&lt; 84 kg</paragraph>
+                                 </td>
+                                 <td align="center" styleCode="Rrule Lrule Botrule " valign="top">
+                                    <paragraph>50 U per kg</paragraph>
+                                 </td>
+                                 <td align="center" styleCode="Rrule Lrule Botrule " valign="top">
+                                    <paragraph>Body weight in kg divided by 3</paragraph>
+                                 </td>
+                              </tr>
+                              <tr>
+                                 <td align="center" styleCode="Rrule Botrule Lrule " valign="top">
+                                    <paragraph>≥ 84 kg</paragraph>
+                                 </td>
+                                 <td align="center" styleCode="Rrule Botrule Lrule " valign="top">
+                                    <paragraph>4200 U (2 vials)</paragraph>
+                                 </td>
+                                 <td align="center" styleCode="Rrule Botrule Lrule " valign="top">
+                                    <paragraph>28 mL</paragraph>
+                                 </td>
+                              </tr>
+                           </tbody>
+                        </table>
+                        <paragraph>
+                           <content styleCode="bold">If the attack symptoms persist, an additional (second) dose can be administered at the recommended dose level. Do not exceed 4200 U per dose. No more than two doses should be administered within a 24-hour period.</content>
+                        </paragraph>
+                     </text>
+                  </highlight>
+               </excerpt>
+               <component>
+                  <section ID="LINK_936018e0-846d-441d-a136-ec1b81437d48">
+                     <id root="9af1168f-7b3c-8ea4-e053-2a95a90a6db0"/>
+                     <code code="42229-5" codeSystem="2.16.840.1.113883.6.1" displayName="SPL UNCLASSIFIED SECTION"/>
+                     <title>
+                        <content styleCode="bold">2.1 Recommended Dosing</content>
+                     </title>
+                     <text>
+                        <list listType="unordered">
+                           <item>Training on how to administer RUCONEST should be conducted by a qualified healthcare professional experienced in the treatment of HAE.</item>
+                           <item>Appropriately trained patients may self-administer upon recognition of an HAE attack.</item>
+                           <item>The recommended dose of RUCONEST is 50 U per kg with a maximum of 4200 U to be administered as a slow intravenous injection over approximately 5 minutes.</item>
+                        </list>
+                        <paragraph>If the attack symptoms persist, an additional (second) dose can be administered at the recommended dose level. Do not exceed 4200 U per dose. No more than two doses should be administered within a 24-hour period.</paragraph>
+                        <table cellpadding="0" cellspacing="0" width="65%" ID="_RefID0EBDAC">
+                           <caption>Table 1. Recommended dose of RUCONEST for an acute attack</caption>
+                           <colgroup>
+                              <col width="20%"/>
+                              <col width="22%"/>
+                              <col width="32%"/>
+                           </colgroup>
+                           <tbody>
+                              <tr>
+                                 <td styleCode="Rrule Botrule Lrule Toprule " valign="top">
+                                    <paragraph>
+                                       <content styleCode="bold">Body Weight</content>
+                                    </paragraph>
+                                 </td>
+                                 <td styleCode="Rrule Botrule Lrule Toprule " valign="top">
+                                    <paragraph>
+                                       <content styleCode="bold">RUCONEST Dose for Intravenous Injection</content>
+                                    </paragraph>
+                                 </td>
+                                 <td styleCode="Rrule Botrule Lrule Toprule " valign="top">
+                                    <paragraph>
+                                       <content styleCode="bold">Volume (mL) of Reconstituted Solution (150 U/mL) to be Administered</content>
+                                    </paragraph>
+                                 </td>
+                              </tr>
+                              <tr>
+                                 <td styleCode="Rrule Lrule Botrule " valign="top">
+                                    <paragraph>&lt; 84 kg</paragraph>
+                                 </td>
+                                 <td styleCode="Rrule Lrule Botrule " valign="top">
+                                    <paragraph>50 U per kg</paragraph>
+                                 </td>
+                                 <td styleCode="Rrule Lrule Botrule " valign="top">
+                                    <paragraph>Body weight in kg divided by 3</paragraph>
+                                 </td>
+                              </tr>
+                              <tr>
+                                 <td styleCode="Rrule Botrule Lrule " valign="top">
+                                    <paragraph>≥ 84 kg</paragraph>
+                                 </td>
+                                 <td styleCode="Rrule Botrule Lrule " valign="top">
+                                    <paragraph>4200 U (2 vials)</paragraph>
+                                 </td>
+                                 <td styleCode="Rrule Botrule Lrule " valign="top">
+                                    <paragraph>28 mL</paragraph>
+                                 </td>
+                              </tr>
+                           </tbody>
+                        </table>
+                     </text>
+                     <effectiveTime value="20180316"/>
+                  </section>
+               </component>
+               <component>
+                  <section ID="LINK_8e4a4255-116b-4d33-a560-61f83450f7e4">
+                     <id root="9af12167-4e78-8e00-e053-2a95a90a270d"/>
+                     <code code="42229-5" codeSystem="2.16.840.1.113883.6.1" displayName="SPL UNCLASSIFIED SECTION"/>
+                     <title>
+                        <content styleCode="bold">2.2 Preparation and Handling</content>
+                     </title>
+                     <text>
+                        <list listType="unordered">
+                           <item>Store RUCONEST in the original carton and protect from light prior to reconstitution.</item>
+                           <item>Do not use after expiration date on the product vial label.</item>
+                           <item>Water for Injection is not included in the RUCONEST package.</item>
+                           <item>Use aseptic technique to reconstitute, mix the solution, and to combine the reconstituted solution from more than one vial (
+   <content styleCode="italics">see Reconstitution </content>[
+   <linkHtml href="#LINK_c0d7997b-df2c-4348-9597-f79485e98380">2.3</linkHtml>] 
+   <content styleCode="italics"> and Administration</content> [
+   <linkHtml href="#LINK_8d9032e3-1d63-44b3-b98f-74ab06f0076b">2.4</linkHtml>]).
+  </item>
+                           <item>Do not mix or administer RUCONEST with other medicinal products or solutions.</item>
+                           <item>Discard all partially used vials after treatment.</item>
+                        </list>
+                     </text>
+                     <effectiveTime value="20180316"/>
+                  </section>
+               </component>
+               <component>
+                  <section ID="LINK_c0d7997b-df2c-4348-9597-f79485e98380">
+                     <id root="9af0c7e6-fa7c-1d9f-e053-2995a90aaa51"/>
+                     <code code="42229-5" codeSystem="2.16.840.1.113883.6.1" displayName="SPL UNCLASSIFIED SECTION"/>
+                     <title>
+                        <content styleCode="bold">2.3 Reconstitution</content>
+                     </title>
+                     <text>
+                        <paragraph>Each package contains one single-use vial of RUCONEST. To reconstitute, the following are also required:</paragraph>
+                        <list listType="unordered">
+                           <item>Sterile Water for Injection (diluent) - At least 14 mL per vial of RUCONEST requiring reconstitution.</item>
+                           <item>Antiseptic wipe</item>
+                           <item>Syringe</item>
+                           <item>Commercially available vial adapter and syringe luer lock or large bore needle. If using a syringe with vial adapter, use a new vial adapter for each vial of RUCONEST and diluent.</item>
+                        </list>
+                        <paragraph>The procedures below are provided as general guidelines for the reconstitution and administration of RUCONEST.</paragraph>
+                        <list listType="unordered">
+                           <item>Ensure that the RUCONEST vial and diluent vial are at room temperature.</item>
+                           <item>Remove the flip caps from the RUCONEST and diluent vials. Treat the vial stoppers with the antiseptic wipe and allow to dry.</item>
+                           <item>Using the syringe/needle or syringe/vial adapter, withdraw 14 mL of sterile water for injection from the diluent vial.</item>
+                           <item>Remove the syringe and transfer the diluent to the RUCONEST vial. Add the diluent slowly to avoid forceful impact on the powder. Swirl the vial slowly to mix and avoid foaming.</item>
+                           <item>Repeat this procedure using another 14 mL of diluent and a second vial of RUCONEST.</item>
+                           <item>If the same patient is to receive more than one vial, the contents of multiple vials may be pooled into a single administration device (i.e., syringe).</item>
+                           <item>Inspect RUCONEST visually for particulate matter and discoloration after reconstitution and prior to administration. The reconstituted solution should be colorless, clear, and free from visible particles. 
+   <content styleCode="bold">Do not use if the solution is cloudy, colored, or contains particulates.</content>
+                           </item>
+                           <item>RUCONEST vial is for single-use only.</item>
+                           <item>Use the reconstituted product immediately, or within 8 hours stored at 36ºF - 46ºF (2º - 8ºC). Discard partially used vials.</item>
+                           <item>Do not freeze the reconstituted solution.</item>
+                        </list>
+                     </text>
+                     <effectiveTime value="20180316"/>
+                  </section>
+               </component>
+               <component>
+                  <section ID="LINK_8d9032e3-1d63-44b3-b98f-74ab06f0076b">
+                     <id root="9af0fb1a-0561-2344-e053-2a95a90aad27"/>
+                     <code code="42229-5" codeSystem="2.16.840.1.113883.6.1" displayName="SPL UNCLASSIFIED SECTION"/>
+                     <title>
+                        <content styleCode="bold">2.4 Administration</content>
+                     </title>
+                     <text>
+                        <list listType="unordered">
+                           <item>Do not mix RUCONEST with other medicinal products. Administer RUCONEST by a separate infusion line.</item>
+                           <item>Use aseptic technique when administering RUCONEST.</item>
+                           <item>Follow recommended venipuncture guidelines for initiating intravenous therapy.</item>
+                           <item>Administer RUCONEST by slow intravenous injection over approximately 5 minutes.</item>
+                           <item>For self-administration, provide the patient with instructions and training for intravenous injection outside of a clinic setting so patients may self-administer RUCONEST upon recognition of symptoms of an HAE attack [see
+   <content styleCode="italics"> Patient Counseling Information (</content>
+                              <linkHtml href="#LINK_7e8ed05c-41f0-4ab1-80b3-fc07cbab8aac">17</linkHtml>)].
+  </item>
+                           <item>After administration, immediately discard any unused product and all used disposable supplies in accordance with local requirements.</item>
+                        </list>
+                     </text>
+                     <effectiveTime value="20180316"/>
+                  </section>
+               </component>
+            </section>
+         </component>
+         <component>
+            <section ID="LINK_5bb79fe8-4761-4c9f-8b95-5d8cf8bb423e">
+               <id root="9af0c7e6-fa60-1d9f-e053-2995a90aaa51"/>
+               <code code="43678-2" codeSystem="2.16.840.1.113883.6.1" displayName="DOSAGE FORMS &amp; STRENGTHS SECTION"/>
+               <title>
+                  <content styleCode="bold">3 DOSAGE FORMS AND STRENGTHS</content>
+               </title>
+               <text>
+                  <list listType="unordered">
+                     <item>RUCONEST is available as a lyophilized powder for reconstitution for injection in a single-use 25 mL glass vial. Each vial contains 2100 U of rhC1INH.</item>
+                  </list>
+               </text>
+               <effectiveTime value="20180316"/>
+               <excerpt>
+                  <highlight>
+                     <text>
+                        <paragraph>2100 U Lyophilized powder for reconstitution for injection in a single-use vial. (
+    <linkHtml href="#LINK_5bb79fe8-4761-4c9f-8b95-5d8cf8bb423e">3</linkHtml>)
+   </paragraph>
+                     </text>
+                  </highlight>
+               </excerpt>
+            </section>
+         </component>
+         <component>
+            <section ID="LINK_2ea254c1-b9fb-4a29-b233-c659d9df9b4d">
+               <id root="9af0c7e6-fa61-1d9f-e053-2995a90aaa51"/>
+               <code code="34070-3" codeSystem="2.16.840.1.113883.6.1" displayName="CONTRAINDICATIONS SECTION"/>
+               <title>
+                  <content styleCode="bold">4 CONTRAINDICATIONS</content>
+               </title>
+               <text>
+                  <list listType="unordered">
+                     <item>RUCONEST is contraindicated in patients with a history of allergy to rabbits or rabbit-derived products.</item>
+                     <item>RUCONEST is contraindicated in patients with a history of life-threatening immediate hypersensitivity reactions to C1 esterase inhibitor preparations, including anaphylaxis.</item>
+                  </list>
+               </text>
+               <effectiveTime value="20180316"/>
+               <excerpt>
+                  <highlight>
+                     <text>
+                        <list listType="unordered">
+                           <item>Known or suspected allergy to rabbits and rabbit-derived products. (
+     <linkHtml href="#LINK_2ea254c1-b9fb-4a29-b233-c659d9df9b4d">4</linkHtml>)
+    </item>
+                           <item>History of immediate hypersensitivity reactions, including anaphylaxis, to C1 esterase inhibitor preparations. (
+     <linkHtml href="#LINK_2ea254c1-b9fb-4a29-b233-c659d9df9b4d">4</linkHtml>)
+    </item>
+                        </list>
+                     </text>
+                  </highlight>
+               </excerpt>
+            </section>
+         </component>
+         <component>
+            <section ID="LINK_559a2a4e-9615-42c8-8e2a-99f58cb841b4">
+               <id root="9af0c7e6-fa63-1d9f-e053-2995a90aaa51"/>
+               <code code="43685-7" codeSystem="2.16.840.1.113883.6.1" displayName="WARNINGS AND PRECAUTIONS SECTION"/>
+               <title>
+                  <content styleCode="bold">5 WARNINGS AND PRECAUTIONS</content>
+               </title>
+               <effectiveTime value="20180316"/>
+               <excerpt>
+                  <highlight>
+                     <text>
+                        <list listType="unordered">
+                           <item>Hypersensitivity reactions, including anaphylaxis may occur. Should symptoms occur, discontinue RUCONEST and administer appropriate treatment. (
+     <linkHtml href="#LINK_a6bb55d0-2b17-498a-9444-51be119bff7f">5.1</linkHtml>)
+    </item>
+                           <item>Serious arterial and venous thromboembolic (TE) events have been reported at the recommended dose of plasma derived C1 esterase inhibitor products in patients with risk factors. Monitor patients with known risk factors for TE events during and after RUCONEST administration. (
+     <linkHtml href="#LINK_093553f2-6215-48ed-b275-aeab748a5999">5.2</linkHtml>)
+    </item>
+                        </list>
+                     </text>
+                  </highlight>
+               </excerpt>
+               <component>
+                  <section ID="LINK_a6bb55d0-2b17-498a-9444-51be119bff7f">
+                     <id root="9af14455-3287-8f6e-e053-2a95a90a6034"/>
+                     <code code="42229-5" codeSystem="2.16.840.1.113883.6.1" displayName="SPL UNCLASSIFIED SECTION"/>
+                     <title>
+                        <content styleCode="bold">5.1 Hypersensitivity</content>
+                     </title>
+                     <text>
+                        <paragraph>Severe hypersensitivity reactions may occur
+  <content styleCode="italics">. </content> The signs and symptoms of hypersensitivity reactions may include hives, generalized urticaria, tightness of the chest, wheezing, hypotension, and/or anaphylaxis during or after injection of RUCONEST. Should symptoms occur, discontinue RUCONEST and institute appropriate treatment. Because hypersensitivity reactions may have symptoms similar to HAE attacks, treatment methods should be carefully considered. [see 
+  <content styleCode="italics">Patient Counseling Information (17)</content>]
+ </paragraph>
+                     </text>
+                     <effectiveTime value="20191223"/>
+                  </section>
+               </component>
+               <component>
+                  <section ID="LINK_093553f2-6215-48ed-b275-aeab748a5999">
+                     <id root="9af0c7e6-fa7a-1d9f-e053-2995a90aaa51"/>
+                     <code code="42229-5" codeSystem="2.16.840.1.113883.6.1" displayName="SPL UNCLASSIFIED SECTION"/>
+                     <title>
+                        <content styleCode="bold">5.2 Thromboembolic Events</content>
+                     </title>
+                     <text>
+                        <paragraph>Serious arterial and venous thromboembolic (TE) events have been reported at the recommended dose of plasma derived C1 esterase inhibitor products in patients with risk factors. Risk factors may include the presence of an indwelling venous catheter/access device, prior history of thrombosis, underlying atherosclerosis, use of oral contraceptives or certain androgens, morbid obesity, and immobility. Monitor patients with known risk factors for TE events during and after RUCONEST administration.</paragraph>
+                     </text>
+                     <effectiveTime value="20180316"/>
+                  </section>
+               </component>
+            </section>
+         </component>
+         <component>
+            <section ID="LINK_b77623fe-c97b-453a-93dc-d17cada6ccde">
+               <id root="9af0c7e6-fa62-1d9f-e053-2995a90aaa51"/>
+               <code code="34084-4" codeSystem="2.16.840.1.113883.6.1" displayName="ADVERSE REACTIONS SECTION"/>
+               <title>
+                  <content styleCode="bold">6 ADVERSE REACTIONS</content>
+               </title>
+               <text>
+                  <paragraph>The serious adverse reaction in clinical studies of RUCONEST was anaphylaxis.</paragraph>
+                  <paragraph>The most common adverse reactions (≥ 2%) reported in all clinical trials were headache, nausea, and diarrhea.</paragraph>
+               </text>
+               <effectiveTime value="20180316"/>
+               <excerpt>
+                  <highlight>
+                     <text>
+                        <list listType="unordered">
+                           <item>The serious adverse reaction reported in clinical trials was anaphylactic reaction. (
+     <linkHtml href="#LINK_b77623fe-c97b-453a-93dc-d17cada6ccde">6</linkHtml>)
+    </item>
+                           <item>The common adverse reactions (≥ 2%) reported in clinical trials were headache, nausea, and diarrhea. (
+     <linkHtml href="#LINK_b77623fe-c97b-453a-93dc-d17cada6ccde">6</linkHtml>)
+    </item>
+                        </list>
+                        <paragraph>
+                           <content styleCode="bold">To report SUSPECTED ADVERSE REACTIONS, contact Pharming Healthcare Inc. at 1-800-930-5221 or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch.</content>
+                        </paragraph>
+                     </text>
+                  </highlight>
+               </excerpt>
+               <component>
+                  <section ID="LINK_a3b360fa-c68f-4780-827e-e68f18c049af">
+                     <id root="9af16602-57ab-8560-e053-2995a90a70b0"/>
+                     <code code="42229-5" codeSystem="2.16.840.1.113883.6.1" displayName="SPL UNCLASSIFIED SECTION"/>
+                     <title>
+                        <content styleCode="bold">6.1 Clinical Trials Experience</content>
+                     </title>
+                     <text>
+                        <paragraph>
+                           <br/>
+                           <content styleCode="italics">Because clinical trials are conducted under widely varying conditions, the adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in clinical practice.</content>
+                        </paragraph>
+                        <paragraph>The RUCONEST clinical development program evaluated a combined total of 940 administrations in 236 subjects (symptomatic and non-symptomatic). In clinical studies, a total of 205 symptomatic HAE patients received treatment with RUCONEST for a combined total of 650 acute angioedema attacks. Among these HAE patients, 83 were treated for a single HAE attack and 122 were treated for multiple attacks.</paragraph>
+                        <paragraph>Three randomized, placebo-controlled clinical trials (RCTs) were conducted in which 137 patients experiencing acute HAE attacks received RUCONEST (either an initial 50 U/kg or 100 U/kg body weight dose) or placebo (saline solution).</paragraph>
+                        <paragraph>Table 2 shows all adverse reactions (ARs) in the RCTs, compared with the placebo group.</paragraph>
+                        <paragraph/>
+                        <paragraph/>
+                        <paragraph>
+                           <content styleCode="bold">Table 2. Adverse reactions occurring In ≥ 2% of subjects in the three RCT studies</content>
+                        </paragraph>
+                        <table border="0" width="100%">
+                           <tbody>
+                              <tr>
+                                 <td>
+                                    <content styleCode="bold">MedDRA Preferred Term </content>
+                                 </td>
+                                 <td>
+                                    <paragraph>
+                                       <content styleCode="bold">RUCONEST</content>
+                                    </paragraph>
+                                    <paragraph>
+                                       <content styleCode="bold">100 U/kg</content>
+                                    </paragraph>
+                                    <paragraph>
+                                       <content styleCode="bold">(N=29)</content>
+                                    </paragraph>
+                                    <paragraph>
+                                       <content styleCode="bold">n (%)</content>
+                                    </paragraph>
+                                 </td>
+                                 <td>
+                                    <paragraph>
+                                       <content styleCode="bold">RUCONEST</content>
+                                    </paragraph>
+                                    <paragraph>
+                                       <content styleCode="bold">50 U/kg*
+       <br/>
+			(N=66)
+       <br/>
+			n (%)
+      </content>
+                                    </paragraph>
+                                 </td>
+                                 <td>
+                                    <paragraph>
+                                       <content styleCode="bold">Placebo**</content>
+                                    </paragraph>
+                                    <paragraph>
+                                       <content styleCode="bold">(N=47)
+       <br/>
+			n (%)
+      </content>
+                                    </paragraph>
+                                 </td>
+                              </tr>
+                              <tr>
+                                 <td>
+                                    <content styleCode="bold">Total number of patients with adverse reactions</content>
+                                 </td>
+                                 <td>
+                                    <content styleCode="bold">4 (14%)</content>
+                                 </td>
+                                 <td>
+                                    <content styleCode="bold">6 (9%)</content>
+                                 </td>
+                                 <td>
+                                    <content styleCode="bold">13 (28%)</content>
+                                 </td>
+                              </tr>
+                              <tr>
+                                 <td>Headache</td>
+                                 <td>3 (10%)</td>
+                                 <td>0</td>
+                                 <td>2 (4%)</td>
+                              </tr>
+                              <tr>
+                                 <td>Sneezing</td>
+                                 <td>0</td>
+                                 <td>1 (2%)</td>
+                                 <td>0</td>
+                              </tr>
+                              <tr>
+                                 <td>Angioedema</td>
+                                 <td>1 (3%)</td>
+                                 <td>0</td>
+                                 <td>0</td>
+                              </tr>
+                              <tr>
+                                 <td>Erythema marginatum</td>
+                                 <td>0</td>
+                                 <td>1 (2%)</td>
+                                 <td>0</td>
+                              </tr>
+                              <tr>
+                                 <td>Skin burning sensation</td>
+                                 <td>0</td>
+                                 <td>1 (2%)</td>
+                                 <td>0</td>
+                              </tr>
+                              <tr>
+                                 <td>Back pain</td>
+                                 <td>0</td>
+                                 <td>2 (3%)</td>
+                                 <td>0</td>
+                              </tr>
+                              <tr>
+                                 <td>C-reactive protein increased</td>
+                                 <td>0</td>
+                                 <td>1 (2%)</td>
+                                 <td>0</td>
+                              </tr>
+                              <tr>
+                                 <td>Fibrin D-dimer increased</td>
+                                 <td>0</td>
+                                 <td>1 (2%)</td>
+                                 <td>0</td>
+                              </tr>
+                              <tr>
+                                 <td>Vertigo</td>
+                                 <td>1 (3%)</td>
+                                 <td>0</td>
+                                 <td>0</td>
+                              </tr>
+                              <tr>
+                                 <td>Procedural headache</td>
+                                 <td>0</td>
+                                 <td>1 (2%)</td>
+                                 <td>0</td>
+                              </tr>
+                              <tr>
+                                 <td>Lipoma</td>
+                                 <td>0</td>
+                                 <td>1 (2%)</td>
+                                 <td>0</td>
+                              </tr>
+                           </tbody>
+                        </table>
+                        <paragraph>* Includes 5 patients who received an additional 50 U/kg dose
+  <br/>
+MedDRA: Medical Dictionary for Regulatory Activities, version 15.0.
+  <br/>
+** Events only occurring in placebo patients are not listed.
+  <br/>
+                           <br/>
+                           <content styleCode="underline">Integrated RCT and Open-Label Extension (OLE) Studies</content>
+                           <br/>
+In a total of seven RCT and OLE studies, 205 patients experiencing acute HAE attacks were treated with RUCONEST for a total of 650 HAE attacks. Included in this population were 124 patients who were treated at the 50 U/kg dosage strength for one or more attacks.
+ </paragraph>
+                        <paragraph/>
+                        <paragraph>Table 3 shows adverse reactions in ≥ 2% of patients in any RUCONEST group for the integrated dataset combining all seven RCT and OLE studies in patients experiencing acute HAE attacks.</paragraph>
+                        <paragraph>
+                           <br/>
+                           <content styleCode="bold">Table 3. Adverse reactions in the seven RCT and OLE studies occurring ≥ 2% of RUCONEST-treated patients (all doses), irrespective of causality</content>
+                        </paragraph>
+                        <table border="0" width="100%">
+                           <tbody>
+                              <tr>
+                                 <td>
+                                    <content styleCode="bold">MedDRA Preferred Term</content>
+                                 </td>
+                                 <td>
+                                    <content styleCode="bold">All RUCONEST doses* N=205 n (%)</content>
+                                 </td>
+                              </tr>
+                              <tr>
+                                 <td>Headache</td>
+                                 <td>19 (9%)</td>
+                              </tr>
+                              <tr>
+                                 <td>Nausea</td>
+                                 <td>5 (2%)</td>
+                              </tr>
+                              <tr>
+                                 <td>Diarrhea</td>
+                                 <td>5 (2%)</td>
+                              </tr>
+                           </tbody>
+                        </table>
+                        <paragraph>* RUCONEST doses: doses up to 100 U/kg</paragraph>
+                        <paragraph>MedDRA: Medical Dictionary for Regulatory Activities, version 15.0.</paragraph>
+                        <paragraph>
+                           <br/>
+                           <content styleCode="underline">Immunogenicity </content>
+                           <br/>
+As with all therapeutic proteins, there is potential for immunogenicity. Pre- and post-exposure samples from 205 HAE patients treated for 650 acute attacks with RUCONEST were tested for the antibodies against plasma-derived C1INH or rhC1INH and for antibodies against host-related impurities (HRI). Testing was performed prior to and after treatment of a first attack and subsequent repeated attacks at 7, 22 or 28, and 90 days after RUCONEST treatment.
+ </paragraph>
+                        <paragraph>Prior to the first exposure to RUCONEST, the frequency of anti-C1INH antibodies varied from 1.2% to 1.6% of samples. After the first exposure, the frequency of anti-C1INH antibodies varied from 0.6% to 1.0% of samples tested. After repeated exposures, the frequency of anti-C1INH antibodies varied from 0.5 to 2.2% of samples tested. The frequency of anti-HRI antibodies was 1.0% in pre-exposure samples, and after the first exposure varied from 3.5% to 4.6%. After repeated exposure, the frequency of anti-HRI antibodies varied from 5.7% to 17% of samples. At least 10% of subjects formed a specific antibody response to RUCONEST after five treated HAE attacks. No anti-C1INH neutralizing antibodies were detected. Observed anti-C1INH and anti-HRI antibodies were not associated with adverse clinical findings.</paragraph>
+                        <paragraph/>
+                        <paragraph>The detection of antibody formation is highly dependent on the sensitivity and specificity of the assay. Additionally, the observed incidence of antibody (including neutralizing antibody) positivity in an assay may be influenced by several factors including assay methodology, sample handling, timing of sample collection, concomitant medications, and underlying disease. For these reasons, comparison of the incidence of antibodies to RUCONEST with the incidence of antibodies to other products may be misleading.</paragraph>
+                        <paragraph>
+                           <br/>
+                           <content styleCode="underline">Postmarketing Experience</content>
+                           <br/>
+Because postmarketing reporting of adverse reactions is voluntary and from a population of uncertain size, it is not always possible to reliably estimate the frequency of these reactions or establish a causal relationship to product exposure.
+ </paragraph>
+                        <paragraph>Adverse reactions in HAE patients receiving RUCONEST include abdominal pain and rash.</paragraph>
+                     </text>
+                     <effectiveTime value="20191223"/>
+                  </section>
+               </component>
+            </section>
+         </component>
+         <component>
+            <section ID="LINK_226d2df6-2304-4576-a76b-2ce116a8fdb0">
+               <id root="9af16f93-318e-88fa-e053-2995a90a8c52"/>
+               <code code="43684-0" codeSystem="2.16.840.1.113883.6.1" displayName="USE IN SPECIFIC POPULATIONS SECTION"/>
+               <title>
+                  <content styleCode="bold">8 USE IN SPECIFIC POPULATIONS</content>
+               </title>
+               <effectiveTime value="20191223"/>
+               <component>
+                  <section ID="LINK_2a237d58-d73d-4fa6-b6eb-03ae942d981e">
+                     <id root="9af18dc9-fcf0-fde1-e053-2995a90a4087"/>
+                     <code code="42228-7" codeSystem="2.16.840.1.113883.6.1" displayName="PREGNANCY SECTION"/>
+                     <title>
+                        <content styleCode="bold">8.1 Pregnancy</content>
+                     </title>
+                     <text>
+                        <paragraph>
+                           <content styleCode="underline">Risk Summary</content>
+                        </paragraph>
+                        <paragraph>There are no adequate and well-controlled studies of RUCONEST in pregnant women. In the U.S. general population, regardless of drug exposure, available data suggest that major birth defects occur in 2 to 4% of the general population and miscarriage occurs in 15 to 20% of clinically recognized pregnancies.</paragraph>
+                        <paragraph>
+                           <content styleCode="underline">Data</content>
+                        </paragraph>
+                        <paragraph>
+                           <content styleCode="italics">Human Data</content>
+                        </paragraph>
+                        <paragraph>Limited available postmarketing safety data with RUCONEST use in pregnant women do not indicate any adverse effects in this population. In a retrospective case collection study, 14 pregnant women aged 17 to 37 years with HAE received RUCONEST at 50 U/kg (max 4200 U) via intravenous administration for treatment of acute atttacks or for prophylaxis during pregnancy. For all 14 women in this study, delivery at full term with the births of healthy babies occurred without complications. No adverse events related to RUCONEST treatment were reported during the pregnancy period.
+  <sup>1,2</sup> However these data cannot definitely establish the absence of any risk because of the small sample size and non-randomized study design.
+ </paragraph>
+                        <paragraph>
+                           <content styleCode="italics">Animal Data</content>
+                        </paragraph>
+                        <paragraph>Embryo toxicity with 625 U/kg of RUCONEST (12.5 times the human dose) was tested after intravenous dosing of pregnant rats in a segment II (embryofetal toxicity) study design. There were no significant outcomes from this study. Dosing of pregnant rabbits with 625 U/kg during organogenesis showed no drug-related adverse effects on either the developing fetuses or mothers [see 
+  <content styleCode="italics">Animal Toxicology and/or Pharmacology (13.2)].</content>
+                        </paragraph>
+                     </text>
+                     <effectiveTime value="20191223"/>
+                  </section>
+               </component>
+               <component>
+                  <section ID="LINK_beb5ad7f-21fb-4ecb-888d-0b3c66045011">
+                     <id root="9af18dc9-fcf8-fde1-e053-2995a90a4087"/>
+                     <code code="77290-5" codeSystem="2.16.840.1.113883.6.1" displayName="LACTATION SECTION"/>
+                     <title>
+                        <content styleCode="bold">8.2 Lactation</content>
+                     </title>
+                     <text>
+                        <paragraph>
+                           <content styleCode="underline">Risk Summary</content>
+                        </paragraph>
+                        <paragraph>There are no data on the presence of RUCONEST in human milk, its effects on the breastfed infant, or its effects on milk production. The developmental and health benefits of breastfeeding should be considered along with the mother's clinical need for RUCONEST and any potential adverse effects on the breastfed child from RUCONEST or from the underlying maternal condition.</paragraph>
+                     </text>
+                     <effectiveTime value="20191223"/>
+                  </section>
+               </component>
+               <component>
+                  <section ID="LINK_bd27ffe5-0ea3-4cbc-be58-fd23876dbb5a">
+                     <id root="9af0c7e6-fa78-1d9f-e053-2995a90aaa51"/>
+                     <code code="34081-0" codeSystem="2.16.840.1.113883.6.1" displayName="PEDIATRIC USE SECTION"/>
+                     <title>
+                        <content styleCode="bold">8.4 Pediatric Use</content>
+                     </title>
+                     <text>
+                        <paragraph>The safety and efficacy of RUCONEST were evaluated in 17 adolescent patients (13-17 years of age) treated for 52 HAE attacks. Eight out of 17 (47%) adolescent patients experienced adverse reactions. No serious adverse reactions were reported in these patients. The most common reactions (occurring in at least 2 patients) were: abdominal pain, headache, and oropharyngeal pain.</paragraph>
+                     </text>
+                     <effectiveTime value="20180316"/>
+                  </section>
+               </component>
+               <component>
+                  <section ID="LINK_d0caaa55-3e9f-41fd-aaa7-dabe3dda7fb5">
+                     <id root="9af0c7e6-fa6e-1d9f-e053-2995a90aaa51"/>
+                     <code code="34082-8" codeSystem="2.16.840.1.113883.6.1" displayName="GERIATRIC USE SECTION"/>
+                     <title>
+                        <content styleCode="bold">8.5 Geriatric Use</content>
+                     </title>
+                     <text>
+                        <paragraph>The clinical studies of RUCONEST included seven patients older than 65 years. The clinical studies included an insufficient number of patients in this age group to determine if they respond differently from younger patients.</paragraph>
+                     </text>
+                     <effectiveTime value="20180316"/>
+                  </section>
+               </component>
+            </section>
+         </component>
+         <component>
+            <section ID="LINK_adf498f2-321a-4ed9-a8a6-b3f986feb2b0">
+               <id root="9af0c7e6-fa65-1d9f-e053-2995a90aaa51"/>
+               <code code="34089-3" codeSystem="2.16.840.1.113883.6.1" displayName="DESCRIPTION SECTION"/>
+               <title>
+                  <content styleCode="bold">11 DESCRIPTION</content>
+               </title>
+               <text>
+                  <paragraph>RUCONEST is a recombinant analogue of human complement component 1 esterase inhibitor for intravenous injection. RUCONEST is purified from the milk of transgenic rabbits, and supplied as a sterile, preservative-free, white/off-white lyophilized powder for reconstitution for injection. One U of rhC1INH activity is defined as the equivalent of C1 esterase inhibiting activity present in 1 mL of pooled normal plasma.</paragraph>
+                  <paragraph/>
+                  <paragraph>RUCONEST is a soluble, single-chain glycoprotein containing 478 amino acids, with a molecular mass of 68 kDa, of which approximately 22% comprises oligosaccharide structures. The primary and secondary structures of the molecule and target protease selectivity are consistent with those of plasma-derived C1 esterase inhibitor.</paragraph>
+                  <paragraph/>
+                  <paragraph>Each vial of RUCONEST contains 2100 U of rhC1INH, 937 mg of sucrose, 83.3 mg of sodium citrate dihydrate and 1.0 mg of citric acid monohydrate. After reconstitution with 14 mL of sterile Water for Injection, each vial of RUCONEST contains 150 U of rhC1INH per 1 mL in a 20 mM sodium citrate buffer with a pH of 6.8. RUCONEST does not contain preservatives and each vial is for single use only.</paragraph>
+                  <paragraph/>
+                  <paragraph>RUCONEST is purified from the milk of transgenic rabbits. The rabbits are maintained in a closed colony that is controlled and routinely monitored for specific pathogens. The skimmed milk is screened for adventitious contaminants prior to further manufacture. The manufacturing process has been validated to demonstrate adequate capacity for removal and/or inactivation of viruses (
+  <linkHtml href="#_Ref439236544">Table 4</linkHtml>). RUCONEST contains less than 0.002% of host-related impurities.
+ </paragraph>
+                  <table cellpadding="0" cellspacing="0" width="55%" ID="_Ref439236544">
+                     <caption>Table 4. Viral reduction capacity of the rhC1INH manufacturing process</caption>
+                     <colgroup>
+                        <col width="16%"/>
+                        <col width="10%"/>
+                        <col width="10%"/>
+                        <col width="10%"/>
+                        <col width="9%"/>
+                        <col width="8%"/>
+                     </colgroup>
+                     <tfoot>
+                        <tr>
+                           <td align="left" colspan="6" styleCode="Botrule" valign="top">
+                              <sup>a</sup> MLV: Murine leukemia virus; REO-3: Reovirus type 3; ORF: Scab-mouth ORF virus; FCV: Feline calicivirus; PPV: Porcine parvovirus;
+     <br/>
+                              <br/>
+                              <sup>b </sup>SP BB: SP Sepharose BB; SD: Solvent/detergent; Q HP: Q Sepharose HP; Zn FF: Zinc Chelating Sepharose FF;
+     <br/>
+                              <br/>
+                              <sup>c </sup>Not added to the total reduction factor since independence of clearance mechanism has not been experimentally verified;
+     <br/>
+                              <br/>
+                              <sup>d</sup> Not applicable since indicated model virus is not enveloped;
+     <br/>
+                              <br/>
+                              <sup>e</sup> Not tested because SD chemicals are present in the starting material.
+    </td>
+                        </tr>
+                     </tfoot>
+                     <tbody>
+                        <tr>
+                           <td styleCode="Rrule Botrule Lrule Toprule " valign="top"/>
+                           <td colspan="5" styleCode="Rrule Botrule Lrule Toprule " valign="top">
+                              <paragraph>
+                                 <content styleCode="bold">Virus Reduction Factor (Log
+       <sub>10</sub>) 
+      </content>
+                              </paragraph>
+                           </td>
+                        </tr>
+                        <tr>
+                           <td styleCode="Rrule Lrule Botrule " valign="middle">
+                              <paragraph>
+                                 <content styleCode="bold">Step</content>
+                              </paragraph>
+                           </td>
+                           <td styleCode="Rrule Lrule Botrule " valign="middle">
+                              <paragraph>
+                                 <content styleCode="bold">MLV 
+       <sup>a</sup>
+                                 </content>
+                              </paragraph>
+                           </td>
+                           <td styleCode="Rrule Lrule Botrule " valign="middle">
+                              <paragraph>
+                                 <content styleCode="bold">REO 3</content>
+                              </paragraph>
+                           </td>
+                           <td styleCode="Rrule Lrule Botrule " valign="middle">
+                              <paragraph>
+                                 <content styleCode="bold">ORF</content>
+                              </paragraph>
+                           </td>
+                           <td styleCode="Rrule Lrule Botrule " valign="middle">
+                              <paragraph>
+                                 <content styleCode="bold">FCV</content>
+                              </paragraph>
+                           </td>
+                           <td styleCode="Rrule Lrule Botrule " valign="middle">
+                              <paragraph>
+                                 <content styleCode="bold">PPV</content>
+                              </paragraph>
+                           </td>
+                        </tr>
+                        <tr>
+                           <td styleCode="Rrule Lrule Botrule " valign="middle">
+                              <paragraph>SP BB chromatography
+      <sup>b</sup>
+                              </paragraph>
+                           </td>
+                           <td styleCode="Rrule Lrule Botrule " valign="top">
+                              <paragraph>1.8</paragraph>
+                           </td>
+                           <td styleCode="Rrule Lrule Botrule " valign="top">
+                              <paragraph>2.2 
+      <sup>c</sup>
+                              </paragraph>
+                           </td>
+                           <td styleCode="Rrule Lrule Botrule " valign="top">
+                              <paragraph>1.5 
+      <sup>c</sup>
+                              </paragraph>
+                           </td>
+                           <td styleCode="Rrule Lrule Botrule " valign="top">
+                              <paragraph>2.3</paragraph>
+                           </td>
+                           <td styleCode="Rrule Lrule Botrule " valign="top">
+                              <paragraph>1.5 
+      <sup>b</sup>
+                              </paragraph>
+                           </td>
+                        </tr>
+                        <tr>
+                           <td styleCode="Rrule Lrule Botrule " valign="middle">
+                              <paragraph>SD incubation
+      <sup>b</sup>
+                              </paragraph>
+                           </td>
+                           <td styleCode="Rrule Lrule Botrule " valign="top">
+                              <paragraph>≥ 5.8</paragraph>
+                           </td>
+                           <td styleCode="Rrule Lrule Botrule " valign="top">
+                              <paragraph>NA 
+      <sup>d</sup>
+                              </paragraph>
+                           </td>
+                           <td styleCode="Rrule Lrule Botrule " valign="top">
+                              <paragraph>3.7</paragraph>
+                           </td>
+                           <td styleCode="Rrule Lrule Botrule " valign="top">
+                              <paragraph>NA</paragraph>
+                           </td>
+                           <td styleCode="Rrule Lrule Botrule " valign="top">
+                              <paragraph>NA</paragraph>
+                           </td>
+                        </tr>
+                        <tr>
+                           <td styleCode="Rrule Lrule Botrule " valign="middle">
+                              <paragraph>Q HP chromatography
+      <sup>b</sup>
+                              </paragraph>
+                           </td>
+                           <td styleCode="Rrule Lrule Botrule " valign="top">
+                              <paragraph>NT 
+      <sup>e</sup>
+                              </paragraph>
+                           </td>
+                           <td styleCode="Rrule Lrule Botrule " valign="top">
+                              <paragraph>4.8</paragraph>
+                           </td>
+                           <td styleCode="Rrule Lrule Botrule " valign="top">
+                              <paragraph>NT</paragraph>
+                           </td>
+                           <td styleCode="Rrule Lrule Botrule " valign="top">
+                              <paragraph>0.8 
+      <sup>c</sup>
+                              </paragraph>
+                           </td>
+                           <td styleCode="Rrule Lrule Botrule " valign="top">
+                              <paragraph>2.2</paragraph>
+                           </td>
+                        </tr>
+                        <tr>
+                           <td styleCode="Rrule Lrule Botrule " valign="middle">
+                              <paragraph>Zn FF chromatography
+      <sup>b</sup>
+                              </paragraph>
+                           </td>
+                           <td styleCode="Rrule Lrule Botrule " valign="top">
+                              <paragraph>1.1 
+      <sup>c</sup>
+                              </paragraph>
+                           </td>
+                           <td styleCode="Rrule Lrule Botrule " valign="top">
+                              <paragraph>3.2 
+      <sup>c</sup>
+                              </paragraph>
+                           </td>
+                           <td styleCode="Rrule Lrule Botrule " valign="top">
+                              <paragraph>3.3</paragraph>
+                           </td>
+                           <td styleCode="Rrule Lrule Botrule " valign="top">
+                              <paragraph>1.9 
+      <sup>c</sup>
+                              </paragraph>
+                           </td>
+                           <td styleCode="Rrule Lrule Botrule " valign="top">
+                              <paragraph>0.4 
+      <sup>c</sup>
+                              </paragraph>
+                           </td>
+                        </tr>
+                        <tr>
+                           <td styleCode="Rrule Lrule Botrule " valign="middle">
+                              <paragraph>Nanofiltration</paragraph>
+                           </td>
+                           <td styleCode="Rrule Lrule Botrule " valign="top">
+                              <paragraph>≥ 5.5</paragraph>
+                           </td>
+                           <td styleCode="Rrule Lrule Botrule " valign="top">
+                              <paragraph>≥ 6.5</paragraph>
+                           </td>
+                           <td styleCode="Rrule Lrule Botrule " valign="top">
+                              <paragraph>≥ 5.8</paragraph>
+                           </td>
+                           <td styleCode="Rrule Lrule Botrule " valign="top">
+                              <paragraph>≥ 6.9</paragraph>
+                           </td>
+                           <td styleCode="Rrule Lrule Botrule " valign="top">
+                              <paragraph>5.8</paragraph>
+                           </td>
+                        </tr>
+                        <tr>
+                           <td styleCode="Rrule Botrule Lrule " valign="middle">
+                              <paragraph>Total reduction factor</paragraph>
+                           </td>
+                           <td styleCode="Rrule Botrule Lrule " valign="top">
+                              <paragraph>≥ 13.1</paragraph>
+                           </td>
+                           <td styleCode="Rrule Botrule Lrule " valign="top">
+                              <paragraph>≥ 11.3</paragraph>
+                           </td>
+                           <td styleCode="Rrule Botrule Lrule " valign="top">
+                              <paragraph>≥ 12.8</paragraph>
+                           </td>
+                           <td styleCode="Rrule Botrule Lrule " valign="top">
+                              <paragraph>≥ 9.2</paragraph>
+                           </td>
+                           <td styleCode="Rrule Botrule Lrule " valign="top">
+                              <paragraph>8.0</paragraph>
+                           </td>
+                        </tr>
+                     </tbody>
+                  </table>
+               </text>
+               <effectiveTime value="20180316"/>
+            </section>
+         </component>
+         <component>
+            <section ID="LINK_2d6da8d2-9151-4559-b4d2-51f86c7cc28d">
+               <id root="9af0c7e6-fa66-1d9f-e053-2995a90aaa51"/>
+               <code code="34090-1" codeSystem="2.16.840.1.113883.6.1" displayName="CLINICAL PHARMACOLOGY SECTION"/>
+               <title>
+                  <content styleCode="bold">12 CLINICAL PHARMACOLOGY</content>
+               </title>
+               <effectiveTime value="20180316"/>
+               <component>
+                  <section ID="LINK_0ca57536-66e4-4640-a627-79540e2fd009">
+                     <id root="9af1b4b7-abb0-2bc7-e053-2a95a90a6153"/>
+                     <code code="42229-5" codeSystem="2.16.840.1.113883.6.1" displayName="SPL UNCLASSIFIED SECTION"/>
+                     <title>
+                        <content styleCode="bold">12.1 Mechanism of Action</content>
+                     </title>
+                     <text>
+                        <paragraph>C1 esterase inhibitor (C1INH) is a normal constituent of human blood and is one of the serine protease inhibitors (serpins). The primary function of C1INH is to regulate the activation of the complement and contact system pathways. Regulation of these systems is performed through the formation of complexes between the protease and the inhibitor, resulting in inactivation of both and consumption of the C1INH.</paragraph>
+                        <paragraph/>
+                        <paragraph>C1INH exerts its inhibitory effect by irreversibly binding several proteases (target proteases) of the contact and complement systems. The effect of RUCONEST on the following target proteases was assessed 
+  <content styleCode="italics">in vitro</content>: activated C1s, kallikrein, factor XIIa and factor XIa. Inhibition kinetics were found to be comparable with those observed for plasma-derived human C1INH.
+ </paragraph>
+                        <paragraph/>
+                        <paragraph>HAE patients have low levels of endogenous or functional C1INH. Although the events that induce attacks of angioedema in HAE patients are not well defined, it is thought that contact system activation, and resulting increased vascular permeability lead to the clinical manifestation of HAE attacks. Suppression of contact system activation by C1INH through the inactivation of plasma kallikrein and factor XIIa is thought to modulate vascular permeability by preventing the generation of bradykinin.
+  <sup>3</sup>
+                        </paragraph>
+                        <paragraph/>
+                        <paragraph>Administration of RUCONEST increases plasma levels of functional C1INH activity.</paragraph>
+                     </text>
+                     <effectiveTime value="20191223"/>
+                  </section>
+               </component>
+               <component>
+                  <section ID="LINK_67dd37f6-fdc7-458e-9091-9a71343a78d1">
+                     <id root="9af0c7e6-fa70-1d9f-e053-2995a90aaa51"/>
+                     <code code="42229-5" codeSystem="2.16.840.1.113883.6.1" displayName="SPL UNCLASSIFIED SECTION"/>
+                     <title>
+                        <content styleCode="bold">12.2 Pharmacodynamics</content>
+                     </title>
+                     <text>
+                        <paragraph>The complement component (protein) C4 is a substrate for activated C1. Patients with HAE have low levels of C4 in the circulation; RUCONEST shows a dose-dependent restoration of complement homeostasis of C4 in HAE patients. A dose of 50 U/kg of RUCONEST increases plasma C1INH activity levels to greater than 0.7 U/mL (the lower limit of normal) in HAE patients.</paragraph>
+                     </text>
+                     <effectiveTime value="20180316"/>
+                  </section>
+               </component>
+               <component>
+                  <section ID="LINK_eeb68028-7b5e-415d-b066-6b15e78397b4">
+                     <id root="9af1aa56-51dc-2b8b-e053-2a95a90a3d1b"/>
+                     <code code="42229-5" codeSystem="2.16.840.1.113883.6.1" displayName="SPL UNCLASSIFIED SECTION"/>
+                     <title>
+                        <content styleCode="bold">12.3 Pharmacokinetics</content>
+                     </title>
+                     <text>
+                        <paragraph>The pharmacokinetics of RUCONEST was evaluated in a study of 12 asymptomatic HAE patients (dose ranged from 6.25 U/kg to 100 U/kg). Pharmacokinetics evaluation was performed by non-compartmental analysis, using functional C1INH levels. Following administration of RUCONEST (50 U/kg) in asymptomatic HAE patients (
+  <linkHtml href="#_Ref439238078">Table 5</linkHtml>), the mean Cmax was 1.2 U/mL, and the elimination half-life was approximately 2.5 hours. The clearance of RUCONEST was nonlinear (clearance decreased with increasing dose) over the dose range of 25-100 U/kg.
+ </paragraph>
+                        <table cellpadding="0" cellspacing="0" width="47%" ID="_Ref439238078">
+                           <caption>Table 5. Baseline corrected pharmacokinetic parameters (Mean ± SD) of functional C1INH following administration of 50 U/kg and 100 U/kg RUCONEST to asymptomatic HAE patients</caption>
+                           <colgroup>
+                              <col width="21%"/>
+                              <col width="15%"/>
+                              <col width="18%"/>
+                           </colgroup>
+                           <tbody>
+                              <tr>
+                                 <td styleCode="Rrule Botrule Lrule Toprule " valign="top">
+                                    <paragraph>
+                                       <content styleCode="bold">Parameters</content>
+                                    </paragraph>
+                                 </td>
+                                 <td styleCode="Rrule Botrule Lrule Toprule " valign="top">
+                                    <paragraph>
+                                       <content styleCode="bold">50 U/kg</content>
+                                    </paragraph>
+                                 </td>
+                                 <td styleCode="Rrule Botrule Lrule Toprule " valign="top">
+                                    <paragraph>
+                                       <content styleCode="bold">100 U/kg</content>
+                                    </paragraph>
+                                 </td>
+                              </tr>
+                              <tr>
+                                 <td styleCode="Rrule Lrule Botrule " valign="top">
+                                    <paragraph>C
+      <sub>baseline</sub> (U/mL)
+     </paragraph>
+                                 </td>
+                                 <td styleCode="Rrule Lrule Botrule " valign="top">
+                                    <paragraph>0.18 ± 0.12</paragraph>
+                                 </td>
+                                 <td styleCode="Rrule Lrule Botrule " valign="top">
+                                    <paragraph>0.14 ± 0.08</paragraph>
+                                 </td>
+                              </tr>
+                              <tr>
+                                 <td styleCode="Rrule Lrule Botrule " valign="top">
+                                    <paragraph>C
+      <sub>max</sub> (U/mL)
+     </paragraph>
+                                 </td>
+                                 <td styleCode="Rrule Lrule Botrule " valign="top">
+                                    <paragraph>1.2 ± 0.2</paragraph>
+                                 </td>
+                                 <td styleCode="Rrule Lrule Botrule " valign="top">
+                                    <paragraph>2.3 ± 0.2</paragraph>
+                                 </td>
+                              </tr>
+                              <tr>
+                                 <td styleCode="Rrule Lrule Botrule " valign="top">
+                                    <paragraph>T
+      <sub>max</sub> (hours)
+     </paragraph>
+                                 </td>
+                                 <td styleCode="Rrule Lrule Botrule " valign="top">
+                                    <paragraph>0.31 ± 0.10</paragraph>
+                                 </td>
+                                 <td styleCode="Rrule Lrule Botrule " valign="top">
+                                    <paragraph>0.31 ± 0.10</paragraph>
+                                 </td>
+                              </tr>
+                              <tr>
+                                 <td styleCode="Rrule Lrule Botrule " valign="top">
+                                    <paragraph>AUC (U x hr/mL)</paragraph>
+                                 </td>
+                                 <td styleCode="Rrule Lrule Botrule " valign="top">
+                                    <paragraph>3.3 ± 1.0</paragraph>
+                                 </td>
+                                 <td styleCode="Rrule Lrule Botrule " valign="top">
+                                    <paragraph>10.6 ± 2.5</paragraph>
+                                 </td>
+                              </tr>
+                              <tr>
+                                 <td styleCode="Rrule Lrule Botrule " valign="top">
+                                    <paragraph>CL (mL/hr)</paragraph>
+                                 </td>
+                                 <td styleCode="Rrule Lrule Botrule " valign="top">
+                                    <paragraph>1207 ± 414</paragraph>
+                                 </td>
+                                 <td styleCode="Rrule Lrule Botrule " valign="top">
+                                    <paragraph>781 ± 147</paragraph>
+                                 </td>
+                              </tr>
+                              <tr>
+                                 <td styleCode="Rrule Lrule Botrule " valign="top">
+                                    <paragraph>Half-life (hours)</paragraph>
+                                 </td>
+                                 <td styleCode="Rrule Lrule Botrule " valign="top">
+                                    <paragraph>2.4 ± 0.6</paragraph>
+                                 </td>
+                                 <td styleCode="Rrule Lrule Botrule " valign="top">
+                                    <paragraph>2.7 ± 0.3</paragraph>
+                                 </td>
+                              </tr>
+                              <tr>
+                                 <td styleCode="Rrule Botrule Lrule " valign="top">
+                                    <paragraph>V
+      <sub>ss</sub> (L)
+     </paragraph>
+                                 </td>
+                                 <td styleCode="Rrule Botrule Lrule " valign="top">
+                                    <paragraph>3.0 ± 0.9</paragraph>
+                                 </td>
+                                 <td styleCode="Rrule Botrule Lrule " valign="top">
+                                    <paragraph>2.4 ± 0.5</paragraph>
+                                 </td>
+                              </tr>
+                           </tbody>
+                        </table>
+                        <paragraph>Studies have not been conducted to evaluate the PK of RUCONEST in special patient populations, identified by race, age (pediatric or geriatric), or the presence of renal or hepatic impairment.</paragraph>
+                     </text>
+                     <effectiveTime value="20180316"/>
+                  </section>
+               </component>
+            </section>
+         </component>
+         <component>
+            <section ID="LINK_92293e1d-051f-47bd-97a3-56147f5d8a7f">
+               <id root="9af0c7e6-fa67-1d9f-e053-2995a90aaa51"/>
+               <code code="43680-8" codeSystem="2.16.840.1.113883.6.1" displayName="NONCLINICAL TOXICOLOGY SECTION"/>
+               <title>
+                  <content styleCode="bold">13 NONCLINICAL TOXICOLOGY</content>
+               </title>
+               <effectiveTime value="20180316"/>
+               <component>
+                  <section ID="LINK_5c38cdd2-d964-49af-bc62-335856ff2667">
+                     <id root="9af0c7e6-fa72-1d9f-e053-2995a90aaa51"/>
+                     <code code="34083-6" codeSystem="2.16.840.1.113883.6.1" displayName="CARCINOGENESIS &amp; MUTAGENESIS &amp; IMPAIRMENT OF FERTILITY SECTION"/>
+                     <title>
+                        <content styleCode="bold">13.1 Carcinogenesis, Mutagenesis, Impairment of Fertility</content>
+                     </title>
+                     <text>
+                        <paragraph>No animal studies have been conducted to evaluate the effects of RUCONEST on carcinogenesis and mutagenesis. Fertility was not evaluated in animal studies.</paragraph>
+                     </text>
+                     <effectiveTime value="20180316"/>
+                  </section>
+               </component>
+               <component>
+                  <section ID="LINK_45eee29d-0aca-4dff-a2e9-0ff194a7e22c">
+                     <id root="9af0c7e6-fa73-1d9f-e053-2995a90aaa51"/>
+                     <code code="34091-9" codeSystem="2.16.840.1.113883.6.1" displayName="ANIMAL PHARMACOLOGY &amp; OR TOXICOLOGY SECTION"/>
+                     <title>
+                        <content styleCode="bold">13.2 Animal Toxicology and/or Pharmacology</content>
+                     </title>
+                     <text>
+                        <paragraph>Single- and repeat-dose studies of up to 14 days in rats, dogs, and cynomolgus monkeys with daily doses of RUCONEST up to 80 times the human dose (50 U/kg) were conducted. In a 14-day monkey toxicology study of intravenous doses up to 2000 U/kg twice daily, increases in AST and ALP were observed at doses of 500 U/kg and higher. No histopathological correlates were observed in the liver and the increases in liver enzymes were reversible. Histologic findings included changes in the size of thymic cortex and medulla, and microvacuoles in the epithelial cells lining the renal tubules. The renal tubular vacuolation was dose dependent, but was not accompanied by other histological changes in the kidney. This finding was only partially reversible at the highest dose level of 2000 U/kg twice daily. It was concluded that the NOAEL of RUCONEST was 1000 U/kg twice daily in this species. There were no adverse findings in a safety pharmacology study in dogs and a local tolerance study in rabbits. It is concluded that preclinical toxicology data for daily doses up to 40 times the proposed human dose of RUCONEST (50 U/kg) do not indicate a safety concern for the use of RUCONEST in humans.</paragraph>
+                        <paragraph/>
+                        <paragraph>Embryo-fetal studies have been conducted in rabbits and rats at a dose of RUCONEST 12.5 times the human dose of 50 U/kg. In rats, no malformed fetuses were observed. In rabbits, an increase in the incidence of fetal cardiac vessel defects was observed (1.12% [2 cases] in the treatment group compared to 0.03% in historical controls). These defects are considered to be a chance finding, but a RUCONEST-related effect cannot be excluded.</paragraph>
+                     </text>
+                     <effectiveTime value="20180316"/>
+                  </section>
+               </component>
+            </section>
+         </component>
+         <component>
+            <section ID="LINK_89dd8205-991b-4fb7-ba3d-375a3a911c87">
+               <id root="9af1e1ca-d2e7-f400-e053-2a95a90a24e6"/>
+               <code code="34092-7" codeSystem="2.16.840.1.113883.6.1" displayName="CLINICAL STUDIES SECTION"/>
+               <title>
+                  <content styleCode="bold">14 CLINICAL STUDIES</content>
+               </title>
+               <text>
+                  <paragraph>The safety and efficacy of RUCONEST for treatment of acute angioedema attacks in patients with HAE was established in Study 1, a double-blind, randomized, placebo-controlled trial (RCT) which included an open-label extension (OLE) phase; and supported by the results of 2 additional RCTs and 2 additional OLE studies.</paragraph>
+                  <paragraph/>
+                  <paragraph>
+                     <content styleCode="underline">Randomized, Controlled Trials</content>
+                  </paragraph>
+                  <paragraph>The safety and efficacy of RUCONEST in the treatment of acute attacks in patients with hereditary angioedema were demonstrated in a placebo-controlled, double-blind, randomized study (Study 1). Supportive evidence of effectiveness is provided by two double-blind, randomized, placebo-controlled studies (Studies 2 and 3). Evidence for the efficacy of repeat treatment of HAE attacks is provided from the open-label extensions (OLE) of each of the three randomized studies.</paragraph>
+                  <paragraph/>
+                  <paragraph>Study 1 was a randomized, double-blind, placebo-controlled trial that included an open-label extension (OLE) phase to assess the efficacy and safety of RUCONEST 50 U/kg in the treatment of acute attacks in patients with HAE. Seventy-five (75) adults and adolescent patients were randomized (3:2) to receive RUCONEST 50 U/kg (N = 44) or placebo (N = 31). Patients ranged in age from 17 to 69 years of age; 63% were female and 37% were male; 96% were Caucasian.</paragraph>
+                  <paragraph/>
+                  <paragraph>The primary efficacy endpoint was the time to beginning of relief of symptoms, assessed using patient-reported responses to two questions from a Treatment Effect Questionnaire (TEQ). The TEQ required patients to assess the severity of their attack symptoms at each affected anatomic location, using a seven-point scale (“much worse” to “much better” [TEQ Question 1]), and whether their symptoms had begun to decrease notably since receiving the study medication (“yes” or “no” [TEQ Question 2]). To achieve the primary endpoint, a patient had to have a positive response to both questions along with persistence of improvement at the next assessment time (i.e., the same or better response).</paragraph>
+                  <paragraph/>
+                  <paragraph>Rescue treatment with RUCONEST was available for patients who did not experience the beginning of relief at 4 hours after study drug administration, or earlier to patients who experienced life-threatening oropharyngeal-laryngeal angioedema symptoms. If a patient received a medication which could have impacted the efficacy evaluation or open-label RUCONEST as rescue medication, prior to achieving beginning of relief of symptoms, the time to beginning of relief of symptoms was censored at the last assessed time prior to medication use.</paragraph>
+                  <paragraph/>
+                  <paragraph>In the RCT phase, the median time to beginning of relief of symptoms was statistically significantly shorter in patients treated with RUCONEST 50 U/kg compared with patients treated with placebo as assessed by the TEQ; ( 
+  <linkHtml href="#_Ref439236623">Table 6</linkHtml>, Figure 1).
+ </paragraph>
+                  <table cellpadding="0" cellspacing="0" width="70%" ID="_Ref439236623">
+                     <caption>Table 6. Time to Beginning of Relief of Symptoms based on questionnaire based on TEQ (Study 1, RCT Phase)</caption>
+                     <colgroup>
+                        <col width="37%"/>
+                        <col width="26%"/>
+                        <col width="16%"/>
+                     </colgroup>
+                     <thead>
+                        <tr>
+                           <th align="center" styleCode="Rrule Botrule Lrule Toprule " valign="top">
+                              <content styleCode="bold">Time to Beginning of Relief of Symptoms, minutes</content>
+                           </th>
+                           <th align="center" styleCode="Rrule Botrule Lrule Toprule " valign="top">
+                              <content styleCode="bold">RUCONEST 50 U/kg</content>
+                              <br/>
+                              <content styleCode="bold">N=44</content>
+                           </th>
+                           <th align="center" styleCode="Rrule Botrule Lrule Toprule " valign="top">
+                              <content styleCode="bold">Placebo</content>
+                              <br/>
+                              <content styleCode="bold">N=31</content>
+                           </th>
+                        </tr>
+                     </thead>
+                     <tfoot>
+                        <tr>
+                           <td align="left" colspan="3" styleCode="Botrule" valign="top">Values that are not estimable are displayed as ‘- ’.</td>
+                        </tr>
+                     </tfoot>
+                     <tbody>
+                        <tr>
+                           <td align="center" styleCode="Rrule Lrule Toprule Botrule " valign="top">
+                              <paragraph>Median</paragraph>
+                           </td>
+                           <td align="center" styleCode="Rrule Lrule Toprule Botrule " valign="top">
+                              <paragraph>90</paragraph>
+                           </td>
+                           <td align="center" styleCode="Rrule Lrule Toprule Botrule " valign="top">
+                              <paragraph>152</paragraph>
+                           </td>
+                        </tr>
+                        <tr>
+                           <td align="center" styleCode="Rrule Lrule Botrule " valign="top">
+                              <paragraph>95% CI</paragraph>
+                           </td>
+                           <td align="center" styleCode="Rrule Lrule Botrule " valign="top">
+                              <paragraph>(61, 150)</paragraph>
+                           </td>
+                           <td align="center" styleCode="Rrule Lrule Botrule " valign="top">
+                              <paragraph>(93, -)</paragraph>
+                           </td>
+                        </tr>
+                        <tr>
+                           <td align="center" styleCode="Rrule Botrule Lrule " valign="top">
+                              <paragraph>Log-rank p-value</paragraph>
+                           </td>
+                           <td align="center" colspan="2" styleCode="Rrule Botrule Lrule " valign="top">
+                              <paragraph>0.031</paragraph>
+                           </td>
+                        </tr>
+                     </tbody>
+                  </table>
+                  <paragraph>
+                     <content styleCode="bold">Figure 1. Kaplan-Meier Plot of Time to Beginning of Relief of Symptoms (Study 1, RCT Phase)</content>
+                  </paragraph>
+                  <paragraph>
+                     <renderMultiMedia referencedObject="AA383053-7996-4E7D-AB68-103B43766E30"/>
+                     <content styleCode="bold"/>
+                  </paragraph>
+                  <paragraph>Among several planned subgroup analyses, descriptive statistics showed that in US patients a median time to beginning of relief of symptoms with persistence at the primary attack location (based on TEQ) was 98 minutes [95% CI:(45, 240); n=22] for those receiving RUCONEST and 90 minutes [95% CI: (50, -); n=16] for those receiving placebo. The hazard ratio for time to the beginning of relief of symptoms in this subpopulation was 1.20 [95% CI: (0.48, 3.01)] for patients receiving RUCONEST as compared with patients receiving placebo. Non-US patients receiving RUCONEST had a median time to beginning of relief of 90 minutes [95% CI: (63, 120); n=22] and non-US patients receiving placebo had a median time to beginning of relief of 334 minutes [95% CI: (150, -); n=15]. The hazard ratio for the non-US subgroup was 4.82 [95% CI: (1.58, 14.72)] for patients receiving RUCONEST compared to placebo.</paragraph>
+                  <paragraph/>
+                  <paragraph>Examination of gender subgroups suggested a larger treatment effect in men than women. For women receiving RUCONEST, the median time to beginning of relief was 113 minutes [95% CI: (63, 151); n=28], and for women receiving placebo, the median time to beginning of relief was 105 minutes [95% CI: (60, 334); n=19]. The hazard ratio for women receiving RUCONEST versus placebo was 1.22 [95% CI: (0.60, 2.48)]. For men receiving RUCONEST, the median time to beginning of relief was 75 minutes [95% CI: (45, 210); n=16], and for men receiving placebo, the median time to beginning of relief was 480 minutes [95% CI: (150, -) n=12]. The hazard ratio for men receiving RUCONEST versus placebo was 3.94 [95% CI: (1.23, 12.68)].</paragraph>
+                  <paragraph/>
+                  <paragraph>No plausible biological explanations for the regional or gender subgroup effects were found. One possible explanation is a larger-than-expected placebo response among US women. None of the subgroup confidence intervals were adjusted for multiplicity.</paragraph>
+                  <paragraph/>
+                  <paragraph>Because almost all of the patients were Caucasian and were between 18 and 65 years of age, race and age subgroup analyses were not considered meaningful.</paragraph>
+                  <paragraph/>
+                  <paragraph>Among patients who achieved relief within 4 hours, there were 4 (27%) patients in the placebo group who had a relapse of their symptoms within 24 hours as compared with 1 (3%) in the RUCONEST group. The proportion of patients who received RUCONEST as rescue medication was greater in patients randomized to placebo (13 of 31 patients; 42%) than in patients randomized to RUCONEST (5 of 44 patients; 11%).</paragraph>
+                  <paragraph/>
+                  <paragraph>The efficacy of RUCONEST 50 U/kg for different anatomical locations of HAE attacks is summarized in 
+  <linkHtml href="#_Ref439236681">Table 7</linkHtml>.
+ </paragraph>
+                  <table cellpadding="0" cellspacing="0" width="47%" ID="_Ref439236681">
+                     <caption>Table 7. Proportion of patients who achieved relief within 4 hours, by attack type</caption>
+                     <colgroup>
+                        <col width="18%"/>
+                        <col width="19%"/>
+                        <col width="16%"/>
+                     </colgroup>
+                     <tfoot>
+                        <tr>
+                           <td align="left" colspan="6" styleCode="Botrule" valign="top">
+                              <sup>*</sup>Life-threatening laryngeal attacks were excluded from the randomized-controlled phase of Study 1
+    </td>
+                        </tr>
+                     </tfoot>
+                     <tbody>
+                        <tr>
+                           <td align="center" styleCode="Rrule Botrule Lrule Toprule " valign="top">
+                              <paragraph>
+                                 <content styleCode="bold">Attack Type 
+       <sup>*</sup>
+                                 </content>
+                              </paragraph>
+                           </td>
+                           <td align="center" styleCode="Rrule Botrule Lrule Toprule " valign="top">
+                              <paragraph>
+                                 <content styleCode="bold">RUCONEST 50 U/kg</content>
+                              </paragraph>
+                              <paragraph>
+                                 <content styleCode="bold">n/N (%)</content>
+                              </paragraph>
+                           </td>
+                           <td align="center" styleCode="Rrule Botrule Lrule Toprule " valign="top">
+                              <paragraph>
+                                 <content styleCode="bold">Placebo</content>
+                              </paragraph>
+                              <paragraph>
+                                 <content styleCode="bold">n/N (%)</content>
+                              </paragraph>
+                           </td>
+                        </tr>
+                        <tr>
+                           <td styleCode="Rrule Lrule Botrule " valign="top">
+                              <paragraph>Abdominal</paragraph>
+                           </td>
+                           <td align="center" styleCode="Rrule Lrule Botrule " valign="top">
+                              <paragraph>14/16 (88%)</paragraph>
+                           </td>
+                           <td align="center" styleCode="Rrule Lrule Botrule " valign="top">
+                              <paragraph>7/12 (58%)</paragraph>
+                           </td>
+                        </tr>
+                        <tr>
+                           <td styleCode="Rrule Lrule Botrule " valign="top">
+                              <paragraph>Facial</paragraph>
+                           </td>
+                           <td align="center" styleCode="Rrule Lrule Botrule " valign="top">
+                              <paragraph>3/6 (50%)</paragraph>
+                           </td>
+                           <td align="center" styleCode="Rrule Lrule Botrule " valign="top">
+                              <paragraph>0/2 (0%)</paragraph>
+                           </td>
+                        </tr>
+                        <tr>
+                           <td styleCode="Rrule Botrule Lrule " valign="top">
+                              <paragraph>Peripheral (extremities)</paragraph>
+                           </td>
+                           <td align="center" styleCode="Rrule Botrule Lrule " valign="top">
+                              <paragraph>17/20 (85%)</paragraph>
+                           </td>
+                           <td align="center" styleCode="Rrule Botrule Lrule " valign="top">
+                              <paragraph>7/14 (50%)</paragraph>
+                           </td>
+                        </tr>
+                     </tbody>
+                  </table>
+                  <paragraph>In the OLE phase of Study 1, patients were treated with open-label RUCONEST 50 U/kg for repeated attacks of HAE. Forty-four patients who completed the RCT phase were enrolled into the OLE phase where they were treated for a total of 170 attacks. In this phase, the median time to beginning of relief of symptoms was 75 minutes [95% CI: (64, 90)], consistent with the results of the RCT phase of the study (
+  <linkHtml href="#_Ref439236623">Table 6</linkHtml>). Results were also comparable across attacks, suggesting that the efficacy of RUCONEST 50 U/kg was maintained over repeated attacks of HAE. In the OLE phase of Study 1, 5/170 (3%) attacks received a second dose of RUCONEST 50 U/kg.
+ </paragraph>
+                  <paragraph/>
+                  <paragraph>In Study 2 (North American RCT), patients were randomized to receive a single administration of either RUCONEST 50 U/kg (N=12), RUCONEST 100 U/kg (N=13) or placebo (N=13). Patients ranged in age from 17 to 66 years of age; 74% were female and 26% were male; and 92% were Caucasian.</paragraph>
+                  <paragraph/>
+                  <paragraph>In Study 3 (European RCT), patients were randomized to receive a single administration of either RUCONEST 100 U/kg (N=16) or placebo (N=16). Patients ranged in age from 17 to 71 years of age: 53% were female and 47% were male; and 100% were Caucasian.</paragraph>
+                  <paragraph/>
+                  <paragraph>Patients scored their symptoms using a visual analog scale (VAS) ranging from 0-100 mm. A VAS decrease of 
+  <content styleCode="underline">&gt; </content>20 mm compared with baseline with persistence of the improvement at two consecutive time points was considered the onset of relief in Studies 2 and 3.
+ </paragraph>
+                  <paragraph/>
+                  <paragraph>In both Study 2 and 3, the efficacy of RUCONEST in the treatment of acute angioedema attacks was demonstrated by significantly shorter times to beginning of relief of symptoms based on the VAS (Figure 2).</paragraph>
+                  <paragraph/>
+                  <paragraph>
+                     <content styleCode="bold">Figure 2. Mean VAS scores over time with 95% Confidence Intervals (Study 2 and 3, RCT Phase)</content>
+                  </paragraph>
+                  <paragraph>
+                     <renderMultiMedia referencedObject="A58DB02B-37FF-4A32-B55F-6D8616FDA855"/>
+                  </paragraph>
+                  <paragraph/>
+                  <paragraph>In open-label extension studies of Study 2 and 3, 119 patients were treated with RUCONEST for a total of 362 acute angioedema attacks. As observed in Study 1, the efficacy of RUCONEST was maintained for repeat attacks.</paragraph>
+               </text>
+               <effectiveTime value="20191223"/>
+               <component>
+                  <observationMedia ID="AA383053-7996-4E7D-AB68-103B43766E30">
+                     <text>figure1</text>
+                     <value mediaType="image/jpeg" xsi:type="ED">
+                        <reference value="ruconest-1.jpg"/>
+                     </value>
+                  </observationMedia>
+               </component>
+               <component>
+                  <observationMedia ID="A58DB02B-37FF-4A32-B55F-6D8616FDA855">
+                     <text>figure-two</text>
+                     <value mediaType="image/jpeg" xsi:type="ED">
+                        <reference value="ruconest-2.jpg"/>
+                     </value>
+                  </observationMedia>
+               </component>
+            </section>
+         </component>
+         <component>
+            <section ID="LINK_da5e1e4b-8839-4d36-91e4-012900e63b59">
+               <id root="9af1e1ca-d301-f400-e053-2a95a90a24e6"/>
+               <code code="34093-5" codeSystem="2.16.840.1.113883.6.1" displayName="REFERENCES SECTION"/>
+               <title>
+                  <content styleCode="bold">15 REFERENCES</content>
+               </title>
+               <text>
+                  <list listType="ordered">
+                     <item>Moldovan D, Bernstein JA, Hakl R, Porebski G, Poarch K, Lumry WR, Relan A. Safety of recombinant human C1 esterase inhibitor for hereditary angioedema attacks during pregnancy. J Allergy Clin Immunol Pract. 2019 Jun 3. pii: S2213-2198(19)30499-4.</item>
+                     <item>Hakl R, Kuklinek P, Krcmova I, Kralickova P, Freiberger T, Janku P, Vlkova M, Litzman J. Treatment of hereditary angioedema attacks with icatibant and recombinant C1 inhibitor during pregnancy. J Clin Immunol. 2018 Oct;38(7):80-815.</item>
+                     <item>Caliezi C, Wuillemin WA, Zeerleder S, Redondo M, Eisele B, Hack CE. C1-esterase inhibitor: an anti-inflammatory agent and its potential use in the treatment of diseases other than hereditary angioedema. Pharmacol Rev. 2000 Mar;52(1):91-112.</item>
+                  </list>
+               </text>
+               <effectiveTime value="20191223"/>
+            </section>
+         </component>
+         <component>
+            <section ID="LINK_b922f630-4b86-4fc1-88d4-b31d99b84536">
+               <id root="9af0c7e6-fa6a-1d9f-e053-2995a90aaa51"/>
+               <code code="34069-5" codeSystem="2.16.840.1.113883.6.1" displayName="HOW SUPPLIED SECTION"/>
+               <title>
+                  <content styleCode="bold">16 HOW SUPPLIED/STORAGE AND HANDLING</content>
+               </title>
+               <effectiveTime value="20180316"/>
+               <component>
+                  <section ID="LINK_bc4b40cb-3c3b-413e-bade-7e44f9dd9301">
+                     <id root="9af1f40b-d835-2bbc-e053-2a95a90a9653"/>
+                     <code code="42229-5" codeSystem="2.16.840.1.113883.6.1" displayName="SPL UNCLASSIFIED SECTION"/>
+                     <title>
+                        <content styleCode="bold">16.1 How Supplied</content>
+                     </title>
+                     <text>
+                        <list listType="unordered">
+                           <item>RUCONEST is supplied in single-use 25 mL glass vials with a stopper (siliconized chlorobutyl rubber) and a flip-off seal (aluminum and colored plastic).</item>
+                           <item>Each carton contains one single-use vial.</item>
+                           <item>Each vial contains 2100 U rhC1INH lyophilized powder for reconstitution for injection.</item>
+                        </list>
+                     </text>
+                     <effectiveTime value="20180316"/>
+                  </section>
+               </component>
+               <component>
+                  <section ID="LINK_fa1a119c-7f97-4847-b9d5-389e29d438d5">
+                     <id root="9af1fd3d-1912-2bcf-e053-2a95a90af192"/>
+                     <code code="42229-5" codeSystem="2.16.840.1.113883.6.1" displayName="SPL UNCLASSIFIED SECTION"/>
+                     <title>
+                        <content styleCode="bold">16.2 Storage and Handling</content>
+                     </title>
+                     <text>
+                        <list listType="unordered">
+                           <item>Store in the original package in order to protect from light.</item>
+                           <item>Shelf life: 48 months when stored at 36ºF - 77ºF (2ºC - 25ºC).</item>
+                           <item>Do not freeze.</item>
+                           <item>Each vial of RUCONEST should be reconstituted with 14 mL Water for Injection (not supplied). The reconstituted solution contains 150 U/mL rhC1INH and is clear and colorless.</item>
+                           <item>Each vial of RUCONEST is for single use only. RUCONEST contains no preservative. Any product that has been reconstituted should be used immediately, or within 8 hours stored at 36ºF - 46ºF (2ºC - 8ºC). Discard partially used vials after treatment.</item>
+                        </list>
+                     </text>
+                     <effectiveTime value="20180316"/>
+                  </section>
+               </component>
+            </section>
+         </component>
+         <component>
+            <section ID="LINK_7e8ed05c-41f0-4ab1-80b3-fc07cbab8aac">
+               <id root="a7431581-553a-4ed6-e053-2995a90a1cc8"/>
+               <code code="34076-0" codeSystem="2.16.840.1.113883.6.1" displayName="INFORMATION FOR PATIENTS SECTION"/>
+               <title>
+                  <content styleCode="bold">17 PATIENT COUNSELING INFORMATION</content>
+               </title>
+               <text>
+                  <paragraph>Advise the patient to read the FDA-Approved patient labeling (Product Information and Instructions for Use).</paragraph>
+                  <paragraph/>
+                  <paragraph>Patients being treated with RUCONEST should receive the following information and instructions. This information is intended to aid the patient in the safe and effective use of RUCONEST.</paragraph>
+                  <paragraph/>
+                  <list listType="unordered">
+                     <item>Advise female patients to notify their physician if they are pregnant or intend to become pregnant during the treatment of acute attacks of HAE with RUCONEST.</item>
+                  </list>
+                  <paragraph/>
+                  <list listType="unordered">
+                     <item>Advise patients to notify their physician if they are breastfeeding or plan to breastfeed.</item>
+                  </list>
+                  <paragraph/>
+                  <list listType="unordered">
+                     <item>Inform patients of the risks and benefits of RUCONEST before prescribing or administering it to the patient.</item>
+                  </list>
+                  <paragraph/>
+                  <paragraph>Advise patients to immediately report 
+  <content styleCode="bold">:</content>
+                  </paragraph>
+                  <paragraph/>
+                  <list listType="unordered">
+                     <item>Signs and symptoms of allergic hypersensitivity reactions, such as hives, urticaria, tightness of the chest, wheezing, hypotension and/or anaphylaxis experienced during or after injection of RUCONEST [
+   <content styleCode="italics">see WARNINGS AND PRECAUTIONS/Hypersensitivity (
+    <linkHtml href="#LINK_559a2a4e-9615-42c8-8e2a-99f58cb841b4">5</linkHtml>
+                        </content>)].
+  </item>
+                  </list>
+                  <paragraph/>
+                  <paragraph>Manufactured by:
+  <br/>
+Pharming Americas B.V.
+  <br/>
+Darwinweg 24
+  <br/>
+2333 CR Leiden
+  <br/>
+The Netherlands
+  <br/>
+                     <br/>
+RUCONEST
+  <sup>®</sup> is a registered trademark of Pharming Intellectual Property B.V.
+ </paragraph>
+                  <paragraph/>
+                  <paragraph/>
+                  <paragraph>Distributed by:
+  <br/>
+Pharming Healthcare Inc.
+ </paragraph>
+                  <paragraph>Warren NJ 07059</paragraph>
+                  <paragraph/>
+                  <paragraph/>
+                  <paragraph>Product protected by U.S patent Nos. 7,067,713 and RE43691.</paragraph>
+                  <paragraph/>
+                  <paragraph>Please see www.ruconest.com for patent information.</paragraph>
+                  <paragraph/>
+                  <paragraph>US License No. 2079</paragraph>
+                  <paragraph>
+                     <renderMultiMedia referencedObject="img_66b07241-aa17-4e4e-e053-2a91aa0acf75"/>
+                  </paragraph>
+               </text>
+               <effectiveTime value="20200430"/>
+               <component>
+                  <observationMedia ID="img_66b07241-aa17-4e4e-e053-2a91aa0acf75">
+                     <text>pharming</text>
+                     <value mediaType="image/jpeg" xsi:type="ED">
+                        <reference value="pharming.jpg"/>
+                     </value>
+                  </observationMedia>
+               </component>
+            </section>
+         </component>
+         <component>
+            <section ID="LINK_3c9ea6c7-5391-4e7c-9fb3-c5394dc22ef5">
+               <id root="a74200d3-58cc-bc23-e053-2995a90a4c7c"/>
+               <code code="42230-3" codeSystem="2.16.840.1.113883.6.1" displayName="SPL PATIENT PACKAGE INSERT SECTION"/>
+               <title>
+                  <content styleCode="bold">FDA-Approved Patient Labeling - Patient Product Information (PPI)</content>
+               </title>
+               <text>
+                  <paragraph>
+                     <content styleCode="bold">RUCONEST
+   <sup>®</sup> (ROO-Ko-nest) 
+  </content>
+                  </paragraph>
+                  <paragraph>(
+  <content styleCode="bold">C1 esterase inhibitor [recombinant])</content>
+                  </paragraph>
+                  <paragraph>
+                     <content styleCode="bold">Lyophilized powder for reconstitution for injection in a single-use vial</content>
+                  </paragraph>
+                  <paragraph>This leaflet summarizes important information about RUCONEST. Please read it carefully each time before using RUCONEST. There may be new information provided. This information does not take the place of talking with your healthcare provider, and it does not include all of the important information about RUCONEST. If you have any questions after reading this, ask your healthcare provider.</paragraph>
+                  <paragraph>
+                     <content styleCode="bold">What is RUCONEST?</content>
+                  </paragraph>
+                  <paragraph>RUCONEST is an injectable medicine that is used to treat acute angioedema attacks in adult and adolescent patients with Hereditary Angioedema (HAE). HAE is caused by a shortage of a protein called C1 esterase inhibitor, that is present in your blood and helps control inflammation (swelling) and parts of the immune system. A shortage of C1 esterase inhibitor can lead to repeated attacks of swelling, pain in the abdomen, difficulty breathing and other symptoms. RUCONEST contains C1 esterase inhibitor.</paragraph>
+                  <paragraph>
+                     <content styleCode="bold">Who should not use RUCONEST?</content>
+                  </paragraph>
+                  <paragraph>You should not use RUCONEST if you have a known or suspected allergy (hypersensitivity) to rabbits or rabbit-derived products.</paragraph>
+                  <paragraph>You should not use RUCONEST if you have experienced life-threatening immediate hypersensitivity reactions, including anaphylaxis, to RUCONEST or to any other C1 esterase inhibitor product.</paragraph>
+                  <paragraph>RUCONEST is not indicated for use in children under the age of 13 years.</paragraph>
+                  <paragraph>
+                     <content styleCode="bold">What should I tell my healthcare provider before using RUCONEST?</content>
+                  </paragraph>
+                  <paragraph>Tell your healthcare provider about all of your medical conditions, including if you:</paragraph>
+                  <list listType="unordered">
+                     <item>have an 
+   <content styleCode="underline">allergy to rabbits</content> since this can put you at high risk of a serious allergic reaction with RUCONEST. These allergy symptoms could include runny nose, itchy nose, sneezing, coughing, wheezing, difficulty breathing or watery eyes when you are near rabbits.
+  </item>
+                     <item>are pregnant or planning to become pregnant. It is not known if RUCONEST can harm your unborn baby.</item>
+                     <item>are breastfeeding or plan to breastfeed. It is not known if RUCONEST passes to your milk and if it can harm your baby.</item>
+                  </list>
+                  <paragraph>Tell your healthcare provider and pharmacist about all of the medicines you take, including all prescription and non-prescription medicines such as over-the-counter medicines, supplements, or herbal remedies.</paragraph>
+                  <paragraph>
+                     <content styleCode="bold">How is RUCONEST given?</content>
+                  </paragraph>
+                  <paragraph>RUCONEST will be slowly injected into your vein (intravenous injection). Before injection, the RUCONEST powder must be dissolved using sterile Water for Injection. The dose will be determined based on your weight.</paragraph>
+                  <paragraph>Most of the time a single dose of RUCONEST is enough to treat an attack, but a second dose may be needed.</paragraph>
+                  <paragraph>
+                     <content styleCode="bold">What are the possible side effects of RUCONEST?</content>
+                  </paragraph>
+                  <paragraph>Like all medicines, RUCONEST can cause side effects, although not everybody gets them.</paragraph>
+                  <paragraph>Allergic reactions may occur with RUCONEST. Call your healthcare provider or the emergency department immediately if you have any of the following symptoms after receiving RUCONEST:</paragraph>
+                  <list listType="unordered">
+                     <item>wheezing</item>
+                     <item>difficulty breathing</item>
+                     <item>chest tightness</item>
+                     <item>turning blue (look at lips and gums)</item>
+                     <item>fast heartbeat</item>
+                     <item>swelling</item>
+                     <item>faintness</item>
+                     <item>rash</item>
+                     <item>hives</item>
+                  </list>
+                  <paragraph>In clinical studies, the most severe side effect reported in a person who received RUCONEST was a severe allergic reaction in a subject who was allergic to rabbits.</paragraph>
+                  <paragraph>Other side effects patients experienced during clinical research studies include:</paragraph>
+                  <list listType="unordered">
+                     <item>headache</item>
+                     <item>nausea</item>
+                     <item>diarrhea</item>
+                  </list>
+                  <paragraph>These are not all the possible side effects of RUCONEST.</paragraph>
+                  <paragraph>If any of the side effects get serious, or if you notice any side effects 
+  <content styleCode="bold">not listed</content> in the leaflet, please inform your healthcare provider or pharmacist. You can also report side effects to the FDA at 1-800-FDA-1088 or www.fda.gov/medwatch or contact Pharming Healthcare Inc. at 1-800-930-5221.
+ </paragraph>
+                  <paragraph>You can ask your healthcare provider for information about RUCONEST that is written for healthcare providers.</paragraph>
+                  <paragraph>
+                     <content styleCode="bold">General Information about RUCONEST</content>
+                  </paragraph>
+                  <paragraph>Do not use RUCONEST for a condition for which it is not prescribed.</paragraph>
+                  <paragraph>If you would like more information, talk to your healthcare provider. You can ask your healthcare provider or pharmacist for information about RUCONEST that was written for healthcare professionals.</paragraph>
+                  <paragraph>For more information go to www.ruconest.com or call 1-800-930-5221.</paragraph>
+                  <table cellpadding="0" cellspacing="0" width="100%">
+                     <colgroup>
+                        <col width="62%"/>
+                        <col width="38%"/>
+                     </colgroup>
+                     <tbody>
+                        <tr>
+                           <td colspan="2" styleCode="Rrule Botrule Lrule Toprule " valign="top">
+                              <paragraph>
+                                 <content styleCode="bold">
+                                    <content styleCode="underline">RECOMMENDED PREPARATION OF MEDICATION AND MATERIALS</content>
+                                 </content>
+                              </paragraph>
+                           </td>
+                        </tr>
+                        <tr>
+                           <td styleCode="Rrule Lrule Botrule " valign="top">
+                              <paragraph>
+                                 <content styleCode="bold">Use aseptic (sterile) technique when preparing and administering RUCONEST.</content>
+                              </paragraph>
+                           </td>
+                           <td styleCode="Rrule Lrule Botrule " valign="top"/>
+                        </tr>
+                        <tr>
+                           <td styleCode="Rrule Lrule Botrule " valign="top">
+                              <paragraph>
+                                 <content styleCode="bold">Step 1: Assemble supplies from medication box on a clean flat surface.</content>
+                              </paragraph>
+                              <list listType="unordered">
+                                 <item>2 single-use vials of RUCONEST</item>
+                                 <item>Sterile Water for Injection (diluent), 14mL per vial of RUCONEST to be reconstituted.</item>
+                                 <item>Antiseptic wipes</item>
+                                 <item>1 syringe, 30 mL</item>
+                                 <item>Needle-free, vented or non-vented vial adapters (or large bore needle). Use a new vial adapter for each vial of RUCONEST and diluent.</item>
+                              </list>
+                           </td>
+                           <td align="center" styleCode="Rrule Lrule Botrule " valign="top">
+                              <renderMultiMedia referencedObject="A53EB17E-020C-40F9-AB7E-8AFFB9D53C0D"/>
+                           </td>
+                        </tr>
+                        <tr>
+                           <td styleCode="Rrule Lrule Botrule " valign="top">
+                              <paragraph>
+                                 <content styleCode="bold">Step 2: Inspect the RUCONEST vial. Do not use if:</content>
+                              </paragraph>
+                              <list listType="unordered">
+                                 <item>The protective cap is missing</item>
+                                 <item>The expiration date (see label) has passed</item>
+                              </list>
+                           </td>
+                           <td align="center" styleCode="Rrule Lrule Botrule " valign="top">
+                              <renderMultiMedia referencedObject="ID_208b78b8-4d04-4a81-9e55-c2b5eb901aab"/>
+                           </td>
+                        </tr>
+                        <tr>
+                           <td styleCode="Rrule Botrule Lrule " valign="top">
+                              <paragraph>
+                                 <content styleCode="bold">Step 3: Wash hands.</content>
+                              </paragraph>
+                              <list listType="unordered">
+                                 <item>Thoroughly wash and dry your hands</item>
+                              </list>
+                           </td>
+                           <td align="center" styleCode="Rrule Botrule Lrule " valign="top">
+                              <renderMultiMedia referencedObject="B0AE9252-DD97-4B55-B586-986471D39140"/>
+                           </td>
+                        </tr>
+                     </tbody>
+                  </table>
+                  <paragraph>
+                     <content styleCode="bold">
+                        <content styleCode="underline">DOSAGE VERIFICATION</content>
+                     </content>
+                  </paragraph>
+                  <paragraph>
+                     <content styleCode="bold">Discuss this section with your healthcare provider to ensure that the correct dose of RUCONEST is administered.</content>
+                  </paragraph>
+                  <paragraph/>
+                  <list listType="unordered">
+                     <item>The dose of RUCONEST and volume (mL) of reconstituted solution to be administered is based on body weight show in the chart below. 
+   <content styleCode="bold">No more than 2 vials may be combined for a single dose.</content>
+                     </item>
+                  </list>
+                  <table cellpadding="0" cellspacing="0" width="70%">
+                     <colgroup>
+                        <col width="19%"/>
+                        <col width="28%"/>
+                        <col width="32%"/>
+                     </colgroup>
+                     <tbody>
+                        <tr>
+                           <td align="center" styleCode="Rrule Botrule Lrule Toprule " valign="top">
+                              <paragraph>
+                                 <content styleCode="bold">Body weight</content>
+                              </paragraph>
+                           </td>
+                           <td align="center" styleCode="Rrule Botrule Lrule Toprule " valign="top">
+                              <paragraph>
+                                 <content styleCode="bold">RUCONEST dose for intravenous injection</content>
+                              </paragraph>
+                           </td>
+                           <td align="center" styleCode="Rrule Botrule Lrule Toprule " valign="top">
+                              <paragraph>
+                                 <content styleCode="bold">Volume (mL) of reconstituted solution (150 U/mL) to be administered</content>
+                              </paragraph>
+                           </td>
+                        </tr>
+                        <tr>
+                           <td align="center" styleCode="Rrule Lrule Botrule " valign="top">
+                              <paragraph>&lt;84 kg (185.2 lb)</paragraph>
+                           </td>
+                           <td align="center" styleCode="Rrule Lrule Botrule " valign="top">
+                              <paragraph>50 U per kg of body weight</paragraph>
+                           </td>
+                           <td align="center" styleCode="Rrule Lrule Botrule " valign="top">
+                              <paragraph>Body weight in kg divided by 3</paragraph>
+                           </td>
+                        </tr>
+                        <tr>
+                           <td align="center" styleCode="Rrule Botrule Lrule " valign="top">
+                              <paragraph>≥84 kg (185.2 lb)</paragraph>
+                           </td>
+                           <td align="center" styleCode="Rrule Botrule Lrule " valign="top">
+                              <paragraph>4200 U (2 vials)</paragraph>
+                           </td>
+                           <td align="center" styleCode="Rrule Botrule Lrule " valign="top">
+                              <paragraph>28 mL</paragraph>
+                           </td>
+                        </tr>
+                     </tbody>
+                  </table>
+                  <table cellpadding="0" cellspacing="0" width="100%">
+                     <colgroup>
+                        <col width="50%"/>
+                        <col width="50%"/>
+                     </colgroup>
+                     <tbody>
+                        <tr>
+                           <td colspan="2" styleCode="Rrule Botrule Lrule Toprule " valign="top">
+                              <paragraph>
+                                 <content styleCode="bold">
+                                    <content styleCode="underline">RECONSTITUTION</content>
+                                 </content>
+                              </paragraph>
+                              <paragraph>
+                                 <content styleCode="bold">The procedures below are provided as general guidelines for the reconstitution of RUCONEST. </content>
+                              </paragraph>
+                           </td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <paragraph/>
+                              <paragraph>
+                                 <content styleCode="bold">Step 1: Ensure that the RUCONEST vials and the diluent vial are at room temperature (range of 68°F - 77°F or 20°C - 25°C).</content>
+                              </paragraph>
+                              <paragraph/>
+                              <paragraph>The RUCONEST vial is for single</paragraph>
+                              <paragraph/>
+                           </td>
+                           <td styleCode="Rrule Lrule Botrule " valign="top"/>
+                        </tr>
+                        <tr>
+                           <td styleCode="Rrule Lrule Botrule " valign="top">
+                              <paragraph>
+                                 <content styleCode="bold">Step 2: Place the 2 RUCONEST vials and the diluent vial on a flat surface and remove the flip caps on each vial</content>
+                              </paragraph>
+                              <list listType="unordered">
+                                 <item>Wipe the vial stoppers with the antiseptic wipes provided and allow to dry for 30 seconds.</item>
+                                 <item>Do not blow on the stoppers after wiping.</item>
+                                 <item>Do not touch the stopper with your hands, or allow it to touch any surface.</item>
+                              </list>
+                           </td>
+                           <td align="center" styleCode="Rrule Lrule Botrule " valign="top">
+                              <renderMultiMedia referencedObject="ID_2531bfe4-f877-4419-b3ef-27aa0bbbb500"/>
+                           </td>
+                        </tr>
+                        <tr>
+                           <td styleCode="Rrule Lrule Botrule " valign="top">
+                              <paragraph>
+                                 <content styleCode="bold">Step 3: Peel back the covers from the clear plastic vial adapter packages.</content>
+                              </paragraph>
+                              <list listType="unordered">
+                                 <item>Leave the adapters in their packages.</item>
+                              </list>
+                           </td>
+                           <td styleCode="Rrule Lrule Botrule " valign="top"/>
+                        </tr>
+                        <tr>
+                           <td styleCode="Rrule Lrule " valign="top">
+                              <paragraph>
+                                 <content styleCode="bold">Step 4: While holding the adapter in its package, place the first adapter over the diluent vial and press down until the device snaps into place. </content>
+                              </paragraph>
+                              <list listType="unordered">
+                                 <item>Leave the package on the adapter until you are ready to attach the syringe.</item>
+                              </list>
+                           </td>
+                           <td align="center" styleCode="Rrule Lrule Botrule " valign="top">
+                              <paragraph>
+                                 <renderMultiMedia referencedObject="EFEE5560-61F3-40B6-88EF-131704441F6B"/>
+                              </paragraph>
+                              <paragraph/>
+                           </td>
+                        </tr>
+                        <tr>
+                           <td styleCode="Rrule Lrule " valign="top">
+                              <paragraph>
+                                 <content styleCode="bold">Step 5: Now, place a 2nd adapter over a RUCONEST vial and press down until it snaps into place.</content>
+                              </paragraph>
+                              <paragraph/>
+                              <paragraph>
+                                 <content styleCode="bold">Repeat if your dose requires a 2nd RUCONEST vial.</content>
+                              </paragraph>
+                           </td>
+                           <td align="center" styleCode="Rrule Lrule Botrule " valign="top">
+                              <renderMultiMedia referencedObject="ID_3b16abd1-0f77-4b3e-9357-c606916f928d"/>
+                           </td>
+                        </tr>
+                        <tr>
+                           <td styleCode="Rrule Lrule Botrule " valign="top">
+                              <paragraph>
+                                 <content styleCode="bold">Step 6: Lift the package away from the diluent adapter.</content>
+                              </paragraph>
+                           </td>
+                           <td styleCode="Rrule Lrule Botrule " valign="top"/>
+                        </tr>
+                        <tr>
+                           <td styleCode="Rrule Lrule Botrule " valign="top">
+                              <paragraph>
+                                 <content styleCode="bold">Step 7: Remove syringe from package and withdraw sterile water for injection from the diluent vial.</content>
+                              </paragraph>
+                              <list listType="unordered">
+                                 <item>With vial on a flat surface, attach syringe to adapter on diluent vial by rotating syringe clockwise.</item>
+                                 <item>Turn diluent vial upside down and slowly withdraw either 
+       <content styleCode="bold">14 mL (if using 1 RUCONEST vial) or 28 mL (if using 2 RUCONEST vials) </content>of diluent into syringe by gently pulling back on the plunger.
+      </item>
+                                 <item>There will still be some diluent left in the vial.</item>
+                                 <item>Place the diluent vial back on a flat surface and detach syringe by gently pulling the syringe and rotating counterclockwise.</item>
+                              </list>
+                           </td>
+                           <td align="center" styleCode="Rrule Lrule Botrule " valign="top">
+                              <renderMultiMedia referencedObject="ID_27c03d2e-050d-4644-bea0-0082cd498a1c"/>
+                           </td>
+                        </tr>
+                        <tr>
+                           <td styleCode="Rrule Lrule Botrule " valign="top">
+                              <paragraph>
+                                 <content styleCode="bold">Step 8: Transfer the diluent to the RUCONEST vial.</content>
+                              </paragraph>
+                              <list listType="unordered">
+                                 <item>Remove the package from the adapter connected to one of the RUCONEST vials.</item>
+                                 <item>Attach the syringe holding the diluent to the adapter on the RUCONEST vial by inserting the tip into the adapter opening while firmly pushing and rotating the syringe clockwise.</item>
+                                 <item>Slowly press 
+       <content styleCode="bold">14 mL </content>of diluent into the RUCONEST vial.
+      </item>
+                                 <item>Add the diluent slowly to avoid forceful impact on the powder.</item>
+                                 <item>Note: Leave the syringe attached to the vial after adding the diluent.</item>
+                              </list>
+                           </td>
+                           <td align="center" styleCode="Rrule Lrule Botrule " valign="top">
+                              <renderMultiMedia referencedObject="ID_97603248-4394-4851-97a7-1a58f152da5e"/>
+                           </td>
+                        </tr>
+                        <tr>
+                           <td styleCode="Rrule Lrule Botrule " valign="top">
+                              <paragraph>
+                                 <content styleCode="bold">Step 9: Swirl the vial to mix. Do this slowly to avoid foaming.</content>
+                              </paragraph>
+                              <paragraph/>
+                              <paragraph>
+                                 <content styleCode="bold">Repeat Steps 8 and 9 if you are using a second RUCONEST vial. Remove syringe from the first RUCONEST vial prior to attaching to the second vial.</content>
+                              </paragraph>
+                           </td>
+                           <td align="center" styleCode="Rrule Lrule Botrule " valign="top">
+                              <renderMultiMedia referencedObject="F6E3F6F7-59C5-4F40-86DE-861720B2AAA2"/>
+                           </td>
+                        </tr>
+                        <tr>
+                           <td styleCode="Rrule Lrule Botrule " valign="top">
+                              <paragraph>
+                                 <content styleCode="bold">Step 10: Inspect RUCONEST vial(s) visually.</content>
+                              </paragraph>
+                              <list listType="unordered">
+                                 <item>After reconstitution and prior to administration, inspect the RUCONEST vials visually for particulate matter and discoloration.</item>
+                                 <item>The reconstituted solution should be colorless, clear, and free from visible particles.</item>
+                                 <item>
+                                    <content styleCode="bold">Do not use the vial if</content> it looks cloudy, contains particles, or has changed color.
+      </item>
+                              </list>
+                           </td>
+                           <td align="center" styleCode="Rrule Lrule Botrule " valign="top">
+                              <renderMultiMedia referencedObject="E93AE41A-B502-437B-A1C2-26D10650E6C8"/>
+                           </td>
+                        </tr>
+                        <tr>
+                           <td styleCode="Rrule Lrule Botrule " valign="top">
+                              <paragraph>
+                                 <content styleCode="bold">Step 11: With the syringe still connected to the RUCONEST vial, turn the vial upside down.</content>
+                              </paragraph>
+                              <list listType="unordered">
+                                 <item>Slowly withdraw your dose of RUCONEST by gently pulling back on the plunger.</item>
+                                 <item>Once you have withdrawn your dose, turn the vial right side up and place on a flat surface. Disconnect the syringe by gently pulling and rotating counterclockwise.</item>
+                              </list>
+                           </td>
+                           <td align="center" styleCode="Rrule Lrule Botrule " valign="top">
+                              <paragraph>
+                                 <renderMultiMedia referencedObject="ID_3c4e6d7e-6d55-433f-a220-9175cd03cfa0"/>
+                              </paragraph>
+                              <paragraph>
+                                 <renderMultiMedia referencedObject="ID_0561b452-191c-4763-8ce4-e08571c16974"/>
+                              </paragraph>
+                           </td>
+                        </tr>
+                        <tr>
+                           <td styleCode="Rrule Lrule Botrule " valign="top">
+                              <paragraph>
+                                 <content styleCode="bold">Step 12: Repeat Step 11 and withdraw additional reconstituted RUCONEST from the second RUCONEST vial (if needed).</content>
+                              </paragraph>
+                              <list listType="unordered">
+                                 <item>Withdraw only as much as is needed based on your body weight.</item>
+                                 <item>Disconnect the syringe, for use as described in the next section.</item>
+                              </list>
+                           </td>
+                           <td styleCode="Rrule Lrule Botrule " valign="top"/>
+                        </tr>
+                        <tr>
+                           <td colspan="2" styleCode="Rrule Lrule Botrule " valign="top">
+                              <paragraph>
+                                 <content styleCode="bold">
+                                    <content styleCode="underline">SELF-ADMINISTRATION (intravenous injection)</content>
+                                 </content>
+                              </paragraph>
+                              <paragraph>Your healthcare provider will teach you how to safely administer RUCONEST. It is important that you inject RUCONEST directly into a visible vein. Do not inject into surrounding tissues or an artery. Once you learn how to self-administer, follow the instructions provided below. The reconstituted solution should be used within 8 hours and should be cooled but not be frozen.</paragraph>
+                           </td>
+                        </tr>
+                        <tr>
+                           <td styleCode="Rrule Lrule Botrule " valign="top">
+                              <paragraph>
+                                 <content styleCode="bold">Step 1: Assemble supplies.</content>
+                              </paragraph>
+                              <list listType="unordered">
+                                 <item>Gather the RUCONEST syringe, the following disposable supplies (not provided with RUCONEST), and other items:
+				
+       <list listType="unordered">
+                                       <item>Standard butterfly catheter infusion set (IV administration set with winged adapter and needle)</item>
+                                       <item>Sterile syringe</item>
+                                       <item>Tourniquet</item>
+                                       <item>Sterile gauze and tape or transparent dressing</item>
+                                       <item>Bandage (adhesive dressing)</item>
+                                       <item>Gloves (if recommended by your healthcare provider)</item>
+                                       <item>Antiseptic wipe for cleaning skin</item>
+                                    </list>
+                                 </item>
+                                 <item>Other items (not shown)</item>
+                                 <item>Clock or stopwatch to monitor time</item>
+                                 <item>Sharps or other disposal container</item>
+                                 <item>Treatment diary</item>
+                              </list>
+                           </td>
+                           <td align="center" styleCode="Rrule Lrule Botrule " valign="top">
+                              <renderMultiMedia referencedObject="B66EFE34-4251-4EAE-BDBC-A191F0C73954"/>
+                           </td>
+                        </tr>
+                        <tr>
+                           <td styleCode="Rrule Lrule Botrule " valign="top">
+                              <paragraph>
+                                 <content styleCode="bold">Step 2: Clean surface.</content>
+                              </paragraph>
+                              <list listType="unordered">
+                                 <item>Thoroughly clean a table or other flat surface using one or more of the antiseptic wipes.</item>
+                              </list>
+                           </td>
+                           <td styleCode="Rrule Lrule Botrule " valign="top"/>
+                        </tr>
+                        <tr>
+                           <td styleCode="Rrule Lrule Botrule " valign="top">
+                              <paragraph>
+                                 <content styleCode="bold">Step 3: Prime the infusion set.</content>
+                              </paragraph>
+                              <paragraph>As instructed by your healthcare provider:</paragraph>
+                              <list listType="unordered">
+                                 <item>To prime (fill) the infusion tubing, connect the syringe filled with RUCONEST to the infusion set tubing and gently push on the syringe plunger to fill the tubing with RUCONEST.</item>
+                              </list>
+                           </td>
+                           <td styleCode="Rrule Lrule Botrule " valign="top">
+                              <paragraph/>
+                              <paragraph>
+                                 <renderMultiMedia referencedObject="C1A78A77-52C3-457F-AC6D-6B598F33D229"/>
+                              </paragraph>
+                           </td>
+                        </tr>
+                        <tr>
+                           <td styleCode="Rrule Lrule Botrule " valign="top">
+                              <paragraph>
+                                 <content styleCode="bold">Step 4: Prepare the approved IV injection site.</content>
+                              </paragraph>
+                              <list listType="unordered">
+                                 <item>Apply a tourniquet above the site of the infusion.</item>
+                                 <item>Prepare the injection site by wiping the skin well with an antiseptic wipe, beginning at the center and working outward in a circular motion.</item>
+                                 <item>Allow the site to dry.</item>
+                              </list>
+                           </td>
+                           <td align="center" styleCode="Rrule Lrule Botrule " valign="top">
+                              <renderMultiMedia referencedObject="F9AF665A-257B-40BC-9CCE-9AEC05C27D80"/>
+                           </td>
+                        </tr>
+                        <tr>
+                           <td styleCode="Rrule Lrule Botrule " valign="top">
+                              <paragraph>
+                                 <content styleCode="bold">Step 5: Start infusion.</content>
+                              </paragraph>
+                              <paragraph>Follow the instructions provided by your healthcare provider.</paragraph>
+                              <list listType="unordered">
+                                 <item>Take off the needle sheath.</item>
+                                 <item>Hold both wings of the butterfly between the thumb and the index finger with the obliquely cut (slanted) opening of the butterfly needle pointing upward.</item>
+                                 <item>Insert the butterfly needle of the infusion set into your vein (insert as flat to skin surface as possible).</item>
+                                 <item>Use sterile gauze and tape or transparent dressing to hold the needle in place.</item>
+                                 <item>Make sure the needle is in a vein:
+				
+       <list listType="unordered">
+                                       <item>Gently pull back on the syringe plunger and check to see if blood is in the tubing.</item>
+                                       <item>If there is blood present, then the needle is in a vein.</item>
+                                       <item>If there is no blood, remove the needle and repeat this step using a new needle, new administration tubing, and a different injection site.</item>
+                                    </list>
+                                 </item>
+                                 <item>Remove the tourniquet.</item>
+                                 <item>Note: Inject RUCONEST slowly over approximately 5 minutes.</item>
+                              </list>
+                           </td>
+                           <td align="center" styleCode="Rrule Lrule Botrule " valign="top">
+                              <paragraph>
+                                 <renderMultiMedia referencedObject="ID_93639f59-5886-49a9-a0a8-42e952a51cab"/>
+                              </paragraph>
+                              <paragraph>
+                                 <renderMultiMedia referencedObject="F513EE31-A698-420F-93E2-2E45D7F00ABB"/>
+                              </paragraph>
+                              <renderMultiMedia referencedObject="C6CC9172-F4AA-4832-BFD9-706156B8C3F1"/>
+                           </td>
+                        </tr>
+                        <tr>
+                           <td styleCode="Rrule Lrule Botrule " valign="top">
+                              <paragraph>
+                                 <content styleCode="bold">Step 6: Cover the injection site and clean up.</content>
+                              </paragraph>
+                              <paragraph>After all of the RUCONEST has been infused:</paragraph>
+                              <list listType="unordered">
+                                 <item>Withdraw the butterfly needle along the line that it was inserted.</item>
+                                 <item>Cover the injection site with a bandage, holding pressure on the site for a few minutes.</item>
+                                 <item>Dispose of all unused solution, empty vials, and used needles and syringe in an appropriate container used for medical waste.</item>
+                              </list>
+                           </td>
+                           <td align="center" styleCode="Rrule Lrule Botrule " valign="top">
+                              <renderMultiMedia referencedObject="E81C28F5-62AD-47E4-94FB-097FF15798C5"/>
+                           </td>
+                        </tr>
+                        <tr>
+                           <td colspan="2" styleCode="Rrule Lrule Botrule " valign="top">
+                              <paragraph>
+                                 <content styleCode="bold">
+                                    <content styleCode="underline">POST-ADMINISTRATION </content>
+                                 </content>
+                              </paragraph>
+                              <paragraph>The procedures below are provided as general guidelines for after the infusion of RUCONEST.</paragraph>
+                           </td>
+                        </tr>
+                        <tr>
+                           <td styleCode="Rrule Botrule Lrule " valign="top">
+                              <paragraph>
+                                 <content styleCode="bold">Record each injection into treatment journal.</content>
+                              </paragraph>
+                              <list listType="unordered">
+                                 <item>Record the lot number from the RUCONEST vial label.</item>
+                                 <item>Enter the date and time of your injection.</item>
+                              </list>
+                           </td>
+                           <td styleCode="Rrule Botrule Lrule " valign="top"/>
+                        </tr>
+                     </tbody>
+                  </table>
+                  <paragraph>
+                     <content styleCode="bold">This Patient Package Insert has been approved by the US Food and Drug Administration.</content>
+                  </paragraph>
+                  <paragraph>Manufactured by:</paragraph>
+                  <paragraph>Pharming Americas B.V.</paragraph>
+                  <paragraph>Darwinweg 24</paragraph>
+                  <paragraph>2333 CR Leiden</paragraph>
+                  <paragraph>The Netherlands</paragraph>
+                  <paragraph/>
+                  <paragraph>RUCONEST
+  <sup>®</sup> is a registered trademark of Pharming Intellectual Property B.V.
+ </paragraph>
+                  <paragraph>Distributed by:</paragraph>
+                  <paragraph>Pharming Healthcare Inc.</paragraph>
+                  <paragraph>Warren NJ 07059</paragraph>
+                  <paragraph/>
+                  <paragraph>Product protected by U.S. patent Nos. 7,067,713 and RE43691.</paragraph>
+                  <paragraph/>
+                  <paragraph>Please see www.ruconest.com for patent information.</paragraph>
+                  <paragraph/>
+                  <paragraph>US License No. 2079</paragraph>
+                  <paragraph/>
+                  <paragraph>
+                     <renderMultiMedia referencedObject="img_66ea4a10-9018-44fd-e053-2a91aa0a554f"/>
+                  </paragraph>
+                  <paragraph/>
+                  <paragraph>Revised: APR 2020</paragraph>
+                  <paragraph/>
+               </text>
+               <effectiveTime value="20200430"/>
+               <component>
+                  <observationMedia ID="A53EB17E-020C-40F9-AB7E-8AFFB9D53C0D">
+                     <text>step1</text>
+                     <value mediaType="image/jpeg" xsi:type="ED">
+                        <reference value="image-01.jpg"/>
+                     </value>
+                  </observationMedia>
+               </component>
+               <component>
+                  <observationMedia ID="ID_208b78b8-4d04-4a81-9e55-c2b5eb901aab">
+                     <text>step2</text>
+                     <value mediaType="image/jpeg" xsi:type="ED">
+                        <reference value="image-02.jpg"/>
+                     </value>
+                  </observationMedia>
+               </component>
+               <component>
+                  <observationMedia ID="B0AE9252-DD97-4B55-B586-986471D39140">
+                     <text>step3</text>
+                     <value mediaType="image/jpeg" xsi:type="ED">
+                        <reference value="image-03.jpg"/>
+                     </value>
+                  </observationMedia>
+               </component>
+               <component>
+                  <observationMedia ID="ID_2531bfe4-f877-4419-b3ef-27aa0bbbb500">
+                     <text>reconstitution-step2</text>
+                     <value mediaType="image/jpeg" xsi:type="ED">
+                        <reference value="image-04.jpg"/>
+                     </value>
+                  </observationMedia>
+               </component>
+               <component>
+                  <observationMedia ID="EFEE5560-61F3-40B6-88EF-131704441F6B">
+                     <text>reconstitution-step4</text>
+                     <value mediaType="image/jpeg" xsi:type="ED">
+                        <reference value="image-05.jpg"/>
+                     </value>
+                  </observationMedia>
+               </component>
+               <component>
+                  <observationMedia ID="ID_3b16abd1-0f77-4b3e-9357-c606916f928d">
+                     <text>reconstitution-step5</text>
+                     <value mediaType="image/jpeg" xsi:type="ED">
+                        <reference value="image-06.jpg"/>
+                     </value>
+                  </observationMedia>
+               </component>
+               <component>
+                  <observationMedia ID="ID_27c03d2e-050d-4644-bea0-0082cd498a1c">
+                     <text>reconstitution-step7</text>
+                     <value mediaType="image/jpeg" xsi:type="ED">
+                        <reference value="image-07.jpg"/>
+                     </value>
+                  </observationMedia>
+               </component>
+               <component>
+                  <observationMedia ID="ID_97603248-4394-4851-97a7-1a58f152da5e">
+                     <text>reconstitution-step8</text>
+                     <value mediaType="image/jpeg" xsi:type="ED">
+                        <reference value="image-08.jpg"/>
+                     </value>
+                  </observationMedia>
+               </component>
+               <component>
+                  <observationMedia ID="F6E3F6F7-59C5-4F40-86DE-861720B2AAA2">
+                     <text>reconstitution-step9</text>
+                     <value mediaType="image/jpeg" xsi:type="ED">
+                        <reference value="image-09.jpg"/>
+                     </value>
+                  </observationMedia>
+               </component>
+               <component>
+                  <observationMedia ID="E93AE41A-B502-437B-A1C2-26D10650E6C8">
+                     <text>reconstitution-step10</text>
+                     <value mediaType="image/jpeg" xsi:type="ED">
+                        <reference value="image-10.jpg"/>
+                     </value>
+                  </observationMedia>
+               </component>
+               <component>
+                  <observationMedia ID="ID_3c4e6d7e-6d55-433f-a220-9175cd03cfa0">
+                     <text>reconstitution-step11a</text>
+                     <value mediaType="image/jpeg" xsi:type="ED">
+                        <reference value="image-11.jpg"/>
+                     </value>
+                  </observationMedia>
+               </component>
+               <component>
+                  <observationMedia ID="ID_0561b452-191c-4763-8ce4-e08571c16974">
+                     <text>reconstitution-step11b</text>
+                     <value mediaType="image/jpeg" xsi:type="ED">
+                        <reference value="image-12.jpg"/>
+                     </value>
+                  </observationMedia>
+               </component>
+               <component>
+                  <observationMedia ID="B66EFE34-4251-4EAE-BDBC-A191F0C73954">
+                     <text>self-step1</text>
+                     <value mediaType="image/jpeg" xsi:type="ED">
+                        <reference value="image-13.jpg"/>
+                     </value>
+                  </observationMedia>
+               </component>
+               <component>
+                  <observationMedia ID="C1A78A77-52C3-457F-AC6D-6B598F33D229">
+                     <text>self-step3</text>
+                     <value mediaType="image/jpeg" xsi:type="ED">
+                        <reference value="image-14.jpg"/>
+                     </value>
+                  </observationMedia>
+               </component>
+               <component>
+                  <observationMedia ID="F9AF665A-257B-40BC-9CCE-9AEC05C27D80">
+                     <text>self-step4</text>
+                     <value mediaType="image/jpeg" xsi:type="ED">
+                        <reference value="image-15.jpg"/>
+                     </value>
+                  </observationMedia>
+               </component>
+               <component>
+                  <observationMedia ID="ID_93639f59-5886-49a9-a0a8-42e952a51cab">
+                     <text>self-step5a</text>
+                     <value mediaType="image/jpeg" xsi:type="ED">
+                        <reference value="image-16.jpg"/>
+                     </value>
+                  </observationMedia>
+               </component>
+               <component>
+                  <observationMedia ID="F513EE31-A698-420F-93E2-2E45D7F00ABB">
+                     <text>self-step5b</text>
+                     <value mediaType="image/jpeg" xsi:type="ED">
+                        <reference value="image-17.jpg"/>
+                     </value>
+                  </observationMedia>
+               </component>
+               <component>
+                  <observationMedia ID="C6CC9172-F4AA-4832-BFD9-706156B8C3F1">
+                     <text>self-step5c</text>
+                     <value mediaType="image/jpeg" xsi:type="ED">
+                        <reference value="image-18.jpg"/>
+                     </value>
+                  </observationMedia>
+               </component>
+               <component>
+                  <observationMedia ID="E81C28F5-62AD-47E4-94FB-097FF15798C5">
+                     <text>self-step6</text>
+                     <value mediaType="image/jpeg" xsi:type="ED">
+                        <reference value="image-19.jpg"/>
+                     </value>
+                  </observationMedia>
+               </component>
+               <component>
+                  <observationMedia ID="img_66ea4a10-9018-44fd-e053-2a91aa0a554f">
+                     <text>pharming</text>
+                     <value mediaType="image/jpeg" xsi:type="ED">
+                        <reference value="pharming2.jpg"/>
+                     </value>
+                  </observationMedia>
+               </component>
+            </section>
+         </component>
+         <component>
+            <section ID="id_link_66d3dcb4-a6ad-0583-e053-2991aa0a6e29">
+               <id root="a7430ba2-7c70-7886-e053-2a95a90ac691"/>
+               <code code="51945-4" codeSystem="2.16.840.1.113883.6.1" displayName="PACKAGE LABEL.PRINCIPAL DISPLAY PANEL"/>
+               <title>
+                  <content styleCode="bold">Package Label/Principal Display Panel - 2100 U Vial Label</content>
+               </title>
+               <text>
+                  <paragraph>RUCONEST®</paragraph>
+                  <paragraph>C1 esterase inhibitor (recombinant)</paragraph>
+                  <paragraph>2100 U</paragraph>
+                  <paragraph>NDC 71274-350-01</paragraph>
+                  <paragraph>For intravenous use only.</paragraph>
+                  <paragraph>For single patient use.</paragraph>
+                  <paragraph>See prescribing information for directions for use.</paragraph>
+                  <paragraph>
+                     <content styleCode="bold">Rx only</content>
+                  </paragraph>
+                  <paragraph>
+                     <renderMultiMedia referencedObject="img_a7430ba2-7c6f-7886-e053-2a95a90ac691"/>
+                  </paragraph>
+               </text>
+               <effectiveTime value="20200430"/>
+               <component>
+                  <observationMedia ID="img_a7430ba2-7c6f-7886-e053-2a95a90ac691">
+                     <text>Label</text>
+                     <value mediaType="image/jpeg" xsi:type="ED">
+                        <reference value="label.jpg"/>
+                     </value>
+                  </observationMedia>
+               </component>
+            </section>
+         </component>
+         <component>
+            <section ID="ID_ce570c7a-cb3b-443a-894b-238047a3768a">
+               <id root="a74312c3-5665-07b3-e053-2995a90a4d27"/>
+               <code code="51945-4" codeSystem="2.16.840.1.113883.6.1" displayName="PACKAGE LABEL.PRINCIPAL DISPLAY PANEL"/>
+               <title>
+                  <content styleCode="bold">Package Label/Principal Display Panel - 2100 U Carton</content>
+               </title>
+               <text>
+                  <paragraph>RUCONEST®</paragraph>
+                  <paragraph>C1 esterase inhibitor (recombinant)</paragraph>
+                  <paragraph>2100 U</paragraph>
+                  <paragraph>NDC 71274-350-02</paragraph>
+                  <paragraph>For intravenous use only.</paragraph>
+                  <paragraph>For single patient use.</paragraph>
+                  <paragraph>See prescribing information for directions for use.</paragraph>
+                  <paragraph>
+                     <content styleCode="bold">Rx only</content>
+                  </paragraph>
+                  <paragraph>
+                     <renderMultiMedia referencedObject="img_a7430ba2-7c72-7886-e053-2a95a90ac691"/>
+                  </paragraph>
+                  <paragraph/>
+                  <paragraph/>
+                  <paragraph/>
+                  <paragraph/>
+                  <paragraph/>
+               </text>
+               <effectiveTime value="20200430"/>
+               <component>
+                  <observationMedia ID="img_a7430ba2-7c72-7886-e053-2a95a90ac691">
+                     <text>Carton</text>
+                     <value mediaType="image/jpeg" xsi:type="ED">
+                        <reference value="carton.jpg"/>
+                     </value>
+                  </observationMedia>
+               </component>
+            </section>
+         </component>
+      </structuredBody>
+   </component>
+</document>

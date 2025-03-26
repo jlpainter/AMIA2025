@@ -1,0 +1,329 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="http://www.fda.gov/oc/datacouncil/stylesheets/spl/spl.xsl" type="text/xsl"?>
+<document xmlns="urn:hl7-org:v3" xmlns:voc="http://www.hl7.org/v3/voc" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:hl7-org:v3 http://www.fda.gov/oc/datacouncil/schemas/spl/spl.xsd">
+<id root="834100B2-7E70-75E8-4091-B9DEE349F058" />
+<code code="34391-3" codeSystem="2.16.840.1.113883.6.1" codeSystemName="LOINC" displayName="HUMAN PRESCRIPTION DRUG LABEL" />
+<title />
+<effectiveTime value="20080110" />
+<setId root="8fbd0773-6645-4235-9ef2-56edf9c7fb83" />
+<versionNumber value="1" />
+<author>
+<time />
+<assignedEntity>
+<representedOrganization>
+<name>Watson Laboratories, Inc.</name>
+</representedOrganization>
+</assignedEntity>
+</author>
+<component>
+<structuredBody>
+<component>
+<section>
+<id root="CA63B0E1-F3B0-E19C-541D-4246F2A2701D" />
+<effectiveTime value="20080110" />
+<subject>
+<manufacturedProduct>
+<manufacturedMedicine>
+<code code="0591-3553" codeSystem="2.16.840.1.113883.6.69" />
+<name>Pitocin</name>
+<formCode code="C42946" codeSystem="2.16.840.1.113883.3.26.1.1" displayName="INJECTION" />
+<activeIngredient>
+<quantity>
+<numerator value="10">
+<translation code="C44278" codeSystem="2.16.840.1.113883.3.26.1.1" displayName="UNITS" value="10" />
+</numerator>
+<denominator unit="mL" value="1">
+<translation code="C28254" codeSystem="2.16.840.1.113883.3.26.1.1" displayName="MILLILITER" value="1" />
+</denominator>
+</quantity>
+<activeIngredientSubstance>
+<code code="1JQS135EYN" codeSystem="2.16.840.1.113883.4.9" codeSystemName="FDA SRS" displayName="OXYTOCIN" />
+<name>oxytocin</name>
+<activeMoiety>
+<activeMoiety>
+<code code="1JQS135EYN" codeSystem="2.16.840.1.113883.4.9" codeSystemName="FDA SRS" displayName="OXYTOCIN" />
+<name>oxytocin</name>
+</activeMoiety>
+</activeMoiety>
+</activeIngredientSubstance>
+</activeIngredient>
+<asEntityWithGeneric>
+<genericMedicine>
+<name>oxytocin</name>
+</genericMedicine>
+</asEntityWithGeneric>
+<inactiveIngredient>
+<inactiveIngredientSubstance>
+<code code="HM4YQM8WRC" codeSystem="2.16.840.1.113883.4.9" codeSystemName="FDA SRS" />
+<name>chlorobutanol</name>
+</inactiveIngredientSubstance>
+</inactiveIngredient>
+<inactiveIngredient>
+<inactiveIngredientSubstance>
+<code code="Q40Q9N063P" codeSystem="2.16.840.1.113883.4.9" codeSystemName="FDA SRS" />
+<name>acetic acid</name>
+</inactiveIngredientSubstance>
+</inactiveIngredient>
+<asContent>
+<quantity>
+<numerator unit="mL" value="1">
+<translation code="C28254" codeSystem="2.16.840.1.113883.3.26.1.1" displayName="MILLILITER" value="1" />
+</numerator>
+<denominator value="1">
+<translation value="1" />
+</denominator>
+</quantity>
+<containerPackagedMedicine>
+<code />
+<formCode code="C43226" codeSystem="2.16.840.1.113883.3.26.1.1" displayName="VIAL" />
+<asContent>
+<quantity>
+<numerator value="25">
+<translation code="C48551" codeSystem="2.16.840.1.113883.3.26.1.1" displayName="VIAL" value="25" />
+</numerator>
+<denominator value="1">
+<translation value="1" />
+</denominator>
+</quantity>
+<containerPackagedMedicine>
+<code code="0591-3553-69" codeSystem="2.16.840.1.113883.6.69" />
+<formCode code="C43233" codeSystem="2.16.840.1.113883.3.26.1.1" displayName="PACKAGE" />
+</containerPackagedMedicine>
+</asContent>
+</containerPackagedMedicine>
+</asContent>
+</manufacturedMedicine>
+<consumedIn>
+<substanceAdministration>
+<routeCode code="C38276" codeSystem="2.16.840.1.113883.3.26.1.1" displayName="INTRAVENOUS" />
+</substanceAdministration>
+</consumedIn>
+</manufacturedProduct>
+</subject>
+</section>
+</component>
+<component>
+<section ID="s1">
+<id root="0CE90C32-8066-EFEA-9B75-8524A6995762" />
+<code code="34089-3" codeSystem="2.16.840.1.113883.6.1" codeSystemName="LOINC" displayName="DESCRIPTION SECTION" />
+<title>DESCRIPTION</title>
+<text><paragraph>Oxytocin injection USP is a sterile, clear, colorless aqueous solution of synthetic oxytocin, for intravenous infusion or intramuscular injection. Oxytoxin is a nonapeptide found in pituitary extracts from mammals. It is standardized to contain 10 units of oxytocic hormone/mL and contains 0.5% Chlorobutanol, a chloroform derivative as a preservative, with the pH adjusted with acetic acid. Oxytocin may contain up to 16% of total impurities. The hormone is prepared synthetically to avoid possible contamination with vasopressin (ADH) and other small polypeptides with biologic activity. Oxytocin has the empirical formula C<sub>43</sub>H<sub>66</sub>N<sub>12</sub>O<sub>12</sub>S<sub>2</sub> (molecular weight 1007.19). The structural formula is as follows:</paragraph><renderMultiMedia referencedObject="MM1" /></text>
+<effectiveTime value="20080110" />
+<component>
+<observationMedia ID="MM1">
+<text>Descriptive text here</text>
+<value mediaType="image/jpeg" xsi:type="ED"><reference value="Oxytocin_struct.jpg" /></value>
+</observationMedia>
+</component>
+</section>
+</component>
+<component>
+<section ID="s3">
+<id root="3201762F-8683-361F-F454-C8DBE9A2E574" />
+<code code="34090-1" codeSystem="2.16.840.1.113883.6.1" codeSystemName="LOINC" displayName="CLINICAL PHARMACOLOGY SECTION" />
+<title>CLINICAL PHARMACOLOGY</title>
+<text><paragraph>Uterine motility depends on the formation of the contractile protein actomyosin under the influence of the Ca<sup>2+</sup>-dependent phosphorylating enzyme myosin light-chain kinase. Oxytocin promotes contractions by increasing the intracellular Ca<sup>2+</sup>. Oxytocin has specific receptors in the myometrium and the receptor concentration increases greatly during pregnancy, reaching a maximum in early labor at term. The response to a given dose of oxytocin is very individualized and depends on the sensitivity of the uterus, which is determined by the oxytocin receptor concentration. However, the physician should be aware of the fact that oxytocin even in its pure form has inherent pressor and antidiuretic properties which may become manifest when large doses are administered. These properties are thought to be due to the fact that oxytocin and vasopressin differ in regard to only two of the eight amino acids (see <linkHtml href="#s8">PRECAUTIONS</linkHtml> section). </paragraph><paragraph>Oxytocin is distributed throughout the extracellular fluid. Small amounts of the drug probably reach the fetal circulation. Oxytocin has a plasma half-life of about 1 to 6 minutes which is decreased in late pregnancy and during lactation. Following intravenous administration of oxytocin, uterine response occurs almost immediately and subsides within 1 hour. Following intramuscular injection of the drug, uterine response occurs within 3 to 5 minutes and persists for 2 to 3 hours. Its rapid removal from plasma is accomplished largely by the kidney and the liver. Only small amounts are excreted in urine unchanged.</paragraph></text>
+<effectiveTime value="20080110" />
+</section>
+</component>
+<component>
+<section ID="s5">
+<id root="1012F763-6E12-3794-3F69-F9ACF93B820E" />
+<code code="34067-9" codeSystem="2.16.840.1.113883.6.1" codeSystemName="LOINC" displayName="INDICATIONS &amp; USAGE SECTION" />
+<title>INDICATIONS AND USAGE</title>
+<text />
+<effectiveTime value="20080110" />
+<component>
+<section ID="s5.1">
+<id root="5A43E39D-F0DF-701A-E496-BF4F3F61A533" />
+<code code="34066-1" codeSystem="2.16.840.1.113883.6.1" codeSystemName="LOINC" displayName="BOXED WARNING SECTION" />
+<title>IMPORTANT NOTICE</title>
+<text><paragraph>Elective induction of labor is defined as the initiation of labor in a pregnant individual who has no medical indications for induction. Since the available data are inadequate to evaluate the benefits-to-risks considerations, oxytocin is not indicated for elective induction of labor.</paragraph></text>
+<effectiveTime value="20080110" />
+</section>
+</component>
+<component>
+<section ID="s5.2">
+<id root="174B7D37-BD1C-629E-109A-617F7DF95435" />
+<code code="42229-5" codeSystem="2.16.840.1.113883.6.1" codeSystemName="LOINC" displayName="SPL UNCLASSIFIED SECTION" />
+<title />
+<text><paragraph><content styleCode="bold">Antepartum:</content> Oxytocin is indicated for the initiation or improvement of uterine contractions, where this is desirable and considered suitable for reasons of fetal or maternal concern, in order to achieve vaginal delivery. It is indicated for (1) induction of labor in patients with a medical indication for the initiation of labor, such as Rh problems, maternal diabetes, preeclampsia at or near term, when delivery is in the best interests of mother and fetus or when membranes are prematurely ruptured and delivery is indicated; (2) stimulation or reinforcement of labor, as in selected cases of uterine inertia; (3) as adjunctive therapy in the management of incomplete or inevitable abortion. In the first trimester, curettage is generally considered primary therapy. In second trimester abortion, oxytocin infusion will often be successful in emptying the uterus. Other means of therapy, however, may be required in such cases. </paragraph></text>
+<effectiveTime value="20080110" />
+</section>
+</component>
+<component>
+<section ID="s5.3">
+<id root="DD2C0F5C-FD1F-2563-642D-A98CC663E2D3" />
+<code code="42229-5" codeSystem="2.16.840.1.113883.6.1" codeSystemName="LOINC" displayName="SPL UNCLASSIFIED SECTION" />
+<text><paragraph><content styleCode="bold">Postpartum:</content> Oxytocin is indicated to produce uterine contractions during the third stage of labor and to control postpartum bleeding or hemorrhage.</paragraph></text>
+<effectiveTime value="20080110" />
+</section>
+</component>
+</section>
+</component>
+<component>
+<section ID="s6">
+<id root="79A29C91-5A80-3CB6-1539-3BB124653EBA" />
+<code code="34070-3" codeSystem="2.16.840.1.113883.6.1" codeSystemName="LOINC" displayName="CONTRAINDICATIONS SECTION" />
+<title>CONTRAINDICATIONS</title>
+<text><paragraph>Antepartum use of oxytocin is contraindicated in any of the following circumstances:</paragraph><list listType="ordered" styleCode="Arabic"><item>Where there is significant cephalopelvic disproportion;</item><item>In unfavorable fetal positions or presentations, such as transverse lies, which are undeliverable without conversion prior to delivery;</item><item>In obstetrical emergencies where the benefit-torisk ratio for either the fetus or the mother favors surgical intervention;</item><item>In fetal distress where delivery is not imminent;</item><item>Where adequate uterine activity fails to achieve satisfactory progress;</item><item>Where the uterus is already hyperactive or hypertonic;</item><item>In cases where vaginal delivery is contraindicated, such as invasive cervical carcinoma, active herpes genitalis, total placenta previa, vasa previa, and cord presentation or prolapse of the cord;</item><item>In patients with hypersensitivity to the drug.</item></list></text>
+<effectiveTime value="20080110" />
+</section>
+</component>
+<component>
+<section ID="s7">
+<id root="4308CA0B-0347-3B8E-C14A-3ACC42BA14B6" />
+<code code="34071-1" codeSystem="2.16.840.1.113883.6.1" codeSystemName="LOINC" displayName="WARNINGS SECTION" />
+<title>WARNINGS</title>
+<text><paragraph>Oxytocin, when given for induction of labor or augmentation of uterine activity, should be administered only by the intravenous route and with adequate medical supervision in a hospital.</paragraph></text>
+<effectiveTime value="20080110" />
+</section>
+</component>
+<component>
+<section ID="s8">
+<id root="7560BBE3-72DC-FAD8-EE82-C19F3FEC13A7" />
+<code code="42232-9" codeSystem="2.16.840.1.113883.6.1" codeSystemName="LOINC" displayName="PRECAUTIONS SECTION" />
+<title>PRECAUTIONS</title>
+<text />
+<effectiveTime value="20080110" />
+<component>
+<section ID="s8.1">
+<id root="9C93873E-1D32-7ECB-4D5D-3175E42568D9" />
+<code code="34072-9" codeSystem="2.16.840.1.113883.6.1" codeSystemName="LOINC" displayName="GENERAL PRECAUTIONS SECTION" />
+<title>General</title>
+<text><list listType="ordered" styleCode="Arabic"><item>All patients receiving intravenous oxytocin must be under continuous observation by trained personnel who have a thorough knowledge of the drug and are qualified to identify complications. A physician qualified to manage any complications should be immediately available. Electronic fetal monitoring provides the best means for early detection of overdosage (see <linkHtml href="#s19">OVERDOSAGE</linkHtml> section). However, it must be borne in mind that only intrauterine pressure recording can accurately measure the intrauterine pressure during contractions. A fetal scalp electrode provides a more dependable recording of the fetal heart rate than any external monitoring system.</item><item>When properly administered, oxytocin should stimulate uterine contractions comparable to those seen in normal labor. Overstimulation of the uterus by improper administration can be hazardous to both mother and fetus. Even with proper administration and adequate supervision, hypertonic contractions can occur in patients whose uteri are hypersensitive to oxytocin. This fact must be considered by the physician in exercising his judgment regarding patient selection.</item><item>Except in unusual circumstances, oxytocin should not be administered in the following conditions: fetal distress, hydramnios, partial placenta previa, prematurity, borderline cephalopelvic disproportion, and any condition in which there is a predisposition for uterine rupture, such as previous major surgery on the cervix or uterus including cesarean section, overdistention of the uterus, grand multiparity, or past history of uterine sepsis or of traumatic delivery. Because of the variability of the combinations of factors which may be present in the conditions listed above, the definition of &#8220;unusual circumstances&#8221; must be left to the judgment of the physician. The decision can be made only by carefully weighing the potential benefits which oxytocin can provide in a given case against rare but definite potential for the drug to produce hypertonicity or tetanic spasm. </item><item>Maternal deaths due to hypertensive episodes, subarachnoid hemorrhage, rupture of the uterus, and fetal deaths due to various causes have been reported associated with the use of parenteral oxytocic drugs for induction of labor or for augmentation in the first and second stages of labor.</item><item>Oxytocin has been shown to have an intrinsic antidiuretic effect, acting to increase water reabsorption from the glomerular filtrate. Consideration should, therefore, be given to the possibility of water intoxication, particularly when oxytocin is administered continuously by infusion and the patient is receiving fluids by mouth.</item><item>When oxytocin is used for induction or reinforcement of already existent labor, patients should be carefully selected. Pelvic adequacy must be considered and maternal and fetal conditions evaluated before use of the drug.</item></list></text>
+<effectiveTime value="20080110" />
+</section>
+</component>
+<component>
+<section ID="s8.4">
+<id root="78D80982-BA9D-EA5D-35CE-3CB9257C721D" />
+<code code="34073-7" codeSystem="2.16.840.1.113883.6.1" codeSystemName="LOINC" displayName="DRUG INTERACTIONS SECTION" />
+<title>Drug Interactions</title>
+<text><paragraph>Severe hypertension has been reported when oxytocin was given three to four hours following prophylactic administration of a vasoconstrictor in conjunction with caudal block anesthesia. Cyclopropane anesthesia may modify oxytocin&#8217;s cardiovascular effects, so as to produce unexpected results such as hypotension. Maternal sinus bradycardia with abnormal atrioventricular rhythms has also been noted when oxytocin was used concomitantly with cyclopropane anesthesia.</paragraph></text>
+<effectiveTime value="20080110" />
+</section>
+</component>
+<component>
+<section ID="s8.6">
+<id root="7D064957-3258-5CC0-F65F-63CA41F01A50" />
+<code code="34083-6" codeSystem="2.16.840.1.113883.6.1" codeSystemName="LOINC" displayName="CARCINOGENESIS &amp; MUTAGENESIS &amp; IMPAIRMENT OF FERTILITY SECTION" />
+<title>Carcinogenesis, Mutagenesis, Impairment of Fertility</title>
+<text><paragraph>There are no animal or human studies on the carcinogenicity and mutagenicity of this drug, nor is there any information on its effect on fertility. </paragraph></text>
+<effectiveTime value="20080110" />
+</section>
+</component>
+<component>
+<section ID="s8.7">
+<id root="A9AB0A40-3892-4808-5019-CB3C86DC313E" />
+<code code="42228-7" codeSystem="2.16.840.1.113883.6.1" codeSystemName="LOINC" displayName="PREGNANCY SECTION" />
+<title>Pregnancy</title>
+<text />
+<effectiveTime value="20080110" />
+<component>
+<section ID="s8.7.1">
+<id root="4E8D1C36-A5DC-2C35-D6AE-CABDBAE7DCBF" />
+<code code="34077-8" codeSystem="2.16.840.1.113883.6.1" codeSystemName="LOINC" displayName="TERATOGENIC EFFECTS SECTION" />
+<title>Teratogenic Effects</title>
+<text><paragraph>Animal reproduction studies have not been conducted with oxytocin. There are no known indications for use in the first trimester of pregnancy other than in relation to spontaneous or induced abortion. Based on the wide experience with this drug and its chemical structure and pharmacological properties, it would not be expected to present a risk of fetal abnormalities when used as indicated. </paragraph></text>
+<effectiveTime value="20080110" />
+</section>
+</component>
+<component>
+<section ID="s8.7.2">
+<id root="BA61BDF4-27AF-B42E-D129-01A7ECC16D8F" />
+<code code="34078-6" codeSystem="2.16.840.1.113883.6.1" codeSystemName="LOINC" displayName="NONTERATOGENIC EFFECTS SECTION" />
+<title>Nonteratogenic Effects</title>
+<text><paragraph>See <linkHtml href="#s12">ADVERSE REACTIONS</linkHtml> in the fetus or neonate.</paragraph></text>
+<effectiveTime value="20080110" />
+</section>
+</component>
+<component>
+<section ID="s8.7.3">
+<id root="7C17FD82-F867-35A1-559F-A0CB3ED25F13" />
+<code code="34079-4" codeSystem="2.16.840.1.113883.6.1" codeSystemName="LOINC" displayName="LABOR &amp; DELIVERY SECTION" />
+<title>Labor and Delivery</title>
+<text><paragraph>See <linkHtml href="#s5">INDICATIONS AND USAGE</linkHtml> section.</paragraph></text>
+<effectiveTime value="20080110" />
+</section>
+</component>
+</section>
+</component>
+</section>
+</component>
+<component>
+<section ID="s12">
+<id root="22034900-DFF6-2F3C-4FEF-3B2D8B469E0E" />
+<code code="34084-4" codeSystem="2.16.840.1.113883.6.1" codeSystemName="LOINC" displayName="ADVERSE REACTIONS SECTION" />
+<title>ADVERSE REACTIONS</title>
+<text><paragraph>The following adverse reactions have been reported in the mother:</paragraph><list listType="unordered"><item><caption>&#160;</caption>Anaphylactic reaction</item><item><caption>&#160;</caption>Postpartum hemorrhage</item><item><caption>&#160;</caption>Cardiac arrhythmia</item><item><caption>&#160;</caption>Fatal afibrinogenemia</item><item><caption>&#160;</caption>Oxytocin Injection USP</item><item><caption>&#160;</caption>Nausea</item><item><caption>&#160;</caption>Vomiting</item><item><caption>&#160;</caption>Premature ventricular contractions</item><item><caption>&#160;</caption>Pelvic hematoma</item><item><caption>&#160;</caption>Subarachnoid hemorrhage</item><item><caption>&#160;</caption>Hypertensive episodes</item><item><caption>&#160;</caption>Rupture of the uterus</item></list><paragraph>Excessive dosage or hypersensitivity to the drug may result in uterine hypertonicity, spasm, tetanic contraction, or rupture of the uterus.</paragraph><paragraph>The possibility of increased blood loss and afibrinogenemia should be kept in mind when administering the drug. </paragraph><paragraph>Severe water intoxication with convulsions and coma has occurred, associated with a slow oxytocin infusion over a 24-hour period. Maternal death due to oxytocininduced water intoxication has been reported.</paragraph><paragraph>The following adverse reactions have been reported in the fetus or neonate:</paragraph><list listType="unordered"><item><caption>&#160;</caption>Due to induced uterine motility:</item><item><caption>&#160;</caption>Bradycardia</item><item><caption>&#160;</caption>Premature ventricular contractions and other arrhythmias</item><item><caption>&#160;</caption>Permanent CNS or brain damage</item><item><caption>&#160;</caption>Fetal death</item><item><caption>&#160;</caption>Neonatal seizures have been reported with the use of oxytocin.</item><item><caption>&#160;</caption>Due to use of oxytocin in the mother:</item><item><caption>&#160;</caption>Low Apgar scores at five minutes</item><item><caption>&#160;</caption>Neonatal jaundice</item><item><caption>&#160;</caption>Neonatal retinal hemorrhage</item></list></text>
+<effectiveTime value="20080110" />
+</section>
+</component>
+<component>
+<section ID="s19">
+<id root="D5928008-9026-F005-6FFB-0E8BA5A63C89" />
+<code code="34088-5" codeSystem="2.16.840.1.113883.6.1" codeSystemName="LOINC" displayName="OVERDOSAGE SECTION" />
+<title>OVERDOSAGE</title>
+<text><paragraph>Overdosage with oxytocin depends essentially on uterine hyperactivity whether or not due to hypersensitivity to this agent. Hyperstimula-tion with strong (hypertonic) or prolonged (tetanic) contractions, or a resting tone of 15 to 20 mm H<sub>2</sub>O or more between contractions can lead to tumultuous labor, uterine rupture, cervical and vaginal lacerations, postpartum hemorrhage, uteroplacental hypoperfusion, and variable deceleration of fetal heart, fetal hypoxia, hypercapnia, perinatal hepatic necrosis or death. Water intoxication with convulsions, which is caused by the inherent antidiuretic effect of oxytocin, is a serious complication that may occur if large doses (40 to 50 milliunits/minute) are infused for long periods. Management consists of immediate discontinuation of oxytocin and symptomatic and supportive therapy.</paragraph></text>
+<effectiveTime value="20080110" />
+</section>
+</component>
+<component>
+<section ID="s24">
+<id root="D1DCAC00-2FFB-380E-72F9-F58449D6C6A5" />
+<code code="34068-7" codeSystem="2.16.840.1.113883.6.1" codeSystemName="LOINC" displayName="DOSAGE &amp; ADMINISTRATION SECTION" />
+<title>DOSAGE AND ADMINISTRATION</title>
+<text><paragraph>Parenteral drug products should be inspected visually for particulate matter and discoloration prior to administration whenever solution and container permit.</paragraph><paragraph>The dosage of oxytocin is determined by the uterine response and must therefore be individualized and initiated at a very low level. The following dosage information is based upon various regimens and indications in general use.</paragraph><list listType="ordered" styleCode="BigAlpha"><item><content styleCode="bold">Induction or Stimulation of Labor</content><br />							Intravenous infusion (drip method) is the only acceptable method of parenteral administration of oxytocin for the induction or stimulation of labor. Accurate control of the rate of infusion is essential and is best accomplished by an infusion pump. It is convenient to piggyback the ocytocin infusion on a physiologic electrolyte solution, permitting the oxytocin infusion to be stopped abruptly without interrupting the electrolyte infusion. This is done in the following way. <list listType="ordered" styleCode="Arabic"><item><content styleCode="bold">Preparation</content><list listType="ordered" styleCode="LittleAlpha"><item>The standard solution for infusion of oxytocin is prepared by adding the contents of one 1-mL vial containing 10 units of oxytocin to 1000 mL of 0.9% aqueous sodium chloride or Ringer&#8217;s lactate. The combined solution containing 10 milliunits (mU) of oxytocin/mL is rotated in the infusion bottle for thorough mixing.</item><item>Establish the infusion with a separate bottle of physiologic electrolyte solution not cotaining oxytocin.</item><item>Attach (piggyback) the oxytocin-containing bottle with the infusion pump to the infusion line as close to the infusion site as possible.</item></list></item><item><content styleCode="bold">Administration</content><br />
+									The initial dose should be 0.5&#8211;1 mU/min (equal to 3&#8211;6 mL of the dilute oxytocin solution per hour). At 30&#8211;60 minute intervals the dose should be gradually increased in increments of 1&#8211;2 mU/min until the desired contraction pattern has been established. Once the desired frequency of contractions has been reached and labor has progressed to 5&#8211;6 cm dilation, the dose may be reduced by similar increments.<br />
+									Studies of the concentrations of oxytocin in the maternal plasma during oxytocin infusion have shown that infusion rates up to 6 mU/min give the same oxytocin levels that are found in spontaneous labor. At term, higher infusion rates should be given with great care, and rates exceeding 9&#8211;10 mU/min are rarely required. Before term, when the sensitivity of the uterus is lower because of a lower concentration of oxytocin receptors, a higher infusion rate may be required.</item><item><content styleCode="bold">Monitoring</content><list listType="ordered" styleCode="LittleAlpha"><item>Electronically monitor the uterine activity and the fetal heart rate throughout the infusion of oxytocin. Attention should be given to tonus, amplitude and frequency of contractions, and to the fetal heart rate in relation to uterine contractions. If uterine contractions become too powerful, the infusion can be abruptly stopped, and oxytocic stimulation of the uterine musculature will soon wane (see <linkHtml href="#s8">PRECAUTIONS</linkHtml> section).</item><item>Discontinue the infusion of oxytocin immediately in the event of uterine hyperactivity and/or fetal distress. Administer oxygen to the mother, who preferably should be put in a lateral position. The condition of mother and fetus should immediately be evaluated by the responsible physician and appropriate steps taken.</item></list></item></list></item><item><content styleCode="bold">Control of Postpartum Uterine Bleeding</content><list listType="ordered" styleCode="Arabic"><item>Intravenous infusion (drip method). If the patient has an intravenous infusion running, 10 to 40 units of oxytocin may be added to the bottle, depending on the amount of electrolyte or dextrose solution remaining (maximum 40 units to 1000 mL). Adjust the infusion rate to sustain uterine contraction and control uterine atony.</item><item>Intramuscular administration. (One mL) Ten (10) units of oxytocin can be given after the delivery of the placenta.</item></list></item><item><content styleCode="bold">Treatment of Incomplete, Inevitable, or Elective Abortion</content><br />
+							Intravenous infusion of 10 units of oxytocin added to 500 mL of a physiologic saline solution or 5% dextrose-in-water solution may help the uterus contract after a suction or sharp curettagefor an incomplete, inevitable, or elective abortion. Subsequent to intra-amniotic injection of hypertonic saline, prostaglandins, urea, etc., for midtrimester elective abortion, the injection-toabortion time may be shortened by infusion of oxytocin at the rate of 10 to 20 milliunits (20 to 40 drops) per minute. The total dose should not exceed 30 units in a 12-hour period due to the risk of water intoxication.</item></list></text>
+<effectiveTime value="20080110" />
+</section>
+</component>
+<component>
+<section ID="s25">
+<id root="4EA42FFC-AB6D-8002-50F3-E5098BDA27FD" />
+<code code="34069-5" codeSystem="2.16.840.1.113883.6.1" codeSystemName="LOINC" displayName="HOW SUPPLIED SECTION" />
+<title>HOW SUPPLIED</title>
+<text><paragraph>Oxytocin Injection USP Synthetic is available as follows:<br />
+						NDC 0591-3553-69 Packages of twenty-five oversized 1-mL vials, each containing 10 units of oxytocin.</paragraph></text>
+<effectiveTime value="20080110" />
+</section>
+</component>
+<component>
+<section ID="s26">
+<id root="D09B8131-D086-77F8-CF52-915DC762B4D7" />
+<code code="44425-7" codeSystem="2.16.840.1.113883.6.1" codeSystemName="LOINC" displayName="STORAGE AND HANDLING SECTION" />
+<title>STORAGE</title>
+<text><paragraph>Store at 2&#176;&#8211;8&#176;C (36&#176;&#8211;46&#176;F). May be held at 15&#176;&#8211;25&#176;C (59&#176;&#8211;77&#176;F) for up to 30 days. Discard after holding at 15&#176;&#8211;25&#176;C (59&#176;&#8211;77&#176;F).</paragraph></text>
+<effectiveTime value="20080110" />
+</section>
+</component>
+<component>
+<section ID="s27">
+<id root="BC7DC683-C525-297A-29B7-741826814045" />
+<code code="34093-5" codeSystem="2.16.840.1.113883.6.1" codeSystemName="LOINC" displayName="REFERENCES SECTION" />
+<title>REFERENCES</title>
+<text><list listType="ordered" styleCode="Arabic"><item>Seitchik J, Castillo M: Oxytocin augmentation of dysfunctional labor. I. Clinical data. <content styleCode="italics">Am J Obstet Gynecol</content> 1982; 144:899&#8211;905.</item><item>Seitchik J, Castillo M: Oxytocin augmentation of dysfunctional labor. II. Multiparous patients. <content styleCode="italics">Am J Obstet Gynecol</content> 1983; 145:777&#8211;780.</item><item>Fuchs A, Goeschen K, Husslein P, et al: Oxytocin and the initiation of human parturition. III. Plasma concentrations of oxytocin and 13, 14-dihydro-15-keto-prostaglandin F2a in spontaneous and oxytocin-induced labor at term. <content styleCode="italics">Am J Obstet Gynecol</content> 1983; 145:497&#8211;502.</item><item>Seitchik J, Amico J, et al: Oxytocin augmentation of dysfunctional labor. IV. Oxytocin pharmacokinetics. <content styleCode="italics">Am J Obstet Gynecol</content> 1984; 150:225&#8211;228.</item><item>American College of Obstetricians and Gynecologists: ACOG Technical Bulletin Number 110&#8212;November 1987: Induction and augmentation of labor.</item></list></text>
+<effectiveTime value="20080110" />
+</section>
+</component>
+<component>
+<section ID="s28">
+<id root="C6F1BA7B-5661-AAA7-4C66-7065C2E2EF42" />
+<code code="42229-5" codeSystem="2.16.840.1.113883.6.1" codeSystemName="LOINC" displayName="SPL UNCLASSIFIED SECTION" />
+<title />
+<text><paragraph><content styleCode="bold">Distributed by:</content><br />
+						Watson Laboratories, Inc.<br />
+						Corona, CA 92880 USA</paragraph><paragraph><content styleCode="bold">Manufactured by:</content><br />
+						Parkedale Pharmaceuticals, Inc.<br />
+						Rochester, MI 48307<br />
+						Prescribing Information as of July 2006.<br />
+						3001032</paragraph></text>
+<effectiveTime value="20080110" />
+</section>
+</component>
+</structuredBody>
+</component>
+</document>

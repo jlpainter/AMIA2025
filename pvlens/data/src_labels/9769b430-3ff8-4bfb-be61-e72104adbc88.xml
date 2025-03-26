@@ -1,0 +1,2270 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet href="https://www.accessdata.fda.gov/spl/stylesheet/spl.xsl" type="text/xsl"?>
+<document xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:hl7-org:v3 https://www.accessdata.fda.gov/spl/schema/spl.xsd">
+   <id root="9769b430-3ff8-4bfb-be61-e72104adbc88"/>
+   <code code="34391-3" codeSystem="2.16.840.1.113883.6.1" displayName="HUMAN PRESCRIPTION DRUG LABEL"/>
+   <title>These highlights do not include all the information needed to use FOCALIN safely and effectively. See full prescribing information for FOCALIN.<br/>
+      <br/>FOCALIN<sup>®</sup> (dexmethylphenidate hydrochloride) tablets, for oral use, CII<br/>Initial U.S. Approval: 2001<br/>
+   </title>
+   <effectiveTime value="20231013"/>
+   <setId root="7c552f11-e24a-4d9b-bb8d-be10c928eca8"/>
+   <versionNumber value="27"/>
+   <author>
+      <time/>
+      <assignedEntity>
+         <representedOrganization>
+            <id extension="002147023" root="1.3.6.1.4.1.519.1"/>
+            <name>Novartis Pharmaceuticals Corporation</name>
+            <assignedEntity>
+               <assignedOrganization/>
+            </assignedEntity>
+         </representedOrganization>
+      </assignedEntity>
+   </author>
+   <component>
+      <structuredBody>
+         <component>
+            <section>
+               <id root="bf171cd3-6643-4ccf-8424-f48fce062525"/>
+               <code code="48780-1" codeSystem="2.16.840.1.113883.6.1" displayName="SPL product data elements section"/>
+               <effectiveTime value="20231013"/>
+               <subject>
+                  <manufacturedProduct>
+                     <manufacturedProduct>
+                        <code code="0078-0380" codeSystem="2.16.840.1.113883.6.69"/>
+                        <name>Focalin</name>
+                        <formCode code="C42998" codeSystem="2.16.840.1.113883.3.26.1.1" displayName="TABLET"/>
+                        <asEntityWithGeneric>
+                           <genericMedicine>
+                              <name>dexmethylphenidate hydrochloride</name>
+                           </genericMedicine>
+                        </asEntityWithGeneric>
+                        <ingredient classCode="ACTIB">
+                           <quantity>
+                              <numerator unit="mg" value="2.5"/>
+                              <denominator unit="1" value="1"/>
+                           </quantity>
+                           <ingredientSubstance>
+                              <code code="1678OK0E08" codeSystem="2.16.840.1.113883.4.9"/>
+                              <name>DEXMETHYLPHENIDATE HYDROCHLORIDE</name>
+                              <activeMoiety>
+                                 <activeMoiety>
+                                    <code code="M32RH9MFGP" codeSystem="2.16.840.1.113883.4.9"/>
+                                    <name>DEXMETHYLPHENIDATE</name>
+                                 </activeMoiety>
+                              </activeMoiety>
+                           </ingredientSubstance>
+                        </ingredient>
+                        <ingredient classCode="IACT">
+                           <ingredientSubstance>
+                              <code code="H3R47K3TBD" codeSystem="2.16.840.1.113883.4.9"/>
+                              <name>FD&amp;C BLUE NO. 1</name>
+                           </ingredientSubstance>
+                        </ingredient>
+                        <ingredient classCode="IACT">
+                           <ingredientSubstance>
+                              <code code="EWQ57Q8I5X" codeSystem="2.16.840.1.113883.4.9"/>
+                              <name>LACTOSE MONOHYDRATE</name>
+                           </ingredientSubstance>
+                        </ingredient>
+                        <ingredient classCode="IACT">
+                           <ingredientSubstance>
+                              <code code="70097M6I30" codeSystem="2.16.840.1.113883.4.9"/>
+                              <name>MAGNESIUM STEARATE</name>
+                           </ingredientSubstance>
+                        </ingredient>
+                        <ingredient classCode="IACT">
+                           <ingredientSubstance>
+                              <code code="OP1R32D61U" codeSystem="2.16.840.1.113883.4.9"/>
+                              <name>MICROCRYSTALLINE CELLULOSE</name>
+                           </ingredientSubstance>
+                        </ingredient>
+                        <ingredient classCode="IACT">
+                           <ingredientSubstance>
+                              <code code="O8232NY3SJ" codeSystem="2.16.840.1.113883.4.9"/>
+                              <name>STARCH, CORN</name>
+                           </ingredientSubstance>
+                        </ingredient>
+                        <ingredient classCode="IACT">
+                           <ingredientSubstance>
+                              <code code="5856J3G2A2" codeSystem="2.16.840.1.113883.4.9"/>
+                              <name>SODIUM STARCH GLYCOLATE TYPE A POTATO</name>
+                           </ingredientSubstance>
+                        </ingredient>
+                        <asContent>
+                           <quantity>
+                              <numerator unit="1" value="100"/>
+                              <denominator value="1"/>
+                           </quantity>
+                           <containerPackagedProduct>
+                              <code code="0078-0380-05" codeSystem="2.16.840.1.113883.6.69"/>
+                              <formCode code="C43169" codeSystem="2.16.840.1.113883.3.26.1.1" displayName="BOTTLE"/>
+                           </containerPackagedProduct>
+                           <subjectOf>
+                              <marketingAct>
+                                 <code code="C53292" codeSystem="2.16.840.1.113883.3.26.1.1"/>
+                                 <statusCode code="active"/>
+                                 <effectiveTime>
+                                    <low value="20011130"/>
+                                 </effectiveTime>
+                              </marketingAct>
+                           </subjectOf>
+                           <subjectOf>
+                              <characteristic classCode="OBS">
+                                 <code code="SPLCMBPRDTP" codeSystem="2.16.840.1.113883.1.11.19255"/>
+                                 <value code="C112160" codeSystem="2.16.840.1.113883.3.26.1.1" displayName="Type 0: Not a Combination Product" xsi:type="CE"/>
+                              </characteristic>
+                           </subjectOf>
+                        </asContent>
+                     </manufacturedProduct>
+                     <subjectOf>
+                        <approval>
+                           <id extension="NDA021278" root="2.16.840.1.113883.3.150"/>
+                           <code code="C73594" codeSystem="2.16.840.1.113883.3.26.1.1" displayName="NDA"/>
+                           <author>
+                              <territorialAuthority>
+                                 <territory>
+                                    <code code="USA" codeSystem="2.16.840.1.113883.5.28"/>
+                                 </territory>
+                              </territorialAuthority>
+                           </author>
+                        </approval>
+                     </subjectOf>
+                     <subjectOf>
+                        <marketingAct>
+                           <code code="C53292" codeSystem="2.16.840.1.113883.3.26.1.1"/>
+                           <statusCode code="active"/>
+                           <effectiveTime>
+                              <low value="20011130"/>
+                           </effectiveTime>
+                        </marketingAct>
+                     </subjectOf>
+                     <subjectOf>
+                        <policy classCode="DEADrugSchedule">
+                           <code code="C48675" codeSystem="2.16.840.1.113883.3.26.1.1" displayName="CII"/>
+                        </policy>
+                     </subjectOf>
+                     <subjectOf>
+                        <characteristic classCode="OBS">
+                           <code code="SPLCOLOR" codeSystem="2.16.840.1.113883.1.11.19255"/>
+                           <value code="C48333" codeSystem="2.16.840.1.113883.3.26.1.1" displayName="BLUE" xsi:type="CE">
+                              <originalText>Blue</originalText>
+                           </value>
+                        </characteristic>
+                     </subjectOf>
+                     <subjectOf>
+                        <characteristic classCode="OBS">
+                           <code code="SPLSIZE" codeSystem="2.16.840.1.113883.1.11.19255"/>
+                           <value unit="mm" value="18" xsi:type="PQ"/>
+                        </characteristic>
+                     </subjectOf>
+                     <subjectOf>
+                        <characteristic classCode="OBS">
+                           <code code="SPLSHAPE" codeSystem="2.16.840.1.113883.1.11.19255"/>
+                           <value code="C48340" codeSystem="2.16.840.1.113883.3.26.1.1" displayName="FREEFORM" xsi:type="CE">
+                              <originalText>D-shaped</originalText>
+                           </value>
+                        </characteristic>
+                     </subjectOf>
+                     <subjectOf>
+                        <characteristic classCode="OBS">
+                           <code code="SPLSCORE" codeSystem="2.16.840.1.113883.1.11.19255"/>
+                           <value value="1" xsi:type="INT"/>
+                        </characteristic>
+                     </subjectOf>
+                     <consumedIn>
+                        <substanceAdministration>
+                           <routeCode code="C38288" codeSystem="2.16.840.1.113883.3.26.1.1" displayName="ORAL"/>
+                        </substanceAdministration>
+                     </consumedIn>
+                  </manufacturedProduct>
+               </subject>
+               <subject>
+                  <manufacturedProduct>
+                     <manufacturedProduct>
+                        <code code="0078-0381" codeSystem="2.16.840.1.113883.6.69"/>
+                        <name>Focalin</name>
+                        <formCode code="C42998" codeSystem="2.16.840.1.113883.3.26.1.1" displayName="TABLET"/>
+                        <asEntityWithGeneric>
+                           <genericMedicine>
+                              <name>dexmethylphenidate hydrochloride</name>
+                           </genericMedicine>
+                        </asEntityWithGeneric>
+                        <ingredient classCode="ACTIB">
+                           <quantity>
+                              <numerator unit="mg" value="5"/>
+                              <denominator unit="1" value="1"/>
+                           </quantity>
+                           <ingredientSubstance>
+                              <code code="1678OK0E08" codeSystem="2.16.840.1.113883.4.9"/>
+                              <name>DEXMETHYLPHENIDATE HYDROCHLORIDE</name>
+                              <activeMoiety>
+                                 <activeMoiety>
+                                    <code code="M32RH9MFGP" codeSystem="2.16.840.1.113883.4.9"/>
+                                    <name>DEXMETHYLPHENIDATE</name>
+                                 </activeMoiety>
+                              </activeMoiety>
+                           </ingredientSubstance>
+                        </ingredient>
+                        <ingredient classCode="IACT">
+                           <ingredientSubstance>
+                              <code code="35SW5USQ3G" codeSystem="2.16.840.1.113883.4.9"/>
+                              <name>D&amp;C YELLOW NO. 10</name>
+                           </ingredientSubstance>
+                        </ingredient>
+                        <ingredient classCode="IACT">
+                           <ingredientSubstance>
+                              <code code="EWQ57Q8I5X" codeSystem="2.16.840.1.113883.4.9"/>
+                              <name>LACTOSE MONOHYDRATE</name>
+                           </ingredientSubstance>
+                        </ingredient>
+                        <ingredient classCode="IACT">
+                           <ingredientSubstance>
+                              <code code="70097M6I30" codeSystem="2.16.840.1.113883.4.9"/>
+                              <name>MAGNESIUM STEARATE</name>
+                           </ingredientSubstance>
+                        </ingredient>
+                        <ingredient classCode="IACT">
+                           <ingredientSubstance>
+                              <code code="OP1R32D61U" codeSystem="2.16.840.1.113883.4.9"/>
+                              <name>MICROCRYSTALLINE CELLULOSE</name>
+                           </ingredientSubstance>
+                        </ingredient>
+                        <ingredient classCode="IACT">
+                           <ingredientSubstance>
+                              <code code="O8232NY3SJ" codeSystem="2.16.840.1.113883.4.9"/>
+                              <name>STARCH, CORN</name>
+                           </ingredientSubstance>
+                        </ingredient>
+                        <ingredient classCode="IACT">
+                           <ingredientSubstance>
+                              <code code="5856J3G2A2" codeSystem="2.16.840.1.113883.4.9"/>
+                              <name>SODIUM STARCH GLYCOLATE TYPE A POTATO</name>
+                           </ingredientSubstance>
+                        </ingredient>
+                        <asContent>
+                           <quantity>
+                              <numerator unit="1" value="100"/>
+                              <denominator value="1"/>
+                           </quantity>
+                           <containerPackagedProduct>
+                              <code code="0078-0381-05" codeSystem="2.16.840.1.113883.6.69"/>
+                              <formCode code="C43169" codeSystem="2.16.840.1.113883.3.26.1.1" displayName="BOTTLE"/>
+                           </containerPackagedProduct>
+                           <subjectOf>
+                              <marketingAct>
+                                 <code code="C53292" codeSystem="2.16.840.1.113883.3.26.1.1"/>
+                                 <statusCode code="active"/>
+                                 <effectiveTime>
+                                    <low value="20011130"/>
+                                 </effectiveTime>
+                              </marketingAct>
+                           </subjectOf>
+                           <subjectOf>
+                              <characteristic classCode="OBS">
+                                 <code code="SPLCMBPRDTP" codeSystem="2.16.840.1.113883.1.11.19255"/>
+                                 <value code="C112160" codeSystem="2.16.840.1.113883.3.26.1.1" displayName="Type 0: Not a Combination Product" xsi:type="CE"/>
+                              </characteristic>
+                           </subjectOf>
+                        </asContent>
+                     </manufacturedProduct>
+                     <subjectOf>
+                        <approval>
+                           <id extension="NDA021278" root="2.16.840.1.113883.3.150"/>
+                           <code code="C73594" codeSystem="2.16.840.1.113883.3.26.1.1" displayName="NDA"/>
+                           <author>
+                              <territorialAuthority>
+                                 <territory>
+                                    <code code="USA" codeSystem="2.16.840.1.113883.5.28"/>
+                                 </territory>
+                              </territorialAuthority>
+                           </author>
+                        </approval>
+                     </subjectOf>
+                     <subjectOf>
+                        <marketingAct>
+                           <code code="C53292" codeSystem="2.16.840.1.113883.3.26.1.1"/>
+                           <statusCode code="active"/>
+                           <effectiveTime>
+                              <low value="20011130"/>
+                           </effectiveTime>
+                        </marketingAct>
+                     </subjectOf>
+                     <subjectOf>
+                        <policy classCode="DEADrugSchedule">
+                           <code code="C48675" codeSystem="2.16.840.1.113883.3.26.1.1" displayName="CII"/>
+                        </policy>
+                     </subjectOf>
+                     <subjectOf>
+                        <characteristic classCode="OBS">
+                           <code code="SPLCOLOR" codeSystem="2.16.840.1.113883.1.11.19255"/>
+                           <value code="C48330" codeSystem="2.16.840.1.113883.3.26.1.1" displayName="YELLOW" xsi:type="CE"/>
+                        </characteristic>
+                     </subjectOf>
+                     <subjectOf>
+                        <characteristic classCode="OBS">
+                           <code code="SPLSIZE" codeSystem="2.16.840.1.113883.1.11.19255"/>
+                           <value unit="mm" value="18" xsi:type="PQ"/>
+                        </characteristic>
+                     </subjectOf>
+                     <subjectOf>
+                        <characteristic classCode="OBS">
+                           <code code="SPLSHAPE" codeSystem="2.16.840.1.113883.1.11.19255"/>
+                           <value code="C48340" codeSystem="2.16.840.1.113883.3.26.1.1" displayName="FREEFORM" xsi:type="CE">
+                              <originalText>D-shaped</originalText>
+                           </value>
+                        </characteristic>
+                     </subjectOf>
+                     <subjectOf>
+                        <characteristic classCode="OBS">
+                           <code code="SPLSCORE" codeSystem="2.16.840.1.113883.1.11.19255"/>
+                           <value value="1" xsi:type="INT"/>
+                        </characteristic>
+                     </subjectOf>
+                     <subjectOf>
+                        <characteristic classCode="OBS">
+                           <code code="SPLIMPRINT" codeSystem="2.16.840.1.113883.1.11.19255"/>
+                           <value xsi:type="ST">D;5</value>
+                        </characteristic>
+                     </subjectOf>
+                     <consumedIn>
+                        <substanceAdministration>
+                           <routeCode code="C38288" codeSystem="2.16.840.1.113883.3.26.1.1" displayName="ORAL"/>
+                        </substanceAdministration>
+                     </consumedIn>
+                  </manufacturedProduct>
+               </subject>
+               <subject>
+                  <manufacturedProduct>
+                     <manufacturedProduct>
+                        <code code="0078-0382" codeSystem="2.16.840.1.113883.6.69"/>
+                        <name>Focalin</name>
+                        <formCode code="C42998" codeSystem="2.16.840.1.113883.3.26.1.1" displayName="TABLET"/>
+                        <asEntityWithGeneric>
+                           <genericMedicine>
+                              <name>dexmethylphenidate hydrochloride</name>
+                           </genericMedicine>
+                        </asEntityWithGeneric>
+                        <ingredient classCode="ACTIB">
+                           <quantity>
+                              <numerator unit="mg" value="10"/>
+                              <denominator unit="1" value="1"/>
+                           </quantity>
+                           <ingredientSubstance>
+                              <code code="1678OK0E08" codeSystem="2.16.840.1.113883.4.9"/>
+                              <name>DEXMETHYLPHENIDATE HYDROCHLORIDE</name>
+                              <activeMoiety>
+                                 <activeMoiety>
+                                    <code code="M32RH9MFGP" codeSystem="2.16.840.1.113883.4.9"/>
+                                    <name>DEXMETHYLPHENIDATE</name>
+                                 </activeMoiety>
+                              </activeMoiety>
+                           </ingredientSubstance>
+                        </ingredient>
+                        <ingredient classCode="IACT">
+                           <ingredientSubstance>
+                              <code code="EWQ57Q8I5X" codeSystem="2.16.840.1.113883.4.9"/>
+                              <name>LACTOSE MONOHYDRATE</name>
+                           </ingredientSubstance>
+                        </ingredient>
+                        <ingredient classCode="IACT">
+                           <ingredientSubstance>
+                              <code code="70097M6I30" codeSystem="2.16.840.1.113883.4.9"/>
+                              <name>MAGNESIUM STEARATE</name>
+                           </ingredientSubstance>
+                        </ingredient>
+                        <ingredient classCode="IACT">
+                           <ingredientSubstance>
+                              <code code="OP1R32D61U" codeSystem="2.16.840.1.113883.4.9"/>
+                              <name>MICROCRYSTALLINE CELLULOSE</name>
+                           </ingredientSubstance>
+                        </ingredient>
+                        <ingredient classCode="IACT">
+                           <ingredientSubstance>
+                              <code code="O8232NY3SJ" codeSystem="2.16.840.1.113883.4.9"/>
+                              <name>STARCH, CORN</name>
+                           </ingredientSubstance>
+                        </ingredient>
+                        <ingredient classCode="IACT">
+                           <ingredientSubstance>
+                              <code code="5856J3G2A2" codeSystem="2.16.840.1.113883.4.9"/>
+                              <name>SODIUM STARCH GLYCOLATE TYPE A POTATO</name>
+                           </ingredientSubstance>
+                        </ingredient>
+                        <asContent>
+                           <quantity>
+                              <numerator unit="1" value="100"/>
+                              <denominator value="1"/>
+                           </quantity>
+                           <containerPackagedProduct>
+                              <code code="0078-0382-05" codeSystem="2.16.840.1.113883.6.69"/>
+                              <formCode code="C43169" codeSystem="2.16.840.1.113883.3.26.1.1" displayName="BOTTLE"/>
+                           </containerPackagedProduct>
+                           <subjectOf>
+                              <marketingAct>
+                                 <code code="C53292" codeSystem="2.16.840.1.113883.3.26.1.1"/>
+                                 <statusCode code="active"/>
+                                 <effectiveTime>
+                                    <low value="20011130"/>
+                                 </effectiveTime>
+                              </marketingAct>
+                           </subjectOf>
+                           <subjectOf>
+                              <characteristic classCode="OBS">
+                                 <code code="SPLCMBPRDTP" codeSystem="2.16.840.1.113883.1.11.19255"/>
+                                 <value code="C112160" codeSystem="2.16.840.1.113883.3.26.1.1" displayName="Type 0: Not a Combination Product" xsi:type="CE"/>
+                              </characteristic>
+                           </subjectOf>
+                        </asContent>
+                     </manufacturedProduct>
+                     <subjectOf>
+                        <approval>
+                           <id extension="NDA021278" root="2.16.840.1.113883.3.150"/>
+                           <code code="C73594" codeSystem="2.16.840.1.113883.3.26.1.1" displayName="NDA"/>
+                           <author>
+                              <territorialAuthority>
+                                 <territory>
+                                    <code code="USA" codeSystem="2.16.840.1.113883.5.28"/>
+                                 </territory>
+                              </territorialAuthority>
+                           </author>
+                        </approval>
+                     </subjectOf>
+                     <subjectOf>
+                        <marketingAct>
+                           <code code="C53292" codeSystem="2.16.840.1.113883.3.26.1.1"/>
+                           <statusCode code="active"/>
+                           <effectiveTime>
+                              <low value="20011130"/>
+                           </effectiveTime>
+                        </marketingAct>
+                     </subjectOf>
+                     <subjectOf>
+                        <policy classCode="DEADrugSchedule">
+                           <code code="C48675" codeSystem="2.16.840.1.113883.3.26.1.1" displayName="CII"/>
+                        </policy>
+                     </subjectOf>
+                     <subjectOf>
+                        <characteristic classCode="OBS">
+                           <code code="SPLCOLOR" codeSystem="2.16.840.1.113883.1.11.19255"/>
+                           <value code="C48325" codeSystem="2.16.840.1.113883.3.26.1.1" displayName="WHITE" xsi:type="CE"/>
+                        </characteristic>
+                     </subjectOf>
+                     <subjectOf>
+                        <characteristic classCode="OBS">
+                           <code code="SPLSIZE" codeSystem="2.16.840.1.113883.1.11.19255"/>
+                           <value unit="mm" value="18" xsi:type="PQ"/>
+                        </characteristic>
+                     </subjectOf>
+                     <subjectOf>
+                        <characteristic classCode="OBS">
+                           <code code="SPLSHAPE" codeSystem="2.16.840.1.113883.1.11.19255"/>
+                           <value code="C48340" codeSystem="2.16.840.1.113883.3.26.1.1" displayName="FREEFORM" xsi:type="CE">
+                              <originalText>D-shaped</originalText>
+                           </value>
+                        </characteristic>
+                     </subjectOf>
+                     <subjectOf>
+                        <characteristic classCode="OBS">
+                           <code code="SPLSCORE" codeSystem="2.16.840.1.113883.1.11.19255"/>
+                           <value value="1" xsi:type="INT"/>
+                        </characteristic>
+                     </subjectOf>
+                     <subjectOf>
+                        <characteristic classCode="OBS">
+                           <code code="SPLIMPRINT" codeSystem="2.16.840.1.113883.1.11.19255"/>
+                           <value xsi:type="ST">D;10</value>
+                        </characteristic>
+                     </subjectOf>
+                     <consumedIn>
+                        <substanceAdministration>
+                           <routeCode code="C38288" codeSystem="2.16.840.1.113883.3.26.1.1" displayName="ORAL"/>
+                        </substanceAdministration>
+                     </consumedIn>
+                  </manufacturedProduct>
+               </subject>
+            </section>
+         </component>
+         <component>
+            <section ID="ID_9044ad13-fa81-416c-bf28-19b88b4bfadc">
+               <id root="e94cf4ef-aafa-466c-928b-aca666be41cc"/>
+               <code code="43683-2" codeSystem="2.16.840.1.113883.6.1" displayName="RECENT MAJOR CHANGES SECTION"/>
+               <effectiveTime value="20231013"/>
+               <excerpt>
+                  <highlight>
+                     <text>
+                        <paragraph/>
+                        <paragraph>Boxed Warning                                                                 10/2023</paragraph>
+                        <paragraph>Dosage and Administration (<linkHtml href="#s2p1">2.1</linkHtml>, <linkHtml href="#s2p2">2.2</linkHtml>)                               10/2023</paragraph>
+                        <paragraph>Warnings and Precautions (<linkHtml href="#s5p1">5.1</linkHtml>, <linkHtml href="#s5p2">5.2</linkHtml>, <linkHtml href="#ID_8cd2a8ae-cbfb-4f98-bc3e-d8faa54bb7b0">5.8</linkHtml>, <linkHtml href="#ID_a862d332-81bb-416f-af74-92be0c431e26">5.9</linkHtml>, <linkHtml href="#ID_3777f536-742c-460c-9ed8-c368ca11ca53">5.10</linkHtml>)          10/2023</paragraph>
+                     </text>
+                  </highlight>
+               </excerpt>
+            </section>
+         </component>
+         <component>
+            <section ID="ID_efd4b9b5-7853-4784-a3ff-5a1596f8aae8">
+               <id root="3075b244-8899-45e1-88bc-1c086c19028b"/>
+               <code code="34066-1" codeSystem="2.16.840.1.113883.6.1" displayName="Boxed Warning section"/>
+               <title>
+                  <content styleCode="xmChange">WARNING: ABUSE, MISUSE, AND ADDICTION</content>
+               </title>
+               <text>
+                  <paragraph>
+                     <content styleCode="xmChange">
+                        <content styleCode="bold">Focalin has a high potential for abuse and misuse, which can lead to the development of a substance use disorder, including addiction. Misuse and abuse of CNS stimulants, including Focalin, can result in overdose and death <content styleCode="italics">[see Overdosage (<linkHtml href="#s10">10</linkHtml>)]</content>, and this risk is increased with higher doses or unapproved methods of administration, such as snorting or injection.</content>
+                     </content>
+                  </paragraph>
+                  <paragraph>
+                     <content styleCode="xmChange">
+                        <content styleCode="bold">Before prescribing Focalin, assess each patient’s risk for abuse, misuse, and addiction. Educate patients and their families about these risks, proper storage of the drug, and proper disposal of any unused drug. Throughout Focalin treatment, reassess each patient’s risk of abuse, misuse, and addiction and frequently monitor for signs and symptoms of abuse, misuse, and addiction <content styleCode="italics">[see Warnings and Precautions (<linkHtml href="#s5p1">5.1</linkHtml>) and Drug Abuse and Dependence (<linkHtml href="#s9p2">9.2</linkHtml>)]</content>.</content>
+                     </content>
+                  </paragraph>
+               </text>
+               <effectiveTime value="20231013"/>
+               <excerpt>
+                  <highlight>
+                     <text>
+                        <paragraph>WARNING: ABUSE, MISUSE AND ADDICTION</paragraph>
+                        <paragraph>
+                           <content styleCode="bold">
+                              <content styleCode="italics">See full prescribing information for complete boxed warning.</content>
+                           </content>
+                        </paragraph>
+                        <paragraph>
+                           <content styleCode="bold">Focalin has a high potential for abuse and misuse, which can lead to the development of a substance use disorder, including addiction. Misuse and abuse of CNS stimulants, including Focalin, can result in overdose and death (<linkHtml href="#s5p1">5.1</linkHtml>, <linkHtml href="#s9p2">9.2</linkHtml>, <linkHtml href="#s10">10</linkHtml>):</content>
+                        </paragraph>
+                        <list listType="unordered">
+                           <item>
+                              <caption>•</caption>
+                              <content styleCode="bold">Before prescribing Focalin, assess each patient’s risk for abuse, misuse, and addiction.</content>
+                           </item>
+                           <item>
+                              <caption>•</caption>
+                              <content styleCode="bold">Educate patients and their families about these risks, proper storage of the drug, and proper disposal of any unused drug.</content>
+                           </item>
+                           <item>
+                              <caption>•</caption>
+                              <content styleCode="bold">Throughout treatment, reassess each patient’s risk and frequently monitor for signs and symptoms of abuse, misuse, and addiction.</content>
+                           </item>
+                        </list>
+                     </text>
+                  </highlight>
+               </excerpt>
+            </section>
+         </component>
+         <component>
+            <section ID="s1">
+               <id root="322a8dd1-17c5-484c-8ecc-16a2c42d6066"/>
+               <code code="34067-9" codeSystem="2.16.840.1.113883.6.1" displayName="INDICATIONS &amp; USAGE SECTION"/>
+               <title>1     INDICATIONS AND USAGE</title>
+               <text>
+                  <paragraph>Focalin is indicated for the treatment of Attention Deficit Hyperactivity Disorder (ADHD) <content styleCode="italics">[see Clinical Studies (<linkHtml href="#s14">14</linkHtml>)]</content>.</paragraph>
+               </text>
+               <effectiveTime value="20231013"/>
+               <excerpt>
+                  <highlight>
+                     <text>
+                        <paragraph>Focalin is a central nervous system (CNS) stimulant indicated for the treatment of Attention Deficit Hyperactivity Disorder (ADHD) (<linkHtml href="#s1">1</linkHtml>).</paragraph>
+                     </text>
+                  </highlight>
+               </excerpt>
+            </section>
+         </component>
+         <component>
+            <section ID="s2">
+               <id root="1e257747-5765-4bd9-830a-ecad5e9b4f53"/>
+               <code code="34068-7" codeSystem="2.16.840.1.113883.6.1" displayName="DOSAGE &amp; ADMINISTRATION SECTION"/>
+               <title>2     DOSAGE AND ADMINISTRATION</title>
+               <effectiveTime value="20231013"/>
+               <excerpt>
+                  <highlight>
+                     <text>
+                        <list listType="unordered">
+                           <item>
+                              <caption>•</caption>Administer orally twice daily, 4 hours apart with or without food (<linkHtml href="#s2">2</linkHtml>).</item>
+                           <item>
+                              <caption>•</caption>For patients new to methylphenidate: Recommend starting dose of 5 mg once daily (2.5 mg twice daily) (<linkHtml href="#s2p2">2.2</linkHtml>).</item>
+                           <item>
+                              <caption>•</caption>For patients currently taking methylphenidate: Initiate Focalin therapy with half (1/2) the current total daily dose of methylphenidate (<linkHtml href="#s2p2">2.2</linkHtml>).</item>
+                           <item>
+                              <caption>•</caption>Titrate weekly in increments of 2.5 to 5 mg to a maximum of 20 mg/day (10 mg twice daily) (<linkHtml href="#s2p2">2.2</linkHtml>).</item>
+                        </list>
+                     </text>
+                  </highlight>
+               </excerpt>
+               <component>
+                  <section ID="s2p1">
+                     <id root="c3a08278-eaf8-4ba3-be08-6d9bd163d382"/>
+                     <code code="42229-5" codeSystem="2.16.840.1.113883.6.1" displayName="SPL UNCLASSIFIED SECTION"/>
+                     <title>2.1     Pretreatment Screening</title>
+                     <text>
+                        <paragraph>
+                           <content styleCode="xmChange">Prior to treating patients with Focalin, assess:</content>
+                        </paragraph>
+                        <list listType="unordered">
+                           <item>
+                              <caption>•</caption>
+                              <content styleCode="xmChange">for the presence of cardiac disease (i.e., perform a careful history, family history of sudden death or ventricular arrhythmia, and physical exam) <content styleCode="italics">[see Warnings and Precautions (<linkHtml href="#s5p2">5.2</linkHtml>)]</content>.</content>
+                           </item>
+                           <item>
+                              <caption>•</caption>
+                              <content styleCode="xmChange">the family history and clinically evaluate patients for motor or verbal tics or Tourette’s syndrome before initiating Focalin <content styleCode="italics">[see Warnings and Precautions (<linkHtml href="#ID_3777f536-742c-460c-9ed8-c368ca11ca53">5.10</linkHtml>)]</content>.</content>
+                           </item>
+                        </list>
+                     </text>
+                     <effectiveTime value="20231013"/>
+                  </section>
+               </component>
+               <component>
+                  <section ID="s2p2">
+                     <id root="11cb70bd-22d7-43c2-86d7-cd605d5f5994"/>
+                     <code code="42229-5" codeSystem="2.16.840.1.113883.6.1" displayName="SPL UNCLASSIFIED SECTION"/>
+                     <title>2.2     Recommended Dosage</title>
+                     <text>
+                        <paragraph>
+                           <content styleCode="xmChange">
+                              <content styleCode="underline">Patients New to Methylphenidate</content>
+                           </content>
+                        </paragraph>
+                        <paragraph>
+                           <content styleCode="xmChange">The recommended starting dose of Focalin for pediatric patients who are not currently taking racemic methylphenidate, or for patients who are on stimulants other than methylphenidate, is 5 mg daily (2.5 mg twice daily) with or without food.</content>
+                        </paragraph>
+                        <paragraph>
+                           <content styleCode="xmChange">
+                              <content styleCode="underline">Patients Currently on Methylphenidate</content>
+                           </content>
+                        </paragraph>
+                        <paragraph>
+                           <content styleCode="xmChange">The recommended starting dose of Focalin for pediatric patients currently using methylphenidate is half (1/2) the total daily dose of racemic methylphenidate.</content>
+                        </paragraph>
+                        <paragraph>
+                           <content styleCode="xmChange">
+                              <content styleCode="underline">Titration Schedule</content>
+                           </content>
+                        </paragraph>
+                        <paragraph>
+                           <content styleCode="xmChange">The dose may be titrated weekly in increments of 2.5 mg to 5 mg to a maximum of 20 mg daily (10 mg twice daily). The dose should be individualized according to the needs and response of the patient.</content>
+                        </paragraph>
+                     </text>
+                     <effectiveTime value="20231013"/>
+                  </section>
+               </component>
+               <component>
+                  <section ID="s2p3">
+                     <id root="ccb97454-c801-4c24-90a2-fa43445d188a"/>
+                     <code code="42229-5" codeSystem="2.16.840.1.113883.6.1" displayName="SPL UNCLASSIFIED SECTION"/>
+                     <title>2.3     Administration Instructions</title>
+                     <text>
+                        <paragraph>Focalin is administered orally twice daily, at least 4 hours apart.</paragraph>
+                     </text>
+                     <effectiveTime value="20231013"/>
+                  </section>
+               </component>
+               <component>
+                  <section ID="s2p4">
+                     <id root="4adc0088-732c-4f65-955b-cec04901413f"/>
+                     <code code="42229-5" codeSystem="2.16.840.1.113883.6.1" displayName="SPL UNCLASSIFIED SECTION"/>
+                     <title>2.4     Dosage Reduction and Discontinuation</title>
+                     <text>
+                        <paragraph>If paradoxical aggravation of symptoms or other adverse reactions occur, reduce the dosage, or if necessary, discontinue Focalin. If improvement is not observed after appropriate dosage adjustment over a one-month period, the drug should be discontinued.</paragraph>
+                     </text>
+                     <effectiveTime value="20231013"/>
+                  </section>
+               </component>
+            </section>
+         </component>
+         <component>
+            <section ID="s3">
+               <id root="39a24455-fa03-4302-9003-06587a4d5263"/>
+               <code code="43678-2" codeSystem="2.16.840.1.113883.6.1" displayName="DOSAGE FORMS &amp; STRENGTHS SECTION"/>
+               <title>3     DOSAGE FORMS AND STRENGTHS</title>
+               <text>
+                  <paragraph>Focalin (dexmethylphenidate hydrochloride) tablets are D-shaped, embossed “D” on upper convex face and dosage strength on lower convex face in the following colors:</paragraph>
+                  <list listType="unordered">
+                     <item>
+                        <caption>•</caption>2.5 mg tablets – blue</item>
+                     <item>
+                        <caption>•</caption>5 mg tablets – yellow</item>
+                     <item>
+                        <caption>•</caption>10 mg tablets – white</item>
+                  </list>
+               </text>
+               <effectiveTime value="20231013"/>
+               <excerpt>
+                  <highlight>
+                     <text>
+                        <paragraph>Tablets: 2.5 mg, 5 mg, and 10 mg (<linkHtml href="#s3">3</linkHtml>).</paragraph>
+                     </text>
+                  </highlight>
+               </excerpt>
+            </section>
+         </component>
+         <component>
+            <section ID="s4">
+               <id root="0000eda4-4b6b-4e6f-833c-e1104d08beae"/>
+               <code code="34070-3" codeSystem="2.16.840.1.113883.6.1" displayName="CONTRAINDICATIONS SECTION"/>
+               <title>4     CONTRAINDICATIONS</title>
+               <text>
+                  <list listType="unordered">
+                     <item>
+                        <caption>•</caption>Hypersensitivity to methylphenidate or other components of Focalin. Hypersensitivity reactions, such as angioedema and anaphylactic reactions have been reported in patients treated with methylphenidate <content styleCode="italics">[see Adverse Reactions (<linkHtml href="#s6p1">6.1</linkHtml>)]</content>.</item>
+                     <item>
+                        <caption>•</caption>Concomitant treatment with monoamine oxidase inhibitors (MAOIs), or within 14 days following discontinuation of treatment with an MAOI, because of the risk of hypertensive crises <content styleCode="italics">[see Drug Interactions (<linkHtml href="#s7p1">7.1</linkHtml>)]</content>. </item>
+                  </list>
+               </text>
+               <effectiveTime value="20231013"/>
+               <excerpt>
+                  <highlight>
+                     <text>
+                        <list listType="unordered">
+                           <item>
+                              <caption>•</caption>Known hypersensitivity to methylphenidate or other components of Focalin (<linkHtml href="#s4">4</linkHtml>).</item>
+                           <item>
+                              <caption>•</caption>Concurrent treatment with a monoamine oxidase inhibitor (MAOI), or use of an MAOI within the preceding 14 days (<linkHtml href="#s4">4</linkHtml>).</item>
+                        </list>
+                     </text>
+                  </highlight>
+               </excerpt>
+            </section>
+         </component>
+         <component>
+            <section ID="s5">
+               <id root="a4dcb65e-1ce8-4390-a99e-834f68f0e063"/>
+               <code code="43685-7" codeSystem="2.16.840.1.113883.6.1" displayName="WARNINGS AND PRECAUTIONS SECTION"/>
+               <title>5     WARNINGS AND PRECAUTIONS</title>
+               <effectiveTime value="20231013"/>
+               <excerpt>
+                  <highlight>
+                     <text>
+                        <list listType="unordered">
+                           <item>
+                              <caption>•</caption>
+                              <content styleCode="italics">Risks to Patients with Serious Cardiac Disease</content>: Avoid use in patients with known structural cardiac abnormalities, cardiomyopathy, serious cardiac arrhythmias, coronary artery disease, or other serious cardiac disease (<linkHtml href="#s5p2">5.2</linkHtml>).</item>
+                           <item>
+                              <caption>•</caption>
+                              <content styleCode="italics">Increased Blood Pressure and Heart Rate</content>: Monitor blood pressure and pulse (<linkHtml href="#s5p3">5.3</linkHtml>).</item>
+                           <item>
+                              <caption>•</caption>
+                              <content styleCode="italics">Psychiatric Adverse Reactions</content>: Prior to initiating Focalin, screen patients for risk factors for developing a manic episode. If new psychotic or manic symptoms occur, consider discontinuing Focalin (<linkHtml href="#s5p4">5.4</linkHtml>).</item>
+                           <item>
+                              <caption>•</caption>
+                              <content styleCode="italics">Priapism</content>: If abnormally sustained or frequent and painful erections occur, patients should seek immediate medical attention (<linkHtml href="#s5p5">5.5</linkHtml>).</item>
+                           <item>
+                              <caption>•</caption>
+                              <content styleCode="italics">Peripheral Vasculopathy, including Raynaud’s Phenomenon</content>: Careful observation for digital changes is necessary during Focalin treatment. Further clinical evaluation (e.g., rheumatology referral) may be appropriate for patients who develop signs or symptoms of peripheral vasculopathy (<linkHtml href="#s5p6">5.6</linkHtml>).</item>
+                           <item>
+                              <caption>•</caption>
+                              <content styleCode="italics">Long-Term Suppression of Growth in Pediatric Patients</content>: Closely monitor growth (height and weight) in pediatric patients. Pediatric patients not growing or gaining height or weight as expected may need to have their treatment interrupted (<linkHtml href="#s5p7">5.7</linkHtml>).</item>
+                           <item>
+                              <caption>•</caption>
+                              <content styleCode="italics">Acute Angle Closure Glaucoma: </content>Focalin -treated patients considered at risk for acute angle closure glaucoma (e.g., patients with significant hyperopia) should be evaluated by an ophthalmologist (<linkHtml href="#ID_8cd2a8ae-cbfb-4f98-bc3e-d8faa54bb7b0">5.8</linkHtml>).</item>
+                           <item>
+                              <caption>•</caption>
+                              <content styleCode="italics">Increased Intraocular Pressure (IOP) and Glaucoma</content>: Prescribe Focalin to patients with open-angle glaucoma or abnormally increased IOP only if the benefit of treatment is considered to outweigh the risk. Closely monitor patients with a history of increased IOP or open angle glaucoma (<linkHtml href="#ID_a862d332-81bb-416f-af74-92be0c431e26">5.9</linkHtml>).</item>
+                           <item>
+                              <caption>•</caption>
+                              <content styleCode="italics">Motor and Verbal Tics, and Worsening of Tourette’s Syndrome</content>: Before initiating Focalin, assess the family history and clinically evaluate patients for tics or Tourette’s syndrome. Regularly monitor patients for the emergence or worsening of tics or Tourette’s syndrome. Discontinue treatment if clinically appropriate (<linkHtml href="#ID_3777f536-742c-460c-9ed8-c368ca11ca53">5.10</linkHtml>).</item>
+                        </list>
+                     </text>
+                  </highlight>
+               </excerpt>
+               <component>
+                  <section ID="s5p1">
+                     <id root="97c77361-f516-4872-b32a-3950c828341c"/>
+                     <code code="42229-5" codeSystem="2.16.840.1.113883.6.1" displayName="SPL UNCLASSIFIED SECTION"/>
+                     <title>5.1     Abuse, Misuse, and Addiction</title>
+                     <text>
+                        <paragraph>
+                           <content styleCode="xmChange">Focalin has a high potential for abuse and misuse. The use of Focalin exposes individuals to the risks of abuse and misuse, which can lead to the development of a substance use disorder, including addiction. Focalin can be diverted for non-medical use into illicit channels or distribution <content styleCode="italics">[see Drug Abuse and Dependence (<linkHtml href="#s9p2">9.2</linkHtml>)]</content>. Misuse and abuse of CNS stimulants, including Focalin, can result in overdose and death <content styleCode="italics">[see Overdosage (<linkHtml href="#s10">10</linkHtml>)]</content>, and this risk is increased with higher doses or unapproved methods of administration, such as snorting or injection.</content>
+                        </paragraph>
+                        <paragraph>
+                           <content styleCode="xmChange">Before prescribing Focalin, assess each patient’s risk for abuse, misuse, and addiction. Educate patients and their families about these risks and proper disposal of any unused drug. Advise patients to store Focalin in a safe place, preferably locked, and instruct patients to not give Focalin to anyone else. Throughout Focalin treatment, reassess each patient’s risk of abuse, misuse, and addiction and frequently monitor for signs and symptoms of abuse, misuse, and addiction.</content>
+                        </paragraph>
+                     </text>
+                     <effectiveTime value="20231013"/>
+                  </section>
+               </component>
+               <component>
+                  <section ID="s5p2">
+                     <id root="19225bfc-cf7f-4181-8a74-d4ccbdbd602e"/>
+                     <code code="42229-5" codeSystem="2.16.840.1.113883.6.1" displayName="SPL UNCLASSIFIED SECTION"/>
+                     <title>5.2     Risks to Patients with Serious Cardiac Disease</title>
+                     <text>
+                        <paragraph>
+                           <content styleCode="xmChange">Sudden death has been reported in patients with structural cardiac abnormalities or other serious cardiac disease who were treated with CNS stimulants at the recommended ADHD dosage.</content>
+                        </paragraph>
+                        <paragraph>
+                           <content styleCode="xmChange">Avoid Focalin use in patients with known structural cardiac abnormalities, cardiomyopathy, serious cardiac arrhythmia, coronary artery disease, or other serious cardiac disease.</content>
+                        </paragraph>
+                     </text>
+                     <effectiveTime value="20231013"/>
+                  </section>
+               </component>
+               <component>
+                  <section ID="s5p3">
+                     <id root="bd4040cc-bc38-478c-b4d2-d6e43a6e6062"/>
+                     <code code="42229-5" codeSystem="2.16.840.1.113883.6.1" displayName="SPL UNCLASSIFIED SECTION"/>
+                     <title>5.3     Increased Blood Pressure and Heart Rate</title>
+                     <text>
+                        <paragraph>CNS stimulants cause an increase in blood pressure (mean increase approximately 2 to 4 mmHg) and heart rate (mean increase approximately 3 to 6 beats per minute). Some patients may have larger increases. Monitor all Focalin-treated patients for hypertension and tachycardia.</paragraph>
+                     </text>
+                     <effectiveTime value="20231013"/>
+                  </section>
+               </component>
+               <component>
+                  <section ID="s5p4">
+                     <id root="ea547edf-9d65-4444-95a9-bfbbf5a541be"/>
+                     <code code="42229-5" codeSystem="2.16.840.1.113883.6.1" displayName="SPL UNCLASSIFIED SECTION"/>
+                     <title>5.4     Psychiatric Adverse Reactions</title>
+                     <text>
+                        <paragraph>
+                           <content styleCode="underline">Exacerbation of Preexisting Psychosis</content>
+                        </paragraph>
+                        <paragraph>CNS stimulants may exacerbate symptoms of behavior disturbance and thought disorder in patients with a preexisting psychotic disorder.</paragraph>
+                        <paragraph>
+                           <content styleCode="underline">Induction of a Manic Episode in Patients with Bipolar Disorder</content>
+                        </paragraph>
+                        <paragraph>CNS stimulants may induce a manic or mixed mood episode in patients. Prior to initiating Focalin treatment, screen patients for risk factors for developing a manic episode (e.g., comorbid or history of depressive symptoms or a family history of suicide, bipolar disorder, or depression).</paragraph>
+                        <paragraph>
+                           <content styleCode="underline">New Psychotic or Manic Symptoms</content>
+                        </paragraph>
+                        <paragraph>CNS stimulants, at the recommended dosage, may cause psychotic or manic symptoms (e.g., hallucinations, delusional thinking, or mania) in patients without a prior history of psychotic illness or mania. In a pooled analysis of multiple short-term, placebo-controlled studies of CNS stimulants, psychotic, or manic symptoms occurred in approximately 0.1% of CNS stimulant-treated patients, compared to 0% of placebo-treated patients. If such symptoms occur, consider discontinuing Focalin.</paragraph>
+                     </text>
+                     <effectiveTime value="20231013"/>
+                  </section>
+               </component>
+               <component>
+                  <section ID="s5p5">
+                     <id root="75aaa808-7a7f-4b52-897a-b91d7e9ce60b"/>
+                     <code code="42229-5" codeSystem="2.16.840.1.113883.6.1" displayName="SPL UNCLASSIFIED SECTION"/>
+                     <title>5.5     Priapism</title>
+                     <text>
+                        <paragraph>Prolonged and painful erections, sometimes requiring surgical intervention, have been reported with methylphenidate use in both adult and pediatric male patients. Although priapism was not reported with methylphenidate initiation, it developed after some time on methylphenidate, often subsequent to an increase in dosage. Priapism also occurred during methylphenidate withdrawal (drug holidays or during discontinuation).</paragraph>
+                        <paragraph>Focalin-treated patients who develop abnormally sustained or frequent and painful erections should seek immediate medical attention.</paragraph>
+                     </text>
+                     <effectiveTime value="20231013"/>
+                  </section>
+               </component>
+               <component>
+                  <section ID="s5p6">
+                     <id root="e46b4f29-f47f-4c96-8357-a9c89a487b01"/>
+                     <code code="42229-5" codeSystem="2.16.840.1.113883.6.1" displayName="SPL UNCLASSIFIED SECTION"/>
+                     <title>5.6     Peripheral Vasculopathy, Including Raynaud’s Phenomenon</title>
+                     <text>
+                        <paragraph>CNS stimulants, including Focalin, used to treat ADHD are associated with peripheral vasculopathy, including Raynaud’s phenomenon. Signs and symptoms are usually intermittent and mild; however, sequelae have included digital ulceration and/or soft tissue breakdown. Effects of peripheral vasculopathy, including Raynaud’s phenomenon, were observed in post-marketing reports and at the therapeutic dosages of CNS stimulants in all age groups throughout the course of treatment. Signs and symptoms generally improved after dosage reduction or discontinuation of the CNS stimulant.</paragraph>
+                        <paragraph>Careful observation for digital changes is necessary during Focalin treatment. Further clinical evaluation (e.g., rheumatology referral) may be appropriate for Focalin-treated patients who develop signs or symptoms of peripheral vasculopathy.</paragraph>
+                     </text>
+                     <effectiveTime value="20231013"/>
+                  </section>
+               </component>
+               <component>
+                  <section ID="s5p7">
+                     <id root="3973a6c8-a9db-4991-af28-e4acf0e7290b"/>
+                     <code code="42229-5" codeSystem="2.16.840.1.113883.6.1" displayName="SPL UNCLASSIFIED SECTION"/>
+                     <title>5.7     Long-Term Suppression of Growth in Pediatric Patients</title>
+                     <text>
+                        <paragraph>CNS stimulants have been associated with weight loss and slowing of growth rate in pediatric patients.</paragraph>
+                        <paragraph>Careful follow-up of weight and height in patients ages 7 to 10 years who were randomized to either methylphenidate or non-medication treatment groups over 14 months, as well as in naturalistic subgroups of newly methylphenidate-treated and non-medication treated patients over 36 months (to the ages of 10 to 13 years), suggests that pediatric patients who received methylphenidate for 7 days per week throughout the year had a temporary slowing in growth rate (on average, a total of about 2 cm less growth in height and 2.7 kg less growth in weight over 3 years), without evidence of growth rebound during this development period.</paragraph>
+                        <paragraph>Closely monitor growth (weight and height) in Focalin-treated pediatric patients. Pediatric patients who are not growing or gaining height or weight as expected may need to have their treatment interrupted.</paragraph>
+                     </text>
+                     <effectiveTime value="20231013"/>
+                  </section>
+               </component>
+               <component>
+                  <section ID="ID_8cd2a8ae-cbfb-4f98-bc3e-d8faa54bb7b0">
+                     <id root="aacaaf93-39a6-4088-840d-127a25ea45e5"/>
+                     <code code="42229-5" codeSystem="2.16.840.1.113883.6.1" displayName="SPL UNCLASSIFIED SECTION"/>
+                     <title>5.8     Acute Angle Closure Glaucoma </title>
+                     <text>
+                        <paragraph>
+                           <content styleCode="xmChange">There have been reports of angle closure glaucoma associated with methylphenidate treatment.</content>
+                        </paragraph>
+                        <paragraph>
+                           <content styleCode="xmChange">Although the mechanism is not clear, Focalin-treated patients considered at risk for acute angle closure glaucoma (e.g.,</content>
+                        </paragraph>
+                        <paragraph>
+                           <content styleCode="xmChange">patients with significant hyperopia) should be evaluated by an ophthalmologist.</content>
+                        </paragraph>
+                     </text>
+                     <effectiveTime value="20231013"/>
+                  </section>
+               </component>
+               <component>
+                  <section ID="ID_a862d332-81bb-416f-af74-92be0c431e26">
+                     <id root="748a48e2-89cd-4d38-85a0-6496a05cde00"/>
+                     <code code="42229-5" codeSystem="2.16.840.1.113883.6.1" displayName="SPL UNCLASSIFIED SECTION"/>
+                     <title>5.9     Increased Intraocular Pressure and Glaucoma </title>
+                     <text>
+                        <paragraph>
+                           <content styleCode="xmChange">There have been reports of an elevation of intraocular pressure (IOP) associated with methylphenidate treatment<content styleCode="italics"> [see Adverse Reactions (<linkHtml href="#s6p2">6.2</linkHtml>)].</content>
+                           </content>
+                        </paragraph>
+                        <paragraph>
+                           <content styleCode="xmChange">Prescribe Focalin to patients with open-angle glaucoma or abnormally increased IOP only if the benefit of treatment is considered to outweigh the risk. Closely monitor Focalin-treated patients with a history of abnormally increased IOP or open angle glaucoma.</content>
+                        </paragraph>
+                     </text>
+                     <effectiveTime value="20231013"/>
+                  </section>
+               </component>
+               <component>
+                  <section ID="ID_3777f536-742c-460c-9ed8-c368ca11ca53">
+                     <id root="f2624069-1708-41e9-b005-23b032d0efda"/>
+                     <code code="42229-5" codeSystem="2.16.840.1.113883.6.1" displayName="SPL UNCLASSIFIED SECTION"/>
+                     <title>5.10   Motor and Verbal Tics, and Worsening of Tourette’s Syndrome </title>
+                     <text>
+                        <paragraph>
+                           <content styleCode="xmChange">CNS stimulants, including methylphenidate, have been associated with the onset or exacerbation of motor and verbal tics.</content>
+                        </paragraph>
+                        <paragraph>
+                           <content styleCode="xmChange">Worsening of Tourette’s syndrome has also been reported <content styleCode="italics">[see Adverse Reactions (<linkHtml href="#s6p2">6.2</linkHtml>)]</content>.</content>
+                        </paragraph>
+                        <paragraph>
+                           <content styleCode="xmChange">Before initiating Focalin, assess the family history and clinically evaluate patients for tics or Tourette’s syndrome. Regularly monitor Focalin-treated patients for the emergence or worsening of tics or Tourette’s syndrome, and discontinue treatment if clinically appropriate.</content>
+                        </paragraph>
+                     </text>
+                     <effectiveTime value="20231013"/>
+                  </section>
+               </component>
+            </section>
+         </component>
+         <component>
+            <section ID="s6">
+               <id root="e5d6d5e0-40c0-42ff-a77b-a89a2aaf51e9"/>
+               <code code="34084-4" codeSystem="2.16.840.1.113883.6.1" displayName="ADVERSE REACTIONS SECTION"/>
+               <title>6     ADVERSE REACTIONS</title>
+               <text>
+                  <paragraph>The following are discussed in more detail in other sections of the labeling:</paragraph>
+                  <list listType="unordered">
+                     <item>
+                        <caption>•</caption>Abuse, Misuse, and Addiction <content styleCode="italics">[see Boxed Warning, Warnings and Precautions (<linkHtml href="#s5p1">5.1</linkHtml>), Drug Abuse and Dependence (<linkHtml href="#s9p2">9.2</linkHtml>, <linkHtml href="#s9p3">9.3</linkHtml>)]</content>
+                     </item>
+                     <item>
+                        <caption>•</caption>Known hypersensitivity to methylphenidate or other ingredients of Focalin <content styleCode="italics">[see Contraindications (<linkHtml href="#s4">4</linkHtml>)]</content>
+                     </item>
+                     <item>
+                        <caption>•</caption>Hypertensive crisis with Concomitant Use of Monoamine Oxidase Inhibitors <content styleCode="italics">[see Contraindications (<linkHtml href="#s4">4</linkHtml>), Drug Interactions (<linkHtml href="#s7p1">7.1</linkHtml>)]</content>
+                     </item>
+                     <item>
+                        <caption>•</caption>Risks to Patients with Serious Cardiac Disease <content styleCode="italics">[see Warnings and Precautions (<linkHtml href="#s5p2">5.2</linkHtml>)]</content>
+                     </item>
+                     <item>
+                        <caption>•</caption>Increased Blood Pressure and Heart Rate <content styleCode="italics">[see Warnings and Precautions (<linkHtml href="#s5p3">5.3</linkHtml>)]</content>
+                     </item>
+                     <item>
+                        <caption>•</caption>Psychiatric Adverse Reactions <content styleCode="italics">[see Warnings and Precautions (<linkHtml href="#s5p4">5.4</linkHtml>)]</content>
+                     </item>
+                     <item>
+                        <caption>•</caption>Priapism <content styleCode="italics">[see Warnings and Precautions (<linkHtml href="#s5p5">5.5</linkHtml>)]</content>
+                     </item>
+                     <item>
+                        <caption>•</caption>Peripheral Vasculopathy, Including Raynaud’s phenomenon <content styleCode="italics">[see Warnings and Precautions (<linkHtml href="#s5p6">5.6</linkHtml>)]</content>
+                     </item>
+                     <item>
+                        <caption>•</caption>Long-Term Suppression of Growth in Pediatric Patients <content styleCode="italics">[see Warnings and Precautions (<linkHtml href="#s5p7">5.7</linkHtml>)]</content>
+                     </item>
+                     <item>
+                        <caption>•</caption>Acute Angle Closure Glaucoma <content styleCode="italics">[see Warnings and Precautions (<linkHtml href="#ID_8cd2a8ae-cbfb-4f98-bc3e-d8faa54bb7b0">5.8</linkHtml>)]</content>
+                     </item>
+                     <item>
+                        <caption>•</caption>Increased Intraocular Pressure and Glaucoma <content styleCode="italics">[see Warnings and Precautions (<linkHtml href="#ID_a862d332-81bb-416f-af74-92be0c431e26">5.9</linkHtml>)]</content>
+                     </item>
+                     <item>
+                        <caption>•</caption>Motor and Verbal Tics, and Worsening of Tourette’s Syndrome <content styleCode="italics">[see Warnings and Precautions (<linkHtml href="#ID_3777f536-742c-460c-9ed8-c368ca11ca53">5.10</linkHtml>)]</content>
+                     </item>
+                  </list>
+               </text>
+               <effectiveTime value="20231013"/>
+               <excerpt>
+                  <highlight>
+                     <text>
+                        <paragraph>The most common adverse reactions (greater than or equal to 5% and twice the rate of placebo) in pediatric patients 6 to 17 years were abdominal pain, fever, nausea, and anorexia (<linkHtml href="#s6p1">6.1</linkHtml>).</paragraph>
+                        <paragraph>
+                           <content styleCode="bold">To report SUSPECTED ADVERSE REACTIONS, contact Novartis Pharmaceuticals Corporation at 1-888-669-6682 or FDA at 1-800-FDA-1088 or <linkHtml href="file:///C:/Users/BOT_30201_Prod/AppData/Local/Temp/www.fda.gov/medwatch">www.fda.gov/medwatch</linkHtml>.</content>
+                        </paragraph>
+                     </text>
+                  </highlight>
+               </excerpt>
+               <component>
+                  <section ID="s6p1">
+                     <id root="60ea76b1-8133-4f6a-8986-fe449018f283"/>
+                     <code code="42229-5" codeSystem="2.16.840.1.113883.6.1" displayName="SPL UNCLASSIFIED SECTION"/>
+                     <title>6.1     Clinical Trials Experience</title>
+                     <text>
+                        <paragraph>Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in clinical practice.</paragraph>
+                        <paragraph>
+                           <content styleCode="underline">Adverse Reactions in Studies with Focalin in Pediatric Patients with ADHD</content>
+                        </paragraph>
+                        <paragraph>The safety data in this section is based on data related to Focalin exposure during the premarketing development program in a total of 696 participants in clinical trials (684 patients, 12 healthy adult subjects). These participants received Focalin 5, 10, or 20 mg/day. The 684 ADHD patients (ages 6 to 17 years) were evaluated in 2 controlled clinical studies, 2 clinical pharmacology studies, and 2 open-label long-term safety studies. </paragraph>
+                        <paragraph>
+                           <content styleCode="italics">Most Common Adverse Reactions</content> (incidence of greater than or equal to 5% and at least twice placebo): abdominal pain, fever, anorexia, and nausea</paragraph>
+                        <paragraph>
+                           <content styleCode="italics">Adverse Reactions Leading to Discontinuation:</content> Overall, 50 of 684 (7.3%) pediatric patients treated with Focalin experienced an adverse reaction that resulted in discontinuation. The most common reasons for discontinuation were twitching (described as motor or vocal tics), anorexia, insomnia, and tachycardia (approximately 1% each). </paragraph>
+                        <paragraph>Table 1 enumerates adverse reactions for two, placebo-controlled, parallel group studies in pediatric patients with ADHD taking Focalin doses of 5, 10, and 20 mg/day. The table includes only those reactions that occurred in patients treated with Focalin for which the incidence was at least 5% and twice the incidence among placebo-treated patients. </paragraph>
+                        <table ID="_RefID0EFNAE" width="100%">
+                           <caption>Table 1: Common Adverse Reactions in Pediatric Patients (6 to 17 years of age) With ADHD</caption>
+                           <col width="32%"/>
+                           <col width="32%"/>
+                           <col width="18%"/>
+                           <col width="18%"/>
+                           <tfoot>
+                              <tr>
+                                 <td align="left" colspan="4" styleCode="Botrule" valign="top">Abbreviation: ADHD, attention deficit hyperactivity disorder.</td>
+                              </tr>
+                           </tfoot>
+                           <tbody>
+                              <tr>
+                                 <td styleCode="Rrule Botrule Lrule Toprule " valign="top">
+                                    <paragraph>
+                                       <content styleCode="bold">System organ class</content>
+                                    </paragraph>
+                                 </td>
+                                 <td styleCode="Rrule Botrule Lrule Toprule " valign="top">
+                                    <paragraph>
+                                       <content styleCode="bold">Adverse reactions</content>
+                                    </paragraph>
+                                 </td>
+                                 <td styleCode="Rrule Botrule Lrule Toprule " valign="top">
+                                    <paragraph>
+                                       <content styleCode="bold">Focalin</content>
+                                       <br/>
+                                       <content styleCode="bold">(N = 79)</content>
+                                    </paragraph>
+                                 </td>
+                                 <td styleCode="Rrule Botrule Lrule Toprule " valign="top">
+                                    <paragraph>
+                                       <content styleCode="bold">Placebo</content>
+                                       <br/>
+                                       <content styleCode="bold">(N = 82)</content>
+                                    </paragraph>
+                                 </td>
+                              </tr>
+                              <tr>
+                                 <td styleCode="Rrule Lrule Botrule " valign="top">
+                                    <paragraph>Body as a whole</paragraph>
+                                 </td>
+                                 <td styleCode="Rrule Lrule Toprule Botrule " valign="top">
+                                    <paragraph>Abdominal pain</paragraph>
+                                 </td>
+                                 <td styleCode="Rrule Lrule Toprule Botrule " valign="top">
+                                    <paragraph>15% </paragraph>
+                                 </td>
+                                 <td styleCode="Rrule Lrule Toprule Botrule " valign="top">
+                                    <paragraph>6% </paragraph>
+                                 </td>
+                              </tr>
+                              <tr>
+                                 <td styleCode="Rrule Lrule Botrule " valign="top"/>
+                                 <td styleCode="Rrule Lrule Toprule Botrule " valign="top">
+                                    <paragraph>Fever </paragraph>
+                                 </td>
+                                 <td styleCode="Rrule Lrule Toprule Botrule " valign="top">
+                                    <paragraph>5% </paragraph>
+                                 </td>
+                                 <td styleCode="Rrule Lrule Toprule Botrule " valign="top">
+                                    <paragraph>1% </paragraph>
+                                 </td>
+                              </tr>
+                              <tr>
+                                 <td styleCode="Rrule Lrule Botrule " valign="top">
+                                    <paragraph>Digestive system</paragraph>
+                                 </td>
+                                 <td styleCode="Rrule Lrule Toprule Botrule " valign="top">
+                                    <paragraph>Anorexia</paragraph>
+                                 </td>
+                                 <td styleCode="Rrule Lrule Toprule Botrule " valign="top">
+                                    <paragraph>6% </paragraph>
+                                 </td>
+                                 <td styleCode="Rrule Lrule Toprule Botrule " valign="top">
+                                    <paragraph>1% </paragraph>
+                                 </td>
+                              </tr>
+                              <tr>
+                                 <td styleCode="Rrule Botrule Lrule Toprule " valign="top"/>
+                                 <td styleCode="Rrule Botrule Lrule Toprule " valign="top">
+                                    <paragraph>Nausea </paragraph>
+                                 </td>
+                                 <td styleCode="Rrule Botrule Lrule Toprule " valign="top">
+                                    <paragraph>9% </paragraph>
+                                 </td>
+                                 <td styleCode="Rrule Botrule Lrule Toprule " valign="top">
+                                    <paragraph>1% </paragraph>
+                                 </td>
+                              </tr>
+                           </tbody>
+                        </table>
+                     </text>
+                     <effectiveTime value="20231013"/>
+                  </section>
+               </component>
+               <component>
+                  <section ID="s6p2">
+                     <id root="2169b6f7-b259-4048-8854-8c57a806a1fd"/>
+                     <code code="42229-5" codeSystem="2.16.840.1.113883.6.1" displayName="SPL UNCLASSIFIED SECTION"/>
+                     <title>6.2     Postmarketing Experience</title>
+                     <text>
+                        <paragraph>The following additional adverse reactions have been identified during postapproval use of dexmethylphenidate. Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.</paragraph>
+                        <paragraph>
+                           <content styleCode="italics">Musculoskeletal:</content> rhabdomyolysis</paragraph>
+                        <paragraph>
+                           <content styleCode="italics">Immune System Disorders:</content> hypersensitivity reactions, such as angioedema, anaphylactic reactions</paragraph>
+                        <paragraph>
+                           <content styleCode="underline">Adverse Reactions Reported with All Ritalin and Focalin Formulations</content>
+                        </paragraph>
+                        <paragraph>The following adverse reactions associated with the use of all Ritalin and Focalin formulations were identified in clinical trials, spontaneous reports, and literature. Because these reactions were reported voluntarily from a population of uncertain size, it is not always possible to estimate their frequency reliably or to establish a causal relationship to drug exposure.</paragraph>
+                        <paragraph>
+                           <content styleCode="italics">Infections and Infestations:</content> nasopharyngitis</paragraph>
+                        <paragraph>
+                           <content styleCode="italics">Blood and the Lymphatic System Disorders:</content> leukopenia, thrombocytopenia, anemia</paragraph>
+                        <paragraph>
+                           <content styleCode="italics">Immune System Disorders:</content> hypersensitivity reactions, including angioedema and anaphylaxis</paragraph>
+                        <paragraph>
+                           <content styleCode="italics">Metabolism and Nutrition Disorders:</content> decreased appetite, reduced weight gain, and suppression of growth during prolonged use in pediatric patients</paragraph>
+                        <paragraph>
+                           <content styleCode="italics">Psychiatric Disorders:</content> insomnia, anxiety, restlessness, agitation, psychosis (sometimes with visual and tactile hallucinations), depressed mood, depression</paragraph>
+                        <paragraph>
+                           <content styleCode="italics">Nervous System Disorders:</content> headache, dizziness, tremor, dyskinesia, including choreoatheetoid movements, drowsiness, convulsions, cerebrovascular disorders (including vasculitis, cerebral hemorrhages, and cerebrovascular accidents), serotonin syndrome in combination with serotonergic drugs</paragraph>
+                        <paragraph>
+                           <content styleCode="italics">Eye Disorders:</content> blurred vision, difficulties in visual accommodation</paragraph>
+                        <paragraph>
+                           <content styleCode="italics">Cardiac Disorders:</content> tachycardia, palpitations, increased blood pressure, arrhythmias, angina pectoris</paragraph>
+                        <paragraph>
+                           <content styleCode="italics">Respiratory, Thoracic, and Mediastinal Disorders:</content> cough</paragraph>
+                        <paragraph>
+                           <content styleCode="italics">Gastrointestinal Disorders:</content> dry mouth, nausea, vomiting, abdominal pain, dyspepsia</paragraph>
+                        <paragraph>
+                           <content styleCode="italics">Hepatobiliary Disorders:</content> abnormal liver function, ranging from transaminase elevation to severe hepatic injury</paragraph>
+                        <paragraph>
+                           <content styleCode="italics">Skin and Subcutaneous Tissue Disorders:</content> hyperhidrosis, pruritus, urticaria, exfoliative dermatitis, scalp hair loss, erythema multiforme rash, thrombocytopenic purpura </paragraph>
+                        <paragraph>
+                           <content styleCode="italics">Musculoskeletal and Connective Tissue Disorders:</content> arthralgia, muscle cramps, rhabdomyolysis, trismus</paragraph>
+                        <paragraph>
+                           <content styleCode="italics">Investigations:</content> weight loss (adult ADHD patients)</paragraph>
+                        <paragraph>
+                           <content styleCode="italics">Vascular Disorders:</content> peripheral coldness, Raynaud's phenomenon </paragraph>
+                        <paragraph>
+                           <content styleCode="underline">Additional Adverse Reactions Reported with Other Methylphenidate-Containing Products</content>
+                        </paragraph>
+                        <paragraph>The list below shows adverse reactions not listed with Ritalin and Focalin formulations that have been reported with other methylphenidate products based on clinical trials data and post-marketing spontaneous reports.</paragraph>
+                        <paragraph>
+                           <content styleCode="italics">Blood and Lymphatic Disorders:</content> pancytopenia</paragraph>
+                        <paragraph>
+                           <content styleCode="italics">Immune System Disorders:</content> hypersensitivity reactions, such as auricular swelling</paragraph>
+                        <paragraph>
+                           <content styleCode="italics">Psychiatric Disorders:</content> affect lability, mania, disorientation, libido changes</paragraph>
+                        <paragraph>
+                           <content styleCode="italics">Nervous System Disorders:</content> migraine, motor and verbal tics </paragraph>
+                        <paragraph>
+                           <content styleCode="italics">Eye Disorders:</content> diplopia, increased intraocular pressure, mydriasis</paragraph>
+                        <paragraph>
+                           <content styleCode="italics">Cardiac Disorders:</content> sudden cardiac death, myocardial infarction, bradycardia, extrasystole, supraventricular tachycardia, ventricular extrasystole</paragraph>
+                        <paragraph>
+                           <content styleCode="italics">Respiratory, Thoracic, and Mediastinal Disorders:</content> pharyngolaryngeal pain, dyspnea</paragraph>
+                        <paragraph>
+                           <content styleCode="italics">Gastrointestinal Disorders:</content> diarrhea, constipation</paragraph>
+                        <paragraph>
+                           <content styleCode="italics">Skin and Subcutaneous Tissue Disorders:</content> angioneurotic edema, erythema, fixed drug eruption</paragraph>
+                        <paragraph>
+                           <content styleCode="italics">Musculoskeletal, Connective Tissue, and Bone Disorders:</content> myalgia, muscle twitching</paragraph>
+                        <paragraph>
+                           <content styleCode="italics">Renal and Urinary Disorders:</content> hematuria</paragraph>
+                        <paragraph>
+                           <content styleCode="italics">Reproductive System and Breast Disorders:</content> gynecomastia</paragraph>
+                        <paragraph>
+                           <content styleCode="italics">General Disorders:</content> fatigue</paragraph>
+                        <paragraph>
+                           <content styleCode="italics">Urogenital Disorders:</content> priapism</paragraph>
+                     </text>
+                     <effectiveTime value="20231013"/>
+                  </section>
+               </component>
+            </section>
+         </component>
+         <component>
+            <section ID="s7">
+               <id root="0f7b9699-dfe9-4b08-8d1b-44af0ff09457"/>
+               <code code="34073-7" codeSystem="2.16.840.1.113883.6.1" displayName="DRUG INTERACTIONS SECTION"/>
+               <title>7     DRUG INTERACTIONS</title>
+               <effectiveTime value="20231013"/>
+               <excerpt>
+                  <highlight>
+                     <text>
+                        <list listType="unordered">
+                           <item>
+                              <caption>•</caption>
+                              <content styleCode="italics">Antihypertensive Drugs</content>: Monitor blood pressure. Adjust dosage of antihypertensive drug as needed (<linkHtml href="#s7p1">7.1</linkHtml>).  </item>
+                        </list>
+                     </text>
+                  </highlight>
+               </excerpt>
+               <component>
+                  <section ID="s7p1">
+                     <id root="d09ba4cb-6b5c-4675-9171-0a16040171d9"/>
+                     <code code="42229-5" codeSystem="2.16.840.1.113883.6.1" displayName="SPL UNCLASSIFIED SECTION"/>
+                     <title>7.1     Clinically Important Drug Interactions with Focalin</title>
+                     <text>
+                        <paragraph>Table 2 presents clinically important drug interactions with Focalin.</paragraph>
+                        <table ID="_RefID0EFWAE" width="100%">
+                           <caption>Table 2: Clinically Important Drug Interactions with Focalin</caption>
+                           <col width="26%"/>
+                           <col width="74%"/>
+                           <tbody>
+                              <tr>
+                                 <td colspan="2" styleCode="Rrule Botrule Lrule Toprule " valign="top">
+                                    <paragraph>
+                                       <content styleCode="bold">Monoamine Oxidase Inhibitors (MAOIs)</content>
+                                    </paragraph>
+                                 </td>
+                              </tr>
+                              <tr>
+                                 <td styleCode="Rrule Lrule Botrule " valign="top">
+                                    <paragraph>
+                                       <content styleCode="italics">Clinical impact</content>
+                                    </paragraph>
+                                 </td>
+                                 <td styleCode="Rrule Lrule Toprule Botrule " valign="top">
+                                    <paragraph>Concomitant use of MAOIs and CNS stimulants, including Focalin, can cause hypertensive crisis. Potential outcomes include death, stroke, myocardial infarction, aortic dissection, ophthalmological complications, eclampsia, pulmonary edema, and renal failure <content styleCode="italics">[see Contraindications (<linkHtml href="#s4">4</linkHtml>)]</content>.</paragraph>
+                                 </td>
+                              </tr>
+                              <tr>
+                                 <td styleCode="Rrule Lrule Botrule " valign="top">
+                                    <paragraph>
+                                       <content styleCode="italics">Intervention</content>
+                                    </paragraph>
+                                 </td>
+                                 <td styleCode="Rrule Lrule Toprule Botrule " valign="top">
+                                    <paragraph>Concomitant use of Focalin with MAOIs or within 14 days after discontinuing MAOI treatment is contraindicated.</paragraph>
+                                 </td>
+                              </tr>
+                              <tr>
+                                 <td colspan="2" styleCode="Rrule Lrule Botrule " valign="top">
+                                    <paragraph>
+                                       <content styleCode="bold">Antihypertensive Drugs</content>
+                                    </paragraph>
+                                 </td>
+                              </tr>
+                              <tr>
+                                 <td styleCode="Rrule Lrule Botrule " valign="top">
+                                    <paragraph>
+                                       <content styleCode="italics">Clinical impact</content>
+                                    </paragraph>
+                                 </td>
+                                 <td styleCode="Rrule Lrule Toprule Botrule " valign="top">
+                                    <paragraph>Focalin may decrease the effectiveness of drugs used to treat hypertension <content styleCode="italics">[see Warnings and Precautions (<linkHtml href="#s5p3">5.3</linkHtml>)]</content>. </paragraph>
+                                 </td>
+                              </tr>
+                              <tr>
+                                 <td styleCode="Rrule Lrule Botrule " valign="top">
+                                    <paragraph>
+                                       <content styleCode="italics">Intervention</content>
+                                    </paragraph>
+                                 </td>
+                                 <td styleCode="Rrule Lrule Toprule Botrule " valign="top">
+                                    <paragraph>Adjust the dosage of the antihypertensive drug as needed. </paragraph>
+                                 </td>
+                              </tr>
+                              <tr>
+                                 <td colspan="2" styleCode="Rrule Lrule Botrule " valign="top">
+                                    <paragraph>
+                                       <content styleCode="bold">Halogenated Anesthetics</content>
+                                    </paragraph>
+                                 </td>
+                              </tr>
+                              <tr>
+                                 <td styleCode="Rrule Lrule Botrule " valign="top">
+                                    <paragraph>
+                                       <content styleCode="italics">Clinical impact</content>
+                                    </paragraph>
+                                 </td>
+                                 <td styleCode="Rrule Lrule Toprule Botrule " valign="top">
+                                    <paragraph>Concomitant use of halogenated anesthetics and Focalin may increase the risk of sudden blood pressure and heart rate increase during surgery.</paragraph>
+                                 </td>
+                              </tr>
+                              <tr>
+                                 <td styleCode="Rrule Lrule Botrule " valign="top">
+                                    <paragraph>
+                                       <content styleCode="italics">Intervention</content>
+                                    </paragraph>
+                                 </td>
+                                 <td styleCode="Rrule Lrule Toprule Botrule " valign="top">
+                                    <paragraph>Monitor blood pressure and avoid use of Focalin in patients being treated with anesthetics on the day of surgery.</paragraph>
+                                 </td>
+                              </tr>
+                              <tr>
+                                 <td colspan="2" styleCode="Rrule Lrule Botrule " valign="top">
+                                    <paragraph>
+                                       <content styleCode="bold">Risperidone</content>
+                                    </paragraph>
+                                 </td>
+                              </tr>
+                              <tr>
+                                 <td styleCode="Rrule Lrule Botrule " valign="top">
+                                    <paragraph>
+                                       <content styleCode="italics">Clinical impact</content>
+                                    </paragraph>
+                                 </td>
+                                 <td styleCode="Rrule Lrule Toprule Botrule " valign="top">
+                                    <paragraph>Combined use of methylphenidate with risperidone when there is a change, whether an increase or decrease, in dosage of either or both medications, may increase the risk of extrapyramidal symptoms (EPS).</paragraph>
+                                 </td>
+                              </tr>
+                              <tr>
+                                 <td styleCode="Rrule Botrule Lrule Toprule " valign="top">
+                                    <paragraph>
+                                       <content styleCode="italics">Intervention</content>
+                                    </paragraph>
+                                 </td>
+                                 <td styleCode="Rrule Botrule Lrule Toprule " valign="top">
+                                    <paragraph>Monitor for signs of EPS.</paragraph>
+                                 </td>
+                              </tr>
+                           </tbody>
+                        </table>
+                     </text>
+                     <effectiveTime value="20231013"/>
+                  </section>
+               </component>
+            </section>
+         </component>
+         <component>
+            <section ID="s8">
+               <id root="7d79c1cc-ba1a-4750-95e7-b34e0330dc50"/>
+               <code code="43684-0" codeSystem="2.16.840.1.113883.6.1" displayName="USE IN SPECIFIC POPULATIONS SECTION"/>
+               <title>8     USE IN SPECIFIC POPULATIONS</title>
+               <effectiveTime value="20231013"/>
+               <component>
+                  <section ID="s8p1">
+                     <id root="0e02f998-eadc-4f71-89ea-96cddd2b3436"/>
+                     <code code="42228-7" codeSystem="2.16.840.1.113883.6.1" displayName="PREGNANCY SECTION"/>
+                     <title>8.1     Pregnancy</title>
+                     <text>
+                        <paragraph>
+                           <content styleCode="underline">Pregnancy Exposure Registry</content>
+                        </paragraph>
+                        <paragraph>There is a pregnancy exposure registry that monitors pregnancy outcomes in women exposed to ADHD medications, including Focalin, during pregnancy. Healthcare providers are encouraged to register patients by calling the National Pregnancy Registry for ADHD medications at 1-866-961-2388 or visiting <linkHtml href="https://womensmentalhealth.org/adhd-medications/">https://womensmentalhealth.org/adhd-medications/</linkHtml>.</paragraph>
+                        <paragraph>
+                           <content styleCode="underline">Risk Summary</content>
+                        </paragraph>
+                        <paragraph>Dexmethylphenidate is the <content styleCode="italics">d-threo</content> enantiomer of racemic methylphenidate. Published studies and postmarketing reports on methylphenidate use during pregnancy have not identified a drug-associated risk of major birth defects, miscarriage or adverse maternal or fetal outcomes. There may be risks to the fetus associated with the use of CNS stimulants during pregnancy <content styleCode="italics">(see Clinical Considerations)</content>. Embryo-fetal development studies in rats showed delayed fetal skeletal ossification at doses up to 5 times the maximum recommended human dose (MRHD) of 20 mg/day given to adults based on plasma levels. A decrease in pup weight in males was observed in a pre- and post-natal development study with oral administration of methylphenidate to rats throughout pregnancy and lactation at doses 5 times the MRHD of 20 mg/day given to adults based on plasma levels. Plasma levels in adults were comparatively similar to plasma levels in adolescents <content styleCode="italics">(see Data)</content>.</paragraph>
+                        <paragraph>The estimated background risk of major birth defects and miscarriage for the indicated population is unknown. All pregnancies have a background risk of birth defect, loss, or other adverse outcomes. In the U.S. general population, the estimated background risk of major birth defects and miscarriage in clinically recognized pregnancies is 2% to 4% and 15% to 20%, respectively.</paragraph>
+                        <paragraph>
+                           <content styleCode="underline">Clinical Considerations</content>
+                        </paragraph>
+                        <paragraph>
+                           <content styleCode="italics">Fetal/Neonatal Adverse Reactions</content>
+                        </paragraph>
+                        <paragraph>CNS stimulants, such as Focalin, can cause vasoconstriction and thereby decrease placental perfusion. No fetal and/or neonatal adverse reactions have been reported with the use of therapeutic doses of methylphenidate during pregnancy; however, premature delivery and low birth weight infants have been reported in amphetamine-dependent mothers.</paragraph>
+                        <paragraph>
+                           <content styleCode="underline">Data</content>
+                        </paragraph>
+                        <paragraph>
+                           <content styleCode="italics">Animal Data</content>
+                        </paragraph>
+                        <paragraph>In embryo-fetal development studies conducted in rats and rabbits, dexmethylphenidate was administered orally at doses of up to 20 and 100 mg/kg/day, respectively, during the period of organogenesis. No evidence of malformations was found in either the rat or rabbit study; however, delayed fetal skeletal ossification was observed at the highest dose level in rats. When dexmethylphenidate was administered to rats throughout pregnancy and lactation at doses of up to 20 mg/kg/day, post-weaning body weight gain was decreased in male offspring at the highest dose, but no other effects on postnatal development were observed. At the highest doses tested, plasma levels [area under the curves (AUCs)] of dexmethylphenidate in pregnant rats and rabbits were approximately 5 and 1 times, respectively, those in adults dosed with the MRHD of 20 mg/day.</paragraph>
+                        <paragraph>Racemic methylphenidate has been shown to cause malformations (increased incidence of fetal spina bifida) in rabbits when given in doses of 200 mg/kg/day throughout organogenesis.</paragraph>
+                     </text>
+                     <effectiveTime value="20231013"/>
+                  </section>
+               </component>
+               <component>
+                  <section ID="s8p2">
+                     <id root="dfaf0fda-96e8-4523-ae57-90af2c69223d"/>
+                     <code code="77290-5" codeSystem="2.16.840.1.113883.6.1" displayName="LACTATION SECTION"/>
+                     <title>8.2     Lactation 							</title>
+                     <text>
+                        <paragraph>
+                           <content styleCode="underline">Risk Summary</content>
+                        </paragraph>
+                        <paragraph>Dexmethylphenidate is the <content styleCode="italics">d-threo</content> enantiomer of racemic methylphenidate. Limited published literature, based on milk sampling from seven mothers reports that methylphenidate is present in human milk, which resulted in infant doses of 0.16% to 0.7% of the maternal weight-adjusted dosage and a milk/plasma ratio ranging between 1.1 and 2.7. There are no reports of adverse effects on the breastfed infant and no effects on milk production. Long-term neurodevelopmental effects on infants from stimulant exposure are unknown. The developmental and health benefits of breastfeeding should be considered along with the mother’s clinical need for Focalin and any potential adverse effects on the breastfed infant from Focalin or from the underlying maternal condition.</paragraph>
+                        <paragraph>
+                           <content styleCode="underline">Clinical Considerations</content>
+                        </paragraph>
+                        <paragraph>Monitor breastfeeding infants for adverse reactions, such as agitation, insomnia, anorexia, and reduced weight gain.</paragraph>
+                     </text>
+                     <effectiveTime value="20231013"/>
+                  </section>
+               </component>
+               <component>
+                  <section ID="s8p4">
+                     <id root="4335118b-bfa3-4fa9-9d35-1adbab13aca9"/>
+                     <code code="34081-0" codeSystem="2.16.840.1.113883.6.1" displayName="PEDIATRIC USE SECTION"/>
+                     <title>8.4     Pediatric Use</title>
+                     <text>
+                        <paragraph>The safety and effectiveness of Focalin have been established in pediatric patients aged 6 to 17 years in two adequate and well-controlled clinical trials <content styleCode="italics">[see Clinical Studies (<linkHtml href="#s14">14</linkHtml>)]</content>.</paragraph>
+                        <paragraph>The safety and effectiveness of Focalin in pediatric patients aged less than 6 years have not been established.</paragraph>
+                        <paragraph>The long-term efficacy of Focalin in pediatric patients has not been established.</paragraph>
+                        <paragraph>
+                           <content styleCode="underline">Long-Term Suppression of Growth</content>
+                        </paragraph>
+                        <paragraph>Growth should be monitored during treatment with stimulants, including Focalin. Pediatric patients who are not growing or gaining weight as expected may need to have their treatment interrupted <content styleCode="italics">[see Warnings and Precautions (<linkHtml href="#s5p7">5.7</linkHtml>)]</content>.</paragraph>
+                        <paragraph>
+                           <content styleCode="underline">Juvenile Animal Toxicity Data</content>
+                        </paragraph>
+                        <paragraph>Rats treated with racemic methylphenidate early in the postnatal period through sexual maturation demonstrated a decrease in spontaneous locomotor activity in adulthood. A deficit in acquisition of a specific learning task was observed in females only. The doses at which these findings were observed are at least 6 times the MRHD of 60 mg/day given to children on a mg/m<sup>2</sup> basis.</paragraph>
+                        <paragraph>In a study conducted in young rats, racemic methylphenidate was administered orally at doses of up to 100 mg/kg/day for 9 weeks, starting early in the postnatal period (postnatal Day 7) and continuing through sexual maturity (postnatal week 10). When these animals were tested as adults (postnatal Weeks 13 to 14), decreased spontaneous locomotor activity was observed in males and females previously treated with 50 mg/kg/day (approximately 4 times the MRHD of 60 mg of racemic methylphenidate given to children on a mg/m<sup>2</sup> basis) or greater, and a deficit in the acquisition of a specific learning task was seen in females exposed to the highest dose (8 times the MRHD given to children on a mg/m<sup>2</sup> basis). The no effect level for juvenile neurobehavioral development in rats was 5 mg/kg/day (approximately 0.5 times the MRHD given to children on a mg/m<sup>2</sup> basis). The clinical significance of the long-term behavioral effects observed in rats is unknown.</paragraph>
+                     </text>
+                     <effectiveTime value="20231013"/>
+                  </section>
+               </component>
+               <component>
+                  <section ID="s8p5">
+                     <id root="473f3a72-f386-4a7a-af27-421a15cbe613"/>
+                     <code code="34082-8" codeSystem="2.16.840.1.113883.6.1" displayName="GERIATRIC USE SECTION"/>
+                     <title>8.5     Geriatric Use</title>
+                     <text>
+                        <paragraph>Focalin has not been studied in the geriatric population.</paragraph>
+                     </text>
+                     <effectiveTime value="20231013"/>
+                  </section>
+               </component>
+            </section>
+         </component>
+         <component>
+            <section ID="s9">
+               <id root="4947e9c1-51c7-4e25-b190-97edb3f5efec"/>
+               <code code="42227-9" codeSystem="2.16.840.1.113883.6.1" displayName="DRUG ABUSE AND DEPENDENCE SECTION"/>
+               <title>9     DRUG ABUSE AND DEPENDENCE</title>
+               <effectiveTime value="20231013"/>
+               <component>
+                  <section ID="s9p1">
+                     <id root="af29921f-045d-4148-afe7-71ead6b11761"/>
+                     <code code="34085-1" codeSystem="2.16.840.1.113883.6.1" displayName="CONTROLLED SUBSTANCE SECTION"/>
+                     <title>9.1     Controlled Substance</title>
+                     <text>
+                        <paragraph>Focalin contains dexmethylphenidate hydrochloride, a Schedule II controlled substance.</paragraph>
+                     </text>
+                     <effectiveTime value="20231013"/>
+                  </section>
+               </component>
+               <component>
+                  <section ID="s9p2">
+                     <id root="8d2ca2df-bc78-4f47-bea9-af91e0a58c30"/>
+                     <code code="34086-9" codeSystem="2.16.840.1.113883.6.1" displayName="ABUSE SECTION"/>
+                     <title>9.2     Abuse</title>
+                     <text>
+                        <paragraph>Focalin has a high potential for abuse and misuse which can lead to the development of a substance use disorder, including addiction <content styleCode="italics">[see Warnings and Precautions (<linkHtml href="#s5p1">5.1</linkHtml>)]</content>. Focalin can be diverted for non-medical use into illicit channels or distribution.</paragraph>
+                        <paragraph>Abuse is the intentional non-therapeutic use of a drug, even once, to achieve a desired psychological or physiological effect. Misuse is the intentional use, for therapeutic purposes, of a drug by an individual in a way other than prescribed by a health care provider or for whom it was not prescribed. Drug addiction is a cluster of behavioral, cognitive, and physiological phenomena that may include a strong desire to take the drug, difficulties in controlling drug use (e.g., continuing drug use despite harmful consequences, giving a higher priority to drug use than other activities and obligations), and possible tolerance or physical dependence.</paragraph>
+                        <paragraph>Misuse and abuse of methylphenidate may cause increased heart rate, respiratory rate, or blood pressure; sweating; dilated pupils; hyperactivity; restlessness; insomnia; decreased appetite; loss of coordination; tremors; flushed skin; vomiting; and/or abdominal pain. Anxiety, psychosis, hostility, aggression, and suicidal or homicidal ideation have also been observed with CNS stimulants abuse and/or misuse. Misuse and abuse of CNS stimulants, including Focalin, can result in overdose and death <content styleCode="italics">[see Overdosage (<linkHtml href="#s10">10</linkHtml>)], </content>and this risk is increased with higher doses or unapproved methods of administration, such as snorting or injection.</paragraph>
+                     </text>
+                     <effectiveTime value="20231013"/>
+                  </section>
+               </component>
+               <component>
+                  <section ID="s9p3">
+                     <id root="4a6a5c16-080f-43e1-aca2-6fd53bdb065a"/>
+                     <code code="34087-7" codeSystem="2.16.840.1.113883.6.1" displayName="DEPENDENCE SECTION"/>
+                     <title>9.3     Dependence</title>
+                     <text>
+                        <paragraph>
+                           <content styleCode="underline">Physical Dependence</content>
+                        </paragraph>
+                        <paragraph>Focalin may produce physical dependence. Physical dependence is a state that develops as a result of physiological adaptation in response to repeated drug use, manifested by withdrawal signs and symptoms after abrupt discontinuation or a significant dose reduction of a drug.</paragraph>
+                        <paragraph>Withdrawal signs and symptoms after abrupt discontinuation or dose reduction following prolonged use of CNS stimulants including Focalin include dysphoric mood; depression; fatigue; vivid, unpleasant dreams; insomnia or hypersomnia; increased appetite; and psychomotor retardation or agitation.</paragraph>
+                        <paragraph>
+                           <content styleCode="underline">Tolerance</content>
+                        </paragraph>
+                        <paragraph>Focalin may produce tolerance. Tolerance is a physiological state characterized by a reduced response to a drug after repeated administration (i.e., a higher dose of a drug is required to produce the same effect that was once obtained at a lower dose).</paragraph>
+                     </text>
+                     <effectiveTime value="20231013"/>
+                  </section>
+               </component>
+            </section>
+         </component>
+         <component>
+            <section ID="s10">
+               <id root="fa5a7601-31b5-4374-8116-d782a04e4a98"/>
+               <code code="34088-5" codeSystem="2.16.840.1.113883.6.1" displayName="OVERDOSAGE SECTION"/>
+               <title>10     OVERDOSAGE</title>
+               <text>
+                  <paragraph>
+                     <content styleCode="underline">Clinical Effects of Overdose</content>
+                  </paragraph>
+                  <paragraph>Overdose of CNS stimulants is characterized by the following sympathomimetic effects:</paragraph>
+                  <list listType="unordered">
+                     <item>
+                        <caption>•</caption>Cardiovascular effects including tachyarrhythmias, and hypertension or hypotension. Vasospasm, myocardial infarction, or aortic dissection may precipitate sudden cardiac death. Takotsubo cardiomyopathy may develop.</item>
+                     <item>
+                        <caption>•</caption>CNS effects including psychomotor agitation, confusion, and hallucinations. Serotonin syndrome, seizures, cerebral vascular accidents, and coma may occur.</item>
+                     <item>
+                        <caption>•</caption>Life-threatening hyperthermia (temperatures greater than 104°F) and rhabdomyolysis may develop.</item>
+                  </list>
+                  <paragraph>
+                     <content styleCode="underline">Overdose Management</content>
+                  </paragraph>
+                  <paragraph>Consider the possibility of multiple drug ingestion. Because methylphenidate has a large volume of distribution and is rapidly metabolized, dialysis is not useful. Consider contacting the Poison Help line (1-800-222-1222) or a medical toxicologist for additional overdose management recommendations.</paragraph>
+               </text>
+               <effectiveTime value="20231013"/>
+            </section>
+         </component>
+         <component>
+            <section ID="ID_29031b50-0315-4964-acb2-3d6d98bac41c">
+               <id root="88e7d0b6-a941-4337-a427-bcb5a4827796"/>
+               <code code="34089-3" codeSystem="2.16.840.1.113883.6.1" displayName="DESCRIPTION SECTION"/>
+               <title>11     DESCRIPTION</title>
+               <text>
+                  <paragraph>Focalin contains dexmethylphenidate hydrochloride, a CNS stimulant. Dexmethylphenidate hydrochloride is the <content styleCode="italics">d-threo</content> enantiomer of racemic methylphenidate hydrochloride. Focalin is available as 2.5 mg, 5 mg, and 10 mg strength tablets for oral administration.</paragraph>
+                  <paragraph>Chemically, dexmethylphenidate hydrochloride is methyl α-phenyl-2-piperidineacetate hydrochloride, (R,R’)-(+)-. Its molecular formula is C<sub>14</sub>H<sub>19</sub>NO<sub>2</sub>•HCl. Its structural formula is:</paragraph>
+                  <renderMultiMedia ID="id1101" referencedObject="MM03000003"/>
+                  <paragraph>Note: * = asymmetric carbon centers</paragraph>
+                  <paragraph>Dexmethylphenidate hydrochloride is a white to off-white powder. Its solutions are acid to litmus. It is freely soluble in water and in methanol, soluble in alcohol, and slightly soluble in chloroform and in acetone. Its molecular weight is 269.77 g/mol.</paragraph>
+                  <paragraph>
+                     <content styleCode="bold">Inactive ingredients:</content> FD&amp;C Blue No.1 #5516 aluminum lake (2.5 mg tablets), FD&amp;C Yellow Lake #10 (5 mg tablets). The 10 mg tablets contain no dye. Lactose monohydrate, magnesium stearate, microcrystalline cellulose, pregelatinized starch, sodium starch glycolate.</paragraph>
+               </text>
+               <effectiveTime value="20231013"/>
+               <component>
+                  <observationMedia ID="MM03000003">
+                     <text>Dexmethylphenidate hydrochloride structural formula.</text>
+                     <value mediaType="image/jpeg" xsi:type="ED">
+                        <reference value="focalin-03.jpg"/>
+                     </value>
+                  </observationMedia>
+               </component>
+            </section>
+         </component>
+         <component>
+            <section ID="s12">
+               <id root="66dc0ff1-6892-4868-bbe7-6a74813e33aa"/>
+               <code code="34090-1" codeSystem="2.16.840.1.113883.6.1" displayName="CLINICAL PHARMACOLOGY SECTION"/>
+               <title>12     CLINICAL PHARMACOLOGY</title>
+               <effectiveTime value="20231013"/>
+               <component>
+                  <section ID="s12p1">
+                     <id root="94ec7d4d-295d-4bc2-b326-eb0169f05a6a"/>
+                     <code code="43679-0" codeSystem="2.16.840.1.113883.6.1" displayName="MECHANISM OF ACTION SECTION"/>
+                     <title>12.1     Mechanism of Action</title>
+                     <text>
+                        <paragraph>Dexmethylphenidate hydrochloride is a CNS stimulant. The mode of therapeutic action in ADHD is not known.</paragraph>
+                     </text>
+                     <effectiveTime value="20231013"/>
+                  </section>
+               </component>
+               <component>
+                  <section ID="s12p2">
+                     <id root="b70d3eac-fd74-46a2-be1d-9530092f4abf"/>
+                     <code code="43681-6" codeSystem="2.16.840.1.113883.6.1" displayName="PHARMACODYNAMICS SECTION"/>
+                     <title>12.2     Pharmacodynamics</title>
+                     <text>
+                        <paragraph>
+                           <content styleCode="bold">Pharmacodynamics</content>
+                        </paragraph>
+                        <paragraph>Dexmethylphenidate is the more pharmacologically active <content styleCode="italics">d</content>-enantiomer of racemic methylphenidate. Methylphenidate blocks the reuptake of norepinephrine and dopamine into the presynaptic neuron and increase the release of these monoamines into the extraneuronal space.</paragraph>
+                        <paragraph>
+                           <content styleCode="underline">Cardiac Electrophysiology</content>
+                        </paragraph>
+                        <paragraph>A formal QT study has not been conducted in patients taking Focalin; however, a large QT effect is not expected. At the recommended maximum total daily dosage of 40 mg, Focalin XR (dexmethylphenidate) extended-release capsule does not prolong the QTc interval to any clinically relevant extent.</paragraph>
+                     </text>
+                     <effectiveTime value="20231013"/>
+                  </section>
+               </component>
+               <component>
+                  <section ID="s12p3">
+                     <id root="dcb23001-6366-4aad-9ad6-817dc648aaec"/>
+                     <code code="43682-4" codeSystem="2.16.840.1.113883.6.1" displayName="PHARMACOKINETICS SECTION"/>
+                     <title>12.3     Pharmacokinetics</title>
+                     <text>
+                        <paragraph>
+                           <content styleCode="underline">Absorption</content>
+                        </paragraph>
+                        <paragraph>Dexmethylphenidate hydrochloride is readily absorbed following oral administration of Focalin. In patients with ADHD, plasma dexmethylphenidate concentrations increase rapidly, reaching a maximum in the fasted state at about 1 to 1.5 hours postdose. No differences in the pharmacokinetics of Focalin were noted following single and repeated twice daily dosing, thus indicating no significant drug accumulation in children with ADHD.</paragraph>
+                        <paragraph>After single dose administration of Focalin to pediatric patients, dexmethylphenidate exposure (C<sub>max</sub> and AUC<sub>0-inf</sub>) showed dose-proportional increase in the range of 2.5 mg to 10 mg. Comparable plasma dexmethylphenidate levels were achieved following single <content styleCode="italics">dl-threo</content>-methylphenidate HCl doses given as capsules in twice the total mg amount (equimolar with respect to Focalin).</paragraph>
+                        <paragraph>Approximately 90% of the dose is absorbed after oral administration of radiolabeled racemic methylphenidate. However, due to first pass metabolism the mean absolute bioavailability of dexmethylphenidate when administered in various formulations was 22% to 25%.</paragraph>
+                        <paragraph>
+                           <content styleCode="italics">Effect of Food</content>
+                        </paragraph>
+                        <paragraph>High fat breakfast did not significantly affect C<sub>max</sub> or AUC<sub>0-inf</sub> of dexmethylphenidate when two 10 mg Focalin tablets were administered, but delayed T<sub>max</sub> from 1.5 hours post dose to 2.9 hours post dose. </paragraph>
+                        <paragraph>
+                           <content styleCode="underline">Distribution</content>
+                        </paragraph>
+                        <paragraph>The plasma protein binding of dexmethylphenidate is not known; racemic methylphenidate is bound to plasma proteins by 12% to 15%, independent of concentration. Dexmethylphenidate shows a volume of distribution of 2.65 ± 1.11 L/kg.</paragraph>
+                        <paragraph>
+                           <content styleCode="underline">Elimination</content>
+                        </paragraph>
+                        <paragraph>Plasma dexmethylphenidate concentrations declined exponentially following oral administration of Focalin. Intravenous dexmethylphenidate was eliminated with a mean clearance of 0.40 ± 0.12 L/hr/kg. The mean terminal elimination half-life of dexmethylphenidate was approximately 2.2 hours.</paragraph>
+                        <paragraph>
+                           <content styleCode="italics">Metabolism</content>
+                        </paragraph>
+                        <paragraph>In humans, dexmethylphenidate is metabolized primarily via de-esterification to <content styleCode="italics">d</content>-α-phenyl-piperidine acetic acid (also known as <content styleCode="italics">d</content>-ritalinic acid). This metabolite has little or no pharmacological activity. There is little or no <content styleCode="italics">in vivo</content> interconversion to the <content styleCode="italics">l-threo</content>-enantiomer.</paragraph>
+                        <paragraph>
+                           <content styleCode="italics">Excretion</content>
+                        </paragraph>
+                        <paragraph>After oral dosing of radiolabeled racemic methylphenidate in humans, about 90% of the radioactivity was recovered in urine. The main urinary metabolite of racemic <content styleCode="italics">dl-</content>methylphenidate was <content styleCode="italics">dl-</content>ritalinic acid, accountable for approximately 80% of the dose. Urinary excretion of parent compound accounted for 0.5% of an intravenous dose. </paragraph>
+                        <paragraph>
+                           <content styleCode="underline">Studies in Special Populations</content>
+                        </paragraph>
+                        <paragraph>
+                           <content styleCode="italics">Male and Female Patients</content>
+                        </paragraph>
+                        <paragraph>Pharmacokinetic parameters were similar for boys and girls (mean age 10 years).</paragraph>
+                        <paragraph>In a single dose study conducted in adults, the mean dexmethylphenidate AUC<sub>0-inf</sub> values (adjusted for body weight) following single two 10 mg doses of Focalin were 25% to 35% higher in adult female volunteers (n = 6) compared to male volunteers (n = 9). Both T<sub>max</sub> and t<sub>1/2</sub> were comparable for males and females.</paragraph>
+                        <paragraph>
+                           <content styleCode="italics">Racial or Ethnic Groups</content>
+                        </paragraph>
+                        <paragraph>There is insufficient experience with the use of Focalin to detect ethnic variations in pharmacokinetics.</paragraph>
+                        <paragraph>
+                           <content styleCode="italics">Pediatric Patients</content>
+                        </paragraph>
+                        <paragraph>The pharmacokinetics of dexmethylphenidate after Focalin administration have not been studied in children less than 6 years of age. When single doses of Focalin were given to children between the ages of 6 to 12 years and healthy adult volunteers, C<sub>max</sub> of dexmethylphenidate was similar, however, pediatric patients showed somewhat lower AUCs compared to the adults.</paragraph>
+                        <paragraph>
+                           <content styleCode="italics">Patients with Renal Impairment</content>
+                        </paragraph>
+                        <paragraph>There is no experience with the use of Focalin in patients with renal impairment. Since renal clearance is not an important route of methylphenidate clearance, renal impairment is expected to have little effect on the pharmacokinetics of Focalin.</paragraph>
+                        <paragraph>
+                           <content styleCode="italics">Patients with Hepatic Impairment</content>
+                        </paragraph>
+                        <paragraph>There is no experience with the use of Focalin in patients with hepatic impairment.</paragraph>
+                        <paragraph>
+                           <content styleCode="underline">Drug Interaction Studies</content>
+                        </paragraph>
+                        <paragraph>Methylphenidate is not metabolized by cytochrome P450 (CYP) isoenzymes to a clinically relevant extent. Inducers or inhibitors of CYPs are not expected to have any relevant impact on methylphenidate pharmacokinetics. Conversely, the d- and <content styleCode="italics">l</content>-enantiomers of methylphenidate did not relevantly inhibit CYP1A2, 2C8, 2C9, 2C19, 2D6, 2E1, or 3A. Clinically, methylphenidate coadministration did not increase plasma concentrations of the CYP2D6 substrate desipramine.</paragraph>
+                     </text>
+                     <effectiveTime value="20231013"/>
+                  </section>
+               </component>
+            </section>
+         </component>
+         <component>
+            <section ID="s13">
+               <id root="3af3e331-db89-4296-b3e6-2c0fa35e01fa"/>
+               <code code="43680-8" codeSystem="2.16.840.1.113883.6.1" displayName="NONCLINICAL TOXICOLOGY SECTION"/>
+               <title>13     NONCLINICAL TOXICOLOGY</title>
+               <effectiveTime value="20231013"/>
+               <component>
+                  <section ID="ID_c3ef8ea1-8a2a-4cd6-8aed-9def6fc3a610">
+                     <id root="7d34d230-26c8-4f4e-bd82-9272aa4f0438"/>
+                     <code code="34083-6" codeSystem="2.16.840.1.113883.6.1" displayName="CARCINOGENESIS &amp; MUTAGENESIS &amp; IMPAIRMENT OF FERTILITY SECTION"/>
+                     <title>13.1     Carcinogenesis, Mutagenesis, and Impairment of Fertility</title>
+                     <text>
+                        <paragraph>
+                           <content styleCode="underline">Carcinogenesis</content>
+                        </paragraph>
+                        <paragraph>Lifetime carcinogenicity studies have not been carried out with dexmethylphenidate. In a lifetime carcinogenicity study carried out in B6C3F1 mice, racemic methylphenidate caused an increase in hepatocellular adenomas, and in males only, an increase in hepatoblastomas was seen at a daily dose of approximately 60 mg/kg/day. This dose is approximately 2 times the MRHD of 60 mg/day of racemic methylphenidate given to children on a mg/m<sup>2</sup> basis. Hepatoblastoma is a relatively rare rodent malignant tumor type. There was no increase in total malignant hepatic tumors. The mouse strain used is sensitive to the development of hepatic tumors and the significance of these results to humans is unknown. Racemic methylphenidate did not cause any increase in tumors in a lifetime carcinogenicity study carried out in F344 rats; the highest dose used was approximately 45 mg/kg/day, which is approximately 4 times the MRHD (children) of 60 mg/day of racemic methylphenidate on a mg/m<sup>2</sup> basis.</paragraph>
+                        <paragraph>In a 24-week carcinogenicity study with racemic methylphenidate in the transgenic mouse strain p53+/-, which is sensitive to genotoxic carcinogens, there was no evidence of carcinogenicity. Male and female mice were fed diets containing the same concentrations as in the lifetime carcinogenicity study; the high-dose group was exposed to 60-74 mg/kg/day of racemic methylphenidate.</paragraph>
+                        <paragraph>
+                           <content styleCode="underline">Mutagenesis</content>
+                        </paragraph>
+                        <paragraph>Dexmethylphenidate was not mutagenic in the <content styleCode="italics">in vitro</content> Ames reverse mutation assay, in the <content styleCode="italics">in vitro</content> mouse lymphoma cell forward mutation assay, or in the <content styleCode="italics">in vivo</content> mouse bone marrow micronucleus test. In an <content styleCode="italics">in vitro</content> assay using cultured Chinese Hamster Ovary cells treated with racemic methylphenidate, sister chromatid exchanges and chromosome aberrations were increased, indicative of a weak clastogenic response.</paragraph>
+                        <paragraph>
+                           <content styleCode="underline">Impairment of Fertility</content>
+                        </paragraph>
+                        <paragraph>No human data on the effect of methylphenidate on fertility are available. </paragraph>
+                        <paragraph>Fertility studies have not been conducted with dexmethylphenidate. Racemic methylphenidate did not impair fertility in male or female mice that were fed diets containing the drug in an 18-week continuous breeding study. The study was conducted at doses of up to 160 mg/kg/day, approximately 10 times the MRHD of 60 mg/day of racemic methylphenidate given adolescents on a mg/m<sup>2</sup> basis.</paragraph>
+                     </text>
+                     <effectiveTime value="20231013"/>
+                  </section>
+               </component>
+            </section>
+         </component>
+         <component>
+            <section ID="s14">
+               <id root="97ae1ddf-f176-469a-8705-24c865254997"/>
+               <code code="34092-7" codeSystem="2.16.840.1.113883.6.1" displayName="CLINICAL STUDIES SECTION"/>
+               <title>14     CLINICAL STUDIES</title>
+               <text>
+                  <paragraph>The efficacy of Focalin for the treatment of ADHD was established in two double-blind, parallel-group, placebo-controlled trials in untreated or previously treated patients (ages 6 to 17 years old) who met The Diagnostic and Statistical Manual of Mental Disorders, Fourth Edition (DSM-IV) criteria for ADHD inattentive, hyperactive-impulsive, or combined inattentive/hyperactive-impulsive subtypes. The sample was predominantly younger (ages 6 to 12 years); thus, the findings are most pertinent to this age group.</paragraph>
+                  <paragraph>In Study 1, patients were randomized to receive either Focalin (5, 10, or 20 mg/day total dose), racemic methylphenidate HCl (10, 20, or 40 mg/day total dose), or placebo in a multicenter, 4-week, parallel group study in 132 pediatric patients. Patients received study medication twice daily separated by a 3.5 to 5.5 hours interval. Treatment was initiated with the lowest dose, and doses could be doubled at weekly intervals, depending on clinical response and tolerability, up to the maximum dose. The primary outcome was change from baseline to week 4 of the average score (an average of 2 ratings during the week) of the teacher’s version of the Swanson, Nolan and Pelham (SNAP)-ADHD Rating Scale. This 18 item scale measures ADHD symptoms of inattention and hyperactivity/impulsivity, rated on a scale of 0 (Not at All) to 3 (Very Much). Patients treated with Focalin showed a statistically significant improvement in symptom scores from baseline over patients who received placebo (Table 3).</paragraph>
+                  <table ID="_RefID0ELLAG" width="100%">
+                     <caption>Table 3: Summary of Efficacy Results from ADHD Acute-Phase Study in Pediatric Patients (6 – 17 years) (Study 1) </caption>
+                     <col width="17%"/>
+                     <col width="26%"/>
+                     <col width="29%"/>
+                     <col width="29%"/>
+                     <tbody>
+                        <tr>
+                           <td styleCode="Rrule Botrule Lrule Toprule " valign="top">
+                              <paragraph>
+                                 <content styleCode="bold">Study number</content>
+                              </paragraph>
+                           </td>
+                           <td styleCode="Rrule Botrule Lrule Toprule " valign="top">
+                              <paragraph>
+                                 <content styleCode="bold">Treatment group</content>
+                              </paragraph>
+                           </td>
+                           <td align="center" colspan="2" styleCode="Rrule Botrule Lrule Toprule " valign="top">
+                              <paragraph>
+                                 <content styleCode="bold">Primary efficacy measure: teacher SNAP-ADHD total Score<sup>a</sup>
+                                 </content>
+                              </paragraph>
+                           </td>
+                        </tr>
+                        <tr>
+                           <td styleCode="Rrule Lrule Botrule " valign="top"/>
+                           <td styleCode="Rrule Lrule Toprule Botrule " valign="top"/>
+                           <td align="center" styleCode="Rrule Lrule Toprule Botrule " valign="top">
+                              <paragraph>
+                                 <content styleCode="bold">Mean baseline score (SD)</content>
+                              </paragraph>
+                           </td>
+                           <td align="center" styleCode="Rrule Lrule Toprule Botrule " valign="top">
+                              <paragraph>
+                                 <content styleCode="bold">Mean change from baseline Week 4 score (SD)</content>
+                              </paragraph>
+                           </td>
+                        </tr>
+                        <tr>
+                           <td styleCode="Rrule Lrule Botrule " valign="top">
+                              <paragraph>Study 1</paragraph>
+                           </td>
+                           <td styleCode="Rrule Lrule Toprule Botrule " valign="top">
+                              <paragraph>Focalin 5-20 mg/day<sup>b</sup>
+                                 <br/>(n = 44)</paragraph>
+                           </td>
+                           <td align="center" styleCode="Rrule Lrule Toprule Botrule " valign="top">
+                              <paragraph>1.4 (0.7) (n = 42)</paragraph>
+                           </td>
+                           <td align="center" styleCode="Rrule Lrule Toprule Botrule " valign="top">
+                              <paragraph>- 0.7 (0.7) (n = 42)</paragraph>
+                           </td>
+                        </tr>
+                        <tr>
+                           <td styleCode="Rrule Botrule Lrule Toprule " valign="top"/>
+                           <td styleCode="Rrule Botrule Lrule Toprule " valign="top">
+                              <paragraph>Placebo (n = 42)</paragraph>
+                           </td>
+                           <td align="center" styleCode="Rrule Botrule Lrule Toprule " valign="top">
+                              <paragraph>1.6 (0.7) (n = 41)</paragraph>
+                           </td>
+                           <td align="center" styleCode="Rrule Botrule Lrule Toprule " valign="top">
+                              <paragraph>- 0.2 (0.7) (n = 39)</paragraph>
+                           </td>
+                        </tr>
+                     </tbody>
+                  </table>
+                  <list listType="ordered">
+                     <item>
+                        <caption> </caption>Abbreviations: ADHD, attention deficit hyperactivity disorder; SD, standard deviation; SNAP; swanson, Nolan and Pelham; n, number of patients available at the assessment time point.<br/>
+                        <sup>a</sup>Average of two ratings.<br/>
+                        <sup>b</sup>Statistically significantly different from placebo. </item>
+                  </list>
+                  <paragraph>Study 2 was a multicenter, placebo-controlled, double-blind, 2-week treatment withdrawal study in 75 children (ages 6 to 12 years) who were responders during a 6-week, open-label initial treatment period. Children took study medication twice a day separated by a 3.5 to 5.5 hour interval. The primary outcome was proportion of treatment failures at the end of the 2-week withdrawal phase, where treatment failure was defined as a rating of 6 (much worse) or 7 (very much worse) on the Investigator Clinical Global Impression - Improvement (CGI-I). Patients continued on Focalin showed a statistically significant lower rate of failure over patients who received placebo (Table 4).</paragraph>
+                  <table ID="_RefID0E6NAG" width="100%">
+                     <caption>Table 4: Summary of Efficacy Results from ADHD Randomized Withdrawal Study in Pediatric Patients (6 – 17 years) (Study 2)</caption>
+                     <col width="16%"/>
+                     <col width="25%"/>
+                     <col width="29%"/>
+                     <col width="29%"/>
+                     <tbody>
+                        <tr>
+                           <td styleCode="Rrule Botrule Lrule Toprule " valign="top">
+                              <paragraph>
+                                 <content styleCode="bold">Study number</content>
+                              </paragraph>
+                           </td>
+                           <td styleCode="Rrule Botrule Lrule Toprule " valign="top">
+                              <paragraph>
+                                 <content styleCode="bold">Treatment group</content>
+                              </paragraph>
+                           </td>
+                           <td align="center" colspan="2" styleCode="Rrule Botrule Lrule Toprule " valign="top">
+                              <paragraph>
+                                 <content styleCode="bold">Primary efficacy measure: proportion of treatment failure<sup>a</sup>
+                                 </content>
+                              </paragraph>
+                           </td>
+                        </tr>
+                        <tr>
+                           <td styleCode="Rrule Lrule Botrule " valign="top"/>
+                           <td styleCode="Rrule Lrule Toprule Botrule " valign="top"/>
+                           <td align="center" styleCode="Rrule Lrule Toprule Botrule " valign="top">
+                              <paragraph>
+                                 <content styleCode="bold">Number of treatment failures / Number of randomized patients</content>
+                              </paragraph>
+                           </td>
+                           <td align="center" styleCode="Rrule Lrule Toprule Botrule " valign="top">
+                              <paragraph>
+                                 <content styleCode="bold">Percentage</content>
+                              </paragraph>
+                           </td>
+                        </tr>
+                        <tr>
+                           <td styleCode="Rrule Lrule Botrule " valign="top">
+                              <paragraph>Study 2</paragraph>
+                           </td>
+                           <td styleCode="Rrule Lrule Toprule Botrule " valign="top">
+                              <paragraph>Focalin 5-20 mg/day<sup>b</sup>
+                              </paragraph>
+                           </td>
+                           <td align="center" styleCode="Rrule Lrule Toprule Botrule " valign="top">
+                              <paragraph>6/35</paragraph>
+                           </td>
+                           <td align="center" styleCode="Rrule Lrule Toprule Botrule " valign="top">
+                              <paragraph>17.1% </paragraph>
+                           </td>
+                        </tr>
+                        <tr>
+                           <td styleCode="Rrule Botrule Lrule Toprule " valign="top"/>
+                           <td styleCode="Rrule Botrule Lrule Toprule " valign="top">
+                              <paragraph>Placebo</paragraph>
+                           </td>
+                           <td align="center" styleCode="Rrule Botrule Lrule Toprule " valign="top">
+                              <paragraph>25/40</paragraph>
+                           </td>
+                           <td align="center" styleCode="Rrule Botrule Lrule Toprule " valign="top">
+                              <paragraph>62.5%</paragraph>
+                           </td>
+                        </tr>
+                     </tbody>
+                  </table>
+                  <list listType="ordered">
+                     <item>
+                        <caption> </caption>Abbreviation: ADHD, attention deficit hyperactivity disorder.<br/>
+                        <sup>a</sup>One patient did not have the value at Visit 10 and hence not included in this analysis.<br/>
+                        <sup>b</sup>Statistically significantly different from placebo. </item>
+                  </list>
+               </text>
+               <effectiveTime value="20231013"/>
+            </section>
+         </component>
+         <component>
+            <section ID="s16">
+               <id root="791b8ab7-f804-420b-bff5-7aa430cd3766"/>
+               <code code="34069-5" codeSystem="2.16.840.1.113883.6.1" displayName="HOW SUPPLIED SECTION"/>
+               <title>16     HOW SUPPLIED/STORAGE AND HANDLING</title>
+               <text>
+                  <paragraph>Focalin (dexmethylphenidate hydrochloride) tablets (D-shaped, embossed “D” on upper convex face and dosage strength on lower convex face) are available as follows:</paragraph>
+                  <list listType="unordered">
+                     <item>
+                        <caption>•</caption>2.5 mg tablets (NDC 0078-0380-05) blue, supplied in bottles of 100</item>
+                     <item>
+                        <caption>•</caption>5 mg tablets (NDC 0078-0381-05) yellow, supplied in bottles of 100</item>
+                     <item>
+                        <caption>•</caption>10 mg tablets (NDC 0078-0382-05) white, supplied in bottles of 100</item>
+                  </list>
+                  <paragraph>Store at 20°C to 25°C (68°F to 77°F); excursions permitted between 15°C and 30°C (59°F and 86°F) [see USP Controlled Room Temperature].</paragraph>
+                  <paragraph>Dispense in tight, light-resistant container (USP).</paragraph>
+               </text>
+               <effectiveTime value="20231013"/>
+            </section>
+         </component>
+         <component>
+            <section ID="s17">
+               <id root="43d8c40d-209e-4a2d-9afe-8cb535cb6a10"/>
+               <code code="34076-0" codeSystem="2.16.840.1.113883.6.1" displayName="INFORMATION FOR PATIENTS SECTION"/>
+               <title>17     PATIENT COUNSELING INFORMATION</title>
+               <text>
+                  <paragraph>Advise the patient to read the FDA-approved patient labeling (Medication Guide).</paragraph>
+                  <paragraph>
+                     <content styleCode="underline">Abuse, Misuse, and Addiction</content>
+                  </paragraph>
+                  <paragraph>Educate patients and their families about the risks of abuse, misuse, and addiction of Focalin, which can lead to overdose and death, and proper disposal of any unused drug <content styleCode="italics">[see Warnings and Precautions (<linkHtml href="#s5p1">5.1</linkHtml>), Drug Abuse and Dependence (<linkHtml href="#s9p2">9.2</linkHtml>), Overdosage (<linkHtml href="#s10">10</linkHtml>)].</content> Advise patients to store Focalin in a safe place, preferably locked, and instruct patients to not give Focalin to anyone else.</paragraph>
+                  <paragraph>
+                     <content styleCode="underline">Risks to Patients with Serious Cardiac Disease</content>
+                  </paragraph>
+                  <paragraph>Advise patients that there are potential risks to patients with serious cardiac disease, including sudden death, with Focalin use. Instruct patients to contact a healthcare provider immediately if they develop symptoms, such as exertional chest pain, unexplained syncope, or other symptoms suggestive of cardiac disease <content styleCode="italics">[see Warnings and Precautions (<linkHtml href="#s5p2">5.2</linkHtml>)].</content>
+                  </paragraph>
+                  <paragraph>
+                     <content styleCode="underline">Increased Blood Pressure and Heart Rate</content>
+                  </paragraph>
+                  <paragraph>Instruct patients that Focalin can cause elevations of their blood pressure and pulse rate <content styleCode="italics">[see Warnings and Precautions (<linkHtml href="#s5p3">5.3</linkHtml>)]</content>.</paragraph>
+                  <paragraph>
+                     <content styleCode="underline">Psychiatric Adverse Reactions</content>
+                  </paragraph>
+                  <paragraph>Advise patients that Focalin, at recommended doses, can cause psychotic or manic symptoms, even in patients without prior history of psychotic symptoms or mania <content styleCode="italics">[see Warnings and Precautions (<linkHtml href="#s5p4">5.4</linkHtml>)]</content>.</paragraph>
+                  <paragraph>
+                     <content styleCode="underline">Priapism</content>
+                  </paragraph>
+                  <paragraph>Advise patients of the possibility of painful or prolonged penile erections (priapism). Instruct them to seek immediate medical attention in the event of priapism <content styleCode="italics">[see Warnings and Precautions (<linkHtml href="#s5p5">5.5</linkHtml>)]</content>.</paragraph>
+                  <paragraph>
+                     <content styleCode="underline">Circulation Problems in Fingers and Toes [Peripheral Vasculopathy, Including Raynaud’s Phenomenon]</content>
+                  </paragraph>
+                  <paragraph>Instruct patients beginning treatment with Focalin about the risk of peripheral vasculopathy, including Raynaud’s phenomenon, and associated signs and symptoms: fingers or toes may feel numb, cool, painful, and/or may change color from pale, to blue, to red. Instruct patients to report to their physician any new numbness, pain, skin color change, or sensitivity to temperature in fingers or toes.</paragraph>
+                  <paragraph>Instruct patients to call their physician immediately with any signs of unexplained wounds appearing on fingers or toes while taking Focalin. Further clinical evaluation (e.g., rheumatology referral) may be appropriate for certain patients <content styleCode="italics">[see Warnings and Precautions (<linkHtml href="#s5p6">5.6</linkHtml>)]</content>.</paragraph>
+                  <paragraph>
+                     <content styleCode="underline">Long-Term Suppression of Growth in Pediatric Patients</content>
+                  </paragraph>
+                  <paragraph>Advise patients that Focalin may cause slowing of growth and weight loss <content styleCode="italics">[see Warnings and Precautions (<linkHtml href="#s5p7">5.7</linkHtml>)]</content>.</paragraph>
+                  <paragraph>
+                     <content styleCode="underline">Increased Intraocular Pressure (IOP) and Glaucoma</content>
+                  </paragraph>
+                  <paragraph>Advise patients that IOP and glaucoma may occur during treatment with Focalin <content styleCode="italics">[see Warnings and Precautions (<linkHtml href="#ID_a862d332-81bb-416f-af74-92be0c431e26">5.9</linkHtml>)]</content>.</paragraph>
+                  <paragraph>
+                     <content styleCode="underline">Motor and Verbal Tics, and Worsening of Tourette’s Syndrome</content>
+                  </paragraph>
+                  <paragraph>Advise patients that motor and verbal tics and worsening of Tourette’s Syndrome may occur during treatment with Focalin.</paragraph>
+                  <paragraph>Instruct patients to notify their healthcare provider if emergence of new tics or worsening of tics or Tourette’s syndrome occurs <content styleCode="italics">[see Warnings and Precautions (<linkHtml href="#ID_3777f536-742c-460c-9ed8-c368ca11ca53">5.10</linkHtml>)]</content>.</paragraph>
+                  <paragraph>
+                     <content styleCode="underline">Pregnancy Registry</content>
+                  </paragraph>
+                  <paragraph>Advise patients that there is a pregnancy exposure registry that monitors pregnancy outcomes in patients exposed to ADHD medications, including Focalin, during pregnancy <content styleCode="italics">[see Use in Specific Populations (<linkHtml href="#s8p1">8.1</linkHtml>)]</content>.</paragraph>
+                  <paragraph>Distributed by:<br/>Novartis Pharmaceuticals Corporation<br/>East Hanover, New Jersey 07936</paragraph>
+               </text>
+               <effectiveTime value="20231013"/>
+            </section>
+         </component>
+         <component>
+            <section ID="ID_842d95ea-5538-41fa-a15e-2a658862474b">
+               <id root="710f03e1-2322-4614-9d23-c99025de9f9e"/>
+               <code code="42231-1" codeSystem="2.16.840.1.113883.6.1" displayName="SPL MEDGUIDE SECTION"/>
+               <text>
+                  <table width="100%">
+                     <col width="100%"/>
+                     <tbody>
+                        <tr>
+                           <td align="center" styleCode="Rrule Botrule Lrule Toprule " valign="top">
+                              <paragraph>
+                                 <content styleCode="bold">MEDICATION GUIDE</content>
+                                 <br/>
+                                 <content styleCode="bold">FOCALIN<sup>®</sup> (foh-kuh-lin)</content>
+                                 <br/>
+                                 <content styleCode="bold">(dexmethylphenidate hydrochloride) </content>
+                              </paragraph>
+                              <paragraph>
+                                 <content styleCode="bold">tablets for oral use, CII</content>
+                              </paragraph>
+                           </td>
+                        </tr>
+                        <tr>
+                           <td styleCode="Rrule Lrule Toprule Botrule " valign="top">
+                              <paragraph>
+                                 <content styleCode="bold">What is the most important information I should know about FOCALIN?</content>
+                              </paragraph>
+                              <paragraph>
+                                 <content styleCode="bold">FOCALIN may cause serious side effects, including:</content>
+                              </paragraph>
+                              <list listType="unordered">
+                                 <item>
+                                    <caption>•</caption>
+                                    <content styleCode="bold">Abuse, misuse, and addiction. </content>FOCALIN has a high chance for abuse and misuse and may lead to substance use problems, including addiction. Misuse and abuse of FOCALIN, other methylphenidate containing medicines, and amphetamine containing medicines, can lead to overdose and death. The risk of overdose and death is increased with higher doses of FOCALIN or when it is used in ways that are not approved, such as snorting or injection.</item>
+                                 <item>
+                                    <caption>o</caption>Your healthcare provider should check you or your child’s risk for abuse, misuse, and addiction before starting treatment with FOCALIN and will monitor you or your child during treatment.</item>
+                                 <item>
+                                    <caption>o</caption>FOCALIN may lead to physical dependence after prolonged use, even if taken as directed by your healthcare provider.</item>
+                                 <item>
+                                    <caption>o</caption>Do not give FOCALIN to anyone else. See <content styleCode="bold">“What is FOCALIN?” </content>for more information.</item>
+                                 <item>
+                                    <caption>o</caption>Keep FOCALIN in a safe place and properly dispose of any unused medicine. See <content styleCode="bold">“How should I store FOCALIN?” </content>for more information.</item>
+                                 <item>
+                                    <caption>o</caption>Tell your healthcare provider if you or your child have ever abused or been dependent on alcohol, prescription medicines, or street drugs.</item>
+                                 <item>
+                                    <caption>•</caption>
+                                    <content styleCode="bold">Risks for people with serious heart disease. </content>Sudden death has happened in people who have heart defects or other serious heart disease.</item>
+                              </list>
+                              <paragraph>Your healthcare provider should check you or your child carefully for heart problems before starting FOCALIN. Tell your healthcare provider if you or your child have any heart problems, heart disease, or heart defects.</paragraph>
+                              <paragraph>
+                                 <content styleCode="bold">Call your healthcare provider or go to the nearest hospital emergency room right away if you or your child has any signs of heart problems, such as chest pain, shortness of breath, or fainting while taking FOCALIN.</content>
+                              </paragraph>
+                              <list listType="unordered">
+                                 <item>
+                                    <caption>•</caption>
+                                    <content styleCode="bold">Increased blood pressure and heart rate. </content>Your healthcare provider should check you or your child’s blood pressure and heart rate regularly during treatment with FOCALIN.</item>
+                                 <item>
+                                    <caption>•</caption>
+                                    <content styleCode="bold">Mental (psychiatric) problems:</content>
+                                 </item>
+                                 <item>
+                                    <caption> </caption>
+                                    <content styleCode="bold">All Patients</content>
+                                 </item>
+                                 <item>
+                                    <caption>o</caption>new or worse behavior and thought problems</item>
+                                 <item>
+                                    <caption>o</caption>new or worse bipolar illness</item>
+                                 <item>
+                                    <caption>o</caption>new psychotic symptoms (such as hearing voices, believing things that are not true, are suspicious) or new manic symptoms</item>
+                              </list>
+                              <paragraph>Tell your healthcare provider about any mental problems you or your child have, or about a family history of suicide,</paragraph>
+                              <paragraph>bipolar illness, or depression.</paragraph>
+                              <paragraph>
+                                 <content styleCode="bold">Call your healthcare provider right away if you or your child have any new or worsening mental symptoms or</content>
+                              </paragraph>
+                              <paragraph>
+                                 <content styleCode="bold">problems while taking FOCALIN, especially seeing or hearing things that are not real, believing things that are not real, or are suspicious.</content>
+                              </paragraph>
+                           </td>
+                        </tr>
+                        <tr>
+                           <td styleCode="Rrule Lrule Toprule Botrule " valign="top">
+                              <paragraph>
+                                 <content styleCode="bold">What is FOCALIN?</content>
+                              </paragraph>
+                              <list listType="unordered">
+                                 <item>
+                                    <caption>•</caption>FOCALIN is a central nervous system stimulant (CNS) prescription medicine. <content styleCode="bold">It is used for the treatment of Attention-Deficit Hyperactivity Disorder (ADHD). </content>FOCALIN may help increase attention and decrease impulsiveness and hyperactivity in patients with ADHD.</item>
+                                 <item>
+                                    <caption>•</caption>FOCALIN should be used as a part of a total treatment program for ADHD that may include counseling or other therapies.</item>
+                              </list>
+                              <paragraph>
+                                 <content styleCode="bold">FOCALIN is a federally controlled substance (CII) because it contains dexmethylphenidate that can be a target for people who abuse prescription medicines or street drugs. </content>Keep FOCALIN in a safe place to protect it from theft. Never give your FOCALIN to anyone else because it may cause death or harm them. Selling or giving away FOCALIN may harm others and is against the law.</paragraph>
+                           </td>
+                        </tr>
+                        <tr>
+                           <td styleCode="Rrule Lrule Toprule Botrule " valign="top">
+                              <paragraph>
+                                 <content styleCode="bold">Who should not take FOCALIN?</content>
+                              </paragraph>
+                              <paragraph>
+                                 <content styleCode="bold">FOCALIN should not be taken if you or your child:</content>
+                              </paragraph>
+                              <list listType="unordered">
+                                 <item>
+                                    <caption>•</caption>are allergic to methylphenidate hydrochloride, or any of the ingredients in FOCALIN. See the end of this Medication Guide for a complete list of ingredients in FOCALIN.</item>
+                                 <item>
+                                    <caption>•</caption>are taking or have taken within the past 14 days an anti-depression medicine called a monoamine oxidase inhibitor (MAOI).</item>
+                              </list>
+                           </td>
+                        </tr>
+                        <tr>
+                           <td styleCode="Rrule Lrule Toprule Botrule " valign="top">
+                              <paragraph>
+                                 <content styleCode="bold">FOCALIN may not be right for you or your child. Before starting FOCALIN, tell your or your child’s healthcare provider about all health conditions (or a family history of), including:</content>
+                              </paragraph>
+                              <list listType="unordered">
+                                 <item>
+                                    <caption>•</caption>heart problems, heart disease, heart defects, or high blood pressure</item>
+                                 <item>
+                                    <caption>•</caption>mental problems, including psychosis, mania, bipolar illness, or depression</item>
+                                 <item>
+                                    <caption>•</caption>circulation problems in fingers or toes</item>
+                                 <item>
+                                    <caption>•</caption>have eye problems, including increased pressure in your eye, glaucoma, or problems with your close-up vision (farsightedness)</item>
+                                 <item>
+                                    <caption>•</caption>have or had repeated movements or sounds (tics) or Tourette’s syndrome, or have a family history of tics or Tourette’s syndrome.</item>
+                                 <item>
+                                    <caption>•</caption>if you are pregnant or plan to become pregnant. It is not known if FOCALIN will harm your unborn baby.</item>
+                                 <item>
+                                    <caption>o</caption>There is a pregnancy registry for females who are exposed to ADHD medications, including FOCALIN during pregnancy. The purpose of the registry is to collect information about the health of females exposed to FOCALIN and their baby. If you or your child becomes pregnant during treatment with FOCALIN, talk to your healthcare provider about registering with the National Pregnancy Registry of ADHD medications at 1-866- 961-2388 or visit online at https://womensmentalhealth.org/adhd-medications/.</item>
+                                 <item>
+                                    <caption>•</caption>if you are breastfeeding or plan to breastfeed. FOCALIN passes into your breast milk. Talk to your healthcare provider about the best way to feed the baby during treatment with FOCALIN.</item>
+                              </list>
+                              <paragraph>
+                                 <content styleCode="bold">Tell your healthcare provider about all of the medicines that you or your child takes, including prescription and over-the- counter medicines, vitamins, and herbal supplements. </content>FOCALIN and some medicines may interact with each other and cause serious side effects. Sometimes the doses of other medicines will need to be adjusted while taking FOCALIN.</paragraph>
+                              <paragraph>Your healthcare provider will decide whether FOCALIN can be taken with other medicines.</paragraph>
+                              <paragraph>
+                                 <content styleCode="bold">Especially tell your healthcare provider if you or your child takes:</content>
+                              </paragraph>
+                              <list listType="unordered">
+                                 <item>
+                                    <caption>•</caption>blood pressure medicines (anti-hypertensive)</item>
+                              </list>
+                              <paragraph>Know the medicines that you or your child takes. Keep a list of your medicines with you to show your healthcare provider and pharmacist.</paragraph>
+                              <list listType="unordered">
+                                 <item>
+                                    <caption>•</caption>You should not take FOCALIN on the day of your operation if a certain type of anesthetic is used. This is because there is a chance of a sudden rise in blood pressure and heart rate during the operation.</item>
+                              </list>
+                              <paragraph>
+                                 <content styleCode="bold">Do not start any new medicine while taking FOCALIN without talking to your healthcare provider first.</content>
+                              </paragraph>
+                           </td>
+                        </tr>
+                        <tr>
+                           <td styleCode="Rrule Lrule Toprule Botrule " valign="top">
+                              <paragraph>
+                                 <content styleCode="bold">How should FOCALIN be taken?</content>
+                              </paragraph>
+                              <list listType="unordered">
+                                 <item>
+                                    <caption>•</caption>Take FOCALIN exactly as prescribed. Your healthcare provider may adjust the dose until it is right for you or your child.</item>
+                                 <item>
+                                    <caption>•</caption>Take FOCALIN twice daily, at least 4 hours apart.</item>
+                                 <item>
+                                    <caption>•</caption>FOCALIN may be taken with or without food.</item>
+                                 <item>
+                                    <caption>•</caption>Your healthcare provider may do regular checks of the blood, heart, and blood pressure while taking FOCALIN.</item>
+                                 <item>
+                                    <caption>•</caption>Children should have their height and weight checked often while taking FOCALIN. FOCALIN treatment may be stopped if a problem is found during these check-ups.</item>
+                              </list>
+                              <paragraph>If you or your child take too much FOCALIN, call your healthcare provider or Poison Help line at 1-800-222-1222 or go to the nearest hospital emergency room right away.</paragraph>
+                           </td>
+                        </tr>
+                        <tr>
+                           <td styleCode="Rrule Lrule Toprule " valign="top">
+                              <paragraph>
+                                 <content styleCode="bold">What are the possible side effects of FOCALIN?</content>
+                              </paragraph>
+                              <paragraph>
+                                 <content styleCode="bold">FOCALIN may cause serious side effects, including:</content>
+                              </paragraph>
+                              <list listType="unordered">
+                                 <item>
+                                    <caption>•</caption>see <content styleCode="bold">“What is the most important information I should know about FOCALIN?” </content>for information on reported heart and mental problems.</item>
+                                 <item>
+                                    <caption>•</caption>
+                                    <content styleCode="bold">painful and prolonged erections (priapism) </content>have occurred with methylphenidate. If you or your child develops priapism, seek medical help right away. Because of the potential for lasting damage, priapism should be evaluated by a healthcare provider immediately.</item>
+                                 <item>
+                                    <caption>•</caption>
+                                    <content styleCode="bold">circulation problems in fingers and toes </content>(peripheral vasculopathy, including Raynaud’s phenomenon):</item>
+                                 <item>
+                                    <caption>o</caption>fingers or toes may feel numb, cool, painful</item>
+                                 <item>
+                                    <caption>o</caption>fingers or toes may change color from pale, to blue, to red</item>
+                              </list>
+                              <paragraph>Tell your healthcare provider if you or your child have, numbness, pain, skin color change, or sensitivity to temperature in the fingers or toes.</paragraph>
+                              <list listType="unordered">
+                                 <item>
+                                    <caption>•</caption>
+                                    <content styleCode="bold">Call your healthcare provider right away if you have or your child has any signs of unexplained wounds appearing on fingers or toes while taking FOCALIN.</content>
+                                 </item>
+                                 <item>
+                                    <caption>•</caption>
+                                    <content styleCode="bold">Slowing of growth (height and weight) in children. </content>Children should have their height and weight checked often during treatment with FOCALIN. FOCALIN treatment may be stopped if your child is not growing or gaining weight.</item>
+                                 <item>
+                                    <caption>•</caption>
+                                    <content styleCode="bold">Eye problems (increased pressure in the eye and glaucoma). </content>Call your healthcare provider right away if you or your child develop changes in your vision or eye pain, swelling, or redness.</item>
+                                 <item>
+                                    <caption>•</caption>
+                                    <content styleCode="bold">New or worsening tics or worsening Tourette’s syndrome. </content>Tell your healthcare provider if you or your child get any new or worsening tics or worsening Tourette’s syndrome during treatment with FOCALIN.</item>
+                                 <item>
+                                    <caption>•</caption>
+                                    <content styleCode="bold">Common side effects include:</content>
+                                    <list listType="unordered">
+                                       <item>
+                                          <caption>•</caption>abdominal pain</item>
+                                       <item>
+                                          <caption>•</caption>fever</item>
+                                       <item>
+                                          <caption>•</caption>anorexia</item>
+                                       <item>
+                                          <caption>•</caption>nausea</item>
+                                    </list>
+                                 </item>
+                              </list>
+                              <paragraph> Call your doctor for medical advice about side effects. <content styleCode="bold">You may report side effects to FDA at 1-800-FDA-1088.</content>
+                              </paragraph>
+                           </td>
+                        </tr>
+                        <tr>
+                           <td styleCode="Rrule Lrule Botrule " valign="middle"/>
+                        </tr>
+                        <tr>
+                           <td styleCode="Rrule Lrule Toprule " valign="top">
+                              <paragraph>
+                                 <content styleCode="bold">How should I store FOCALIN?</content>
+                              </paragraph>
+                              <list listType="unordered">
+                                 <item>
+                                    <caption>•</caption>Store FOCALIN in a safe place and in a tightly closed container at room temperature between 68°F to 77°F (20°C to 25°C).</item>
+                                 <item>
+                                    <caption>•</caption>Protect from light.</item>
+                                 <item>
+                                    <caption>•</caption>Dispose of remaining, unused, or expired FOCALIN by a medicine take-back program at a U.S. Drug Enforcement Administration (DEA) authorized collection site. If no take-back program or DEA authorized collector is available, mix FOCALIN with an undesirable, nontoxic substance, such as dirt, cat litter, or used coffee grounds to make it less appealing to children and pets. Place the mixture in a container, such as a sealed plastic bag and throw away FOCALIN in the household trash. Visit www.fda.gov/drugdisposal for additional information on disposal of unused medicines.</item>
+                                 <item>
+                                    <caption>•</caption>Keep <content styleCode="bold">FOCALIN and all medicines out of the reach of children.</content>
+                                 </item>
+                              </list>
+                           </td>
+                        </tr>
+                        <tr>
+                           <td styleCode="Rrule Lrule Toprule Botrule " valign="top">
+                              <paragraph>
+                                 <content styleCode="bold">General information about the safe and effective use of FOCALIN.</content>
+                              </paragraph>
+                              <paragraph>Medicines are sometimes prescribed for purposes other than those listed in a Medication Guide. You can ask your pharmacist or healthcare provider for information about FOCALIN that is written for healthcare professionals. Do not use FOCALIN for a condition for which it was not prescribed. Do not give FOCALIN to other people, even if they have the same symptoms that you have. It may harm them and it is against the law.</paragraph>
+                           </td>
+                        </tr>
+                        <tr>
+                           <td styleCode="Rrule Botrule Lrule Toprule " valign="top">
+                              <paragraph>
+                                 <content styleCode="bold">What are the ingredients in FOCALIN?</content>
+                              </paragraph>
+                              <paragraph>
+                                 <content styleCode="bold">Active ingredient: </content>dexmethylphenidate hydrochloride</paragraph>
+                              <paragraph>
+                                 <content styleCode="bold">Inactive ingredients: </content>FD&amp;C Blue No.1 #5516 aluminum lake (2.5 mg tablets), D&amp;C Yellow Lake #10 (5 mg tablets); the 10 mg tablet contains no dye, lactose monohydrate, magnesium stearate, microcrystalline cellulose, pregelatinized starch, and sodium starch glycolate.</paragraph>
+                              <paragraph>Distributed by:</paragraph>
+                              <paragraph>Novartis Pharmaceuticals Corporation</paragraph>
+                              <paragraph>East Hanover, New Jersey 07936</paragraph>
+                              <paragraph>© Novartis</paragraph>
+                              <paragraph>For more information, call 1-888-669-6682.</paragraph>
+                           </td>
+                        </tr>
+                     </tbody>
+                  </table>
+                  <list listType="ordered">
+                     <item>
+                        <caption> </caption>This Medication Guide has been approved by the U.S. Food and Drug Administration.	Revised: 10/2023</item>
+                  </list>
+               </text>
+               <effectiveTime value="20231013"/>
+            </section>
+         </component>
+         <component>
+            <section ID="ID_0c0872f0-0b46-4bfe-9a3c-9cfdf3ac4cbe">
+               <id root="9c56a117-2731-4527-be77-8cb2dd1419b2"/>
+               <code code="51945-4" codeSystem="2.16.840.1.113883.6.1" displayName="PACKAGE LABEL.PRINCIPAL DISPLAY PANEL"/>
+               <title>PRINCIPAL DISPLAY PANEL</title>
+               <text>
+                  <list listType="ordered">
+                     <item>
+                        <caption> </caption>NOVARTIS 	       	      	NDC 0078-0380-05</item>
+                  </list>
+                  <paragraph>Focalin<sup>®</sup>
+                  </paragraph>
+                  <paragraph>dexmethylphenidate<br/>hydrochloride</paragraph>
+                  <paragraph>2.5 mg</paragraph>
+                  <paragraph>100 Tablets</paragraph>
+                  <paragraph>Rx only</paragraph>
+                  <paragraph>Dispense with Medication Guide<br/>attached or provided separately.</paragraph>
+                  <renderMultiMedia ID="id1588" referencedObject="MM03000006"/>
+               </text>
+               <effectiveTime value="20231013"/>
+               <component>
+                  <observationMedia ID="MM03000006">
+                     <text>PRINCIPAL DISPLAY PANEL          NOVARTIS          NDC 0078-0380-05          Focalin®          dexmethylphenidate hydrochloride          2.5 mg          100 tablets          Rx only          Dispense with Medication Guide attached or provided separately.          </text>
+                     <value mediaType="image/jpeg" xsi:type="ED">
+                        <reference value="focalin-01.jpg"/>
+                     </value>
+                  </observationMedia>
+               </component>
+            </section>
+         </component>
+         <component>
+            <section ID="ID_0cfc53f6-a970-435a-a54b-ec3f5c84f98a">
+               <id root="c2955d8b-f05a-4c4a-b061-262be8143a22"/>
+               <code code="51945-4" codeSystem="2.16.840.1.113883.6.1" displayName="PACKAGE LABEL.PRINCIPAL DISPLAY PANEL"/>
+               <title>PRINCIPAL DISPLAY PANEL</title>
+               <text>
+                  <list listType="ordered">
+                     <item>
+                        <caption> </caption>NOVARTIS 	       	      	NDC 0078-0381-05</item>
+                  </list>
+                  <paragraph>Focalin<sup>®</sup>
+                  </paragraph>
+                  <paragraph>dexmethylphenidate<br/>hydrochloride</paragraph>
+                  <paragraph>5 mg</paragraph>
+                  <paragraph>100 Tablets</paragraph>
+                  <paragraph>Rx only</paragraph>
+                  <paragraph>Dispense with Medication Guide<br/>attached or provided separately.</paragraph>
+                  <renderMultiMedia ID="id1613" referencedObject="MM03000007"/>
+               </text>
+               <effectiveTime value="20231013"/>
+               <component>
+                  <observationMedia ID="MM03000007">
+                     <text>PRINCIPAL DISPLAY PANEL          NOVARTIS          NDC 0078-0381-05          Focalin®          dexmethylphenidate hydrochloride          5 mg          100 tablets          Rx only          Dispense with Medication Guide attached or provided separately.          </text>
+                     <value mediaType="image/jpeg" xsi:type="ED">
+                        <reference value="focalin-02.jpg"/>
+                     </value>
+                  </observationMedia>
+               </component>
+            </section>
+         </component>
+         <component>
+            <section ID="ID_a926d41d-24bc-4daf-819f-744675c74f43">
+               <id root="59b27aea-f4bc-42d2-8b04-64f7fea93027"/>
+               <code code="51945-4" codeSystem="2.16.840.1.113883.6.1" displayName="PACKAGE LABEL.PRINCIPAL DISPLAY PANEL"/>
+               <title>PRINCIPAL DISPLAY PANEL</title>
+               <text>
+                  <list listType="ordered">
+                     <item>
+                        <caption> </caption>NOVARTIS 	       	      	NDC 0078-0382-05</item>
+                  </list>
+                  <paragraph>Focalin<sup>®</sup>
+                  </paragraph>
+                  <paragraph>dexmethylphenidate<br/>hydrochloride</paragraph>
+                  <paragraph>10 mg</paragraph>
+                  <paragraph>100 Tablets</paragraph>
+                  <paragraph>Rx only</paragraph>
+                  <paragraph>Dispense with Medication Guide<br/>attached or provided separately.</paragraph>
+                  <renderMultiMedia ID="id1638" referencedObject="MM03000008"/>
+               </text>
+               <effectiveTime value="20231013"/>
+               <component>
+                  <observationMedia ID="MM03000008">
+                     <text>PRINCIPAL DISPLAY PANEL          NOVARTIS          NDC 0078-0382-05          Focalin®          dexmethylphenidate hydrochloride          10 mg          100 tablets          Rx only          Dispense with Medication Guide attached or provided separately.          </text>
+                     <value mediaType="image/jpeg" xsi:type="ED">
+                        <reference value="focalin-04.jpg"/>
+                     </value>
+                  </observationMedia>
+               </component>
+            </section>
+         </component>
+      </structuredBody>
+   </component>
+</document>

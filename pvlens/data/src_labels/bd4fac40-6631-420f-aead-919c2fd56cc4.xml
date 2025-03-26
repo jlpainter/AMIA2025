@@ -1,0 +1,1576 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="https://www.accessdata.fda.gov/spl/stylesheet/spl.xsl"?>
+<document xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:hl7-org:v3 https://www.accessdata.fda.gov/spl/schema/spl.xsd">
+   <id root="bd4fac40-6631-420f-aead-919c2fd56cc4"/>
+   <code code="34391-3" displayName="HUMAN PRESCRIPTION DRUG LABEL" codeSystem="2.16.840.1.113883.6.1"/>
+   <title>
+      <content styleCode="bold">These highlights do not include all the information needed to use NORTHERA® </content>
+      <content styleCode="bold">safely and effectively. See full prescribing information for NORTHERA.<br/>
+         <br/>NORTHERA® (droxidopa) capsules, for oral use<br/>Initial U.S. Approval: 2014</content>
+      <br/>
+   </title>
+   <effectiveTime value="20190701"/>
+   <setId root="2179f02c-48d7-48eb-8007-5ae43d8d16bc"/>
+   <versionNumber value="24"/>
+   <author>
+      <time/>
+      <assignedEntity>
+         <representedOrganization>
+            <id extension="009582068" root="1.3.6.1.4.1.519.1"/>
+            <name>Lundbeck Pharmaceuticals LLC</name>
+            <assignedEntity>
+               <assignedOrganization/>
+            </assignedEntity>
+         </representedOrganization>
+      </assignedEntity>
+   </author>
+   <component>
+      <structuredBody>
+         <component>
+            <section>
+               <id root="3b0d5143-809a-409e-b3a9-c453c8c4e323"/>
+               <code code="48780-1" displayName="SPL listing data elements section" codeSystem="2.16.840.1.113883.6.1"/>
+               <effectiveTime value="20190701"/>
+               <subject>
+                  <manufacturedProduct>
+                     <manufacturedProduct>
+                        <code code="67386-820" codeSystem="2.16.840.1.113883.6.69"/>
+                        <name>Northera</name>
+                        <formCode code="C25158" displayName="CAPSULE" codeSystem="2.16.840.1.113883.3.26.1.1"/>
+                        <asEntityWithGeneric>
+                           <genericMedicine>
+                              <name>droxidopa</name>
+                           </genericMedicine>
+                        </asEntityWithGeneric>
+                        <ingredient classCode="ACTIB">
+                           <quantity>
+                              <numerator unit="mg" value="100"/>
+                              <denominator unit="1" value="1"/>
+                           </quantity>
+                           <ingredientSubstance>
+                              <code code="J7A92W69L7" codeSystem="2.16.840.1.113883.4.9"/>
+                              <name>DROXIDOPA</name>
+                              <activeMoiety>
+                                 <activeMoiety>
+                                    <code code="J7A92W69L7" codeSystem="2.16.840.1.113883.4.9"/>
+                                    <name>DROXIDOPA</name>
+                                 </activeMoiety>
+                              </activeMoiety>
+                           </ingredientSubstance>
+                        </ingredient>
+                        <ingredient classCode="IACT">
+                           <ingredientSubstance>
+                              <code code="3OWL53L36A" codeSystem="2.16.840.1.113883.4.9"/>
+                              <name>MANNITOL</name>
+                           </ingredientSubstance>
+                        </ingredient>
+                        <ingredient classCode="IACT">
+                           <ingredientSubstance>
+                              <code code="O8232NY3SJ" codeSystem="2.16.840.1.113883.4.9"/>
+                              <name>STARCH, CORN</name>
+                           </ingredientSubstance>
+                        </ingredient>
+                        <ingredient classCode="IACT">
+                           <ingredientSubstance>
+                              <code code="70097M6I30" codeSystem="2.16.840.1.113883.4.9"/>
+                              <name>MAGNESIUM STEARATE</name>
+                           </ingredientSubstance>
+                        </ingredient>
+                        <ingredient classCode="IACT">
+                           <ingredientSubstance>
+                              <code code="2G86QN327L" codeSystem="2.16.840.1.113883.4.9"/>
+                              <name>GELATIN</name>
+                           </ingredientSubstance>
+                        </ingredient>
+                        <ingredient classCode="IACT">
+                           <ingredientSubstance>
+                              <code code="15FIX9V2JP" codeSystem="2.16.840.1.113883.4.9"/>
+                              <name>TITANIUM DIOXIDE</name>
+                           </ingredientSubstance>
+                        </ingredient>
+                        <ingredient classCode="IACT">
+                           <ingredientSubstance>
+                              <code code="L06K8R7DQK" codeSystem="2.16.840.1.113883.4.9"/>
+                              <name>FD&amp;C BLUE NO. 2</name>
+                           </ingredientSubstance>
+                        </ingredient>
+                        <ingredient classCode="IACT">
+                           <ingredientSubstance>
+                              <code code="1K09F3G675" codeSystem="2.16.840.1.113883.4.9"/>
+                              <name>FERRIC OXIDE RED</name>
+                           </ingredientSubstance>
+                        </ingredient>
+                        <ingredient classCode="IACT">
+                           <ingredientSubstance>
+                              <code code="XM0M87F357" codeSystem="2.16.840.1.113883.4.9"/>
+                              <name>FERROSOFERRIC OXIDE</name>
+                           </ingredientSubstance>
+                        </ingredient>
+                        <asContent>
+                           <quantity>
+                              <numerator unit="1" value="90"/>
+                              <denominator value="1"/>
+                           </quantity>
+                           <containerPackagedProduct>
+                              <code code="67386-820-19" codeSystem="2.16.840.1.113883.6.69"/>
+                              <formCode code="C43169" displayName="BOTTLE" codeSystem="2.16.840.1.113883.3.26.1.1"/>
+                           </containerPackagedProduct>
+                           <subjectOf>
+                              <characteristic>
+                                 <code code="SPLCMBPRDTP" codeSystem="2.16.840.1.113883.1.11.19255"/>
+                                 <value code="C112160" displayName="Type 0: Not a Combination Product" codeSystem="2.16.840.1.113883.3.26.1.1" xsi:type="CV"/>
+                              </characteristic>
+                           </subjectOf>
+                           <subjectOf>
+                              <marketingAct>
+                                 <code code="C53292" codeSystem="2.16.840.1.113883.3.26.1.1"/>
+                                 <statusCode code="active"/>
+                                 <effectiveTime>
+                                    <low value="20140901"/>
+                                 </effectiveTime>
+                              </marketingAct>
+                           </subjectOf>
+                        </asContent>
+                     </manufacturedProduct>
+                     <subjectOf>
+                        <approval>
+                           <id extension="NDA203202" root="2.16.840.1.113883.3.150"/>
+                           <code code="C73594" displayName="NDA" codeSystem="2.16.840.1.113883.3.26.1.1"/>
+                           <author>
+                              <territorialAuthority>
+                                 <territory>
+                                    <code code="USA" codeSystem="2.16.840.1.113883.5.28"/>
+                                 </territory>
+                              </territorialAuthority>
+                           </author>
+                        </approval>
+                     </subjectOf>
+                     <subjectOf>
+                        <marketingAct>
+                           <code code="C53292" codeSystem="2.16.840.1.113883.3.26.1.1"/>
+                           <statusCode code="active"/>
+                           <effectiveTime>
+                              <low value="20140901"/>
+                           </effectiveTime>
+                        </marketingAct>
+                     </subjectOf>
+                     <subjectOf>
+                        <characteristic classCode="OBS">
+                           <code code="SPLCOLOR" codeSystem="2.16.840.1.113883.1.11.19255"/>
+                           <value code="C48333" displayName="blue" codeSystem="2.16.840.1.113883.3.26.1.1" xsi:type="CV">
+                              <originalText>light blue cap</originalText>
+                           </value>
+                        </characteristic>
+                     </subjectOf>
+                     <subjectOf>
+                        <characteristic classCode="OBS">
+                           <code code="SPLCOLOR" codeSystem="2.16.840.1.113883.1.11.19255"/>
+                           <value code="C48325" displayName="white" codeSystem="2.16.840.1.113883.3.26.1.1" xsi:type="CV">
+                              <originalText>opaque white body</originalText>
+                           </value>
+                        </characteristic>
+                     </subjectOf>
+                     <subjectOf>
+                        <characteristic classCode="OBS">
+                           <code code="SPLIMPRINT" codeSystem="2.16.840.1.113883.1.11.19255"/>
+                           <value xsi:type="ST">Northera;100</value>
+                        </characteristic>
+                     </subjectOf>
+                     <subjectOf>
+                        <characteristic classCode="OBS">
+                           <code code="SPLSCORE" codeSystem="2.16.840.1.113883.1.11.19255"/>
+                           <value value="1" xsi:type="INT"/>
+                        </characteristic>
+                     </subjectOf>
+                     <subjectOf>
+                        <characteristic classCode="OBS">
+                           <code code="SPLSHAPE" codeSystem="2.16.840.1.113883.1.11.19255"/>
+                           <value code="C48336" displayName="CAPSULE" codeSystem="2.16.840.1.113883.3.26.1.1" xsi:type="CV">
+                              <originalText>CAPSULE</originalText>
+                           </value>
+                        </characteristic>
+                     </subjectOf>
+                     <subjectOf>
+                        <characteristic classCode="OBS">
+                           <code code="SPLSIZE" codeSystem="2.16.840.1.113883.1.11.19255"/>
+                           <value unit="mm" value="16" xsi:type="PQ"/>
+                        </characteristic>
+                     </subjectOf>
+                     <consumedIn>
+                        <substanceAdministration>
+                           <routeCode code="C38288" displayName="ORAL" codeSystem="2.16.840.1.113883.3.26.1.1"/>
+                        </substanceAdministration>
+                     </consumedIn>
+                  </manufacturedProduct>
+               </subject>
+               <subject>
+                  <manufacturedProduct>
+                     <manufacturedProduct>
+                        <code code="67386-821" codeSystem="2.16.840.1.113883.6.69"/>
+                        <name>Northera</name>
+                        <formCode code="C25158" displayName="CAPSULE" codeSystem="2.16.840.1.113883.3.26.1.1"/>
+                        <asEntityWithGeneric>
+                           <genericMedicine>
+                              <name>droxidopa</name>
+                           </genericMedicine>
+                        </asEntityWithGeneric>
+                        <ingredient classCode="ACTIB">
+                           <quantity>
+                              <numerator unit="mg" value="200"/>
+                              <denominator unit="1" value="1"/>
+                           </quantity>
+                           <ingredientSubstance>
+                              <code code="J7A92W69L7" codeSystem="2.16.840.1.113883.4.9"/>
+                              <name>DROXIDOPA</name>
+                              <activeMoiety>
+                                 <activeMoiety>
+                                    <code code="J7A92W69L7" codeSystem="2.16.840.1.113883.4.9"/>
+                                    <name>DROXIDOPA</name>
+                                 </activeMoiety>
+                              </activeMoiety>
+                           </ingredientSubstance>
+                        </ingredient>
+                        <ingredient classCode="IACT">
+                           <ingredientSubstance>
+                              <code code="3OWL53L36A" codeSystem="2.16.840.1.113883.4.9"/>
+                              <name>MANNITOL</name>
+                           </ingredientSubstance>
+                        </ingredient>
+                        <ingredient classCode="IACT">
+                           <ingredientSubstance>
+                              <code code="O8232NY3SJ" codeSystem="2.16.840.1.113883.4.9"/>
+                              <name>STARCH, CORN</name>
+                           </ingredientSubstance>
+                        </ingredient>
+                        <ingredient classCode="IACT">
+                           <ingredientSubstance>
+                              <code code="70097M6I30" codeSystem="2.16.840.1.113883.4.9"/>
+                              <name>MAGNESIUM STEARATE</name>
+                           </ingredientSubstance>
+                        </ingredient>
+                        <ingredient classCode="IACT">
+                           <ingredientSubstance>
+                              <code code="2G86QN327L" codeSystem="2.16.840.1.113883.4.9"/>
+                              <name>GELATIN</name>
+                           </ingredientSubstance>
+                        </ingredient>
+                        <ingredient classCode="IACT">
+                           <ingredientSubstance>
+                              <code code="15FIX9V2JP" codeSystem="2.16.840.1.113883.4.9"/>
+                              <name>TITANIUM DIOXIDE</name>
+                           </ingredientSubstance>
+                        </ingredient>
+                        <ingredient classCode="IACT">
+                           <ingredientSubstance>
+                              <code code="L06K8R7DQK" codeSystem="2.16.840.1.113883.4.9"/>
+                              <name>FD&amp;C BLUE NO. 2</name>
+                           </ingredientSubstance>
+                        </ingredient>
+                        <ingredient classCode="IACT">
+                           <ingredientSubstance>
+                              <code code="EX438O2MRT" codeSystem="2.16.840.1.113883.4.9"/>
+                              <name>FERRIC OXIDE YELLOW</name>
+                           </ingredientSubstance>
+                        </ingredient>
+                        <ingredient classCode="IACT">
+                           <ingredientSubstance>
+                              <code code="XM0M87F357" codeSystem="2.16.840.1.113883.4.9"/>
+                              <name>FERROSOFERRIC OXIDE</name>
+                           </ingredientSubstance>
+                        </ingredient>
+                        <asContent>
+                           <quantity>
+                              <numerator unit="1" value="90"/>
+                              <denominator value="1"/>
+                           </quantity>
+                           <containerPackagedProduct>
+                              <code code="67386-821-19" codeSystem="2.16.840.1.113883.6.69"/>
+                              <formCode code="C43169" displayName="BOTTLE" codeSystem="2.16.840.1.113883.3.26.1.1"/>
+                           </containerPackagedProduct>
+                           <subjectOf>
+                              <characteristic>
+                                 <code code="SPLCMBPRDTP" codeSystem="2.16.840.1.113883.1.11.19255"/>
+                                 <value code="C112160" displayName="Type 0: Not a Combination Product" codeSystem="2.16.840.1.113883.3.26.1.1" xsi:type="CV"/>
+                              </characteristic>
+                           </subjectOf>
+                           <subjectOf>
+                              <marketingAct>
+                                 <code code="C53292" codeSystem="2.16.840.1.113883.3.26.1.1"/>
+                                 <statusCode code="active"/>
+                                 <effectiveTime>
+                                    <low value="20140901"/>
+                                 </effectiveTime>
+                              </marketingAct>
+                           </subjectOf>
+                        </asContent>
+                     </manufacturedProduct>
+                     <subjectOf>
+                        <approval>
+                           <id extension="NDA203202" root="2.16.840.1.113883.3.150"/>
+                           <code code="C73594" displayName="NDA" codeSystem="2.16.840.1.113883.3.26.1.1"/>
+                           <author>
+                              <territorialAuthority>
+                                 <territory>
+                                    <code code="USA" codeSystem="2.16.840.1.113883.5.28"/>
+                                 </territory>
+                              </territorialAuthority>
+                           </author>
+                        </approval>
+                     </subjectOf>
+                     <subjectOf>
+                        <marketingAct>
+                           <code code="C53292" codeSystem="2.16.840.1.113883.3.26.1.1"/>
+                           <statusCode code="active"/>
+                           <effectiveTime>
+                              <low value="20140901"/>
+                           </effectiveTime>
+                        </marketingAct>
+                     </subjectOf>
+                     <subjectOf>
+                        <characteristic classCode="OBS">
+                           <code code="SPLCOLOR" codeSystem="2.16.840.1.113883.1.11.19255"/>
+                           <value code="C48330" displayName="yellow" codeSystem="2.16.840.1.113883.3.26.1.1" xsi:type="CV">
+                              <originalText>opaque light yellow cap</originalText>
+                           </value>
+                        </characteristic>
+                     </subjectOf>
+                     <subjectOf>
+                        <characteristic classCode="OBS">
+                           <code code="SPLCOLOR" codeSystem="2.16.840.1.113883.1.11.19255"/>
+                           <value code="C48325" displayName="white" codeSystem="2.16.840.1.113883.3.26.1.1" xsi:type="CV">
+                              <originalText>opaque white body</originalText>
+                           </value>
+                        </characteristic>
+                     </subjectOf>
+                     <subjectOf>
+                        <characteristic classCode="OBS">
+                           <code code="SPLIMPRINT" codeSystem="2.16.840.1.113883.1.11.19255"/>
+                           <value xsi:type="ST">Northera;200</value>
+                        </characteristic>
+                     </subjectOf>
+                     <subjectOf>
+                        <characteristic classCode="OBS">
+                           <code code="SPLSCORE" codeSystem="2.16.840.1.113883.1.11.19255"/>
+                           <value value="1" xsi:type="INT"/>
+                        </characteristic>
+                     </subjectOf>
+                     <subjectOf>
+                        <characteristic classCode="OBS">
+                           <code code="SPLSHAPE" codeSystem="2.16.840.1.113883.1.11.19255"/>
+                           <value code="C48336" displayName="CAPSULE" codeSystem="2.16.840.1.113883.3.26.1.1" xsi:type="CV">
+                              <originalText>CAPSULE</originalText>
+                           </value>
+                        </characteristic>
+                     </subjectOf>
+                     <subjectOf>
+                        <characteristic classCode="OBS">
+                           <code code="SPLSIZE" codeSystem="2.16.840.1.113883.1.11.19255"/>
+                           <value unit="mm" value="18" xsi:type="PQ"/>
+                        </characteristic>
+                     </subjectOf>
+                     <consumedIn>
+                        <substanceAdministration>
+                           <routeCode code="C38288" displayName="ORAL" codeSystem="2.16.840.1.113883.3.26.1.1"/>
+                        </substanceAdministration>
+                     </consumedIn>
+                  </manufacturedProduct>
+               </subject>
+               <subject>
+                  <manufacturedProduct>
+                     <manufacturedProduct>
+                        <code code="67386-822" codeSystem="2.16.840.1.113883.6.69"/>
+                        <name>Northera</name>
+                        <formCode code="C25158" displayName="CAPSULE" codeSystem="2.16.840.1.113883.3.26.1.1"/>
+                        <asEntityWithGeneric>
+                           <genericMedicine>
+                              <name>droxidopa</name>
+                           </genericMedicine>
+                        </asEntityWithGeneric>
+                        <ingredient classCode="ACTIB">
+                           <quantity>
+                              <numerator unit="mg" value="300"/>
+                              <denominator unit="1" value="1"/>
+                           </quantity>
+                           <ingredientSubstance>
+                              <code code="J7A92W69L7" codeSystem="2.16.840.1.113883.4.9"/>
+                              <name>DROXIDOPA</name>
+                              <activeMoiety>
+                                 <activeMoiety>
+                                    <code code="J7A92W69L7" codeSystem="2.16.840.1.113883.4.9"/>
+                                    <name>DROXIDOPA</name>
+                                 </activeMoiety>
+                              </activeMoiety>
+                           </ingredientSubstance>
+                        </ingredient>
+                        <ingredient classCode="IACT">
+                           <ingredientSubstance>
+                              <code code="3OWL53L36A" codeSystem="2.16.840.1.113883.4.9"/>
+                              <name>MANNITOL</name>
+                           </ingredientSubstance>
+                        </ingredient>
+                        <ingredient classCode="IACT">
+                           <ingredientSubstance>
+                              <code code="O8232NY3SJ" codeSystem="2.16.840.1.113883.4.9"/>
+                              <name>STARCH, CORN</name>
+                           </ingredientSubstance>
+                        </ingredient>
+                        <ingredient classCode="IACT">
+                           <ingredientSubstance>
+                              <code code="70097M6I30" codeSystem="2.16.840.1.113883.4.9"/>
+                              <name>MAGNESIUM STEARATE</name>
+                           </ingredientSubstance>
+                        </ingredient>
+                        <ingredient classCode="IACT">
+                           <ingredientSubstance>
+                              <code code="2G86QN327L" codeSystem="2.16.840.1.113883.4.9"/>
+                              <name>GELATIN</name>
+                           </ingredientSubstance>
+                        </ingredient>
+                        <ingredient classCode="IACT">
+                           <ingredientSubstance>
+                              <code code="15FIX9V2JP" codeSystem="2.16.840.1.113883.4.9"/>
+                              <name>TITANIUM DIOXIDE</name>
+                           </ingredientSubstance>
+                        </ingredient>
+                        <ingredient classCode="IACT">
+                           <ingredientSubstance>
+                              <code code="H3R47K3TBD" codeSystem="2.16.840.1.113883.4.9"/>
+                              <name>FD&amp;C BLUE NO. 1</name>
+                           </ingredientSubstance>
+                        </ingredient>
+                        <ingredient classCode="IACT">
+                           <ingredientSubstance>
+                              <code code="I753WB2F1M" codeSystem="2.16.840.1.113883.4.9"/>
+                              <name>FD&amp;C YELLOW NO. 5</name>
+                           </ingredientSubstance>
+                        </ingredient>
+                        <ingredient classCode="IACT">
+                           <ingredientSubstance>
+                              <code code="WZB9127XOA" codeSystem="2.16.840.1.113883.4.9"/>
+                              <name>FD&amp;C RED NO. 40</name>
+                           </ingredientSubstance>
+                        </ingredient>
+                        <asContent>
+                           <quantity>
+                              <numerator unit="1" value="90"/>
+                              <denominator value="1"/>
+                           </quantity>
+                           <containerPackagedProduct>
+                              <code code="67386-822-19" codeSystem="2.16.840.1.113883.6.69"/>
+                              <formCode code="C43169" displayName="BOTTLE" codeSystem="2.16.840.1.113883.3.26.1.1"/>
+                           </containerPackagedProduct>
+                           <subjectOf>
+                              <characteristic>
+                                 <code code="SPLCMBPRDTP" codeSystem="2.16.840.1.113883.1.11.19255"/>
+                                 <value code="C112160" displayName="Type 0: Not a Combination Product" codeSystem="2.16.840.1.113883.3.26.1.1" xsi:type="CV"/>
+                              </characteristic>
+                           </subjectOf>
+                           <subjectOf>
+                              <marketingAct>
+                                 <code code="C53292" codeSystem="2.16.840.1.113883.3.26.1.1"/>
+                                 <statusCode code="active"/>
+                                 <effectiveTime>
+                                    <low value="20140901"/>
+                                 </effectiveTime>
+                              </marketingAct>
+                           </subjectOf>
+                        </asContent>
+                     </manufacturedProduct>
+                     <subjectOf>
+                        <approval>
+                           <id extension="NDA203202" root="2.16.840.1.113883.3.150"/>
+                           <code code="C73594" displayName="NDA" codeSystem="2.16.840.1.113883.3.26.1.1"/>
+                           <author>
+                              <territorialAuthority>
+                                 <territory>
+                                    <code code="USA" codeSystem="2.16.840.1.113883.5.28"/>
+                                 </territory>
+                              </territorialAuthority>
+                           </author>
+                        </approval>
+                     </subjectOf>
+                     <subjectOf>
+                        <marketingAct>
+                           <code code="C53292" codeSystem="2.16.840.1.113883.3.26.1.1"/>
+                           <statusCode code="active"/>
+                           <effectiveTime>
+                              <low value="20140901"/>
+                           </effectiveTime>
+                        </marketingAct>
+                     </subjectOf>
+                     <subjectOf>
+                        <characteristic classCode="OBS">
+                           <code code="SPLCOLOR" codeSystem="2.16.840.1.113883.1.11.19255"/>
+                           <value code="C48329" displayName="green" codeSystem="2.16.840.1.113883.3.26.1.1" xsi:type="CV">
+                              <originalText>opaque light green cap</originalText>
+                           </value>
+                        </characteristic>
+                     </subjectOf>
+                     <subjectOf>
+                        <characteristic classCode="OBS">
+                           <code code="SPLCOLOR" codeSystem="2.16.840.1.113883.1.11.19255"/>
+                           <value code="C48325" displayName="white" codeSystem="2.16.840.1.113883.3.26.1.1" xsi:type="CV">
+                              <originalText>opaque white body</originalText>
+                           </value>
+                        </characteristic>
+                     </subjectOf>
+                     <subjectOf>
+                        <characteristic classCode="OBS">
+                           <code code="SPLIMPRINT" codeSystem="2.16.840.1.113883.1.11.19255"/>
+                           <value xsi:type="ST">Northera;300</value>
+                        </characteristic>
+                     </subjectOf>
+                     <subjectOf>
+                        <characteristic classCode="OBS">
+                           <code code="SPLSCORE" codeSystem="2.16.840.1.113883.1.11.19255"/>
+                           <value value="1" xsi:type="INT"/>
+                        </characteristic>
+                     </subjectOf>
+                     <subjectOf>
+                        <characteristic classCode="OBS">
+                           <code code="SPLSHAPE" codeSystem="2.16.840.1.113883.1.11.19255"/>
+                           <value code="C48336" displayName="CAPSULE" codeSystem="2.16.840.1.113883.3.26.1.1" xsi:type="CV">
+                              <originalText>CAPSULE</originalText>
+                           </value>
+                        </characteristic>
+                     </subjectOf>
+                     <subjectOf>
+                        <characteristic classCode="OBS">
+                           <code code="SPLSIZE" codeSystem="2.16.840.1.113883.1.11.19255"/>
+                           <value unit="mm" value="20" xsi:type="PQ"/>
+                        </characteristic>
+                     </subjectOf>
+                     <consumedIn>
+                        <substanceAdministration>
+                           <routeCode code="C38288" displayName="ORAL" codeSystem="2.16.840.1.113883.3.26.1.1"/>
+                        </substanceAdministration>
+                     </consumedIn>
+                  </manufacturedProduct>
+               </subject>
+            </section>
+         </component>
+         <component>
+            <section ID="LINK_e6b5fa5d-dc2b-4688-8ca8-7f4ff41d4c5a">
+               <id root="292a2311-29bf-4a12-a101-a1b4c9b31638"/>
+               <code code="34066-1" codeSystem="2.16.840.1.113883.6.1" displayName="BOXED WARNING SECTION"/>
+               <title>
+                  <content styleCode="bold">WARNING: SUPINE HYPERTENSION</content>
+               </title>
+               <text>
+                  <paragraph>
+                     <content styleCode="bold">Monitor supine blood pressure prior to and during treatment and more frequently when increasing doses. Elevating the head of the bed lessens the risk of supine hypertension, and blood pressure should be measured in this position. If supine hypertension cannot be managed by elevation of the head of the bed, reduce or discontinue NORTHERA</content> <content styleCode="bold">
+                        <content styleCode="italics">[see Warnings and Precautions (<linkHtml href="#LINK_7f2d4741-ac75-459e-a52e-fc64dc176637">5.1</linkHtml>)].</content>
+                     </content>
+                  </paragraph>
+               </text>
+               <effectiveTime value="20190701"/>
+               <excerpt>
+                  <highlight>
+                     <text>
+                        <paragraph>
+                           <content styleCode="bold">
+                              <content styleCode="bold">WARNING: SUPINE HYPERTENSION<br/>
+                              </content>
+                           </content>
+                           <content styleCode="bold">
+                              <content styleCode="italics">See full prescribing information for complete boxed warning.</content>
+                           </content>
+                        </paragraph>
+                        <paragraph>
+                           <content styleCode="bold">Monitor supine blood pressure prior to and during treatment and more frequently when increasing doses.  Elevating the head of the bed lessens the risk of supine </content>
+                           <content styleCode="bold">hypertension, and blood pressure should be measured in this position.  If supine hypertension cannot be managed by elevation of the head of the bed, reduce or discontinue NORTHERA <content styleCode="italics">[see Warnings and </content>
+                           </content>
+                           <content styleCode="bold">
+                              <content styleCode="italics">Precautions (<linkHtml href="#LINK_7f2d4741-ac75-459e-a52e-fc64dc176637">5.1</linkHtml>)].</content>
+                           </content>
+                        </paragraph>
+                     </text>
+                  </highlight>
+               </excerpt>
+            </section>
+         </component>
+         <component>
+            <section ID="LINK_6601bb5e-00ef-4e88-a2d7-613bc909259d">
+               <id root="cb60e50f-10d7-461c-9894-b6860a68b44c"/>
+               <code code="34067-9" codeSystem="2.16.840.1.113883.6.1" displayName="INDICATIONS &amp; USAGE SECTION"/>
+               <title>1 INDICATIONS AND USAGE</title>
+               <text>
+                  <paragraph>NORTHERA is indicated for the treatment of orthostatic dizziness, lightheadedness, or the “feeling that you are about to black out” in adult patients with symptomatic neurogenic orthostatic hypotension (nOH) caused by primary autonomic failure (Parkinson's disease [PD], multiple system atrophy, and pure autonomic failure), dopamine beta-hydroxylase deficiency, and non-diabetic autonomic neuropathy. Effectiveness beyond 2 weeks of treatment has not been established. The continued effectiveness of NORTHERA should be assessed periodically.</paragraph>
+               </text>
+               <effectiveTime value="20190701"/>
+               <excerpt>
+                  <highlight>
+                     <text>
+                        <paragraph>NORTHERA is indicated for the treatment of orthostatic dizziness, lightheadedness, or the “feeling that you are about to black out” in adult patients with symptomatic neurogenic orthostatic hypotension (nOH) caused by primary autonomic failure (Parkinson's disease [PD], multiple system atrophy, and pure autonomic failure), dopamine beta-hydroxylase deficiency, and non-diabetic autonomic neuropathy. Effectiveness beyond 2 weeks of treatment has not been established.  The continued effectiveness of NORTHERA should be assessed periodically (<linkHtml href="#LINK_6601bb5e-00ef-4e88-a2d7-613bc909259d">1</linkHtml>).</paragraph>
+                     </text>
+                  </highlight>
+               </excerpt>
+            </section>
+         </component>
+         <component>
+            <section ID="LINK_8b0aeb5a-f860-475d-9429-a8066ba1685a">
+               <id root="103ceca4-4fd3-49ba-b1e7-02c0d70ee4de"/>
+               <code code="34068-7" codeSystem="2.16.840.1.113883.6.1" displayName="DOSAGE &amp; ADMINISTRATION SECTION"/>
+               <title>2 DOSAGE AND ADMINISTRATION</title>
+               <text/>
+               <effectiveTime value="20190701"/>
+               <excerpt>
+                  <highlight>
+                     <text>
+                        <list listType="unordered" styleCode="Disk">
+                           <item>Starting dose is 100 mg three times during the day (<linkHtml href="#LINK_d2120f29-ffde-40ee-992c-ac792271bcea">2.1</linkHtml>) 
+</item>
+                           <item>Titrate by 100 mg three times daily, up to a maximum dose of 600 mg three times daily (<linkHtml href="#LINK_d2120f29-ffde-40ee-992c-ac792271bcea">2.1</linkHtml>) 
+</item>
+                           <item>Take consistently with or without food (<linkHtml href="#LINK_d2120f29-ffde-40ee-992c-ac792271bcea">2.1</linkHtml>) 
+</item>
+                           <item>To reduce the potential for supine hypertension, elevate the head of the bed and give the last dose at least 3 hours prior to bedtime (<linkHtml href="#LINK_d2120f29-ffde-40ee-992c-ac792271bcea">2.1</linkHtml>) 
+</item>
+                           <item>Take NORTHERA capsule whole<content styleCode="bold"> </content>(<linkHtml href="#LINK_d2120f29-ffde-40ee-992c-ac792271bcea">2.1</linkHtml>)</item>
+                        </list>
+                     </text>
+                  </highlight>
+               </excerpt>
+               <component>
+                  <section ID="LINK_d2120f29-ffde-40ee-992c-ac792271bcea">
+                     <id root="efc19600-c299-4d53-abb0-adc338d82e80"/>
+                     <code code="42229-5" codeSystem="2.16.840.1.113883.6.1" displayName="SPL UNCLASSIFIED SECTION"/>
+                     <title>2.1 Dosing Information</title>
+                     <text>
+                        <paragraph>The recommended starting dose of NORTHERA is 100 mg, taken orally three times daily: upon arising in the morning, at midday, and in the late afternoon at least 3 hours prior to bedtime (to reduce the potential for supine hypertension during sleep). Administer NORTHERA consistently, either with food or without food. Take NORTHERA capsule whole. Titrate to symptomatic response, in increments of 100 mg three times daily every 24 to 48 hours up to a maximum dose of 600 mg three times daily (i.e., a maximum total daily dose of 1,800 mg).</paragraph>
+                        <paragraph>Monitor supine blood pressure prior to initiating NORTHERA and after increasing the dose. </paragraph>
+                        <paragraph>Patients who miss a dose of NORTHERA should take their next scheduled dose. </paragraph>
+                     </text>
+                     <effectiveTime value="20190701"/>
+                  </section>
+               </component>
+            </section>
+         </component>
+         <component>
+            <section ID="LINK_4979dc38-1686-4baf-ac2e-c20046f07bc0">
+               <id root="efa9d4f7-0eaf-40d7-8fc7-4c25a2f6ebb7"/>
+               <code code="43678-2" codeSystem="2.16.840.1.113883.6.1" displayName="DOSAGE FORMS &amp; STRENGTHS SECTION"/>
+               <title>3 DOSAGE FORMS AND STRENGTHS</title>
+               <text>
+                  <paragraph>NORTHERA capsules are available in 100 mg, 200 mg, and 300 mg strengths as specified below.</paragraph>
+                  <list listType="unordered" styleCode="Disk">
+                     <item>100 mg: Hard gelatin capsules with “Northera” on the white body and “100” on the light blue cap 
+</item>
+                     <item>200 mg: Hard gelatin capsules with “Northera” on the white body and “200” on the light yellow cap 
+</item>
+                     <item>300 mg: Hard gelatin capsules with “Northera” on the white body and “300” on the light green cap </item>
+                  </list>
+               </text>
+               <effectiveTime value="20190701"/>
+               <excerpt>
+                  <highlight>
+                     <text>
+                        <list listType="unordered" styleCode="Disk">
+                           <item>100 mg, 200 mg, and 300 mg capsules (<linkHtml href="#LINK_4979dc38-1686-4baf-ac2e-c20046f07bc0">3</linkHtml>)</item>
+                        </list>
+                     </text>
+                  </highlight>
+               </excerpt>
+            </section>
+         </component>
+         <component>
+            <section ID="LINK_b6f74523-48fc-4525-a5fa-03e15cfe802f">
+               <id root="3fc33647-4e7f-407e-ab6d-119cdd36867f"/>
+               <code code="34070-3" codeSystem="2.16.840.1.113883.6.1" displayName="CONTRAINDICATIONS SECTION"/>
+               <title>4 CONTRAINDICATIONS</title>
+               <text>
+                  <paragraph>NORTHERA is contraindicated in patients who have a history of hypersensitivity to the drug or its ingredients <content styleCode="italics">[see Warnings and Precautions (<linkHtml href="#LINK_58f942f3-669b-40bc-8b72-28aef3541319">5.4</linkHtml>)].</content>
+                  </paragraph>
+               </text>
+               <effectiveTime value="20190701"/>
+               <excerpt>
+                  <highlight>
+                     <text>
+                        <paragraph>History
+of hypersensitivity to the drug or its ingredients (<linkHtml href="#LINK_b6f74523-48fc-4525-a5fa-03e15cfe802f">4</linkHtml>)</paragraph>
+                     </text>
+                  </highlight>
+               </excerpt>
+            </section>
+         </component>
+         <component>
+            <section ID="LINK_2e3bc552-c578-43cb-9430-fd01ea49e682">
+               <id root="f86b7bd7-6257-4d91-9531-ac42a7a30793"/>
+               <code code="43685-7" codeSystem="2.16.840.1.113883.6.1" displayName="WARNINGS AND PRECAUTIONS SECTION"/>
+               <title>5 WARNINGS AND PRECAUTIONS</title>
+               <text/>
+               <effectiveTime value="20190701"/>
+               <excerpt>
+                  <highlight>
+                     <text>
+                        <list listType="unordered" styleCode="Disk">
+                           <item>NORTHERA may cause supine hypertension and may increase cardiovascular risk if supine hypertension is not well-managed (<linkHtml href="#LINK_7f2d4741-ac75-459e-a52e-fc64dc176637">5.1</linkHtml>).
+</item>
+                           <item>Hyperpyrexia and confusion (<linkHtml href="#LINK_6f911ab1-5844-4588-bb84-1a456f42fc5c">5.2</linkHtml>) 
+</item>
+                           <item>May exacerbate symptoms in patients with existing ischemic heart disease, arrhythmias, and congestive heart failure (<linkHtml href="#LINK_f61ebfe7-b3b4-4066-abf4-a8ac24a208a9">5.3</linkHtml>) 
+</item>
+                           <item>Allergic reactions (<linkHtml href="#LINK_58f942f3-669b-40bc-8b72-28aef3541319">5.4</linkHtml>)</item>
+                        </list>
+                     </text>
+                  </highlight>
+               </excerpt>
+               <component>
+                  <section ID="LINK_7f2d4741-ac75-459e-a52e-fc64dc176637">
+                     <id root="bafa5ad7-ce0a-4ec9-b274-80a326e8c653"/>
+                     <code code="42229-5" codeSystem="2.16.840.1.113883.6.1" displayName="SPL UNCLASSIFIED SECTION"/>
+                     <title>5.1 Supine Hypertension</title>
+                     <text>
+                        <paragraph>NORTHERA therapy may cause or exacerbate supine hypertension in patients with nOH. Patients should be advised to elevate the head of the bed when resting or sleeping. Monitor blood pressure, both in the supine position and in the recommended head-elevated sleeping position. Reduce or discontinue NORTHERA if supine hypertension persists. If supine hypertension is not well-managed, NORTHERA may increase the risk of cardiovascular events, particularly stroke. </paragraph>
+                     </text>
+                     <effectiveTime value="20190701"/>
+                  </section>
+               </component>
+               <component>
+                  <section ID="LINK_6f911ab1-5844-4588-bb84-1a456f42fc5c">
+                     <id root="d9f79fc6-8822-46c3-ac43-7337a6a2e556"/>
+                     <code code="42229-5" codeSystem="2.16.840.1.113883.6.1" displayName="SPL UNCLASSIFIED SECTION"/>
+                     <title>5.2 Hyperpyrexia and Confusion</title>
+                     <text>
+                        <paragraph>Postmarketing cases of a symptom complex resembling neuroleptic malignant syndrome (NMS) have been reported with NORTHERA use during postmarketing surveillance. Observe patients carefully when the dosage of NORTHERA is changed or when concomitant levodopa is reduced abruptly or discontinued, especially if the patient is receiving neuroleptics.</paragraph>
+                        <paragraph>NMS is an uncommon but life-threatening syndrome characterized by fever or hyperthermia, muscle rigidity, involuntary movements, altered consciousness, and mental status changes. The early diagnosis of this condition is important for the appropriate management of these patients. </paragraph>
+                     </text>
+                     <effectiveTime value="20190701"/>
+                  </section>
+               </component>
+               <component>
+                  <section ID="LINK_f61ebfe7-b3b4-4066-abf4-a8ac24a208a9">
+                     <id root="676880b0-9823-4436-bdd2-ea55bf526694"/>
+                     <code code="42229-5" codeSystem="2.16.840.1.113883.6.1" displayName="SPL UNCLASSIFIED SECTION"/>
+                     <title>5.3 Ischemic Heart Disease, Arrhythmias, and Congestive Heart Failure</title>
+                     <text>
+                        <paragraph>NORTHERA may exacerbate existing ischemic heart disease, arrhythmias, and congestive heart failure. Careful consideration should be given to this potential risk prior to initiating therapy in patients with these conditions.</paragraph>
+                     </text>
+                     <effectiveTime value="20190701"/>
+                  </section>
+               </component>
+               <component>
+                  <section ID="LINK_58f942f3-669b-40bc-8b72-28aef3541319">
+                     <id root="6163d5d7-ea8a-4c26-a8ae-e2b54ebef84a"/>
+                     <code code="42229-5" codeSystem="2.16.840.1.113883.6.1" displayName="SPL UNCLASSIFIED SECTION"/>
+                     <title>5.4 Allergic Reactions</title>
+                     <text>
+                        <paragraph>Hypersensitivity reactions including anaphylaxis, angioedema,
+bronchospasm, urticaria and rash have been reported in postmarketing
+experience. Some of these reactions resulted in emergency treatment. If a
+hypersensitivity reaction occurs, discontinue the drug and initiate 
+appropriate therapy.</paragraph>
+                        <paragraph>This product contains FD&amp;C Yellow No. 5 (tartrazine) which may also cause allergic-type reactions (including bronchial asthma) in certain susceptible persons. Although the overall incidence of FD&amp;C Yellow No. 5 (tartrazine) sensitivity in the general population is low, it is frequently seen in patients who also have aspirin hypersensitivity <content styleCode="italics">[see Contraindications (<linkHtml href="#LINK_b6f74523-48fc-4525-a5fa-03e15cfe802f">4</linkHtml>)].</content>
+                        </paragraph>
+                     </text>
+                     <effectiveTime value="20190701"/>
+                  </section>
+               </component>
+            </section>
+         </component>
+         <component>
+            <section ID="LINK_e875b506-8cea-443c-b34a-c423a65895fe">
+               <id root="6e102c7e-193d-48c9-9fc1-78984954db65"/>
+               <code code="34084-4" codeSystem="2.16.840.1.113883.6.1" displayName="ADVERSE REACTIONS SECTION"/>
+               <title>6 ADVERSE REACTIONS</title>
+               <text>
+                  <paragraph>The following adverse reactions with NORTHERA are included in more detail in the Warnings and Precautions section of the label:</paragraph>
+                  <list listType="unordered" styleCode="Disk">
+                     <item>Supine Hypertension <content styleCode="italics">[see Warnings and Precautions (<linkHtml href="#LINK_7f2d4741-ac75-459e-a52e-fc64dc176637">5.1</linkHtml>)]</content>
+                     </item>
+                     <item>Hyperpyrexia and Confusion <content styleCode="italics">[see Warnings and Precautions (<linkHtml href="#LINK_6f911ab1-5844-4588-bb84-1a456f42fc5c">5.2</linkHtml>)]</content>
+                     </item>
+                     <item>May exacerbate existing ischemic heart disease, arrhythmias, and congestive heart failure <content styleCode="italics">[see Warnings and Precautions (<linkHtml href="#LINK_f61ebfe7-b3b4-4066-abf4-a8ac24a208a9">5.3</linkHtml>)]</content>
+                     </item>
+                  </list>
+               </text>
+               <effectiveTime value="20190701"/>
+               <excerpt>
+                  <highlight>
+                     <text>
+                        <paragraph>The most common adverse reactions (&gt;5% and ≥3% compared to placebo) are headache, dizziness, nausea, and hypertension (<linkHtml href="#LINK_78f54ffd-36cd-4a20-992a-8a2afce64aed">6.1</linkHtml>)<br/>
+                           <br/>
+                        </paragraph>
+                        <paragraph>
+                           <content styleCode="bold">To report SUSPECTED ADVERSE REACTIONS, contact Lundbeck at 1-800-455-1141 or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch.</content>
+                        </paragraph>
+                     </text>
+                  </highlight>
+               </excerpt>
+               <component>
+                  <section ID="LINK_78f54ffd-36cd-4a20-992a-8a2afce64aed">
+                     <id root="65a496fe-e21e-4b6b-bda6-47de127c226d"/>
+                     <code code="42229-5" codeSystem="2.16.840.1.113883.6.1" displayName="SPL UNCLASSIFIED SECTION"/>
+                     <title>6.1 Clinical Trials Experience</title>
+                     <text>
+                        <paragraph>Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in clinical practice.</paragraph>
+                        <paragraph>The safety evaluation of NORTHERA is based on two placebo-controlled studies 1 to 2 weeks in duration (Studies 301 and 302), one 8-week placebo-controlled study (Study 306), and two long-term, open-label extension studies (Studies 303 and 304). In the placebo-controlled studies, a total of 485 patients with Parkinson's disease, multiple system atrophy, pure autonomic failure, dopamine beta-hydroxylase deficiency, or non-diabetic autonomic neuropathy were randomized and treated, 245 with NORTHERA and 240 with placebo <content styleCode="italics">[see Clinical Studies (<linkHtml href="#LINK_abcdc4ed-f2de-44ef-b435-83bb162a7471">14</linkHtml>)]</content>.  </paragraph>
+                        <paragraph>
+                           <content styleCode="italics">
+                              <content styleCode="underline">Placebo-Controlled </content>
+                           </content>
+                           <content styleCode="italics">
+                              <content styleCode="underline">Experience</content>
+                           </content>
+                        </paragraph>
+                        <paragraph>The most commonly observed adverse reactions (those occurring at an incidence of greater than 5%  in the NORTHERA group and with at least a 3% greater incidence in the NORTHERA group than in the placebo group) in NORTHERA-treated patients during the three placebo-controlled trials were headache, dizziness, nausea, and hypertension. The most common adverse reactions leading to discontinuation from NORTHERA were hypertension or increased blood pressure and nausea.</paragraph>
+                        <table>
+                           <caption>Table 1. Most Common Adverse Reactions Occurring More Frequently in the NORTHERA Group</caption>
+                           <col/>
+                           <col/>
+                           <col/>
+                           <col/>
+                           <col/>
+                           <tbody>
+                              <tr>
+                                 <td rowspan="3" styleCode=" Botrule Toprule Lrule Rrule">  <br/>  <br/>       </td>
+                                 <td align="center" colspan="2" styleCode=" Botrule Toprule Lrule Rrule">  <content styleCode="bold">Study 301 and Study 302</content>
+                                    <br/>
+                                    <content styleCode="bold">(1 to 2 Weeks Randomized Treatment)</content>
+                                 </td>
+                                 <td align="center" colspan="2" styleCode=" Botrule Toprule Lrule Rrule">  <content styleCode="bold">Study 306</content>
+                                    <br/>
+                                    <content styleCode="bold">(8 to 10 Weeks Randomized Treatment)</content>
+                                 </td>
+                              </tr>
+                              <tr>
+                                 <td align="center" rowspan="2" styleCode=" Botrule Toprule Lrule Rrule">  <content styleCode="bold">Placebo</content>
+                                    <br/>
+                                    <content styleCode="bold">(N=132)</content>
+                                    <br/>  <content styleCode="bold">n (%)</content>
+                                 </td>
+                                 <td align="center" rowspan="2" styleCode=" Botrule Toprule Lrule Rrule">  <content styleCode="bold">NORTHERA</content>
+                                    <br/>
+                                    <content styleCode="bold">(N=131)</content>
+                                    <br/>  <content styleCode="bold">n (%)</content>
+                                 </td>
+                                 <td align="center" rowspan="2" styleCode=" Botrule Toprule Lrule Rrule">  <content styleCode="bold">Placebo</content>
+                                    <br/>
+                                    <content styleCode="bold">(N=108)</content>
+                                    <br/>  <content styleCode="bold">n (%)</content>
+                                 </td>
+                                 <td align="center" styleCode=" Toprule Lrule Rrule">  <content styleCode="bold">NORTHERA</content>
+                                    <br/>
+                                    <content styleCode="bold">(N=114)</content>
+                                 </td>
+                              </tr>
+                              <tr>
+                                 <td align="center" styleCode=" Botrule Lrule Rrule">  <content styleCode="bold">n (%)</content>
+                                 </td>
+                              </tr>
+                              <tr>
+                                 <td styleCode=" Botrule Toprule Lrule Rrule">   Headache </td>
+                                 <td align="center" styleCode=" Botrule Toprule Lrule Rrule">   4 (3.0) </td>
+                                 <td align="center" styleCode=" Botrule Toprule Lrule Rrule">   8 (6.1) </td>
+                                 <td align="center" styleCode=" Botrule Toprule Lrule Rrule">   8 (7.4) </td>
+                                 <td align="center" styleCode=" Botrule Toprule Lrule Rrule">   15 (13.2) </td>
+                              </tr>
+                              <tr>
+                                 <td styleCode=" Botrule Toprule Lrule Rrule">   Dizziness </td>
+                                 <td align="center" styleCode=" Botrule Toprule Lrule Rrule">   2 (1.5) </td>
+                                 <td align="center" styleCode=" Botrule Toprule Lrule Rrule">   5 (3.8) </td>
+                                 <td align="center" styleCode=" Botrule Toprule Lrule Rrule">   5 (4.6) </td>
+                                 <td align="center" styleCode=" Botrule Toprule Lrule Rrule">   11 (9.6) </td>
+                              </tr>
+                              <tr>
+                                 <td styleCode=" Botrule Toprule Lrule Rrule">   Nausea </td>
+                                 <td align="center" styleCode=" Botrule Toprule Lrule Rrule">   2 (1.5) </td>
+                                 <td align="center" styleCode=" Botrule Toprule Lrule Rrule">   2 (1.5) </td>
+                                 <td align="center" styleCode=" Botrule Toprule Lrule Rrule">   5 (4.6) </td>
+                                 <td align="center" styleCode=" Botrule Toprule Lrule Rrule">   10 (8.8) </td>
+                              </tr>
+                              <tr>
+                                 <td styleCode=" Botrule Toprule Lrule Rrule">   Hypertension </td>
+                                 <td align="center" styleCode=" Botrule Toprule Lrule Rrule">   0 </td>
+                                 <td align="center" styleCode=" Botrule Toprule Lrule Rrule">   2 (1.5) </td>
+                                 <td align="center" styleCode=" Botrule Toprule Lrule Rrule">   1 (0.9) </td>
+                                 <td align="center" styleCode=" Botrule Toprule Lrule Rrule">   8 (7.0) </td>
+                              </tr>
+                           </tbody>
+                        </table>
+                        <paragraph>Note: n=number of patients. Adverse reactions that were reported in greater than 5% of patients in the NORTHERA group and with at least a 3% greater incidence in the NORTHERA group than in the placebo group were from Study 306.</paragraph>
+                        <paragraph>
+                           <content styleCode="italics">
+                              <content styleCode="underline">Long-Term, Open-Label Trials with NORTHERA</content>
+                           </content>
+                           <content styleCode="bold">
+                              <content styleCode="italics">
+                                 <br/>
+                              </content>
+                           </content>In the long-term, open-label extension studies, a total of 422 patients, mean age 65 years, were treated with NORTHERA for a mean total exposure of approximately one year. The commonly reported adverse events were falls (24%), urinary tract infections (15%), headache (13%), syncope (13%), and dizziness (10%). </paragraph>
+                     </text>
+                     <effectiveTime value="20190701"/>
+                  </section>
+               </component>
+               <component>
+                  <section ID="LINK_da80373c-36f4-47ac-8daf-e58ece82af62">
+                     <id root="41b4d5e0-0126-41e8-9f63-7990461ceaea"/>
+                     <code code="42229-5" codeSystem="2.16.840.1.113883.6.1" displayName="SPL UNCLASSIFIED SECTION"/>
+                     <title>6.2 Postmarketing Experience</title>
+                     <text>
+                        <paragraph>The following adverse reactions have been identified during post-approval use of NORTHERA. Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.</paragraph>
+                        <paragraph>
+                           <content styleCode="italics">Cardiac Disorders:  </content>Chest pain<br/>
+                           <content styleCode="italics">Eye Disorders:  </content>Blurred vision<br/>
+                           <content styleCode="italics">Gastrointestinal Disorders:</content> Pancreatitis, abdominal pain, vomiting, diarrhea<br/>
+                           <content styleCode="italics">General Disorders and Administration Site Conditions:  </content>Fatigue<br/>
+                           <content styleCode="italics">Nervous System Disorders:  </content>Cerebrovascular accident<br/>
+                           <content styleCode="italics">Psychiatric Disorders:  </content>Psychosis,hallucination, delirium, agitation, memory disorder</paragraph>
+                     </text>
+                     <effectiveTime value="20190701"/>
+                  </section>
+               </component>
+            </section>
+         </component>
+         <component>
+            <section ID="LINK_3b3bf386-47f7-4a6c-8020-ba68feefff83">
+               <id root="a1bdebf7-0da4-4169-a83f-83fc11abdec4"/>
+               <code code="34073-7" codeSystem="2.16.840.1.113883.6.1" displayName="DRUG INTERACTIONS SECTION"/>
+               <title>7 DRUG INTERACTIONS</title>
+               <text/>
+               <effectiveTime value="20190701"/>
+               <excerpt>
+                  <highlight>
+                     <text>
+                        <list listType="unordered" styleCode="Disk">
+                           <item>Use of DOPA decarboxylase inhibitors may require dose adjustments for NORTHERA (<linkHtml href="#LINK_d59fc823-cf46-43a9-aae2-af741dab566b">7.2</linkHtml>)</item>
+                        </list>
+                     </text>
+                  </highlight>
+               </excerpt>
+               <component>
+                  <section ID="LINK_74d01933-fce7-4d56-9e18-fe65532d1c7b">
+                     <id root="76706b51-1238-4bc6-946a-55f35b6cfbce"/>
+                     <code code="42229-5" codeSystem="2.16.840.1.113883.6.1" displayName="SPL UNCLASSIFIED SECTION"/>
+                     <title>7.1 Drugs that Increase Blood Pressure</title>
+                     <text>
+                        <paragraph>Administering NORTHERA in combination with other agents that increase blood pressure (e.g., norepinephrine, ephedrine, midodrine, and triptans) would be expected to increase the risk for supine hypertension.</paragraph>
+                     </text>
+                     <effectiveTime value="20190701"/>
+                  </section>
+               </component>
+               <component>
+                  <section ID="LINK_d59fc823-cf46-43a9-aae2-af741dab566b">
+                     <id root="e7321c26-80bb-430b-9759-c945ee6c5453"/>
+                     <code code="42229-5" codeSystem="2.16.840.1.113883.6.1" displayName="SPL UNCLASSIFIED SECTION"/>
+                     <title>7.2 Parkinson's Medications</title>
+                     <text>
+                        <paragraph>Dopa-decarboxylase inhibitors may require dose adjustments for NORTHERA.  </paragraph>
+                     </text>
+                     <effectiveTime value="20190701"/>
+                  </section>
+               </component>
+               <component>
+                  <section ID="LINK_ddf7a02c-3162-48f4-ab3a-b3dde3c7d701">
+                     <id root="40ccff2b-1b15-47c4-90e5-f42a6a86b000"/>
+                     <code code="42229-5" codeSystem="2.16.840.1.113883.6.1" displayName="SPL UNCLASSIFIED SECTION"/>
+                     <title>7.3 Non-selective MAO Inhibitors</title>
+                     <text>
+                        <paragraph>The concomitant use of selective MAO-B inhibitors,
+such as rasagiline or selegiline, was permitted in the NORTHERA clinical
+trials. However, based on mechanism of action, the use of non-selective MAO
+inhibitors and linezolid should be avoided as there is a potential for
+increased blood pressure when taken with NORTHERA.</paragraph>
+                     </text>
+                     <effectiveTime value="20190701"/>
+                  </section>
+               </component>
+            </section>
+         </component>
+         <component>
+            <section ID="LINK_d606be14-7ca9-43e6-a467-100f0e8dbbee">
+               <id root="4de52086-0743-4057-91eb-a68b6b6a2ce8"/>
+               <code code="43684-0" codeSystem="2.16.840.1.113883.6.1" displayName="USE IN SPECIFIC POPULATIONS SECTION"/>
+               <title>8 USE IN SPECIFIC POPULATIONS</title>
+               <text/>
+               <effectiveTime value="20190701"/>
+               <excerpt>
+                  <highlight>
+                     <text>
+                        <list listType="unordered" styleCode="Disk">
+                           <item>
+                              <content styleCode="italics">Lactation</content>: Breastfeeding not recommended (<linkHtml href="#LINK_2d0693aa-f9ca-4f3e-bc49-243e1ba2cac1">8.2</linkHtml>) 
+</item>
+                           <item>
+                              <content styleCode="italics">Patients with Renal Impairment</content>: Dosing recommendations cannot be provided for patients with GFR less than 30 mL/min (<linkHtml href="#LINK_68c41f85-6f03-42fd-bd62-72ca19193b03">8.6</linkHtml>)</item>
+                        </list>
+                     </text>
+                  </highlight>
+               </excerpt>
+               <component>
+                  <section ID="LINK_c43795d4-6b80-4bce-bd29-4fc3c6ac2e1b">
+                     <id root="6d1b0b3b-3c8f-4936-87fb-beb5a0c712cb"/>
+                     <code code="42228-7" codeSystem="2.16.840.1.113883.6.1" displayName="PREGNANCY SECTION"/>
+                     <title>8.1 Pregnancy</title>
+                     <text>
+                        <paragraph>
+                           <content styleCode="italics">
+                              <content styleCode="underline">Risk Summary</content>
+                           </content>
+                        </paragraph>
+                        <paragraph>There
+are no available data on use of NORTHERA in pregnant women and risk of major
+birth defects or miscarriage. NORTHERA
+did not produce significant reproductive toxicity in pregnant female rats or rabbits
+or in their fetuses. However, when pregnant female rats were dosed during days
+7-17 of gestation (the period of fetal organogenesis) with doses of NORTHERA
+corresponding to 0.3, 1 and 3 times the maximum recommended daily dose of 1,800
+mg in a 60 kg patient, based on body surface area, and when their male and
+female offspring (who were exposed only during fetal life) were subsequently
+bred, the female offspring exhibited a dose-dependent reduction in the number
+of live fetuses across all three doses and an increased number of
+embryonic/fetal deaths at the two higher doses (<content styleCode="italics">see Data</content>). </paragraph>
+                        <paragraph>The estimated
+background risk of major birth defects and miscarriage in the indicated
+population is unknown. In
+the U.S. general population, the estimated background risk of major birth
+defects and miscarriage in clinically recognized pregnancies is 2 to 4% and 15
+to 20%, respectively.</paragraph>
+                        <paragraph>
+                           <content styleCode="italics">
+                              <content styleCode="underline">Data</content>
+                           </content>
+                        </paragraph>
+                        <paragraph>
+                           <content styleCode="italics">Animal Data</content>
+                        </paragraph>
+                        <paragraph>During a multigenerational reproductive
+toxicity study in rats, pregnant females were dosed
+during days 7-17 of gestation (the period of fetal organogenesis) with doses of
+NORTHERA corresponding to 0.3, 1 and 3 times the maximum recommended daily dose
+of 1,800 mg in a 60 kg patient. Reduced weight gain, renal lesions, and a small
+number of deaths were observed in females treated with the two higher doses.
+When their male and female offspring (who were exposed to NORTHERA only during
+fetal life) were subsequently bred, the female offspring exhibited a
+dose-dependent reduction in the number of live fetuses across all three doses
+and an increased number of embryonic/fetal deaths at the two higher doses.</paragraph>
+                     </text>
+                     <effectiveTime value="20190701"/>
+                  </section>
+               </component>
+               <component>
+                  <section ID="LINK_2d0693aa-f9ca-4f3e-bc49-243e1ba2cac1">
+                     <id root="164148ee-9e17-42fd-9516-8f7909849c30"/>
+                     <code code="77290-5" codeSystem="2.16.840.1.113883.6.1" displayName="LACTATION SECTION"/>
+                     <title>8.2 Lactation</title>
+                     <text>
+                        <paragraph>
+                           <content styleCode="italics">
+                              <content styleCode="underline">Risk Summary</content>
+                           </content>
+                        </paragraph>
+                        <paragraph>There
+is no information regarding the presence of NORTHERA or its active
+metabolite(s) in human milk, the effects of NORTHERA on the breastfed child, nor
+the effects of NORTHERA on milk production/excretion. Droxidopa is present in rat milk with peak concentrations seen 4 hours after oral drug administration and drug excretion into milk still occurring 48 hours after administration (<content styleCode="italics">see Data</content>). However, due to species-specific
+differences in lactation physiology, animal lactation data typically do not
+reliably predict levels in humans. Because of the potential for serious
+adverse reactions, including reduced weight gain in breastfed infants, advise a
+woman not to breastfeed during treatment with NORTHERA.</paragraph>
+                        <paragraph>
+                           <content styleCode="italics">
+                              <content styleCode="underline">Data</content>
+                           </content>
+                        </paragraph>
+                        <paragraph>
+                           <content styleCode="italics">Animal Data</content>
+                        </paragraph>
+                        <paragraph>In
+rats, oral administration of droxidopa resulted in excretion into breast milk
+with peak concentrations seen 4 hours after administration, and excretion still
+occurring 48 hours after administration. When the drug was administered to
+nursing dams during the period of lactation at a dose corresponding
+to 3 times the maximum recommended daily dose of 1,800 mg in a 60 kg patient
+when based on body surface area, reduced weight gain and reduced survival were
+observed in the offspring. Despite the observed decreased weight gain, physical
+development was normal (with respect to timing and organ morphology). </paragraph>
+                        <paragraph>
+                           <content styleCode="bold"> </content>
+                        </paragraph>
+                     </text>
+                     <effectiveTime value="20190701"/>
+                  </section>
+               </component>
+               <component>
+                  <section ID="LINK_5da95dae-1bca-4cd1-abc8-f7236574a830">
+                     <id root="1d2eadc0-7f01-46ad-a848-12e87efa9087"/>
+                     <code code="34081-0" codeSystem="2.16.840.1.113883.6.1" displayName="PEDIATRIC USE SECTION"/>
+                     <title>8.4 Pediatric Use</title>
+                     <text>
+                        <paragraph>The safety and effectiveness of NORTHERA in pediatric patients have not been established.</paragraph>
+                     </text>
+                     <effectiveTime value="20190701"/>
+                  </section>
+               </component>
+               <component>
+                  <section ID="LINK_85cdb0f2-0d76-4567-ae4d-be097400f7f3">
+                     <id root="22b9acbd-d405-49e0-ade8-8336c57dd2ca"/>
+                     <code code="34082-8" codeSystem="2.16.840.1.113883.6.1" displayName="GERIATRIC USE SECTION"/>
+                     <title>8.5 Geriatric Use</title>
+                     <text>
+                        <paragraph>A total of 197 patients with symptomatic nOH aged 75 years or above were included in the NORTHERA clinical program. No overall differences in safety or effectiveness were observed between these patients and younger patients, and other reported clinical experience has not identified differences in responses between the elderly and younger patients, but greater sensitivity of some older individuals cannot be ruled out.</paragraph>
+                     </text>
+                     <effectiveTime value="20190701"/>
+                  </section>
+               </component>
+               <component>
+                  <section ID="LINK_68c41f85-6f03-42fd-bd62-72ca19193b03">
+                     <id root="f06dccba-c98d-47f4-af49-dd1266f15e93"/>
+                     <code code="42229-5" codeSystem="2.16.840.1.113883.6.1" displayName="SPL UNCLASSIFIED SECTION"/>
+                     <title>8.6 Renal Impairment</title>
+                     <text>
+                        <paragraph>NORTHERA and its metabolites are primarily cleared renally. Patients with mild or moderate renal impairment (GFR greater than 30 mL/min) were included in clinical trials and did not have a higher frequency of adverse reactions. Clinical experience with NORTHERA in patients with severe renal function impairment (GFR less than 30 mL/min) is limited.</paragraph>
+                     </text>
+                     <effectiveTime value="20190701"/>
+                  </section>
+               </component>
+            </section>
+         </component>
+         <component>
+            <section ID="LINK_cd0b5ab3-5e80-4514-953d-d4886ca39aa8">
+               <id root="9470bb9d-a7b7-4cc5-9b86-c0af643328c9"/>
+               <code code="34088-5" codeSystem="2.16.840.1.113883.6.1" displayName="OVERDOSAGE SECTION"/>
+               <title>
+10 OVERDOSAGE
+</title>
+               <text/>
+               <effectiveTime value="20190701"/>
+               <component>
+                  <section ID="LINK_79194f87-9f06-4ff0-9b2f-8481681e9968">
+                     <id root="0ded5488-b9aa-4d4c-99de-56555cf0512f"/>
+                     <code code="42229-5" codeSystem="2.16.840.1.113883.6.1" displayName="SPL UNCLASSIFIED SECTION"/>
+                     <title>10.1 Symptoms</title>
+                     <text>
+                        <paragraph>There have been cases of overdose reported during postmarketing surveillance. A patient ingested 7,700 mg of droxidopa and experienced a hypertensive crisis that resolved promptly with treatment. Another patient treated with a total daily dose of 2,700 mg of NORTHERA experienced hypertension and an intracranial hemorrhage. </paragraph>
+                     </text>
+                     <effectiveTime value="20190701"/>
+                  </section>
+               </component>
+               <component>
+                  <section ID="LINK_7146c0e6-9e8a-4119-9064-f22f504223cc">
+                     <id root="a9645421-7b5a-42c9-b99f-5ac586022f9c"/>
+                     <code code="42229-5" codeSystem="2.16.840.1.113883.6.1" displayName="SPL UNCLASSIFIED SECTION"/>
+                     <title>10.2 Treatment</title>
+                     <text>
+                        <paragraph>There is no known antidote for NORTHERA overdosage. In case of an overdose that may result in an excessively high blood pressure, discontinue NORTHERA and treat with appropriate symptomatic and supportive therapy. Counsel patients to remain in a standing or seated position until their blood pressure drops below an acceptable limit. </paragraph>
+                     </text>
+                     <effectiveTime value="20190701"/>
+                  </section>
+               </component>
+            </section>
+         </component>
+         <component>
+            <section ID="LINK_03b9cb1b-79ab-413e-8c60-aae67f6bebe6">
+               <id root="d8dad9b6-4a1d-43a9-965e-fcaa45e3192f"/>
+               <code code="34089-3" codeSystem="2.16.840.1.113883.6.1" displayName="DESCRIPTION SECTION"/>
+               <title>11 DESCRIPTION</title>
+               <text>
+                  <paragraph>NORTHERA capsules contain droxidopa, which is a synthetic amino acid precursor of norepinephrine, for oral administration. Chemically, droxidopa is (–)-threo-3-(3,4-Dihydroxyphenyl)-L-serine. It has the following structural formula:</paragraph>
+                  <renderMultiMedia referencedObject="MM1"/>
+                  <paragraph>Droxidopa is an odorless, tasteless, white to off-white crystals or crystalline powder. It is slightly soluble in water, and practically insoluble in methanol, glacial acetic acid, ethanol, acetone, ether, and chloroform. It is soluble in dilute hydrochloric acid. It has a molecular weight of 213.19 and a molecular formula of C<sub>9</sub>H<sub>11</sub>NO<sub>5</sub>. </paragraph>
+                  <paragraph>NORTHERA capsules also contain the following inactive ingredients: mannitol, corn starch, and magnesium stearate. The capsule shell is printed with black ink. The black inks contain shellac glaze, ethanol, iron oxide black, isopropyl alcohol, n-butyl alcohol, propylene glycol, and ammonium hydroxide. The capsule shell contains the following inactive ingredients: 100 mg –­ gelatin, titanium dioxide, FD&amp;C Blue No. 2, black and red iron oxide; 200 mg – gelatin, titanium dioxide, FD&amp;C Blue No. 2, black and yellow iron oxide; 300 mg – gelatin, titanium dioxide, FD&amp;C Blue No. 1, FD&amp;C Yellow No. 5 (tartrazine), and FD&amp;C Red No. 40. NORTHERA capsules differ in size and color by strength <content styleCode="italics">[see Dosage Forms and Strengths (<linkHtml href="#LINK_4979dc38-1686-4baf-ac2e-c20046f07bc0">3</linkHtml>)]</content>.</paragraph>
+               </text>
+               <effectiveTime value="20190701"/>
+               <component>
+                  <observationMedia ID="MM1">
+                     <text>northera-01</text>
+                     <value xsi:type="ED" mediaType="image/jpeg">
+                        <reference value="northera-1.jpg"/>
+                     </value>
+                  </observationMedia>
+               </component>
+            </section>
+         </component>
+         <component>
+            <section ID="LINK_7d9ddd35-ef07-430e-bc02-4f2b45ec4c93">
+               <id root="6c1ab41e-6c65-41dd-82e6-f9a726bdef05"/>
+               <code code="34090-1" codeSystem="2.16.840.1.113883.6.1" displayName="CLINICAL PHARMACOLOGY SECTION"/>
+               <title>
+12 CLINICAL PHARMACOLOGY
+</title>
+               <text/>
+               <effectiveTime value="20190701"/>
+               <component>
+                  <section ID="LINK_d8121cba-c2c4-41dc-b96f-7208611b04ed">
+                     <id root="22f46322-e173-48fb-bce4-67676332d01f"/>
+                     <code code="43679-0" codeSystem="2.16.840.1.113883.6.1" displayName="MECHANISM OF ACTION SECTION"/>
+                     <title>12.1 Mechanism of Action</title>
+                     <text>
+                        <paragraph>The exact mechanism of action of NORTHERA in the treatment of neurogenic orthostatic hypotension is unknown. NORTHERA is a synthetic amino acid analog that is directly metabolized to norepinephrine by dopa­-decarboxylase, which is extensively distributed throughout the body. NORTHERA is believed to exert its pharmacological effects through norepinephrine and not through the parent molecule or other metabolites. Norepinephrine increases blood pressure by inducing peripheral arterial and venous vasoconstriction. NORTHERA in humans induces small and transient rises in plasma norepinephrine. </paragraph>
+                     </text>
+                     <effectiveTime value="20190701"/>
+                  </section>
+               </component>
+               <component>
+                  <section ID="LINK_6890694a-8b6b-4d59-96af-090bbf03f141">
+                     <id root="b4f53321-e671-4ebf-83dd-7c7eb604486a"/>
+                     <code code="43681-6" codeSystem="2.16.840.1.113883.6.1" displayName="PHARMACODYNAMICS SECTION"/>
+                     <title>12.2 Pharmacodynamics</title>
+                     <text>
+                        <paragraph>Peak droxidopa plasma concentrations are associated with increases in systolic and diastolic blood pressures. Droxidopa has no clinically significant effect on standing or supine heart rates in patients with autonomic failure.</paragraph>
+                        <paragraph>
+                           <content styleCode="italics">
+                              <content styleCode="underline">Cardiac Electrophysiology</content>
+                           </content>
+                           <content styleCode="underline">
+                              <br/>
+                           </content>No prolongation of the QTc interval was observed with NORTHERA at single oral doses up to 2,000 mg, as shown in a dedicated thorough QT study.</paragraph>
+                     </text>
+                     <effectiveTime value="20190701"/>
+                  </section>
+               </component>
+               <component>
+                  <section ID="LINK_07b8b783-4067-4dca-bb46-e18c2ccdbf46">
+                     <id root="907e8a9b-cdd9-4354-bad8-7b044de2c512"/>
+                     <code code="43682-4" codeSystem="2.16.840.1.113883.6.1" displayName="PHARMACOKINETICS SECTION"/>
+                     <title>12.3 Pharmacokinetics</title>
+                     <text>
+                        <paragraph>
+                           <content styleCode="italics">
+                              <content styleCode="underline">Absorption</content>
+                           </content>
+                           <content styleCode="bold">
+                              <content styleCode="italics">
+                                 <br/>
+                              </content>
+                           </content>Peak plasma concentrations (C<sub>max</sub>) of droxidopa were reached by 1 to 4 hours post-dose (mean of approximately 2 hours) in healthy volunteers. High-fat meals have a moderate impact on droxidopa exposure with C<sub>max</sub> and area under the plasma concentration-time curve (AUC) decreasing by 35% and 20%, respectively. The C<sub>max</sub> was delayed by approximately 2 hours with a high-fat meal.   </paragraph>
+                        <paragraph>
+                           <content styleCode="italics">
+                              <content styleCode="underline">Distribution</content>
+                           </content>
+                           <content styleCode="bold">
+                              <content styleCode="italics">
+                                 <br/>
+                              </content>
+                           </content>Pre-clinical studies suggest that droxidopa can cross the blood brain barrier. Droxidopa exhibits plasma protein binding of 75% at 100 ng/mL and 26% at 10,000 ng/mL. The estimated apparent volume of distribution of droxidopa is about 200 L in humans.</paragraph>
+                        <paragraph>
+                           <content styleCode="italics">
+                              <content styleCode="underline">Elimination </content>
+                           </content>
+                        </paragraph>
+                        <paragraph>The total clearance of droxidopa after oral administration (CL/F) was
+approximately 400 mL/hr following administration of a single 300 mg dose.</paragraph>
+                        <paragraph>
+                           <content styleCode="italics">Metabolism</content>
+                        </paragraph>
+                        <paragraph>The metabolism of droxidopa is mediated by catecholamine pathway and not
+through the cytochrome P450 system. Droxidopa
+is initially converted to methoxylated dihydroxyphenylserine (3-OM-DOPS), a
+major metabolite, by catechol-O-methyltransferase (COMT), to norepinephrine by
+DOPA decarboxylase (DDC), or to protocatechualdehyde by DOPS aldolase. After
+oral dosing in humans, plasma norepinephrine levels peak within 3 to 4 hours
+but are generally very low (less than 1 ng/mL) and variable with no consistent
+relationship with dose. The contribution of the metabolites of droxidopa other
+than norepinephrine to its pharmacological effects is not well understood. </paragraph>
+                        <paragraph>
+                           <content styleCode="italics">Excretion</content>
+                        </paragraph>
+                        <paragraph>The mean elimination half-life of droxidopa is approximately
+2.5 hours in humans. The major route of elimination of droxidopa and its
+metabolites is via the kidneys in both animals and in humans. Studies in
+animals with radiolabeled drug showed that ~75% of the administered
+radioactivity was excreted in urine within 24 hours of oral dosing.  </paragraph>
+                        <paragraph>
+                           <content styleCode="bold">
+                              <content styleCode="italics"> </content>
+                           </content>
+                        </paragraph>
+                        <paragraph>
+                           <content styleCode="italics">
+                              <content styleCode="underline">Specific Populations</content>
+                           </content>
+                        </paragraph>
+                        <paragraph>There are no clinically relevant effects of age, body mass index, or sex on
+the pharmacokinetics of droxidopa. A population pharmacokinetic analysis
+suggests that hepatic function, assessed by aspartate aminotransferase (AST), alanine aminotransferase (ALT), alkaline phosphatase, and total bilirubin, did not influence the exposure to droxidopa. The controlled clinical trials included patients with mild to moderate renal impairment. No dose adjustments are required in patients with mild to moderate renal impairment.</paragraph>
+                        <paragraph>
+                           <content styleCode="bold">
+                              <content styleCode="italics"> </content>
+                           </content>
+                        </paragraph>
+                        <paragraph>
+                           <content styleCode="italics">
+                              <content styleCode="underline">Drug Interaction Studies</content>
+                           </content>
+                        </paragraph>
+                        <paragraph>No dedicated drug-drug interaction studies were performed for droxidopa. Patients
+in the Phase 3 trials with NORTHERA received concomitant levodopa/carbidopa,
+dopamine agonists, MAO-B inhibitors, COMT inhibitors and other medications used
+to treat Parkinson’s disease. Carbidopa,
+a peripheral dopa-decarboxylase inhibitor, could prevent the conversion of
+NORTHERA to norepinephrine outside of the central nervous system (CNS). Patients taking NORTHERA with
+L-DOPA/dopa-decarboxylase inhibitor combination drugs had decreased clearance
+of NORTHERA, an increase in overall exposure (AUC) to droxidopa of approximately
+100%, and an increase in overall exposure to 3-OM-DOPS of approximately 50%. However, in clinical trials, it was found
+that the decreased clearance was not associated with a significant need for a
+different treatment dose or increases in associated adverse events. Dopamine agonists, amantadine derivatives,
+and MAO-B inhibitors do not appear to affect NORTHERA clearance, and no dose
+adjustments are required.</paragraph>
+                     </text>
+                     <effectiveTime value="20190701"/>
+                  </section>
+               </component>
+            </section>
+         </component>
+         <component>
+            <section ID="LINK_36c66edc-0213-4013-a85f-12adb7df724b">
+               <id root="414d58ce-1aea-4157-9c54-79c95128ac71"/>
+               <code code="43680-8" codeSystem="2.16.840.1.113883.6.1" displayName="NONCLINICAL TOXICOLOGY SECTION"/>
+               <title>
+13 NONCLINICAL TOXICOLOGY
+</title>
+               <text/>
+               <effectiveTime value="20190701"/>
+               <component>
+                  <section ID="LINK_ee00e1e6-00b2-4db7-881a-c566a4263baf">
+                     <id root="10bfdac2-eddb-4e2b-8c50-2eaefa00deb0"/>
+                     <code code="34083-6" codeSystem="2.16.840.1.113883.6.1" displayName="CARCINOGENESIS &amp; MUTAGENESIS &amp; IMPAIRMENT OF FERTILITY SECTION"/>
+                     <title>13.1 Carcinogenesis, Mutagenesis, Impairment of Fertility</title>
+                     <text>
+                        <paragraph>Long-term studies have been conducted at dosages up to 1,000 mg/kg/day in mice and up to 100 mg/kg/day in rats with no indication of carcinogenic effects. Based on dose per unit body surface area, these two doses correspond to approximately 3 and 0.5 times, respectively, the maximum recommended total daily dose of 1,800 mg in a 60 kg patient. Droxidopa was clastogenic in Chinese hamster ovary cells (chromosome aberration assay), but was not mutagenic in bacteria (Ames assay), and was not clastogenic in a mouse micronucleus assay. </paragraph>
+                        <paragraph>Studies in rats show that droxidopa has no effect on fertility.</paragraph>
+                     </text>
+                     <effectiveTime value="20190701"/>
+                  </section>
+               </component>
+               <component>
+                  <section ID="LINK_113d9378-2f7c-4d25-8a34-e7e699b2dca9">
+                     <id root="6311e888-f109-43c1-a9a7-4064e519f9e9"/>
+                     <code code="34091-9" codeSystem="2.16.840.1.113883.6.1" displayName="ANIMAL PHARMACOLOGY &amp; OR TOXICOLOGY SECTION"/>
+                     <title>13.2 Animal Toxicology and/or Pharmacology</title>
+                     <text>
+                        <paragraph>In long-term chronic toxicity studies, rats and mice treated for 52 and 80 weeks, respectively, at doses up to 300 mg/kg/day in rats and 1,000 mg/kg/day in mice had increased incidences of renal and cardiac lesions (rats and mice) and deaths (rats only). The doses at which these effects were not seen represented 0.2 and 0.3 times, in rats and mice, respectively, the maximum recommended total daily dose of 1,800 mg in a 60 kg patient, when based on body surface area.</paragraph>
+                        <paragraph>No signs of toxicity were observed in monkeys or dogs given droxidopa for 13 weeks at doses 32 times (3,000 mg/kg/day) and 37 times (2,000 mg/kg/day), respectively, the maximum human dose. </paragraph>
+                     </text>
+                     <effectiveTime value="20190701"/>
+                  </section>
+               </component>
+            </section>
+         </component>
+         <component>
+            <section ID="LINK_abcdc4ed-f2de-44ef-b435-83bb162a7471">
+               <id root="f8ef07d7-c1e6-4161-8824-7624589c24ad"/>
+               <code code="34092-7" codeSystem="2.16.840.1.113883.6.1" displayName="CLINICAL STUDIES SECTION"/>
+               <title>14 CLINICAL STUDIES</title>
+               <text/>
+               <effectiveTime value="20190701"/>
+               <component>
+                  <section ID="LINK_6103172b-ba45-4708-a5d7-4ad25715163f">
+                     <id root="a68be84c-8f4f-4656-bb06-f8e0575cf571"/>
+                     <code code="42229-5" codeSystem="2.16.840.1.113883.6.1" displayName="SPL UNCLASSIFIED SECTION"/>
+                     <title>14.1 Studies in Neurogenic Orthostatic Hypotension</title>
+                     <text>
+                        <paragraph>Clinical studies (described below) examined the efficacy of NORTHERA in the short-term (1 to 2 weeks) and over longer-term periods (8 weeks; 3 months). Studies 301 and 306B showed a treatment effect of NORTHERA at Week 1, but none of the studies demonstrated continued efficacy beyond 2 weeks of treatment.</paragraph>
+                        <paragraph>Study 306B was a multi-center, double-blind, randomized, placebo-controlled, parallel-group study in patients with symptomatic nOH and Parkinson’s disease. Patients entering the study were required to have a decrease of at least 20 mm Hg or 10 mm Hg, respectively, in systolic or diastolic blood pressure, within 3 minutes after standing, as well as symptoms associated with neurogenic orthostatic hypotension. The study had an initial dose titration period that lasted up to 2 weeks in which patients received placebo or 100 to 600 mg of NORTHERA three times daily, followed by an 8-week treatment period.   </paragraph>
+                        <paragraph>Efficacy was measured using the OHSA Item #1 score (“dizziness, lightheadedness, feeling faint, and feeling like you might black out”) at Week 1, in patients who had completed titration and 1 week of maintenance therapy. </paragraph>
+                        <paragraph>A total of 171 patients were enrolled, and 147 patients were included in the efficacy analysis. The mean age was 72 years, and patients were mostly Caucasian. During the study, 94% of placebo-treated patients and 88% on NORTHERA were taking dopa-decarboxylase inhibitors; 17% of placebo-treated patients and 26% on NORTHERA were taking fludrocortisone. There were more premature discontinuations in the NORTHERA group (28%) than in the placebo group (20%). </paragraph>
+                        <paragraph>In both groups, the mean baseline dizziness score was 5.1 on an 11-point scale. At Week 1, patients showed a statistically significant mean 0.9 unit decrease in dizziness with NORTHERA versus placebo (<content styleCode="italics">P</content>=0.028), but the effect did not persist beyond Week 1. The data at all time points are shown in Figure 1.  </paragraph>
+                        <paragraph>Patients receiving NORTHERA also had a greater increase, compared to placebo, in the Week 1 lowest standing systolic blood pressure within 3 minutes after standing (5.6 mm Hg; <content styleCode="italics">P</content>=0.032).</paragraph>
+                        <paragraph>
+                           <content styleCode="bold">Figure 1. Mean Change in OHSA Item 1 Score by Week in Study 306B</content> </paragraph>
+                        <paragraph>
+                           <renderMultiMedia referencedObject="MM2"/>  </paragraph>
+                        <paragraph>Note: The graph is based on observed data only. The error bars are the 95% confidence interval of the mean change from baseline in OHSA Item 1 scores.</paragraph>
+                        <paragraph>
+                           <content styleCode="bold">Figure 2. Distribution of Patients by Change in OHSA Item 1, Baseline to Week 1, in Study 306B</content>
+                        </paragraph>
+                        <paragraph>Figure 2 shows the distribution of changes from Baseline to Week 1 in the OHSA Item #1 score. Overall the figure shows that patients treated with NORTHERA improved more than those treated with placebo.  </paragraph>
+                        <paragraph>
+                           <renderMultiMedia referencedObject="MM3"/> </paragraph>
+                        <paragraph>Study 301 was a multicenter, multinational, double-blind, randomized, placebo-controlled, parallel-group study in patients with symptomatic neurogenic orthostatic hypotension. The study included an initial open-label dose titration period, a 7-day washout period, and a randomized double-blind 7-day treatment period. To be eligible for enrollment, patients were required to have a decrease in systolic or diastolic blood pressure of at least 20 or 10 mm Hg, respectively, within 3 minutes after standing. The study was enriched, such that only patients who had been identified as "responders" during the titration period were randomized to NORTHERA or placebo. To be considered a responder, a patient had to demonstrate improvement on the OHSA Item #1 score by at least 1 point, as well as an increase in systolic blood pressure of at least 10 mm Hg post-standing, during the open-label dose titration period. Patients who dropped out during the titration period because of side effects or other reasons were also not included in the double-blind portion of the study. </paragraph>
+                        <paragraph>Patients had a primary diagnosis of Parkinson’s disease (n=60), pure autonomic failure (n=36), or multiple system atrophy (n=26). The mean age was 60 years, and most were Caucasian. 45% of patients were taking dopa-decarboxylase inhibitors, and 29% were taking fludrocortisone.  </paragraph>
+                        <paragraph>Efficacy was measured using the Orthostatic Hypotension Questionnaire (OHQ), a patient-reported outcome that measures symptoms of nOH and their impact on the patient’s ability to perform daily activities that require standing and walking. The OHQ includes OHSA Item #1 as one of several components. A statistically significant treatment effect was not demonstrated on OHQ (treatment effect of 0.4 unit, <content styleCode="italics">P</content>=0.19). </paragraph>
+                        <paragraph>The mean baseline dizziness score on OHSA Item #1 (“dizziness, lightheadedness, feeling faint, and feeling like you might black out”) was 5.2 units on an 11-point scale. At Week 1 of treatment, patients showed a mean 0.7 unit decrease in dizziness with NORTHERA versus placebo (<content styleCode="italics">P</content>=0.06). </paragraph>
+                        <paragraph>Study 302 (n=101) was a placebo-controlled, 2-week randomized withdrawal study of NORTHERA in patients with symptomatic nOH. Study 303 (n=75) was an extension of Studies 301 and 302, where patients received their titrated dose of NORTHERA for 3 months and then entered a 2-week randomized withdrawal phase. Neither study showed a statistically significant difference between treatment arms on its primary endpoint. Considering these data, the effectiveness of NORTHERA beyond 2 weeks is uncertain, and patients should be evaluated periodically to determine whether NORTHERA is continuing to provide a benefit.</paragraph>
+                     </text>
+                     <effectiveTime value="20190701"/>
+                     <component>
+                        <observationMedia ID="MM2">
+                           <text>Mean Change in OHSA</text>
+                           <value xsi:type="ED" mediaType="image/jpeg">
+                              <reference value="northera-2.jpg"/>
+                           </value>
+                        </observationMedia>
+                     </component>
+                     <component>
+                        <observationMedia ID="MM3">
+                           <text>Distribution of Patients by Change in OHSA</text>
+                           <value xsi:type="ED" mediaType="image/jpeg">
+                              <reference value="northera-3.jpg"/>
+                           </value>
+                        </observationMedia>
+                     </component>
+                  </section>
+               </component>
+            </section>
+         </component>
+         <component>
+            <section ID="LINK_87181a6d-ea9b-4085-a300-542f4fa40c77">
+               <id root="cd262020-eb26-4fc3-adb0-2a786db1f722"/>
+               <code code="42229-5" codeSystem="2.16.840.1.113883.6.1" displayName="SPL UNCLASSIFIED SECTION"/>
+               <title>16 HOW SUPPLIED/STORAGE AND HANDLING</title>
+               <text/>
+               <effectiveTime value="20190701"/>
+               <component>
+                  <section ID="LINK_f62ebdc9-8bd6-4c62-a68f-5c51f2b3132f">
+                     <id root="00cce1b7-6061-4a3d-854f-ba67cc7f10f6"/>
+                     <code code="34069-5" codeSystem="2.16.840.1.113883.6.1" displayName="HOW SUPPLIED SECTION"/>
+                     <title>16.1 How Supplied</title>
+                     <text>
+                        <paragraph>NORTHERA capsules are supplied in the following dosage strengths:</paragraph>
+                        <paragraph>100 mg:  Hard gelatin, size 3 capsule, with an opaque light blue cap and an opaque white body, printed with “Northera” on body and “100” on cap, filled with a white to light brown powder.</paragraph>
+                        <paragraph>200 mg:  Hard gelatin, size 2 capsule, with an opaque light yellow cap and an opaque white body, printed with “Northera” on body and “200” on cap, filled with a white to light brown powder.</paragraph>
+                        <paragraph>300 mg:  Hard gelatin, size 1 capsule, with an opaque light green cap and an opaque white body, printed with “Northera” on body and “300” on cap, filled with a white to light brown powder.</paragraph>
+                        <paragraph>100 mg 90-count bottle (NDC code# 67386-820-19)</paragraph>
+                        <paragraph>200 mg 90-count bottle (NDC code# 67386-821-19)</paragraph>
+                        <paragraph>300 mg 90-count bottle (NDC code# 67386-822-19)</paragraph>
+                     </text>
+                     <effectiveTime value="20190701"/>
+                  </section>
+               </component>
+               <component>
+                  <section ID="LINK_c5290b47-fa1b-408f-8a77-804282ce7d48">
+                     <id root="6db701f3-e3f2-4276-a009-458a981b4373"/>
+                     <code code="44425-7" codeSystem="2.16.840.1.113883.6.1" displayName="STORAGE AND HANDLING SECTION"/>
+                     <title>16.2 Storage and Handling</title>
+                     <text>
+                        <paragraph>NORTHERA capsules should be stored at 20°C to 25°C (68°F to 77°F); excursions permitted to 15°C to 30°C (59°F to 86°F) [<content styleCode="italics">see USP Controlled Room Temperature</content>].</paragraph>
+                     </text>
+                     <effectiveTime value="20190701"/>
+                  </section>
+               </component>
+            </section>
+         </component>
+         <component>
+            <section ID="LINK_bb3279dd-df5e-4804-8a6f-ac8abd4ce5da">
+               <id root="6febfe47-d931-4afa-948a-85dd3e628862"/>
+               <code code="34076-0" codeSystem="2.16.840.1.113883.6.1" displayName="INFORMATION FOR PATIENTS SECTION"/>
+               <title>17 PATIENT COUNSELING INFORMATION</title>
+               <text>
+                  <paragraph>
+                     <content styleCode="italics">Elevations in Blood Pressure<br/>
+                     </content>Counsel patients that NORTHERA causes elevations in blood pressure and increases the risk of supine hypertension, which could lead to strokes, heart attacks, and death. Instruct patients to rest and sleep in an upper-body elevated position and monitor blood pressure. Instruct patients how to manage observed blood pressure elevations. To reduce the risk of supine hypertension, in addition to raising the upper body, the late afternoon dose of NORTHERA should be taken at least three hours before bedtime <content styleCode="italics">[see Warnings and Precautions (<linkHtml href="#LINK_7f2d4741-ac75-459e-a52e-fc64dc176637">5.1</linkHtml>)]</content>.</paragraph>
+                  <paragraph>
+                     <content styleCode="italics">Concomitant Treatments<br/>
+                     </content>Counsel patients about the concomitant use of drugs to treat other conditions that may have an additive effect with NORTHERA <content styleCode="italics">[see Drug Interactions (<linkHtml href="#LINK_3b3bf386-47f7-4a6c-8020-ba68feefff83">7</linkHtml>)].</content>
+                  </paragraph>
+                  <paragraph>
+                     <content styleCode="italics">Allergic Reactions<br/>
+                     </content>Counsel patients to discontinue NORTHERA and seek immediate medical attention if any signs or symptoms of a hypersensitivity reaction such as anaphylaxis, angioedema, bronchospasm, urticaria or rash occur <content styleCode="italics">[see Warnings and Precautions (<linkHtml href="#LINK_58f942f3-669b-40bc-8b72-28aef3541319">5.4</linkHtml>)].</content>
+                  </paragraph>
+                  <paragraph>
+                     <content styleCode="italics">Lactation</content>
+                  </paragraph>
+                  <paragraph>Advise women not to breastfeed during treatment with NORTHERA <content styleCode="italics">[see Use in Specific Populations (<linkHtml href="#LINK_2d0693aa-f9ca-4f3e-bc49-243e1ba2cac1">8.2</linkHtml>)]</content>.</paragraph>
+                  <paragraph>
+                     <content styleCode="italics">Food<br/>
+                     </content>Patients should take NORTHERA the same way each time, either with food or without food <content styleCode="italics">[see Dosage and Administration (<linkHtml href="#LINK_d2120f29-ffde-40ee-992c-ac792271bcea">2.1</linkHtml>)]</content>.</paragraph>
+                  <paragraph>
+                     <content styleCode="italics">Missed Dose<br/>
+                     </content>If a dose is missed, patients should take the next dose at the regularly scheduled time and should not double the dose.</paragraph>
+                  <paragraph>Manufactured by:<br/>Patheon, Whitby, ON L1N 5Z5, Canada</paragraph>
+                  <paragraph>For:  <br/>Lundbeck, Deerfield, IL 60015, U.S.A. </paragraph>
+                  <paragraph>
+                     <content styleCode="bold"> </content>
+                  </paragraph>
+                  <paragraph>NORTHERA is a registered trademark of Lundbeck NA Ltd.</paragraph>
+               </text>
+               <effectiveTime value="20190701"/>
+            </section>
+         </component>
+         <component>
+            <section ID="LINK_9529c41b-dfb0-4dac-8ccb-8263c1d96b71">
+               <id root="85444979-a09e-4481-8e06-25c97250ec16"/>
+               <code code="51945-4" codeSystem="2.16.840.1.113883.6.1" displayName="PACKAGE LABEL.PRINCIPAL DISPLAY PANEL"/>
+               <title>
+                  <content styleCode="bold">PRINCIPAL DISPLAY PANEL</content>
+               </title>
+               <text>
+                  <paragraph>NDC 67386-820-19<br/>90 Capsules<br/>Northera<sup>™</sup>
+                     <br/>(droxidopa) capsules<br/>100 mg<br/>Rx Only</paragraph>
+                  <renderMultiMedia referencedObject="MM4"/>
+               </text>
+               <effectiveTime value="20190701"/>
+               <component>
+                  <observationMedia ID="MM4">
+                     <text>NDC 67386-820-19 90 Capsules Northera™ (droxidopa) capsules 100 mg Rx Only</text>
+                     <value xsi:type="ED" mediaType="image/jpeg">
+                        <reference value="northera-4.jpg"/>
+                     </value>
+                  </observationMedia>
+               </component>
+            </section>
+         </component>
+         <component>
+            <section ID="LINK_12d77815-434d-499c-8a61-b1da479f82ae">
+               <id root="53dcdb9c-944d-4f67-8ef0-185c749d80a1"/>
+               <code code="51945-4" codeSystem="2.16.840.1.113883.6.1" displayName="PACKAGE LABEL.PRINCIPAL DISPLAY PANEL"/>
+               <title>
+                  <content styleCode="bold">PRINCIPAL DISPLAY PANEL</content>
+               </title>
+               <text>
+                  <paragraph>NDC 67386-821-19<br/>90 Capsules<br/>Northera<sup>™</sup>
+                     <br/>(droxidopa) capsules<br/>200 mg<br/>Rx Only</paragraph>
+                  <renderMultiMedia referencedObject="MM5"/>
+               </text>
+               <effectiveTime value="20190701"/>
+               <component>
+                  <observationMedia ID="MM5">
+                     <text>NDC 67386-821-19 90 Capsules Northera™ (droxidopa) capsules 200 mg Rx Only</text>
+                     <value xsi:type="ED" mediaType="image/jpeg">
+                        <reference value="northera-5.jpg"/>
+                     </value>
+                  </observationMedia>
+               </component>
+            </section>
+         </component>
+         <component>
+            <section ID="LINK_a7f34db7-b4a8-41d6-8dea-5747f59f3105">
+               <id root="56a1975c-6cfd-45fd-9311-630c24745c28"/>
+               <code code="51945-4" codeSystem="2.16.840.1.113883.6.1" displayName="PACKAGE LABEL.PRINCIPAL DISPLAY PANEL"/>
+               <title>
+                  <content styleCode="bold">PRINCIPAL DISPLAY PANEL</content>
+               </title>
+               <text>
+                  <paragraph>NDC 67386-822-19<br/>90 Capsules<br/>Northera<sup>™</sup>
+                     <br/>(droxidopa) capsules<br/>300 mg<br/>Rx Only</paragraph>
+                  <renderMultiMedia referencedObject="MM6"/>
+               </text>
+               <effectiveTime value="20190701"/>
+               <component>
+                  <observationMedia ID="MM6">
+                     <text>NDC 67386-822-19 90 Capsules Northera™ (droxidopa) capsules 300 mg Rx Only</text>
+                     <value xsi:type="ED" mediaType="image/jpeg">
+                        <reference value="northera-6.jpg"/>
+                     </value>
+                  </observationMedia>
+               </component>
+            </section>
+         </component>
+         <component>
+            <section ID="LINK_7cbe689c-f766-46c2-af84-8042f10e7ee8">
+               <id root="29f6641f-f804-40ea-8a7d-d55539e2aa50"/>
+               <code code="51945-4" codeSystem="2.16.840.1.113883.6.1" displayName="PACKAGE LABEL.PRINCIPAL DISPLAY PANEL"/>
+               <title>
+                  <content styleCode="bold">PRINCIPAL DISPLAY PANEL</content>
+                  <br/>
+               </title>
+               <text>
+                  <paragraph>NDC 67386-820-99<br/>90 Capsules<br/>Northera<sup>™</sup>
+                     <br/>(droxidopa) capsules<br/>100 mg<br/>Rx Only</paragraph>
+                  <paragraph>Professional Sample</paragraph>
+                  <renderMultiMedia referencedObject="MM7"/>
+               </text>
+               <effectiveTime value="20190701"/>
+               <component>
+                  <observationMedia ID="MM7">
+                     <text>Northera 100 mg</text>
+                     <value xsi:type="ED" mediaType="image/jpeg">
+                        <reference value="northera-7.jpg"/>
+                     </value>
+                  </observationMedia>
+               </component>
+            </section>
+         </component>
+      </structuredBody>
+   </component>
+</document>

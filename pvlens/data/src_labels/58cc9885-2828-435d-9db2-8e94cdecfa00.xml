@@ -1,0 +1,1288 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet href="http://www.accessdata.fda.gov/spl/stylesheet/spl.xsl" type="text/xsl"?>
+<document xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:hl7-org:v3 http://www.accessdata.fda.gov/spl/schema/spl.xsd">
+   <id root="58cc9885-2828-435d-9db2-8e94cdecfa00"/>
+   <code code="34391-3" codeSystem="2.16.840.1.113883.6.1" displayName="HUMAN PRESCRIPTION DRUG LABEL"/>
+   <title>These highlights do not include all the information needed to use ESBRIET safely and effectively.  See full prescribing information for ESBRIET.<br/>
+      <br/>ESBRIET<sup>®</sup> (pirfenidone) capsules, for oral use<br/>Initial U.S. Approval: 2014</title>
+   <effectiveTime value="20141028"/>
+   <setId root="0ab861c2-d5ca-4f92-854c-6477971a1b38"/>
+   <versionNumber value="1"/>
+   <author>
+      <time/>
+      <assignedEntity>
+         <representedOrganization>
+            <id extension="035491294" root="1.3.6.1.4.1.519.1"/>
+            <name>InterMune, Inc.</name>
+            <assignedEntity>
+               <assignedOrganization/>
+            </assignedEntity>
+            <assignedEntity>
+               <assignedOrganization/>
+            </assignedEntity>
+            <assignedEntity>
+               <assignedOrganization/>
+            </assignedEntity>
+            <assignedEntity>
+               <assignedOrganization/>
+            </assignedEntity>
+         </representedOrganization>
+      </assignedEntity>
+   </author>
+   <component>
+      <structuredBody>
+         <component>
+            <section ID="DLDE">
+               <id root="a8a7491e-cf6a-421d-8a34-c44d44f0bd85"/>
+               <code code="48780-1" codeSystem="2.16.840.1.113883.6.1" displayName="SPL LISTING DATA ELEMENTS SECTION"/>
+               <effectiveTime value="20141028"/>
+               <subject>
+                  <manufacturedProduct>
+                     <manufacturedProduct>
+                        <code code="64116-121" codeSystem="2.16.840.1.113883.6.69"/>
+                        <name>Esbriet</name>
+                        <formCode code="C25158" codeSystem="2.16.840.1.113883.3.26.1.1" displayName="CAPSULE"/>
+                        <asEntityWithGeneric>
+                           <genericMedicine>
+                              <name>pirfenidone</name>
+                           </genericMedicine>
+                        </asEntityWithGeneric>
+                        <ingredient classCode="ACTIB">
+                           <quantity>
+                              <numerator value="267" unit="mg"/>
+                              <denominator value="1" unit="1"/>
+                           </quantity>
+                           <ingredientSubstance>
+                              <code code="D7NLD2JX7U" codeSystem="2.16.840.1.113883.4.9"/>
+                              <name>PIRFENIDONE</name>
+                              <activeMoiety>
+                                 <activeMoiety>
+                                    <code code="D7NLD2JX7U" codeSystem="2.16.840.1.113883.4.9"/>
+                                    <name>PIRFENIDONE</name>
+                                 </activeMoiety>
+                              </activeMoiety>
+                           </ingredientSubstance>
+                        </ingredient>
+                        <asContent>
+                           <quantity>
+                              <numerator value="270" unit="1"/>
+                              <denominator value="1"/>
+                           </quantity>
+                           <containerPackagedProduct>
+                              <code/>
+                              <formCode code="C43173" codeSystem="2.16.840.1.113883.3.26.1.1" displayName="BOTTLE, PLASTIC"/>
+                              <asContent>
+                                 <quantity>
+                                    <numerator value="1" unit="1"/>
+                                    <denominator value="1"/>
+                                 </quantity>
+                                 <containerPackagedProduct>
+                                    <code code="64116-121-01" codeSystem="2.16.840.1.113883.6.69"/>
+                                    <formCode code="C43182" codeSystem="2.16.840.1.113883.3.26.1.1" displayName="CARTON"/>
+                                 </containerPackagedProduct>
+                              </asContent>
+                           </containerPackagedProduct>
+                        </asContent>
+                        <asContent>
+                           <quantity>
+                              <numerator value="63" unit="1"/>
+                              <denominator value="1"/>
+                           </quantity>
+                           <containerPackagedProduct>
+                              <code/>
+                              <formCode code="C43168" codeSystem="2.16.840.1.113883.3.26.1.1" displayName="BLISTER PACK"/>
+                              <asContent>
+                                 <quantity>
+                                    <numerator value="1" unit="1"/>
+                                    <denominator value="1"/>
+                                 </quantity>
+                                 <containerPackagedProduct>
+                                    <code code="64116-121-02" codeSystem="2.16.840.1.113883.6.69"/>
+                                    <formCode code="C43182" codeSystem="2.16.840.1.113883.3.26.1.1" displayName="CARTON"/>
+                                 </containerPackagedProduct>
+                              </asContent>
+                           </containerPackagedProduct>
+                        </asContent>
+                        <asContent>
+                           <quantity>
+                              <numerator value="63" unit="1"/>
+                              <denominator value="1"/>
+                           </quantity>
+                           <containerPackagedProduct>
+                              <code/>
+                              <formCode code="C43168" codeSystem="2.16.840.1.113883.3.26.1.1" displayName="BLISTER PACK"/>
+                              <asContent>
+                                 <quantity>
+                                    <numerator value="4" unit="1"/>
+                                    <denominator value="1"/>
+                                 </quantity>
+                                 <containerPackagedProduct>
+                                    <code code="64116-121-03" codeSystem="2.16.840.1.113883.6.69"/>
+                                    <formCode code="C43182" codeSystem="2.16.840.1.113883.3.26.1.1" displayName="CARTON"/>
+                                 </containerPackagedProduct>
+                              </asContent>
+                           </containerPackagedProduct>
+                        </asContent>
+                     </manufacturedProduct>
+                     <subjectOf>
+                        <approval>
+                           <id extension="NDA022535" root="2.16.840.1.113883.3.150"/>
+                           <code code="C73594" codeSystem="2.16.840.1.113883.3.26.1.1" displayName="NDA"/>
+                           <author>
+                              <territorialAuthority>
+                                 <territory>
+                                    <code code="USA" codeSystem="2.16.840.1.113883.5.28"/>
+                                 </territory>
+                              </territorialAuthority>
+                           </author>
+                        </approval>
+                     </subjectOf>
+                     <subjectOf>
+                        <marketingAct>
+                           <code code="C53292" codeSystem="2.16.840.1.113883.3.26.1.1"/>
+                           <statusCode code="active"/>
+                           <effectiveTime>
+                              <low value="20141016"/>
+                           </effectiveTime>
+                        </marketingAct>
+                     </subjectOf>
+                     <subjectOf>
+                        <characteristic classCode="OBS">
+                           <code code="SPLCOLOR" codeSystem="2.16.840.1.113883.1.11.19255"/>
+                           <value xsi:type="CE" code="C48325" codeSystem="2.16.840.1.113883.3.26.1.1" displayName="WHITE"/>
+                        </characteristic>
+                     </subjectOf>
+                     <subjectOf>
+                        <characteristic classCode="OBS">
+                           <code code="SPLCOLOR" codeSystem="2.16.840.1.113883.1.11.19255"/>
+                           <value xsi:type="CE" code="C48325" codeSystem="2.16.840.1.113883.3.26.1.1" displayName="WHITE"/>
+                        </characteristic>
+                     </subjectOf>
+                     <subjectOf>
+                        <characteristic classCode="OBS">
+                           <code code="SPLSCORE" codeSystem="2.16.840.1.113883.1.11.19255"/>
+                           <value xsi:type="INT" value="1"/>
+                        </characteristic>
+                     </subjectOf>
+                     <subjectOf>
+                        <characteristic classCode="OBS">
+                           <code code="SPLSHAPE" codeSystem="2.16.840.1.113883.1.11.19255"/>
+                           <value xsi:type="CE" code="C48336" codeSystem="2.16.840.1.113883.3.26.1.1" displayName="CAPSULE"/>
+                        </characteristic>
+                     </subjectOf>
+                     <subjectOf>
+                        <characteristic classCode="OBS">
+                           <code code="SPLSIZE" codeSystem="2.16.840.1.113883.1.11.19255"/>
+                           <value xsi:type="PQ" value="19" unit="mm"/>
+                        </characteristic>
+                     </subjectOf>
+                     <subjectOf>
+                        <characteristic classCode="OBS">
+                           <code code="SPLIMPRINT" codeSystem="2.16.840.1.113883.1.11.19255"/>
+                           <value xsi:type="ST">InterMune;267;mg</value>
+                        </characteristic>
+                     </subjectOf>
+                     <consumedIn>
+                        <substanceAdministration>
+                           <routeCode code="C38288" codeSystem="2.16.840.1.113883.3.26.1.1" displayName="ORAL"/>
+                        </substanceAdministration>
+                     </consumedIn>
+                  </manufacturedProduct>
+               </subject>
+            </section>
+         </component>
+         <component>
+            <section ID="s1">
+               <id root="b1b7eb77-9fc7-4447-a57b-17f99a483cf7"/>
+               <code code="34067-9" codeSystem="2.16.840.1.113883.6.1" displayName="INDICATIONS &amp; USAGE SECTION"/>
+               <title mediaType="text/x-hl7-title+xml">1 INDICATIONS AND USAGE</title>
+               <text>
+                  <paragraph>ESBRIET is indicated for the treatment of idiopathic pulmonary fibrosis (IPF).</paragraph>
+               </text>
+               <effectiveTime value="20141028"/>
+               <excerpt>
+                  <highlight>
+                     <text>
+                        <paragraph>ESBRIET is a pyridone indicated for the treatment of idiopathic pulmonary fibrosis (IPF).</paragraph>
+                     </text>
+                  </highlight>
+               </excerpt>
+            </section>
+         </component>
+         <component>
+            <section ID="s2">
+               <id root="c92d4091-e9a4-4b9d-86ea-7d7a48726564"/>
+               <code code="34068-7" codeSystem="2.16.840.1.113883.6.1" displayName="DOSAGE &amp; ADMINISTRATION SECTION"/>
+               <title mediaType="text/x-hl7-title+xml">2 DOSAGE AND ADMINISTRATION</title>
+               <text/>
+               <effectiveTime value="20141028"/>
+               <excerpt>
+                  <highlight>
+                     <text>
+                        <list>
+                           <item>Recommended dosage: 801 mg (three capsules) three times daily taken with food. (<linkHtml href="#s2">2</linkHtml>)</item>
+                           <item>Upon initiation of treatment, the daily dosage should be titrated to the full dosage of nine capsules per day over a 14-day period as follows:</item>
+                        </list>
+                        <table ID="t1h" width="100%" styleCode="Noautorules">
+                           <col valign="top" width="40%"/>
+                           <col valign="top" width="60%"/>
+                           <tbody>
+                              <tr>
+                                 <td styleCode="Toprule Lrule Rrule Botrule" align="center">Treatment days</td>
+                                 <td styleCode="Toprule Rrule Botrule" align="center">Dosage</td>
+                              </tr>
+                              <tr>
+                                 <td styleCode="Lrule Rrule Botrule"> Days 1 through 7</td>
+                                 <td styleCode="Rrule Botrule"> 1 capsule three times a day with meals</td>
+                              </tr>
+                              <tr>
+                                 <td styleCode="Lrule Rrule Botrule"> Days 8 through 14</td>
+                                 <td styleCode="Rrule Botrule"> 2 capsules three times a day with meals</td>
+                              </tr>
+                              <tr>
+                                 <td styleCode="Lrule Rrule Botrule"> Days 15 onward</td>
+                                 <td styleCode="Rrule Botrule"> 3 capsules three times a day with meals</td>
+                              </tr>
+                           </tbody>
+                        </table>
+                        <list>
+                           <item>Consider temporary dosage reduction, treatment interruption, or discontinuation for management of adverse reactions. (<linkHtml href="#s2.3">2.3</linkHtml>, <linkHtml href="#s5.1">5.1</linkHtml>, <linkHtml href="#s5.2">5.2</linkHtml>, <linkHtml href="#s5.3">5.3</linkHtml>) </item>
+                           <item>Prior to treatment, conduct liver function tests. (<linkHtml href="#s2.1">2.1</linkHtml>)</item>
+                        </list>
+                     </text>
+                  </highlight>
+               </excerpt>
+               <component>
+                  <section ID="s2.1">
+                     <id root="47dd55ee-2678-42a6-b7a3-350e53293cee"/>
+                     <code code="42229-5" codeSystem="2.16.840.1.113883.6.1" displayName="SPL UNCLASSIFIED SECTION"/>
+                     <title>2.1 Testing Prior to ESBRIET Administration</title>
+                     <text>
+                        <paragraph>Conduct liver function tests prior to initiating treatment with ESBRIET <content styleCode="italics">
+                              <linkHtml href="#s5.1">[see Warnings and Precautions (5.1)]</linkHtml>.</content>
+                        </paragraph>
+                     </text>
+                     <effectiveTime value="20141028"/>
+                  </section>
+               </component>
+               <component>
+                  <section ID="s2.2">
+                     <id root="343e7364-825b-439b-b3ef-336277faaf3d"/>
+                     <code code="42229-5" codeSystem="2.16.840.1.113883.6.1" displayName="SPL UNCLASSIFIED SECTION"/>
+                     <title>2.2 Recommended Dosage</title>
+                     <text>
+                        <paragraph>The recommended daily maintenance dosage of ESBRIET is 801 mg (three 267 mg capsules) three times a day with food for a total of 2403 mg/day.  Doses should be taken at the same time each day.</paragraph>
+                        <paragraph>Upon initiation of treatment, titrate to the full dosage of nine capsules per day over a 14-day period as follows:</paragraph>
+                        <table ID="t1" width="500" styleCode="Noautorules" cellpadding="3">
+                           <caption>Table 1. Dosage Titration for ESBRIET in Patients with IPF</caption>
+                           <col width="40%"/>
+                           <col width="60%"/>
+                           <tbody>
+                              <tr>
+                                 <td styleCode="Toprule Lrule Rrule Botrule bold" align="center">Treatment days</td>
+                                 <td styleCode=" Toprule Rrule Botrule bold" align="center">Dosage</td>
+                              </tr>
+                              <tr>
+                                 <td styleCode="Lrule Rrule Botrule"> Days 1 through 7</td>
+                                 <td styleCode="Rrule Botrule"> 1 capsule three times a day with food</td>
+                              </tr>
+                              <tr>
+                                 <td styleCode="Lrule Rrule Botrule"> Days 8 through 14</td>
+                                 <td styleCode="Rrule Botrule"> 2 capsules three times a day with food</td>
+                              </tr>
+                              <tr>
+                                 <td styleCode="Lrule Rrule Botrule"> Days 15 onward</td>
+                                 <td styleCode="Rrule Botrule"> 3 capsules three times a day with food</td>
+                              </tr>
+                           </tbody>
+                        </table>
+                        <paragraph>Dosages above 2403 mg/day (9 capsules per day) are not recommended for any patient.</paragraph>
+                     </text>
+                     <effectiveTime value="20141028"/>
+                  </section>
+               </component>
+               <component>
+                  <section ID="s2.3">
+                     <id root="8967a6a8-631b-421a-ae78-1024d6270c41"/>
+                     <code code="42229-5" codeSystem="2.16.840.1.113883.6.1" displayName="SPL UNCLASSIFIED SECTION"/>
+                     <title>2.3 Dosage Modifications due to Adverse Reactions</title>
+                     <text>
+                        <paragraph>Patients who miss 14 or more days of ESBRIET should re-initiate treatment by undergoing the initial 2-week titration regimen up to the full maintenance dosage <content styleCode="italics">
+                              <linkHtml href="#s2.2">[see Dosage and Administration (2.2)]</linkHtml>
+                           </content>.  For treatment interruption of less than 14 days, the dosage prior to the interruption can be resumed.</paragraph>
+                        <paragraph>If patients experience significant adverse reactions (i.e., gastrointestinal, photosensitivity reaction or rash), consider temporary dosage reductions or interruptions of ESBRIET to allow for resolution of symptoms <content styleCode="italics">
+                              <linkHtml href="#s5.1">[see Warnings and Precautions (5.1</linkHtml>, <linkHtml href="#s5.2">5.2</linkHtml>, <linkHtml href="#s5.3">5.3)]</linkHtml>.</content>
+                        </paragraph>
+                        <paragraph>
+                           <content styleCode="underline">Dosage Modification due to Elevated Liver Enzymes</content>
+                           <br/>Dosage modifications or interruptions may also be necessary when liver enzyme and bilirubin elevations are exhibited.  For liver enzyme elevations, modify the dosage as follows:</paragraph>
+                        <paragraph>If a patient exhibits &gt;3 but ≤5 × the upper limit of normal (ULN) ALT and/or AST without symptoms or hyperbilirubinemia after starting ESBRIET therapy:</paragraph>
+                        <list>
+                           <item>Discontinue confounding medications, exclude other causes, and monitor the patient closely.</item>
+                           <item>Repeat liver chemistry tests as clinically indicated.</item>
+                           <item>The full daily dosage may be maintained, if clinically appropriate, or reduced or interrupted (e.g., until liver chemistry tests are within normal limits) with subsequent re-titration to the full dosage as tolerated.</item>
+                        </list>
+                        <paragraph>If a patient exhibits &gt;3 but ≤5 × ULN ALT and/or AST accompanied by symptoms or hyperbilirubinemia:</paragraph>
+                        <list>
+                           <item>Permanently discontinue ESBRIET.</item>
+                           <item>Do not rechallenge patient with ESBRIET.</item>
+                        </list>
+                        <paragraph>If a patient exhibits &gt;5 × ULN ALT and/or AST:</paragraph>
+                        <list>
+                           <item>Permanently discontinue ESBRIET.</item>
+                           <item>Do not rechallenge patient with ESBRIET.</item>
+                        </list>
+                     </text>
+                     <effectiveTime value="20141028"/>
+                  </section>
+               </component>
+               <component>
+                  <section ID="s2.4">
+                     <id root="1f19a3d5-9637-4f6e-b58e-8b20ea5fb654"/>
+                     <code code="42229-5" codeSystem="2.16.840.1.113883.6.1" displayName="SPL UNCLASSIFIED SECTION"/>
+                     <title>2.4 Dosage Modification due to Drug Interactions</title>
+                     <text>
+                        <paragraph>
+                           <content styleCode="underline">Strong CYP1A2 Inhibitors (e.g., fluvoxamine, enoxacin)</content>
+                           <br/>Reduce ESBRIET to one capsule three times a day.</paragraph>
+                        <paragraph>
+                           <content styleCode="underline">Moderate CYP1A2 Inhibitors (e.g., ciprofloxacin)</content>
+                           <br/>With use of ciprofloxacin at a dosage of 750 mg twice daily, reduce ESBRIET to two capsules three times a day.</paragraph>
+                     </text>
+                     <effectiveTime value="20141028"/>
+                  </section>
+               </component>
+            </section>
+         </component>
+         <component>
+            <section ID="s3">
+               <id root="290d5b16-d4ad-4e1e-96d9-78acdcdfcf7c"/>
+               <code code="43678-2" codeSystem="2.16.840.1.113883.6.1" displayName="DOSAGE FORMS &amp; STRENGTHS SECTION"/>
+               <title mediaType="text/x-hl7-title+xml">3 DOSAGE FORMS AND STRENGTHS</title>
+               <text>
+                  <paragraph>Capsules:  267 mg, white, hard gelatin capsules printed with “InterMune<sup>®</sup>” and “267 mg” on the cap of the capsule in brown ink.</paragraph>
+               </text>
+               <effectiveTime value="20141028"/>
+               <excerpt>
+                  <highlight>
+                     <text>
+                        <paragraph>Capsules: 267 mg (<linkHtml href="#s3">3</linkHtml>)</paragraph>
+                     </text>
+                  </highlight>
+               </excerpt>
+            </section>
+         </component>
+         <component>
+            <section ID="s4">
+               <id root="1d395296-c7e5-42cd-830a-7946a44787ae"/>
+               <code code="34070-3" codeSystem="2.16.840.1.113883.6.1" displayName="CONTRAINDICATIONS SECTION"/>
+               <title mediaType="text/x-hl7-title+xml">4 CONTRAINDICATIONS</title>
+               <text>
+                  <paragraph>None.</paragraph>
+               </text>
+               <effectiveTime value="20141028"/>
+               <excerpt>
+                  <highlight>
+                     <text>
+                        <paragraph>None</paragraph>
+                     </text>
+                  </highlight>
+               </excerpt>
+            </section>
+         </component>
+         <component>
+            <section ID="s5">
+               <id root="4a4a619c-fa8e-4b88-9129-62551c103c92"/>
+               <code code="43685-7" codeSystem="2.16.840.1.113883.6.1" displayName="WARNINGS AND PRECAUTIONS SECTION"/>
+               <title mediaType="text/x-hl7-title+xml">5 WARNINGS AND PRECAUTIONS</title>
+               <text/>
+               <effectiveTime value="20141028"/>
+               <excerpt>
+                  <highlight>
+                     <text>
+                        <list listType="unordered">
+                           <item>Elevated liver enzymes: ALT, AST, and bilirubin elevations have occurred with ESBRIET. Monitor ALT, AST, and bilirubin before and during treatment. Temporary dosage reductions or discontinuations may be required. (<linkHtml href="#s2.1">2.1</linkHtml>, <linkHtml href="#s5.1">5.1</linkHtml>)</item>
+                           <item>Photosensitivity and rash: Photosensitivity and rash have been noted with ESBRIET. Avoid exposure to sunlight and sunlamps. Wear sunscreen and protective clothing daily. Temporary dosage reductions or discontinuations may be required. (<linkHtml href="#s5.2">5.2</linkHtml>)</item>
+                           <item>Gastrointestinal disorders: Nausea, vomiting, diarrhea, dyspepsia, gastro-esophageal reflux disease, and abdominal pain have occurred with ESBRIET. Temporary dosage reductions or discontinuations may be required. (<linkHtml href="#s5.3">5.3</linkHtml>)</item>
+                        </list>
+                     </text>
+                  </highlight>
+               </excerpt>
+               <component>
+                  <section ID="s5.1">
+                     <id root="21d0a78f-ed75-4937-bcf1-2c12f0383b9d"/>
+                     <code code="42229-5" codeSystem="2.16.840.1.113883.6.1" displayName="SPL UNCLASSIFIED SECTION"/>
+                     <title>5.1 Elevated Liver Enzymes</title>
+                     <text>
+                        <paragraph>Increases in ALT and AST &gt;3 × ULN have been reported in patients treated with ESBRIET.  Rarely these have been associated with concomitant elevations in bilirubin.  Patients treated with ESBRIET 2403 mg/day in the three Phase 3 trials had a higher incidence of elevations in ALT or AST ≥3 × ULN than placebo patients (3.7% vs. 0.8%, respectively).  Elevations ≥10 × ULN in ALT or AST occurred in 0.3% of patients in the ESBRIET 2403 mg/day group and in 0.2% of patients in the placebo group.  Increases in ALT and AST ≥3 × ULN were reversible with dose modification or treatment discontinuation.  No cases of liver transplant or death due to liver failure that were related to ESBRIET have been  reported.  However, the combination of transaminase elevations and elevated bilirubin without evidence of obstruction is generally recognized as an important predictor of severe liver injury, that could lead to death or the need for liver transplants in some patients.  Conduct liver function tests (ALT, AST, and bilirubin) prior to the initiation of therapy with ESBRIET in all patients, then monthly for the first 6 months and every 3 months thereafter.  Dosage modifications or interruption may be necessary for liver enzyme elevations <content styleCode="italics">
+                              <linkHtml href="#s2.1">[see Dosage and Administration (2.1, </linkHtml>
+                              <linkHtml href="#s2.3">2.3)].</linkHtml>
+                           </content>
+                        </paragraph>
+                     </text>
+                     <effectiveTime value="20141028"/>
+                  </section>
+               </component>
+               <component>
+                  <section ID="s5.2">
+                     <id root="192e8b4c-23a8-492b-a682-49b973e5e7c9"/>
+                     <code code="42229-5" codeSystem="2.16.840.1.113883.6.1" displayName="SPL UNCLASSIFIED SECTION"/>
+                     <title>5.2 Photosensitivity Reaction or Rash</title>
+                     <text>
+                        <paragraph>Patients treated with ESBRIET 2403 mg/day in the three Phase 3 studies had a higher incidence of photosensitivity reactions (9%) compared with patients treated with placebo (1%).  The majority of the photosensitivity reactions occurred during the initial 6 months.  Instruct patients to avoid or minimize exposure to sunlight (including sunlamps), to use a sunblock (SPF 50 or higher), and to wear clothing that protects against sun exposure.  Additionally, instruct patients to avoid concomitant medications known to cause photosensitivity.  Dosage reduction or discontinuation may be necessary in some cases of photosensitivity reaction or rash <content styleCode="italics">
+                              <linkHtml href="#s2.3">[see Dosage and Administration (2.3)]</linkHtml>
+                           </content>.</paragraph>
+                     </text>
+                     <effectiveTime value="20141028"/>
+                  </section>
+               </component>
+               <component>
+                  <section ID="s5.3">
+                     <id root="f69cddf4-c33c-41e3-8233-6be5215ad5f8"/>
+                     <code code="42229-5" codeSystem="2.16.840.1.113883.6.1" displayName="SPL UNCLASSIFIED SECTION"/>
+                     <title>5.3 Gastrointestinal Disorders</title>
+                     <text>
+                        <paragraph>In the clinical studies, gastrointestinal events of nausea, diarrhea, dyspepsia, vomiting, gastro-esophageal reflux disease, and abdominal pain were more frequently reported by patients in the ESBRIET treatment groups than in those taking placebo.  Dosage reduction or interruption for gastrointestinal events was required in 18.5% of patients in the 2403 mg/day group, as compared to 5.8% of patients in the placebo group; 2.2% of patients in the ESBRIET 2403 mg/day group discontinued treatment due to a gastrointestinal event, as compared to 1.0% in the placebo group.  The most common (&gt;2%) gastrointestinal events that led to dosage reduction or interruption were nausea, diarrhea, vomiting, and dyspepsia.  The incidence of gastrointestinal events was highest early in the course of treatment (with highest incidence occurring during the initial 3 months) and decreased over time.  Dosage modifications may be necessary in some cases of gastrointestinal adverse reactions <content styleCode="italics">
+                              <linkHtml href="#s2.3">[see Dosage and Administration (2.3)]</linkHtml>
+                           </content>.</paragraph>
+                     </text>
+                     <effectiveTime value="20141028"/>
+                  </section>
+               </component>
+            </section>
+         </component>
+         <component>
+            <section ID="s6">
+               <id root="74b78ab7-e1bb-467c-8a1c-189735a20153"/>
+               <code code="34084-4" codeSystem="2.16.840.1.113883.6.1" displayName="ADVERSE REACTIONS SECTION"/>
+               <title mediaType="text/x-hl7-title+xml">6 ADVERSE REACTIONS</title>
+               <text>
+                  <paragraph>The following adverse reactions are discussed in greater detail in other sections of the labeling:</paragraph>
+                  <list>
+                     <item>Liver Enzyme Elevations <content styleCode="italics">
+                           <linkHtml href="#s5.1">[see Warnings and Precautions (5.1)]</linkHtml>
+                        </content>
+                     </item>
+                     <item>Photosensitivity Reaction or Rash <content styleCode="italics">
+                           <linkHtml href="#s5.2">[see Warnings and Precautions (5.2)]</linkHtml>
+                        </content>
+                     </item>
+                     <item>Gastrointestinal Disorders <content styleCode="italics">
+                           <linkHtml href="#s5.3">[see Warnings and Precautions (5.3)]</linkHtml>
+                        </content>
+                     </item>
+                  </list>
+               </text>
+               <effectiveTime value="20141028"/>
+               <excerpt>
+                  <highlight>
+                     <text>
+                        <paragraph>The most common adverse reactions (≥10%) are nausea, rash, abdominal pain, upper respiratory tract infection, diarrhea, fatigue, headache, dyspepsia, dizziness, vomiting, anorexia, gastro-esophageal reflux disease, sinusitis, insomnia, weight decreased, and arthralgia. (<linkHtml href="#s6.1">6.1</linkHtml>)</paragraph>
+                        <br/>
+                        <paragraph styleCode="bold">To report SUSPECTED ADVERSE REACTIONS, contact InterMune at 1-888-486-6411 or FDA at 1-800-FDA-1088 or <content styleCode="italics">www.fda.gov/medwatch</content>.</paragraph>
+                     </text>
+                  </highlight>
+               </excerpt>
+               <component>
+                  <section ID="s6.1">
+                     <id root="4aeb5199-5b2d-43d7-8e9b-f042283a8306"/>
+                     <code code="42229-5" codeSystem="2.16.840.1.113883.6.1" displayName="SPL UNCLASSIFIED SECTION"/>
+                     <title>6.1 Clinical Trials Experience</title>
+                     <text>
+                        <paragraph>Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice. </paragraph>
+                        <paragraph>The safety of pirfenidone has been evaluated in more than 1400 subjects with over 170 subjects exposed to pirfenidone for more than 5 years in clinical trials.</paragraph>
+                        <paragraph>ESBRIET was studied in 3 randomized, double-blind, placebo-controlled trials (Studies 1, 2, and 3) in which a total of 623 patients received 2403 mg/day of ESBRIET and 624 patients received placebo.  Subjects ages ranged from 40 to 80 years (mean age of 67 years).  Most patients were male (74%) and Caucasian (95%).  The mean duration of exposure to ESBRIET was 62 weeks (range: 2 to 118 weeks) in these 3 trials. </paragraph>
+                        <paragraph>At the recommended dosage of 2403 mg/day, 14.6% of patients on ESBRIET compared to 9.6% on placebo permanently discontinued treatment because of an adverse event.  The most common (&gt;1%) adverse reactions leading to discontinuation were rash and nausea.  The most common (&gt;3%) adverse reactions leading to dosage reduction or interruption were rash, nausea, diarrhea, and photosensitivity reaction.</paragraph>
+                        <paragraph>The most common adverse reactions with an incidence of ≥10% and more frequent in the ESBRIET than placebo treatment group are listed in <linkHtml href="#t2">Table 2</linkHtml>.</paragraph>
+                        <table ID="t2" width="600" styleCode="Noautorules" cellpadding="3">
+                           <caption>Table 2.	Adverse Reactions Occurring in ≥10% of ESBRIET-Treated Patients and More Commonly Than Placebo in Studies 1, 2, and 3</caption>
+                           <col align="left" valign="middle" width="40%"/>
+                           <col align="center" valign="middle" width="32.5%"/>
+                           <col align="center" valign="middle" width="27.5%"/>
+                           <tfoot>
+                              <tr>
+                                 <td colspan="3" styleCode="Lrule Rrule Botrule">
+                                    <sup>1</sup> Includes abdominal pain, upper abdominal pain, abdominal distension, and stomach discomfort.</td>
+                              </tr>
+                           </tfoot>
+                           <tbody>
+                              <tr>
+                                 <td styleCode="Lrule Toprule"/>
+                                 <td colspan="2" align="center" styleCode="Toprule Botrule Lrule Rrule bold">% of Patients (0 to 118 Weeks)</td>
+                              </tr>
+                              <tr>
+                                 <td styleCode="Lrule Rrule Botrule bold" valign="top" align="left">Adverse Reaction</td>
+                                 <td styleCode="Lrule Rrule Botrule bold" align="center">ESBRIET 2403 mg/day<br/>(N = 623)</td>
+                                 <td styleCode="Lrule Rrule Botrule bold" align="center">Placebo<br/>(N = 624)</td>
+                              </tr>
+                              <tr>
+                                 <td styleCode="Lrule Rrule Botrule">Nausea</td>
+                                 <td styleCode="Rrule Botrule">36%</td>
+                                 <td styleCode="Rrule Botrule">16%</td>
+                              </tr>
+                              <tr>
+                                 <td styleCode="Lrule Rrule Botrule">Rash</td>
+                                 <td styleCode="Rrule Botrule">30%</td>
+                                 <td styleCode="Rrule Botrule">10%</td>
+                              </tr>
+                              <tr>
+                                 <td styleCode="Lrule Rrule Botrule">Abdominal Pain<sup>1</sup>
+                                 </td>
+                                 <td styleCode="Rrule Botrule">24%</td>
+                                 <td styleCode="Rrule Botrule">15%</td>
+                              </tr>
+                              <tr>
+                                 <td styleCode="Lrule Rrule Botrule">Upper Respiratory Tract Infection</td>
+                                 <td styleCode="Rrule Botrule">27%</td>
+                                 <td styleCode="Rrule Botrule">25%</td>
+                              </tr>
+                              <tr>
+                                 <td styleCode="Lrule Rrule Botrule">Diarrhea</td>
+                                 <td styleCode="Rrule Botrule">26%</td>
+                                 <td styleCode="Rrule Botrule">20%</td>
+                              </tr>
+                              <tr>
+                                 <td styleCode="Lrule Rrule Botrule">Fatigue</td>
+                                 <td styleCode="Rrule Botrule">26%</td>
+                                 <td styleCode="Rrule Botrule">19%</td>
+                              </tr>
+                              <tr>
+                                 <td styleCode="Lrule Rrule Botrule">Headache</td>
+                                 <td styleCode="Rrule Botrule">22%</td>
+                                 <td styleCode="Rrule Botrule">19%</td>
+                              </tr>
+                              <tr>
+                                 <td styleCode="Lrule Rrule Botrule">Dyspepsia</td>
+                                 <td styleCode="Rrule Botrule">19%</td>
+                                 <td styleCode="Rrule Botrule">7%</td>
+                              </tr>
+                              <tr>
+                                 <td styleCode="Lrule Rrule Botrule">Dizziness</td>
+                                 <td styleCode="Rrule Botrule">18%</td>
+                                 <td styleCode="Rrule Botrule">11%</td>
+                              </tr>
+                              <tr>
+                                 <td styleCode="Lrule Rrule Botrule">Vomiting</td>
+                                 <td styleCode="Rrule Botrule">13%</td>
+                                 <td styleCode="Rrule Botrule">6%</td>
+                              </tr>
+                              <tr>
+                                 <td styleCode="Lrule Rrule Botrule">Anorexia</td>
+                                 <td styleCode="Rrule Botrule">13%</td>
+                                 <td styleCode="Rrule Botrule">5%</td>
+                              </tr>
+                              <tr>
+                                 <td styleCode="Lrule Rrule Botrule">Gastro-esophageal Reflux Disease</td>
+                                 <td styleCode="Rrule Botrule">11%</td>
+                                 <td styleCode="Rrule Botrule">7%</td>
+                              </tr>
+                              <tr>
+                                 <td styleCode="Lrule Rrule Botrule">Sinusitis</td>
+                                 <td styleCode="Rrule Botrule">11%</td>
+                                 <td styleCode="Rrule Botrule">10%</td>
+                              </tr>
+                              <tr>
+                                 <td styleCode="Lrule Rrule Botrule">Insomnia</td>
+                                 <td styleCode="Rrule Botrule">10%</td>
+                                 <td styleCode="Rrule Botrule">7%</td>
+                              </tr>
+                              <tr>
+                                 <td styleCode="Lrule Rrule Botrule">Weight Decreased</td>
+                                 <td styleCode="Rrule Botrule">10%</td>
+                                 <td styleCode="Rrule Botrule">5%</td>
+                              </tr>
+                              <tr>
+                                 <td styleCode="Lrule Rrule Botrule">Arthralgia</td>
+                                 <td styleCode="Rrule Botrule">10%</td>
+                                 <td styleCode="Rrule Botrule">7%</td>
+                              </tr>
+                           </tbody>
+                        </table>
+                        <paragraph>Adverse reactions occurring in ≥5 to &lt;10% of ESBRIET-treated patients and more commonly than placebo are photosensitivity reaction (9% vs. 1%), decreased appetite (8% vs. 3%), pruritus (8% vs. 5%), asthenia (6% vs. 4%), dysgeusia (6% vs. 2%), and non-cardiac chest pain (5% vs. 4%).</paragraph>
+                     </text>
+                     <effectiveTime value="20141028"/>
+                  </section>
+               </component>
+               <component>
+                  <section ID="s6.2">
+                     <id root="9a18b400-b661-4c02-8649-8a6c7ca40cf2"/>
+                     <code code="42229-5" codeSystem="2.16.840.1.113883.6.1" displayName="SPL UNCLASSIFIED SECTION"/>
+                     <title>6.2 Postmarketing Experience</title>
+                     <text>
+                        <paragraph>In addition to adverse reactions identified from clinical trials the following adverse reactions have been identified during postapproval use of pirfenidone.  Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency. </paragraph>
+                        <paragraph>
+                           <content styleCode="italics">Blood and Lymphatic System Disorders</content>
+                           <br/>Agranulocytosis</paragraph>
+                        <paragraph>
+                           <content styleCode="italics">Immune System Disorders</content>
+                           <br/>Angioedema</paragraph>
+                        <paragraph>
+                           <content styleCode="italics">Hepatobiliary Disorders</content>
+                           <br/>Bilirubin increased in combination with increases of ALT and AST</paragraph>
+                     </text>
+                     <effectiveTime value="20141028"/>
+                  </section>
+               </component>
+            </section>
+         </component>
+         <component>
+            <section ID="s7">
+               <id root="aecf4f53-a5ba-4128-a93b-94ae10ce60a6"/>
+               <code code="34073-7" codeSystem="2.16.840.1.113883.6.1" displayName="DRUG INTERACTIONS SECTION"/>
+               <title mediaType="text/x-hl7-title+xml">7 DRUG INTERACTIONS</title>
+               <text/>
+               <effectiveTime value="20141028"/>
+               <excerpt>
+                  <highlight>
+                     <text>
+                        <paragraph>Moderate (e.g., ciprofloxacin) and strong inhibitors of CYP1A2 (e.g., fluvoxamine) increase systemic exposure of ESBRIET and may alter the adverse reaction profile of ESBRIET. Discontinue fluvoxamine prior to administration of ESBRIET or reduce to one capsule three times a day. Consider dosage reduction with use of ciprofloxacin. (<linkHtml href="#s7.1">7.1</linkHtml>)</paragraph>
+                     </text>
+                  </highlight>
+               </excerpt>
+               <component>
+                  <section ID="s7.1">
+                     <id root="a7e39ce9-0aaa-4e41-8686-b6e0fc5d753b"/>
+                     <code code="42229-5" codeSystem="2.16.840.1.113883.6.1" displayName="SPL UNCLASSIFIED SECTION"/>
+                     <title>7.1 CYP1A2 Inhibitors</title>
+                     <text>
+                        <paragraph>Pirfenidone is metabolized primarily (70 to 80%) via CYP1A2 with minor contributions from other CYP isoenzymes including CYP2C9, 2C19, 2D6 and 2E1.</paragraph>
+                        <paragraph>
+                           <content styleCode="underline">Strong CYP1A Inhibitors</content>
+                           <br/>
+									The concomitant administration of ESBRIET and fluvoxamine or other strong CYP1A2 inhibitors (e.g., enoxacin) is not recommended because it significantly increases exposure to ESBRIET <content styleCode="italics">
+                              <linkHtml href="#s12.3">[see Clinical Pharmacology (12.3)]</linkHtml>
+                           </content>.  Use of fluvoxamine or other strong CYP1A2 inhibitors should be discontinued prior to administration of ESBRIET and avoided during ESBRIET treatment.  In the event that fluvoxamine or other strong CYP1A2 inhibitors are the only drug of choice, dosage reductions are recommended.  Monitor for adverse reactions and consider discontinuation of ESBRIET as needed  <content styleCode="italics">
+                              <linkHtml href="#s2.4">[see Dosage and Administration (2.4)]</linkHtml>
+                           </content>.</paragraph>
+                        <paragraph>
+                           <content styleCode="underline">Moderate CYP1A Inhibitors</content>
+                           <br/>
+									Concomitant administration of ESBRIET and ciprofloxacin (a moderate inhibitor of CYP1A2) moderately increases exposure to ESBRIET <content styleCode="italics">
+                              <linkHtml href="#s12.3">[see Clinical Pharmacology (12.3)]</linkHtml>
+                           </content>.  If ciprofloxacin at the dosage of 750 mg twice daily cannot be avoided,  dosage reductions are recommended  <content styleCode="italics">
+                              <linkHtml href="#s2.4">[see Dosage and Administration (2.4)</linkHtml>]</content>.  Monitor patients closely when ciprofloxacin is used at a dosage of 250 mg or 500 mg once daily.</paragraph>
+                        <paragraph>
+                           <content styleCode="underline">Concomitant CYP1A2 and other CYP Inhibitors</content>
+                           <br/>
+									Agents or combinations of agents that are moderate or strong inhibitors of both CYP1A2 and one or more other CYP isoenzymes involved in the metabolism of ESBRIET (i.e., CYP2C9, 2C19, 2D6, and 2E1) should be discontinued prior to and avoided during ESBRIET treatment.</paragraph>
+                     </text>
+                     <effectiveTime value="20141028"/>
+                  </section>
+               </component>
+               <component>
+                  <section ID="s7.2">
+                     <id root="9664fbd1-0bdc-410c-b453-fd638a552ff1"/>
+                     <code code="42229-5" codeSystem="2.16.840.1.113883.6.1" displayName="SPL UNCLASSIFIED SECTION"/>
+                     <title>7.2 CYP1A2 Inducers</title>
+                     <text>
+                        <paragraph>The concomitant use of ESBRIET and a CYP1A2 inducer may decrease the exposure of ESBRIET and this may lead to loss of efficacy.  Therefore, discontinue use of strong CYP1A2 inducers prior to ESBRIET treatment and avoid the concomitant use of ESBRIET and a strong CYP1A2 inducer <content styleCode="italics">
+                              <linkHtml href="#s12.3">[see Clinical Pharmacology (12.3)]</linkHtml>
+                           </content>.</paragraph>
+                     </text>
+                     <effectiveTime value="20141028"/>
+                  </section>
+               </component>
+            </section>
+         </component>
+         <component>
+            <section ID="s8">
+               <id root="b6650db0-6d73-425b-8dd6-02b72eb720f4"/>
+               <code code="43684-0" codeSystem="2.16.840.1.113883.6.1" displayName="USE IN SPECIFIC POPULATIONS SECTION"/>
+               <title mediaType="text/x-hl7-title+xml">8 USE IN SPECIFIC POPULATIONS</title>
+               <text/>
+               <effectiveTime value="20141028"/>
+               <excerpt>
+                  <highlight>
+                     <text>
+                        <list listType="unordered">
+                           <item>Hepatic Impairment: Monitor for adverse reactions and consider dosage modification or discontinuation of ESBRIET as needed. ESBRIET is not recommended for use in patients with severe hepatic impairment. (<linkHtml href="#s8.6">8.6</linkHtml>, <linkHtml href="#s12.3">12.3</linkHtml>)</item>
+                           <item>Renal Impairment:  Monitor for adverse reactions and consider dosage modification or discontinuation of ESBRIET as needed. ESBRIET is not recommended for use in patients with end stage renal disease on dialysis. (<linkHtml href="#s8.7">8.7</linkHtml>, <linkHtml href="#s12.3">12.3</linkHtml>)</item>
+                           <item>Smokers: Decreased exposure has been noted in smokers which may alter the efficacy profile of ESBRIET. (<linkHtml href="#s8.8">8.8</linkHtml>)</item>
+                        </list>
+                     </text>
+                  </highlight>
+               </excerpt>
+               <component>
+                  <section ID="s8.1">
+                     <id root="36bb9dd0-c654-4b2e-a2ae-3615ea1370c6"/>
+                     <code code="42228-7" codeSystem="2.16.840.1.113883.6.1" displayName="PREGNANCY SECTION"/>
+                     <title>8.1 Pregnancy</title>
+                     <text>
+                        <paragraph>Teratogenic Effects: <content styleCode="bold">Pregnancy Category C</content>.</paragraph>
+                        <paragraph>There are no adequate and well-controlled studies of ESBRIET in pregnant women.  Pirfenidone was not teratogenic in rats and rabbits.  Because animal reproduction studies are not always predictive of human response, ESBRIET should be used during pregnancy only if the benefit outweighs the risk to the patient.</paragraph>
+                        <paragraph>A fertility and embryo-fetal development study with rats and an embryo-fetal development study with rabbits that received oral doses up to 3 and 2 times, respectively, the maximum recommended daily dose (MRDD) in adults (on mg/m<sup>2</sup> basis at maternal doses up to 1000 and 300 mg/kg/day, respectively) revealed no evidence of impaired fertility or harm to the fetus due to pirfenidone.  In the presence of maternal toxicity, acyclic/irregular cycles (e.g., prolonged estrous cycle) were seen in rats at doses approximately equal to and higher than the MRDD in adults (on a mg/m<sup>2</sup> basis at maternal doses of 450 mg/kg/day and higher).  In a pre- and post-natal development study, prolongation of the gestation period, decreased numbers of live newborn, and reduced pup viability and body weights were seen in rats at an oral dosage approximately 3 times the MRDD in adults (on a mg/m<sup>2</sup> basis at a maternal dose of 1000 mg/kg/day).</paragraph>
+                     </text>
+                     <effectiveTime value="20100531"/>
+                  </section>
+               </component>
+               <component>
+                  <section ID="s8.3">
+                     <id root="14fc11c5-319e-45ba-ac52-504f07e0e5e1"/>
+                     <code code="34080-2" codeSystem="2.16.840.1.113883.6.1" displayName="NURSING MOTHERS SECTION"/>
+                     <title>8.3 Nursing Mothers</title>
+                     <text>
+                        <paragraph>A study with radio-labeled pirfenidone in rats has shown that pirfenidone or its metabolites are excreted in milk.  It is not known whether ESBRIET is excreted in human milk. Because many drugs are excreted in human milk and because of the potential for serious adverse reactions in nursing infants, a decision should be made whether to discontinue nursing or to discontinue ESBRIET, taking into account the importance of the drug to the mother.</paragraph>
+                     </text>
+                     <effectiveTime value="20141028"/>
+                  </section>
+               </component>
+               <component>
+                  <section ID="s8.4">
+                     <id root="96ed9824-7bd8-46ee-ad2a-237f17029e55"/>
+                     <code code="34081-0" codeSystem="2.16.840.1.113883.6.1" displayName="PEDIATRIC USE SECTION"/>
+                     <title>8.4 Pediatric Use</title>
+                     <text>
+                        <paragraph>Safety and effectiveness of ESBRIET in pediatric patients have not been established.</paragraph>
+                     </text>
+                     <effectiveTime value="20141028"/>
+                  </section>
+               </component>
+               <component>
+                  <section ID="s8.5">
+                     <id root="f67e270b-93fa-4707-a69d-5b1a96addcb5"/>
+                     <code code="34082-8" codeSystem="2.16.840.1.113883.6.1" displayName="GERIATRIC USE SECTION"/>
+                     <title>8.5 Geriatric Use</title>
+                     <text>
+                        <paragraph>Of the total number of subjects in the clinical studies receiving ESBRIET, 714 (67%) were 65 years old and over, while 231 (22%) were 75 years old and over.  No overall differences in safety or effectiveness were observed between older and younger patients.  No dosage adjustment is required based upon age.</paragraph>
+                     </text>
+                     <effectiveTime value="20141028"/>
+                  </section>
+               </component>
+               <component>
+                  <section ID="s8.6">
+                     <id root="c7c3cfa5-7ce4-4e1b-9666-075704f43d9f"/>
+                     <code code="42229-5" codeSystem="2.16.840.1.113883.6.1" displayName="SPL UNCLASSIFIED SECTION"/>
+                     <title>8.6 Hepatic Impairment</title>
+                     <text>
+                        <paragraph>ESBRIET should be used with caution in patients with mild (Child Pugh Class A) to moderate (Child Pugh Class B) hepatic impairment.  Monitor for adverse reactions and consider dosage modification or discontinuation of ESBRIET as needed <content styleCode="italics">
+                              <linkHtml href="#s2.2">[see Dosage and Administration (2.2)]</linkHtml>
+                           </content>.</paragraph>
+                        <paragraph>The safety, efficacy, and pharmacokinetics of ESBRIET have not been studied in patients with severe hepatic impairment.  ESBRIET is not recommended for use in patients with severe (Child Pugh Class C) hepatic impairment <content styleCode="italics">
+                              <linkHtml href="#s12.3">[see Clinical Pharmacology (12.3)]</linkHtml>
+                           </content>.</paragraph>
+                     </text>
+                     <effectiveTime value="20141028"/>
+                  </section>
+               </component>
+               <component>
+                  <section ID="s8.7">
+                     <id root="507fbf9e-10cb-4504-94f4-b5703e4e0901"/>
+                     <code code="42229-5" codeSystem="2.16.840.1.113883.6.1" displayName="SPL UNCLASSIFIED SECTION"/>
+                     <title>8.7 Renal Impairment</title>
+                     <text>
+                        <paragraph>ESBRIET should be used with caution in patients with mild (CL<sub>cr</sub> 50–80 mL/min), moderate (CL<sub>cr</sub> 30–50 mL/min), or severe (CL<sub>cr</sub> less than 30 mL/min) renal impairment <content styleCode="italics">
+                              <linkHtml href="#s12.3">[see Clinical Pharmacology (12.3)]</linkHtml>
+                           </content>.  Monitor for adverse reactions and consider dosage modification or discontinuation of ESBRIET as needed <content styleCode="italics">
+                              <linkHtml href="#s2.3">[see Dosage and Administration (2.3)]</linkHtml>
+                           </content>.  The safety, efficacy, and pharmacokinetics of ESBRIET have not been studied in patients with end-stage renal disease requiring dialysis.  Use of ESBRIET in patients with end-stage renal diseases requiring dialysis is not recommended. </paragraph>
+                     </text>
+                     <effectiveTime value="20141028"/>
+                  </section>
+               </component>
+               <component>
+                  <section ID="s8.8">
+                     <id root="04888ad1-cf3d-483b-8578-3a02aeed1e1a"/>
+                     <code code="42229-5" codeSystem="2.16.840.1.113883.6.1" displayName="SPL UNCLASSIFIED SECTION"/>
+                     <title>8.8 Smokers</title>
+                     <text>
+                        <paragraph>Smoking causes decreased exposure to ESBRIET <content styleCode="italics">
+                              <linkHtml href="#s12.3">[see Clinical Pharmacology (12.3)]</linkHtml>, </content>which may alter the efficacy profile of ESBRIET.  Instruct patients to stop smoking prior to treatment with ESBRIET and to avoid smoking when using ESBRIET.</paragraph>
+                     </text>
+                     <effectiveTime value="20141028"/>
+                  </section>
+               </component>
+            </section>
+         </component>
+         <component>
+            <section ID="s10">
+               <id root="c82f6054-5f15-4e16-9019-40ffec9b603a"/>
+               <code code="34088-5" codeSystem="2.16.840.1.113883.6.1" displayName="OVERDOSAGE SECTION"/>
+               <title mediaType="text/x-hl7-title+xml">10 OVERDOSAGE</title>
+               <text>
+                  <paragraph>There is limited clinical experience with overdosage.  Multiple dosages of ESBRIET up to a maximum tolerated dose of 4005 mg per day were administered as five 267 mg capsules three times daily to healthy adult volunteers over a 12-day dose escalation.</paragraph>
+                  <paragraph>In the event of a suspected overdosage, appropriate supportive medical care should be provided, including monitoring of vital signs and observation of the clinical status of the patient.</paragraph>
+               </text>
+               <effectiveTime value="20141028"/>
+            </section>
+         </component>
+         <component>
+            <section ID="s11">
+               <id root="a21e5407-921f-45bb-9875-b2fabf4cb204"/>
+               <code code="34089-3" codeSystem="2.16.840.1.113883.6.1" displayName="DESCRIPTION SECTION"/>
+               <title mediaType="text/x-hl7-title+xml">11 DESCRIPTION</title>
+               <text>
+                  <paragraph>Each ESBRIET capsule contains 267 mg of pirfenidone, which belongs to the chemical class of pyridone.  ESBRIET is available as a white hard gelatin capsule for oral administration.</paragraph>
+                  <paragraph>The chemical name of pirfenidone is 5-methyl-1-phenyl-2-1(H)-pyridone.  It has a molecular formula of C<sub>12</sub>H<sub>11</sub>NO and a molecular weight of 185.23.  The structural formula of pirfenidone is:</paragraph>
+                  <paragraph>
+                     <renderMultiMedia referencedObject="MM160"/>
+                  </paragraph>
+                  <paragraph>Pirfenidone is a white to pale yellow, non-hygroscopic powder.  It is more soluble in methanol, ethyl alcohol, acetone and chloroform than in water and 1.0 N HCl.  The melting point is approximately 109°C.</paragraph>
+                  <paragraph>ESBRIET capsule contains pirfenidone and the following inactive ingredients: microcrystalline cellulose, croscarmellose sodium, povidone, and magnesium stearate.</paragraph>
+                  <paragraph>In addition, the capsule shell contains gelatin and titanium dioxide. The capsule brown printing ink includes shellac, iron oxide black, iron oxide red, iron oxide yellow, propylene glycol, ammonium hydroxide.</paragraph>
+               </text>
+               <effectiveTime value="20141028"/>
+               <component>
+                  <observationMedia ID="MM160">
+                     <text>Chemical Structure</text>
+                     <value mediaType="image/jpeg" xsi:type="ED">
+                        <reference value="esbriet-figure-1.jpg"/>
+                     </value>
+                  </observationMedia>
+               </component>
+            </section>
+         </component>
+         <component>
+            <section ID="s12">
+               <id root="e95d4cb2-7990-4f3e-bbd6-1c4f74284c4a"/>
+               <code code="34090-1" codeSystem="2.16.840.1.113883.6.1" displayName="CLINICAL PHARMACOLOGY SECTION"/>
+               <title mediaType="text/x-hl7-title+xml">12 CLINICAL PHARMACOLOGY</title>
+               <text/>
+               <effectiveTime value="20141028"/>
+               <component>
+                  <section ID="s12.1">
+                     <id root="d231677e-2636-4a1f-8357-a40c12dc6a1a"/>
+                     <code code="43679-0" codeSystem="2.16.840.1.113883.6.1" displayName="MECHANISM OF ACTION SECTION"/>
+                     <title>12.1 Mechanism of Action</title>
+                     <text>
+                        <paragraph>The mechanism of action of pirfenidone in the treatment of IPF has not been established.</paragraph>
+                     </text>
+                     <effectiveTime value="20141028"/>
+                  </section>
+               </component>
+               <component>
+                  <section ID="s12.2">
+                     <id root="c4fddcc9-5219-46e7-b301-ffc13bb7510b"/>
+                     <code code="43681-6" codeSystem="2.16.840.1.113883.6.1" displayName="PHARMACODYNAMICS SECTION"/>
+                     <title>12.2 Pharmacodynamics</title>
+                     <text>
+                        <paragraph styleCode="underline">Cardiac Electrophysiology:</paragraph>
+                        <paragraph>The effect of ESBRIET on QT interval was evaluated in a randomized, placebo, and positive controlled parallel study in 160 healthy adult volunteers.  Volunteers received ESBRIET 2403 mg/day (recommended dose) and 4005 mg/day (1.6 times recommended dose) or placebo for 10 days or a single dose of 400 mg moxifloxacin (active control). </paragraph>
+                        <paragraph>Relative to placebo, the maximum mean change from baseline in study-specific QT interval was 3.2 milliseconds (ms) and 2.2 ms for ESBRIET 2403 mg/day and 4005 mg/day, respectively.  No volunteer had a QTc interval greater than 480 ms or change from baseline greater than 60 ms.  Although there was no evidence that ESBRIET prolonged the QTc interval in this study, a definitive conclusion may not be drawn as the positive control (moxifloxacin) did not perform as expected in this study, and ESBRIET at 4005 mg/day (1.7 times the maximum recommended dose) did not cover the maximum pirfenidone exposure increase with co-administration of fluvoxamine, a strong CYP1A2 inhibitor.</paragraph>
+                     </text>
+                     <effectiveTime value="20141028"/>
+                  </section>
+               </component>
+               <component>
+                  <section ID="s12.3">
+                     <id root="29e01403-05fe-4f1b-855d-b13cbafcaa50"/>
+                     <code code="43682-4" codeSystem="2.16.840.1.113883.6.1" displayName="PHARMACOKINETICS SECTION"/>
+                     <title>12.3 Pharmacokinetics</title>
+                     <text>
+                        <paragraph styleCode="underline">Absorption:</paragraph>
+                        <paragraph>After single oral-dose administration of 801 mg ESBRIET, the maximum observed plasma concentration (C<sub>max</sub>) was achieved between 30 minutes and 4 hours (median time of 0.5 hours).  Food decreased the rate and extent of absorption.  Median T<sub>max</sub> increased from 0.5 hours to 3 hours with food.  Maximum plasma concentrations and AUC<sub>0-inf</sub> decreased by approximately 49% and 16% with food, respectively.  A reduced incidence of adverse reactions was observed in the fed group when compared to the fasted group.  In controlled studies with IPF patients, ESBRIET was taken with food <content styleCode="italics">
+                              <linkHtml href="#s2">[see Dosage and Administration (2)</linkHtml> and <linkHtml href="#s14">Clinical Studies (14)]</linkHtml>
+                           </content>.</paragraph>
+                        <paragraph>The absolute bioavailability of pirfenidone has not been determined in humans.</paragraph>
+                        <paragraph styleCode="underline">Distribution:</paragraph>
+                        <paragraph>ESBRIET binds to human plasma proteins, primarily to serum albumin, in a concentration-independent manner over the range of concentrations observed in clinical trials.  The overall mean binding was 58% at concentrations observed in clinical studies (1 to 10 µg/mL).  Mean apparent oral volume of distribution is approximately 59 to 71 liters.</paragraph>
+                        <paragraph styleCode="underline">Metabolism:</paragraph>
+                        <paragraph>
+                           <content styleCode="italics">In vitro</content> profiling studies in hepatocytes and liver microsomes have shown that ESBRIET is primarily metabolized in the liver by CYP1A2 and multiple other CYPs (CYP2C9, 2C19, 2D6, and 2E1).  Oral administration of ESBRIET results in the formation of four metabolites.  In humans, only pirfenidone and 5-carboxy-pirfenidone are present in plasma in significant quantities.  The mean metabolite-to-parent ratio ranged from approximately 0.6 to 0.7.</paragraph>
+                        <paragraph>No formal radiolabeled studies have assessed the metabolism of pirfenidone in humans.  <content styleCode="italics">In vitro</content> data suggests that metabolites are not expected to be pharmacologically active at observed metabolite concentrations.</paragraph>
+                        <paragraph styleCode="underline">Elimination:</paragraph>
+                        <paragraph>The mean terminal half-life is approximately 3 hours in healthy subjects.  Pirfenidone is excreted predominantly as metabolite 5-carboxy-pirfenidone, mainly in the urine (approximately 80% of the dose).  The majority of ESBRIET was excreted as the 5-carboxy metabolite (approximately 99.6% of that recovered).</paragraph>
+                        <paragraph styleCode="underline">Specific Populations:</paragraph>
+                        <paragraph>
+                           <content styleCode="italics">Hepatic Impairment</content>
+                           <br/>
+									The pharmacokinetics of ESBRIET and the 5-carboxy-pirfenidone metabolite were studied in 12 subjects with moderate hepatic impairment (Child Pugh Class B) and in 12 subjects with normal hepatic function.  Results showed that the mean exposure, AUC<sub>0-inf</sub> and C<sub>max</sub> of pirfenidone increased approximately 1.6- and approximately 1.4-fold in subjects with moderate hepatic impairment, respectively.  The exposure of 5-carboxy-pirfenidone did not change significantly in subjects with moderate hepatic impairment.</paragraph>
+                        <paragraph>
+                           <content styleCode="italics">Renal Impairment</content>
+                           <br/>
+									The pharmacokinetics of pirfenidone and the 5-carboxy-pirfenidone metabolite were studied in 18 subjects with mild (CL<sub>cr</sub> 50 to 80 mL/min), moderate (CL<sub>cr</sub> 30 to 50 mL/min), and severe (CL<sub>cr</sub> less than 30 mL/min) renal impairment (n=6/group) and in 6 subjects with normal CL<sub>cr</sub> (greater than or equal to 80 mL/min) renal function.  Results showed that systemic exposure (AUC<sub>0-inf</sub>) to pirfenidone increased approximately 1.4, 1.5, and 1.2-fold in subjects with mild, moderate and severe renal impairment, respectively. The corresponding AUC<sub>0-inf</sub> of 5-carboxy-pirfenidone increased 1.7, 3.4, and 5.6-fold, although the change in the patients with mild renal impairment was not statistically significant.  The renal clearance of 5-carboxy-pirfenidone decreased significantly in patients with moderate to severe renal impairment.</paragraph>
+                        <paragraph>The pharmacokinetics and safety of ESBRIET has not been studied in subjects with end-stage renal disease requiring dialysis.</paragraph>
+                        <paragraph styleCode="italics">Geriatric</paragraph>
+                        <paragraph>Results of population pharmacokinetic analysis suggest that no dosage adjustment is needed in geriatric patients. </paragraph>
+                        <paragraph styleCode="italics">Gender</paragraph>
+                        <paragraph>Results of population pharmacokinetic analysis of ESBRIET showed no significant differences in pharmacokinetics between males and females.</paragraph>
+                        <paragraph styleCode="italics">Obesity</paragraph>
+                        <paragraph>Results of population pharmacokinetic analysis showed that obesity (Body Mass Index [BMI] greater than or equal to 30 kg/m<sup>2</sup>) has no significant effect on the pharmacokinetics of ESBRIET.</paragraph>
+                        <paragraph styleCode="italics">Race</paragraph>
+                        <paragraph>Population pharmacokinetic analysis showed that race has no significant effect on the pharmacokinetics of pirfenidone.</paragraph>
+                        <paragraph>
+                           <content styleCode="underline">Drug Interaction Studies</content>:</paragraph>
+                        <paragraph styleCode="italics">Cytochrome P450 1A2 Inhibitors</paragraph>
+                        <paragraph>Pirfenidone is a substrate of cytochrome P450 1A2.  In a single-dose drug interaction study in 25 healthy nonsmokers and 25 smokers, ESBRIET was coadministered with fluvoxamine (50 mg at bedtime for 3 days; 50 mg twice a day for 3 days, and 50 mg in the morning and 100 mg at bedtime for 4 days).  An approximately 4-fold increase in exposure to pirfenidone in nonsmokers and approximately 7-fold increase in exposure in smokers was observed.</paragraph>
+                        <paragraph>In a single-dose drug interaction study in 27 healthy subjects, coadministration of 801 mg of ESBRIET and 750 mg of ciprofloxacin (a moderate inhibitor of CYP1A2) on Day 6 (ciprofloxacin was dosed at 750 mg twice daily from Day 2 to Day 7) increased the exposure to pirfenidone by 81%.</paragraph>
+                        <paragraph styleCode="italics">Cytochrome P450 1A2 Inducers</paragraph>
+                        <paragraph>Following a single oral dose of 801 mg ESBRIET in 25 smokers and 25 healthy nonsmokers, the systemic exposure in smokers was significantly lower compared to nonsmokers.  AUC<sub>0-inf</sub> and C<sub>max</sub> of pirfenidone in smokers were 46% and 68% of those in nonsmokers, respectively.</paragraph>
+                        <paragraph styleCode="italics">Inhibitory Effect of Pirfenidone on P-glycoprotein (Pgp)</paragraph>
+                        <paragraph>The potential for pirfenidone to inhibit Pgp mediated transport of digoxin (5.0 µM) was evaluated in the absence and presence of pirfenidone at concentrations ranging from 1 to 1000 µM in <content styleCode="italics">in vitro</content> system.  Pirfenidone showed weak inhibition (10 to 30%) of Pgp facilitated digoxin B-A efflux at concentrations of 100 µM and above.  Effect of pirfenidone upon Pgp substrate pharmacokinetics and safety has not been evaluated in humans.</paragraph>
+                        <paragraph styleCode="italics">Inhibitory Effect of Pirfenidone on CYP2C9, 2C19 or 1A2, 2D6, 3A4</paragraph>
+                        <paragraph>The potential for pirfenidone to inhibit CYP2C9, 2C19 or 1A2 was evaluated <content styleCode="italics">in vitro</content> at concentrations up to 1000 µM (approximately 10-fold the mean human C<sub>max</sub>).  Pirfenidone showed a concentration-dependant inhibition on CYP2C9, 2C19 or 1A2, 2D6, and 3A4.  At 1000 µM, pirfenidone inhibits the activity of these enzymes by 30.4%, 27.5%, 34.1%, 21%, and 9.6%, respectively.  Effect of pirfenidone upon pharmacokinetics and safety of CYP2C9, 2C19, 1A2, 2D6, and 3A4 substrates has not been evaluated in humans.</paragraph>
+                     </text>
+                     <effectiveTime value="20141028"/>
+                  </section>
+               </component>
+            </section>
+         </component>
+         <component>
+            <section ID="s13">
+               <id root="79d4f979-dbe3-470e-9d77-70265e18f9bd"/>
+               <code code="43680-8" codeSystem="2.16.840.1.113883.6.1" displayName="NONCLINICAL TOXICOLOGY SECTION"/>
+               <title mediaType="text/x-hl7-title+xml">13 NONCLINICAL TOXICOLOGY</title>
+               <text/>
+               <effectiveTime value="20141028"/>
+               <component>
+                  <section ID="s13.1">
+                     <id root="295e02c5-d082-43c1-98e5-5a8ac201c10e"/>
+                     <code code="34083-6" codeSystem="2.16.840.1.113883.6.1" displayName="CARCINOGENESIS &amp; MUTAGENESIS &amp; IMPAIRMENT OF FERTILITY SECTION"/>
+                     <title mediaType="text/x-hl7-title+xml">13.1 Carcinogenesis, Mutagenesis, Impairment of Fertility</title>
+                     <text>
+                        <paragraph styleCode="underline">Carcinogenesis</paragraph>
+                        <paragraph>Long-term studies were conducted in mice and rats with admixture of pirfenidone to the diet to evaluate its carcinogenic potential.</paragraph>
+                        <paragraph>In a 24-month carcinogenicity study in B6C3F1 mice, pirfenidone caused statistically significant dose-related increases of the combination of hepatocellular adenoma and carcinoma and hepatoblastoma in male mice at doses of 800 mg/kg and above (AUC exposure approximately 0.4 times adult exposure at the MRDD).  There were statistically significant dose-related increases of the combination of hepatocellular adenoma and carcinoma in female mice at doses of 2000 mg/kg and above (AUC exposure approximately 0.7 times adult exposure at the MRDD).</paragraph>
+                        <paragraph>In a 24-month carcinogenicity study in Fischer rats, pirfenidone caused statistically significant dose-related increases of the combination of hepatocellular adenoma and carcinoma in male rats at doses of 750 mg/kg and above (AUC exposure approximately 1.9 times adult exposure at the MRDD).  There were statistically significant increases of the combination of hepatocellular adenoma and carcinoma and the combination of uterine adenocarcinoma and adenoma at a dose of 1500 mg/kg/day (AUC exposure approximately 3.0 times adult exposure at the MRDD).</paragraph>
+                        <paragraph>The relevance of these tumor findings in rodents to humans is unknown.</paragraph>
+                        <paragraph styleCode="underline">Mutagenesis</paragraph>
+                        <paragraph>Pirfenidone was not mutagenic or clastogenic in the following tests: mutagenicity tests in bacteria, a chromosomal aberration test in Chinese hamster lung cells, and a micronucleus test in mice.</paragraph>
+                        <paragraph styleCode="underline">Impairment of Fertility</paragraph>
+                        <paragraph>Pirfenidone had no effects on fertility and reproductive performance in rats at dosages up to 1000 mg/kg/day (approximately 3 times the MRDD in adults on a mg/m<sup>2</sup> basis).</paragraph>
+                     </text>
+                     <effectiveTime value="20141028"/>
+                  </section>
+               </component>
+            </section>
+         </component>
+         <component>
+            <section ID="s14">
+               <id root="4c904f38-f873-4e23-a422-f5136cb40739"/>
+               <code code="34092-7" codeSystem="2.16.840.1.113883.6.1" displayName="CLINICAL STUDIES SECTION"/>
+               <title mediaType="text/x-hl7-title+xml">14 CLINICAL STUDIES</title>
+               <text>
+                  <paragraph>The efficacy of ESBRIET was evaluated in patients with IPF in three phase 3, randomized, double-blind, placebo-controlled, multicenter trials (Studies 1, 2, and 3).</paragraph>
+                  <paragraph>Study 1 was a 52-week trial comparing ESBRIET 2403 mg/day (n=278) versus placebo (n=277) in patients with IPF.  Study 2 and Study 3 were nearly identical to each other in design, with few exceptions, including an intermediate dose treatment arm in Study 2.  Study 2 compared treatment with either ESBRIET 2403 mg/day (n=174) or ESBRIET 1197 mg/day (n=87) to placebo (n=174), while Study 3 compared ESBRIET 2403 mg/day (n=171) to placebo (n=173).  Study drug was administered three times daily with food for a minimum of 72 weeks.  Patients continued on treatment until the last patient completed 72 weeks of treatment, which included observations to approximately 120 weeks of study treatment.  The primary endpoint was the change in percent predicted forced vital capacity (%FVC) from baseline to study end, measured at 52 weeks in Study 1, and at 72 weeks in Studies 2 and 3.</paragraph>
+                  <paragraph>Studies 1, 2 and 3 enrolled adult patients who had a clinical and radiographic diagnosis of IPF (with or without accompanying surgical lung biopsy), without evidence or suspicion of an alternative diagnosis for interstitial lung disease.  Eligible patients were to have %FVC greater than or equal to 50% at baseline and a percent predicted diffusing capacity of the lungs for carbon monoxide (%DL<sub>CO</sub>) greater than or equal to 30% (Study 1) or 35% (Studies 2 and 3) at baseline.  In all three trials, over 80% of patients completed study treatment.</paragraph>
+                  <paragraph>A total of 1247 patients with IPF were randomized to receive ESBRIET 2403 mg/day (n=623) or placebo (n=624) in these three trials.  Baseline characteristics were generally balanced across treatment groups.  The study population ranged from 40 to 80 years of age (mean age 67 years).  Most patients were male (74%), white (95%), and current or former smokers (65%).  Approximately 93% of patients met criteria for definite IPF on high resolution computed tomography (HRCT).  Baseline mean %FVC and %DL<sub>CO</sub> were 72% and 46%, respectively.  Approximately 15% subjects discontinued from each treatment group.</paragraph>
+                  <paragraph>
+                     <content styleCode="underline">Change from Baseline in Percent Predicted Forced Vital Capacity</content>
+                     <br/>
+						In Study 1, the primary efficacy analysis for the change in %FVC from baseline to Week 52 demonstrated a statistically significant treatment effect of ESBRIET 2403 mg/day (n=278) compared with placebo (n=277) using a rank ANCOVA with the lowest rank imputation for missing data due to death.  In Study 2, there was a statistically significant difference at Week 72 for the change in %FVC from baseline.  In Study 3, there was no statistically significant difference at Week 72 for the change in %FVC from baseline. </paragraph>
+                  <paragraph>
+                     <linkHtml href="#fig1">Figure 1</linkHtml> presents the cumulative distribution for all cut-offs for the change from baseline in %FVC at Week 52 for Study 1.  For all categorical declines in lung function, the proportion of patients declining was lower on ESBRIET than on placebo.  Study 2 showed similar results. </paragraph>
+                  <paragraph ID="fig1">
+                     <caption>Figure 1.	 Cumulative Distribution of Patients by Change in Percent Predicted FVC
+							from Baseline to Week 52 (Study 1).  The Dashed Lines Indicate ≥10% Decline or ≥0% Decline. 
+						</caption>
+                  </paragraph>
+                  <paragraph>
+                     <renderMultiMedia referencedObject="MM100"/>
+                  </paragraph>
+                  <paragraph>
+                     <content styleCode="underline">Mean Change from Baseline in FVC (mL)</content>
+                     <br/>
+							In Study 1, a reduction in the mean decline in FVC (in mL) was observed  in patients receiving ESBRIET 2403 mg/day (-235 mL) compared to placebo (-428 mL) (mean treatment difference 193 mL) at Week 52 (see <linkHtml href="#fig2">Figure 2</linkHtml>).  In Study 2, a reduction in the decline in FVC volume was also observed in patients receiving ESBRIET 2403 mg/day compared with placebo (mean treatment difference 157 mL) at Week 72.  There was no statistically significant difference in decline in FVC volume seen in Study 3.</paragraph>
+                  <paragraph ID="fig2">
+                     <caption>Figure 2.  Mean Change from Baseline in Forced Vital Capacity (Study 1)</caption>
+                  </paragraph>
+                  <paragraph>
+                     <renderMultiMedia referencedObject="MM200"/>
+                  </paragraph>
+                  <paragraph>
+                     <content styleCode="underline">Survival</content>
+                     <br/>
+							Survival was evaluated for ESBRIET compared to placebo in Studies 1, 2, and 3 as an exploratory analysis to support the primary endpoint (FVC).  All-cause mortality was assessed over the study duration and available follow-up period, irrespective of cause of death and whether patients continued treatment.  All-cause mortality did not show a statistically significant difference (see <linkHtml href="#fig3">Figure 3</linkHtml>).</paragraph>
+                  <paragraph ID="fig3">
+                     <caption>Figure 3.	Kaplan-Meier Estimates of All-Cause Mortality at Vital Status – End of Study: Studies 1, 2, and 3 </caption>
+                  </paragraph>
+                  <paragraph>
+                     <renderMultiMedia referencedObject="MM300"/>
+                  </paragraph>
+               </text>
+               <effectiveTime value="20141028"/>
+               <component>
+                  <observationMedia ID="MM100">
+                     <text>Figure 1</text>
+                     <value mediaType="image/jpeg" xsi:type="ED">
+                        <reference value="esbriet-figure-2.jpg"/>
+                     </value>
+                  </observationMedia>
+               </component>
+               <component>
+                  <observationMedia ID="MM200">
+                     <text>Figure 1</text>
+                     <value mediaType="image/jpeg" xsi:type="ED">
+                        <reference value="esbriet-figure-3.jpg"/>
+                     </value>
+                  </observationMedia>
+               </component>
+               <component>
+                  <observationMedia ID="MM300">
+                     <text>Figure 1</text>
+                     <value mediaType="image/jpeg" xsi:type="ED">
+                        <reference value="esbriet-figure-4.jpg"/>
+                     </value>
+                  </observationMedia>
+               </component>
+            </section>
+         </component>
+         <component>
+            <section ID="s16">
+               <id root="aa529194-f1c9-4ab9-80b0-fc8efaad6208"/>
+               <code code="34069-5" codeSystem="2.16.840.1.113883.6.1" displayName="HOW SUPPLIED SECTION"/>
+               <title mediaType="text/x-hl7-title+xml">16 HOW SUPPLIED/STORAGE AND HANDLING</title>
+               <text>
+                  <paragraph>ESBRIET is a white hard gelatin capsule; each capsule contains 267 mg of pirfenidone. The cap of the capsule is printed with “InterMune<sup>®</sup>” and “267 mg” in brown ink. The capsule is supplied either in a bottle, a 14-day titration blister pack or a 4-week maintenance blister pack.</paragraph>
+                  <table width="700" styleCode="Noautorules">
+                     <col align="left" width="33%"/>
+                     <col align="left" width="33%"/>
+                     <col align="center" width="33%"/>
+                     <tbody>
+                        <tr valign="top">
+                           <td styleCode="Toprule Lrule Rrule Botrule">Bottle for a 30-day supply</td>
+                           <td styleCode="Toprule Lrule Rrule Botrule">Bottle containing 270 capsules <br/>and closed with a child-<br/>resistant closure</td>
+                           <td styleCode="Toprule Lrule Rrule Botrule">NDC 64116-121-01</td>
+                        </tr>
+                        <tr valign="top">
+                           <td styleCode="Botrule Lrule Rrule">14-day Titration Blister<br/>Pack </td>
+                           <td styleCode="Botrule Lrule Rrule">Carton containing a total of 63<br/> capsules in two blister cards – a<br/> Week 1 blister card containing <br/>21 capsules (1 capsule per <br/>blister well) and a Week 2 <br/>blister card containing 42 <br/>capsules (2 capsules per blister <br/>well) </td>
+                           <td styleCode="Botrule Lrule Rrule">NDC 64116-121-02</td>
+                        </tr>
+                        <tr valign="top">
+                           <td styleCode="Botrule Lrule Rrule">4-Week Maintenance<br/>Blister Pack</td>
+                           <td styleCode="Botrule Lrule Rrule">Carton containing a total of 252 <br/>capsules in four blister cards <br/>each with 63 capsules (3 <br/>capsules per blister well) </td>
+                           <td styleCode="Botrule Lrule Rrule">NDC 64116-121-03 </td>
+                        </tr>
+                     </tbody>
+                  </table>
+                  <paragraph>Store at 25°C (77°F); excursions permitted to 15–30°C (59–86°F) (see USP Controlled Room Temperature).</paragraph>
+                  <paragraph>Keep the bottle tightly closed.  Do not use if the seal over the bottle opening is broken or missing.</paragraph>
+               </text>
+               <effectiveTime value="20141028"/>
+            </section>
+         </component>
+         <component>
+            <section ID="s17">
+               <id root="97ec1815-582c-4cf2-a924-ce0e568eae47"/>
+               <code code="34076-0" codeSystem="2.16.840.1.113883.6.1" displayName="INFORMATION FOR PATIENTS SECTION"/>
+               <title mediaType="text/x-hl7-title+xml">17 PATIENT COUNSELING INFORMATION</title>
+               <text>
+                  <paragraph>Advise the patient to read the FDA-approved patient labeling (<linkHtml href="#ABPIS">Patient Information</linkHtml>).</paragraph>
+                  <paragraph styleCode="underline">Liver Enzyme Elevations</paragraph>
+                  <paragraph>Advise patients that they may be required to undergo liver function testing periodically.  Instruct patients to immediately report any symptoms of a liver problem (e.g., skin or the white of eyes turn yellow, urine turns dark or brown [tea colored], pain on the right side of stomach, bleed or bruise more easily than normal, lethargy) <content styleCode="italics">
+                        <linkHtml href="#s5.1">[see Warnings and Precautions (5.1)]</linkHtml>
+                     </content>.</paragraph>
+                  <paragraph styleCode="underline">Photosensitivity Reaction or Rash</paragraph>
+                  <paragraph>Advise patients to avoid or minimize exposure to sunlight (including sunlamps) during use of ESBRIET because of concern for photosensitivity reactions or rash.  Instruct patients to use a sunblock and to wear clothing that protects against sun exposure.  Instruct patients to report symptoms of photosensitivity reaction or rash to their physician.  Temporary dosage reductions or discontinuations may be required <content styleCode="italics">
+                        <linkHtml href="#s5.2">[see Warnings and Precautions (5.2)]</linkHtml>
+                     </content>.</paragraph>
+                  <paragraph styleCode="underline">Gastrointestinal Events</paragraph>
+                  <paragraph>Instruct patients to report symptoms of persistent gastrointestinal effects including nausea, diarrhea, dyspepsia, vomiting, gastro-esophageal reflux disease, and abdominal pain. Temporary dosage reductions or discontinuations may be required <content styleCode="italics">
+                        <linkHtml href="#s5.3">[see Warnings and Precautions (5.3)]</linkHtml>
+                     </content>.</paragraph>
+                  <paragraph styleCode="underline">Smokers</paragraph>
+                  <paragraph>Encourage patients to stop smoking prior to treatment with ESBRIET and to avoid smoking when using ESBRIET <content styleCode="italics">
+                        <linkHtml href="#s12.3">[see Clinical Pharmacology (12.3)]</linkHtml>
+                     </content>.</paragraph>
+                  <paragraph styleCode="underline">Take with Food</paragraph>
+                  <paragraph>Instruct patients to take ESBRIET with food to help decrease nausea and dizziness.</paragraph>
+               </text>
+               <effectiveTime value="20141028"/>
+            </section>
+         </component>
+         <component>
+            <section ID="s18">
+               <id root="8177e223-c755-4f62-a589-4baa24aedae3"/>
+               <code code="42229-5" codeSystem="2.16.840.1.113883.6.1" displayName="SPL UNCLASSIFIED SECTION"/>
+               <title mediaType="text/x-hl7-title+xml"/>
+               <text>
+                  <paragraph>Manufactured for:
+							<br/>InterMune, Inc.
+							<br/>Brisbane, CA 94005</paragraph>
+                  <br/>
+                  <paragraph>ESBRIET is a registered U.S. trademark of InterMune, Inc.
+						<br/>© 2014 InterMune, Inc.</paragraph>
+                  <br/>
+                  <paragraph>20141015-PFD-USA-EN.00</paragraph>
+               </text>
+               <effectiveTime value="20141028"/>
+            </section>
+         </component>
+         <component>
+            <section ID="ABPIS">
+               <id root="278f2f96-9279-46fc-a1cf-1447764f8c3a"/>
+               <code code="42230-3" codeSystem="2.16.840.1.113883.6.1" displayName="SPL PATIENT PACKAGE INSERT SECTION"/>
+               <title mediaType="text/x-hl7-title+xml"/>
+               <text>
+                  <paragraph styleCode="bold">Patient Information</paragraph>
+                  <paragraph styleCode="bold">ESBRIET<sup>®</sup> (es-BREE-et)<br/>(pirfenidone)<br/>capsules</paragraph>
+                  <paragraph>Read this Patient Information before you start taking ESBRIET and each time you get a refill. There may be new information.  This information does not take the place of talking to your doctor about your medical condition or your treatment.</paragraph>
+                  <paragraph styleCode="bold">What is ESBRIET?</paragraph>
+                  <paragraph>ESBRIET is a prescription medicine used to treat people with a lung disease called idiopathic pulmonary fibrosis (IPF).</paragraph>
+                  <paragraph styleCode="bold">What should I tell my doctor before taking ESBRIET?</paragraph>
+                  <paragraph>
+                     <content styleCode="bold">Before you take ESBRIET, tell your doctor if you:</content>
+                  </paragraph>
+                  <list>
+                     <item>have liver problems</item>
+                     <item>have kidney problems</item>
+                     <item>are a smoker</item>
+                     <item>have any other medical conditions</item>
+                     <item>are pregnant or plan to become pregnant. It is not known if ESBRIET will harm your unborn baby.</item>
+                     <item>are breastfeeding or plan to breastfeed.  It is not known if ESBRIET passes into your breast milk. You and your doctor should decide if you will take ESBRIET  or breastfeed.</item>
+                  </list>
+                  <paragraph>Tell your doctor about all the medicines you take, including prescription and over-the-counter medicines, vitamins, and herbal supplements.</paragraph>
+                  <paragraph styleCode="bold">How should I take ESBRIET?</paragraph>
+                  <list>
+                     <item>Take ESBRIET exactly as your doctor tells you to take it.</item>
+                     <item>Your doctor may change your dosage of ESBRIET as needed.</item>
+                     <item>Take ESBRIET with food.  This may help to decrease nausea and dizziness.
+								<list listType="unordered" styleCode="disc">
+                           <item>Take 1 ESBRIET capsule 3 times each day for days 1 through 7.</item>
+                           <item>Take 2 ESBRIET capsules 3 times each day for days 8 through 14.</item>
+                           <item>Take 3 ESBRIET capsules 3 times each day on day 15 and each day after.</item>
+                        </list>
+                     </item>
+                  </list>
+                  <table width="500" styleCode="Noautorules">
+                     <col width="23%"/>
+                     <col width="19%"/>
+                     <col width="19%"/>
+                     <col width="19%"/>
+                     <col width="1%"/>
+                     <col width="19%"/>
+                     <tbody>
+                        <tr>
+                           <td styleCode="Rrule Lrule Toprule Botrule bold" align="center" colspan="6">ESBRIET Dosing Schedule</td>
+                        </tr>
+                        <tr>
+                           <td styleCode="Rrule Lrule Toprule Botrule" align="center">Week</td>
+                           <td styleCode="Rrule Lrule Toprule Botrule" align="center">Morning<br/>(Breakfast)</td>
+                           <td styleCode="Rrule Lrule Toprule Botrule" align="center">Afternoon<br/>(Lunch)</td>
+                           <td styleCode="Rrule Lrule Toprule Botrule" align="center">Evening<br/>(Dinner)</td>
+                           <td styleCode="Rrule Lrule Toprule Botrule" align="center"/>
+                           <td styleCode="Rrule Lrule Toprule Botrule" align="center">
+                              <content styleCode="bold">Total Pills<br/>Each Day</content>
+                           </td>
+                        </tr>
+                        <tr>
+                           <td styleCode="Rrule Lrule Toprule Botrule" align="left">Days 1-7</td>
+                           <td styleCode="Rrule Lrule Toprule Botrule" align="center">1</td>
+                           <td styleCode="Rrule Lrule Toprule Botrule" align="center">1</td>
+                           <td styleCode="Rrule Lrule Toprule Botrule" align="center">1</td>
+                           <td styleCode="Rrule Lrule Toprule Botrule" align="center"/>
+                           <td styleCode="Rrule Lrule Toprule Botrule bold" align="center">3</td>
+                        </tr>
+                        <tr>
+                           <td styleCode="Rrule Lrule Toprule Botrule" align="left">Days 8-14</td>
+                           <td styleCode="Rrule Lrule Toprule Botrule" align="center">2</td>
+                           <td styleCode="Rrule Lrule Toprule Botrule" align="center">2</td>
+                           <td styleCode="Rrule Lrule Toprule Botrule" align="center">2</td>
+                           <td styleCode="Rrule Lrule Toprule Botrule" align="center"/>
+                           <td styleCode="Rrule Lrule Toprule Botrule bold" align="center">6</td>
+                        </tr>
+                        <tr>
+                           <td styleCode="Rrule Lrule Toprule Botrule" align="left">Days 15 onward</td>
+                           <td styleCode="Rrule Lrule Toprule Botrule" align="center">3</td>
+                           <td styleCode="Rrule Lrule Toprule Botrule" align="center">3</td>
+                           <td styleCode="Rrule Lrule Toprule Botrule" align="center">3</td>
+                           <td styleCode="Rrule Lrule Toprule Botrule" align="center"/>
+                           <td styleCode="Rrule Lrule Toprule Botrule bold" align="center">9</td>
+                        </tr>
+                     </tbody>
+                  </table>
+                  <list>
+                     <item>If you miss a dose of ESBRIET take your next dose as soon as you remember.</item>
+                     <item>
+                        <content styleCode="bold">Do not</content> take 2 doses at the same time to make up for your missed dose.</item>
+                     <item>
+                        <content styleCode="bold">Do not</content> more than 3 doses each day.</item>
+                     <item>If you take too much ESBRIET, call your doctor or go to the nearest hospital emergency room right away.</item>
+                     <item>Your doctor should do certain blood tests before you start taking ESBRIET.</item>
+                  </list>
+                  <paragraph styleCode="bold" ID="avoid">What should I avoid while taking ESBRIET?</paragraph>
+                  <list>
+                     <item>Avoid sunlight.  ESBRIET can make your skin sensitive to the sun and the light from sunlamps and tanning beds.  You could get a severe sunburn.  Use sunscreen (SPF50) and wear a hat and clothes that cover your skin if you have to be in sunlight.  Talk to your doctor if you get sunburn.</item>
+                     <item>Avoid smoking.  Smoking may affect how well ESBRIET works.</item>
+                  </list>
+                  <paragraph styleCode="bold">What are the possible side effects of ESBRIET?</paragraph>
+                  <paragraph styleCode="bold">ESBRIET may cause serious side effects, including:</paragraph>
+                  <list>
+                     <item>
+                        <content styleCode="bold">liver problems. </content>Call your doctor right away if you have unexplained symptoms such as yellowing of your skin or the white part of your eyes (jaundice), dark or brown (tea colored) urine, pain on the upper right side of your stomach area (abdomen), bleeding or bruising more easily than normal, or feeling tired.<br/>
+							Your doctor will do blood tests to check how your liver is working during your treatment with ESBRIET.</item>
+                     <item>
+                        <content styleCode="bold">sensitivity to sunlight (photosensitivity) and rash.  See “<linkHtml href="#avoid">What should I avoid while taking ESBRIET?</linkHtml>”</content>
+                     </item>
+                     <item>
+                        <content styleCode="bold">stomach problems. </content>ESBRIET may cause stomach problems such as nausea, vomiting, diarrhea, indigestion, heartburn, and stomach pain.  Tell your doctor right away if your stomach problems get worse or do not go away.  Your doctor may need to change your dose of ESBRIET.</item>
+                  </list>
+                  <paragraph>The most common side effects of ESBRIET include feeling tired, headache, dizziness and decreased or loss of appetite.</paragraph>
+                  <paragraph>These are not all the possible side effects of ESBRIET.  For more information, ask your doctor or pharmacist.</paragraph>
+                  <paragraph>Call your doctor for medical advice about side effects.  You may report side effects to FDA at 1-800-FDA-1088.</paragraph>
+                  <paragraph styleCode="bold" ID="storagetemp">How should I store ESBRIET?</paragraph>
+                  <list>
+                     <item>Store ESBRIET at room temperature between 68°F to 77°F (20°C to 25°C).</item>
+                     <item>Keep in a tightly closed container.</item>
+                     <item>Safely throw away any ESBRIET that is out of date or no longer needed.</item>
+                  </list>
+                  <paragraph styleCode="bold">Keep ESBRIET and all medicines out of reach of children.</paragraph>
+                  <paragraph>
+                     <content styleCode="bold">General information about the safe and effective use of ESBRIET.</content>
+                  </paragraph>
+                  <list>
+                     <item>Medicines are sometimes prescribed for purposes other than those listed in a Patient Information leaflet.  This Patient Information leaflet summarizes the most important information about ESBRIET.  If you would like more information, talk to your doctor.  You can ask your pharmacist or doctor for information about ESBRIET that is written for health professionals.</item>
+                     <item>For more information, go to <content styleCode="underline">www.ESBRIET.com</content> or call 1-888-486-6411.</item>
+                  </list>
+                  <paragraph styleCode="bold">What are the ingredients in ESBRIET?</paragraph>
+                  <paragraph>
+                     <content styleCode="bold">Active ingredient: </content>pirfenidone</paragraph>
+                  <paragraph>
+                     <content styleCode="bold">Inactive ingredients: </content>microcrystalline cellulose, croscarmellose sodium, povidone, and magnesium stearate</paragraph>
+                  <paragraph>
+                     <content styleCode="bold">Capsule Shell: </content>gelatin and titanium dioxide</paragraph>
+                  <paragraph>
+                     <content styleCode="bold">Capsule Brown Printing Ink: </content>shellac, iron oxide black, iron oxide red, iron oxide yellow, propylene glycol, ammonium hydroxide</paragraph>
+                  <paragraph>Issued: October 2014
+							<br/>© 2014 InterMune, Inc.</paragraph>
+                  <paragraph>This Patient Information has been approved by the U.S. Food and Drug Administration</paragraph>
+               </text>
+               <effectiveTime value="20141028"/>
+            </section>
+         </component>
+         <component>
+            <section ID="PDP1">
+               <id root="0d3d142a-8802-410b-a6e4-ae36bedd582a"/>
+               <code code="51945-4" codeSystem="2.16.840.1.113883.6.1" displayName="PACKAGE LABEL.PRINCIPAL DISPLAY PANEL"/>
+               <title mediaType="text/x-hl7-title+xml"/>
+               <text>
+                  <paragraph styleCode="bold">PRINCIPAL DISPLAY PANEL - NDC: 64116-121-01 - CARTON LABEL, 267 MG</paragraph>
+                  <paragraph>
+                     <renderMultiMedia referencedObject="MM176"/>
+                  </paragraph>
+               </text>
+               <effectiveTime value="20141028"/>
+               <component>
+                  <observationMedia ID="MM176">
+                     <text>capsules carton</text>
+                     <value mediaType="image/jpeg" xsi:type="ED">
+                        <reference value="esbriet-figure-5.jpg"/>
+                     </value>
+                  </observationMedia>
+               </component>
+            </section>
+         </component>
+         <component>
+            <section ID="PDP2">
+               <id root="10beee8b-3f67-41f0-8ed7-3fc7483addd4"/>
+               <code code="51945-4" codeSystem="2.16.840.1.113883.6.1" displayName="PACKAGE LABEL.PRINCIPAL DISPLAY PANEL"/>
+               <title mediaType="text/x-hl7-title+xml"/>
+               <text>
+                  <paragraph styleCode="bold">PRINCIPAL DISPLAY PANEL - NDC: 64116-121-01 - PACKAGE LABEL, 267 MG</paragraph>
+                  <paragraph>
+                     <renderMultiMedia referencedObject="MM177"/>
+                  </paragraph>
+               </text>
+               <effectiveTime value="20141028"/>
+               <component>
+                  <observationMedia ID="MM177">
+                     <text>capsules label</text>
+                     <value mediaType="image/jpeg" xsi:type="ED">
+                        <reference value="esbriet-figure-6.jpg"/>
+                     </value>
+                  </observationMedia>
+               </component>
+            </section>
+         </component>
+      </structuredBody>
+   </component>
+</document>

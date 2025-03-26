@@ -1,0 +1,2229 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet href="http://www.accessdata.fda.gov/spl/stylesheet/spl.xsl" type="text/xsl"?>
+<document xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:hl7-org:v3 http://www.accessdata.fda.gov/spl/schema/spl.xsd">
+   <id root="37f4de47-6e86-480a-912a-ccdf4ebc143a"/>
+   <code code="34391-3" displayName="HUMAN PRESCRIPTION DRUG LABEL" codeSystem="2.16.840.1.113883.6.1"/>
+   <title>Foradil</title>
+   <effectiveTime value="20120301"/>
+   <setId root="04212000-ec03-42a3-8b9e-3a28237f415e"/>
+   <versionNumber value="1"/>
+   <author>
+      <time/>
+      <assignedEntity>
+         <representedOrganization>
+            <id extension="194123980" root="1.3.6.1.4.1.519.1"/>
+            <name>Physicians Total Care, Inc.</name>
+            <assignedEntity>
+               <assignedOrganization>
+                  <assignedEntity>
+                     <assignedOrganization>
+                        <id extension="194123980" root="1.3.6.1.4.1.519.1"/>
+                        <name>Physicians Total Care, Inc.</name>
+                     </assignedOrganization>
+                     <performance>
+                        <actDefinition>
+                           <code code="C73607" codeSystem="2.16.840.1.113883.3.26.1.1" displayName="relabel"/>
+                        </actDefinition>
+                     </performance>
+                  </assignedEntity>
+               </assignedOrganization>
+            </assignedEntity>
+         </representedOrganization>
+      </assignedEntity>
+   </author>
+   <component>
+      <structuredBody>
+         <component>
+            <section>
+               <id root="21e86466-10fe-4e97-9a02-c07f9a4043c5"/>
+               <code code="48780-1" displayName="SPL LISTING DATA ELEMENTS SECTION" codeSystem="2.16.840.1.113883.6.1"/>
+               <effectiveTime value="20120301"/>
+               <subject>
+                  <manufacturedProduct>
+                     <manufacturedProduct>
+                        <code code="54868-4972" codeSystem="2.16.840.1.113883.6.69"/>
+                        <name>Foradil<suffix/>
+                        </name>
+                        <formCode code="C25158" displayName="CAPSULE" codeSystem="2.16.840.1.113883.3.26.1.1"/>
+                        <asEntityWithGeneric>
+                           <genericMedicine>
+                              <name>formoterol fumarate</name>
+                           </genericMedicine>
+                        </asEntityWithGeneric>
+                        <asEquivalentEntity classCode="EQUIV">
+                           <code code="C64637" codeSystem="2.16.840.1.113883.3.26.1.1"/>
+                           <definingMaterialKind>
+                              <code code="0085-1401" codeSystem="2.16.840.1.113883.6.69"/>
+                           </definingMaterialKind>
+                        </asEquivalentEntity>
+                        <ingredient classCode="ACTIB">
+                           <quantity>
+                              <numerator unit="ug" value="12"/>
+                              <denominator unit="1" value="1"/>
+                           </quantity>
+                           <ingredientSubstance>
+                              <code code="P3T5QA5J9N" codeSystem="2.16.840.1.113883.4.9"/>
+                              <name>FORMOTEROL FUMARATE</name>
+                              <activeMoiety>
+                                 <activeMoiety>
+                                    <code code="5ZZ84GCW8B" codeSystem="2.16.840.1.113883.4.9"/>
+                                    <name>FORMOTEROL</name>
+                                 </activeMoiety>
+                              </activeMoiety>
+                           </ingredientSubstance>
+                        </ingredient>
+                        <ingredient classCode="IACT">
+                           <quantity>
+                              <numerator unit="mg" value="25"/>
+                              <denominator unit="1" value="1"/>
+                           </quantity>
+                           <ingredientSubstance>
+                              <code code="J2B2A4N98G" codeSystem="2.16.840.1.113883.4.9"/>
+                              <name>LACTOSE</name>
+                           </ingredientSubstance>
+                        </ingredient>
+                        <asContent>
+                           <quantity>
+                              <numerator unit="1" value="6">
+                                 <translation code="C48480" value="6" displayName="CAPSULE" codeSystem="2.16.840.1.113883.3.26.1.1"/>
+                              </numerator>
+                              <denominator value="1"/>
+                           </quantity>
+                           <containerPackagedProduct>
+                              <code/>
+                              <formCode code="C43168" displayName="BLISTER PACK" codeSystem="2.16.840.1.113883.3.26.1.1"/>
+                              <asContent>
+                                 <quantity>
+                                    <numerator unit="1" value="10">
+                                       <translation code="C61569" value="10" displayName="BLISTER PACK" codeSystem="2.16.840.1.113883.3.26.1.1"/>
+                                    </numerator>
+                                    <denominator value="1"/>
+                                 </quantity>
+                                 <containerPackagedProduct>
+                                    <code code="54868-4972-1" codeSystem="2.16.840.1.113883.6.69"/>
+                                    <formCode code="C43178" displayName="BOX" codeSystem="2.16.840.1.113883.3.26.1.1"/>
+                                 </containerPackagedProduct>
+                              </asContent>
+                           </containerPackagedProduct>
+                        </asContent>
+                     </manufacturedProduct>
+                     <subjectOf>
+                        <approval>
+                           <id extension="NDA020831" root="2.16.840.1.113883.3.150"/>
+                           <code code="C73594" displayName="NDA" codeSystem="2.16.840.1.113883.3.26.1.1"/>
+                           <author>
+                              <territorialAuthority>
+                                 <territory>
+                                    <code code="USA" codeSystem="2.16.840.1.113883.5.28"/>
+                                 </territory>
+                              </territorialAuthority>
+                           </author>
+                        </approval>
+                     </subjectOf>
+                     <subjectOf>
+                        <marketingAct>
+                           <code code="C53292" codeSystem="2.16.840.1.113883.3.26.1.1"/>
+                           <statusCode code="active"/>
+                           <effectiveTime>
+                              <low value="20040528"/>
+                           </effectiveTime>
+                        </marketingAct>
+                     </subjectOf>
+                     <subjectOf>
+                        <characteristic classCode="OBS">
+                           <code code="SPLCOLOR" codeSystem="2.16.840.1.113883.1.11.19255"/>
+                           <value code="C48325" displayName="WHITE" codeSystem="2.16.840.1.113883.3.26.1.1" xsi:type="CE"/>
+                        </characteristic>
+                     </subjectOf>
+                     <subjectOf>
+                        <characteristic classCode="OBS">
+                           <code code="SPLIMPRINT" codeSystem="2.16.840.1.113883.1.11.19255"/>
+                           <value xsi:type="ST">CG;FXF</value>
+                        </characteristic>
+                     </subjectOf>
+                     <subjectOf>
+                        <characteristic classCode="OBS">
+                           <code code="SPLSCORE" codeSystem="2.16.840.1.113883.1.11.19255"/>
+                           <value value="1" xsi:type="INT"/>
+                        </characteristic>
+                     </subjectOf>
+                     <subjectOf>
+                        <characteristic classCode="OBS">
+                           <code code="SPLSHAPE" codeSystem="2.16.840.1.113883.1.11.19255"/>
+                           <value code="C48336" displayName="CAPSULE" codeSystem="2.16.840.1.113883.3.26.1.1" xsi:type="CE"/>
+                        </characteristic>
+                     </subjectOf>
+                     <subjectOf>
+                        <characteristic classCode="OBS">
+                           <code code="SPLSIZE" codeSystem="2.16.840.1.113883.1.11.19255"/>
+                           <value unit="mm" value="16" xsi:type="PQ"/>
+                        </characteristic>
+                     </subjectOf>
+                     <consumedIn>
+                        <substanceAdministration>
+                           <routeCode code="C38216" displayName="RESPIRATORY (INHALATION)" codeSystem="2.16.840.1.113883.3.26.1.1"/>
+                        </substanceAdministration>
+                     </consumedIn>
+                  </manufacturedProduct>
+               </subject>
+            </section>
+         </component>
+         <component>
+            <section>
+               <id root="3893683d-c9c4-4328-89b5-e5618e41b2c0"/>
+               <code codeSystem="2.16.840.1.113883.6.1" code="42229-5" displayName="SPL UNCLASSIFIED SECTION"/>
+               <title/>
+               <text>
+                  <paragraph>
+                     <content styleCode="bold">FORADIL</content>
+                     <content styleCode="bold">
+                        <sup>®</sup>
+                     </content>
+                     <content styleCode="bold"> </content>
+                     <content styleCode="bold">AEROLIZER</content>
+                     <content styleCode="bold">
+                        <sup>®</sup>
+                     </content>
+                  </paragraph>
+                  <paragraph>
+                     <content styleCode="bold">(formoterol fumarate inhalation powder)</content>
+                  </paragraph>
+                  <paragraph>For Oral Inhalation Only</paragraph>
+                  <paragraph>Rx only</paragraph>
+                  <paragraph>
+                     <content styleCode="bold">Prescribing Information</content>
+                  </paragraph>
+               </text>
+               <effectiveTime value="20100321"/>
+            </section>
+         </component>
+         <component>
+            <section>
+               <id root="81cc44ce-b90f-47eb-8183-13c1674f0d25"/>
+               <code codeSystem="2.16.840.1.113883.6.1" code="34066-1" displayName="BOXED WARNING SECTION"/>
+               <title>WARNING: ASTHMA RELATED DEATH</title>
+               <text>
+                  <paragraph>
+                     <content styleCode="bold">Long-acting beta</content>
+                     <content styleCode="bold">
+                        <sub>2</sub>
+                     </content>
+                     <content styleCode="bold">-adrenergic agonists (LABA), such as formoterol the active ingredient in FORADIL AEROLIZER, increase the risk of asthma-related death. Data from a large placebo-controlled US study that compared the safety of another LABA (salmeterol) or placebo added to usual asthma therapy showed an increase in asthma-related deaths in patients receiving salmeterol.  This finding with salmeterol is considered a class effect of LABA, including formoterol (see WARNINGS).  Currently available data are inadequate to determine whether concurrent use of inhaled corticosteroids or other long-term asthma control drugs mitigates the increased risk of asthma-related death from LABA.</content>
+                  </paragraph>
+                  <paragraph>
+                     <content styleCode="bold">Because of this risk, use of FORADIL AEROLIZER for the treatment of asthma without a concomitant long-term asthma control medication, such as an inhaled corticosteroid, is contraindicated. Use FORADIL AEROLIZER only as additional therapy for patients with asthma who are currently taking but are inadequately controlled on a long-term asthma control medication, such as an inhaled corticosteroid. Once asthma control is achieved and maintained, assess the patient at regular intervals and step down therapy (e.g. discontinue FORADIL AEROLIZER) if possible without loss of asthma control, and maintain the patient on a long-term asthma control medication, such as an inhaled corticosteroid. Do not use FORADIL AEROLIZER for patients whose asthma is adequately controlled on low or medium dose inhaled corticosteroids.</content>
+                  </paragraph>
+                  <paragraph>
+                     <content styleCode="bold italics">Pediatric and Adolescent Patients</content>
+                  </paragraph>
+                  <paragraph>
+                     <content styleCode="bold">Available data from controlled clinical trials suggest that LABA increase the risk of asthma-related hospitalization in pediatric and adolescent patients. For pediatric and adolescent patients with asthma who require addition of a LABA to an inhaled corticosteroid, a fixed-dose combination product containing both an inhaled corticosteroid and LABA should ordinarily be considered to ensure adherence with both drugs. In cases where use of a separate long-term asthma control medication (e.g. inhaled corticosteroid) and LABA is clinically indicated, appropriate steps must be taken to ensure adherence with both treatment components. If adherence cannot be assured, a fixed-dose combination product containing both an inhaled corticosteroid and LABA is recommended. </content>
+                  </paragraph>
+               </text>
+               <effectiveTime value="20100321"/>
+            </section>
+         </component>
+         <component>
+            <section>
+               <id root="d7d4b67d-9198-4f19-b13c-9e4b38cca912"/>
+               <code codeSystem="2.16.840.1.113883.6.1" code="34089-3" displayName="DESCRIPTION SECTION"/>
+               <title>
+                  <content styleCode="bold">DESCRIPTION</content>
+               </title>
+               <text>
+                  <paragraph>FORADIL<sup>®</sup> AEROLIZER<sup>®</sup> consists of a capsule dosage form containing a dry powder formulation of FORADIL (formoterol fumarate) intended for oral inhalation only with the AEROLIZER Inhaler.</paragraph>
+                  <paragraph>
+		     
+	Each clear, hard gelatin capsule contains a dry powder blend of 12 mcg of formoterol fumarate and 25 mg of lactose (which contains trace levels of milk proteins) as a carrier.</paragraph>
+                  <paragraph>
+		     
+	The active component of FORADIL is formoterol fumarate, a racemate. Formoterol fumarate is a selective beta<sub>2</sub>-adrenergic bronchodilator. Its chemical name is (±)-2-hydroxy-5-[(1RS)-1-hydroxy-2-[[(1RS)-2-(4-methoxyphenyl)-1-methylethyl]-amino]ethyl]formanilide fumarate dihydrate; its structural formula is</paragraph>
+                  <paragraph>
+                     <renderMultiMedia referencedObject="MM03000001"/>
+                  </paragraph>
+                  <paragraph>
+		     
+	Formoterol fumarate has a molecular weight of 840.9, and its empirical formula is (C<sub>19</sub>H<sub>24</sub>N<sub>2</sub>O<sub>4</sub>)<sub>2</sub>•C<sub>4</sub>H<sub>4</sub>O<sub>4</sub>•<sub>2</sub>H<sub>2</sub>O. Formoterol fumarate is a white to yellowish crystalline powder, which is freely soluble in glacial acetic acid, soluble in methanol, sparingly soluble in ethanol and isopropanol, slightly soluble in water, and practically insoluble in acetone, ethyl acetate, and diethyl ether.</paragraph>
+                  <paragraph>
+		     
+	The AEROLIZER Inhaler is a plastic device used for inhaling FORADIL. The amount of drug delivered to the lung will depend on patient factors, such as inspiratory flow rate and inspiratory time.  Under standardized in vitro testing at a fixed flow rate of 60 L/min for 2 seconds, the AEROLIZER Inhaler delivered 10 mcg of formoterol fumarate from the mouthpiece. Peak inspiratory flow rates (PIFR) achievable through the AEROLIZER Inhaler were evaluated in 33 adult and adolescent patients and 32 pediatric patients with mild-to-moderate asthma. Mean PIFR was 117.82 L/min (range 34-188 L/min) for adult and adolescent patients, and 99.66 L/min (range 43-187 L/min) for pediatric patients. Approximately ninety percent of each population studied generated a PIFR through the device exceeding 60 L/min.</paragraph>
+                  <paragraph>
+		     
+	To use the delivery system, a FORADIL capsule is placed in the well of the AEROLIZER Inhaler, and the capsule is pierced by pressing and releasing the buttons on the side of the device. The formoterol fumarate formulation is dispersed into the air stream when the patient inhales rapidly and deeply through the mouthpiece.</paragraph>
+               </text>
+               <effectiveTime value="20100321"/>
+               <component>
+                  <observationMedia ID="MM03000001">
+                     <text>formoterol fumarate structural formula</text>
+                     <value xsi:type="ED" mediaType="image/jpeg">
+                        <reference value="foradil-01.jpg"/>
+                     </value>
+                  </observationMedia>
+               </component>
+            </section>
+         </component>
+         <component>
+            <section>
+               <id root="9476a9ab-3aef-451e-a008-a6c7c9d7213d"/>
+               <code codeSystem="2.16.840.1.113883.6.1" code="34090-1" displayName="CLINICAL PHARMACOLOGY SECTION"/>
+               <title>
+                  <content styleCode="bold">CLINICAL PHARMACOLOGY</content>
+               </title>
+               <effectiveTime value="20100321"/>
+               <component>
+                  <section>
+                     <id root="a8fa41cf-2334-4b24-b498-345af050afa5"/>
+                     <code codeSystem="2.16.840.1.113883.6.1" code="34090-1" displayName="CLINICAL PHARMACOLOGY SECTION"/>
+                     <title>
+                        <content styleCode="bold">Mechanism of Action</content>
+                     </title>
+                     <text>
+                        <paragraph>Formoterol fumarate is a long-acting selective beta<sub>2</sub>-adrenergic receptor agonist (beta<sub>2</sub>-agonist).  Inhaled formoterol fumarate acts locally in the lung as a bronchodilator. In vitro studies have shown that formoterol has more than 200-fold greater agonist activity at beta<sub>2</sub>-receptors than at beta<sub>1</sub>-receptors.  Although beta<sub>2</sub>-receptors are the predominant adrenergic receptors in bronchial smooth muscle and beta<sub>1</sub>-receptors are the predominant receptors in the heart, there are also beta<sub>2</sub>-receptors in the human heart comprising 10%-50% of the total beta-adrenergic receptors. The precise function of these receptors has not been established, but they raise the possibility that even highly selective beta<sub>2</sub>-agonists may have cardiac effects.</paragraph>
+                        <paragraph>
+		     
+	The pharmacologic effects of beta<sub>2</sub>-adrenoceptor agonist drugs, including formoterol, are at least in part attributable to stimulation of intracellular adenyl cyclase, the enzyme that catalyzes the conversion of adenosine triphosphate (ATP) to cyclic-3', 5'-adenosine monophosphate (cyclic AMP). Increased cyclic AMP levels cause relaxation of bronchial smooth muscle and inhibition of release of mediators of immediate hypersensitivity from cells, especially from mast cells.</paragraph>
+                        <paragraph>
+		     
+	In vitro tests show that formoterol is an inhibitor of the release of mast cell mediators, such as histamine and leukotrienes, from the human lung. Formoterol also inhibits histamine-induced plasma albumin extravasation in anesthetized guinea pigs and inhibits allergen-induced eosinophil influx in dogs with airway hyper-responsiveness. The relevance of these in vitro and animal findings to humans is unknown.</paragraph>
+                     </text>
+                     <effectiveTime value="20100321"/>
+                  </section>
+               </component>
+               <component>
+                  <section>
+                     <id root="50147e4a-cc94-4920-8ae6-6de6c94972a6"/>
+                     <code codeSystem="2.16.840.1.113883.6.1" code="34090-1" displayName="CLINICAL PHARMACOLOGY SECTION"/>
+                     <title>
+                        <content styleCode="bold">Animal Pharmacology</content>
+                     </title>
+                     <text>
+                        <paragraph>Studies in laboratory animals (minipigs, rodents, and dogs) have demonstrated the occurrence of cardiac arrhythmias and sudden death (with histologic evidence of myocardial necrosis) when beta-agonists and methylxanthines are administered concurrently. The clinical significance of these findings is unknown.</paragraph>
+                     </text>
+                     <effectiveTime value="20100321"/>
+                  </section>
+               </component>
+               <component>
+                  <section>
+                     <id root="8bd7d198-bde2-49d9-9949-f8ca4fe5e9ee"/>
+                     <code codeSystem="2.16.840.1.113883.6.1" code="34090-1" displayName="CLINICAL PHARMACOLOGY SECTION"/>
+                     <title>
+                        <content styleCode="bold">Pharmacokinetics</content>
+                     </title>
+                     <text>
+                        <paragraph>Information on the pharmacokinetics of formoterol in plasma has been obtained in healthy subjects by oral inhalation of doses higher than the recommended range and in Chronic Obstructive Pulmonary Disease (COPD) patients after oral inhalation of doses at and above the therapeutic dose. Urinary excretion of unchanged formoterol was used as an indirect measure of systemic exposure. Plasma drug disposition data parallel urinary excretion, and the elimination half-lives calculated for urine and plasma are similar.</paragraph>
+                     </text>
+                     <effectiveTime value="20100321"/>
+                     <component>
+                        <section>
+                           <id root="506d9b9a-cf65-443c-91d3-88d570c705e6"/>
+                           <code codeSystem="2.16.840.1.113883.6.1" code="34090-1" displayName="CLINICAL PHARMACOLOGY SECTION"/>
+                           <title>
+                              <content styleCode="bold italics">Absorption</content>
+                           </title>
+                           <text>
+                              <paragraph>Following inhalation of a single 120 mcg dose of formoterol fumarate by 12 healthy subjects, formoterol was rapidly absorbed into plasma, reaching a maximum drug concentration of 92 pg/mL within 5 minutes of dosing. In COPD patients treated for 12 weeks with formoterol fumarate 12 or 24 mcg b.i.d., the mean plasma concentrations of formoterol ranged between 4.0 and 8.8 pg/mL and 8.0 and 17.3 pg/mL, respectively, at 10 min, 2 h and 6 h post inhalation.</paragraph>
+                              <paragraph>
+		     
+	Following inhalation of 12 to 96 mcg of formoterol fumarate by 10 healthy males, urinary excretion of both (R,R)- and (S,S)-enantiomers of formoterol increased proportionally to the dose. Thus, absorption of formoterol following inhalation appeared linear over the dose range studied.</paragraph>
+                              <paragraph>
+		     
+	In a study in patients with asthma, when formoterol 12 or 24 mcg twice daily was given by oral inhalation for 4 weeks or 12 weeks, the accumulation index, based on the urinary excretion of unchanged formoterol ranged from 1.63 to 2.08 in comparison with the first dose. For COPD patients, when formoterol 12 or 24 mcg twice daily was given by oral inhalation for 12 weeks, the accumulation index, based on the urinary excretion of unchanged formoterol was 1.19 - 1.38. This suggests some accumulation of formoterol in plasma with multiple dosing. The excreted amounts of formoterol at steady-state were close to those predicted based on single-dose kinetics. As with many drug products for oral inhalation, it is likely that the majority of the inhaled formoterol fumarate delivered is swallowed and then absorbed from the gastrointestinal tract.</paragraph>
+                           </text>
+                           <effectiveTime value="20100321"/>
+                        </section>
+                     </component>
+                     <component>
+                        <section>
+                           <id root="3331228e-6643-4874-9860-cc120d641940"/>
+                           <code codeSystem="2.16.840.1.113883.6.1" code="34090-1" displayName="CLINICAL PHARMACOLOGY SECTION"/>
+                           <title>
+                              <content styleCode="bold italics">Distribution</content>
+                           </title>
+                           <text>
+                              <paragraph>The binding of formoterol to human plasma proteins in vitro was 61%-64% at concentrations from 0.1 to 100 ng/mL. Binding to human serum albumin in vitro was 31%-38% over a range of 5 to 500 ng/mL. The concentrations of formoterol used to assess the plasma protein binding were higher than those achieved in plasma following inhalation of a single 120 mcg dose.</paragraph>
+                           </text>
+                           <effectiveTime value="20100321"/>
+                        </section>
+                     </component>
+                     <component>
+                        <section>
+                           <id root="4ab64a9c-8a32-40c1-985c-ce56aa3e9305"/>
+                           <code codeSystem="2.16.840.1.113883.6.1" code="34090-1" displayName="CLINICAL PHARMACOLOGY SECTION"/>
+                           <title>
+                              <content styleCode="bold italics">Metabolism</content>
+                           </title>
+                           <text>
+                              <paragraph>Formoterol is metabolized primarily by direct glucuronidation at either the phenolic or aliphatic hydroxyl group and O-demethylation followed by glucuronide conjugation at either phenolic hydroxyl groups. Minor pathways involve sulfate conjugation of formoterol and deformylation followed by sulfate conjugation. The most prominent pathway involves direct conjugation at the phenolic hydroxyl group.  The second major pathway involves O-demethylation followed by conjugation at the phenolic 2'-hydroxyl group. Four cytochrome P450 isozymes (CYP2D6, CYP2C19, CYP2C9 and CYP2A6) are involved in the O-demethylation of formoterol.  Formoterol did not inhibit CYP450 enzymes at therapeutically relevant concentrations. Some patients may be deficient in CYP2D6 or 2C19 or both.  Whether a deficiency in one or both of these isozymes results in elevated systemic exposure to formoterol or systemic adverse effects has not been adequately explored.</paragraph>
+                           </text>
+                           <effectiveTime value="20100321"/>
+                        </section>
+                     </component>
+                     <component>
+                        <section>
+                           <id root="6997a38d-7f83-44b5-bab8-7935af0e4595"/>
+                           <code codeSystem="2.16.840.1.113883.6.1" code="34090-1" displayName="CLINICAL PHARMACOLOGY SECTION"/>
+                           <title>
+                              <content styleCode="bold italics">Excretion</content>
+                           </title>
+                           <text>
+                              <paragraph>Following oral administration of 80 mcg of radiolabeled formoterol fumarate to 2 healthy subjects, 59%-62% of the radioactivity was eliminated in the urine and 32%-34% in the feces over a period of 104 hours. Renal clearance of formoterol from blood in these subjects was about 150 mL/min.  Following inhalation of a 12 mcg or 24 mcg dose by 16 patients with asthma, about 10% and 15%-18% of the total dose was excreted in the urine as unchanged formoterol and direct conjugates of formoterol, respectively. Following inhalation of 12 mcg or 24 mcg dose by 18 patients with COPD the corresponding values were 7% and 6-9% of the dose, respectively.</paragraph>
+                              <paragraph>
+		     
+	Based on plasma concentrations measured following inhalation of a single 120 mcg dose by 12 healthy subjects, the mean terminal elimination half-life was determined to be 10 hours. From urinary excretion rates measured in these subjects, the mean terminal elimination half-lives for the (R,R)- and (S,S)-enantiomers were determined to be 13.9 and 12.3 hours, respectively. The (R,R)- and (S,S)-enantiomers represented about 40% and 60% of unchanged drug excreted in the urine, respectively, following single inhaled doses between 12 and 120 mcg in healthy volunteers and single and repeated doses of 12 and 24 mcg in patients with asthma. Thus, the relative proportion of the two enantiomers remained constant over the dose range studied and there was no evidence of relative accumulation of one enantiomer over the other after repeated dosing.</paragraph>
+                           </text>
+                           <effectiveTime value="20100321"/>
+                        </section>
+                     </component>
+                     <component>
+                        <section>
+                           <id root="85e537fa-4a67-4525-a9d5-37711d3d94a2"/>
+                           <code codeSystem="2.16.840.1.113883.6.1" code="34090-1" displayName="CLINICAL PHARMACOLOGY SECTION"/>
+                           <title>
+                              <content styleCode="bold italics">Special Populations</content>
+                           </title>
+                           <text>
+                              <paragraph>
+                                 <content styleCode="italics">Gender: </content>After correction for body weight, formoterol pharmacokinetics did not differ significantly between males and females.</paragraph>
+                              <paragraph>
+                                 <content styleCode="italics">Geriatric and Pediatric: </content>The pharmacokinetics of formoterol have not been studied in the elderly population, and limited data are available in pediatric patients.</paragraph>
+                              <paragraph>
+		     
+	In a study of children with asthma who were 5 to 12 years of age, when formoterol fumarate 12 or 24 mcg was given twice daily by oral inhalation for 12 weeks, the accumulation index ranged from 1.18 to 1.84 based on urinary excretion of unchanged formoterol. Hence, the accumulation in children did not exceed that in adults, where the accumulation index ranged from 1.63 to 2.08 (see above).  Approximately 6% and 6.5% to 9% of the dose was recovered in the urine of the children as unchanged and conjugated formoterol, respectively.</paragraph>
+                              <paragraph>
+                                 <content styleCode="italics">Hepatic/Renal Impairment: </content>The pharmacokinetics of formoterol have not been studied in subjects with hepatic or renal impairment.</paragraph>
+                           </text>
+                           <effectiveTime value="20100321"/>
+                        </section>
+                     </component>
+                  </section>
+               </component>
+               <component>
+                  <section>
+                     <id root="d5c6d383-d48d-473f-bbec-608418559ccb"/>
+                     <code codeSystem="2.16.840.1.113883.6.1" code="34090-1" displayName="CLINICAL PHARMACOLOGY SECTION"/>
+                     <title>
+                        <content styleCode="bold">Pharmacodynamics</content>
+                     </title>
+                     <effectiveTime value="20100321"/>
+                     <component>
+                        <section>
+                           <id root="3ccc9d19-6717-4402-81a3-07ffe7e3fe98"/>
+                           <code codeSystem="2.16.840.1.113883.6.1" code="34090-1" displayName="CLINICAL PHARMACOLOGY SECTION"/>
+                           <title>
+                              <content styleCode="bold italics">Systemic Safety and Pharmacokinetic/Pharmacodynamic Relationships</content>
+                           </title>
+                           <text>
+                              <paragraph>The major adverse effects of inhaled beta<sub>2</sub>-agonists occur as a result of excessive activation of the systemic beta-adrenergic receptors. The most common adverse effects in adults and adolescents include skeletal muscle tremor and cramps, insomnia, tachycardia, decreases in plasma potassium, and increases in plasma glucose.</paragraph>
+                              <paragraph>
+		     
+	Pharmacokinetic/pharmacodynamic (PK/PD) relationships between heart rate, ECG parameters, and serum potassium levels and the urinary excretion of formoterol were evaluated in 10 healthy male volunteers (25 to 45 years of age) following inhalation of single doses containing 12, 24, 48, or 96 mcg of formoterol fumarate. There was a linear relationship between urinary formoterol excretion and decreases in serum potassium, increases in plasma glucose, and increases in heart rate.</paragraph>
+                              <paragraph>
+		     
+	In a second study, PK/PD relationships between plasma formoterol levels and pulse rate, ECG parameters, and plasma potassium levels were evaluated in 12 healthy volunteers following inhalation of a single 120 mcg dose of formoterol fumarate (10 times the recommended clinical dose).  Reductions of plasma potassium concentration were observed in all subjects. Maximum reductions from baseline ranged from 0.55 to 1.52 mmol/L with a median maximum reduction of 1.01 mmol/L. The formoterol plasma concentration was highly correlated with the reduction in plasma potassium concentration.  Generally, the maximum effect on plasma potassium was noted 1 to 3 hours after peak formoterol plasma concentrations were achieved. A mean maximum increase of pulse rate of 26 bpm was observed 6 hours post dose. The maximum increase of mean corrected QT interval (QTc) was 25 msec when calculated using Bazett's correction and was 8 msec when calculated using Fridericia's correction. The QTc returned to baseline within 12-24 hours post-dose. Formoterol plasma concentrations were weakly correlated with pulse rate and increase of QTc duration. The effects on plasma potassium, pulse rate, and QTc interval are known pharmacological effects of this class of study drug and were not unexpected at the very high formoterol dose (120 mcg single dose, 10 times the recommended single dose) tested in this study. These effects were well-tolerated by the healthy volunteers.  </paragraph>
+                              <paragraph>
+		     
+	The electrocardiographic and cardiovascular effects of FORADIL AEROLIZER were compared with those of albuterol and placebo in two pivotal 12-week double-blind studies of patients with asthma.  A subset of patients underwent continuous electrocardiographic monitoring during three 24-hour periods. No important differences in ventricular or supraventricular ectopy between treatment groups were observed. In these two studies, the total number of patients with asthma exposed to any dose of FORADIL AEROLIZER who had continuous electrocardiographic monitoring was about 200.</paragraph>
+                              <paragraph>
+		     
+	Continuous electrocardiographic monitoring was performed in an 8-week, randomized, double-blind, placebo controlled trial in 204 COPD patients treated with FORADIL AEROLIZER 12 mcg twice daily or placebo.  Holter monitoring was used to evaluate predefined proarrhythmic events.  Non-sustained ventricular tachycardia occurred in 2 (2.2%) of FORADIL AEROLIZER treated patients compared to none in the placebo group.  An increase in ventricular premature beats (VPB) occurred in 3 (3.3 %) of FORADIL AEROLIZER treated patients compared to 2 (1.9%) in the placebo group. There were no events of sustained of ventricular tachycardia, ventricular flutter or fibrillation, or symptomatic runs of VPB.  One patient in the FORADIL AEROLIZER group had a serious adverse event of atrial flutter.</paragraph>
+                              <paragraph> The electrocardiographic effects of FORADIL AEROLIZER were evaluated versus placebo in a 12-month pivotal double-blind study of patients with COPD. An analysis of ECG intervals was performed for patients who participated at study sites in the United States, including 46 patients treated with FORADIL AEROLIZER 12 mcg twice daily, and 50 patients treated with FORADIL AEROLIZER 24 mcg twice daily. ECGs were performed predose, and at 5-15 minutes and 2 hours post-dose at study baseline and after 3, 6 and 12 months of treatment. The results showed that there was no clinically meaningful acute or chronic effect on ECG intervals, including QTc, resulting from treatment with FORADIL AEROLIZER.</paragraph>
+                           </text>
+                           <effectiveTime value="20110505"/>
+                        </section>
+                     </component>
+                     <component>
+                        <section>
+                           <id root="ba40f121-c8a1-404b-b15b-92f9e598bdc3"/>
+                           <code codeSystem="2.16.840.1.113883.6.1" code="34090-1" displayName="CLINICAL PHARMACOLOGY SECTION"/>
+                           <title>
+                              <content styleCode="bold italics">Tachyphylaxis/Tolerance</content>
+                           </title>
+                           <text>
+                              <paragraph>In a clinical study in 19 adult patients with mild asthma, the bronchoprotective effect of formoterol, as assessed by methacholine challenge, was studied following an initial dose of 24 mcg (twice the recommended dose) and after 2 weeks of 24 mcg twice daily. Tolerance to the bronchoprotective effects of formoterol was observed as evidenced by a diminished bronchoprotective effect on FEV<sub>1</sub> after 2 weeks of dosing, with loss of protection at the end of the 12 hour dosing period.</paragraph>
+                              <paragraph>
+		     
+	Rebound bronchial hyper-responsiveness after cessation of chronic formoterol therapy has not been observed.</paragraph>
+                              <paragraph>
+		     
+	In three large clinical trials in patients with asthma, while efficacy of formoterol versus placebo was maintained, a slightly reduced bronchodilatory response (as measured by 12-hour FEV<sub>1</sub> AUC) was observed within the formoterol arms over time, particularly with the 24 mcg twice daily dose (twice the daily recommended dose). A similarly reduced FEV<sub>1</sub> AUC over time was also noted in the albuterol treatment arms (180 mcg four times daily by metered-dose inhaler).</paragraph>
+                           </text>
+                           <effectiveTime value="20100321"/>
+                        </section>
+                     </component>
+                  </section>
+               </component>
+            </section>
+         </component>
+         <component>
+            <section>
+               <id root="ea783aa7-47cd-4e2f-b9b2-faa78be1d860"/>
+               <code codeSystem="2.16.840.1.113883.6.1" code="34092-7" displayName="CLINICAL STUDIES SECTION"/>
+               <title>
+                  <content styleCode="bold">CLINICAL TRIALS</content>
+               </title>
+               <effectiveTime value="20100321"/>
+               <component>
+                  <observationMedia ID="MM02000002">
+                     <text>Figures 1a and 1b: Mean FEV1 from Clinical Trial A</text>
+                     <value xsi:type="ED" mediaType="image/jpeg">
+                        <reference value="foradil-02.jpg"/>
+                     </value>
+                  </observationMedia>
+               </component>
+               <component>
+                  <observationMedia ID="MM02000003">
+                     <text>Figures 1a and 1b: Mean FEV1 from Clinical Trial A</text>
+                     <value xsi:type="ED" mediaType="image/jpeg">
+                        <reference value="foradil-03.jpg"/>
+                     </value>
+                  </observationMedia>
+               </component>
+               <component>
+                  <observationMedia ID="MM02000004">
+                     <text>Figures 2a and 2b: Mean FEV1 from Clinical Trial B</text>
+                     <value xsi:type="ED" mediaType="image/jpeg">
+                        <reference value="foradil-04.jpg"/>
+                     </value>
+                  </observationMedia>
+               </component>
+               <component>
+                  <observationMedia ID="MM02000005">
+                     <text>Figures 2a and 2b: Mean FEV1 from Clinical Trial B</text>
+                     <value xsi:type="ED" mediaType="image/jpeg">
+                        <reference value="foradil-05.jpg"/>
+                     </value>
+                  </observationMedia>
+               </component>
+               <component>
+                  <observationMedia ID="MM03000006">
+                     <text>Figure 3 Mean FEV1 after 12 Weeks of treatment from COPD Trial A</text>
+                     <value xsi:type="ED" mediaType="image/jpeg">
+                        <reference value="foradil-06.jpg"/>
+                     </value>
+                  </observationMedia>
+               </component>
+               <component>
+                  <section>
+                     <id root="aea3189d-5cbd-40af-b2f9-bf14ea68552f"/>
+                     <code codeSystem="2.16.840.1.113883.6.1" code="34092-7" displayName="CLINICAL STUDIES SECTION"/>
+                     <title>
+                        <content styleCode="bold">Adolescent and Adult Asthma Trials</content>
+                     </title>
+                     <text>
+                        <paragraph>In a placebo-controlled, single-dose clinical trial, the onset of bronchodilation (defined as a 15% or greater increase from baseline in FEV<sub>1</sub>) was similar for FORADIL AEROLIZER and albuterol 180 mcg by metered-dose inhaler.</paragraph>
+                        <paragraph>
+		     
+	In single-dose and multiple-dose clinical trials, the maximum improvement in FEV<sub>1</sub> for FORADIL AEROLIZER 12 mcg generally occurred within 1 to 3 hours, and an increase in FEV<sub>1</sub> above baseline was observed for 12 hours in most patients.</paragraph>
+                        <paragraph>
+		     
+	FORADIL AEROLIZER 12 mcg twice daily was compared to FORADIL AEROLIZER 24 mcg twice daily, albuterol 180 mcg four times daily by metered-dose inhaler, and placebo in a total of 1095 adult and adolescent patients 12 years of age and above with mild-to-moderate asthma (defined as FEV<sub>1</sub> 40%-80% of the patient's predicted normal value) who participated in two pivotal, 12-week, multi-center, randomized, double-blind, parallel group studies.</paragraph>
+                        <paragraph>
+		     
+	The results of both studies showed that FORADIL AEROLIZER 12 mcg twice daily resulted in significantly greater post-dose bronchodilation (as measured by serial FEV<sub>1</sub> for 12 hours post-dose) throughout the 12-week treatment period. There was no significant difference in post-dose bronchodilation between FORADIL AEROLIZER 12 mcg twice daily and FORADIL AEROLIZER 24 mcg twice daily, but serious asthma exacerbations occurred more commonly in the higher dose group (see WARNINGS and ADVERSE REACTIONS). Mean FEV<sub>1</sub> measurements from both studies are shown below for the first and last treatment days (see Figures 1 and 2).</paragraph>
+                        <renderMultiMedia referencedObject="MM02000002">
+                           <caption>Figures 1a and 1b: Mean FEV1 from Clinical Trial A</caption>
+                        </renderMultiMedia>
+                        <renderMultiMedia referencedObject="MM02000003">
+                           <caption>Figures 1a and 1b: Mean FEV1 from Clinical Trial A</caption>
+                        </renderMultiMedia>
+                        <renderMultiMedia referencedObject="MM02000004">
+                           <caption>Figures 2a and 2b: Mean FEV1 from Clinical Trial B</caption>
+                        </renderMultiMedia>
+                        <renderMultiMedia referencedObject="MM02000005">
+                           <caption>Figures 2a and 2b: Mean FEV1 from Clinical Trial B</caption>
+                        </renderMultiMedia>
+                        <paragraph>
+		     
+	Compared with placebo and albuterol, patients treated with FORADIL AEROLIZER 12 mcg demonstrated improvement in many secondary efficacy endpoints, including improved combined and nocturnal asthma symptom scores, fewer nighttime awakenings, fewer nights in which patients used rescue medication, and higher morning and evening peak flow rates.  FORADIL AEROLIZER 24 mcg twice daily did not provide any additional improvements in these secondary endpoints compared to FORADIL AEROLIZER 12 mcg twice daily.</paragraph>
+                        <paragraph>
+		     
+	A 16-week, randomized, multi-center, double-blind, parallel-group study enrolled 1568 patients 12 years of age and older with mild-to-moderate asthma (defined as FEV<sub>1</sub> ≥40% of the patient’s predicted normal value) in three treatment groups: FORADIL AEROLIZER 12 mcg twice daily, FORADIL AEROLIZER 24 mcg twice daily, and placebo.  The study’s primary endpoint was the incidence of serious asthma-related adverse events.  Serious asthma exacerbations occurred in 3 (0.6%) patients who received FORADIL AEROLIZER 12 mcg twice daily, 2 (0.4%) patients who received FORADIL AEROLIZER 24 mcg twice daily, and 1 (0.2%) patient who received placebo.  The size of this study was not adequate to precisely quantify the differences in serious asthma exacerbation rates between treatment groups.  All serious asthma exacerbations resulted in hospitalizations.  While there were no deaths in the study, the duration and size of this study were not adequate to quantify the rate of asthma-related death.  See WARNINGS for information about a study which compared another long-acting beta<sub>2</sub>-adrenergic agonist to placebo.</paragraph>
+                     </text>
+                     <effectiveTime value="20100321"/>
+                  </section>
+               </component>
+               <component>
+                  <section>
+                     <id root="6f373f06-b96e-43ac-b69c-cccc66fd3abd"/>
+                     <code codeSystem="2.16.840.1.113883.6.1" code="34092-7" displayName="CLINICAL STUDIES SECTION"/>
+                     <title>
+                        <content styleCode="bold">Pediatric Asthma Trial</content>
+                     </title>
+                     <text>
+                        <paragraph>A 12-month, multi-center, randomized, double-blind, parallel-group, study compared FORADIL AEROLIZER 12 mcg twice daily and FORADIL AEROLIZER 24 mcg twice daily to placebo in a total of 518 children with asthma (ages 5-12 years) who required daily bronchodilators and anti-inflammatory treatment. Efficacy was evaluated on the first day of treatment, at Week 12, and at the end of treatment.</paragraph>
+                        <paragraph>
+		     
+	FORADIL AEROLIZER 12 mcg twice daily demonstrated a greater 12-hour FEV<sub>1</sub> AUC compared to placebo on the first day of treatment, after twelve weeks of treatment, and after one year of treatment.  FORADIL AEROLIZER 24 mcg twice daily did not result in any additional improvement in 12-hour FEV<sub>1 </sub>AUC compared to FORADIL AEROLIZER 12 mcg twice daily.</paragraph>
+                     </text>
+                     <effectiveTime value="20100321"/>
+                  </section>
+               </component>
+               <component>
+                  <section>
+                     <id root="253c5643-319d-4aa0-a432-bf28d48cda36"/>
+                     <code codeSystem="2.16.840.1.113883.6.1" code="34092-7" displayName="CLINICAL STUDIES SECTION"/>
+                     <title>
+                        <content styleCode="bold">Exercise-Induced Bronchospasm Trials</content>
+                     </title>
+                     <text>
+                        <paragraph>The effect of FORADIL AEROLIZER on exercise-induced bronchospasm (defined as &gt;20% fall in FEV<sub>1</sub>) was examined in four randomized, single-dose, double-blind, crossover studies in a total of 77 patients 4 to 41 years of age with exercise-induced bronchospasm. Exercise challenge testing was conducted 15 minutes, and 4, 8, and 12 hours following administration of a single dose of study drug (FORADIL AEROLIZER 12 mcg, albuterol 180 mcg by metered-dose inhaler, or placebo) on separate test days. FORADIL AEROLIZER 12 mcg and albuterol 180 mcg were each superior to placebo for FEV<sub>1</sub> measurements obtained 15 minutes after study drug administration. FORADIL AEROLIZER 12 mcg maintained superiority over placebo at 4, 8, and 12 hours after administration. Most subjects were protected from exercise-induced bronchospasm for up to 12 hours following administration of FORADIL AEROLIZER; however, some were not. The efficacy of FORADIL AEROLIZER in the prevention of exercise-induced bronchospasm when dosed on a regular twice daily regimen has not been studied.</paragraph>
+                     </text>
+                     <effectiveTime value="20100321"/>
+                  </section>
+               </component>
+               <component>
+                  <section>
+                     <id root="7511648e-f409-4db0-8afd-95679741f3a9"/>
+                     <code codeSystem="2.16.840.1.113883.6.1" code="34092-7" displayName="CLINICAL STUDIES SECTION"/>
+                     <title>
+                        <content styleCode="bold">Adult COPD Trials</content>
+                     </title>
+                     <text>
+                        <paragraph>In multiple-dose clinical trials in patients with COPD, FORADIL AEROLIZER 12 mcg was shown to provide onset of significant bronchodilation (defined as 15% or greater increase from baseline in FEV<sub>1</sub>) within 5 minutes of oral inhalation after the first dose. Bronchodilation was maintained for at least 12 hours.</paragraph>
+                        <paragraph>
+		     
+	FORADIL AEROLIZER was studied in two pivotal, double-blind, placebo-controlled, randomized, multi-center, parallel-group trials in a total of 1634 adult patients (age range: 34-88 years; mean age: 63 years) with COPD who had a mean FEV<sub>1</sub> that was 46% of predicted. The diagnosis of COPD was based upon a prior clinical diagnosis of COPD, a smoking history (greater than 10 pack-years), age (at least 40 years), spirometry results (prebronchodilator baseline FEV<sub>1</sub> less than 70% of the predicted value, and at least 0.75 liters, with the FEV<sub>1</sub>/VC being less than 88% for men and less than 89% for women), and symptom score (greater than zero on at least four of the seven days prior to randomization).  These studies included approximately equal numbers of patients with and without baseline bronchodilator reversibility, defined as a 15% or greater increase FEV<sub>1</sub> after inhalation of 200 mcg of albuterol sulfate. A total of 405 patients received FORADIL AEROLIZER 12 mcg, administered twice daily. Each trial compared FORADIL AEROLIZER 12 mcg twice daily and FORADIL AEROLIZER 24 mcg twice daily with placebo and an active control drug. The active control drug was ipratropium bromide in COPD Trial A, and slow-release theophylline in COPD Trial B (the theophylline arm in this study was open-label). The treatment period was 12 weeks in COPD Trial A, and 12 months in COPD Trial B.</paragraph>
+                        <paragraph>
+		     
+	The results showed that FORADIL AEROLIZER 12 mcg twice daily resulted in significantly greater post-dose bronchodilation (as measured by serial FEV<sub>1</sub> for 12 hours post-dose; the primary efficacy analysis) compared to placebo when evaluated after 12 weeks of treatment in both trials, and after 12 months of treatment in the 12-month trial (COPD Trial B). Compared to FORADIL AEROLIZER 12 mcg twice daily, FORADIL AEROLIZER 24 mcg twice daily did not provide any additional benefit on a variety of endpoints including FEV1.</paragraph>
+                        <paragraph>
+		     
+	Mean FEV<sub>1</sub> measurements after 12 weeks of treatment for one of the two major efficacy studies are shown in the figure below.</paragraph>
+                        <renderMultiMedia referencedObject="MM03000006">
+                           <caption>Figure 3 Mean FEV1 after 12 Weeks of treatment from COPD Trial A</caption>
+                        </renderMultiMedia>
+                        <paragraph>
+		     
+	FORADIL AEROLIZER 12 mcg twice daily was statistically superior to placebo at all post-dose timepoints tested (from 5 minutes to 12 hours post-dose) throughout the 12-week (COPD Trial A) and 12-month (COPD Trial B) treatment periods.</paragraph>
+                        <paragraph>
+		     
+	In both pivotal trials compared with placebo, patients treated with FORADIL AEROLIZER 12 mcg demonstrated improved morning pre-medication peak expiratory flow rates and took fewer puffs of rescue albuterol.</paragraph>
+                     </text>
+                     <effectiveTime value="20100321"/>
+                  </section>
+               </component>
+            </section>
+         </component>
+         <component>
+            <section>
+               <id root="9b9f67cc-a6fa-48df-9531-e51bceaba64e"/>
+               <code codeSystem="2.16.840.1.113883.6.1" code="34067-9" displayName="INDICATIONS &amp; USAGE SECTION"/>
+               <title>
+                  <content styleCode="bold">INDICATIONS AND USAGE</content>
+               </title>
+               <effectiveTime value="20100321"/>
+               <component>
+                  <section>
+                     <id root="92a818f4-e777-4f4a-a96f-1eac84462be4"/>
+                     <code codeSystem="2.16.840.1.113883.6.1" code="34067-9" displayName="INDICATIONS &amp; USAGE SECTION"/>
+                     <title>
+                        <content styleCode="bold">Asthma</content>
+                     </title>
+                     <text>
+                        <paragraph>FORADIL AEROLIZER is indicated for the treatment of asthma and in the prevention of bronchospasm only as concomitant therapy with a long-term asthma control medication, such as an inhaled corticosteroid, in adults and children 5 years of age and older with reversible obstructive airways disease, including patients with symptoms of nocturnal asthma. </paragraph>
+                        <paragraph>
+		     
+	 Long-acting beta<sub>2</sub>-adrenergic agonists (LABA), such as formoterol, the active ingredient in FORADIL AEROLIZER, increase the risk of asthma-related death (see WARNINGS). Use of FORADIL AEROLIZER for the treatment of asthma without concomitant use of a long-term asthma control medication, such as an inhaled corticosteroid, is contraindicated. Use FORADIL AEROLIZER only as additional therapy for patients with asthma who are currently taking but are inadequately controlled on a long-term asthma control medication, such as an inhaled corticosteroid. Once asthma control is achieved and maintained, assess the patient at regular intervals and step down therapy (e.g. discontinue FORADIL AEROLIZER) if possible without loss of asthma control, and maintain the patient on a long-term asthma control medication, such as an inhaled corticosteroid. Do not use FORADIL AEROLIZER for patients whose asthma is adequately controlled on low or medium dose inhaled corticosteroids.</paragraph>
+                     </text>
+                     <effectiveTime value="20100321"/>
+                     <component>
+                        <section>
+                           <id root="59ecf22b-5cb5-464c-9d2b-046aeb5c4296"/>
+                           <code codeSystem="2.16.840.1.113883.6.1" code="34067-9" displayName="INDICATIONS &amp; USAGE SECTION"/>
+                           <title>
+                              <content styleCode="bold italics">Pediatric and Adolescent Patients</content>
+                           </title>
+                           <text>
+                              <paragraph>Available data from controlled clinical trials suggest that LABA increase the risk of asthma-related hospitalization in pediatric and adolescent patients (see WARNINGS). For pediatric and adolescent patients with asthma who require addition of a LABA to an inhaled corticosteroid, a fixed-dose combination product containing both an inhaled corticosteroid and LABA should ordinarily be used to ensure adherence with both drugs. In cases where use of a separate long-term asthma control medication (e.g. inhaled corticosteroid) and LABA is clinically indicated, appropriate steps must be taken to ensure adherence with both treatment components. If adherence cannot be assured, a fixed-dose combination product containing both an inhaled corticosteroid and LABA is recommended.</paragraph>
+                           </text>
+                           <effectiveTime value="20100321"/>
+                        </section>
+                     </component>
+                  </section>
+               </component>
+               <component>
+                  <section>
+                     <id root="23c6c1eb-5485-4391-8c57-cb509924bba0"/>
+                     <code codeSystem="2.16.840.1.113883.6.1" code="34067-9" displayName="INDICATIONS &amp; USAGE SECTION"/>
+                     <title>
+                        <content styleCode="bold">Exercise-Induced Bronchospasm</content>
+                     </title>
+                     <text>
+                        <paragraph>FORADIL AEROLIZER is also indicated for the acute prevention of exercise-induced bronchospasm (EIB) in adults and children 5 years of age and older, when administered on an occasional, as-needed basis.  Use of FORADIL AEROLIZER as a single agent for the prevention of exercise-induced bronchospasm may be clinically indicated in patients who do not have persistent asthma.  In patients with persistent asthma, use of FORADIL AEROLIZER for the prevention of exercise-induced bronchospasm may be clinically indicated, but the treatment of asthma should include a long-term asthma control medication, such as an inhaled corticosteroid.</paragraph>
+                     </text>
+                     <effectiveTime value="20100321"/>
+                  </section>
+               </component>
+               <component>
+                  <section>
+                     <id root="58722819-5e7e-4e5e-92fa-88fb8b9c67bb"/>
+                     <code codeSystem="2.16.840.1.113883.6.1" code="34067-9" displayName="INDICATIONS &amp; USAGE SECTION"/>
+                     <title>
+                        <content styleCode="bold">Chronic Obstructive Pulmonary Disease</content>
+                     </title>
+                     <text>
+                        <paragraph>FORADIL AEROLIZER is indicated for the long-term, twice daily (morning and evening) administration in the maintenance treatment of bronchoconstriction in patients with Chronic Obstructive Pulmonary Disease including chronic bronchitis and emphysema.</paragraph>
+                     </text>
+                     <effectiveTime value="20100321"/>
+                  </section>
+               </component>
+            </section>
+         </component>
+         <component>
+            <section>
+               <id root="cf076e2f-dbcd-415f-a7c7-17630c96d7d5"/>
+               <code codeSystem="2.16.840.1.113883.6.1" code="34070-3" displayName="CONTRAINDICATIONS SECTION"/>
+               <title>
+                  <content styleCode="bold">CONTRAINDICATIONS</content>
+               </title>
+               <text>
+                  <paragraph>
+                     <content styleCode="bold">Because of the risk of asthma-related death and hospitalization, use of FORADIL AEROLIZER for the treatment of asthma without concomitant use of a long-term asthma control medication, such as an inhaled corticosteroid, is contraindicated (see Warnings – Asthma Related Death).</content>
+                  </paragraph>
+                  <paragraph>FORADIL (formoterol fumarate) is contraindicated in patients with a history of hypersensitivity to formoterol fumarate or to any components of this product.</paragraph>
+               </text>
+               <effectiveTime value="20100321"/>
+            </section>
+         </component>
+         <component>
+            <section>
+               <id root="25e444de-633e-4ffb-ae5e-73224fc70fbd"/>
+               <code codeSystem="2.16.840.1.113883.6.1" code="34071-1" displayName="WARNINGS SECTION"/>
+               <title>
+                  <content styleCode="bold">WARNINGS</content>
+               </title>
+               <text>
+                  <paragraph>
+                     <content styleCode="bold">ASTHMA RELATED DEATH</content>
+                  </paragraph>
+                  <paragraph>
+                     <content styleCode="bold">Long-acting beta</content>
+                     <content styleCode="bold">
+                        <sub>2</sub>
+                     </content>
+                     <content styleCode="bold">-adrenergic agonists, such as formoterol, the active ingredient in FORADIL AEROLIZER, increase the risk of asthma-related death. Currently available data are inadequate to determine whether concurrent use of inhaled corticosteroids or other long-term asthma control drugs mitigates the increased risk of asthma-related death from LABA.</content>
+                  </paragraph>
+                  <paragraph>
+                     <content styleCode="bold">Because of this risk, use of FORADIL AEROLIZER for the treatment of asthma without concomitant use of a long-term asthma control medication, such as an inhaled corticosteroid, is contraindicated. Use FORADIL AEROLIZER only as additional therapy for patients with asthma who are currently taking but are inadequately controlled on a long-term asthma control medication, such as an inhaled corticosteroid. Once asthma control is achieved and maintained, assess the patient at regular intervals and step down therapy (e.g. discontinue FORADIL AEROLIZER) if possible without loss of asthma control, and maintain the patient on a long-term asthma control medication, such as an inhaled corticosteroid. Do not use FORADIL AEROLIZER for patients whose asthma is adequately controlled on low or medium dose inhaled corticosteroids. </content>
+                  </paragraph>
+               </text>
+               <effectiveTime value="20100321"/>
+               <component>
+                  <section>
+                     <id root="9b0d1580-6fab-4038-8f13-3372a33a0cd8"/>
+                     <code codeSystem="2.16.840.1.113883.6.1" code="34071-1" displayName="WARNINGS SECTION"/>
+                     <title>
+                        <content styleCode="bold italics">Pediatric and Adolescent Patients</content>
+                     </title>
+                     <text>
+                        <paragraph>
+                           <content styleCode="bold">Available data from controlled clinical trials suggest that LABA increase the risk of asthma-related hospitalization in pediatric and adolescent patients. For pediatric and adolescent patients with asthma who require addition of a LABA to an inhaled corticosteroid, a fixed-dose combination product containing both an inhaled corticosteroid and LABA should ordinarily be considered to ensure adherence with both drugs. In cases where use of a separate long-term asthma control medication (e.g. inhaled corticosteroid) and LABA is clinically indicated, appropriate steps must be taken to ensure adherence with both treatment components. If adherence cannot be assured, a fixed-dose combination product containing both an inhaled corticosteroid and LABA is recommended.</content>
+                        </paragraph>
+                        <paragraph>A 28-week, placebo-controlled US study comparing the safety of salmeterol with placebo, each added to usual asthma therapy, showed an increase in asthma-related deaths in patients receiving salmeterol (13/13,176 in patients treated with salmeterol vs. 3/13,179 in patients treated with placebo; RR 4.37, 95% CI 1.25, 15.34).  The increased risk of asthma-related death is considered a class effect of the long-acting beta<sub>2</sub>-adrenergic agonists, including formoterol.  No study adequate to determine whether the rate of asthma-related death is increased with FORADIL AEROLIZER has been conducted.</paragraph>
+                        <paragraph>Clinical studies with FORADIL AEROLIZER suggested a higher incidence of serious asthma exacerbations in patients who received FORADIL AEROLIZER than in those who received placebo (See ADVERSE REACTIONS).  The sizes of these studies were not adequate to precisely quantify the differences in serious asthma exacerbation rates between treatment groups.</paragraph>
+                        <paragraph>
+                           <content styleCode="bold">The studies described above enrolled patients with asthma.  No studies have been conducted that were adequate to determine whether the rate of death in patients with COPD is increased by long-acting beta</content>
+                           <content styleCode="bold">
+                              <sub>2</sub>
+                           </content>
+                           <content styleCode="bold">-adrenergic agonists.</content>
+                        </paragraph>
+                        <list listType="unordered" styleCode="Disc" ID="i8a53d828-9e9a-41bc-8ed2-301c5818c96a">
+                           <item>
+                              <content styleCode="bold">FORADIL AEROLIZER should not be initiated in patients with significantly worsening or acutely deteriorating asthma, which may be a life-threatening condition. The use of FORADIL AEROLIZER in this setting is inappropriate.</content>
+                              <br/>
+                           </item>
+                           <item>
+                              <content styleCode="bold">FORADIL AEROLIZER should not be used in conjunction with an inhaled, long-acting beta</content>
+                              <content styleCode="bold">
+                                 <sub>2</sub>
+                              </content>
+                              <content styleCode="bold">-agonist.  FORADIL AEROLIZER should not be used with other medications containing long-acting beta</content>
+                              <content styleCode="bold">
+                                 <sub>2</sub>
+                              </content>
+                              <content styleCode="bold">-agonists.</content>
+                              <br/>
+                           </item>
+                           <item>
+                              <content styleCode="bold">FORADIL AEROLIZER is not a substitute for inhaled or oral corticosteroids.  Corticosteroids should not be stopped or reduced at the time FORADIL AEROLIZER is initiated.  </content>
+                              <br/>
+                           </item>
+                           <item>
+                              <content styleCode="bold">When beginning treatment with FORADIL AEROLIZER, patients who have been taking</content> <content styleCode="bold">inhaled, short-acting beta</content>
+                              <content styleCode="bold">
+                                 <sub>2</sub>
+                              </content>
+                              <content styleCode="bold">-agonists on a regular basis (e.g., four times a day) should be</content> <content styleCode="bold">instructed to discontinue the regular use of these drugs and use them only for symptomatic</content> <content styleCode="bold">relief of acute asthma symptoms</content>
+                              <content styleCode="bold">.</content>
+                              <content styleCode="bold"> </content>
+                              <br/>
+                           </item>
+                           <item>
+                              <content styleCode="bold">See PRECAUTIONS, Information for Patients and the accompanying Medication Guide. </content>
+                           </item>
+                        </list>
+                     </text>
+                     <effectiveTime value="20100321"/>
+                  </section>
+               </component>
+               <component>
+                  <section>
+                     <id root="a994dbae-05d5-478c-9053-f1cc326e3022"/>
+                     <code codeSystem="2.16.840.1.113883.6.1" code="34071-1" displayName="WARNINGS SECTION"/>
+                     <title>
+                        <content styleCode="bold">Paradoxical Bronchospasm</content>
+                     </title>
+                     <text>
+                        <paragraph>As with other inhaled beta<sub>2</sub>-agonists, formoterol can produce paradoxical bronchospasm, that may be life-threatening. If paradoxical bronchospasm occurs, FORADIL AEROLIZER should be discontinued immediately and alternative therapy instituted.</paragraph>
+                     </text>
+                     <effectiveTime value="20100321"/>
+                  </section>
+               </component>
+               <component>
+                  <section>
+                     <id root="291fc714-43d2-4e90-a977-9208574f32c6"/>
+                     <code codeSystem="2.16.840.1.113883.6.1" code="34071-1" displayName="WARNINGS SECTION"/>
+                     <title>
+                        <content styleCode="bold">Deterioration of Asthma</content>
+                     </title>
+                     <text>
+                        <paragraph>Asthma may deteriorate acutely over a period of hours or chronically over several days or longer. It is important to watch for signs of worsening asthma, such as increasing use of inhaled, short-acting beta<sub>2</sub>-adrenergic agonists or a significant decrease in peak expiratory flow (PEF) or lung function.  Such findings require immediate evaluation.  Patients should be advised to seek immediate attention should their condition deteriorate.  Increasing the daily dosage of FORADIL AEROLIZER beyond the recommended dose in this situation is not appropriate. FORADIL AEROLIZER should not be used more frequently than twice daily (morning and evening) at the recommended dose.</paragraph>
+                     </text>
+                     <effectiveTime value="20100321"/>
+                  </section>
+               </component>
+               <component>
+                  <section>
+                     <id root="7de9efad-bb7c-4df5-bc14-714c713e9c7c"/>
+                     <code codeSystem="2.16.840.1.113883.6.1" code="34071-1" displayName="WARNINGS SECTION"/>
+                     <title>
+                        <content styleCode="bold">Use of Anti-inflammatory Agents</content>
+                     </title>
+                     <text>
+                        <paragraph>There are no data demonstrating that FORADIL has any clinical anti-inflammatory effect and therefore it cannot be expected to take the place of corticosteroids. Patients who require oral or inhaled corticosteroids for treatment of asthma should be continued on this type of treatment even if they feel better as a result of initiating FORADIL AEROLIZER. Any change in corticosteroid dosage, in particular a reduction, should be made ONLY after clinical evaluation (see PRECAUTIONS, Information for Patients).</paragraph>
+                     </text>
+                     <effectiveTime value="20100321"/>
+                  </section>
+               </component>
+               <component>
+                  <section>
+                     <id root="3dc2c0a9-9c10-4554-9ab2-761991d89506"/>
+                     <code codeSystem="2.16.840.1.113883.6.1" code="34071-1" displayName="WARNINGS SECTION"/>
+                     <title>
+                        <content styleCode="bold">Cardiovascular Effects</content>
+                     </title>
+                     <text>
+                        <paragraph>Formoterol fumarate, like other beta<sub>2</sub>-agonists, can produce a clinically significant cardiovascular effect in some patients as measured by increases in pulse rate, blood pressure, and/or symptoms. Although such effects are uncommon after administration of FORADIL AEROLIZER at recommended doses, if they occur, the drug may need to be discontinued. In addition, beta-agonists have been reported to produce ECG changes, such as flattening of the T wave, prolongation of the QTc interval, and ST segment depression. The clinical significance of these findings is unknown. Therefore, formoterol fumarate, like other sympathomimetic amines, should be used with caution in patients with cardiovascular disorders, especially coronary insufficiency, cardiac arrhythmias, and hypertension (see PRECAUTIONS, General).</paragraph>
+                     </text>
+                     <effectiveTime value="20100321"/>
+                  </section>
+               </component>
+               <component>
+                  <section>
+                     <id root="3b28b133-d7b8-4723-9c1c-020a0ed48350"/>
+                     <code codeSystem="2.16.840.1.113883.6.1" code="34071-1" displayName="WARNINGS SECTION"/>
+                     <title>
+                        <content styleCode="bold">Immediate Hypersensitivity Reactions</content>
+                     </title>
+                     <text>
+                        <paragraph>Immediate hypersensitivity reactions may occur after administration of FORADIL AEROLIZER, as demonstrated by cases of anaphylactic reactions, urticaria, angioedema, rash, and bronchospasm.</paragraph>
+                     </text>
+                     <effectiveTime value="20100321"/>
+                  </section>
+               </component>
+               <component>
+                  <section>
+                     <id root="72b100ee-6057-4b67-980c-400b88fb37f3"/>
+                     <code codeSystem="2.16.840.1.113883.6.1" code="34071-1" displayName="WARNINGS SECTION"/>
+                     <title>
+                        <content styleCode="bold">Do Not Exceed Recommended Dose</content>
+                     </title>
+                     <text>
+                        <paragraph>Fatalities have been reported in association with excessive use of inhaled sympathomimetic drugs in patients with asthma. The exact cause of death is unknown, but cardiac arrest following an unexpected development of a severe acute asthmatic crisis and subsequent hypoxia is suspected.  In addition, data from clinical trials with FORADIL AEROLIZER suggest that the use of doses higher than recommended is associated with an increased risk of serious asthma exacerbations (see ADVERSE REACTIONS).</paragraph>
+                     </text>
+                     <effectiveTime value="20100321"/>
+                  </section>
+               </component>
+            </section>
+         </component>
+         <component>
+            <section>
+               <id root="c272470c-a77e-4b78-90cc-4b2b2c28d06c"/>
+               <code codeSystem="2.16.840.1.113883.6.1" code="42232-9" displayName="PRECAUTIONS SECTION"/>
+               <title>
+                  <content styleCode="bold">PRECAUTIONS</content>
+               </title>
+               <effectiveTime value="20100321"/>
+               <component>
+                  <section>
+                     <id root="7a47dde5-1131-4b10-84bd-c68751ff05fc"/>
+                     <code codeSystem="2.16.840.1.113883.6.1" code="34072-9" displayName="GENERAL PRECAUTIONS SECTION"/>
+                     <title>
+                        <content styleCode="bold">General</content>
+                     </title>
+                     <text>
+                        <paragraph>FORADIL AEROLIZER should not be used to treat acute symptoms of asthma. FORADIL AEROLIZER has not been studied in the relief of acute asthma symptoms and extra doses should not be used for that purpose. When prescribing FORADIL AEROLIZER, the physician should also provide the patient with an inhaled, short-acting beta<sub>2</sub>-agonist for treatment of symptoms that occur acutely, despite regular twice-daily (morning and evening) use of FORADIL AEROLIZER. Patients should also be cautioned that increasing inhaled beta<sub>2</sub>-agonist use is a signal of deteriorating asthma. (See Information for Patients and the accompanying Medication Guide.)</paragraph>
+                        <paragraph>
+		     
+	Formoterol fumarate, like other sympathomimetic amines, should be used with caution in patients with cardiovascular disorders, especially coronary insufficiency, cardiac arrhythmias, and hypertension; in patients with convulsive disorders or thyrotoxicosis; and in patients who are unusually responsive to sympathomimetic amines. Clinically significant changes in systolic and/or diastolic blood pressure, pulse rate and electrocardiograms have been seen infrequently in individual patients in controlled clinical studies with formoterol. Doses of the related beta<sub>2</sub>-agonist albuterol, when administered intravenously, have been reported to aggravate preexisting diabetes mellitus and ketoacidosis.</paragraph>
+                        <paragraph>
+		     
+	Beta-agonist medications may produce significant hypokalemia in some patients, possibly through intracellular shunting, which has the potential to produce adverse cardiovascular effects. The decrease in serum potassium is usually transient, not requiring supplementation.</paragraph>
+                        <paragraph>
+		     
+	Clinically significant changes in blood glucose and/or serum potassium were infrequent during clinical studies with long-term administration of FORADIL AEROLIZER at the recommended dose.</paragraph>
+                        <paragraph>
+		     
+	FORADIL AEROLIZER contains lactose, which contains trace levels of milk proteins.  Allergic reactions to products containing milk proteins may occur in patients with severe milk protein allergy.</paragraph>
+                        <paragraph>
+		     
+	FORADIL capsules should ONLY be used with the AEROLIZER Inhaler and SHOULD NOT be taken orally.</paragraph>
+                        <paragraph>
+		     
+	FORADIL capsules should always be stored in the blister, and only removed IMMEDIATELY before use.</paragraph>
+                     </text>
+                     <effectiveTime value="20100321"/>
+                  </section>
+               </component>
+               <component>
+                  <section>
+                     <id root="7834b766-0726-4479-b5f9-463f3bd6ca5d"/>
+                     <code codeSystem="2.16.840.1.113883.6.1" code="42232-9" displayName="PRECAUTIONS SECTION"/>
+                     <title>
+                        <content styleCode="bold">Information for Patients</content>
+                     </title>
+                     <text>
+                        <paragraph>
+                           <content styleCode="bold">Patients should be instructed to read the accompanying Medication Guide with each new prescription and refill.  The complete text of the Medication Guide is reprinted at the end of this document</content>.  Patients should be given the following information:</paragraph>
+                        <list listType="ordered" styleCode="Arabic" ID="i278bbe7d-653d-474d-8e09-e2ee4f1ca1e1">
+                           <item>
+                              <content styleCode="bold">Patients should be informed that long-acting beta</content>
+                              <content styleCode="bold">
+                                 <sub>2</sub>
+                              </content>
+                              <content styleCode="bold">-adrenergic agonists (LABA), including formoterol, the active ingredient in FORADIL AEROLIZER, increase the risk of asthma-related death and may increase the risk of asthma-related hospitalizations in pediatric and adolescent patients. Currently available data are inadequate to determine whether concurrent use of inhaled corticosteroids or other long-term asthma control drugs mitigates the increased risk of asthma- related death from LABA. 
+Patients should be informed that FORADIL AEROLIZER should not be the only therapy for the treatment of asthma and must only be used as additional therapy when a long-term asthma control medication (e.g., inhaled corticosteroids) do not adequately control asthma symptoms. Patients should be informed that when FORADIL AEROLIZER is added to their treatment regimen they must continue to use their long-term asthma control medication. 
+</content>
+                              <br/>
+                           </item>
+                           <item>FORADIL AEROLIZER is not indicated to relieve acute asthma symptoms and extra doses should not be used for that purpose. Acute symptoms should be treated with an inhaled, short-acting, beta<sub>2</sub>-agonist (the health-care provider should prescribe the patient with such medication and instruct the patient in how it should be used). Patients should be instructed to seek medical attention if their symptoms worsen, if FORADIL AEROLIZER treatment becomes less effective, or if they need more inhalations of a short-acting beta<sub>2</sub>-agonist than usual. Patients should not inhale more than the contents of one capsule at any one time. The daily dosage of FORADIL AEROLIZER should not exceed one capsule twice daily (24 mcg total daily dose).<br/>
+                           </item>
+                           <item>FORADIL AEROLIZER should not be used as a substitute for oral or inhaled corticosteroids. The dosage of these medications should not be changed and they should not be stopped without consulting the physician, even if the patient feels better after initiating treatment with FORADIL AEROLIZER.<br/>
+                           </item>
+                           <item>The active ingredient of FORADIL (formoterol fumarate) is a long-acting, bronchodilator used for the treatment of asthma, including nocturnal asthma, and for the prevention of exercise-induced bronchospasm.  FORADIL AEROLIZER provides bronchodilation for up to 12 hours. Patients should be advised not to increase the dose or frequency of FORADIL AEROLIZER without consulting the prescribing physician. Patients should be warned not to stop or reduce concomitant asthma therapy without medical advice.<br/>
+                           </item>
+                           <item>When FORADIL AEROLIZER is used for the prevention of EIB, the contents of one capsule should be taken at least 15 minutes prior to exercise. Additional doses of FORADIL AEROLIZER should not be used for 12 hours. Prevention of EIB has not been studied in patients who are receiving chronic FORADIL AEROLIZER administration twice daily and these patients should not use additional FORADIL AEROLIZER for prevention of EIB.<br/>
+                           </item>
+                           <item>Patients should be informed that treatment with beta<sub>2</sub>-agonists may lead to adverse events which include palpitations, chest pain, rapid heart rate, tremor or nervousness. <br/>
+                           </item>
+                           <item>Patients should be informed never to use FORADIL AEROLIZER with a spacer and never to exhale into the device.<br/>
+                           </item>
+                           <item>Patients should avoid exposing the FORADIL capsules to moisture and should handle the capsules with dry hands. The AEROLIZER Inhaler should never be washed and should be kept dry. The patient should always use the new AEROLIZER Inhaler that comes with each refill.<br/>
+                           </item>
+                           <item>Women should be advised to contact their physician if they become pregnant or if they are nursing.<br/>
+                           </item>
+                           <item>Patients should be told that in rare cases, the gelatin capsule might break into small pieces. These pieces should be retained by the screen built into the AEROLIZER Inhaler. However, it remains possible that rarely, tiny pieces of gelatin might reach the mouth or throat after inhalation. The capsule is less likely to shatter when pierced if: storage conditions are strictly followed, capsules are removed from the blister immediately before use, and the capsules are only pierced once.<br/>
+                           </item>
+                           <item>It is important that patients understand how to use the AEROLIZER Inhaler appropriately and how it should be used in relation to other asthma medications they are taking (see the accompanying Medication Guide).</item>
+                        </list>
+                     </text>
+                     <effectiveTime value="20100321"/>
+                  </section>
+               </component>
+               <component>
+                  <section>
+                     <id root="b5a8bc0b-faa2-41f6-81b1-0e0e57e82456"/>
+                     <code codeSystem="2.16.840.1.113883.6.1" code="42232-9" displayName="PRECAUTIONS SECTION"/>
+                     <title>
+                        <content styleCode="bold">Drug Interactions</content>
+                     </title>
+                     <text>
+                        <paragraph>If additional adrenergic drugs are to be administered by any route, they should be used with caution because the pharmacologically predictable sympathetic effects of formoterol may be potentiated.</paragraph>
+                        <paragraph>
+		     
+	Concomitant treatment with xanthine derivatives, steroids, or diuretics may potentiate any hypokalemic effect of adrenergic agonists.</paragraph>
+                        <paragraph>
+		     
+	The ECG changes and/or hypokalemia that may result from the administration of non-potassium sparing diuretics (such as loop or thiazide diuretics) can be acutely worsened by beta-agonists, especially when the recommended dose of the beta-agonist is exceeded. Although the clinical significance of these effects is not known, caution is advised in the co-administration of beta-agonist with non-potassium sparing diuretics.</paragraph>
+                        <paragraph>
+		     
+	Formoterol, as with other beta<sub>2</sub>-agonists, should be administered with extreme caution to patients being treated with monamine oxidase inhibitors, tricyclic antidepressants, or drugs known to prolong the QTc interval because the action of adrenergic agonists on the cardiovascular system may be potentiated by these agents. Drugs that are known to prolong the QTc interval have an increased risk of ventricular arrhythmias.</paragraph>
+                        <paragraph>
+		     
+	Beta-adrenergic receptor antagonists (beta-blockers) and formoterol may inhibit the effect of each other when administered concurrently. Beta-blockers not only block the therapeutic effects of beta<sub>2</sub>-agonists, such as formoterol, but may produce severe bronchospasm in asthmatic patients. Therefore, patients with asthma should not normally be treated with beta-blockers. However, under certain circumstances, e.g., as prophylaxis after myocardial infarction, there may be no acceptable alternatives to the use of beta-blockers in patients with asthma. In this setting, cardioselective beta-blockers could be considered, although they should be administered with caution.</paragraph>
+                     </text>
+                     <effectiveTime value="20100321"/>
+                  </section>
+               </component>
+               <component>
+                  <section>
+                     <id root="55c72029-728d-4368-9499-ad16eadc456b"/>
+                     <code codeSystem="2.16.840.1.113883.6.1" code="42232-9" displayName="PRECAUTIONS SECTION"/>
+                     <title>
+                        <content styleCode="bold">Carcinogenesis, Mutagenesis, Impairment of Fertility</content>
+                     </title>
+                     <text>
+                        <paragraph>The carcinogenic potential of formoterol fumarate has been evaluated in 2-year drinking water and dietary studies in both rats and mice. In rats, the incidence of ovarian leiomyomas was increased at doses of 15 mg/kg and above in the drinking water study and at 20 mg/kg in the dietary study, but not at dietary doses up to 5 mg/kg (AUC exposure approximately 450 times human exposure at the maximum recommended daily inhalation dose). In the dietary study, the incidence of benign ovarian theca-cell tumors was increased at doses of 0.5 mg/kg and above (AUC exposure at the low dose of 0.5 mg/kg was approximately 45 times human exposure at the maximum recommended daily inhalation dose). This finding was not observed in the drinking water study, nor was it seen in mice (see below).</paragraph>
+                        <paragraph>
+		     
+	In mice, the incidence of adrenal subcapsular adenomas and carcinomas was increased in males at doses of 69 mg/kg and above in the drinking water study, but not at doses up to 50 mg/kg (AUC exposure approximately 590 times human exposure at the maximum recommended daily inhalation dose) in the dietary study. The incidence of hepatocarcinomas was increased in the dietary study at doses of 20 and 50 mg/kg in females and 50 mg/kg in males, but not at doses up to 5 mg/kg in either males or females (AUC exposure approximately 60 times human exposure at the maximum recommended daily inhalation dose). Also in the dietary study, the incidence of uterine leiomyomas and leiomyosarcomas was increased at doses of 2 mg/kg and above (AUC exposure at the low dose of 2 mg/kg was approximately 25 times human exposure at the maximum recommended daily inhalation dose). Increases in leiomyomas of the rodent female genital tract have been similarly demonstrated with other beta-agonist drugs.</paragraph>
+                        <paragraph>
+		     
+	Formoterol fumarate was not mutagenic or clastogenic in the following tests: mutagenicity tests in bacterial and mammalian cells, chromosomal analyses in mammalian cells, unscheduled DNA synthesis repair tests in rat hepatocytes and human fibroblasts, transformation assay in mammalian fibroblasts and micronucleus tests in mice and rats.</paragraph>
+                        <paragraph>
+		     
+	Reproduction studies in rats revealed no impairment of fertility at oral doses up to 3 mg/kg (approximately 1000 times the maximum recommended daily inhalation dose in humans on a mg/m2 basis).</paragraph>
+                     </text>
+                     <effectiveTime value="20100321"/>
+                  </section>
+               </component>
+               <component>
+                  <section>
+                     <id root="930b6e41-baa0-4a95-a98a-62ed35c9b00a"/>
+                     <code codeSystem="2.16.840.1.113883.6.1" code="42232-9" displayName="PRECAUTIONS SECTION"/>
+                     <title>
+                        <content styleCode="bold">Pregnancy, Teratogenic Effects, Pregnancy Category C</content>
+                     </title>
+                     <text>
+                        <paragraph>Formoterol fumarate has been shown to cause stillbirth and neonatal mortality at oral doses of 6 mg/kg (approximately 2000 times the maximum recommended daily inhalation dose in humans on a mg/m<sup>2</sup> basis) and above in rats receiving the drug during the late stage of pregnancy. These effects, however, were not produced at a dose of 0.2 mg/kg (approximately 70 times the maximum recommended daily inhalation dose in humans on a mg/m<sup>2</sup> basis). When given to rats throughout organogenesis, oral doses of 0.2 mg/kg and above delayed ossification of the fetus, and doses of 6 mg/kg and above decreased fetal weight. Formoterol fumarate did not cause malformations in rats or rabbits following oral administration. Because there are no adequate and well-controlled studies in pregnant women, FORADIL AEROLIZER should be used during pregnancy only if the potential benefit justifies the potential risk to the fetus.</paragraph>
+                     </text>
+                     <effectiveTime value="20100321"/>
+                  </section>
+               </component>
+               <component>
+                  <section>
+                     <id root="162bcd08-f244-4376-9986-9fa2b67aba66"/>
+                     <code codeSystem="2.16.840.1.113883.6.1" code="42232-9" displayName="PRECAUTIONS SECTION"/>
+                     <title>
+                        <content styleCode="bold">Use in Labor and Delivery</content>
+                     </title>
+                     <text>
+                        <paragraph>Formoterol fumarate has been shown to cause stillbirth and neonatal mortality at oral doses of 6 mg/kg (approximately 2000 times the maximum recommended daily inhalation dose in humans on a mg/m<sup>2</sup> basis) and above in rats receiving the drug for several days at the end of pregnancy. These effects were not produced at a dose of 0.2 mg/kg (approximately 70 times the maximum recommended daily inhalation dose in humans on a mg/m<sup>2</sup> basis). There are no adequate and well-controlled human studies that have investigated the effects of FORADIL AEROLIZER during labor and delivery.</paragraph>
+                        <paragraph>
+		     
+	Because beta-agonists may potentially interfere with uterine contractility, FORADIL AEROLIZER should be used during labor only if the potential benefit justifies the potential risk.</paragraph>
+                     </text>
+                     <effectiveTime value="20100321"/>
+                  </section>
+               </component>
+               <component>
+                  <section>
+                     <id root="3c846960-6afb-40f7-b3f3-17c22243b4d5"/>
+                     <code codeSystem="2.16.840.1.113883.6.1" code="42232-9" displayName="PRECAUTIONS SECTION"/>
+                     <title>
+                        <content styleCode="bold">Nursing Mothers</content>
+                     </title>
+                     <text>
+                        <paragraph>In reproductive studies in rats, formoterol was excreted in the milk. It is not known whether formoterol is excreted in human milk, but because many drugs are excreted in human milk, caution should be exercised if FORADIL AEROLIZER is administered to nursing women. There are no well-controlled human studies of the use of FORADIL AEROLIZER in nursing mothers.</paragraph>
+                     </text>
+                     <effectiveTime value="20100321"/>
+                  </section>
+               </component>
+               <component>
+                  <section>
+                     <id root="ec5f5ee8-1c90-4890-b4f1-38ef7f373ec2"/>
+                     <code codeSystem="2.16.840.1.113883.6.1" code="42232-9" displayName="PRECAUTIONS SECTION"/>
+                     <title>
+                        <content styleCode="bold">Pediatric Use</content>
+                     </title>
+                     <effectiveTime value="20100321"/>
+                     <component>
+                        <section>
+                           <id root="c9938a63-08a3-406b-a02e-d81804b1063c"/>
+                           <code codeSystem="2.16.840.1.113883.6.1" code="42232-9" displayName="PRECAUTIONS SECTION"/>
+                           <title>
+                              <content styleCode="bold italics">Asthma</content>
+                           </title>
+                           <text>
+                              <paragraph>Available data from controlled clinical trials suggest that LABA increase the risk of asthma-related hospitalization in pediatric and adolescent patients.  For pediatric and adolescent patients with asthma who require addition of a LABA to an inhaled corticosteroid, a fixed-dose combination product containing both an inhaled corticosteroid and LABA should ordinarily be used to ensure adherence with both drugs (see INDICATIONS AND USAGE and WARNINGS).</paragraph>
+                              <paragraph>A total of 776 children 5 years of age and older with asthma were studied in three multiple-dose controlled clinical trials. Of the 512 children who received formoterol, 508 were 5-12 years of age, and approximately one third were 5-8 years of age.</paragraph>
+                           </text>
+                           <effectiveTime value="20100321"/>
+                        </section>
+                     </component>
+                     <component>
+                        <section>
+                           <id root="f72bc71c-62e0-429e-84fc-f7d8a70fa022"/>
+                           <code codeSystem="2.16.840.1.113883.6.1" code="42232-9" displayName="PRECAUTIONS SECTION"/>
+                           <title>
+                              <content styleCode="bold italics">Exercise-Induced Bronchospasm</content>
+                           </title>
+                           <text>
+                              <paragraph>A total of 25 pediatric patients, 4-11 years of age, were studied in two well-controlled single-dose clinical trials.</paragraph>
+                              <paragraph>
+		     
+	The safety and effectiveness of FORADIL AEROLIZER in pediatric patients below 5 years of age has not been established. (See CLINICAL TRIALS, Pediatric Asthma Trial, and ADVERSE REACTIONS, Experience in Pediatric, Adolescent and Adult Patients.)</paragraph>
+                           </text>
+                           <effectiveTime value="20100321"/>
+                        </section>
+                     </component>
+                  </section>
+               </component>
+               <component>
+                  <section>
+                     <id root="ee3fb266-06e4-454a-beb1-1b1c13435556"/>
+                     <code codeSystem="2.16.840.1.113883.6.1" code="42232-9" displayName="PRECAUTIONS SECTION"/>
+                     <title>
+                        <content styleCode="bold">Geriatric Use</content>
+                     </title>
+                     <text>
+                        <paragraph>Of the total number of patients who received FORADIL AEROLIZER in adolescent and adult chronic dosing asthma clinical trials, 318 were 65 years of age or older and 39 were 75 years of age and older. Of the 811 patients who received FORADIL AEROLIZER in two pivotal multiple-dose controlled clinical studies in patients with COPD, 395 (48.7%) were 65 years of age or older while 62 (7.6%) were 75 years of age or older. No overall differences in safety or effectiveness were observed between these subjects and younger subjects. A slightly higher frequency of chest infection was reported in the 39 asthma patients 75 years of age and older, although a causal relationship with FORADIL has not been established. Other reported clinical experience has not identified differences in responses between the elderly and younger adult patients, but greater sensitivity of some older individuals cannot be ruled out. (See PRECAUTIONS, Drug Interactions.)</paragraph>
+                     </text>
+                     <effectiveTime value="20100321"/>
+                  </section>
+               </component>
+            </section>
+         </component>
+         <component>
+            <section>
+               <id root="b2f4eecb-f5f9-40fa-8e15-85780ab7effe"/>
+               <code codeSystem="2.16.840.1.113883.6.1" code="34084-4" displayName="ADVERSE REACTIONS SECTION"/>
+               <title>
+                  <content styleCode="bold">ADVERSE REACTIONS</content>
+               </title>
+               <text>
+                  <paragraph>
+                     <content styleCode="bold">Long-acting beta</content>
+                     <content styleCode="bold">
+                        <sub>2</sub>
+                     </content>
+                     <content styleCode="bold">-adrenergic agonists (LABA), including formoterol, the active ingredient in FORADIL AEROLIZER, increase the risk of asthma-related death and may increase the risk of asthma-related hospitalizations in pediatric and adolescent patients. Clinical trials with FORADIL AEROLIZER suggested a higher incidence of serious asthma exacerbations in patients who received FORADIL AEROLIZER than in those who received placebo. (See WARNINGS)</content>
+                  </paragraph>
+               </text>
+               <effectiveTime value="20100321"/>
+               <component>
+                  <section>
+                     <id root="9c7d6219-3e69-478f-84bb-5954597059f4"/>
+                     <code codeSystem="2.16.840.1.113883.6.1" code="34084-4" displayName="ADVERSE REACTIONS SECTION"/>
+                     <title>
+                        <content styleCode="bold">Experience in Pediatric, Adolescent and Adult Patients with Asthma</content>
+                     </title>
+                     <text>
+                        <paragraph>Of the 5,824 patients in multiple-dose controlled clinical trials, 1,985 were treated with FORADIL AEROLIZER at the recommended dose of 12 mcg twice daily. The following table shows adverse events where the frequency was greater than or equal to 1% in the FORADIL twice daily group and where the rates in the FORADIL group exceeded placebo. Three adverse events showed dose ordering among tested doses of 6, 12 and 24 mcg administered twice daily; tremor, dizziness and dysphonia.</paragraph>
+                        <table ID="ia4cc4149-bbc8-4dfb-8395-19379b6535de">
+                           <caption>NUMBER AND FREQUENCY OF ADVERSE EXPERIENCES IN PATIENTS 5 YEARS OF AGE AND OLDER FROM MULTIPLE-DOSE CONTROLLED CLINICAL TRIALS</caption>
+                           <col width="187"/>
+                           <col width="96"/>
+                           <col width="108"/>
+                           <col width="72"/>
+                           <col width="108"/>
+                           <tbody>
+                              <tr>
+                                 <td styleCode="Toprule ">Adverse Event</td>
+                                 <td styleCode="Toprule " colspan="2">FORADIL AEROLIZER<br/>12 mcg twice daily</td>
+                                 <td styleCode="Toprule " colspan="2">Placebo</td>
+                              </tr>
+                              <tr>
+                                 <td/>
+                                 <td>  n</td>
+                                 <td>  (%)</td>
+                                 <td>  n</td>
+                                 <td>  (%)</td>
+                              </tr>
+                              <tr>
+                                 <td valign="bottom">Total Patients </td>
+                                 <td valign="bottom">1985</td>
+                                 <td valign="bottom">(100)</td>
+                                 <td valign="bottom">969</td>
+                                 <td valign="bottom">(100)</td>
+                              </tr>
+                              <tr>
+                                 <td styleCode="Toprule " valign="bottom"/>
+                                 <td styleCode="Toprule " valign="bottom"/>
+                                 <td styleCode="Toprule " valign="bottom"/>
+                                 <td styleCode="Toprule " valign="bottom"/>
+                                 <td styleCode="Toprule " valign="bottom"/>
+                              </tr>
+                              <tr>
+                                 <td valign="bottom">Infection viral </td>
+                                 <td valign="bottom">341</td>
+                                 <td valign="bottom">(17.2)</td>
+                                 <td valign="bottom">166</td>
+                                 <td valign="bottom">(17.1)</td>
+                              </tr>
+                              <tr>
+                                 <td valign="bottom">Bronchitis </td>
+                                 <td valign="bottom">92</td>
+                                 <td valign="bottom">(4.6)</td>
+                                 <td valign="bottom">42</td>
+                                 <td valign="bottom">(4.3)</td>
+                              </tr>
+                              <tr>
+                                 <td valign="bottom">Chest infection </td>
+                                 <td valign="bottom">54</td>
+                                 <td valign="bottom">(2.7)</td>
+                                 <td valign="bottom">4</td>
+                                 <td valign="bottom">(0.4)</td>
+                              </tr>
+                              <tr>
+                                 <td valign="bottom">Dyspnea </td>
+                                 <td valign="bottom">42</td>
+                                 <td valign="bottom">(2.1)</td>
+                                 <td valign="bottom">16</td>
+                                 <td valign="bottom">(1.7)</td>
+                              </tr>
+                              <tr>
+                                 <td valign="bottom">Chest pain </td>
+                                 <td valign="bottom">37</td>
+                                 <td valign="bottom">(1.9)</td>
+                                 <td valign="bottom">13</td>
+                                 <td valign="bottom">(1.3)</td>
+                              </tr>
+                              <tr>
+                                 <td valign="bottom">Tremor </td>
+                                 <td valign="bottom">37</td>
+                                 <td valign="bottom">(1.9)</td>
+                                 <td valign="bottom">4</td>
+                                 <td valign="bottom">(0.4)</td>
+                              </tr>
+                              <tr>
+                                 <td valign="bottom">Dizziness </td>
+                                 <td valign="bottom">31</td>
+                                 <td valign="bottom">(1.6)</td>
+                                 <td valign="bottom">15</td>
+                                 <td valign="bottom">(1.5)</td>
+                              </tr>
+                              <tr>
+                                 <td valign="bottom">Insomnia </td>
+                                 <td valign="bottom">29</td>
+                                 <td valign="bottom">(1.5)</td>
+                                 <td valign="bottom">8</td>
+                                 <td valign="bottom">(0.8)</td>
+                              </tr>
+                              <tr>
+                                 <td valign="bottom">Tonsillitis </td>
+                                 <td valign="bottom">23</td>
+                                 <td valign="bottom">(1.2)</td>
+                                 <td valign="bottom">7</td>
+                                 <td valign="bottom">(0.7)</td>
+                              </tr>
+                              <tr>
+                                 <td valign="bottom">Rash </td>
+                                 <td valign="bottom">22</td>
+                                 <td valign="bottom">(1.1)</td>
+                                 <td valign="bottom">7</td>
+                                 <td valign="bottom">(0.7)</td>
+                              </tr>
+                              <tr>
+                                 <td valign="bottom">Dysphonia </td>
+                                 <td valign="bottom">19</td>
+                                 <td valign="bottom">(1.0)</td>
+                                 <td valign="bottom">9</td>
+                                 <td valign="bottom">(0.9)</td>
+                              </tr>
+                           </tbody>
+                        </table>
+                        <paragraph>
+		     
+	</paragraph>
+                        <paragraph>
+		     
+	In two 12-week controlled trials with combined enrollment of 1095 patients 12 years of age and older, FORADIL AEROLIZER 12 mcg twice daily was compared to FORADIL AEROLIZER 24 mcg twice daily, albuterol 180 mcg four times daily, and placebo.  Serious asthma exacerbations (acute worsening of asthma resulting in hospitalization) occurred more commonly with FORADIL AEROLIZER 24 mcg twice daily than with the recommended dose of FORADIL AEROLIZER 12 mcg twice daily, albuterol, or placebo.  The results are shown in the following table.</paragraph>
+                        <table ID="iaf28da13-efc8-47cd-8dcc-cf7d462f11c4">
+                           <caption>NUMBER AND FREQUENCY OF SERIOUS ASTHMA EXACERBATIONS IN PATIENTS 12 YEARS OF AGE AND OLDER FROM TWO 12-WEEK CONTROLLED CLINICAL TRIALS</caption>
+                           <col width="124"/>
+                           <col width="124"/>
+                           <col width="124"/>
+                           <col width="124"/>
+                           <col width="124"/>
+                           <tbody>
+                              <tr>
+                                 <td styleCode="Toprule "/>
+                                 <td styleCode="Toprule ">
+                                    <content styleCode="bold">Foradil 12 mcg twice daily</content>
+                                 </td>
+                                 <td styleCode="Toprule ">
+                                    <content styleCode="bold">Foradil 24 mcg twice daily</content>
+                                 </td>
+                                 <td styleCode="Toprule ">
+                                    <content styleCode="bold">Albuterol 180 mcg four times daily</content>
+                                 </td>
+                                 <td styleCode="Toprule ">
+                                    <content styleCode="bold">Placebo</content>
+                                 </td>
+                              </tr>
+                              <tr>
+                                 <td styleCode="Toprule " colspan="5" align="center">
+                                    <content styleCode="bold">Trial #1</content>
+                                 </td>
+                              </tr>
+                              <tr>
+                                 <td>
+                                    <content styleCode="bold">Serious asthma exacerbations</content>
+                                 </td>
+                                 <td>0/136 (0)</td>
+                                 <td>4/135 (3.0%)<sup>1</sup>
+                                 </td>
+                                 <td>2/134 (1.5%)</td>
+                                 <td>0/136 (0)</td>
+                              </tr>
+                              <tr>
+                                 <td styleCode="Toprule " colspan="5" align="center">
+                                    <content styleCode="bold">Trial #2</content>
+                                 </td>
+                              </tr>
+                              <tr>
+                                 <td>
+                                    <content styleCode="bold">Serious asthma exacerbations</content>
+                                 </td>
+                                 <td>1/139 (0.7%)</td>
+                                 <td>5/136 (3.7%)<sup>2</sup>
+                                 </td>
+                                 <td>0/138 (0)</td>
+                                 <td>2/141 (1.4%)</td>
+                              </tr>
+                              <tr>
+                                 <td styleCode="Toprule " colspan="5">
+                                    <sup>1</sup>  1 patient required intubation<br/>
+                                    <sup>2</sup>  2 patients had respiratory arrest; 1 of the patients died</td>
+                              </tr>
+                           </tbody>
+                        </table>
+                        <paragraph>
+		     
+	</paragraph>
+                        <paragraph>
+		     
+	In a 16-week, randomized, multi-center, double-blind, parallel-group trial, patients who received either 24 mcg twice daily or 12 mcg twice daily doses of FORADIL AEROLIZER experienced more serious asthma exacerbations than patients who received placebo (see CLINICAL TRIALS).  The results are shown in the following table.</paragraph>
+                        <table ID="i30cb8654-8c95-45e5-88c3-10854bd7b453">
+                           <caption>NUMBER AND FREQUENCY OF SERIOUS ASTHMA EXACERBATIONS IN PATIENTS 12 YEARS OF AGE AND OLDER FROM A 16-WEEK TRIAL</caption>
+                           <col width="124"/>
+                           <col width="124"/>
+                           <col width="124"/>
+                           <col width="124"/>
+                           <tbody>
+                              <tr>
+                                 <td styleCode="Toprule "/>
+                                 <td styleCode="Toprule ">
+                                    <content styleCode="bold">Foradil 12 mcg twice daily</content>
+                                 </td>
+                                 <td styleCode="Toprule ">
+                                    <content styleCode="bold">Foradil 24 mcg twice daily</content>
+                                 </td>
+                                 <td styleCode="Toprule ">
+                                    <content styleCode="bold">Placebo</content>
+                                 </td>
+                              </tr>
+                              <tr>
+                                 <td styleCode="Toprule ">
+                                    <content styleCode="bold">Serious asthma exacerbations</content>
+                                 </td>
+                                 <td styleCode="Toprule ">3/527 (0.6%)</td>
+                                 <td styleCode="Toprule ">2/527 (0.4%)</td>
+                                 <td styleCode="Toprule ">1/514 (0.2%)</td>
+                              </tr>
+                           </tbody>
+                        </table>
+                     </text>
+                     <effectiveTime value="20100321"/>
+                  </section>
+               </component>
+               <component>
+                  <section>
+                     <id root="a877823e-f5d6-4115-a153-a8194287a92b"/>
+                     <code codeSystem="2.16.840.1.113883.6.1" code="34084-4" displayName="ADVERSE REACTIONS SECTION"/>
+                     <title>
+                        <content styleCode="bold">Experience in Children with Asthma</content>
+                     </title>
+                     <text>
+                        <paragraph>The safety of FORADIL AEROLIZER 12 mcg twice daily compared to FORADIL AEROLIZER 24 mcg twice daily  and placebo was investigated in one large, multicenter, randomized, double-blind, 52-week clinical trial in 518 children with asthma (ages 5-12 years) in need of daily bronchodilators and anti-inflammatory treatment.   More children who received FORADIL AEROLIZER 24 mcg twice daily than children who received FORADIL AEROLIZER 12 mcg twice daily or placebo experienced serious asthma exacerbations, as shown in the next table.</paragraph>
+                        <table ID="i646dc1df-aef8-4353-8d08-002eda7d3acb">
+                           <caption>NUMBER AND FREQUENCY OF SERIOUS ASTHMA EXACERBATIONS IN PATIENTS 5-12 YEARS OF AGE FROM A 52-WEEK TRIAL</caption>
+                           <col width="155"/>
+                           <col width="155"/>
+                           <col width="155"/>
+                           <col width="155"/>
+                           <tbody>
+                              <tr>
+                                 <td/>
+                                 <td>
+                                    <content styleCode="bold">Foradil 12 mcg twice daily</content>
+                                 </td>
+                                 <td>
+                                    <content styleCode="bold">Foradil 24 mcg twice daily</content>
+                                 </td>
+                                 <td>
+                                    <content styleCode="bold">Placebo</content>
+                                 </td>
+                              </tr>
+                              <tr>
+                                 <td>
+                                    <content styleCode="bold">Serious asthma exacerbations</content>
+                                 </td>
+                                 <td>8/171 (4.7%)</td>
+                                 <td>11/171 (6.4%)</td>
+                                 <td>0/176 (0)</td>
+                              </tr>
+                           </tbody>
+                        </table>
+                        <paragraph>
+		     
+	</paragraph>
+                        <paragraph>
+		     
+	The numbers and percent of patients who reported adverse events were comparable in the 12 mcg twice daily and placebo groups. In general, the pattern of the adverse events observed in children differed from the usual pattern seen in adults. The adverse events that were more frequent in the formoterol group than in the placebo group reflected infection/inflammation (viral infection, rhinitis, tonsillitis, gastroenteritis) or abdominal complaints (abdominal pain, nausea, dyspepsia).</paragraph>
+                     </text>
+                     <effectiveTime value="20100321"/>
+                  </section>
+               </component>
+               <component>
+                  <section>
+                     <id root="5e8675ca-a86b-43ed-95ec-230e28c6cfee"/>
+                     <code codeSystem="2.16.840.1.113883.6.1" code="34084-4" displayName="ADVERSE REACTIONS SECTION"/>
+                     <title>
+                        <content styleCode="bold">Experience in Adult Patients with COPD</content>
+                     </title>
+                     <text>
+                        <paragraph>Of the 1634 patients in two pivotal multiple-dose Chronic Obstructive Pulmonary Disease (COPD) controlled trials, 405 were treated with FORADIL AEROLIZER 12 mcg twice daily. The numbers and percent of patients who reported adverse events were comparable in the 12 mcg twice daily and placebo groups. Adverse events (AE's) experienced were similar to those seen in asthmatic patients, but with a higher incidence of COPD-related AE's in both placebo and formoterol treated patients.</paragraph>
+                        <paragraph>
+		     
+	The following table shows adverse events where the frequency was greater than or equal to 1% in the FORADIL AEROLIZER group and where the rates in the FORADIL AEROLIZER group exceeded placebo. The two clinical trials included doses of 12 mcg and 24 mcg, administered twice daily. Seven adverse events showed dose ordering among tested doses of 12 and 24 mcg administered twice daily; pharyngitis, fever, muscle cramps, increased sputum, dysphonia, myalgia, and tremor.</paragraph>
+                        <table ID="i4a8af7a6-c316-47ef-851d-49bca31f5aa0">
+                           <caption>NUMBER AND FREQUENCY OF ADVERSE EXPERIENCES IN ADULT COPD PATIENTS TREATED IN MULTIPLE-DOSE CONTROLLED CLINICAL TRIALS</caption>
+                           <col width="192"/>
+                           <col width="79"/>
+                           <col width="84"/>
+                           <col width="96"/>
+                           <col width="96"/>
+                           <tbody>
+                              <tr>
+                                 <td styleCode="Toprule ">Adverse Event</td>
+                                 <td styleCode="Toprule " colspan="2">FORADIL AEROLIZER<br/>12 mcg twice daily</td>
+                                 <td styleCode="Toprule " colspan="2">Placebo</td>
+                              </tr>
+                              <tr>
+                                 <td/>
+                                 <td>  n</td>
+                                 <td>  (%)</td>
+                                 <td>  n</td>
+                                 <td>  (%)</td>
+                              </tr>
+                              <tr>
+                                 <td/>
+                                 <td/>
+                                 <td/>
+                                 <td/>
+                                 <td/>
+                              </tr>
+                              <tr>
+                                 <td valign="bottom">Total patients </td>
+                                 <td valign="bottom">405</td>
+                                 <td valign="bottom">(100)</td>
+                                 <td valign="bottom">420</td>
+                                 <td valign="bottom">(100)</td>
+                              </tr>
+                              <tr>
+                                 <td styleCode="Toprule " valign="bottom"/>
+                                 <td styleCode="Toprule " valign="bottom"/>
+                                 <td styleCode="Toprule " valign="bottom"/>
+                                 <td styleCode="Toprule " valign="bottom"/>
+                                 <td styleCode="Toprule " valign="bottom"/>
+                              </tr>
+                              <tr>
+                                 <td valign="bottom">Upper respiratory tract infection </td>
+                                 <td valign="bottom">30</td>
+                                 <td valign="bottom">(7.4)</td>
+                                 <td valign="bottom">24</td>
+                                 <td valign="bottom">(5.7)</td>
+                              </tr>
+                              <tr>
+                                 <td valign="bottom">Pain back </td>
+                                 <td valign="bottom">17</td>
+                                 <td valign="bottom">(4.2)</td>
+                                 <td valign="bottom">17</td>
+                                 <td valign="bottom">(4.0)</td>
+                              </tr>
+                              <tr>
+                                 <td valign="bottom">Pharyngitis </td>
+                                 <td valign="bottom">14</td>
+                                 <td valign="bottom">(3.5)</td>
+                                 <td valign="bottom">10</td>
+                                 <td valign="bottom">(2.4)</td>
+                              </tr>
+                              <tr>
+                                 <td valign="bottom">Pain chest </td>
+                                 <td valign="bottom">13</td>
+                                 <td valign="bottom">(3.2)</td>
+                                 <td valign="bottom">9</td>
+                                 <td valign="bottom">(2.1)</td>
+                              </tr>
+                              <tr>
+                                 <td valign="bottom">Sinusitis </td>
+                                 <td valign="bottom">11</td>
+                                 <td valign="bottom">(2.7)</td>
+                                 <td valign="bottom">7</td>
+                                 <td valign="bottom">(1.7)</td>
+                              </tr>
+                              <tr>
+                                 <td valign="bottom">Fever </td>
+                                 <td valign="bottom">9</td>
+                                 <td valign="bottom">(2.2)</td>
+                                 <td valign="bottom">6</td>
+                                 <td valign="bottom">(1.4)</td>
+                              </tr>
+                              <tr>
+                                 <td valign="bottom">Cramps leg </td>
+                                 <td valign="bottom">7</td>
+                                 <td valign="bottom">(1.7)</td>
+                                 <td valign="bottom">2</td>
+                                 <td valign="bottom">(0.5)</td>
+                              </tr>
+                              <tr>
+                                 <td valign="bottom">Cramps muscle</td>
+                                 <td valign="bottom">7</td>
+                                 <td valign="bottom">(1.7)</td>
+                                 <td valign="bottom">0</td>
+                                 <td valign="bottom"/>
+                              </tr>
+                              <tr>
+                                 <td valign="bottom">Anxiety </td>
+                                 <td valign="bottom">6</td>
+                                 <td valign="bottom">(1.5)</td>
+                                 <td valign="bottom">5</td>
+                                 <td valign="bottom">(1.2)</td>
+                              </tr>
+                              <tr>
+                                 <td valign="bottom">Pruritus </td>
+                                 <td valign="bottom">6</td>
+                                 <td valign="bottom">(1.5)</td>
+                                 <td valign="bottom">4</td>
+                                 <td valign="bottom">(1.0)</td>
+                              </tr>
+                              <tr>
+                                 <td valign="bottom">Sputum increased </td>
+                                 <td valign="bottom">6</td>
+                                 <td valign="bottom">(1.5)</td>
+                                 <td valign="bottom">5</td>
+                                 <td valign="bottom">(1.2)</td>
+                              </tr>
+                              <tr>
+                                 <td valign="bottom">Mouth dry </td>
+                                 <td valign="bottom">5</td>
+                                 <td valign="bottom">(1.2)</td>
+                                 <td valign="bottom">4</td>
+                                 <td valign="bottom">(1.0)</td>
+                              </tr>
+                           </tbody>
+                        </table>
+                        <paragraph>
+		     
+	</paragraph>
+                        <paragraph>
+		     
+	Overall, the frequency of all cardiovascular adverse events in the two pivotal studies was low and comparable to placebo (6.4% for FORADIL AEROLIZER 12 mcg twice daily, and 6.0% for placebo).  There were no frequently-occurring specific cardiovascular adverse events for FORADIL AEROLIZER (frequency greater than or equal to 1% and greater than placebo).</paragraph>
+                        <paragraph>
+		     
+	Other adverse reactions to FORADIL AEROLIZER are similar in nature to other selective beta<sub>2</sub>-adrenoceptor agonists; e.g., angina, hypertension or hypotension, tachycardia, arrhythmias, nervousness, headache, tremor, dry mouth, palpitation, muscle cramps, nausea, dizziness, fatigue, malaise, hypokalemia, hyperglycemia, metabolic acidosis and insomnia.</paragraph>
+                     </text>
+                     <effectiveTime value="20100321"/>
+                  </section>
+               </component>
+               <component>
+                  <section>
+                     <id root="bcdf3d80-eeba-47cd-966b-ce39981e7d74"/>
+                     <code codeSystem="2.16.840.1.113883.6.1" code="34084-4" displayName="ADVERSE REACTIONS SECTION"/>
+                     <title>
+                        <content styleCode="bold">Post Marketing Experience</content>
+                     </title>
+                     <text>
+                        <paragraph>In extensive worldwide marketing experience with FORADIL, serious exacerbations of asthma, including some that have been fatal, have been reported. While most of these cases have been in patients with severe or acutely deteriorating asthma (see WARNINGS), a few have occurred in patients with less severe asthma. It is not possible to determine from these individual case reports whether FORADIL AEROLIZER contributed to the events. </paragraph>
+                        <paragraph>
+		     
+	Rare reports of anaphylactic reactions, including severe hypotension and angioedema, have also been received in association with the use of formoterol fumarate inhalation powder.  </paragraph>
+                     </text>
+                     <effectiveTime value="20100321"/>
+                  </section>
+               </component>
+            </section>
+         </component>
+         <component>
+            <section>
+               <id root="149dd7ab-ddcc-4ff0-b91c-d3c867a51661"/>
+               <code codeSystem="2.16.840.1.113883.6.1" code="42227-9" displayName="DRUG ABUSE AND DEPENDENCE SECTION"/>
+               <title>
+                  <content styleCode="bold">DRUG ABUSE AND DEPENDENCE</content>
+               </title>
+               <text>
+                  <paragraph>There was no evidence in clinical trials of drug dependence with the use of FORADIL.</paragraph>
+               </text>
+               <effectiveTime value="20100321"/>
+            </section>
+         </component>
+         <component>
+            <section>
+               <id root="f75d4c35-c310-4625-ac2e-734da185b810"/>
+               <code codeSystem="2.16.840.1.113883.6.1" code="34088-5" displayName="OVERDOSAGE SECTION"/>
+               <title>
+                  <content styleCode="bold">OVERDOSAGE</content>
+               </title>
+               <text>
+                  <paragraph>The expected signs and symptoms with overdosage of FORADIL AEROLIZER are those of excessive beta-adrenergic stimulation and/or occurrence or exaggeration of any of the signs and symptoms listed under ADVERSE REACTIONS, e.g., angina, hypertension or hypotension, tachycardia, with rates up to 200 beats/min., arrhythmias, nervousness, headache, tremor, seizures, muscle cramps, dry mouth, palpitation, nausea, dizziness, fatigue, malaise, hypokalemia, hyperglycemia, and insomnia. Metabolic acidosis may also occur. As with all inhaled sympathomimetic medications, cardiac arrest and even death may be associated with an overdose of FORADIL AEROLIZER.</paragraph>
+                  <paragraph>
+		     
+	Treatment of overdosage consists of discontinuation of FORADIL AEROLIZER together with institution of appropriate symptomatic and/or supportive therapy. The judicious use of a cardioselective beta-receptor blocker may be considered, bearing in mind that such medication can produce bronchospasm.  There is insufficient evidence to determine if dialysis is beneficial for overdosage of FORADIL AEROLIZER. Cardiac monitoring is recommended in cases of overdosage.</paragraph>
+                  <paragraph>
+		     
+	The minimum acute lethal inhalation dose of formoterol fumarate in rats is 156 mg/kg (approximately 53,000 and 25,000 times the maximum recommended daily inhalation dose in adults and children, respectively, on a mg/m<sup>2</sup> basis). The median lethal oral doses in Chinese hamsters, rats, and mice provide even higher multiples of the maximum recommended daily inhalation dose in humans.</paragraph>
+               </text>
+               <effectiveTime value="20100321"/>
+            </section>
+         </component>
+         <component>
+            <section>
+               <id root="da0869c3-dfc7-4294-a58d-789225a34b7a"/>
+               <code codeSystem="2.16.840.1.113883.6.1" code="34068-7" displayName="DOSAGE &amp; ADMINISTRATION SECTION"/>
+               <title>
+                  <content styleCode="bold">DOSAGE AND ADMINISTRATION</content>
+               </title>
+               <text>
+                  <paragraph>FORADIL capsules should be administered only by the oral inhalation route and only using the AEROLIZER Inhaler (see the accompanying Medication Guide). <content styleCode="bold">FORADIL capsules should not be ingested (i.e., swallowed) orally</content>
+                     <content styleCode="bold">.</content> FORADIL capsules should always be stored in the blister, and only removed IMMEDIATELY BEFORE USE.</paragraph>
+               </text>
+               <effectiveTime value="20100321"/>
+               <component>
+                  <section>
+                     <id root="441425f2-bd03-45d2-af25-1cd38d39fb9b"/>
+                     <code codeSystem="2.16.840.1.113883.6.1" code="34068-7" displayName="DOSAGE &amp; ADMINISTRATION SECTION"/>
+                     <title>
+                        <content styleCode="bold">Treatment of Asthma</content>
+                     </title>
+                     <text>
+                        <paragraph>Long-acting beta<sub>2</sub>-adrenergic agonists (LABA), such as formoterol, the active ingredient in FORADIL AEROLIZER, increase the risk of asthma-related death (see Warnings). <content styleCode="bold">Because of this risk, use of FORADIL AEROLIZER for the treatment of asthma without concomitant use of a long-term asthma control medication, such as an inhaled corticosteroid, is contraindicated.</content> Use FORADIL AEROLIZER only as additional therapy for patients with asthma who are currently taking but are inadequately controlled on a long-term asthma control medication, such as an inhaled corticosteroid. Once asthma control is achieved and maintained, assess the patient at regular intervals and step down therapy (e.g. discontinue FORADIL AEROLIZER) if possible without loss of asthma control, and maintain the patient on a long-term asthma control medication, such as an inhaled corticosteroid. Do not use FORADIL AEROLIZER for patients whose asthma is adequately controlled on low or medium dose inhaled corticosteroids. </paragraph>
+                     </text>
+                     <effectiveTime value="20100321"/>
+                     <component>
+                        <section>
+                           <id root="3eaca249-d491-431f-b5b7-eda145e14f52"/>
+                           <code codeSystem="2.16.840.1.113883.6.1" code="34068-7" displayName="DOSAGE &amp; ADMINISTRATION SECTION"/>
+                           <title>
+                              <content styleCode="bold">Pediatric and Adolescent Patients</content>
+                           </title>
+                           <text>
+                              <paragraph>Available data from controlled clinical trials suggest that LABA increase the risk of asthma-related hospitalization in pediatric and adolescent patients. For patients with asthma less than 18 years of age who require addition of a LABA to an inhaled corticosteroid, a fixed-dose combination product containing both an inhaled corticosteroid and LABA should ordinarily be used to ensure adherence with both drugs. In cases where use of a separate long-term asthma control medication (e.g. inhaled corticosteroid) and LABA is clinically indicated, appropriate steps must be taken to ensure adherence with both treatment components. If adherence cannot be assured, a fixed-dose combination product containing both an inhaled corticosteroid and LABA is recommended.</paragraph>
+                              <paragraph>
+		     
+	For adults and children 5 years of age and older, the usual dosage is the inhalation of the contents of one 12-mcg FORADIL capsule every 12 hours using the AEROLIZER Inhaler. The patient must not exhale into the device. The total daily dose of FORADIL should not exceed one capsule twice daily (24 mcg total daily dose). More frequent administration or administration of a larger number of inhalations is not recommended. If symptoms arise between doses, an inhaled short-acting beta<sub>2</sub>-agonist should be taken for immediate relief.</paragraph>
+                              <paragraph>
+		     
+	If a previously effective dosage regimen fails to provide the usual response, medical advice should be sought immediately as this is often a sign of destabilization of asthma. Under these circumstances, the therapeutic regimen should be re-evaluated.</paragraph>
+                           </text>
+                           <effectiveTime value="20100321"/>
+                        </section>
+                     </component>
+                  </section>
+               </component>
+               <component>
+                  <section>
+                     <id root="d0301d13-ebd4-4cf7-9496-4b021f897261"/>
+                     <code codeSystem="2.16.840.1.113883.6.1" code="34068-7" displayName="DOSAGE &amp; ADMINISTRATION SECTION"/>
+                     <title>
+                        <content styleCode="bold">For Prevention of Exercise-Induced Bronchospasm (EIB)</content>
+                     </title>
+                     <text>
+                        <paragraph>Use of FORADIL AEROLIZER as a single agent for the prevention of exercise-induced bronchospasm may be clinically indicated in patients who do not have persistent asthma.  In patients with persistent asthma, use of FORADIL AEROLIZER for the prevention of exercise-induced bronchospasm may be clinically indicated, but the treatment of asthma should include a long-term asthma control medication, such as an inhaled corticosteroid.  For adults and children 5 years of age or older, the usual dosage is the inhalation of the contents of one 12-mcg FORADIL capsule at least 15 minutes before exercise administered on an occasional as needed basis. When used intermittently as needed for prevention, protection may last up to 12 hours.  </paragraph>
+                        <paragraph>
+		     
+	Additional doses of FORADIL AEROLIZER should not be used for 12 hours after the administration of this drug. Regular, twice-daily dosing has not been studied in preventing EIB. Patients who are receiving FORADIL AEROLIZER twice daily for treatment of their asthma should not use additional doses for prevention of EIB and may require a short-acting bronchodilator.</paragraph>
+                     </text>
+                     <effectiveTime value="20100321"/>
+                  </section>
+               </component>
+               <component>
+                  <section>
+                     <id root="9713c343-f643-44f4-ab32-d51d77f5ac53"/>
+                     <code codeSystem="2.16.840.1.113883.6.1" code="34068-7" displayName="DOSAGE &amp; ADMINISTRATION SECTION"/>
+                     <title>
+                        <content styleCode="bold">For Maintenance Treatment of Chronic Obstructive Pulmonary Disease (COPD)</content>
+                     </title>
+                     <text>
+                        <paragraph>The usual dosage is the inhalation of the contents of one 12 mcg FORADIL capsule every 12 hours using the AEROLIZER inhaler.</paragraph>
+                        <paragraph>
+		     
+	A total daily dose of greater than 24 mcg is not recommended.</paragraph>
+                        <paragraph>
+		     
+	If a previously effective dosage regimen fails to provide the usual response, medical advice should be sought immediately as this is often a sign of destabilization of COPD. Under these circumstances, the therapeutic regimen should be re-evaluated and additional therapeutic options should be considered.</paragraph>
+                     </text>
+                     <effectiveTime value="20100321"/>
+                  </section>
+               </component>
+            </section>
+         </component>
+         <component>
+            <section>
+               <id root="3bb4a59b-a6ea-409c-b9ba-3be6b57ebaf4"/>
+               <code codeSystem="2.16.840.1.113883.6.1" code="34069-5" displayName="HOW SUPPLIED SECTION"/>
+               <title>
+                  <content styleCode="bold">HOW SUPPLIED</content>
+               </title>
+               <text>
+                  <paragraph>FORADIL AEROLIZER contains: aluminum blister-packaged 12-mcg FORADIL (formoterol fumarate) clear gelatin capsules with "CG" printed on one end and "FXF" printed on the opposite end; one AEROLIZER Inhaler; and Medication Guide.</paragraph>
+                  <paragraph>Unit Dose (blister pack)</paragraph>
+                  <paragraph>
+		     
+	</paragraph>
+                  <paragraph/>
+                  <paragraph>
+		     
+	Box of 60 (strips of 6). . . . . . . . . . . . . . . .  . . . . . . . . . . NDC 54868-4972-1</paragraph>
+                  <paragraph>FORADIL capsules should be used with the AEROLIZER Inhaler only. The AEROLIZER Inhaler should not be used with any other capsules.</paragraph>
+                  <paragraph>
+                     <content styleCode="bold">Prior to dispensing: </content>Store in a refrigerator, 2°C-8°C (36°F-46°F)</paragraph>
+                  <paragraph>
+                     <content styleCode="bold">After dispensing to patient: </content>Store at 20°C to 25°C (68°F to 77°F) [see USP Controlled Room Temperature]. Protect from heat and moisture. CAPSULES SHOULD ALWAYS BE STORED IN THE BLISTER AND ONLY REMOVED FROM THE BLISTER IMMEDIATELY BEFORE USE.</paragraph>
+                  <paragraph>Always discard the FORADIL capsules and AEROLIZER Inhaler by the "Use by" date and always use the new AEROLIZER Inhaler provided with each new prescription.</paragraph>
+                  <paragraph>Keep out of the reach of children.</paragraph>
+                  <paragraph>Manufactured by:</paragraph>
+                  <paragraph>Novartis Pharma AG, Basle, Switzerland</paragraph>
+                  <paragraph>Distributed by:</paragraph>
+                  <paragraph>Schering Corporation, a subsidiary of </paragraph>
+                  <paragraph>MERCK &amp; CO., INC.</paragraph>
+                  <paragraph>Whitehouse Station, NJ 08889, USA</paragraph>
+                  <paragraph>Copyright © 2011 Schering Corp.,</paragraph>
+                  <paragraph>a subsidiary of MERCK &amp; CO., INC.</paragraph>
+                  <paragraph>All rights reserved.</paragraph>
+                  <paragraph>May 2011</paragraph>
+                  <paragraph>Additional barcode labeling by:</paragraph>
+                  <paragraph>Physicians Total Care, Inc.</paragraph>
+                  <paragraph>Tulsa, Oklahoma      74146</paragraph>
+               </text>
+               <effectiveTime value="20120301"/>
+            </section>
+         </component>
+         <component>
+            <section>
+               <id root="b1e59f8f-53c4-4cda-b89c-80047e643334"/>
+               <code codeSystem="2.16.840.1.113883.6.1" code="42231-1" displayName="SPL MEDGUIDE SECTION"/>
+               <title>
+                  <content styleCode="bold">Medication Guide</content>
+               </title>
+               <text>
+                  <paragraph>
+                     <content styleCode="bold">Foradil</content>
+                     <content styleCode="bold">
+                        <sup>®</sup>
+                     </content>
+                     <content styleCode="bold"> </content>[FOR-a-dil]<content styleCode="bold"> Aerolizer</content>
+                     <content styleCode="bold">
+                        <sup>®</sup>
+                     </content>
+                  </paragraph>
+                  <paragraph>(formoterol fumarate inhalation powder)</paragraph>
+                  <table ID="i059807bf-f27d-437a-860f-8f709edeb433">
+                     <col width="590"/>
+                     <tbody>
+                        <tr>
+                           <td styleCode="Toprule Lrule Rrule ">
+                              <content styleCode="bold">Important:  Do not swallow FORADIL capsules.  FORADIL capsules are used only with the Aerolizer inhaler that comes with FORADIL AEROLIZER.  Never place a capsule in the mouthpiece of the AEROLIZER Inhaler.</content>
+                           </td>
+                        </tr>
+                     </tbody>
+                  </table>
+                  <paragraph>Read the Medication Guide that comes with FORADIL AEROLIZER before you start using it and each time you get a refill. There may be new information. This Medication Guide does not take the place of talking to your health care provider about your medical condition or treatment.</paragraph>
+                  <paragraph>
+                     <content styleCode="bold">What is the most important information I should know about FORADIL AEROLIZER?</content>
+                  </paragraph>
+                  <paragraph>
+                     <content styleCode="bold">FORADIL AEROLIZER can cau</content>
+                     <content styleCode="bold">se serious side effects, including: </content>
+                  </paragraph>
+                  <paragraph>
+                     <content styleCode="bold">1. People with asthma who take long-acting beta<sub>2</sub>-adrenergic agonist (LABA) medicines, such as formoterol fumarate inhalation powder (FORADIL AEROLIZER), have an increased risk of death from asthma problems.</content>
+                  </paragraph>
+                  <list listType="unordered" styleCode="Disc" ID="i86170662-55ba-4ee4-80f5-4e8fbc1f41c3">
+                     <item>Call your healthcare provider if breathing problems worsen over time while using FORADIL AEROLIZER.  You may need a different treatment.<br/>
+                     </item>
+                     <item>Get emergency medical care if:<list listType="unordered" styleCode="Circle" ID="i8f31ac57-c5df-4aab-857b-4fa2958b24da">
+                           <item>breathing problems worsen quickly, and<br/>
+                           </item>
+                           <item>you use your rescue inhaler medicine, but it does not relieve your breathing problems.</item>
+                        </list>
+                     </item>
+                  </list>
+                  <paragraph>
+                     <content styleCode="bold">2. Do not use FORADIL AEROLIZER as your only asthma medicine. FORADIL AEROLIZER must only be used with a long-term asthma control medicine, such as an inhaled corticosteroid.</content>
+                  </paragraph>
+                  <paragraph>3. When your asthma is well controlled, your healthcare provider may tell you to stop taking FORADIL AEROLIZER. Your healthcare provider will decide if you can stop FORADIL AEROLIZER without loss of asthma control. You will continue taking your long-term asthma control medicine, such as an inhaled corticosteroid.</paragraph>
+                  <paragraph>4.  Children and adolescents who take LABA medicines may have an increased risk of being </paragraph>
+                  <paragraph>      hospitalized for asthma problems.</paragraph>
+                  <paragraph>
+                     <content styleCode="bold">What is FORADIL AEROLIZER?</content>
+                  </paragraph>
+                  <paragraph>FORADIL AEROLIZER is a long-acting beta<sub>2</sub>-agonist (LABA).  LABA medicines help the muscles around the airways in your lungs stay relaxed to prevent asthma symptoms, such as wheezing and shortness of breath.  These symptoms can happen when the muscles around the airways tighten.  This makes it hard to breathe.  In severe cases, wheezing can stop your breathing and cause death if not treated right away.</paragraph>
+                  <paragraph>FORADIL AEROLIZER is used for asthma, exercise-induced bronchospasm (EIB) and chronic obstructive pulmonary disease (COPD) as follows:</paragraph>
+                  <paragraph>
+                     <content styleCode="bold">Asthma</content>
+                  </paragraph>
+                  <paragraph>FORADIL AEROLIZER is used with a long-term asthma control medicine, such as an inhaled corticosteroid, in adults and children ages 5 and older: </paragraph>
+                  <list listType="unordered" styleCode="Disc" ID="i8ed4d94f-9e52-4325-85f5-e057f3a9afbb">
+                     <item>to control symptoms of asthma, and<br/>
+                     </item>
+                     <item>to prevent symptoms such as wheezing</item>
+                  </list>
+                  <paragraph>LABA medicines, such as FORADIL AEROLIZER, increase the risk of death from asthma problems. FORADIL AEROLIZER is not for adults and children with asthma who are well controlled with long-term asthma control medicine, such as low to medium dose of an inhaled corticosteroid medicine.</paragraph>
+                  <paragraph>
+                     <content styleCode="bold">Exercise-Induced Bronchospasm (EIB)</content>
+                  </paragraph>
+                  <paragraph>FORADIL AEROLIZER is used to prevent wheezing caused by exercise in adults and children 5 years of age and older.</paragraph>
+                  <list listType="unordered" styleCode="Disc" ID="i9e0898a0-972c-4247-8958-b6f452ab33b3">
+                     <item>If you have EIB only, your healthcare provider may prescribe only FORADIL AEROLIZER for your condition<br/>
+                     </item>
+                     <item>If you have EIB and asthma, your healthcare provider should also prescribe a long-term asthma control medicine, such as an inhaled corticosteroid</item>
+                  </list>
+                  <paragraph>
+                     <content styleCode="bold">Chronic Obstructive Pulmonary Disease (COPD)</content>
+                  </paragraph>
+                  <paragraph>FORADIL AEROLIZER is used long-term, 2 times each day (morning and evening), to control symptoms of COPD and prevent wheezing in adults with COPD.</paragraph>
+                  <paragraph>
+                     <content styleCode="bold">Who should not use FORADIL AEROLIZER?</content>
+                  </paragraph>
+                  <list listType="unordered" styleCode="Disc" ID="if845dea7-8175-4d7e-8d1d-33e2ebbcc06b">
+                     <item>Do not take FORADIL AEROLIZER to treat your asthma without a long-term asthma control medicine, such as an inhaled corticosteroid. </item>
+                     <item>If you are allergic to formoterol fumarate or any of the ingredients in FORADIL AEROLIZER.  Ask your healthcare provider if you are not sure.  See the end of this Medication Guide for a complete list of ingredients in FORADIL AEROLIZER.</item>
+                  </list>
+                  <paragraph>
+                     <content styleCode="bold">What should I tell my healthcare provider before using FORADIL AEROLIZER?</content>
+                  </paragraph>
+                  <paragraph>
+                     <content styleCode="bold">Tell your healthcare provider about all of your health conditions, including if </content>
+                     <content styleCode="bold">you</content>
+                     <content styleCode="bold">:</content>
+                  </paragraph>
+                  <list listType="unordered" styleCode="Disc" ID="i4fa2e01f-f8b3-4f4b-8e4d-a186ab15c71d">
+                     <item>have heart problems<br/>
+                     </item>
+                     <item>have high blood pressure<br/>
+                     </item>
+                     <item>have seizures<br/>
+                     </item>
+                     <item>have thyroid problems<br/>
+                     </item>
+                     <item>have diabetes<br/>
+                     </item>
+                     <item>are pregnant or planning to become pregnant.<content styleCode="bold">  </content>It is not known if FORADIL AEROLIZER may harm your unborn baby.  <br/>
+                     </item>
+                     <item>are breastfeeding.  It is not known if FORADIL AEROLIZER passes into your milk and if it can harm your baby.  <br/>
+                     </item>
+                     <item>are allergic to FORADIL AEROLIZER, any other medicines, or food products.</item>
+                  </list>
+                  <paragraph>FORADIL AEROLIZER contains lactose (milk sugar) and a small amount of milk proteins.  It is possible that allergic reactions may happen in patients who have a severe milk protein allergy.</paragraph>
+                  <paragraph>Tell your healthcare provider about all the medicines you take including prescription and non-prescription medicines, vitamins, and herbal supplements.  FORADIL AEROLIZER and certain other medicines may interact with each other.  This may cause serious side effects.  </paragraph>
+                  <paragraph>Know the medicines you take.  Keep a list and show it to your healthcare provider and pharmacist each time you get a new medicine.</paragraph>
+                  <paragraph>
+                     <content styleCode="bold">How do I use FORADIL capsules with the Aerolizer inhaler?</content>
+                  </paragraph>
+                  <paragraph>
+                     <content styleCode="bold">See the step-by-step instructions for using FORADIL Capsules with the Aerolizer inhaler at the end of this Medication Guide.  </content>Do not use FORADIL unless your healthcare provider has taught you and you understand everything.  Ask your healthcare provider or pharmacist if you have any questions.</paragraph>
+                  <list listType="unordered" styleCode="Disc" ID="i30c3b82f-371d-443a-8849-c1955c278cd4">
+                     <item>Children should use FORADIL AEROLIZER with an adult’s help, as instructed by the child’s healthcare provider.<br/>
+                     </item>
+                     <item>Use FORADIL AEROLIZER exactly as prescribed.  <content styleCode="bold">Do not use FORADIL AEROLIZER more often than prescribed.</content>
+                        <br/>
+                     </item>
+                     <item>For asthma and COPD, the usual dose is 1 FORADIL capsule inhaled through the AEROLIZER inhaler 2 times each day (morning and evening).  The 2 doses should be about 12 hours apart. <br/>
+                     </item>
+                     <item>For preventing exercise-induced bronchospasm, the usual dose is 1 FORADIL capsule inhaled through the AEROLIZER inhaler at least 15 minutes before exercise, as needed.  Do not use FORADIL AEROLIZER more often than every 12 hours.  Do not use extra FORADIL AEROLIZER before exercise if you already use it 2 times each day.<br/>
+                     </item>
+                     <item>If you miss a dose of FORADIL AEROLIZER, just skip that dose.  Take your next dose at your usual time.  Never take 2 doses at one time.<br/>
+                     </item>
+                     <item>Do not use a spacer device with FORADIL AEROLIZER.<br/>
+                     </item>
+                     <item>Do not breathe into FORADIL AEROLIZER.<br/>
+                     </item>
+                     <item>While you are using FORADIL AEROLIZER 2 times each day, do not use other medicines that contain a long-acting beta<sub>2</sub>-agonist (LABA) for any reason.  Ask your healthcare provider or pharmacist for a list of these medicines.  <br/>
+                     </item>
+                     <item>Do not stop using FORADIL AEROLIZER or any of your asthma medicines unless told to do so by your healthcare provider because your symptoms might get worse.  Your healthcare provider will change your medicines as needed.<br/>
+                     </item>
+                     <item>FORADIL AEROLIZER does not relieve sudden symptoms.  Always have a rescue inhaler medicine with you to treat sudden symptoms.  If you do not have an inhaled, short-acting bronchodilator, contact your healthcare provider to have one prescribed for you.</item>
+                  </list>
+                  <list listType="unordered" styleCode="Disc" ID="iecc95e10-ce43-4201-891e-ab3ee0586c20">
+                     <item>
+                        <content styleCode="bold">Call your healthcare provider or get medical care right away if:</content>
+                        <list listType="unordered" styleCode="Disc" ID="i4cb8ed17-b526-454b-8c8b-fa60a7f4e8e2">
+                           <item>your breathing problems worsen with FORADIL AEROLIZER<br/>
+                           </item>
+                           <item>you need to use your rescue inhaler medicine more often than usual<br/>
+                           </item>
+                           <item>your rescue inhaler medicine does not work as well for you at relieving symptoms<br/>
+                           </item>
+                           <item>you need to use 4 or more inhalations of your rescue inhaler medicine for 2 or more days in a row<br/>
+                           </item>
+                           <item>you use 1 whole canister of your rescue inhaler medicine in 8 weeks time<br/>
+                           </item>
+                           <item>your peak flow meter results decrease.  Your healthcare provider will tell you the numbers that are right for you.<br/>
+                           </item>
+                           <item>you have asthma and your symptoms do not improve after using FORADIL AEROLIZER regularly for 1 week.</item>
+                        </list>
+                     </item>
+                  </list>
+                  <paragraph>
+                     <content styleCode="bold">What are the possible side effects with FORADIL AEROLIZER?</content>
+                  </paragraph>
+                  <paragraph>
+                     <content styleCode="bold">FORADIL AEROLIZER may cause serious side effects, including:</content>
+                  </paragraph>
+                  <list listType="unordered" styleCode="Disc" ID="i87153a06-741d-49a0-8810-4e8f304091f4">
+                     <item>
+                        <content styleCode="bold">See “What is the most important information I should know about FORADIL AEROLIZER?”</content>
+                        <br/>
+                     </item>
+                     <item>
+                        <content styleCode="bold">Bronchospasm with wheezing or coughing and difficulty breathing</content>
+                     </item>
+                     <item>
+                        <content styleCode="bold">Low blood potassium </content>(which may cause symptoms of muscle spasm, muscle weakness or abnormal heart rhythm)</item>
+                     <item>
+                        <content styleCode="bold">Fast or irregular heart beat </content>(palpitations)</item>
+                     <item>
+                        <content styleCode="bold">S</content>
+                        <content styleCode="bold">erious allergic reactions including rash, hives, swelling of the face, mouth, and tongue, and breathing problems.  </content>Call your healthcare provider or get emergency medical care if you get any symptoms of a serious allergic reaction.</item>
+                  </list>
+                  <paragraph>
+                     <content styleCode="bold">Other possible side</content>
+                     <content styleCode="bold"> effects with FORADIL AEROLIZER include:</content>
+                  </paragraph>
+                  <list listType="unordered" styleCode="Disc" ID="i8da4ba69-35fe-45a5-8397-18dbfcd0b3f7">
+                     <item>chest pain<br/>
+                     </item>
+                     <item>increased blood pressure<br/>
+                     </item>
+                     <item>nervousness<br/>
+                     </item>
+                     <item>dry mouth<br/>
+                     </item>
+                     <item>muscle cramps <br/>
+                     </item>
+                     <item>nausea<br/>
+                     </item>
+                     <item>dizziness<br/>
+                     </item>
+                     <item>tiredness<br/>
+                     </item>
+                     <item>high blood sugar<br/>
+                     </item>
+                     <item>high blood acid<br/>
+                     </item>
+                     <item>trouble sleeping</item>
+                  </list>
+                  <paragraph>
+                     <content styleCode="bold">Common side effects with FORADIL AEROLIZER include:</content>
+                  </paragraph>
+                  <list listType="unordered" styleCode="Disc" ID="ice9db9e3-2d62-4460-83a1-b9a15d9adbbd">
+                     <item>headache<br/>
+                     </item>
+                     <item>tremor</item>
+                  </list>
+                  <paragraph>Tell your healthcare provider about any side effect that bothers you or that does not go away.</paragraph>
+                  <paragraph>These are not all the side effects with FORADIL AEROLIZER.  Ask your healthcare provider or pharmacist for more information.</paragraph>
+                  <paragraph>Call your doctor for medical advice about side effects.  You may report side effects to FDA at 1-800-FDA-1088.</paragraph>
+                  <paragraph>
+                     <content styleCode="bold">How do I store FORADIL AEROLIZER?</content>
+                  </paragraph>
+                  <list listType="unordered" styleCode="Disc" ID="if1b2e21c-0c0a-4138-8b05-f09956612885">
+                     <item>Store FORADIL AEROLIZER at room temperature between 68° F and 77° F (20° C to 25° C).  Protect FORADIL AEROLIZER from heat and moisture.  Do not remove FORADIL capsules from their foil blister package until just before use. <br/>
+                     </item>
+                     <item>Always discard the old AEROLIZER inhaler by the “Use by” date and use the new one provided with each new prescription.<br/>
+                     </item>
+                     <item>Safely discard FORADIL capsules and the Aerolizer inhaler if no longer needed or is out-of-date.  <br/>
+                     </item>
+                     <item>
+                        <content styleCode="bold">Keep FORADIL AEROLIZER and all medicines out of the reach of children.</content>
+                     </item>
+                  </list>
+                  <paragraph>
+                     <content styleCode="bold">General Information about FORADIL AEROLIZER</content>
+                  </paragraph>
+                  <paragraph>Medicines are sometimes prescribed for purposes other than those listed in a Medication Guide. Do not use FORADIL AEROLIZER for a condition for which it was not prescribed. Do not give FORADIL AEROLIZER to other people, even if they have the same condition.  It may harm them.</paragraph>
+                  <paragraph>
+		     
+	This Medication Guide summarizes the most important information about FORADIL AEROLIZER. If you would like more information, talk with your healthcare provider.  You can ask your healthcare provider or pharmacist for information about FORADIL AEROLIZER that was written for healthcare professionals.  If you have any questions about the use of FORADIL AEROLIZER, call (toll-free) 1-800-526-4099 or go to www.foradil.us.</paragraph>
+                  <paragraph>
+		     
+	</paragraph>
+                  <paragraph>
+                     <content styleCode="bold">What are the ingredients in FORADIL AEROLIZER?</content>
+                  </paragraph>
+                  <paragraph>Active ingredient: formoterol fumarate</paragraph>
+                  <paragraph>Inactive ingredients: lactose (contains milk proteins), gelatin (capsule shell)</paragraph>
+                  <paragraph>
+		     
+	</paragraph>
+                  <paragraph>
+                     <content styleCode="bold">Instructions for Using FORADIL AEROLIZER</content>
+                  </paragraph>
+                  <paragraph>
+                     <content styleCode="bold">Do not swallow FORADIL capsules.</content>
+                  </paragraph>
+                  <paragraph>Follow the instructions below for using your FORADIL AEROLIZER. <content styleCode="bold">You will breathe-in (inhale) the medicine in the FORADIL capsules from the FORADIL AEROLIZER.</content>  If you have any questions, ask your healthcare provider or pharmacist.   </paragraph>
+                  <paragraph>
+                     <content styleCode="bold">FORADIL AEROLIZER  </content>
+                  </paragraph>
+                  <list listType="unordered" styleCode="Disc" ID="ieeba0fd3-41af-409f-839b-9a6127666f6e">
+                     <item>
+                        <content styleCode="bold">FORADIL AEROLIZER consists of FORADIL</content>
+                        <content styleCode="bold"> </content>
+                        <content styleCode="bold">capsules and a AEROLIZER</content> <content styleCode="bold">Inhaler.</content>
+                        <br/>
+                     </item>
+                     <item>
+                        <content styleCode="bold">FORADIL capsules come on blister cards.</content>
+                        <br/>
+                     </item>
+                     <item>
+                        <content styleCode="bold">Keep your FORADIL and AEROLIZER Inhaler dry.  Handle with DRY hands.</content>
+                     </item>
+                  </list>
+                  <table ID="i2a351d92-6af2-4748-8f5f-28963ce3f499">
+                     <col width="310"/>
+                     <col width="310"/>
+                     <tbody>
+                        <tr>
+                           <td align="center">
+                              <renderMultiMedia referencedObject="MM02000009"/>
+                           </td>
+                           <td>Foil blister card</td>
+                        </tr>
+                        <tr>
+                           <td align="center">
+                              <renderMultiMedia referencedObject="MM0300000A"/>
+                           </td>
+                           <td>The Aerolizer consists of the following parts:<br/>1. A cap to protect the mouthpiece of the base<br/>2. A base that allows the proper release of medicine from the capsule. The base consists of:<br/>3. A mouth piece<br/>4. A capsule chamber<br/>5. A button with “winglets” (projecting side pieces) and pins on each side<br/>6. An air inlet channel.</td>
+                        </tr>
+                     </tbody>
+                  </table>
+                  <paragraph>With each new prescription of FORADIL AEROLIZER or refill, your pharmacist should have written the “Use by” date on the sticker on the outside of the FORADIL AEROLIZER box.  Remove the “Use by” sticker on the box and place it on the AEROLIZER Inhaler cover that comes with FORADIL.  If the sticker is blank, count 4 months from the date you got your FORADIL AEROLIZER from the pharmacy and write this date on the sticker.   Also, check the expiration date stamped on the box.  If this date is less than 4 months from your purchase date, write this date on the sticker.</paragraph>
+                  <paragraph>Do not use FORADIL capsules with any other capsule inhaler, and do not use the AEROLIZER inhaler to take any other capsule medicine.</paragraph>
+                  <paragraph>
+                     <content styleCode="bold">Taking a dose of FORADIL AEROLIZER requires the following steps:</content>
+                  </paragraph>
+                  <paragraph>1. Do not remove a FORADIL capsule from the blister card until you are ready for a dose.</paragraph>
+                  <paragraph>2. Pull off the AEROLIZER Inhaler cover. (Figure 1)</paragraph>
+                  <renderMultiMedia referencedObject="MM0300000B">
+                     <caption>Figure 1</caption>
+                  </renderMultiMedia>
+                  <paragraph>3. Hold the base of the AEROLIZER Inhaler firmly and twist the mouthpiece in the direction of the arrow to open. (Figure 2) Push the buttons in on each side to make sure that you can see 4 pins in the capsule well of the AEROLIZER Inhaler.</paragraph>
+                  <renderMultiMedia referencedObject="MM0300000C">
+                     <caption>Figure 2</caption>
+                  </renderMultiMedia>
+                  <paragraph>4. Separate one FORADIL capsule blister by tearing at the pre-cut lines. (Figure 3)</paragraph>
+                  <renderMultiMedia referencedObject="MM0300000D">
+                     <caption>Figure 3</caption>
+                  </renderMultiMedia>
+                  <paragraph>5. Peel the paper backing that covers one FORADIL capsule on the blister card.  Push the FORADIL capsule through the foil. (Figure 4) </paragraph>
+                  <renderMultiMedia referencedObject="MM0300000E">
+                     <caption>Figure 4</caption>
+                  </renderMultiMedia>
+                  <paragraph>6. Place the FORADIL capsule in the capsule-chamber in the base of the AEROLIZER Inhaler. <content styleCode="bold">Never place a capsule directly into the mouthpiece.</content> (Figure 5)</paragraph>
+                  <renderMultiMedia referencedObject="MM0300000F">
+                     <caption>Figure 5</caption>
+                  </renderMultiMedia>
+                  <paragraph>7. Twist the mouthpiece back to the closed position. (Figure 6)</paragraph>
+                  <renderMultiMedia referencedObject="MM03000010">
+                     <caption>Figure 6</caption>
+                  </renderMultiMedia>
+                  <paragraph>8. Hold the mouthpiece of the AEROLIZER Inhaler upright and press both buttons at the same time.  Only press the buttons <content styleCode="bold">ONCE</content>. You should hear a click as the FORADIL capsule is being pierced. (Figure 7)</paragraph>
+                  <renderMultiMedia referencedObject="MM03000011">
+                     <caption>Figure 7</caption>
+                  </renderMultiMedia>
+                  <paragraph>9. Release the buttons. If the buttons stay stuck, grasp the wings on the buttons and pull them out of the stuck position before the next step. Do not push the buttons a second time.  This may cause the FORADIL capsule to break into small pieces. There is a screen built into the AEROLIZER Inhaler to hold these small pieces. It is possible that tiny pieces of a FORADIL capsule might reach your mouth or throat when you inhale the medicine.  This will not harm you, but to avoid this, only pierce the capsule once.  The FORADIL capsules are also less likely to break into small pieces if you store them the right way (See “How do I store FORADIL AEROLIZER?”).  </paragraph>
+                  <paragraph>10. Breathe out (exhale) fully. <content styleCode="bold">Do not exhale into the AEROLIZER mouthpiece.</content> (Figure 8)</paragraph>
+                  <renderMultiMedia referencedObject="MM03000012">
+                     <caption>Figure 8</caption>
+                  </renderMultiMedia>
+                  <paragraph>11. Tilt your head back slightly. Keep the AEROLIZER Inhaler level, with the blue buttons to the left and right (<content styleCode="bold">not up and down</content>).  Place the mouthpiece in your mouth and close your lips around the mouthpiece. (Figures 9 and 10)</paragraph>
+                  <paragraph>
+                     <renderMultiMedia referencedObject="MM03000013"/>
+                  </paragraph>
+                  <paragraph>12. Breathe in quickly and deeply (Figure 11). This will cause the FORADIL capsule to spin around in the chamber and deliver your dose of medicine.   You should hear a whirring noise and experience a sweet taste in your mouth. If you do not hear the whirring noise, the capsule may be stuck. If this occurs, open the AEROLIZER Inhaler and loosen the capsule allowing it to spin freely. <content styleCode="bold">Do not try to loosen the capsule by pressing the buttons again.  </content>(You will have to repeat steps 10 to 12 again to get your dose.) </paragraph>
+                  <renderMultiMedia referencedObject="MM03000014">
+                     <caption>Figure 11</caption>
+                  </renderMultiMedia>
+                  <paragraph>13. Remove the AEROLIZER Inhaler from your mouth. Continue to hold your breath as long as you can and then exhale.</paragraph>
+                  <paragraph>14. Open the AEROLIZER Inhaler to see if any powder is still in the capsule. If any powder remains in the capsule repeat steps 10 to 13. Most people are able to empty the capsule in one or two inhalations.</paragraph>
+                  <paragraph>15. After use, open the AEROLIZER Inhaler, remove and discard the empty capsule. Do not leave a used capsule in the chamber.</paragraph>
+                  <paragraph>16. Close the mouthpiece and replace the cover.</paragraph>
+                  <paragraph>
+                     <content styleCode="bold">Remember:</content>
+                  </paragraph>
+                  <list listType="unordered" styleCode="Disc" ID="i18e77b3a-56c1-4bde-8e73-bedc4a942c59">
+                     <item>Never breathe into the AEROLIZER Inhaler.<br/>
+                     </item>
+                     <item>Never take the AEROLIZER Inhaler apart.<br/>
+                     </item>
+                     <item>Never place a FORADIL capsule directly into the mouthpiece of the AEROLIZER Inhaler.<br/>
+                     </item>
+                     <item>Never leave a used FORADIL capsule in the AEROLIZER Inhaler chamber.<br/>
+                     </item>
+                     <item>Always use the AEROLIZER Inhaler in a level position.<br/>
+                     </item>
+                     <item>Never wash the AEROLIZER Inhaler. <content styleCode="bold">Keep it dry.</content>
+                        <br/>
+                     </item>
+                     <item>Always keep the AEROLIZER Inhaler and FORADIL capsules in a dry place.<br/>
+                     </item>
+                     <item>Always use the new AEROLIZER Inhaler that comes with your refill.</item>
+                  </list>
+                  <paragraph>Manufactured by:</paragraph>
+                  <paragraph>Novartis Pharma AG, Basle, Switzerland</paragraph>
+                  <paragraph>Distributed by:</paragraph>
+                  <paragraph>Schering Corporation, a subsidiary of </paragraph>
+                  <paragraph>MERCK &amp; CO., INC.</paragraph>
+                  <paragraph>Whitehouse Station, NJ 08889, USA</paragraph>
+                  <paragraph>Copyright © 2011 Schering Corp.,a subsidiary of MERCK &amp; CO., INC.</paragraph>
+                  <paragraph>All rights reserved.</paragraph>
+                  <paragraph>FORADIL is a registered trademark of Astellas Pharma Inc.</paragraph>
+                  <paragraph>AEROLIZER is a registered trademark of Novartis AG.</paragraph>
+                  <paragraph>
+                     <content styleCode="bold">This Medication Guide has been approved by the U.S. Food and Drug Administration.</content>
+                  </paragraph>
+                  <paragraph>T2011-82</paragraph>
+                  <paragraph>February 2011</paragraph>
+               </text>
+               <effectiveTime value="20110505"/>
+               <component>
+                  <observationMedia ID="MM02000009">
+                     <text>Foil blister card</text>
+                     <value xsi:type="ED" mediaType="image/jpeg">
+                        <reference value="foradil-09.jpg"/>
+                     </value>
+                  </observationMedia>
+               </component>
+               <component>
+                  <observationMedia ID="MM0300000A">
+                     <text>The Aerolizer consists of the following parts:
+1.	A cap to protect the mouthpiece of the base
+2.	A base that allows the proper release of medicine from the capsule
+The base consists of:
+3.	A mouth piece
+4.	A capsule chamber
+5.	A button with “winglets” (projecting side pieces) and pins on each side
+6.	An air inlet channel.
+</text>
+                     <value xsi:type="ED" mediaType="image/jpeg">
+                        <reference value="foradil-0A.jpg"/>
+                     </value>
+                  </observationMedia>
+               </component>
+               <component>
+                  <observationMedia ID="MM0300000B">
+                     <text>Pull off the AEROLIZER Inhaler cover. (Figure 1)</text>
+                     <value xsi:type="ED" mediaType="image/jpeg">
+                        <reference value="foradil-0B.jpg"/>
+                     </value>
+                  </observationMedia>
+               </component>
+               <component>
+                  <observationMedia ID="MM0300000C">
+                     <text>Hold the base of the AEROLIZER Inhaler firmly and twist the mouthpiece in the direction of the arrow to open. (Figure 2) Push the buttons in on each side to make sure that you can see 4 pins in the capsule well of the AEROLIZER Inhaler.</text>
+                     <value xsi:type="ED" mediaType="image/jpeg">
+                        <reference value="foradil-0C.jpg"/>
+                     </value>
+                  </observationMedia>
+               </component>
+               <component>
+                  <observationMedia ID="MM0300000D">
+                     <text>Separate one FORADIL capsule blister by tearing at the pre-cut lines. (Figure 3)</text>
+                     <value xsi:type="ED" mediaType="image/jpeg">
+                        <reference value="foradil-0D.jpg"/>
+                     </value>
+                  </observationMedia>
+               </component>
+               <component>
+                  <observationMedia ID="MM0300000E">
+                     <text>Peel the paper backing that covers one FORADIL capsule on the blister card.  Push the FORADIL capsule through the foil. (Figure 4) </text>
+                     <value xsi:type="ED" mediaType="image/jpeg">
+                        <reference value="foradil-0E.jpg"/>
+                     </value>
+                  </observationMedia>
+               </component>
+               <component>
+                  <observationMedia ID="MM0300000F">
+                     <text>Place the FORADIL capsule in the capsule-chamber in the base of the AEROLIZER Inhaler. Never place a capsule directly into the mouthpiece. (Figure 5)</text>
+                     <value xsi:type="ED" mediaType="image/jpeg">
+                        <reference value="foradil-0F.jpg"/>
+                     </value>
+                  </observationMedia>
+               </component>
+               <component>
+                  <observationMedia ID="MM03000010">
+                     <text>Twist the mouthpiece back to the closed position. (Figure 6)</text>
+                     <value xsi:type="ED" mediaType="image/jpeg">
+                        <reference value="foradil-10.jpg"/>
+                     </value>
+                  </observationMedia>
+               </component>
+               <component>
+                  <observationMedia ID="MM03000011">
+                     <text>Hold the mouthpiece of the AEROLIZER Inhaler upright and press both buttons at the same time.  Only press the buttons ONCE. You should hear a click as the FORADIL capsule is being pierced. (Figure 7)</text>
+                     <value xsi:type="ED" mediaType="image/jpeg">
+                        <reference value="foradil-11.jpg"/>
+                     </value>
+                  </observationMedia>
+               </component>
+               <component>
+                  <observationMedia ID="MM03000012">
+                     <text>Breathe out (exhale) fully. Do not exhale into the AEROLIZER mouthpiece. (Figure 8)</text>
+                     <value xsi:type="ED" mediaType="image/jpeg">
+                        <reference value="foradil-12.jpg"/>
+                     </value>
+                  </observationMedia>
+               </component>
+               <component>
+                  <observationMedia ID="MM03000013">
+                     <text>Tilt your head back slightly. Keep the AEROLIZER Inhaler level, with the blue buttons to the left and right (not up and down).  Place the mouthpiece in your mouth and close your lips around the mouthpiece. (Figures 9 and 10)</text>
+                     <value xsi:type="ED" mediaType="image/jpeg">
+                        <reference value="foradil-13.jpg"/>
+                     </value>
+                  </observationMedia>
+               </component>
+               <component>
+                  <observationMedia ID="MM03000014">
+                     <text>Breathe in quickly and deeply (Figure 11). This will cause the FORADIL capsule to spin around in the chamber and deliver your dose of medicine.   You should hear a whirring noise and experience a sweet taste in your mouth. If you do not hear the whirring noise, the capsule may be stuck. If this occurs, open the AEROLIZER Inhaler and loosen the capsule allowing it to spin freely. Do not try to loosen the capsule by pressing the buttons again.  (You will have to repeat steps 10 to 12 again to get your dose.) </text>
+                     <value xsi:type="ED" mediaType="image/jpeg">
+                        <reference value="foradil-14.jpg"/>
+                     </value>
+                  </observationMedia>
+               </component>
+            </section>
+         </component>
+         <component>
+            <section>
+               <id root="3a1eb537-d647-4f2e-ae37-3bb26804a64b"/>
+               <code codeSystem="2.16.840.1.113883.6.1" code="51945-4" displayName="PACKAGE LABEL.PRINCIPAL DISPLAY PANEL"/>
+               <title>
+                  <content styleCode="bold">
+                     <br/>Principal display panel</content>
+               </title>
+               <text>
+                  <paragraph>Package Label – 12 mcg per capsule</paragraph>
+                  <paragraph>Rx Only
+		     
+	
+		     
+	NDC 54868-4972-1</paragraph>
+                  <paragraph>
+                     <renderMultiMedia referencedObject="MM03000015"/>
+                  </paragraph>
+                  <paragraph>Foradil® Aerolizer®</paragraph>
+                  <paragraph>(formoterol fumarate inhalation powder)</paragraph>
+                  <paragraph>FOR INHALATION USE ONLY</paragraph>
+                  <paragraph>Foradil® capsules for use with Aerolizer® Inhaler only</paragraph>
+                  <paragraph>60 Capsules</paragraph>
+                  <paragraph>
+                     <br/>
+                  </paragraph>
+               </text>
+               <effectiveTime value="20120301"/>
+               <component>
+                  <observationMedia ID="MM03000015">
+                     <text>image of 12 mcg capsules</text>
+                     <value xsi:type="ED" mediaType="image/jpeg">
+                        <reference value="4972.jpg"/>
+                     </value>
+                  </observationMedia>
+               </component>
+            </section>
+         </component>
+      </structuredBody>
+   </component>
+</document>

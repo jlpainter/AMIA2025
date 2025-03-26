@@ -1,0 +1,1451 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet href="https://www.accessdata.fda.gov/spl/stylesheet/spl.xsl" type="text/xsl"?>
+<document xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:hl7-org:v3 https://www.accessdata.fda.gov/spl/schema/spl.xsd">
+   <id root="ed0040fb-c481-4477-8712-00fa6350cd70"/>
+   <code code="34391-3" codeSystem="2.16.840.1.113883.6.1" displayName="HUMAN PRESCRIPTION DRUG LABEL"/>
+   <title>These highlights do not include all the information needed to use NIPRIDE<sup>®</sup> RTU safely and effectively. See full prescribing information for NIPRIDE<sup>®</sup> RTU.<br/>
+      <br/>NIPRIDE<sup>®</sup> RTU, for intravenous use<br/>Initial U.S. Approval: 1988</title>
+   <effectiveTime value="20180720"/>
+   <setId root="5acf0836-93ff-4064-b888-3f560e8a558d"/>
+   <versionNumber value="6"/>
+   <author>
+      <time/>
+      <assignedEntity>
+         <representedOrganization>
+            <id extension="831274399" root="1.3.6.1.4.1.519.1"/>
+            <name>EXELA PHARMA SCIENCES, LLC</name>
+            <assignedEntity>
+               <assignedOrganization>
+                  <assignedEntity>
+                     <assignedOrganization>
+                        <id extension="831274399" root="1.3.6.1.4.1.519.1"/>
+                        <name>EXELA PHARMA SCIENCES, LLC</name>
+                     </assignedOrganization>
+                     <performance>
+                        <actDefinition>
+                           <code code="C43360" codeSystem="2.16.840.1.113883.3.26.1.1" displayName="MANUFACTURE"/>
+                           <product>
+                              <manufacturedProduct classCode="MANU">
+                                 <manufacturedMaterialKind>
+                                    <code code="51754-1006" codeSystem="2.16.840.1.113883.6.69"/>
+                                 </manufacturedMaterialKind>
+                              </manufacturedProduct>
+                           </product>
+                        </actDefinition>
+                     </performance>
+                     <performance>
+                        <actDefinition>
+                           <code code="C43360" codeSystem="2.16.840.1.113883.3.26.1.1" displayName="MANUFACTURE"/>
+                           <product>
+                              <manufacturedProduct classCode="MANU">
+                                 <manufacturedMaterialKind>
+                                    <code code="51754-1018" codeSystem="2.16.840.1.113883.6.69"/>
+                                 </manufacturedMaterialKind>
+                              </manufacturedProduct>
+                           </product>
+                        </actDefinition>
+                     </performance>
+                     <performance>
+                        <actDefinition>
+                           <code code="C43360" codeSystem="2.16.840.1.113883.3.26.1.1" displayName="MANUFACTURE"/>
+                           <product>
+                              <manufacturedProduct classCode="MANU">
+                                 <manufacturedMaterialKind>
+                                    <code code="51754-1029" codeSystem="2.16.840.1.113883.6.69"/>
+                                 </manufacturedMaterialKind>
+                              </manufacturedProduct>
+                           </product>
+                        </actDefinition>
+                     </performance>
+                  </assignedEntity>
+               </assignedOrganization>
+            </assignedEntity>
+         </representedOrganization>
+      </assignedEntity>
+   </author>
+   <component>
+      <structuredBody>
+         <component>
+            <section>
+               <id root="1c04217f-5a2f-4218-9770-ec235b205da0"/>
+               <code code="48780-1" codeSystem="2.16.840.1.113883.6.1" displayName="SPL product data elements section"/>
+               <effectiveTime value="20180720"/>
+               <subject>
+                  <manufacturedProduct>
+                     <manufacturedProduct>
+                        <code code="51754-1006" codeSystem="2.16.840.1.113883.6.69"/>
+                        <name>NIPRIDE RTU</name>
+                        <formCode code="C42945" codeSystem="2.16.840.1.113883.3.26.1.1" displayName="INJECTION, SOLUTION"/>
+                        <asEntityWithGeneric>
+                           <genericMedicine>
+                              <name>Sodium Nitroprusside</name>
+                           </genericMedicine>
+                        </asEntityWithGeneric>
+                        <ingredient classCode="ACTIB">
+                           <quantity>
+                              <numerator unit="mg" value="0.5"/>
+                              <denominator unit="mL" value="1"/>
+                           </quantity>
+                           <ingredientSubstance>
+                              <code code="EAO03PE1TC" codeSystem="2.16.840.1.113883.4.9"/>
+                              <name>SODIUM NITROPRUSSIDE</name>
+                              <activeMoiety>
+                                 <activeMoiety>
+                                    <code code="169D1260KM" codeSystem="2.16.840.1.113883.4.9"/>
+                                    <name>NITROPRUSSIDE</name>
+                                 </activeMoiety>
+                              </activeMoiety>
+                           </ingredientSubstance>
+                        </ingredient>
+                        <ingredient classCode="IACT">
+                           <quantity>
+                              <numerator unit="mg" value="900"/>
+                              <denominator unit="mL" value="1"/>
+                           </quantity>
+                           <ingredientSubstance>
+                              <code code="451W47IQ8X" codeSystem="2.16.840.1.113883.4.9"/>
+                              <name>SODIUM CHLORIDE</name>
+                           </ingredientSubstance>
+                        </ingredient>
+                        <ingredient classCode="IACT">
+                           <ingredientSubstance>
+                              <code code="059QF0KO0R" codeSystem="2.16.840.1.113883.4.9"/>
+                              <name>WATER</name>
+                           </ingredientSubstance>
+                        </ingredient>
+                        <asContent>
+                           <quantity>
+                              <numerator unit="mL" value="100"/>
+                              <denominator value="1"/>
+                           </quantity>
+                           <containerPackagedProduct>
+                              <code/>
+                              <formCode code="C43226" codeSystem="2.16.840.1.113883.3.26.1.1" displayName="VIAL"/>
+                              <asContent>
+                                 <quantity>
+                                    <numerator unit="1" value="1"/>
+                                    <denominator value="1"/>
+                                 </quantity>
+                                 <containerPackagedProduct>
+                                    <code code="51754-1006-1" codeSystem="2.16.840.1.113883.6.69"/>
+                                    <formCode code="C43226" codeSystem="2.16.840.1.113883.3.26.1.1" displayName="VIAL"/>
+                                 </containerPackagedProduct>
+                                 <subjectOf>
+                                    <marketingAct>
+                                       <code code="C53292" codeSystem="2.16.840.1.113883.3.26.1.1"/>
+                                       <statusCode code="active"/>
+                                       <effectiveTime>
+                                          <low value="20170320"/>
+                                       </effectiveTime>
+                                    </marketingAct>
+                                 </subjectOf>
+                              </asContent>
+                           </containerPackagedProduct>
+                           <subjectOf>
+                              <characteristic classCode="OBS">
+                                 <code code="SPLCMBPRDTP" codeSystem="2.16.840.1.113883.1.11.19255"/>
+                                 <value code="C112160" codeSystem="2.16.840.1.113883.3.26.1.1" displayName="Type 0: Not a Combination Product" xsi:type="CE"/>
+                              </characteristic>
+                           </subjectOf>
+                        </asContent>
+                     </manufacturedProduct>
+                     <subjectOf>
+                        <approval>
+                           <id extension="NDA209387" root="2.16.840.1.113883.3.150"/>
+                           <code code="C73594" codeSystem="2.16.840.1.113883.3.26.1.1" displayName="NDA"/>
+                           <author>
+                              <territorialAuthority>
+                                 <territory>
+                                    <code code="USA" codeSystem="2.16.840.1.113883.5.28"/>
+                                 </territory>
+                              </territorialAuthority>
+                           </author>
+                        </approval>
+                     </subjectOf>
+                     <subjectOf>
+                        <marketingAct>
+                           <code code="C53292" codeSystem="2.16.840.1.113883.3.26.1.1"/>
+                           <statusCode code="active"/>
+                           <effectiveTime>
+                              <low value="20170320"/>
+                           </effectiveTime>
+                        </marketingAct>
+                     </subjectOf>
+                     <consumedIn>
+                        <substanceAdministration>
+                           <routeCode code="C38276" codeSystem="2.16.840.1.113883.3.26.1.1" displayName="INTRAVENOUS"/>
+                        </substanceAdministration>
+                     </consumedIn>
+                  </manufacturedProduct>
+               </subject>
+               <subject>
+                  <manufacturedProduct>
+                     <manufacturedProduct>
+                        <code code="51754-1018" codeSystem="2.16.840.1.113883.6.69"/>
+                        <name>NIPRIDE RTU</name>
+                        <formCode code="C42945" codeSystem="2.16.840.1.113883.3.26.1.1" displayName="INJECTION, SOLUTION"/>
+                        <asEntityWithGeneric>
+                           <genericMedicine>
+                              <name>Sodium Nitroprusside</name>
+                           </genericMedicine>
+                        </asEntityWithGeneric>
+                        <ingredient classCode="ACTIB">
+                           <quantity>
+                              <numerator unit="mg" value="0.2"/>
+                              <denominator unit="mL" value="1"/>
+                           </quantity>
+                           <ingredientSubstance>
+                              <code code="EAO03PE1TC" codeSystem="2.16.840.1.113883.4.9"/>
+                              <name>SODIUM NITROPRUSSIDE</name>
+                              <activeMoiety>
+                                 <activeMoiety>
+                                    <code code="169D1260KM" codeSystem="2.16.840.1.113883.4.9"/>
+                                    <name>NITROPRUSSIDE</name>
+                                 </activeMoiety>
+                              </activeMoiety>
+                           </ingredientSubstance>
+                        </ingredient>
+                        <ingredient classCode="IACT">
+                           <quantity>
+                              <numerator unit="mg" value="9"/>
+                              <denominator unit="mL" value="1"/>
+                           </quantity>
+                           <ingredientSubstance>
+                              <code code="451W47IQ8X" codeSystem="2.16.840.1.113883.4.9"/>
+                              <name>SODIUM CHLORIDE</name>
+                           </ingredientSubstance>
+                        </ingredient>
+                        <ingredient classCode="IACT">
+                           <ingredientSubstance>
+                              <code code="059QF0KO0R" codeSystem="2.16.840.1.113883.4.9"/>
+                              <name>WATER</name>
+                           </ingredientSubstance>
+                        </ingredient>
+                        <asContent>
+                           <quantity>
+                              <numerator unit="mL" value="50"/>
+                              <denominator value="1"/>
+                           </quantity>
+                           <containerPackagedProduct>
+                              <code/>
+                              <formCode code="C43226" codeSystem="2.16.840.1.113883.3.26.1.1" displayName="VIAL"/>
+                              <asContent>
+                                 <quantity>
+                                    <numerator unit="1" value="1"/>
+                                    <denominator value="1"/>
+                                 </quantity>
+                                 <containerPackagedProduct>
+                                    <code code="51754-1018-1" codeSystem="2.16.840.1.113883.6.69"/>
+                                    <formCode code="C43226" codeSystem="2.16.840.1.113883.3.26.1.1" displayName="VIAL"/>
+                                 </containerPackagedProduct>
+                                 <subjectOf>
+                                    <marketingAct>
+                                       <code code="C53292" codeSystem="2.16.840.1.113883.3.26.1.1"/>
+                                       <statusCode code="active"/>
+                                       <effectiveTime>
+                                          <low value="20180209"/>
+                                       </effectiveTime>
+                                    </marketingAct>
+                                 </subjectOf>
+                              </asContent>
+                           </containerPackagedProduct>
+                           <subjectOf>
+                              <characteristic classCode="OBS">
+                                 <code code="SPLCMBPRDTP" codeSystem="2.16.840.1.113883.1.11.19255"/>
+                                 <value code="C112160" codeSystem="2.16.840.1.113883.3.26.1.1" displayName="Type 0: Not a Combination Product" xsi:type="CE"/>
+                              </characteristic>
+                           </subjectOf>
+                        </asContent>
+                     </manufacturedProduct>
+                     <subjectOf>
+                        <approval>
+                           <id extension="NDA209387" root="2.16.840.1.113883.3.150"/>
+                           <code code="C73594" codeSystem="2.16.840.1.113883.3.26.1.1" displayName="NDA"/>
+                           <author>
+                              <territorialAuthority>
+                                 <territory>
+                                    <code code="USA" codeSystem="2.16.840.1.113883.5.28"/>
+                                 </territory>
+                              </territorialAuthority>
+                           </author>
+                        </approval>
+                     </subjectOf>
+                     <subjectOf>
+                        <marketingAct>
+                           <code code="C53292" codeSystem="2.16.840.1.113883.3.26.1.1"/>
+                           <statusCode code="completed"/>
+                           <effectiveTime>
+                              <low value="20180209"/>
+                              <high value="20190830"/>
+                           </effectiveTime>
+                        </marketingAct>
+                     </subjectOf>
+                     <consumedIn>
+                        <substanceAdministration>
+                           <routeCode code="C38276" codeSystem="2.16.840.1.113883.3.26.1.1" displayName="INTRAVENOUS"/>
+                        </substanceAdministration>
+                     </consumedIn>
+                  </manufacturedProduct>
+               </subject>
+               <subject>
+                  <manufacturedProduct>
+                     <manufacturedProduct>
+                        <code code="51754-1029" codeSystem="2.16.840.1.113883.6.69"/>
+                        <name>NIPRIDE RTU</name>
+                        <formCode code="C42945" codeSystem="2.16.840.1.113883.3.26.1.1" displayName="INJECTION, SOLUTION"/>
+                        <asEntityWithGeneric>
+                           <genericMedicine>
+                              <name>Sodium Nitroprusside</name>
+                           </genericMedicine>
+                        </asEntityWithGeneric>
+                        <ingredient classCode="ACTIB">
+                           <quantity>
+                              <numerator unit="mg" value="0.2"/>
+                              <denominator unit="mL" value="1"/>
+                           </quantity>
+                           <ingredientSubstance>
+                              <code code="EAO03PE1TC" codeSystem="2.16.840.1.113883.4.9"/>
+                              <name>SODIUM NITROPRUSSIDE</name>
+                              <activeMoiety>
+                                 <activeMoiety>
+                                    <code code="169D1260KM" codeSystem="2.16.840.1.113883.4.9"/>
+                                    <name>NITROPRUSSIDE</name>
+                                 </activeMoiety>
+                              </activeMoiety>
+                           </ingredientSubstance>
+                        </ingredient>
+                        <ingredient classCode="IACT">
+                           <quantity>
+                              <numerator unit="mg" value="9"/>
+                              <denominator unit="mL" value="1"/>
+                           </quantity>
+                           <ingredientSubstance>
+                              <code code="451W47IQ8X" codeSystem="2.16.840.1.113883.4.9"/>
+                              <name>SODIUM CHLORIDE</name>
+                           </ingredientSubstance>
+                        </ingredient>
+                        <ingredient classCode="IACT">
+                           <ingredientSubstance>
+                              <code code="059QF0KO0R" codeSystem="2.16.840.1.113883.4.9"/>
+                              <name>WATER</name>
+                           </ingredientSubstance>
+                        </ingredient>
+                        <asContent>
+                           <quantity>
+                              <numerator unit="mL" value="100"/>
+                              <denominator value="1"/>
+                           </quantity>
+                           <containerPackagedProduct>
+                              <code/>
+                              <formCode code="C43226" codeSystem="2.16.840.1.113883.3.26.1.1" displayName="VIAL"/>
+                              <asContent>
+                                 <quantity>
+                                    <numerator unit="1" value="1"/>
+                                    <denominator value="1"/>
+                                 </quantity>
+                                 <containerPackagedProduct>
+                                    <code code="51754-1029-1" codeSystem="2.16.840.1.113883.6.69"/>
+                                    <formCode code="C43182" codeSystem="2.16.840.1.113883.3.26.1.1" displayName="CARTON"/>
+                                 </containerPackagedProduct>
+                                 <subjectOf>
+                                    <marketingAct>
+                                       <code code="C53292" codeSystem="2.16.840.1.113883.3.26.1.1"/>
+                                       <statusCode code="active"/>
+                                       <effectiveTime>
+                                          <low value="20180720"/>
+                                       </effectiveTime>
+                                    </marketingAct>
+                                 </subjectOf>
+                              </asContent>
+                           </containerPackagedProduct>
+                           <subjectOf>
+                              <characteristic classCode="OBS">
+                                 <code code="SPLCMBPRDTP" codeSystem="2.16.840.1.113883.1.11.19255"/>
+                                 <value code="C112160" codeSystem="2.16.840.1.113883.3.26.1.1" displayName="Type 0: Not a Combination Product" xsi:type="CE"/>
+                              </characteristic>
+                           </subjectOf>
+                        </asContent>
+                     </manufacturedProduct>
+                     <subjectOf>
+                        <approval>
+                           <id extension="NDA209387" root="2.16.840.1.113883.3.150"/>
+                           <code code="C73594" codeSystem="2.16.840.1.113883.3.26.1.1" displayName="NDA"/>
+                           <author>
+                              <territorialAuthority>
+                                 <territory>
+                                    <code code="USA" codeSystem="2.16.840.1.113883.5.28"/>
+                                 </territory>
+                              </territorialAuthority>
+                           </author>
+                        </approval>
+                     </subjectOf>
+                     <subjectOf>
+                        <marketingAct>
+                           <code code="C53292" codeSystem="2.16.840.1.113883.3.26.1.1"/>
+                           <statusCode code="active"/>
+                           <effectiveTime>
+                              <low value="20180720"/>
+                           </effectiveTime>
+                        </marketingAct>
+                     </subjectOf>
+                     <consumedIn>
+                        <substanceAdministration>
+                           <routeCode code="C38276" codeSystem="2.16.840.1.113883.3.26.1.1" displayName="INTRAVENOUS"/>
+                        </substanceAdministration>
+                     </consumedIn>
+                  </manufacturedProduct>
+               </subject>
+            </section>
+         </component>
+         <component>
+            <section ID="L84996776-bcb0-47f4-87db-523155705f2b">
+               <id root="be25e996-c21c-4b9d-9571-60e2c6f252f4"/>
+               <code code="34066-1" codeSystem="2.16.840.1.113883.6.1" displayName="Boxed Warning section"/>
+               <title>WARNING: (A) EXCESSIVE HYPOTENSION; (B) CYANIDE TOXICITY</title>
+               <text>
+                  <paragraph>
+                     <content styleCode="bold">(A) EXCESSIVE HYPOTENSION:</content>
+                  </paragraph>
+                  <paragraph>
+                     <content styleCode="bold">Sodium Nitroprusside can cause precipitous decreases in blood pressure which can lead to irreversible ischemic injuries or death. Use only with continuous blood pressure monitoring <content styleCode="italics">[see Dosage and Administration (<linkHtml href="#L1b0b1448-176b-4991-b487-acafae58c650">2.2</linkHtml>) and Warnings and Precautions (<linkHtml href="#L8d76dc38-a9a3-42c5-afb6-e2b15e0c786e">5.1</linkHtml>).</content>
+                     </content>
+                  </paragraph>
+                  <paragraph>
+                     <content styleCode="bold">(B) CYANIDE TOXICITY: </content>
+                  </paragraph>
+                  <paragraph>
+                     <content styleCode="bold">Sodium nitroprusside metabolism produces dose-related cyanide, which can be lethal.  A patient’s ability to buffer cyanide will be exceeded in less than one hour at the maximum dose rate (10 mcg/kg/min); limit infusions at the maximum rate to as short a duration as possible <content styleCode="italics">[see Warnings and Precautions (<linkHtml href="#Le16187aa-b444-45bc-af92-de5b58784197">5.2</linkHtml>)].</content>
+                     </content>
+                  </paragraph>
+               </text>
+               <effectiveTime value="20180720"/>
+               <excerpt>
+                  <highlight>
+                     <text>
+                        <paragraph>WARNING: (A) EXCESSIVE HYPOTENSION; (B) CYANIDE TOXICITY</paragraph>
+                        <paragraph>
+                           <content styleCode="bold">(A) Sodium Nitroprusside can cause precipitous decreases in blood pressure which can lead to irreversible ischemic injuries or death. Use only with continuous blood pressure monitoring. (</content>
+                           <linkHtml href="#L1b0b1448-176b-4991-b487-acafae58c650">2.2</linkHtml>
+                           <content styleCode="bold">, </content>
+                           <linkHtml href="#L8d76dc38-a9a3-42c5-afb6-e2b15e0c786e">5.1</linkHtml>
+                           <content styleCode="bold">)</content>
+                        </paragraph>
+                        <paragraph>
+                           <content styleCode="bold">(B) Sodium nitroprusside metabolism produces dose-related cyanide, which can be lethal.  A patient’s ability to buffer cyanide will be exceeded in less than one hour at the maximum dose rate (10 mcg/kg/min); limit infusion at the maximum rate to as short a duration as possible (</content>
+                           <linkHtml href="#Le16187aa-b444-45bc-af92-de5b58784197">5.2</linkHtml>
+                           <content styleCode="bold">).</content>
+                        </paragraph>
+                     </text>
+                  </highlight>
+               </excerpt>
+            </section>
+         </component>
+         <component>
+            <section ID="L8c8bfa46-b19d-4289-b436-82898c3b13bd">
+               <id root="a9ebed62-9321-483a-a975-163397a2d5ae"/>
+               <code code="34067-9" codeSystem="2.16.840.1.113883.6.1" displayName="INDICATIONS &amp; USAGE SECTION"/>
+               <title>1 INDICATIONS AND USAGE</title>
+               <effectiveTime value="20180720"/>
+               <excerpt>
+                  <highlight>
+                     <text>
+                        <paragraph>Sodium nitroprusside is a direct acting vasodilator indicated for:</paragraph>
+                        <list listType="unordered">
+                           <item>
+                              <caption>•</caption>Immediate reduction of blood pressure (<linkHtml href="#L8aef6194-b0fd-4744-bd8e-d83397425ba1">1.1</linkHtml>)</item>
+                           <item>
+                              <caption>•</caption>Producing controlled hypotension to reduce bleeding during surgery. (<linkHtml href="#L3bfa1e13-7b32-4ec3-a3f1-70ce47042215">1.2</linkHtml>)</item>
+                           <item>
+                              <caption>•</caption>Treatment of acute heart failure to reduce left ventricular end-diastolic pressure, pulmonary capillary wedge pressure, peripheral vascular resistance and mean arterial blood pressure. (<linkHtml href="#L2cc2e749-6c2a-4ae8-876d-269864b558c4">1.3</linkHtml>)</item>
+                        </list>
+                     </text>
+                  </highlight>
+               </excerpt>
+               <component>
+                  <section ID="L8aef6194-b0fd-4744-bd8e-d83397425ba1">
+                     <id root="8755f5ff-05ad-4362-8be8-f714150439d5"/>
+                     <code code="42229-5" codeSystem="2.16.840.1.113883.6.1" displayName="SPL UNCLASSIFIED SECTION"/>
+                     <title>1.1 Immediate Reduction of Blood Pressure</title>
+                     <text>
+                        <paragraph>Sodium nitroprusside is indicated for the immediate reduction of blood pressure of adult and pediatric patients in hypertensive crises.</paragraph>
+                     </text>
+                     <effectiveTime value="20180720"/>
+                  </section>
+               </component>
+               <component>
+                  <section ID="L3bfa1e13-7b32-4ec3-a3f1-70ce47042215">
+                     <id root="b0f70a1d-a313-4847-a707-95a4506bc7a1"/>
+                     <code code="42229-5" codeSystem="2.16.840.1.113883.6.1" displayName="SPL UNCLASSIFIED SECTION"/>
+                     <title>1.2 Induction and Maintenance of Controlled Hypotension</title>
+                     <text>
+                        <paragraph>Sodium nitroprusside indicated for induction and maintenance of controlled hypotension in adults and children during surgery, to reduce bleeding.</paragraph>
+                     </text>
+                     <effectiveTime value="20180720"/>
+                  </section>
+               </component>
+               <component>
+                  <section ID="L2cc2e749-6c2a-4ae8-876d-269864b558c4">
+                     <id root="00e58038-d97f-4a52-aca2-bb47229312fd"/>
+                     <code code="42229-5" codeSystem="2.16.840.1.113883.6.1" displayName="SPL UNCLASSIFIED SECTION"/>
+                     <title>1.3 Treatment of Acute Heart Failure</title>
+                     <text>
+                        <paragraph>Sodium nitroprusside is indicated for the treatment of acute heart failure to reduce, left ventricular end-diastolic pressure, pulmonary capillary wedge pressure, peripheral vascular resistance and mean arterial blood pressure.</paragraph>
+                     </text>
+                     <effectiveTime value="20180720"/>
+                  </section>
+               </component>
+            </section>
+         </component>
+         <component>
+            <section ID="L5870d1af-b1b6-4773-afd4-87b80689c8f7">
+               <id root="ab0233cf-b974-48bb-8c15-dccc7b10b590"/>
+               <code code="34068-7" codeSystem="2.16.840.1.113883.6.1" displayName="DOSAGE &amp; ADMINISTRATION SECTION"/>
+               <title>2 DOSAGE AND ADMINISTRATION</title>
+               <effectiveTime value="20180720"/>
+               <excerpt>
+                  <highlight>
+                     <text>
+                        <paragraph>Initiate infusion of sodium nitroprusside at a rate of 0.3 mcg/kg/min, and titrate every few minutes until the desired effect is achieved OR the maximum recommended infusion rate of 10 mcg/kg/min has been reached (<linkHtml href="#L1b0b1448-176b-4991-b487-acafae58c650">2.2</linkHtml>). </paragraph>
+                     </text>
+                  </highlight>
+               </excerpt>
+               <component>
+                  <section ID="Ld9198510-d09d-40ee-8db7-e8d7466b9b67">
+                     <id root="9f8f45f7-b497-4c57-a19f-bb6e4095f7da"/>
+                     <code code="42229-5" codeSystem="2.16.840.1.113883.6.1" displayName="SPL UNCLASSIFIED SECTION"/>
+                     <title>2.1 Inspection</title>
+                     <text>
+                        <paragraph>Inspect parenteral drug products for particulate matter and discoloration prior to administration, whenever solution and container permit. Sodium nitroprusside should be a clear colorless to red/brown color; do not use if solution is blue, green, or bright red.</paragraph>
+                     </text>
+                     <effectiveTime value="20180720"/>
+                  </section>
+               </component>
+               <component>
+                  <section ID="L1b0b1448-176b-4991-b487-acafae58c650">
+                     <id root="671d8a14-4e1e-4237-b89d-c843fc93ee73"/>
+                     <code code="42229-5" codeSystem="2.16.840.1.113883.6.1" displayName="SPL UNCLASSIFIED SECTION"/>
+                     <title>2.2 Dosing</title>
+                     <text>
+                        <paragraph>Continuously monitor blood pressure in patients receiving sodium nitroprusside. Start infusion of sodium nitroprusside at a rate of 0.3 mcg/kg/min. Evaluate blood pressure for at least 5 minutes before titrating to a higher or lower dose to achieve the desired blood pressure.  The dose may be titrated upward until:</paragraph>
+                        <list listType="unordered">
+                           <item>
+                              <caption>•</caption>the desired effect is achieved,</item>
+                           <item>
+                              <caption>•</caption>systemic blood pressure cannot be further reduced without compromising the perfusion of vital organs, or</item>
+                           <item>
+                              <caption>•</caption>the maximum recommended infusion rate of 10 mcg/kg/min has been reached, whichever occurs first. </item>
+                        </list>
+                        <paragraph>In patients with eGFR &lt;30 mL/min/1.73 m<sup>2</sup>, limit the mean infusion rate to less than 3 mcg/kg/min.  In anuric patients, limit the mean infusion rate to 1 mcg/kg/min.</paragraph>
+                     </text>
+                     <effectiveTime value="20180720"/>
+                  </section>
+               </component>
+               <component>
+                  <section ID="L83b487b0-6ed6-46d3-80cb-1c022ce11572">
+                     <id root="2a970467-354e-45af-bb28-fa44b4fb2399"/>
+                     <code code="42229-5" codeSystem="2.16.840.1.113883.6.1" displayName="SPL UNCLASSIFIED SECTION"/>
+                     <title>2.3 Administration</title>
+                     <text>
+                        <paragraph>Do not administer other drugs in the same solution with sodium nitroprusside.</paragraph>
+                        <paragraph>Sodium nitroprusside must be delivered by a volumetric infusion pump because small variations in infusion rate can lead to wide, undesirable variations in blood pressure <content styleCode="italics">[see Clinical Pharmacology (<linkHtml href="#Lf3a1e450-2c4a-425e-96e6-6df4eeb0094c">12.2</linkHtml>)]</content>.</paragraph>
+                     </text>
+                     <effectiveTime value="20180720"/>
+                  </section>
+               </component>
+            </section>
+         </component>
+         <component>
+            <section ID="L9532e44f-2f26-44da-96f9-da64bde3ba9d">
+               <id root="59ec291c-eb7b-48dd-8de2-85b296caf1a3"/>
+               <code code="43678-2" codeSystem="2.16.840.1.113883.6.1" displayName="DOSAGE FORMS &amp; STRENGTHS SECTION"/>
+               <title>3 DOSAGE FORMS AND STRENGTHS</title>
+               <text>
+                  <paragraph>Injection: 50 mg/100 mL of 0.9% sodium chloride (0.5 mg/mL), 20 mg/100 mL of 0.9% sodium chloride (0.2 mg/mL), and 10 mg/50 mL of 0.9% sodium chloride (0.2 mg/mL). NIPRIDE<content styleCode="bold">
+                        <sup>®</sup>
+                     </content> RTU is supplied as a sterile, unpreserved, colorless to red-brown solution available in a single-use vial.</paragraph>
+               </text>
+               <effectiveTime value="20180720"/>
+               <excerpt>
+                  <highlight>
+                     <text>
+                        <paragraph>Injection: 50 mg of sodium nitroprusside in 100 mL of 0.9% sodium chloride (0.5 mg/mL) in 100 mL single-use vials, 20 mg of sodium nitroprusside in 100 mL of 0.9% sodium chloride (0.2 mg/mL) in 100 mL single-use vials and 10 mg of sodium nitroprusside in 50 mL of 0.9% sodium chloride (0.2 mg/mL) in 50 mL single-use vials (<linkHtml href="#L9532e44f-2f26-44da-96f9-da64bde3ba9d">3</linkHtml>).</paragraph>
+                     </text>
+                  </highlight>
+               </excerpt>
+            </section>
+         </component>
+         <component>
+            <section ID="L0de0b0ad-8256-4e8b-a745-bd65af269ee3">
+               <id root="3d965125-5757-40a9-98a6-496623936404"/>
+               <code code="34070-3" codeSystem="2.16.840.1.113883.6.1" displayName="CONTRAINDICATIONS SECTION"/>
+               <title>4 CONTRAINDICATIONS</title>
+               <text>
+                  <list listType="unordered">
+                     <item>
+                        <caption>•</caption>Diseases with compensatory hypertension (e.g., coarctation of the aorta, arteriovenous shunting).</item>
+                     <item>
+                        <caption>•</caption>Inadequate cerebral circulation or in moribund patients (A.S.A. Class 5E) coming to emergency surgery.</item>
+                     <item>
+                        <caption>•</caption>Patients with congenital (Leber’s) optic atrophy or with tobacco amblyopia.  </item>
+                     <item>
+                        <caption>•</caption>Acute heart failure associated with reduced peripheral vascular resistance.</item>
+                     <item>
+                        <caption>•</caption>Concomitant use with sildenafil, tadalafil, vardenifil, or riociguat. </item>
+                  </list>
+               </text>
+               <effectiveTime value="20180720"/>
+               <excerpt>
+                  <highlight>
+                     <text>
+                        <list listType="unordered">
+                           <item>
+                              <caption>•</caption>Diseases with compensatory hypertension (e.g. coarctation of the aorta, arteriovenous shunting) (<linkHtml href="#L0de0b0ad-8256-4e8b-a745-bd65af269ee3">4</linkHtml>).</item>
+                           <item>
+                              <caption>•</caption>Inadequate cerebral circulation or moribund patients (A.S.A. Class 5E) coming to emergency surgery (<linkHtml href="file:///C:\Users\regteam\AppData\Local\Temp\form.html">4</linkHtml>).</item>
+                           <item>
+                              <caption>•</caption>Congenital (Leber’s) optic atrophy or tobacco amblyopia (<linkHtml href="file:///C:\Users\regteam\AppData\Local\Temp\form.html">4</linkHtml>).</item>
+                           <item>
+                              <caption>•</caption>Acute heart failure with reduced peripheral vascular resistance (<linkHtml href="file:///C:\Users\regteam\AppData\Local\Temp\form.html">4</linkHtml>).</item>
+                           <item>
+                              <caption>•</caption>Concomitant use with sildenafil, tadalafil, vardenifil, or riociguat (<linkHtml href="file:///C:\Users\regteam\AppData\Local\Temp\form.html">4</linkHtml>)</item>
+                        </list>
+                     </text>
+                  </highlight>
+               </excerpt>
+            </section>
+         </component>
+         <component>
+            <section ID="Lddc48686-d132-42ec-a988-137edb08376c">
+               <id root="a0b85c1b-42a7-47b3-aaa7-c685756e75d5"/>
+               <code code="43685-7" codeSystem="2.16.840.1.113883.6.1" displayName="WARNINGS AND PRECAUTIONS SECTION"/>
+               <title>5 WARNINGS AND PRECAUTIONS</title>
+               <effectiveTime value="20180720"/>
+               <excerpt>
+                  <highlight>
+                     <text>
+                        <list listType="unordered">
+                           <item>
+                              <caption>•</caption>Thiocynate toxicity (<linkHtml href="#Lfeb70cb2-15dd-484c-8ac6-15fe663b1387">5.3</linkHtml>)</item>
+                           <item>
+                              <caption>•</caption>Methemoglobinemia (<linkHtml href="#L606fd5aa-45cd-480c-a808-d6eabd295085">5.4</linkHtml>) </item>
+                           <item>
+                              <caption>•</caption>Increases in intracranial pressure (<linkHtml href="#Ld90243d8-31c9-4aef-89aa-9231087dd5a7">5.5</linkHtml>)</item>
+                           <item>
+                              <caption>•</caption>Diminished capacity to compensate for anemia and hypovolemia with anesthesia during surgery (<linkHtml href="#L7b0f644f-9e51-4f8a-b479-40ddb52238d0">5.6</linkHtml>)</item>
+                        </list>
+                     </text>
+                  </highlight>
+               </excerpt>
+               <component>
+                  <section ID="L8d76dc38-a9a3-42c5-afb6-e2b15e0c786e">
+                     <id root="6e2a9698-705f-49ab-b27c-d07da3d389d6"/>
+                     <code code="42229-5" codeSystem="2.16.840.1.113883.6.1" displayName="SPL UNCLASSIFIED SECTION"/>
+                     <title>5.1 Excessive Hypotension</title>
+                     <text>
+                        <paragraph>Sodium nitroprusside, can cause excessive hypotension leading to hypoperfusion of vital organs. Hypotension should resolve within 1-10 minutes after discontinuation of the nitroprusside infusion; during these few minutes, it may be helpful to put the patient into a head-down (Trendelenburg) position to maximize venous return. If hypotension persists more than a few minutes after discontinuation, consider other causes.  Elderly patients may be more sensitive to the hypotensive effects of the drug.</paragraph>
+                     </text>
+                     <effectiveTime value="20180720"/>
+                  </section>
+               </component>
+               <component>
+                  <section ID="Le16187aa-b444-45bc-af92-de5b58784197">
+                     <id root="01f805fc-c0ee-4fb6-af8b-4498150c6154"/>
+                     <code code="42229-5" codeSystem="2.16.840.1.113883.6.1" displayName="SPL UNCLASSIFIED SECTION"/>
+                     <title>5.2 Cyanide Toxicity</title>
+                     <text>
+                        <paragraph>Sodium nitroprusside infusions above 2 mcg/kg/min generate cyanide ion (CN¯) faster than the body can normally dispose of it. At the maximum recommended infusion rate of 10 mcg/kg/min, the patient’s ability to buffer CN¯ will be exceeded in less than one hour <content styleCode="italics">[see Overdose (<linkHtml href="#Ld62f33c3-cdb9-4a8a-a040-f442e5ae1143">10</linkHtml>)]</content>.</paragraph>
+                        <paragraph>Patients with hepatic dysfunction are more susceptible to cyanide toxicity.</paragraph>
+                        <paragraph>An early manifestation of cyanide toxicity is increasing dosage requirements to maintain blood pressure control. Metabolic acidosis may not be evident for more than an hour after toxic cyanide levels accumulate.</paragraph>
+                        <paragraph>If cyanide toxicity develops, discontinue sodium nitroprusside, and consider specific treatment of cyanide toxicity <content styleCode="italics">[see Overdosage (<linkHtml href="#Ld62f33c3-cdb9-4a8a-a040-f442e5ae1143">10</linkHtml>)]</content>.     </paragraph>
+                     </text>
+                     <effectiveTime value="20180720"/>
+                  </section>
+               </component>
+               <component>
+                  <section ID="Lfeb70cb2-15dd-484c-8ac6-15fe663b1387">
+                     <id root="bcb0bb7d-22ff-4f9f-9eb8-6af29c3c02f0"/>
+                     <code code="42229-5" codeSystem="2.16.840.1.113883.6.1" displayName="SPL UNCLASSIFIED SECTION"/>
+                     <title>5.3 Thiocyanate Toxicity</title>
+                     <text>
+                        <paragraph>Most of the cyanide produced during metabolism of sodium nitroprusside is eliminated in the form of thiocyanate. Thiocyanate is mildly neurotoxic (tinnitus, miosis, hyperreflexia) at serum levels of 1 mmol/L (60 mg/L). Thiocyanate is life-threatening when levels reach ~200 mg/L. Therefore, routine monitoring of plasma thiocyanate levels is recommended in patients with normal renal function when cumulative sodium nitroprusside doses exceed 7 mg/kg/day. In patients with eGFR &lt;30 mL/min/1.73 m2, limit the mean infusion rate to less than 3 mcg/kg/min.  In anuric patients, limit the mean infusion rate to 1 mcg/kg/min.</paragraph>
+                        <paragraph>Renal hemodialysis may be used to eliminate thiocyanate in cases of severe toxicity.   </paragraph>
+                     </text>
+                     <effectiveTime value="20180720"/>
+                  </section>
+               </component>
+               <component>
+                  <section ID="L606fd5aa-45cd-480c-a808-d6eabd295085">
+                     <id root="9af2e3e6-bac2-4903-bd95-8aae509c6be2"/>
+                     <code code="42229-5" codeSystem="2.16.840.1.113883.6.1" displayName="SPL UNCLASSIFIED SECTION"/>
+                     <title>5.4 Methemoglobinemia</title>
+                     <text>
+                        <paragraph>Sodium nitroprusside infusions cause conversion of hemoglobin to methemoglobin in a dose-dependent manner.  Methemoglobin binds oxygen more strongly than does hemoglobin, and when methemoglobin levels are elevated, oxygen release from red blood cells in tissue capillaries may be impaired.  However, conversion of methemoglobin back to hemoglobin is normally rapid, and clinically significant methemoglobinemia is infrequent.</paragraph>
+                        <paragraph>Suspect methemoglobinemia in patients who have received &gt;10 mg/kg of sodium nitroprusside and who exhibit signs of impaired oxygen delivery despite adequate cardiac output and adequate arterial pO2. Methemoglobinemic blood is chocolate brown, without the expected color change on exposure to air. Methemoglobin levels &gt;10% are considered clinically significant.</paragraph>
+                        <paragraph>When methemoglobinemia is diagnosed, the treatment of choice is 1-2 mg/kg of methylene blue, administered intravenously over several minutes. </paragraph>
+                     </text>
+                     <effectiveTime value="20180720"/>
+                  </section>
+               </component>
+               <component>
+                  <section ID="Ld90243d8-31c9-4aef-89aa-9231087dd5a7">
+                     <id root="af58434c-92b1-4068-8c46-565a8b5cbb1a"/>
+                     <code code="42229-5" codeSystem="2.16.840.1.113883.6.1" displayName="SPL UNCLASSIFIED SECTION"/>
+                     <title>5.5 Increased Intracranial Pressure</title>
+                     <text>
+                        <paragraph>Like other vasodilators, sodium nitroprusside can cause increases in intracranial pressure.</paragraph>
+                     </text>
+                     <effectiveTime value="20180720"/>
+                  </section>
+               </component>
+               <component>
+                  <section ID="L7b0f644f-9e51-4f8a-b479-40ddb52238d0">
+                     <id root="5851bef0-c4db-46a0-a7b1-f157fde8d386"/>
+                     <code code="42229-5" codeSystem="2.16.840.1.113883.6.1" displayName="SPL UNCLASSIFIED SECTION"/>
+                     <title>5.6 Anemia and Hypovolemia with Anesthesia</title>
+                     <text>
+                        <paragraph>When sodium nitroprusside (or any other vasodilator) is used for controlled hypotension during anesthesia, the patient’s capacity to compensate for anemia and hypovolemia may be diminished. If possible, correct pre-existing anemia and hypovolemia prior to administration.</paragraph>
+                     </text>
+                     <effectiveTime value="20180720"/>
+                  </section>
+               </component>
+            </section>
+         </component>
+         <component>
+            <section ID="L47f3c66d-f027-41a4-ae8d-2a8582b6894e">
+               <id root="f5e569e5-044b-4084-baca-79de2f70368f"/>
+               <code code="34084-4" codeSystem="2.16.840.1.113883.6.1" displayName="ADVERSE REACTIONS SECTION"/>
+               <title>6 ADVERSE REACTIONS</title>
+               <text>
+                  <paragraph>The following adverse reactions are described, or described in greater detail, in other sections:</paragraph>
+                  <list listType="unordered">
+                     <item>
+                        <caption>•</caption>Hypotension <content styleCode="italics">[see Warnings and Precautions (<linkHtml href="#L8d76dc38-a9a3-42c5-afb6-e2b15e0c786e">5.1</linkHtml>)]</content>
+                     </item>
+                     <item>
+                        <caption>•</caption>Cyanide Toxicity <content styleCode="italics">[see Warnings and Precautions (<linkHtml href="#Le16187aa-b444-45bc-af92-de5b58784197">5.2</linkHtml>)]</content>
+                     </item>
+                     <item>
+                        <caption>•</caption>Thiocyanate Toxicity<content styleCode="italics"> [see Warnings and Precautions (<linkHtml href="#Lfeb70cb2-15dd-484c-8ac6-15fe663b1387">5.3</linkHtml>)]</content>
+                     </item>
+                     <item>
+                        <caption>•</caption>Methemoglobinemia <content styleCode="italics">[see Warnings and Precautions (<linkHtml href="#L606fd5aa-45cd-480c-a808-d6eabd295085">5.4</linkHtml>)]</content>
+                     </item>
+                     <item>
+                        <caption>•</caption>Increased Intracranial Pressure <content styleCode="italics">[see Warnings and Precautions (<linkHtml href="#Ld90243d8-31c9-4aef-89aa-9231087dd5a7">5.5</linkHtml>)]</content>
+                     </item>
+                     <item>
+                        <caption>•</caption>Anemia and Hypovolemia <content styleCode="italics">[see Warnings and Precautions (<linkHtml href="#L7b0f644f-9e51-4f8a-b479-40ddb52238d0">5.6</linkHtml>)]</content>
+                     </item>
+                  </list>
+                  <paragraph>Less common adverse reactions include:</paragraph>
+                  <paragraph>
+                     <content styleCode="italics">Cardiovascular: </content>Bradycardia, electrocardiographic changes, tachycardia, palpitations, retrosternal discomfort</paragraph>
+                  <paragraph>
+                     <content styleCode="italics">Dermatologic: </content>Rash</paragraph>
+                  <paragraph>
+                     <content styleCode="italics">Endocrine: </content>Hypothyroidism</paragraph>
+                  <paragraph>
+                     <content styleCode="italics">Gastrointestinal: </content>Ileus, nausea, abdominal pain</paragraph>
+                  <paragraph>
+                     <content styleCode="italics">Hematologic: </content>Decreased platelet aggregation</paragraph>
+                  <paragraph>
+                     <content styleCode="italics">Musculoskelatal:</content>Muscle twitching</paragraph>
+                  <paragraph>
+                     <content styleCode="italics">Neurologic: </content>Increased intracranial pressure, dizziness, headache</paragraph>
+                  <paragraph>
+                     <content styleCode="italics">Miscellaneous: </content>Flushing, diaphoresis, venous streaking, irritation at the infusion site</paragraph>
+               </text>
+               <effectiveTime value="20180720"/>
+               <excerpt>
+                  <highlight>
+                     <text>
+                        <paragraph>Most common adverse reactions are hypotension and cyanide toxicity (<linkHtml href="#L47f3c66d-f027-41a4-ae8d-2a8582b6894e">6</linkHtml>).</paragraph>
+                        <paragraph>
+                           <content styleCode="bold">To report SUSPECTED ADVERSE REACTIONS, Contact Exela Pharma Sciences, LLC at 1-888-451-4321 or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch.</content>
+                        </paragraph>
+                     </text>
+                  </highlight>
+               </excerpt>
+            </section>
+         </component>
+         <component>
+            <section ID="La6be717c-ff96-4857-aab3-033b5d8a38fe">
+               <id root="7ea878a2-035e-4611-8df3-af6ca4d02a42"/>
+               <code code="43684-0" codeSystem="2.16.840.1.113883.6.1" displayName="USE IN SPECIFIC POPULATIONS SECTION"/>
+               <title>8 USE IN SPECIFIC POPULATIONS</title>
+               <effectiveTime value="20180720"/>
+               <component>
+                  <section ID="Lf065bbe7-c4e5-4836-891e-284ba951217a">
+                     <id root="e72a0098-caf8-43d5-a15e-1f6d7b3fa791"/>
+                     <code code="42229-5" codeSystem="2.16.840.1.113883.6.1" displayName="SPL UNCLASSIFIED SECTION"/>
+                     <title>8.1 Pregnancy</title>
+                     <text>
+                        <paragraph>
+                           <content styleCode="underline">Risk Summary</content>
+                        </paragraph>
+                        <paragraph>Based on animal data and mechanism of action, sodium nitroprusside may lead to cyanide exposure and potential adverse effects in the fetus <content styleCode="italics">[see Clinical Pharmacology (<linkHtml href="#L0f970dcd-50a3-464e-8af7-49047645e9ca">12.3</linkHtml>) and Clinical Considerations]</content>. Published post-marketing reports with sodium nitroprusside use in pregnant women are insufficient to inform a drug-associated risk of adverse pregnancy related outcomes <content styleCode="italics">[see Data]</content>. There were no animal reproduction studies conducted with sodium nitroprusside during pregnancy.  However, there are published studies in pregnant sheep that demonstrate that nitroprusside crosses the placenta and that fetal cyanide levels were dose-related to maternal levels of sodium nitroprusside <content styleCode="italics">[see Data].</content>  Advise pregnant women of the potential risk to a fetus.</paragraph>
+                        <paragraph>The estimated background risk of major birth defects and miscarriage for the indicated population is unknown. All pregnancies have a background risk of birth defect, loss, or other adverse outcomes. In the U.S. general population, the estimated background risk of major birth defects and miscarriage in clinically recognized pregnancies is 2-4% and 15-20%, respectively.</paragraph>
+                        <paragraph>
+                           <content styleCode="underline">Clinical Considerations</content>
+                        </paragraph>
+                        <paragraph>
+                           <content styleCode="italics">Fetal/Neonatal Adverse Reactions</content>
+                        </paragraph>
+                        <paragraph>Prolonged use and large doses of sodium nitroprusside during pregnancy may result in cyanide toxicity that may be fatal to the fetus.  In the unusual case that there is no appropriate alternative to therapy with sodium nitroprusside for a particular patient, apprise the mother of the potential risk to the fetus <content styleCode="italics">[see Warnings and Precautions (<linkHtml href="#Le16187aa-b444-45bc-af92-de5b58784197">5.2</linkHtml>)]</content>. </paragraph>
+                        <paragraph>
+                           <content styleCode="underline">Data</content>
+                        </paragraph>
+                        <paragraph>
+                           <content styleCode="italics">Human Data</content>
+                        </paragraph>
+                        <paragraph>A small number of cases have reported adverse events, including stillbirths, in pregnant women with severe pregnancy-induced hypertension who were treated with sodium nitroprusside.  However, methodological limitations, including small sample size and limited information on sodium nitroprusside dosage and duration of treatment, as well as the cyanide concentration in maternal blood or fetal tissue, preclude a reliable evaluation of the potential risk of adverse fetal outcomes with the use of sodium nitroprusside during pregnancy.</paragraph>
+                        <paragraph>
+                           <content styleCode="italics">Animal Data</content>
+                        </paragraph>
+                        <paragraph>In three studies in pregnant ewes, nitroprusside was shown to cross the placental barrier. Fetal cyanide levels were shown to be dose-related to maternal levels of nitroprusside. The metabolic transformation of sodium nitroprusside given to pregnant ewes led to fatal levels of cyanide in the fetuses. The infusion of 25 mcg/kg/min of sodium nitroprusside for one hour in pregnant ewes resulted in the death of all fetuses. Pregnant ewes infused with 1 mcg/kg/min of sodium nitroprusside for one hour delivered normal lambs.</paragraph>
+                     </text>
+                     <effectiveTime value="20180720"/>
+                  </section>
+               </component>
+               <component>
+                  <section ID="L046ced25-dd2b-4dc3-8c1a-b8abf5e2f6a1">
+                     <id root="8a9364a1-43ac-4386-9913-54d70d933eee"/>
+                     <code code="42229-5" codeSystem="2.16.840.1.113883.6.1" displayName="SPL UNCLASSIFIED SECTION"/>
+                     <title>8.2 Lactation</title>
+                     <text>
+                        <paragraph>
+                           <content styleCode="underline">Risk Summary</content>
+                        </paragraph>
+                        <paragraph>There is no information about the presence of sodium nitroprusside in human milk, the effects on the breastfed infant, or the effects on milk production. Thiocyanate, one of sodium nitroprusside’s metabolites, is present in human milk. It is unclear how long, if ever, levels of thiocyanate in milk are clinically relevant.</paragraph>
+                     </text>
+                     <effectiveTime value="20180720"/>
+                  </section>
+               </component>
+               <component>
+                  <section ID="L7b4fba2f-5c8a-4d95-bef7-e60c9027324d">
+                     <id root="1c4e3c7b-bcdb-4003-b08c-235645b4c0c7"/>
+                     <code code="42229-5" codeSystem="2.16.840.1.113883.6.1" displayName="SPL UNCLASSIFIED SECTION"/>
+                     <title>8.4 Pediatric Use</title>
+                     <text>
+                        <paragraph>Efficacy in the pediatric population was established based on adult trials and supported by the dose-ranging trial (Study 1) and an open label trial of at least 12 hour infusion at a rate that achieved adequate MAP control (Study 2) with pediatric patients on sodium nitroprusside. No novel safety issues were seen in these studies in pediatric patients <content styleCode="italics">[see Clinical Studies (<linkHtml href="#L01c7c4c1-7123-438e-9119-e77e9a08126a">14</linkHtml>)].</content>
+                        </paragraph>
+                     </text>
+                     <effectiveTime value="20180720"/>
+                  </section>
+               </component>
+            </section>
+         </component>
+         <component>
+            <section ID="Ld62f33c3-cdb9-4a8a-a040-f442e5ae1143">
+               <id root="f17165d4-3c44-4ec8-a390-88bca11fe396"/>
+               <code code="34088-5" codeSystem="2.16.840.1.113883.6.1" displayName="OVERDOSAGE SECTION"/>
+               <title>10 OVERDOSAGE</title>
+               <text>
+                  <paragraph>Overdosage of nitroprusside can be manifested as excessive hypotension or cyanide toxicity <content styleCode="italics">[see Warnings and Precaution (<linkHtml href="#L8d76dc38-a9a3-42c5-afb6-e2b15e0c786e">5.1</linkHtml>, <linkHtml href="#Le16187aa-b444-45bc-af92-de5b58784197">5.2</linkHtml>)]</content> or as thiocyanate toxicity <content styleCode="italics">[see Warnings and Precautions (<linkHtml href="#Lfeb70cb2-15dd-484c-8ac6-15fe663b1387">5.3</linkHtml>)]</content>. Cyanide toxicity causes venous hyperoxemia with bright red venous blood.  Cells become unable to extract the oxygen delivered to them, leading to air hunger, confusion and death. Lactic acidosis may occur, but its emergence may lag other life-threatening manifestations of cyanide toxicity.</paragraph>
+                  <paragraph>Cyanide levels can be measured by many laboratories, and blood-gas studies that can detect venous hyperoxemia or acidosis are widely available. Acidosis may not appear until more than an hour after the appearance of dangerous cyanide levels. Suspicion of cyanide toxicity is adequate grounds for initiation of treatment.</paragraph>
+                  <paragraph>Treatment of cyanide toxicity consists of:</paragraph>
+                  <list listType="unordered">
+                     <item>
+                        <caption>•</caption>discontinuing sodium nitroprusside;</item>
+                     <item>
+                        <caption>•</caption>administration of sodium nitrite to convert as much hemoglobin into methemoglobin as the patient can safely tolerate; and then</item>
+                     <item>
+                        <caption>•</caption>infusing sodium thiosulfate to convert the cyanide into thiocyanate.</item>
+                  </list>
+                  <paragraph>Hemodialysis is ineffective in removal of cyanide, but it will eliminate most thiocyanate.</paragraph>
+                  <paragraph>Sodium nitrite is available in a 3% solution, and 4-6 mg/kg (about 0.2 mL/kg) should be injected over 2-4 minutes. This dose can be expected to convert about 10% of the patient’s hemoglobin into methemoglobin; this level of methemoglobinemia is not associated with any important hazard of its own. </paragraph>
+                  <paragraph>Immediately after infusion of the sodium nitrite, sodium thiosulfate should be infused. This agent is available in 10% and 25% solutions, and the recommended dose is 150-200 mg/kg; a typical adult dose is 50 mL of the 25% solution. Thiosulfate treatment of an acutely cyanide-toxic patient will raise thiocyanate levels, but not to a dangerous degree.</paragraph>
+                  <paragraph>The nitrite/thiosulfate regimen may be repeated, at half the original doses, after two hours.</paragraph>
+                  <paragraph>Cyanide antidote kits are available.</paragraph>
+               </text>
+               <effectiveTime value="20180720"/>
+            </section>
+         </component>
+         <component>
+            <section ID="L29ca413f-b788-4766-8d4e-e05362107b76">
+               <id root="d2be1063-70c7-444e-a3cc-d34363eed7b9"/>
+               <code code="34089-3" codeSystem="2.16.840.1.113883.6.1" displayName="DESCRIPTION SECTION"/>
+               <title>11 DESCRIPTION</title>
+               <text>
+                  <paragraph>Sodium nitroprusside is disodium pentacyanonitrosylferrate(2-) dihydrate, a hypotensive agent whose structural formula is</paragraph>
+                  <renderMultiMedia ID="id722" referencedObject="La253633d-1167-49ba-8684-ee5f0b8a08f0"/>
+                  <paragraph>Sodium Nitroprusside has molecular formula Na<sub>2</sub>[Fe(CN)<sub>5</sub>NO] • 2H<sub>2</sub>O and molecular weight of 297.95. Dry sodium nitroprusside is a reddish-brown powder, soluble in water.</paragraph>
+                  <paragraph>Sodium nitroprusside solution is rapidly degraded by trace contaminants, often with resulting color changes <content styleCode="italics">[see Dosage and Administration (<linkHtml href="#Ld9198510-d09d-40ee-8db7-e8d7466b9b67">2.1</linkHtml>)]</content>.</paragraph>
+                  <paragraph>NIPRIDE<content styleCode="bold">
+                        <sup>®</sup>
+                     </content> RTU is supplied as a sterile, unpreserved, colorless to red-brown solution packaged in a single-use 100-mL vial.  Each 100 mL of solution in vial contains 50 mg of sodium nitroprusside (0.5 mg/mL), 900 mg of sodium chloride, USP (9 mg/mL), in sterile water for injection, USP.</paragraph>
+                  <paragraph>NIPRIDE<content styleCode="bold">
+                        <sup>®</sup>
+                     </content> RTU is also supplied as a sterile, unpreserved, colorless to red-brown solution packaged in a single-use 100-mL vial.  Each 100 mL of solution in vial contains 20 mg of sodium nitroprusside (0.2 mg/mL), 900 mg of sodium chloride, USP (9 mg/mL), in sterile water for injection, USP.</paragraph>
+                  <paragraph>NIPRIDE<content styleCode="bold">
+                        <sup>®</sup>
+                     </content> RTU is also supplied as a sterile, unpreserved, colorless to red-brown solution packaged in a single-use 50-mL vial. Each 50 mL of solution in vial contains 10 mg of sodium nitroprusside (0.2 mg/mL), 450 mg of sodium chloride, USP (9 mg/mL), in sterile water for injection, USP. </paragraph>
+               </text>
+               <effectiveTime value="20180720"/>
+               <component>
+                  <observationMedia ID="La253633d-1167-49ba-8684-ee5f0b8a08f0">
+                     <text>structure</text>
+                     <value mediaType="image/jpeg" xsi:type="ED">
+                        <reference value="spl-image1-structure.jpg"/>
+                     </value>
+                  </observationMedia>
+               </component>
+            </section>
+         </component>
+         <component>
+            <section ID="L0a3370e6-9175-444a-9ab1-079fb0b45a56">
+               <id root="0a75dfef-f79d-4ea8-bf80-4cbff5e4eec0"/>
+               <code code="34090-1" codeSystem="2.16.840.1.113883.6.1" displayName="CLINICAL PHARMACOLOGY SECTION"/>
+               <title>12 CLINICAL PHARMACOLOGY</title>
+               <effectiveTime value="20180720"/>
+               <component>
+                  <section ID="L3ac53ad6-077d-42f9-8b9f-bfea2675acef">
+                     <id root="124f6da4-d8cc-49cb-bcd7-78d7a4a1bf70"/>
+                     <code code="42229-5" codeSystem="2.16.840.1.113883.6.1" displayName="SPL UNCLASSIFIED SECTION"/>
+                     <title>12.1 Mechanism of Action</title>
+                     <text>
+                        <paragraph>Sodium nitroprusside interacts with oxyhemoglobin to produce methemoglobin, cyanide, and nitric oxide (NO). NO then reacts with guanylate cyclase in vascular smooth muscle to produce cGMP that reduces intracellular calcium concentrations resulting in relaxation of vascular smooth muscle and consequent dilatation of peripheral arteries and veins. Other smooth muscle (e.g., uterus, duodenum) is not affected. Sodium nitroprusside is more active on veins than on arteries, but this selectivity is much less marked than that of nitroglycerin. Dilatation of the veins promotes peripheral pooling of blood and decreases venous return to the heart, thereby reducing left ventricular end diastolic pressure and pulmonary capillary wedge pressure (preload). Arteriolar relaxation reduces systemic vascular resistance, systolic arterial pressure, and mean arterial pressure (afterload). Dilatation of the coronary arteries also occurs.</paragraph>
+                     </text>
+                     <effectiveTime value="20180720"/>
+                  </section>
+               </component>
+               <component>
+                  <section ID="Lf3a1e450-2c4a-425e-96e6-6df4eeb0094c">
+                     <id root="920d4f0d-500d-4b1e-8c0b-0bc4c652ad55"/>
+                     <code code="42229-5" codeSystem="2.16.840.1.113883.6.1" displayName="SPL UNCLASSIFIED SECTION"/>
+                     <title>12.2 Pharmacodynamics</title>
+                     <text>
+                        <paragraph>In association with the decrease in blood pressure, sodium nitroprusside administered intravenously to hypertensive and normotensive patients produces slight increases in heart rate and a variable effect on cardiac output. In hypertensive patients, moderate doses induce renal vasodilatation roughly proportional to the decrease in systemic blood pressure, so there is no appreciable change in renal blood flow or glomerular filtration rate.</paragraph>
+                        <paragraph>The hypotensive effect of sodium nitroprusside is seen within a minute or two after the start of an adequate infusion, and it dissipates almost as rapidly after an infusion is discontinued. The effect is augmented by ganglionic blocking agents and inhaled anesthetics.</paragraph>
+                     </text>
+                     <effectiveTime value="20180720"/>
+                  </section>
+               </component>
+               <component>
+                  <section ID="L0f970dcd-50a3-464e-8af7-49047645e9ca">
+                     <id root="e589f81d-9c59-4168-83db-485b95129a9b"/>
+                     <code code="42229-5" codeSystem="2.16.840.1.113883.6.1" displayName="SPL UNCLASSIFIED SECTION"/>
+                     <title>12.3 Pharmacokinetics</title>
+                     <text>
+                        <paragraph>Infused sodium nitroprusside is rapidly distributed to a volume that is approximately coextensive with the extracellular space. The drug is cleared by intraerythrocytic reaction with hemoglobin (Hgb), and sodium nitroprusside’s resulting circulatory half-life is about 2 minutes.</paragraph>
+                        <paragraph>The products of the nitroprusside/hemoglobin reaction are cyanmethemoglobin (cyanmetHgb) and cyanide ion (CN¯).</paragraph>
+                        <paragraph>
+                           <content styleCode="underline">Metabolism</content>
+                        </paragraph>
+                        <paragraph>As shown in the diagram below, the essential features of nitroprusside metabolism are:</paragraph>
+                        <list listType="unordered">
+                           <item>
+                              <caption>•</caption>one molecule of sodium nitroprusside is metabolized by combination with hemoglobin to produce one molecule of cyanmethemoglobin and four CN¯ ions;</item>
+                           <item>
+                              <caption>•</caption>methemoglobin, obtained from hemoglobin, can sequester cyanide as cyanmethemoglobin;</item>
+                           <item>
+                              <caption>•</caption>thiosulfate reacts with cyanide to produce thiocyanate;</item>
+                           <item>
+                              <caption>•</caption>thiocyanate is eliminated in the urine;</item>
+                           <item>
+                              <caption>•</caption>cyanide not otherwise removed binds to cytochromes; and</item>
+                           <item>
+                              <caption>•</caption>cyanide is much more toxic than methemoglobin or thiocyanate.</item>
+                        </list>
+                        <renderMultiMedia ID="id790" referencedObject="L63ca7f11-c133-4de8-a2e7-43786fcea758"/>
+                        <paragraph>Cyanide ion is normally found in serum; it is derived from dietary substrates and from tobacco smoke. CN¯ levels in packed erythrocytes are typically less than 1 μmol/L (less than 25 mcg/L); levels are roughly doubled in heavy smokers.</paragraph>
+                        <paragraph>At healthy steady state, most people have less than 1% of their hemoglobin in the form of methemoglobin. Nitroprusside metabolism can lead to methemoglobin formation. Relatively large quantities of sodium nitroprusside, however, are required to produce significant methemoglobinemia.</paragraph>
+                        <paragraph>At physiologic methemoglobin levels, the CN¯ binding capacity of packed red cells is a little less than 200 μmol/L (5 mg/L). Cytochrome toxicity is seen at levels only slightly higher, and death has been reported at levels from 300 to 3000 μmol/L (8–80 mg/L). A patient with a normal redcell mass (35 mL/kg) and normal methemoglobin levels can buffer about 175 mcg/kg of CN¯, corresponding to a little less than 500 mcg/kg of infused sodium nitroprusside.</paragraph>
+                        <paragraph>Thiocyanate (SCN¯) is a normal physiological constituent of serum, with normal levels typically in the range of 50-250 μmol/L (3-15 mg/L). Clearance of SCN¯ is primarily renal. In renal failure, the half-life can be doubled or tripled.</paragraph>
+                        <paragraph>When thiosulfate is being supplied only by normal physiologic mechanisms, conversion of CN¯ to SCN¯ generally proceeds at about 1 mcg/kg/min. This rate of CN¯ clearance corresponds to steady-state processing of a sodium nitroprusside infusion of slightly more than 2 mcg/kg/min. CN¯ begins to accumulate when sodium nitroprusside infusions exceed this rate.</paragraph>
+                     </text>
+                     <effectiveTime value="20180720"/>
+                     <component>
+                        <observationMedia ID="L63ca7f11-c133-4de8-a2e7-43786fcea758">
+                           <text>image descriptionmetabolic pathway</text>
+                           <value mediaType="image/jpeg" xsi:type="ED">
+                              <reference value="spl-image2-metabolism-flow.jpg"/>
+                           </value>
+                        </observationMedia>
+                     </component>
+                  </section>
+               </component>
+            </section>
+         </component>
+         <component>
+            <section ID="Laf757876-53f0-43bf-9a52-f434e143f05b">
+               <id root="d53739e1-f126-4450-ac4a-25441d6cbc3a"/>
+               <code code="43680-8" codeSystem="2.16.840.1.113883.6.1" displayName="NONCLINICAL TOXICOLOGY SECTION"/>
+               <title>13 NONCLINICAL TOXICOLOGY</title>
+               <effectiveTime value="20180720"/>
+               <component>
+                  <section ID="L9e7f2272-c692-477b-83cc-2540425eac73">
+                     <id root="7900d616-dbbc-48b7-916a-efd916743a13"/>
+                     <code code="42229-5" codeSystem="2.16.840.1.113883.6.1" displayName="SPL UNCLASSIFIED SECTION"/>
+                     <title>13.1 Carcinogenesis, Mutagenesis, Impairment of Fertility</title>
+                     <text>
+                        <paragraph>Animal studies assessing sodium nitroprusside’s carcinogenicity and mutagenicity have not been conducted. Similarly, sodium nitroprusside has not been tested for effects on fertility.</paragraph>
+                     </text>
+                     <effectiveTime value="20180720"/>
+                  </section>
+               </component>
+               <component>
+                  <section ID="L3f469c21-963f-4891-a974-082ac25d91b4">
+                     <id root="2b190620-b33e-44b4-9d3b-b54a44e7dc14"/>
+                     <code code="42229-5" codeSystem="2.16.840.1.113883.6.1" displayName="SPL UNCLASSIFIED SECTION"/>
+                     <title>13.2 Animal Toxicology and/or Pharmacology</title>
+                     <text>
+                        <paragraph>The acute intravenous mean lethal doses (LD<sub>50</sub>) of nitroprusside in rabbits, dogs, mice, and rats are 2.8, 5.0, 8.4, and 11.2 mg/kg, respectively.</paragraph>
+                     </text>
+                     <effectiveTime value="20180720"/>
+                  </section>
+               </component>
+            </section>
+         </component>
+         <component>
+            <section ID="L01c7c4c1-7123-438e-9119-e77e9a08126a">
+               <id root="b9c9986c-e8b0-4202-b2f5-a21e25b445e4"/>
+               <code code="34092-7" codeSystem="2.16.840.1.113883.6.1" displayName="CLINICAL STUDIES SECTION"/>
+               <title>14 CLINICAL STUDIES</title>
+               <text>
+                  <paragraph>Baseline-controlled clinical trials have uniformly shown that sodium nitroprusside has a prompt hypotensive effect, at least initially, in all populations. With increasing rates of infusion, sodium nitroprusside has been able to lower blood pressure without an observed limit of effect.</paragraph>
+                  <paragraph>Clinical trials have also shown that the hypotensive effect of sodium nitroprusside is associated with reduced blood loss in a variety of major surgical procedures.</paragraph>
+                  <paragraph>In patients with acute heart failure and increased peripheral vascular resistance, administration of sodium nitroprusside causes reductions in peripheral resistance, increases in cardiac output, and reductions in left ventricular filling pressure.</paragraph>
+                  <paragraph>Progressive tachyphylaxis to the hypotensive effects of sodium nitroprusside has been reported in several trials and numerous case reports. The mechanism of tachyphylaxis to sodium nitroprusside remains unknown.</paragraph>
+                  <paragraph>
+                     <content styleCode="underline">Pediatric</content>
+                  </paragraph>
+                  <paragraph>The effects of sodium nitroprusside to induce hypotension were evaluated in two trials in pediatric patients less than 17 years of age. In both trials, at least 50% of the patients were pre-pubertal, and about 50% of these pre-pubertal patients were less than 2 years of age, including 4 neonates. The primary efficacy variable was the mean arterial pressure (MAP).</paragraph>
+                  <paragraph>There were 203 pediatric patients in a parallel, dose-ranging study (Study 1). During the 30-minute blinded phase, patients were randomized 1:1:1:1 to receive sodium nitroprusside 0.3, 1, 2, or 3 mcg/kg/min. The infusion rate was increased step-wise to the target dose rate (i.e., 1/3 of the full rate for the first 5 minutes, 2/3 of the full rate for the next 5 minutes, and the full dose rate for the last 20 minutes). If the investigator believed that an increase to the next higher dose rate would be unsafe, the infusion remained at the current rate for the remainder of the blinded infusion. Since there was no placebo group, the change from baseline likely overestimates the true magnitude of blood pressure effect. Nevertheless, MAP decreased 11 to 20 mmHg from baseline across the four doses (Table 1).</paragraph>
+                  <paragraph>There were 63 pediatric patients in a long-term infusion trial (Study 2). During an open-label phase (12 to 24 hours), sodium nitroprusside was started at 0.3 mcg/kg/min and titrated according to the BP response.</paragraph>
+                  <paragraph>Patients were then randomized to placebo or to continuing the same dose of sodium nitroprusside. The average MAP was greater in the control group than in the sodium nitroprusside group for every time point during the blinded withdrawal phase, demonstrating that sodium nitroprusside is effective for at least 12 hours.</paragraph>
+                  <paragraph>In both studies, similar effects on MAP were seen in all age groups.</paragraph>
+                  <table ID="_RefID0E4RAE" width="98.04%">
+                     <caption>Table 1: Change from Baseline in MAP (mmHg) After 30 Minutes Double-Blind Infusion (Study 1)</caption>
+                     <col width="38%"/>
+                     <col width="16%"/>
+                     <col width="16%"/>
+                     <col width="16%"/>
+                     <col width="15%"/>
+                     <tbody>
+                        <tr>
+                           <td styleCode="Rrule Botrule Lrule Toprule " valign="top"/>
+                           <td align="center" colspan="4" styleCode="Rrule Botrule Lrule Toprule " valign="top">
+                              <paragraph>Dose (mcg/kg/min)</paragraph>
+                           </td>
+                        </tr>
+                        <tr>
+                           <td align="center" styleCode="Rrule Lrule " valign="top">
+                              <paragraph> Endpoint</paragraph>
+                           </td>
+                           <td align="center" styleCode="Rrule Lrule " valign="top">
+                              <paragraph>0.3</paragraph>
+                           </td>
+                           <td align="center" styleCode="Rrule Lrule " valign="top">
+                              <paragraph>1</paragraph>
+                           </td>
+                           <td align="center" styleCode="Rrule Lrule " valign="top">
+                              <paragraph>2</paragraph>
+                           </td>
+                           <td align="center" styleCode="Rrule Lrule " valign="top">
+                              <paragraph>3</paragraph>
+                           </td>
+                        </tr>
+                        <tr>
+                           <td styleCode="Rrule Lrule Botrule " valign="top"/>
+                           <td align="center" styleCode="Rrule Lrule Botrule " valign="top">
+                              <paragraph>(N = 50)</paragraph>
+                           </td>
+                           <td align="center" styleCode="Rrule Lrule Botrule " valign="top">
+                              <paragraph>(N = 49)</paragraph>
+                           </td>
+                           <td align="center" styleCode="Rrule Lrule Botrule " valign="top">
+                              <paragraph>(N = 53)</paragraph>
+                           </td>
+                           <td align="center" styleCode="Rrule Lrule Botrule " valign="top">
+                              <paragraph>(N = 51)</paragraph>
+                           </td>
+                        </tr>
+                        <tr>
+                           <td align="center" styleCode="Rrule Lrule Botrule " valign="top">
+                              <paragraph> Baseline</paragraph>
+                           </td>
+                           <td align="center" styleCode="Rrule Lrule Botrule " valign="top">
+                              <paragraph> 76 ± 11</paragraph>
+                           </td>
+                           <td align="center" styleCode="Rrule Lrule Botrule " valign="top">
+                              <paragraph> 77 ± 15</paragraph>
+                           </td>
+                           <td align="center" styleCode="Rrule Lrule Botrule " valign="top">
+                              <paragraph>74 ± 12 </paragraph>
+                           </td>
+                           <td align="center" styleCode="Rrule Lrule Botrule " valign="top">
+                              <paragraph> 76 ± 12</paragraph>
+                           </td>
+                        </tr>
+                        <tr>
+                           <td align="center" styleCode="Rrule Lrule Botrule " valign="top">
+                              <paragraph> 30 Min</paragraph>
+                           </td>
+                           <td align="center" styleCode="Rrule Lrule Botrule " valign="top">
+                              <paragraph> 65 ± 13</paragraph>
+                           </td>
+                           <td align="center" styleCode="Rrule Lrule Botrule " valign="top">
+                              <paragraph> 60 ± 15</paragraph>
+                           </td>
+                           <td align="center" styleCode="Rrule Lrule Botrule " valign="top">
+                              <paragraph> 54 ± 12</paragraph>
+                           </td>
+                           <td align="center" styleCode="Rrule Lrule Botrule " valign="top">
+                              <paragraph> 60 ± 18</paragraph>
+                           </td>
+                        </tr>
+                        <tr>
+                           <td align="center" styleCode="Rrule Lrule " valign="top">
+                              <paragraph> Change from</paragraph>
+                           </td>
+                           <td align="center" styleCode="Rrule Lrule " valign="top">
+                              <paragraph> -11 ± 16</paragraph>
+                           </td>
+                           <td align="center" styleCode="Rrule Lrule " valign="top">
+                              <paragraph> -17 ± 13</paragraph>
+                           </td>
+                           <td align="center" styleCode="Rrule Lrule " valign="top">
+                              <paragraph> -20 ± 16</paragraph>
+                           </td>
+                           <td align="center" styleCode="Rrule Lrule " valign="top">
+                              <paragraph> -17 ± 19</paragraph>
+                           </td>
+                        </tr>
+                        <tr>
+                           <td align="center" styleCode="Rrule Lrule Botrule " valign="top">
+                              <paragraph> Baseline</paragraph>
+                           </td>
+                           <td align="center" styleCode="Rrule Lrule Botrule " valign="top">
+                              <paragraph> (-15, -6.5)</paragraph>
+                           </td>
+                           <td align="center" styleCode="Rrule Lrule Botrule " valign="top">
+                              <paragraph> (-21, -13)</paragraph>
+                           </td>
+                           <td align="center" styleCode="Rrule Lrule Botrule " valign="top">
+                              <paragraph> (-24, -13)</paragraph>
+                           </td>
+                           <td align="center" styleCode="Rrule Lrule Botrule " valign="top">
+                              <paragraph> (-22, -11)</paragraph>
+                           </td>
+                        </tr>
+                        <tr>
+                           <td colspan="5" styleCode="Rrule Botrule Lrule " valign="top">
+                              <paragraph> Mean ± SD (95% CI)</paragraph>
+                           </td>
+                        </tr>
+                     </tbody>
+                  </table>
+               </text>
+               <effectiveTime value="20180720"/>
+            </section>
+         </component>
+         <component>
+            <section ID="Le35d5777-41ee-40cd-b266-f775c2604e8c">
+               <id root="8c7d6a7a-b9ed-4731-9c36-9931f89eb5fc"/>
+               <code code="34069-5" codeSystem="2.16.840.1.113883.6.1" displayName="HOW SUPPLIED SECTION"/>
+               <title>16 HOW SUPPLIED/STORAGE AND HANDLING</title>
+               <text>
+                  <paragraph>NIPRIDE<content styleCode="bold">
+                        <sup>®</sup>
+                     </content>RTU is supplied in amber-colored, single-dose, 50 mg/100 mL (0.5 mg/mL) Fliptop Vials (NDC 51754-1006-1), 20 mg/100 mL (0.2 mg/mL) Fliptop Vials (NDC 51754-1029-1) and 10 mg/50 mL (0.2 mg/mL) Fliptop Vials (NDC 51754-1018-1). </paragraph>
+                  <paragraph>Store at 20° to 25°C (68° to 77°F) [See USP Controlled Room Temperature].</paragraph>
+                  <paragraph>To protect NIPRIDE<content styleCode="bold">
+                        <sup>®</sup>
+                     </content>RTU from light, vial should be stored in its carton until used.</paragraph>
+               </text>
+               <effectiveTime value="20180720"/>
+            </section>
+         </component>
+         <component>
+            <section ID="Lfd0de656-0346-4600-97ad-59fbf04e662f">
+               <id root="ea54f904-778e-470a-b6cb-629b5723d72d"/>
+               <code code="34076-0" codeSystem="2.16.840.1.113883.6.1" displayName="INFORMATION FOR PATIENTS SECTION"/>
+               <title>17 PATIENT COUNSELING INFORMATION</title>
+               <text>
+                  <paragraph>
+                     <content styleCode="underline">Pregnancy</content>
+                  </paragraph>
+                  <paragraph>Inform female patients of reproductive potential that Sodium Nitroprusside Injection may cause fetal harm and to inform their prescriber of a known or suspected pregnancy <content styleCode="italics">[see Use in Specific Population (<linkHtml href="#Lf065bbe7-c4e5-4836-891e-284ba951217a">8.1</linkHtml>)].</content>
+                  </paragraph>
+               </text>
+               <effectiveTime value="20180720"/>
+            </section>
+         </component>
+         <component>
+            <section ID="L36a16752-70fd-48ff-b971-87c9a3e7e393">
+               <id root="cb85179f-372b-406b-9c13-3ca508d4a8d9"/>
+               <code code="42229-5" codeSystem="2.16.840.1.113883.6.1" displayName="SPL UNCLASSIFIED SECTION"/>
+               <text>
+                  <paragraph>Manufactured and Distributed by:</paragraph>
+                  <renderMultiMedia ID="id938" referencedObject="L3df87685-b0d4-4d1a-95fb-1599b8dec96d"/>
+                  <paragraph>Exela Pharma Sciences, LLC<br/>Lenoir, NC 28645</paragraph>
+               </text>
+               <effectiveTime value="20180720"/>
+               <component>
+                  <observationMedia ID="L3df87685-b0d4-4d1a-95fb-1599b8dec96d">
+                     <text>logo</text>
+                     <value mediaType="image/jpeg" xsi:type="ED">
+                        <reference value="spl-image3-logo.jpg"/>
+                     </value>
+                  </observationMedia>
+               </component>
+            </section>
+         </component>
+         <component>
+            <section ID="ID_66c8bddb-977a-43b3-a8cd-3d2df5b1e837">
+               <id root="8efe49a9-6c2c-4f47-bff3-14faab8663bf"/>
+               <code code="51945-4" codeSystem="2.16.840.1.113883.6.1" displayName="PACKAGE LABEL.PRINCIPAL DISPLAY PANEL"/>
+               <title>PACKAGE/LABEL PRINCIPAL DISPLAY PANEL- 0.5 mg/mL in 100 mL Vial Label  </title>
+               <text>
+                  <renderMultiMedia ID="id203140965" referencedObject="ID_8d48b9a2-8df6-49fc-a2f5-85211ab85953"/>
+                  <paragraph>
+                     <content styleCode="bold">Rx Only NDC 51754-1006-1</content>
+                  </paragraph>
+                  <paragraph>
+                     <content styleCode="bold">NIPRIDE<sup>®</sup> RTU </content>
+                  </paragraph>
+                  <paragraph>
+                     <content styleCode="bold">SODIUM NITROPRUSSIDE</content>
+                  </paragraph>
+                  <paragraph>
+                     <content styleCode="bold">in 0.9% Sodium Chloride Injection</content>
+                  </paragraph>
+                  <paragraph>
+                     <content styleCode="bold">(Ready to Use)</content>
+                  </paragraph>
+                  <paragraph>
+                     <content styleCode="bold">50 mg/100mL (0.5 mg/mL)</content>
+                  </paragraph>
+                  <paragraph>
+                     <content styleCode="bold">For Intravenous Infusion Only</content>
+                  </paragraph>
+                  <paragraph>
+                     <content styleCode="bold">100 mL </content>Single Dose Vial. Discard unused portion.</paragraph>
+               </text>
+               <effectiveTime value="20180720"/>
+               <component>
+                  <observationMedia ID="ID_8d48b9a2-8df6-49fc-a2f5-85211ab85953">
+                     <text>0.5 mg vial</text>
+                     <value mediaType="image/jpeg" xsi:type="ED">
+                        <reference value="image-03.jpg"/>
+                     </value>
+                  </observationMedia>
+               </component>
+            </section>
+         </component>
+         <component>
+            <section ID="ID_421a8e5b-e608-48f9-9fa1-927742510d22">
+               <id root="6cf86184-6865-49de-af56-713aa6e13fa5"/>
+               <code code="51945-4" codeSystem="2.16.840.1.113883.6.1" displayName="PACKAGE LABEL.PRINCIPAL DISPLAY PANEL"/>
+               <title>PACKAGE/LABEL PRINCIPAL DISPLAY PANEL-0.5 mg/mL in 100 mL Carton </title>
+               <text>
+                  <renderMultiMedia ID="id-1344164010" referencedObject="C31D76D8-6E88-4745-A492-7FCDF4B0E032"/>
+                  <paragraph>
+                     <content styleCode="bold">Rx Only         NDC 51754-1018-1</content>
+                  </paragraph>
+                  <paragraph>
+                     <content styleCode="bold">NIPRIDE RTU</content>
+                  </paragraph>
+                  <paragraph>
+                     <content styleCode="bold">SODIUM NITROPRUSSIDE</content>
+                  </paragraph>
+                  <paragraph>
+                     <content styleCode="bold">in 0.9% Sodium Chloride Injection</content>
+                  </paragraph>
+                  <paragraph>
+                     <content styleCode="bold">(Ready to Use)</content>
+                  </paragraph>
+                  <paragraph>
+                     <content styleCode="bold">10 mg/50mL (0.2 mg/mL)</content>
+                  </paragraph>
+                  <paragraph>
+                     <content styleCode="bold">For Intravenous Infusion Only</content>
+                  </paragraph>
+                  <paragraph>
+                     <content styleCode="bold">50 mL </content>Single Dose Vial</paragraph>
+               </text>
+               <effectiveTime value="20180720"/>
+               <component>
+                  <observationMedia ID="C31D76D8-6E88-4745-A492-7FCDF4B0E032">
+                     <text>0.5 carton</text>
+                     <value mediaType="image/jpeg" xsi:type="ED">
+                        <reference value="image-05.jpg"/>
+                     </value>
+                  </observationMedia>
+               </component>
+            </section>
+         </component>
+         <component>
+            <section ID="ID_f97488de-9fdd-4294-be35-a34654d09e45">
+               <id root="9e7b943b-05ab-4829-9eab-dd73bd4ded25"/>
+               <code code="51945-4" codeSystem="2.16.840.1.113883.6.1" displayName="PACKAGE LABEL.PRINCIPAL DISPLAY PANEL"/>
+               <title>PACKAGE/LABEL PRINCIPAL DISPLAY PANEL-0.2 mg/mL in 50 mL Vial Label </title>
+               <text>
+                  <renderMultiMedia ID="id276757067" referencedObject="ID_0b65af10-5d55-4da8-9a3d-a0e237a3bdb7"/>
+                  <paragraph>
+                     <content styleCode="bold">NDC 51754-1018-1         Rx Only</content>
+                  </paragraph>
+                  <paragraph>
+                     <content styleCode="bold">NIPRIDE<sup>®</sup> RTU</content>
+                  </paragraph>
+                  <paragraph>
+                     <content styleCode="bold">SODIUM NITROPRUSSIDE</content>
+                  </paragraph>
+                  <paragraph>
+                     <content styleCode="bold">in 0.9% Sodium Chloride Injection</content>
+                  </paragraph>
+                  <paragraph>
+                     <content styleCode="bold">(Ready to Use)</content>
+                  </paragraph>
+                  <paragraph>
+                     <content styleCode="bold">10 mg/50mL (0.2 mg/mL)</content>
+                  </paragraph>
+                  <paragraph>
+                     <content styleCode="bold">For Intravenous Infusion Only</content>
+                  </paragraph>
+                  <paragraph>
+                     <content styleCode="bold">50 mL </content>Single Dose Vial. Discard unused portion.</paragraph>
+               </text>
+               <effectiveTime value="20180720"/>
+               <component>
+                  <observationMedia ID="ID_0b65af10-5d55-4da8-9a3d-a0e237a3bdb7">
+                     <text>50 ml_0.2 vial label</text>
+                     <value mediaType="image/jpeg" xsi:type="ED">
+                        <reference value="image-02.jpg"/>
+                     </value>
+                  </observationMedia>
+               </component>
+            </section>
+         </component>
+         <component>
+            <section ID="ID_ff965acc-2ece-49af-9e31-2119218c3232">
+               <id root="10b5474a-2408-4e7a-9df4-e2de5db7c924"/>
+               <code code="51945-4" codeSystem="2.16.840.1.113883.6.1" displayName="PACKAGE LABEL.PRINCIPAL DISPLAY PANEL"/>
+               <title>PACKAGE/LABEL PRINCIPAL DISPLAY PANEL0.2 mg/mL in 50 mL Carton </title>
+               <text>
+                  <renderMultiMedia ID="id1097133767" referencedObject="ID_3220e5e2-d12c-4661-9468-d2ca5de7bdcf"/>
+                  <paragraph>
+                     <content styleCode="bold">NDC 51754-1018-1         Rx Only</content>
+                  </paragraph>
+                  <paragraph>
+                     <content styleCode="bold">NIPRIDE<sup>®</sup> RTU</content>
+                  </paragraph>
+                  <paragraph>
+                     <content styleCode="bold">SODIUM NITROPRUSSIDE</content>
+                  </paragraph>
+                  <paragraph>
+                     <content styleCode="bold">in 0.9% Sodium Chloride Injection</content>
+                  </paragraph>
+                  <paragraph>
+                     <content styleCode="bold">(Ready to Use)</content>
+                  </paragraph>
+                  <paragraph>
+                     <content styleCode="bold">10 mg/50mL (0.2 mg/mL)</content>
+                  </paragraph>
+                  <paragraph>
+                     <content styleCode="bold">For Intravenous Infusion Only</content>
+                  </paragraph>
+                  <paragraph>
+                     <content styleCode="bold">50 mL </content>Single Dose Vial.</paragraph>
+               </text>
+               <effectiveTime value="20180720"/>
+               <component>
+                  <observationMedia ID="ID_3220e5e2-d12c-4661-9468-d2ca5de7bdcf">
+                     <text>50 ml_0.2 carton</text>
+                     <value mediaType="image/jpeg" xsi:type="ED">
+                        <reference value="image-01.jpg"/>
+                     </value>
+                  </observationMedia>
+               </component>
+            </section>
+         </component>
+         <component>
+            <section ID="ID_a0870206-6a8e-4aca-927a-551822e081a3">
+               <id root="8e51d8c8-80b8-45e8-962f-3d10a55cd417"/>
+               <code code="51945-4" codeSystem="2.16.840.1.113883.6.1" displayName="PACKAGE LABEL.PRINCIPAL DISPLAY PANEL"/>
+               <title>PACKAGE/LABEL PRINCIPAL DISPLAY PANEL-0.2 mg/mL in 20 mL Vial Label </title>
+               <text>
+                  <renderMultiMedia ID="id-409775363" referencedObject="ID_5edf4159-7861-46b4-baa8-bf27786aae6d"/>
+                  <paragraph>
+                     <content styleCode="bold">NDC 51754-1029-1         Rx Only</content>
+                  </paragraph>
+                  <paragraph>
+                     <content styleCode="bold">NIPRIDE<sup>®</sup> RTU</content>
+                  </paragraph>
+                  <paragraph>
+                     <content styleCode="bold">SODIUM NITROPRUSSIDE</content>
+                  </paragraph>
+                  <paragraph>
+                     <content styleCode="bold">in 0.9% Sodium Chloride Injection</content>
+                  </paragraph>
+                  <paragraph>
+                     <content styleCode="bold">(Ready to Use)</content>
+                  </paragraph>
+                  <paragraph>
+                     <content styleCode="bold">20 mg/100mL (0.2 mg/mL)</content>
+                  </paragraph>
+                  <paragraph>
+                     <content styleCode="bold">For Intravenous Infusion Only</content>
+                  </paragraph>
+                  <paragraph>
+                     <content styleCode="bold">100 mL </content>Single Dose Vial. Discard unused portion.</paragraph>
+               </text>
+               <effectiveTime value="20180720"/>
+               <component>
+                  <observationMedia ID="ID_5edf4159-7861-46b4-baa8-bf27786aae6d">
+                     <text>20 mg_0.2 mg vial</text>
+                     <value mediaType="image/jpeg" xsi:type="ED">
+                        <reference value="image-04.jpg"/>
+                     </value>
+                  </observationMedia>
+               </component>
+            </section>
+         </component>
+         <component>
+            <section ID="ID_bb19ac9b-dd02-448a-88c7-ac70a41f715f">
+               <id root="ea8802da-3a71-4287-8741-007339e22337"/>
+               <code code="51945-4" codeSystem="2.16.840.1.113883.6.1" displayName="PACKAGE LABEL.PRINCIPAL DISPLAY PANEL"/>
+               <title>PACKAGE/LABEL PRINCIPAL DISPLAY PANEL-0.2 mg/mL in 20 mL Carton </title>
+               <text>
+                  <renderMultiMedia ID="id979271154" referencedObject="ID_29988950-4b1d-45f1-a6e8-78b1eb8e2689"/>
+                  <paragraph>
+                     <content styleCode="bold">NDC 51754-1029-1         Rx Only</content>
+                  </paragraph>
+                  <paragraph>
+                     <content styleCode="bold">NIPRIDE<sup>®</sup> RTU</content>
+                  </paragraph>
+                  <paragraph>
+                     <content styleCode="bold">SODIUM NITROPRUSSIDE</content>
+                  </paragraph>
+                  <paragraph>
+                     <content styleCode="bold">in 0.9% Sodium Chloride Injection</content>
+                  </paragraph>
+                  <paragraph>
+                     <content styleCode="bold">(Ready to Use)</content>
+                  </paragraph>
+                  <paragraph>
+                     <content styleCode="bold">20 mg/100mL (0.2 mg/mL)</content>
+                  </paragraph>
+                  <paragraph>
+                     <content styleCode="bold">For Intravenous Infusion Only</content>
+                  </paragraph>
+                  <paragraph>
+                     <content styleCode="bold">100 mL </content>Single Dose Vial. </paragraph>
+                  <paragraph>
+                     <content styleCode="bold">Discard unused portion.</content>
+                  </paragraph>
+               </text>
+               <effectiveTime value="20180720"/>
+               <component>
+                  <observationMedia ID="ID_29988950-4b1d-45f1-a6e8-78b1eb8e2689">
+                     <text>20 ml_0.2 mg carton</text>
+                     <value mediaType="image/jpeg" xsi:type="ED">
+                        <reference value="image-06.jpg"/>
+                     </value>
+                  </observationMedia>
+               </component>
+            </section>
+         </component>
+      </structuredBody>
+   </component>
+</document>

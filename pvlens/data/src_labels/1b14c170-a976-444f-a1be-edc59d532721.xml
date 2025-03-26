@@ -1,0 +1,1447 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet href="https://www.accessdata.fda.gov/spl/stylesheet/spl.xsl" type="text/xsl"?>
+<document xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:hl7-org:v3 https://www.accessdata.fda.gov/spl/schema/spl.xsd">
+   <id root="1b14c170-a976-444f-a1be-edc59d532721"/>
+   <code code="34391-3" codeSystem="2.16.840.1.113883.6.1" displayName="HUMAN PRESCRIPTION DRUG LABEL"/>
+   <title>
+      <content styleCode="bold">These highlights do not include all the information needed to use </content>
+      <content styleCode="bold">MEPSEVII</content>
+      <content styleCode="bold"> </content>
+      <content styleCode="bold">safely and effectively. </content>
+      <content styleCode="bold">See full prescribing information for </content>
+      <content styleCode="bold">MEPSEVII</content>
+      <content styleCode="bold">.</content>
+      <br/>
+      <content styleCode="bold">  </content>
+      <br/>
+      <content styleCode="bold">MEPSEVII</content>
+      <content styleCode="bold">
+         <sup>®</sup>
+      </content>
+      <content styleCode="bold"> (</content>
+      <content styleCode="bold">vestronidase alfa</content>
+      <content styleCode="bold">-</content>
+      <content styleCode="bold">vjbk</content>
+      <content styleCode="bold">) </content>
+      <content styleCode="bold">injection</content>
+      <content styleCode="bold">, </content>
+      <content styleCode="bold">for intravenous use</content>
+      <br/>
+      <content styleCode="bold">Initial U.S. Approval: </content>
+      <content styleCode="bold">2017</content>
+      <br/>
+   </title>
+   <effectiveTime value="20201223"/>
+   <setId root="925d4e21-fd98-474d-a34d-a0b3558ed750"/>
+   <versionNumber value="13"/>
+   <author>
+      <time/>
+      <assignedEntity>
+         <representedOrganization>
+            <id extension="962892019" root="1.3.6.1.4.1.519.1"/>
+            <name>Ultragenyx Pharmaceutical Inc.</name>
+            <assignedEntity>
+               <assignedOrganization>
+                  <assignedEntity>
+                     <assignedOrganization>
+                        <id extension="053217022" root="1.3.6.1.4.1.519.1"/>
+                        <name>AndersonBrecon Inc. (PCI Pharma Services) USA</name>
+                     </assignedOrganization>
+                     <performance>
+                        <actDefinition>
+                           <code code="C84731" codeSystem="2.16.840.1.113883.3.26.1.1" displayName="PACK"/>
+                           <product>
+                              <manufacturedProduct classCode="MANU">
+                                 <manufacturedMaterialKind>
+                                    <code code="69794-001" codeSystem="2.16.840.1.113883.6.69"/>
+                                 </manufacturedMaterialKind>
+                              </manufacturedProduct>
+                           </product>
+                        </actDefinition>
+                     </performance>
+                  </assignedEntity>
+                  <assignedEntity>
+                     <assignedOrganization>
+                        <id extension="986018132" root="1.3.6.1.4.1.519.1"/>
+                        <name>Millmount Healthcare Limited (PCI Pharma Services - Ireland</name>
+                     </assignedOrganization>
+                     <performance>
+                        <actDefinition>
+                           <code code="C84731" codeSystem="2.16.840.1.113883.3.26.1.1" displayName="PACK"/>
+                           <product>
+                              <manufacturedProduct classCode="MANU">
+                                 <manufacturedMaterialKind>
+                                    <code code="69794-001" codeSystem="2.16.840.1.113883.6.69"/>
+                                 </manufacturedMaterialKind>
+                              </manufacturedProduct>
+                           </product>
+                        </actDefinition>
+                     </performance>
+                     <performance>
+                        <actDefinition>
+                           <code code="C84732" codeSystem="2.16.840.1.113883.3.26.1.1" displayName="LABEL"/>
+                           <product>
+                              <manufacturedProduct classCode="MANU">
+                                 <manufacturedMaterialKind>
+                                    <code code="69794-001" codeSystem="2.16.840.1.113883.6.69"/>
+                                 </manufacturedMaterialKind>
+                              </manufacturedProduct>
+                           </product>
+                        </actDefinition>
+                     </performance>
+                  </assignedEntity>
+                  <assignedEntity>
+                     <assignedOrganization>
+                        <id extension="492738125" root="1.3.6.1.4.1.519.1"/>
+                        <name>Confarma France (Solvias France SAS)</name>
+                     </assignedOrganization>
+                     <performance>
+                        <actDefinition>
+                           <code code="C25391" codeSystem="2.16.840.1.113883.3.26.1.1" displayName="ANALYSIS"/>
+                           <product>
+                              <manufacturedProduct classCode="MANU">
+                                 <manufacturedMaterialKind>
+                                    <code code="69794-001" codeSystem="2.16.840.1.113883.6.69"/>
+                                 </manufacturedMaterialKind>
+                              </manufacturedProduct>
+                           </product>
+                        </actDefinition>
+                     </performance>
+                  </assignedEntity>
+                  <assignedEntity>
+                     <assignedOrganization>
+                        <id extension="962892019" root="1.3.6.1.4.1.519.1"/>
+                        <name>Ultragenyx Pharmaceutical Inc.</name>
+                     </assignedOrganization>
+                     <performance>
+                        <actDefinition>
+                           <code code="C25391" codeSystem="2.16.840.1.113883.3.26.1.1" displayName="ANALYSIS"/>
+                           <product>
+                              <manufacturedProduct classCode="MANU">
+                                 <manufacturedMaterialKind>
+                                    <code code="69794-001" codeSystem="2.16.840.1.113883.6.69"/>
+                                 </manufacturedMaterialKind>
+                              </manufacturedProduct>
+                           </product>
+                        </actDefinition>
+                     </performance>
+                  </assignedEntity>
+               </assignedOrganization>
+            </assignedEntity>
+         </representedOrganization>
+      </assignedEntity>
+   </author>
+   <component>
+      <structuredBody>
+         <component>
+            <section ID="DLDE">
+               <id root="438ab495-0e45-4db6-ad67-287011257341"/>
+               <code code="48780-1" codeSystem="2.16.840.1.113883.6.1" displayName="SPL PRODUCT DATA ELEMENTS SECTION"/>
+               <effectiveTime value="20201223"/>
+               <subject>
+                  <manufacturedProduct>
+                     <manufacturedProduct>
+                        <code code="69794-001" codeSystem="2.16.840.1.113883.6.69"/>
+                        <name>MEPSEVII</name>
+                        <formCode code="C42946" codeSystem="2.16.840.1.113883.3.26.1.1" displayName="INJECTION"/>
+                        <asEntityWithGeneric>
+                           <genericMedicine>
+                              <name>vestronidase alfa</name>
+                           </genericMedicine>
+                        </asEntityWithGeneric>
+                        <ingredient classCode="ACTIB">
+                           <quantity>
+                              <numerator value="2" unit="mg"/>
+                              <denominator value="1" unit="mL"/>
+                           </quantity>
+                           <ingredientSubstance>
+                              <code code="7XZ4062R17" codeSystem="2.16.840.1.113883.4.9"/>
+                              <name>VESTRONIDASE ALFA</name>
+                              <activeMoiety>
+                                 <activeMoiety>
+                                    <code code="7XZ4062R17" codeSystem="2.16.840.1.113883.4.9"/>
+                                    <name>VESTRONIDASE ALFA</name>
+                                 </activeMoiety>
+                              </activeMoiety>
+                           </ingredientSubstance>
+                        </ingredient>
+                        <ingredient classCode="IACT">
+                           <quantity>
+                              <numerator value="3.12" unit="mg"/>
+                              <denominator value="1" unit="mL"/>
+                           </quantity>
+                           <ingredientSubstance>
+                              <code code="5QWK665956" codeSystem="2.16.840.1.113883.4.9"/>
+                              <name>SODIUM PHOSPHATE, MONOBASIC, DIHYDRATE</name>
+                           </ingredientSubstance>
+                        </ingredient>
+                        <ingredient classCode="IACT">
+                           <quantity>
+                              <numerator value="7.88" unit="mg"/>
+                              <denominator value="1" unit="mL"/>
+                           </quantity>
+                           <ingredientSubstance>
+                              <code code="451W47IQ8X" codeSystem="2.16.840.1.113883.4.9"/>
+                              <name>SODIUM CHLORIDE</name>
+                           </ingredientSubstance>
+                        </ingredient>
+                        <ingredient classCode="IACT">
+                           <quantity>
+                              <numerator value="3.1" unit="mg"/>
+                              <denominator value="1" unit="mL"/>
+                           </quantity>
+                           <ingredientSubstance>
+                              <code code="4QD397987E" codeSystem="2.16.840.1.113883.4.9"/>
+                              <name>HISTIDINE</name>
+                           </ingredientSubstance>
+                        </ingredient>
+                        <ingredient classCode="IACT">
+                           <quantity>
+                              <numerator value="0.1" unit="mg"/>
+                              <denominator value="1" unit="mL"/>
+                           </quantity>
+                           <ingredientSubstance>
+                              <code code="7T1F30V5YH" codeSystem="2.16.840.1.113883.4.9"/>
+                              <name>POLYSORBATE 20</name>
+                           </ingredientSubstance>
+                        </ingredient>
+                        <asContent>
+                           <quantity>
+                              <numerator value="5" unit="mL"/>
+                              <denominator value="1"/>
+                           </quantity>
+                           <containerPackagedProduct>
+                              <code/>
+                              <formCode code="C43216" codeSystem="2.16.840.1.113883.3.26.1.1" displayName="VIAL, SINGLE-USE"/>
+                              <asContent>
+                                 <quantity>
+                                    <numerator value="1" unit="1"/>
+                                    <denominator value="1"/>
+                                 </quantity>
+                                 <containerPackagedProduct>
+                                    <code code="69794-001-01" codeSystem="2.16.840.1.113883.6.69"/>
+                                    <formCode code="C43182" codeSystem="2.16.840.1.113883.3.26.1.1" displayName="CARTON"/>
+                                 </containerPackagedProduct>
+                                 <subjectOf>
+                                    <marketingAct>
+                                       <code code="C53292" codeSystem="2.16.840.1.113883.3.26.1.1"/>
+                                       <statusCode code="active"/>
+                                       <effectiveTime>
+                                          <low value="20171115"/>
+                                       </effectiveTime>
+                                    </marketingAct>
+                                 </subjectOf>
+                              </asContent>
+                           </containerPackagedProduct>
+                           <subjectOf>
+                              <characteristic>
+                                 <code code="SPLCMBPRDTP" codeSystem="2.16.840.1.113883.1.11.19255"/>
+                                 <value code="C112160" codeSystem="2.16.840.1.113883.3.26.1.1" displayName="Type 0: Not a Combination Product" xsi:type="CV"/>
+                              </characteristic>
+                           </subjectOf>
+                        </asContent>
+                     </manufacturedProduct>
+                     <subjectOf>
+                        <approval>
+                           <id extension="BLA761047" root="2.16.840.1.113883.3.150"/>
+                           <code code="C73585" codeSystem="2.16.840.1.113883.3.26.1.1" displayName="BLA"/>
+                           <author>
+                              <territorialAuthority>
+                                 <territory>
+                                    <code code="USA" codeSystem="2.16.840.1.113883.5.28"/>
+                                 </territory>
+                              </territorialAuthority>
+                           </author>
+                        </approval>
+                     </subjectOf>
+                     <subjectOf>
+                        <marketingAct>
+                           <code code="C53292" codeSystem="2.16.840.1.113883.3.26.1.1"/>
+                           <statusCode code="active"/>
+                           <effectiveTime>
+                              <low value="20171115"/>
+                           </effectiveTime>
+                        </marketingAct>
+                     </subjectOf>
+                     <subjectOf>
+                        <characteristic classCode="OBS">
+                           <code code="SPLCOLOR" codeSystem="2.16.840.1.113883.1.11.19255"/>
+                           <value code="C48330" codeSystem="2.16.840.1.113883.3.26.1.1" displayName="YELLOW" xsi:type="CE">
+                              <originalText>colorless to slightly yellow</originalText>
+                           </value>
+                        </characteristic>
+                     </subjectOf>
+                     <consumedIn>
+                        <substanceAdministration>
+                           <routeCode code="C38276" codeSystem="2.16.840.1.113883.3.26.1.1" displayName="INTRAVENOUS"/>
+                        </substanceAdministration>
+                     </consumedIn>
+                  </manufacturedProduct>
+               </subject>
+            </section>
+         </component>
+         <component>
+            <section>
+               <id root="d5806678-2523-4224-8eab-31c3b3fbbc8c"/>
+               <code codeSystem="2.16.840.1.113883.6.1" code="34066-1" displayName="BOXED WARNING SECTION"/>
+               <title>
+                  <content styleCode="bold">WARNING: ANAPHYLAXIS</content>
+               </title>
+               <text>
+                  <list listType="unordered" styleCode="Disc">
+                     <item>
+                        <content styleCode="bold">Anaphylaxis has occurred with MEPSEVII administration, as early as the first dose </content>
+                        <content styleCode="bold italics">[see Warnings and Precautions (</content>
+                        <content styleCode="bold italics">
+                           <linkHtml href="#_5_1__Anaphylaxis">5.1</linkHtml>
+                        </content>
+                        <content styleCode="bold italics">)]</content>
+                        <content styleCode="bold">, therefore appropriate medical support should be readily available when MEPSEVII is administered. </content>
+                        <br/>
+                     </item>
+                     <item>
+                        <content styleCode="bold">Closely observe patients during and for 60 minutes after MEPSEVII infusion </content>
+                        <content styleCode="bold italics">[see Dosage and Administration (</content>
+                        <content styleCode="bold italics">
+                           <linkHtml href="#_2_2__Premedication">2.2</linkHtml>
+                        </content>
+                        <content styleCode="bold italics">), Warnings and Precautions (</content>
+                        <content styleCode="bold italics">
+                           <linkHtml href="#_5_1__Anaphylaxis">5.1</linkHtml>
+                        </content>
+                        <content styleCode="bold italics">)]. </content>
+                        <br/>
+                     </item>
+                     <item>
+                        <content styleCode="bold">Immediately discontinue the MEPSEVII infusion if the patient experiences anaphylaxis </content>
+                        <content styleCode="bold italics">[see Dosage and Administration (</content>
+                        <content styleCode="bold italics">
+                           <linkHtml href="#_2_2__Premedication">2.2</linkHtml>
+                        </content>
+                        <content styleCode="bold italics">), Warnings and Precautions (</content>
+                        <content styleCode="bold italics">
+                           <linkHtml href="#_5_1__Anaphylaxis">5.1</linkHtml>
+                        </content>
+                        <content styleCode="bold italics">)].</content>
+                     </item>
+                  </list>
+               </text>
+               <effectiveTime value="20201223"/>
+               <excerpt>
+                  <highlight>
+                     <text>
+                        <paragraph>
+                           <content styleCode="bold">WARNING: ANAPHYLAXIS</content>
+                        </paragraph>
+                        <paragraph>
+                           <content styleCode="bold italics">See full prescribing information for complete boxed warning.</content>
+                        </paragraph>
+                        <list listType="unordered" styleCode="Disc">
+                           <item>
+                              <content styleCode="bold">Anaphylaxis has occurred with MEPSEVII administration, as early as the first dose (</content>
+                              <content styleCode="bold underline">
+                                 <linkHtml href="#_5_1__Anaphylaxis">5.1</linkHtml>
+                              </content>
+                              <content styleCode="bold">), therefore appropriate medical support should be readily available when MEPSEVII is administered. </content>
+                              <br/>
+                           </item>
+                           <item>
+                              <content styleCode="bold">Closely observe patients during and for 60 minutes after MEPSEVII infusion (</content>
+                              <content styleCode="bold underline">
+                                 <linkHtml href="#_2_2__Premedication">2.2</linkHtml>
+                              </content>
+                              <content styleCode="bold">, </content>
+                              <content styleCode="bold underline">
+                                 <linkHtml href="#_5_1__Anaphylaxis">5.1</linkHtml>
+                              </content>
+                              <content styleCode="bold">). </content>
+                              <br/>
+                           </item>
+                           <item>
+                              <content styleCode="bold">Immediately discontinue the MEPSEVII infusion if the patient experiences anaphylaxis (</content>
+                              <content styleCode="bold underline">
+                                 <linkHtml href="#_2_2__Premedication">2.2</linkHtml>
+                              </content>
+                              <content styleCode="bold">, </content>
+                              <content styleCode="bold underline">
+                                 <linkHtml href="#_5_1__Anaphylaxis">5.1</linkHtml>
+                              </content>
+                              <content styleCode="bold">).</content>
+                           </item>
+                        </list>
+                     </text>
+                  </highlight>
+               </excerpt>
+            </section>
+         </component>
+         <component>
+            <section ID="_1__INDICATIONS">
+               <id root="ccfbf58e-c3d8-426f-85fe-a88aa4c06ceb"/>
+               <code codeSystem="2.16.840.1.113883.6.1" code="34067-9" displayName="INDICATIONS &amp; USAGE SECTION"/>
+               <title>
+                  <content styleCode="bold">1</content>
+                  <content styleCode="bold">  </content>
+                  <content styleCode="bold">INDICATIONS AND USAGE</content>
+               </title>
+               <text>
+                  <paragraph>MEPSEVII is indicated in pediatric and adult patients for the treatment of Mucopolysaccharidosis VII (MPS VII, Sly syndrome). </paragraph>
+                  <paragraph>
+                     <content styleCode="underline">Limitations of Use</content>
+                  </paragraph>
+                  <paragraph>The effect of MEPSEVII on the central nervous system manifestations of MPS VII has not been determined.</paragraph>
+               </text>
+               <effectiveTime value="20201223"/>
+               <excerpt>
+                  <highlight>
+                     <text>
+                        <paragraph>MEPSEVII is a recombinant human lysosomal beta glucuronidase indicated in pediatric and adult patients for the treatment of Mucopolysaccharidosis VII (MPS VII, Sly syndrome). </paragraph>
+                        <paragraph>  </paragraph>
+                        <paragraph>
+                           <content styleCode="underline">Limitations of Use</content>  </paragraph>
+                        <paragraph>The effect of MEPSEVII on the central nervous system manifestations of MPS VII has not been determined. (<linkHtml href="#_1__INDICATIONS">1</linkHtml>)</paragraph>
+                     </text>
+                  </highlight>
+               </excerpt>
+            </section>
+         </component>
+         <component>
+            <section>
+               <id root="c0cdfa29-70a3-474c-8fdd-6006409b94b5"/>
+               <code codeSystem="2.16.840.1.113883.6.1" code="34068-7" displayName="DOSAGE &amp; ADMINISTRATION SECTION"/>
+               <title>
+                  <content styleCode="bold">2</content>
+                  <content styleCode="bold">  </content>
+                  <content styleCode="bold">DOSAGE AND ADMINISTRATION</content>
+               </title>
+               <effectiveTime value="20201223"/>
+               <excerpt>
+                  <highlight>
+                     <text>
+                        <list listType="unordered" styleCode="Disc">
+                           <item>The recommended dosage is 4 mg/kg administered every two weeks as an intravenous infusion. (<linkHtml href="#_2_1__Recommended">2.1</linkHtml>)<br/>
+                           </item>
+                           <item>Premedication with a non-sedating antihistamine with or without an anti-pyretic is recommended 30 to 60 minutes prior to the start of the infusion. (<linkHtml href="#_2_2__Premedication">2.2</linkHtml>, <linkHtml href="#_5_1__Anaphylaxis">5.1</linkHtml>)<br/>
+                           </item>
+                           <item>Administer the infusion over approximately 4 hours. In the first hour of infusion, infuse 2.5% of the total volume. After the first hour, the rate can be increased to infuse the remainder of the volume over 3 hours as tolerated. See Table 1 in the full prescribing information for the rate of infusion by dose and body weight. (<linkHtml href="#_2_4__Administration">2.4</linkHtml>)<br/>
+                           </item>
+                           <item>For additional information on preparation, administration, and storage see the full prescribing information. (<linkHtml href="#_2_3__Preparation">2.3</linkHtml>, <linkHtml href="#_2_4__Administration">2.4</linkHtml>)</item>
+                        </list>
+                     </text>
+                  </highlight>
+               </excerpt>
+               <component>
+                  <section ID="_2_1__Recommended">
+                     <id root="73c8bbee-7dc7-42ae-ba27-20eb5e01c006"/>
+                     <code codeSystem="2.16.840.1.113883.6.1" code="42229-5" displayName="SPL UNCLASSIFIED SECTION"/>
+                     <title>
+                        <content styleCode="bold">2.1  </content>
+                        <content styleCode="bold">Recommended </content>
+                        <content styleCode="bold">Dosage</content>
+                     </title>
+                     <text>
+                        <paragraph>MEPSEVII should be administered under the supervision of a healthcare professional with the capability to manage anaphylaxis. Premedication is recommended 30 to 60 minutes prior to the start of the infusion <content styleCode="italics">[see Dosage and Administration (</content>
+                           <content styleCode="italics">
+                              <linkHtml href="#_2_2__Premedication">2.2</linkHtml>
+                           </content>
+                           <content styleCode="italics">)].</content>
+                        </paragraph>
+                        <paragraph>The recommended dosage of MEPSEVII is 4 mg/kg administered by intravenous infusion every two weeks.  </paragraph>
+                        <paragraph>Administer the infusion over approximately 4 hours. Infuse the first 2.5% of the total volume over the first hour. After the first hour, increase the infusion rate as tolerated in order to complete infusion over the following 3 hours according to the recommended rate guidelines in Table 1 <content styleCode="italics">[see Dosage and Administration (</content>
+                           <content styleCode="italics">
+                              <linkHtml href="#_2_4__Administration">2.4</linkHtml>
+                           </content>
+                           <content styleCode="italics">)].</content>
+                        </paragraph>
+                     </text>
+                     <effectiveTime value="20201223"/>
+                  </section>
+               </component>
+               <component>
+                  <section ID="_2_2__Premedication">
+                     <id root="0c4b8d20-6f94-4fc1-9cef-eeaa45c9036c"/>
+                     <code codeSystem="2.16.840.1.113883.6.1" code="42229-5" displayName="SPL UNCLASSIFIED SECTION"/>
+                     <title>
+                        <content styleCode="bold">2.2</content>
+                        <content styleCode="bold">  </content>
+                        <content styleCode="bold">Premedication</content>
+                     </title>
+                     <text>
+                        <list listType="unordered" styleCode="Disc">
+                           <item>Administration of a non-sedating antihistamine with or without an anti-pyretic medication is recommended 30 to 60 minutes prior to the start of the infusion for patient comfort. <br/>
+                           </item>
+                           <item>Follow the instructions in Table 1 for the rate of MEPSEVII infusion <content styleCode="italics">[see Dosage and Administration (</content>
+                              <content styleCode="italics">
+                                 <linkHtml href="#_2_4__Administration">2.4</linkHtml>
+                              </content>
+                              <content styleCode="italics">)]</content>
+                              <content styleCode="italics">.</content>
+                              <br/>
+                           </item>
+                           <item>Observe patients closely during the infusion and following the infusion for a minimum of 60 minutes for the development of anaphylaxis <content styleCode="italics">[see Warnings and Precautions (</content>
+                              <content styleCode="italics">
+                                 <linkHtml href="#_5_1__Anaphylaxis">5.1</linkHtml>
+                              </content>
+                              <content styleCode="italics">)]</content>
+                              <content styleCode="italics">.</content>
+                              <br/>
+                           </item>
+                           <item>Discontinue the infusion immediately if the patient experiences a severe systemic reaction, including anaphylaxis <content styleCode="italics">[see Warnings and Precautions (</content>
+                              <content styleCode="italics">
+                                 <linkHtml href="#_5_1__Anaphylaxis">5.1</linkHtml>
+                              </content>
+                              <content styleCode="italics">)].</content>
+                           </item>
+                        </list>
+                     </text>
+                     <effectiveTime value="20201223"/>
+                  </section>
+               </component>
+               <component>
+                  <section ID="_2_3__Preparation">
+                     <id root="a44fe475-bec6-4740-ac43-37703acd6792"/>
+                     <code codeSystem="2.16.840.1.113883.6.1" code="42229-5" displayName="SPL UNCLASSIFIED SECTION"/>
+                     <title>
+                        <content styleCode="bold">2.</content>
+                        <content styleCode="bold">3  </content>
+                        <content styleCode="bold">Preparation Instructions</content>
+                     </title>
+                     <text>
+                        <paragraph>Prepare MEPSEVII according to the following steps using aseptic technique:</paragraph>
+                        <paragraph>1. Determine the number of vials to be diluted based on the patient's actual weight and the recommended dose of 4 mg/kg, using the following calculations (a-b):</paragraph>
+                        <paragraph>		      	a. Total dose (mg) = Patient's weight (kg) x 4 mg/kg (recommended dose)</paragraph>
+                        <paragraph>		      	b. Total number of vials = Total dose (mg) divided by 10 mg/vial</paragraph>
+                        <paragraph>2. Round to the next whole vial and remove the required number of vials from the refrigerator to allow them to reach room temperature. Do not heat, microwave or shake vials.</paragraph>
+                        <paragraph>		      	a. Volume (mL) of calculated dose = Total dose (mg) divided by the 2 mg/mL concentration</paragraph>
+                        <paragraph>3. The final solution will be a 1:1 dilution of MEPSEVII with 0.9% Sodium Chloride Injection, USP.  More than 1:1 dilution may be used if the patient can tolerate additional infusion volume, taking into consideration cardiac function and fluid status. </paragraph>
+                        <paragraph>4. For a 1:1 dilution, prepare the solution at room temperature, as follows:   </paragraph>
+                        <paragraph>		      	a. Select an empty infusion bag, sized upon the total volume of the final solution.   </paragraph>
+                        <paragraph>		      	b. Prior to withdrawing MEPSEVII from the vial, visually inspect the solution for particulate matter and discoloration. Because this is a protein solution, slight flocculation (thin translucent fibers) may occur. The MEPSEVII solution should be colorless to slightly yellow. Discard if the solution is discolored or if there is particulate matter in the solution.</paragraph>
+                        <paragraph>		      	c. Slowly withdraw the volume of the calculated MEPSEVII dose from the appropriate number of vials (step 2a) using caution to avoid excessive agitation and any air or frothing. Use a sufficiently large needle (18 gauge) to minimize bubbles in the solution.</paragraph>
+                        <paragraph>		      	d. Slowly add MEPSEVII to the infusion bag using care to avoid agitation, ensuring liquid to liquid contact without generating bubbles or turbulence. </paragraph>
+                        <paragraph>		      	e. Add 0.9% Sodium Chloride Injection, USP equal to the volume of MEPSEVII to the infusion bag. </paragraph>
+                        <paragraph>		      	f. Gently rock the infusion bag to ensure proper distribution of MEPSEVII. <content styleCode="bold">Do not shake the solution.</content> </paragraph>
+                     </text>
+                     <effectiveTime value="20201223"/>
+                  </section>
+               </component>
+               <component>
+                  <section ID="_2_4__Administration">
+                     <id root="bcf91218-77f4-425a-bbec-09ead9765410"/>
+                     <code codeSystem="2.16.840.1.113883.6.1" code="42229-5" displayName="SPL UNCLASSIFIED SECTION"/>
+                     <title>
+                        <content styleCode="bold">2.4  Administration Instructions</content>
+                     </title>
+                     <text>
+                        <paragraph>Administer MEPSEVII as follows: </paragraph>
+                        <list listType="ordered" styleCode="Arabic">
+                           <item>The rate of infusion: In the first hour infuse 2.5% of the total volume, and infuse the remaining volume over the subsequent three hours (see Table 1).<content styleCode="italics"> </content>Account for any dead space in the lines to ensure 2.5% of the total infusion volume is delivered into the patient's bloodstream during the first hour of infusion. <br/>
+                           </item>
+                           <item>Use an infusion set equipped with an in-line, low-protein binding 0.2 micron filter to administer the diluted MEPSEVII solution. <br/>
+                           </item>
+                           <item>Do not flush the line containing MEPSEVII to avoid a rapid bolus of infused enzyme. Due to the low infusion rate, additional saline may be added through a separate line (piggyback or Y tube) to maintain sufficient intravenous flow to prevent clotting or line blockage.<br/>
+                           </item>
+                           <item>Do not infuse with other products in the infusion tubing. Compatibility with other products has not been evaluated. <br/>
+                           </item>
+                           <item>Use MEPSEVII immediately after dilution and complete the infusion within 42 hours from the time of dilution. Discard any unused product.</item>
+                        </list>
+                        <paragraph>
+                           <content styleCode="underline">Stability</content>
+                        </paragraph>
+                        <paragraph>If immediate use is not possible, the diluted solution may be stored up to 36 hours under refrigeration at 2°C to 8°C (36°F to 46°F) followed by up to 6 hours at room temperature up to a maximum of 25°C (77°F). </paragraph>
+                        <table>
+                           <caption>Table 1.  Recommended Infusion Rate Schedule by Patient Weight for Administration of MEPSEVII at Recommended Dose of 4 mg/kg</caption>
+                           <col width="78"/>
+                           <col width="102"/>
+                           <col width="108"/>
+                           <col width="114"/>
+                           <col width="96"/>
+                           <col width="114"/>
+                           <tbody>
+                              <tr>
+                                 <td styleCode="Toprule Lrule Rrule " align="center">
+                                    <content styleCode="bold">Patient </content>
+                                    <br/>
+                                    <content styleCode="bold"> Weight  Range (kg) </content>
+                                 </td>
+                                 <td styleCode="Toprule Lrule Rrule " align="center">
+                                    <content styleCode="bold">Total MEPSEVII </content>
+                                    <br/>
+                                    <content styleCode="bold"> Dose Range</content>
+                                    <br/>
+                                    <content styleCode="bold">(mg) </content>
+                                 </td>
+                                 <td styleCode="Toprule Lrule Rrule " align="center">
+                                    <content styleCode="bold">Total MEPSEVII Volume (rounded) </content>
+                                    <br/>
+                                    <content styleCode="bold">(mL) </content>
+                                 </td>
+                                 <td styleCode="Toprule Lrule Rrule " align="center">
+                                    <content styleCode="bold">Total</content>
+                                    <br/>
+                                    <content styleCode="bold">Infusion Volume</content>
+                                    <content styleCode="bold"> of</content>
+                                    <br/>
+                                    <content styleCode="bold">Drug and diluent</content>
+                                    <br/>
+                                    <content styleCode="bold"> (infused over 4 hours) (mL) </content>
+                                 </td>
+                                 <td styleCode="Toprule Lrule Rrule " align="center">
+                                    <content styleCode="bold">Infusion Rate for 1</content>
+                                    <content styleCode="bold">
+                                       <sup>st</sup>
+                                    </content>
+                                    <content styleCode="bold"> Hour (2.5%) (mL/h) </content>
+                                 </td>
+                                 <td styleCode="Toprule Lrule Rrule " align="center">
+                                    <content styleCode="bold">Infusion Rate per Hour for Subsequent 3 Hours (97.5%/3) </content>
+                                    <br/>
+                                    <content styleCode="bold">(mL/h) </content>
+                                 </td>
+                              </tr>
+                              <tr>
+                                 <td styleCode="Toprule Lrule Rrule " align="center">3.5-5.9</td>
+                                 <td styleCode="Toprule Lrule Rrule " align="center">14-23.6</td>
+                                 <td styleCode="Toprule Lrule Rrule " align="center">10</td>
+                                 <td styleCode="Toprule Lrule Rrule " valign="bottom" align="center">20</td>
+                                 <td styleCode="Toprule Lrule Rrule " valign="bottom" align="center">0.5</td>
+                                 <td styleCode="Toprule Lrule Rrule " valign="bottom" align="center">6.5</td>
+                              </tr>
+                              <tr>
+                                 <td styleCode="Toprule Lrule Rrule " align="center">6-8.4</td>
+                                 <td styleCode="Toprule Lrule Rrule " align="center">24-33.6</td>
+                                 <td styleCode="Toprule Lrule Rrule " align="center">15</td>
+                                 <td styleCode="Toprule Lrule Rrule " valign="bottom" align="center">30</td>
+                                 <td styleCode="Toprule Lrule Rrule " valign="bottom" align="center">0.8</td>
+                                 <td styleCode="Toprule Lrule Rrule " valign="bottom" align="center">9.8</td>
+                              </tr>
+                              <tr>
+                                 <td styleCode="Toprule Lrule Rrule " align="center">8.5-10.9</td>
+                                 <td styleCode="Toprule Lrule Rrule " align="center">34-43.6</td>
+                                 <td styleCode="Toprule Lrule Rrule " align="center">20</td>
+                                 <td styleCode="Toprule Lrule Rrule " align="center">40</td>
+                                 <td styleCode="Toprule Lrule Rrule " align="center">1</td>
+                                 <td styleCode="Toprule Lrule Rrule " align="center">13</td>
+                              </tr>
+                              <tr>
+                                 <td styleCode="Toprule Lrule Rrule " align="center">11-13.4</td>
+                                 <td styleCode="Toprule Lrule Rrule " align="center">44-53.6</td>
+                                 <td styleCode="Toprule Lrule Rrule " align="center">25</td>
+                                 <td styleCode="Toprule Lrule Rrule " align="center">50</td>
+                                 <td styleCode="Toprule Lrule Rrule " align="center">1.3</td>
+                                 <td styleCode="Toprule Lrule Rrule " align="center">16.3</td>
+                              </tr>
+                              <tr>
+                                 <td styleCode="Toprule Lrule Rrule " align="center">13.5-15.9</td>
+                                 <td styleCode="Toprule Lrule Rrule " align="center">54-63.6</td>
+                                 <td styleCode="Toprule Lrule Rrule " align="center">30</td>
+                                 <td styleCode="Toprule Lrule Rrule " align="center">60</td>
+                                 <td styleCode="Toprule Lrule Rrule " align="center">1.5</td>
+                                 <td styleCode="Toprule Lrule Rrule " align="center">19.5</td>
+                              </tr>
+                              <tr>
+                                 <td styleCode="Toprule Lrule Rrule " align="center">16-18.4</td>
+                                 <td styleCode="Toprule Lrule Rrule " align="center">64-73.6</td>
+                                 <td styleCode="Toprule Lrule Rrule " align="center">35</td>
+                                 <td styleCode="Toprule Lrule Rrule " align="center">70</td>
+                                 <td styleCode="Toprule Lrule Rrule " align="center">1.8</td>
+                                 <td styleCode="Toprule Lrule Rrule " align="center">22.8</td>
+                              </tr>
+                              <tr>
+                                 <td styleCode="Toprule Lrule Rrule " align="center">18.5-20.9</td>
+                                 <td styleCode="Toprule Lrule Rrule " align="center">74-83.6</td>
+                                 <td styleCode="Toprule Lrule Rrule " align="center">40</td>
+                                 <td styleCode="Toprule Lrule Rrule " align="center">80</td>
+                                 <td styleCode="Toprule Lrule Rrule " align="center">2</td>
+                                 <td styleCode="Toprule Lrule Rrule " align="center">26</td>
+                              </tr>
+                              <tr>
+                                 <td styleCode="Toprule Lrule Rrule " align="center">21-23.4</td>
+                                 <td styleCode="Toprule Lrule Rrule " align="center">84-93.6</td>
+                                 <td styleCode="Toprule Lrule Rrule " align="center">45</td>
+                                 <td styleCode="Toprule Lrule Rrule " align="center">90</td>
+                                 <td styleCode="Toprule Lrule Rrule " align="center">2.3</td>
+                                 <td styleCode="Toprule Lrule Rrule " align="center">29.3</td>
+                              </tr>
+                              <tr>
+                                 <td styleCode="Toprule Lrule Rrule " align="center">23.5-25.9</td>
+                                 <td styleCode="Toprule Lrule Rrule " align="center">94-103.6</td>
+                                 <td styleCode="Toprule Lrule Rrule " align="center">50</td>
+                                 <td styleCode="Toprule Lrule Rrule " align="center">100</td>
+                                 <td styleCode="Toprule Lrule Rrule " align="center">2.5</td>
+                                 <td styleCode="Toprule Lrule Rrule " align="center">32.5</td>
+                              </tr>
+                              <tr>
+                                 <td styleCode="Toprule Lrule Rrule " align="center">26-28.4</td>
+                                 <td styleCode="Toprule Lrule Rrule " align="center">104-113.6</td>
+                                 <td styleCode="Toprule Lrule Rrule " align="center">55</td>
+                                 <td styleCode="Toprule Lrule Rrule " align="center">110</td>
+                                 <td styleCode="Toprule Lrule Rrule " align="center">2.8</td>
+                                 <td styleCode="Toprule Lrule Rrule " align="center">35.8</td>
+                              </tr>
+                              <tr>
+                                 <td styleCode="Toprule Lrule Rrule " align="center">28.5-30.9</td>
+                                 <td styleCode="Toprule Lrule Rrule " align="center">114-123.6</td>
+                                 <td styleCode="Toprule Lrule Rrule " align="center">60</td>
+                                 <td styleCode="Toprule Lrule Rrule " align="center">120</td>
+                                 <td styleCode="Toprule Lrule Rrule " align="center">3</td>
+                                 <td styleCode="Toprule Lrule Rrule " align="center">39</td>
+                              </tr>
+                              <tr>
+                                 <td styleCode="Toprule Lrule Rrule " align="center">31-33.4</td>
+                                 <td styleCode="Toprule Lrule Rrule " align="center">124-133.6</td>
+                                 <td styleCode="Toprule Lrule Rrule " align="center">65</td>
+                                 <td styleCode="Toprule Lrule Rrule " align="center">130</td>
+                                 <td styleCode="Toprule Lrule Rrule " align="center">3.3</td>
+                                 <td styleCode="Toprule Lrule Rrule " align="center">42.3</td>
+                              </tr>
+                              <tr>
+                                 <td styleCode="Toprule Lrule Rrule " align="center">33.5-35.9</td>
+                                 <td styleCode="Toprule Lrule Rrule " align="center">134-143.6</td>
+                                 <td styleCode="Toprule Lrule Rrule " align="center">70</td>
+                                 <td styleCode="Toprule Lrule Rrule " align="center">140</td>
+                                 <td styleCode="Toprule Lrule Rrule " align="center">3.5</td>
+                                 <td styleCode="Toprule Lrule Rrule " align="center">45.5</td>
+                              </tr>
+                              <tr>
+                                 <td styleCode="Toprule Lrule Rrule " align="center">36-38.4</td>
+                                 <td styleCode="Toprule Lrule Rrule " align="center">144-153.6</td>
+                                 <td styleCode="Toprule Lrule Rrule " align="center">75</td>
+                                 <td styleCode="Toprule Lrule Rrule " align="center">150</td>
+                                 <td styleCode="Toprule Lrule Rrule " align="center">3.8</td>
+                                 <td styleCode="Toprule Lrule Rrule " align="center">48.8</td>
+                              </tr>
+                              <tr>
+                                 <td styleCode="Toprule Lrule Rrule " align="center">38.5-40.9</td>
+                                 <td styleCode="Toprule Lrule Rrule " align="center">154-163.6</td>
+                                 <td styleCode="Toprule Lrule Rrule " align="center">80</td>
+                                 <td styleCode="Toprule Lrule Rrule " align="center">160</td>
+                                 <td styleCode="Toprule Lrule Rrule " align="center">4</td>
+                                 <td styleCode="Toprule Lrule Rrule " align="center">52</td>
+                              </tr>
+                              <tr>
+                                 <td styleCode="Toprule Lrule Rrule " align="center">41-43.4</td>
+                                 <td styleCode="Toprule Lrule Rrule " align="center">164-173.6</td>
+                                 <td styleCode="Toprule Lrule Rrule " align="center">85</td>
+                                 <td styleCode="Toprule Lrule Rrule " align="center">170</td>
+                                 <td styleCode="Toprule Lrule Rrule " align="center">4.3</td>
+                                 <td styleCode="Toprule Lrule Rrule " align="center">55.3</td>
+                              </tr>
+                              <tr>
+                                 <td styleCode="Toprule Lrule Rrule " align="center">43.5-45.9</td>
+                                 <td styleCode="Toprule Lrule Rrule " align="center">174-183.6</td>
+                                 <td styleCode="Toprule Lrule Rrule " align="center">90</td>
+                                 <td styleCode="Toprule Lrule Rrule " align="center">180</td>
+                                 <td styleCode="Toprule Lrule Rrule " align="center">4.5</td>
+                                 <td styleCode="Toprule Lrule Rrule " align="center">58.5</td>
+                              </tr>
+                              <tr>
+                                 <td styleCode="Toprule Lrule Rrule " align="center">46-48.4</td>
+                                 <td styleCode="Toprule Lrule Rrule " align="center">184-193.6</td>
+                                 <td styleCode="Toprule Lrule Rrule " align="center">95</td>
+                                 <td styleCode="Toprule Lrule Rrule " align="center">190</td>
+                                 <td styleCode="Toprule Lrule Rrule " align="center">4.8</td>
+                                 <td styleCode="Toprule Lrule Rrule " align="center">61.8</td>
+                              </tr>
+                              <tr>
+                                 <td styleCode="Toprule Lrule Rrule " align="center">48.5-50.9</td>
+                                 <td styleCode="Toprule Lrule Rrule " align="center">194-203.6</td>
+                                 <td styleCode="Toprule Lrule Rrule " align="center">100</td>
+                                 <td styleCode="Toprule Lrule Rrule " align="center">200</td>
+                                 <td styleCode="Toprule Lrule Rrule " align="center">5</td>
+                                 <td styleCode="Toprule Lrule Rrule " align="center">65</td>
+                              </tr>
+                              <tr>
+                                 <td styleCode="Toprule Lrule Rrule " align="center">51-53.4</td>
+                                 <td styleCode="Toprule Lrule Rrule " align="center">204-213.6</td>
+                                 <td styleCode="Toprule Lrule Rrule " align="center">105</td>
+                                 <td styleCode="Toprule Lrule Rrule " align="center">210</td>
+                                 <td styleCode="Toprule Lrule Rrule " align="center">5.3</td>
+                                 <td styleCode="Toprule Lrule Rrule " align="center">68.3</td>
+                              </tr>
+                              <tr>
+                                 <td styleCode="Toprule Lrule Rrule " align="center">53.5-55.9</td>
+                                 <td styleCode="Toprule Lrule Rrule " align="center">214-223.6</td>
+                                 <td styleCode="Toprule Lrule Rrule " align="center">110</td>
+                                 <td styleCode="Toprule Lrule Rrule " align="center">220</td>
+                                 <td styleCode="Toprule Lrule Rrule " align="center">5.5</td>
+                                 <td styleCode="Toprule Lrule Rrule " align="center">71.5</td>
+                              </tr>
+                              <tr>
+                                 <td styleCode="Toprule Lrule Rrule " align="center">56-58.4</td>
+                                 <td styleCode="Toprule Lrule Rrule " align="center">224-233.6</td>
+                                 <td styleCode="Toprule Lrule Rrule " align="center">115</td>
+                                 <td styleCode="Toprule Lrule Rrule " align="center">230</td>
+                                 <td styleCode="Toprule Lrule Rrule " align="center">5.8</td>
+                                 <td styleCode="Toprule Lrule Rrule " align="center">74.8</td>
+                              </tr>
+                              <tr>
+                                 <td styleCode="Toprule Lrule Rrule " align="center">58.5-60.9</td>
+                                 <td styleCode="Toprule Lrule Rrule " align="center">234-243.6</td>
+                                 <td styleCode="Toprule Lrule Rrule " align="center">120</td>
+                                 <td styleCode="Toprule Lrule Rrule " align="center">240</td>
+                                 <td styleCode="Toprule Lrule Rrule " align="center">6</td>
+                                 <td styleCode="Toprule Lrule Rrule " align="center">78</td>
+                              </tr>
+                              <tr>
+                                 <td styleCode="Toprule Lrule Rrule " align="center">61-63.4</td>
+                                 <td styleCode="Toprule Lrule Rrule " align="center">244-253.6</td>
+                                 <td styleCode="Toprule Lrule Rrule " align="center">125</td>
+                                 <td styleCode="Toprule Lrule Rrule " align="center">250</td>
+                                 <td styleCode="Toprule Lrule Rrule " align="center">6.3</td>
+                                 <td styleCode="Toprule Lrule Rrule " align="center">81.3</td>
+                              </tr>
+                              <tr>
+                                 <td styleCode="Toprule Lrule Rrule " align="center">63.5-65.9</td>
+                                 <td styleCode="Toprule Lrule Rrule " align="center">254-263.6</td>
+                                 <td styleCode="Toprule Lrule Rrule " align="center">130</td>
+                                 <td styleCode="Toprule Lrule Rrule " align="center">260</td>
+                                 <td styleCode="Toprule Lrule Rrule " align="center">6.5</td>
+                                 <td styleCode="Toprule Lrule Rrule " align="center">84.5</td>
+                              </tr>
+                              <tr>
+                                 <td styleCode="Toprule Lrule Rrule " align="center">66-68.4</td>
+                                 <td styleCode="Toprule Lrule Rrule " align="center">264-273.6</td>
+                                 <td styleCode="Toprule Lrule Rrule " align="center">135</td>
+                                 <td styleCode="Toprule Lrule Rrule " align="center">270</td>
+                                 <td styleCode="Toprule Lrule Rrule " align="center">6.8</td>
+                                 <td styleCode="Toprule Lrule Rrule " align="center">87.8</td>
+                              </tr>
+                              <tr>
+                                 <td styleCode="Toprule Lrule Rrule " align="center">68.5-70.9</td>
+                                 <td styleCode="Toprule Lrule Rrule " align="center">274-283.6</td>
+                                 <td styleCode="Toprule Lrule Rrule " align="center">140</td>
+                                 <td styleCode="Toprule Lrule Rrule " align="center">280</td>
+                                 <td styleCode="Toprule Lrule Rrule " align="center">7</td>
+                                 <td styleCode="Toprule Lrule Rrule " align="center">91</td>
+                              </tr>
+                           </tbody>
+                        </table>
+                     </text>
+                     <effectiveTime value="20201223"/>
+                  </section>
+               </component>
+            </section>
+         </component>
+         <component>
+            <section ID="_3__DOSAGE">
+               <id root="042a63eb-4bf6-477f-a0ca-7ce06b589bab"/>
+               <code codeSystem="2.16.840.1.113883.6.1" code="43678-2" displayName="DOSAGE FORMS &amp; STRENGTHS SECTION"/>
+               <title>
+                  <content styleCode="bold">3</content>
+                  <content styleCode="bold">  </content>
+                  <content styleCode="bold">DOSAGE FORMS AND STRENGTHS</content>
+               </title>
+               <text>
+                  <paragraph>Injection: 10 mg/5 mL (2 mg/mL) as a colorless to slightly yellow liquid in a single-dose vial.</paragraph>
+               </text>
+               <effectiveTime value="20201223"/>
+               <excerpt>
+                  <highlight>
+                     <text>
+                        <paragraph>Injection: 10 mg/5 mL (2 mg/mL) in a single-dose vial (<linkHtml href="#_3__DOSAGE">3</linkHtml>)      </paragraph>
+                     </text>
+                  </highlight>
+               </excerpt>
+            </section>
+         </component>
+         <component>
+            <section ID="_4__CONTRAINDICATIONS">
+               <id root="aacf4eec-c4a2-4d22-9e32-77d77c78b5f7"/>
+               <code codeSystem="2.16.840.1.113883.6.1" code="34070-3" displayName="CONTRAINDICATIONS SECTION"/>
+               <title>
+                  <content styleCode="bold">4</content>
+                  <content styleCode="bold">  </content>
+                  <content styleCode="bold">CONTRAINDICATIONS</content>
+               </title>
+               <text>
+                  <paragraph>None.</paragraph>
+               </text>
+               <effectiveTime value="20201223"/>
+               <excerpt>
+                  <highlight>
+                     <text>
+                        <paragraph>None (<linkHtml href="#_4__CONTRAINDICATIONS">4</linkHtml>)</paragraph>
+                     </text>
+                  </highlight>
+               </excerpt>
+            </section>
+         </component>
+         <component>
+            <section>
+               <id root="a7d75085-f5c2-4202-840a-2748a7739126"/>
+               <code codeSystem="2.16.840.1.113883.6.1" code="43685-7" displayName="WARNINGS AND PRECAUTIONS SECTION"/>
+               <title>
+                  <content styleCode="bold">5</content>
+                  <content styleCode="bold">  </content>
+                  <content styleCode="bold">WARNINGS AND PRECAUTIONS</content>
+               </title>
+               <effectiveTime value="20201223"/>
+               <component>
+                  <section ID="_5_1__Anaphylaxis">
+                     <id root="5f049da9-0fb3-4ace-a9f5-8b0881299d1b"/>
+                     <code codeSystem="2.16.840.1.113883.6.1" code="42229-5" displayName="SPL UNCLASSIFIED SECTION"/>
+                     <title>
+                        <content styleCode="bold">5.1</content>
+                        <content styleCode="bold">  </content>
+                        <content styleCode="bold">Anaphylaxis</content>
+                     </title>
+                     <text>
+                        <paragraph>Anaphylaxis to MEPSEVII was reported in 2 of 20 patients in the clinical program <content styleCode="italics">[see Adverse Reactions (</content>
+                           <content styleCode="italics">
+                              <linkHtml href="#_6_1__Clinical">6.1</linkHtml>
+                           </content>
+                           <content styleCode="italics">)]</content>. These reactions occurred during MEPSEVII infusion and were observed as early as the first dose of MEPSEVII for one patient. Manifestations included respiratory distress, cyanosis, decreased oxygen saturation, and hypotension. The two patients with anaphylaxis to MEPSEVII during the clinical trials had one occurrence each and tolerated subsequent infusions of MEPSEVII, without recurrence.</paragraph>
+                        <paragraph>Anaphylaxis can be life-threatening. MEPSEVII should be administered under the supervision of a healthcare professional with the capability to manage anaphylaxis. Patients should be observed for 60 minutes after MEPSEVII administration. If severe systemic reactions occur, including anaphylaxis, immediately discontinue the MEPSEVII infusion and provide appropriate medical treatment. Prior to discharge, inform patients of the signs and symptoms of anaphylaxis and instruct them to seek immediate medical care if symptoms occur. Consider the risks and benefits of re-administering MEPSEVII following anaphylaxis.  </paragraph>
+                     </text>
+                     <effectiveTime value="20201223"/>
+                  </section>
+               </component>
+            </section>
+         </component>
+         <component>
+            <section ID="_6__ADVERSE">
+               <id root="a227724e-c6d2-4094-932f-61d855838f41"/>
+               <code codeSystem="2.16.840.1.113883.6.1" code="34084-4" displayName="ADVERSE REACTIONS SECTION"/>
+               <title>
+                  <content styleCode="bold">6</content>
+                  <content styleCode="bold">  </content>
+                  <content styleCode="bold">ADVERSE REACTIONS</content>
+               </title>
+               <text>
+                  <paragraph>The following serious adverse reactions are described below and elsewhere in the labeling:</paragraph>
+                  <list listType="unordered" styleCode="Disc">
+                     <item>Anaphylaxis <content styleCode="italics">[see Warnings and Precautions (</content>
+                        <content styleCode="italics">
+                           <linkHtml href="#_5_1__Anaphylaxis">5.1</linkHtml>
+                        </content>
+                        <content styleCode="italics">)]</content>
+                     </item>
+                  </list>
+               </text>
+               <effectiveTime value="20201223"/>
+               <excerpt>
+                  <highlight>
+                     <text>
+                        <paragraph>Most common adverse reactions (≥1 patient) are: Infusion site extravasation, diarrhea, rash, anaphylaxis, infusion site swelling, peripheral swelling and pruritus. (<linkHtml href="#_6_1__Clinical">6.1</linkHtml>) </paragraph>
+                        <paragraph>
+                           <content styleCode="bold">
+                              <br/>
+                              <br/>To report SUSPECTED ADVERSE REACTIONS, contact Ultragenyx at 1-888-756-8657 or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch.</content>
+                        </paragraph>
+                     </text>
+                  </highlight>
+               </excerpt>
+               <component>
+                  <section ID="_6_1__Clinical">
+                     <id root="34f3fec0-d8db-4932-b244-c48e96b14699"/>
+                     <code codeSystem="2.16.840.1.113883.6.1" code="90374-0" displayName="CLINICAL TRIALS EXPERIENCE SECTION"/>
+                     <title>
+                        <content styleCode="bold">6.1</content>
+                        <content styleCode="bold">  </content>
+                        <content styleCode="bold">Clinical Trials Experience</content>
+                     </title>
+                     <text>
+                        <paragraph>Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice.</paragraph>
+                        <paragraph>The MEPSEVII clinical program included 23 patients aged 5 months to 25 years who received treatment with MEPSEVII at doses up to 4 mg/kg once every two weeks for up to 187 weeks. Nineteen patients were younger than 18 years of age. </paragraph>
+                        <paragraph>Table 2 summarizes the adverse reactions that occurred in Study 301, a randomized start trial in 12 patients with MPS VII between the ages of 8 and 25 years <content styleCode="italics">[see Clinical Studies (</content>
+                           <content styleCode="italics">
+                              <linkHtml href="#_14__CLINICAL">14</linkHtml>
+                           </content>
+                           <content styleCode="italics">)]</content>. </paragraph>
+                        <paragraph>Adverse reactions in Table 2 occurred in one or more patients treated with MEPSEVII at a dosage of 4 mg/kg  at a higher patient frequency than placebo. Adverse reaction incidence rates are presented in the table below to account for the different duration of exposure to active treatment vs. placebo.</paragraph>
+                        <table>
+                           <caption>Table 2. Adverse Reactions in Patients with MPS VII in Study 301 </caption>
+                           <col width="245"/>
+                           <col width="245"/>
+                           <col width="245"/>
+                           <tbody>
+                              <tr>
+                                 <td styleCode="Toprule Lrule Rrule ">
+                                    <content styleCode="bold">Adverse Reaction</content>
+                                 </td>
+                                 <td styleCode="Toprule Lrule Rrule " align="center">
+                                    <content styleCode="bold">MEPSEVII</content>
+                                    <br/>
+                                    <content styleCode="bold">N =12</content>
+                                    <br/>
+                                    <content styleCode="bold">n</content>
+                                    <content styleCode="bold"> (</content>
+                                    <content styleCode="bold">Incidence</content>
+                                    <content styleCode="bold"> Rate*)</content>
+                                 </td>
+                                 <td styleCode="Toprule Lrule Rrule " align="center">
+                                    <content styleCode="bold">Placebo</content>
+                                    <br/>
+                                    <content styleCode="bold">N=</content>
+                                    <content styleCode="bold">9</content>
+                                    <br/>
+                                    <content styleCode="bold">n</content>
+                                    <content styleCode="bold"> (</content>
+                                    <content styleCode="bold">Incidence</content>
+                                    <content styleCode="bold"> Rate*)</content>
+                                 </td>
+                              </tr>
+                              <tr>
+                                 <td styleCode="Toprule Lrule Rrule ">Infusion site extravasation</td>
+                                 <td styleCode="Toprule Lrule Rrule " align="center">4 (0.5)</td>
+                                 <td styleCode="Toprule Lrule Rrule " align="center">1 (0.4)</td>
+                              </tr>
+                              <tr>
+                                 <td styleCode="Toprule Lrule Rrule ">Diarrhea</td>
+                                 <td styleCode="Toprule Lrule Rrule " align="center">3 (0.4)</td>
+                                 <td styleCode="Toprule Lrule Rrule " align="center">0 (0.0)</td>
+                              </tr>
+                              <tr>
+                                 <td styleCode="Toprule Lrule Rrule ">Rash</td>
+                                 <td styleCode="Toprule Lrule Rrule " align="center">3 (0.4)</td>
+                                 <td styleCode="Toprule Lrule Rrule " align="center">2 (0.7)</td>
+                              </tr>
+                              <tr>
+                                 <td styleCode="Toprule Lrule Rrule ">Anaphylaxis</td>
+                                 <td styleCode="Toprule Lrule Rrule " align="center">2 (0.2)</td>
+                                 <td styleCode="Toprule Lrule Rrule " align="center">0 (0.0)</td>
+                              </tr>
+                              <tr>
+                                 <td styleCode="Toprule Lrule Rrule ">Infusion site swelling</td>
+                                 <td styleCode="Toprule Lrule Rrule " align="center">1 (0.1)</td>
+                                 <td styleCode="Toprule Lrule Rrule " align="center">0 (0.0)</td>
+                              </tr>
+                              <tr>
+                                 <td styleCode="Toprule Lrule Rrule ">Peripheral swelling</td>
+                                 <td styleCode="Toprule Lrule Rrule " align="center">1 (0.1)</td>
+                                 <td styleCode="Toprule Lrule Rrule " align="center">0 (0.0)</td>
+                              </tr>
+                              <tr>
+                                 <td styleCode="Toprule Lrule Rrule ">Pruritus</td>
+                                 <td styleCode="Toprule Lrule Rrule " align="center">1 (0.1)</td>
+                                 <td styleCode="Toprule Lrule Rrule " align="center">0 (0.0)</td>
+                              </tr>
+                           </tbody>
+                        </table>
+                        <paragraph> n = number of reactions</paragraph>
+                        <paragraph>*Adverse reaction incidence rates calculated per 8.3 patient years for exposure to MEPSEVII, and 2.7 years of exposure for placebo</paragraph>
+                        <paragraph>
+                           <content styleCode="underline">Febrile Convulsion </content>
+                        </paragraph>
+                        <paragraph>One patient receiving a dose of 4 mg/kg experienced a febrile convulsion during MEPSEVII treatment at Week 66. The infusion was stopped, the patient received anticonvulsants, antipyretics and antibiotics, and the adverse reaction resolved. The patient subsequently was re-challenged without recurrence and continued on treatment. </paragraph>
+                     </text>
+                     <effectiveTime value="20201223"/>
+                  </section>
+               </component>
+               <component>
+                  <section>
+                     <id root="3f356f99-b965-4792-9563-6ab20b5e70fc"/>
+                     <code codeSystem="2.16.840.1.113883.6.1" code="42229-5" displayName="SPL UNCLASSIFIED SECTION"/>
+                     <title>
+                        <content styleCode="bold">6.2  Immunogenicity</content>
+                     </title>
+                     <text>
+                        <paragraph>As with all therapeutic proteins, there is potential for immunogenicity. The detection of antibody formation is highly dependent on the sensitivity and specificity of the assay. Additionally, the observed incidence of antibody (including neutralizing antibody) positivity in an assay may be influenced by several factors including assay methodology, sample handling, timing of sample collection, concomitant medications, and underlying disease. For these reasons, comparison of the incidence of antibodies in the studies described below with the incidence of antibodies in other studies to other vestronidase alfa products may be misleading.</paragraph>
+                        <paragraph>Immunogenicity data were available from 23 patients who received MEPSEVII for up to 187 weeks of treatment. Eighteen out of 23  (78%) patients developed anti-vestronidase alfa-vjbk antibodies (ADA). Ten of the 18 (55.6%) ADA-positive patients were tested positive for neutralizing antibodies (NAb). There is no correlation between ADA titer and NAb development. </paragraph>
+                        <paragraph>Six treatment-naïve patients had pre-existing ADA titers at baseline. ADAs were detected in five of these six patients post-treatment. The post-treatment ADA titers were the same as or below the baseline ADA titer values in two patients, but one of these two patients was positive for NAb. ADA titer values after treatment increased 64-fold, 128-fold, and 364-fold, respectively, in the other three patients.    </paragraph>
+                        <paragraph>The presence of ADA titer did not appear to affect reduction in urinary glycosaminoglycans (uGAGs).</paragraph>
+                     </text>
+                     <effectiveTime value="20201223"/>
+                  </section>
+               </component>
+            </section>
+         </component>
+         <component>
+            <section>
+               <id root="c889f1f5-b4f1-46b3-a09f-ffb213de0a6c"/>
+               <code codeSystem="2.16.840.1.113883.6.1" code="43684-0" displayName="USE IN SPECIFIC POPULATIONS SECTION"/>
+               <title>
+                  <content styleCode="bold">8</content>
+                  <content styleCode="bold">  </content>
+                  <content styleCode="bold">USE IN SPECIFIC POPULATIONS</content>
+               </title>
+               <effectiveTime value="20201223"/>
+               <component>
+                  <section>
+                     <id root="207649dc-a5b3-4536-97cb-7690c4e914d5"/>
+                     <code codeSystem="2.16.840.1.113883.6.1" code="42228-7" displayName="PREGNANCY SECTION"/>
+                     <title>
+                        <content styleCode="bold">8.1</content>
+                        <content styleCode="bold">  </content>
+                        <content styleCode="bold">Pregnancy</content>
+                     </title>
+                     <text>
+                        <paragraph>
+                           <content styleCode="underline">Risk Summary</content>
+                        </paragraph>
+                        <paragraph>There are no available data on MEPSEVII use in pregnant women to determine a drug-associated risk of adverse developmental outcomes. In embryofetal development studies, vestronidase alfa-vjbk administered intravenously to pregnant rats and rabbits during the period of organogenesis showed no adverse developmental outcomes at doses up to 1.6 and 10 times, respectively for rats and rabbits, the exposure at the recommended human dose. In a pre- and post-natal development study in rats, an increased number of stillbirths were observed at exposures less than the recommended human dose (see Data). The clinical relevance of these animal findings is uncertain.</paragraph>
+                        <paragraph>The estimated background risk of major birth defects and miscarriage for the indicated population is unknown. All pregnancies have a background risk of birth defect, loss, or other adverse outcomes. In the U.S. general population, the estimated background risk of major birth defects and miscarriage in clinically recognized pregnancies is 2 to 4% and 15 to 20%, respectively.</paragraph>
+                        <paragraph>
+                           <content styleCode="underline">Data</content>
+                        </paragraph>
+                        <paragraph>
+                           <content styleCode="italics">Animal Data</content>
+                        </paragraph>
+                        <paragraph>In embryofetal development studies, vestronidase alfa-vjbk administered intravenously to pregnant rats (once a week) and rabbits (once every 3 days) during the period of organogenesis showed no  adverse developmental outcomes at doses up to 20 mg/kg. The 20 mg/kg dose in rats and rabbits provides approximately 1.6 and 10 times the human exposure (AUC) of 57.9 hr*mcg/mL at the 4 mg/kg dose administered once every other week, respectively.  </paragraph>
+                        <paragraph>In a pre- and post-natal developmental study in rats, vestronidase alfa-vjbk was administered every 3 days from gestation day 7 through lactation day 20 at doses of 2 mg/kg, 6 mg/kg, and 20 mg/kg. Mortality and adverse clinical signs were observed in the maternal animals at the 20 mg/kg dose (1.6 times the human exposure (AUC) at the recommended human dose of 4 mg/kg). Subsequently, the 20 mg/kg dose was reduced to 12 mg/kg. Maternal toxicity with mortality in one animal was also observed at the 6 mg/kg dose (0.17 times the AUC at the recommended human dose of 4 mg/kg). At the 2 mg/kg dose (0.01 times the AUC at the recommended human dose of 4 mg/kg), no adverse effects were observed in the maternal animals; however, there was a statistically significant decrease in the number of live births and subsequent increase in the number of stillbirths at this dose.</paragraph>
+                     </text>
+                     <effectiveTime value="20201223"/>
+                  </section>
+               </component>
+               <component>
+                  <section>
+                     <id root="5bb9403b-b21a-417d-8685-9a3d81baca33"/>
+                     <code codeSystem="2.16.840.1.113883.6.1" code="77290-5" displayName="LACTATION SECTION"/>
+                     <title>
+                        <content styleCode="bold">8.2</content>
+                        <content styleCode="bold">  </content>
+                        <content styleCode="bold">Lactation</content>
+                     </title>
+                     <text>
+                        <paragraph>
+                           <content styleCode="underline">Risk Summary</content> </paragraph>
+                        <paragraph>There are no data on the presence of vestronidase alfa-vjbk in either human or animal milk, the effects on the breastfed infant, or the effects on milk production. The developmental and health benefits of breastfeeding should be considered along with the mother's clinical need for MEPSEVII and any potential adverse effects on the breastfed infant from vestronidase alfa-vjbk or from the underlying maternal condition.</paragraph>
+                     </text>
+                     <effectiveTime value="20201223"/>
+                  </section>
+               </component>
+               <component>
+                  <section>
+                     <id root="4bf45d31-ad27-49ea-9da8-2457a947cd70"/>
+                     <code codeSystem="2.16.840.1.113883.6.1" code="34081-0" displayName="PEDIATRIC USE SECTION"/>
+                     <title>
+                        <content styleCode="bold">8.</content>
+                        <content styleCode="bold">4</content>
+                        <content styleCode="bold">  </content>
+                        <content styleCode="bold">Pediatric Use</content>
+                     </title>
+                     <text>
+                        <paragraph>The safety and effectiveness of MEPSEVII have been established in pediatric patients less than 18 years of age <content styleCode="italics">[see Adverse Reactions (</content>
+                           <content styleCode="italics">
+                              <linkHtml href="#_6__ADVERSE">6</linkHtml>
+                           </content>
+                           <content styleCode="italics">)</content>
+                           <content styleCode="italics">,</content>
+                           <content styleCode="italics">Clinical Studies (</content>
+                           <content styleCode="italics">
+                              <linkHtml href="#_14__CLINICAL">14</linkHtml>
+                           </content>
+                           <content styleCode="italics">)]</content>. </paragraph>
+                     </text>
+                     <effectiveTime value="20201223"/>
+                  </section>
+               </component>
+               <component>
+                  <section>
+                     <id root="1e77942e-9113-49ce-b076-eec3493b8e12"/>
+                     <code codeSystem="2.16.840.1.113883.6.1" code="34082-8" displayName="GERIATRIC USE SECTION"/>
+                     <title>
+                        <content styleCode="bold">8.</content>
+                        <content styleCode="bold">5</content>
+                        <content styleCode="bold">  </content>
+                        <content styleCode="bold">Geriatric Use</content>
+                     </title>
+                     <text>
+                        <paragraph>Clinical trials of MEPSEVII did not include any patients aged 65 and over. It is not known whether elderly patients respond differently from younger patients.</paragraph>
+                     </text>
+                     <effectiveTime value="20201223"/>
+                  </section>
+               </component>
+            </section>
+         </component>
+         <component>
+            <section>
+               <id root="ed6bf7e9-602b-43e4-9417-0aef7329943e"/>
+               <code codeSystem="2.16.840.1.113883.6.1" code="34089-3" displayName="DESCRIPTION SECTION"/>
+               <title>
+                  <content styleCode="bold">11</content>
+                  <content styleCode="bold">  </content>
+                  <content styleCode="bold">DESCRIPTION </content>
+               </title>
+               <text>
+                  <paragraph>Vestronidase alfa-vjbk is a recombinant human lysosomal beta glucuronidase which is a purified human enzyme produced by recombinant DNA technology in a Chinese hamster ovary cell line. </paragraph>
+                  <paragraph>Purified vestronidase alfa-vjbk exists as a homotetramer, with each monomer consisting of 629 amino acids. The calculated isotope average molecular mass of each non-glycosylated peptide chain is 72,562 Da. </paragraph>
+                  <paragraph>The amino acid sequence for vestronidase alfa-vjbk is the same as the amino acid sequence for human beta-glucuronidase (GUS). </paragraph>
+                  <paragraph>MEPSEVII (vestronidase alfa-vjbk) injection for intravenous infusion is a sterile, preservative-free, non-pyrogenic, colorless to slightly yellow liquid supplied in a single-dose vial. Each mL of solution contains vestronidase alfa-vjbk (2 mg), L-histidine (3.1 mg), polysorbate 20 (0.1 mg), sodium chloride (7.88 mg) and sodium phosphate monobasic dihydrate (3.12 mg). The pH of the solution is 6.0.</paragraph>
+               </text>
+               <effectiveTime value="20201223"/>
+            </section>
+         </component>
+         <component>
+            <section>
+               <id root="8c8b79ea-1899-41b7-8865-b8b226c93ecd"/>
+               <code codeSystem="2.16.840.1.113883.6.1" code="34090-1" displayName="CLINICAL PHARMACOLOGY SECTION"/>
+               <title>
+                  <content styleCode="bold">12</content>
+                  <content styleCode="bold">  </content>
+                  <content styleCode="bold">CLINICAL PHARMACOLOGY</content>
+               </title>
+               <effectiveTime value="20201223"/>
+               <component>
+                  <section>
+                     <id root="d3eaca83-b806-44ab-9d59-9f3d520d8d02"/>
+                     <code codeSystem="2.16.840.1.113883.6.1" code="43679-0" displayName="MECHANISM OF ACTION SECTION"/>
+                     <title>
+                        <content styleCode="bold">12.1</content>		      	<content styleCode="bold"> </content>
+                        <content styleCode="bold">Mechanism of Action</content>
+                     </title>
+                     <text>
+                        <paragraph>Mucopolysaccharidosis VII (MPS VII or Sly syndrome) is a lysosomal disorder characterized by the deficiency of GUS that results in GAG accumulation in cells throughout the body leading to multisystem tissue and organ damage. </paragraph>
+                        <paragraph>Vestronidase alfa-vjbk is a recombinant form of human GUS and is intended to provide exogenous GUS enzyme for uptake into cellular lysosomes. Mannose-6-phosphate (M6P) residues on the oligosaccharide chains allow binding of the enzyme to cell surface receptors, leading to cellular uptake of the enzyme, targeting to lysosomes and subsequent catabolism of accumulated GAGs in affected tissues.</paragraph>
+                     </text>
+                     <effectiveTime value="20201223"/>
+                  </section>
+               </component>
+               <component>
+                  <section>
+                     <id root="31b641b8-078c-4d2a-9046-dc36d3266beb"/>
+                     <code codeSystem="2.16.840.1.113883.6.1" code="43681-6" displayName="PHARMACODYNAMICS SECTION"/>
+                     <title>
+                        <content styleCode="bold">12.2</content>
+                        <content styleCode="bold">		      	Pharmacodynamics</content>
+                     </title>
+                     <text>
+                        <paragraph>In clinical studies, MEPSEVII treatment resulted in sustained reduction of urinary excretion of GAGs during long-term treatment [see Clinical Studies (<linkHtml href="#_14__CLINICAL">14</linkHtml>)].</paragraph>
+                     </text>
+                     <effectiveTime value="20201223"/>
+                  </section>
+               </component>
+               <component>
+                  <section>
+                     <id root="9af2ba5d-9b5a-4cce-9f7b-bfc2bef834dd"/>
+                     <code codeSystem="2.16.840.1.113883.6.1" code="43682-4" displayName="PHARMACOKINETICS SECTION"/>
+                     <title>
+                        <content styleCode="bold">12.3</content>
+                        <content styleCode="bold">  </content>
+                        <content styleCode="bold">Pharmacokinetics</content>
+                     </title>
+                     <text>
+                        <paragraph>The pharmacokinetics of vestronidase alfa-vjbk were evaluated in a total of 23 MPS VII patients including 19 pediatric patients and 4 adults. Serum exposures of vestronidase alfa-vjbk appeared to increase approximately proportionally from 1 mg/kg (0.25 times the approved recommended dosage) to 2 mg/kg (0.5 times the approved recommended dosage), and 4 mg/kg (the recommended dosage).  After repeated dosing of 4 mg/kg every other week, the mean ± standard deviation of maximal concentration (Cmax) was 17.3 ± 9.6 mcg/mL (range: 4.7 to 35.7 mcg/mL); and the mean ± standard deviation of area under the concentration-time curve from time zero to the last measurable concentration (AUC0-t) was 50.9  ± 32.2  mcg*hr/mL (range: 17.4  to 153 mcg*hr/mL). </paragraph>
+                        <paragraph>Vestronidase alfa-vjbk concentrations in pediatric patients less than 5 years of age were similar to the concentrations in older children and adults.</paragraph>
+                        <paragraph>Distribution</paragraph>
+                        <paragraph>After repeated dosing of 4 mg/kg every other week in MPS VII patients, the mean ± standard deviation of the total volume of distribution (Vss) was 251 ± 140 mL/kg (range: 97 to 598 mL/kg).</paragraph>
+                        <paragraph>Elimination</paragraph>
+                        <paragraph>After repeated dosing of 4 mg/kg every other week in MPS VII patients, the mean ± standard deviation of the total clearance (CL) was 83.6 ± 43.2 mL/hr/kg (range: 38.3 to 184mL/hr/kg); the mean ± standard deviation of the elimination half-life (t1/2) was 2.33 ± 0.75  hours (range: 0.86 to 3.03  hours). The inter-subject variability (coefficient of variation) in total clearance (CL) was 52%.</paragraph>
+                        <paragraph>
+                           <content styleCode="italics">Metabolism</content>
+                        </paragraph>
+                        <paragraph>Vestronidase alfa-vjbk is a recombinant human enzyme and is therefore eliminated by proteolytic degradation into small peptides and amino acids.</paragraph>
+                        <paragraph>
+                           <content styleCode="italics">Excretion</content>
+                        </paragraph>
+                        <paragraph>No excretion studies have been conducted in humans. Vestronidase alfa-vjbk is not expected to be eliminated through renal or fecal excretion.  </paragraph>
+                     </text>
+                     <effectiveTime value="20201223"/>
+                  </section>
+               </component>
+            </section>
+         </component>
+         <component>
+            <section>
+               <id root="78c3c58d-cf4f-4483-9ef2-3a1d801b1c32"/>
+               <code codeSystem="2.16.840.1.113883.6.1" code="43680-8" displayName="NONCLINICAL TOXICOLOGY SECTION"/>
+               <title>
+                  <content styleCode="bold">13</content>
+                  <content styleCode="bold">  </content>
+                  <content styleCode="bold">NONCLINICAL TOXICOLOGY</content>
+               </title>
+               <effectiveTime value="20201223"/>
+               <component>
+                  <section>
+                     <id root="faa0609a-8c10-4854-a1fd-efafd7d65443"/>
+                     <code codeSystem="2.16.840.1.113883.6.1" code="34083-6" displayName="CARCINOGENESIS &amp; MUTAGENESIS &amp; IMPAIRMENT OF FERTILITY SECTION"/>
+                     <title>
+                        <content styleCode="bold">13.1</content>
+                        <content styleCode="bold">  </content>
+                        <content styleCode="bold">Carcinogenesis, Mutagenesis, Impairment of Fertility</content>
+                     </title>
+                     <text>
+                        <paragraph>Long-term studies in animals to evaluate carcinogenic potential or studies to evaluate the mutagenic potential have not been performed with vestronidase alfa-vjbk. </paragraph>
+                        <paragraph>Vestronidase alfa-vjbk at intravenous doses up to 20 mg/kg administered weekly to rats prior to mating and after mating on gestation days 6, 9, 12, 15 and 18 (females), [approximately up to 4.5 times (male rats) and 1.6 times (female rats) the human AUC<sub>0-t</sub> of 3440 mcg*min/mL at the 4 mg/kg dose administered once every other week] was found to have no adverse effect on fertility and reproductive performance of male and female rats. </paragraph>
+                     </text>
+                     <effectiveTime value="20201223"/>
+                  </section>
+               </component>
+            </section>
+         </component>
+         <component>
+            <section ID="_14__CLINICAL">
+               <id root="1f61241f-9391-4f6f-91f2-7c2528b46213"/>
+               <code codeSystem="2.16.840.1.113883.6.1" code="34092-7" displayName="CLINICAL STUDIES SECTION"/>
+               <title>
+                  <content styleCode="bold">14</content>
+                  <content styleCode="bold">  </content>
+                  <content styleCode="bold">CLINICAL STUDIES</content>
+               </title>
+               <text>
+                  <paragraph>The clinical program for MEPSEVII included 23 patients with MPS VII, 17 of whom were evaluable for efficacy, 20 for safety, and 23 for immunogenicity. Patients were enrolled in clinical trials and expanded access protocols receiving treatment at doses up to 4 mg/kg once every two weeks for up to 187 weeks. The patients ranged in age from 5 months to 25 years. Sixteen patients were younger than 18 years of age. </paragraph>
+                  <paragraph>
+                     <content styleCode="underline">Studies</content>
+                     <content styleCode="underline"> </content>
+                     <content styleCode="underline">301 and </content>
+                     <content styleCode="underline">202</content>
+                  </paragraph>
+                  <paragraph>Study UX003-CL301 (referred to as Study 301, NCT02230566) was a randomized start trial of MEPSEVII 4 mg/kg every two weeks in patients with MPS VII. Twelve patients were randomized to one of four placebo durations before crossing over to active treatment. Three patients received MEPSEVII immediately for a duration of 48 weeks, 3 patients received placebo for 8 weeks then MEPSEVII for 40 weeks, 3 patients received placebo for 16 weeks then MEPSEVII for 32 weeks, and 3 patients received placebo for 24 weeks then MEPSEVII for 24 weeks. Of the 12 patients enrolled in the trial, 4 were male and 8 were female and ranged in age from 8 to 25 years (median 14 years). Nine patients were younger than 18 years of age. The majority of the patients were white (75%), with 50% of Hispanic or Latino ethnicity. Patients who were enrolled in Study 301 were eligible to roll over to Study UX003-CL202 (referred to as Study 202, NCT02432144), an open-label extension trial in which patients received additional doses of MEPSEVII at 4 mg/kg intravenously every other week for up to 144 weeks. Ten patients rolled over directly from the end of Study to Week 0 of Study 202, while 2 patients (17%) had treatment gaps before enrolling in Study 202.</paragraph>
+                  <paragraph>In Study 301, motor function, forced vital capacity, and visual acuity were assessed after 24 weeks of MEPSEVII treatment and measured against pre-specified minimal important differences. The extremely small population of patients with MPS VII globally necessitated the enrollment of all patients able to participate resulting in a highly heterogeneous group. Clinical endpoints were not assessable in some patients due to their extent of disease, age or level of cognition. Repeated assessments of the six minute walk test (6MWT) were feasible in ten of 12 patients and are described further below. Of the three patients who improved on their 6MWT (Figure 1, left panel), two also were noted to have improvement in balance and gross motor proficiency as assessed by the Bruininks-Oseretsky Test of Motor Proficiency (BOT-2).  </paragraph>
+                  <paragraph>In this trial, the mean difference in 6MWT distance between MEPSEVII and placebo treatment periods in patients able to perform the test at baseline and subsequent visits through Week 24 is shown in Table 3. The mean difference in 6MWT distance increases with increased treatment duration, however, due to the small size of the trial, standard errors are large.  </paragraph>
+                  <table>
+                     <caption>Table 3. Mean Difference in 6MWT Distance (meters) Between MEPSEVII and Placebo Treatment (Study 301) in Patients with MPS VII</caption>
+                     <col width="163"/>
+                     <col width="264"/>
+                     <col width="264"/>
+                     <tbody>
+                        <tr>
+                           <td styleCode="Toprule Lrule Rrule " align="center">
+                              <content styleCode="bold">Duration</content>
+                              <content styleCode="bold"> of MEPSEVII Treatment</content>
+                           </td>
+                           <td styleCode="Toprule Lrule Rrule " align="center">
+                              <content styleCode="bold">LS mean 6MW</content>
+                              <content styleCode="bold">T</content>
+                              <content styleCode="bold"> (m</content>
+                              <content styleCode="bold">eters</content>
+                              <content styleCode="bold">) </content>
+                              <content styleCode="bold"/>
+                              <content styleCode="bold">(</content>± <content styleCode="bold">S</content>
+                              <content styleCode="bold">tandard </content>
+                              <content styleCode="bold">Error</content>
+                              <content styleCode="bold">)*</content>
+                           </td>
+                           <td styleCode="Toprule Lrule Rrule " align="center">
+                              <content styleCode="bold">Number </content>
+                              <content styleCode="bold">and Treatment Assignment</content>
+                              <content styleCode="bold"> of Patients</content>
+                              <content styleCode="bold"> Included in </content>
+                              <content styleCode="bold">Analyis</content>
+                              <content styleCode="bold">**</content>
+                              <content styleCode="bold"> </content>
+                           </td>
+                        </tr>
+                        <tr>
+                           <td styleCode="Toprule Lrule Rrule ">8 weeks</td>
+                           <td styleCode="Toprule Lrule Rrule " align="center"> -11 (± 24)</td>
+                           <td styleCode="Toprule Lrule Rrule " align="center">5 placebo period; 8 MEPSEVII period</td>
+                        </tr>
+                        <tr>
+                           <td styleCode="Toprule Lrule Rrule ">16 weeks </td>
+                           <td styleCode="Toprule Lrule Rrule " align="center">13 (± 32)</td>
+                           <td styleCode="Toprule Lrule Rrule " align="center">5 placebo period; 8 MEPSEVII period</td>
+                        </tr>
+                        <tr>
+                           <td styleCode="Toprule Lrule Rrule ">24 weeks </td>
+                           <td styleCode="Toprule Lrule Rrule " align="center">18 (± 33)</td>
+                           <td styleCode="Toprule Lrule Rrule " align="center">5 placebo period; 8 MEPSEVII period</td>
+                        </tr>
+                     </tbody>
+                  </table>
+                  <paragraph>*ANCOVA analysis of change from baseline in least squares (LS) mean between placebo and MEPSEVII for different periods, after adjusting for study cohort, age, and baseline 6MWT distance. Patients who used assistive devices were imputed as zeros in the analysis. </paragraph>
+                  <paragraph>**Number and treatment assignment of patients included in the analysis was based upon a randomized start trial design and patient ability to complete testing. Due to no placebo period for the three patients who received 48 weeks of MEPSEVII in the first cohort of the randomized start design, more data were available for analyses during the treatment period (n=8) than during the placebo period (n=5). While data from 8 participants were available at each time point, due to missing observations, the 8 participants were not the same across all time points.</paragraph>
+                  <paragraph>The observed individual 6MWT distances for the 10 patients who could perform the test in Study 301 and Study 202 through Week 184 are presented in Figure 1. The course of three patients with improvement in distance walked of at least 60 meters during the 301 Study compared to the start of MEPSEVII treatment (Week 0) is shown in the left panel; the relatively stable course in the remaining seven patients, including those who used assistive devices, is shown in the right panel.</paragraph>
+                  <paragraph>
+                     <content styleCode="bold">Figure </content>
+                     <content styleCode="bold">1</content>
+                     <content styleCode="bold">. </content>
+                     <content styleCode="bold">6MWT</content>
+                     <content styleCode="bold"> Distance </content>
+                     <content styleCode="bold">for MPS VII </content>
+                     <content styleCode="bold">Patient</content>
+                     <content styleCode="bold">s in Studies 301 and 202</content>
+                  </paragraph>
+                  <paragraph>
+                     <renderMultiMedia referencedObject="MM03000001"/>
+                  </paragraph>
+                  <paragraph>Patient 10 did not use an assistive device at baseline but started using an assistive device post-baseline from Treatment Week 8. Patients 6 and 9 consistently used an assistive device at all visits. A solid line indicates the unassisted assessments and a dotted line indicates the assisted assessments.  </paragraph>
+                  <paragraph>		      	</paragraph>
+                  <paragraph>
+                     <content styleCode="underline">Liver </content>
+                     <content styleCode="underline">and Spleen </content>
+                     <content styleCode="underline">Volume</content>
+                  </paragraph>
+                  <paragraph>In Study 301, imaging by MRI or ultrasound to assess liver and spleen volume was performed in seven of the 12 patients. Most liver volumes were normal or below normal size at baseline (mean 1,591 mL, range 742 to 2,207 mL), and on average were unchanged after treatment (mean 1,459 mL, range 876 to 1,851 mL).  </paragraph>
+                  <paragraph>Spleen volumes generally were normal or below normal size at baseline (mean 325 mL, range 131 to 491 mL) and on average were unchanged after treatment (mean 360 mL, range 200 to 582 mL).  </paragraph>
+                  <paragraph>Study 203</paragraph>
+                  <paragraph>UX003-CL203 (referred to as Study 203; NCT 02418455 ) was an open-label, uncontrolled single arm study that enrolled 8 patients less than 5 years of age who received MEPSEVII at a dose of 4 mg/kg every two weeks for 48 weeks of treatment and up to an additional 240 weeks during an optional continuation period. The study evaluated urinary GAG excretion, growth and hepatosplenomegaly. With long-term treatment, urinary GAG levels remained decreased upon exposure to MEPSEVII. At baseline, all 8 patients had impaired growth, and height remained near the 5th percentile relative to age-matched gender norms throughout the trial. No significant changes in hepatosplenomegaly were observed. </paragraph>
+                  <paragraph>
+                     <content styleCode="underline">Other Investigations</content>
+                  </paragraph>
+                  <paragraph>Study UX003-CL201 (referred to as Study 201, NCT01856218) was a single arm, open-label, dose exploration trial completed outside the United States that enrolled three MPS VII patients, ranging in age from 5 years to 25 years. Two patients were male; two patients were white and one was Asian. After 120 weeks of exposure to MEPSEVII, one patient demonstrated a 21% improvement over baseline in forced vital capacity (FVC% predicted) on pulmonary function testing in addition to a 105 meter improvement in the 6MWT. Two other patients with baseline hepatosplenomegaly had reduction in liver volume (24% and 53%) and spleen volume (28% and 47%) after 36 weeks of MEPSEVII treatment. </paragraph>
+                  <paragraph>Expanded access to MEPSEVII treatment was provided to a pediatric patient with MPS VII who required continuous ventilatory support at the start of treatment and was subsequently able to tolerate 9 hours daily off ventilator support after 164 weeks of MEPSEVII treatment. </paragraph>
+               </text>
+               <effectiveTime value="20201223"/>
+               <component>
+                  <observationMedia ID="MM03000001">
+                     <text>Figure 1</text>
+                     <value xsi:type="ED" mediaType="image/jpeg">
+                        <reference value="mepsevii-01.jpg"/>
+                     </value>
+                  </observationMedia>
+               </component>
+            </section>
+         </component>
+         <component>
+            <section>
+               <id root="789c0679-e03e-4424-86ea-c891dbc3f2ff"/>
+               <code codeSystem="2.16.840.1.113883.6.1" code="34069-5" displayName="HOW SUPPLIED SECTION"/>
+               <title>
+                  <content styleCode="bold">16</content>
+                  <content styleCode="bold">  </content>
+                  <content styleCode="bold">HOW SUPPLIED/STORAGE AND HANDLING </content>
+               </title>
+               <text>
+                  <paragraph>MEPSEVII (vestronidase alfa-vjbk) injection is a colorless to slightly yellow liquid supplied as a carton containing one 10 mg/5 mL (2 mg/mL) single-dose vial (NDC 69794-001-01). <br/>
+                  </paragraph>
+                  <paragraph>Store under refrigeration at 2°C to 8°C (36°F to 46°F). Do not freeze or shake. Protect from light. </paragraph>
+               </text>
+               <effectiveTime value="20201223"/>
+            </section>
+         </component>
+         <component>
+            <section>
+               <id root="3d7081e8-54c0-4dfe-b0d0-62dda9eefb54"/>
+               <code codeSystem="2.16.840.1.113883.6.1" code="34076-0" displayName="INFORMATION FOR PATIENTS SECTION"/>
+               <title>
+                  <content styleCode="bold">17</content>
+                  <content styleCode="bold">  </content>
+                  <content styleCode="bold">PATIENT COUNSELING INFORMATION</content>
+               </title>
+               <text>
+                  <paragraph>
+                     <content styleCode="underline">Anaphylaxis </content>
+                  </paragraph>
+                  <paragraph>Advise patients and caregivers that anaphylaxis has occurred with MEPSEVII administration. Inform patients of the signs and symptoms of anaphylaxis, and have them seek immediate medical care should signs and symptoms occur <content styleCode="italics">[see Warnings and Precautions (</content>
+                     <content styleCode="italics">
+                        <linkHtml href="#_5_1__Anaphylaxis">5.1</linkHtml>
+                     </content>
+                     <content styleCode="italics">)]</content>. </paragraph>
+                  <paragraph>Manufactured by:<br/>Ultragenyx Pharmaceutical Inc.<br/>Novato, CA 94949<br/>U.S. License No. 2040</paragraph>
+               </text>
+               <effectiveTime value="20201223"/>
+            </section>
+         </component>
+         <component>
+            <section>
+               <id root="50e6d4c8-ce60-4ee8-bf49-6cdeb960e5c1"/>
+               <code code="51945-4" codeSystem="2.16.840.1.113883.6.1" displayName="PACKAGE LABEL.PRINCIPAL DISPLAY PANEL"/>
+               <title>PRINCIPAL DISPLAY PANEL - 10 mg/5 mL Vial Carton</title>
+               <text>
+                  <paragraph>NDC 69794-001-01</paragraph>
+                  <paragraph>Mepsevii<sup>®</sup>
+                     <br/>(vestronidase alfa-vjbk)</paragraph>
+                  <paragraph>Injection</paragraph>
+                  <paragraph>10 mg/5 mL (2 mg/mL)</paragraph>
+                  <paragraph>For Intravenous Infusion<br/>Must dilute before use</paragraph>
+                  <paragraph>Single-Dose Vial</paragraph>
+                  <paragraph>Discard Unused Portion</paragraph>
+                  <paragraph>Package contains one vial<br/>of MEPSEVII</paragraph>
+                  <paragraph>Rx only</paragraph>
+                  <paragraph>ultragenyx</paragraph>
+                  <renderMultiMedia referencedObject="MM2"/>
+               </text>
+               <effectiveTime value="20201223"/>
+               <component>
+                  <observationMedia ID="MM2">
+                     <text>PRINCIPAL DISPLAY PANEL - 10 mg/5 mL Vial Carton</text>
+                     <value xsi:type="ED" mediaType="image/jpeg">
+                        <reference value="mepsevii-02.jpg"/>
+                     </value>
+                  </observationMedia>
+               </component>
+            </section>
+         </component>
+      </structuredBody>
+   </component>
+</document>

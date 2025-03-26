@@ -1,0 +1,1938 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet href="http://www.accessdata.fda.gov/spl/stylesheet/spl.xsl" type="text/xsl"?>
+<document xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:hl7-org:v3" xsi:schemaLocation="urn:hl7-org:v3 http://www.accessdata.fda.gov/spl/schema/spl.xsd">
+   <id root="7aceb111-5e79-5057-e053-2991aa0a9286"/>
+   <code code="34391-3" codeSystem="2.16.840.1.113883.6.1" displayName="HUMAN PRESCRIPTION DRUG LABEL"/>
+   <title>These highlights do not include all the information needed to use KOVANAZE 
+ <sup>TM</sup> NASAL SPRAY safely and effectively. See full prescribing information for KOVANAZE NASAL SPRAY.
+ <br/>
+      <br/>
+KOVANAZE (tetracaine HCl and oxymetazoline HCl) Nasal Spray
+ <br/>
+      <br/>
+Initial U.S. Approval: 2016
+</title>
+   <effectiveTime value="20181116"/>
+   <setId root="d2af5404-3cfe-445d-8328-19e667ecdc43"/>
+   <versionNumber value="8"/>
+   <author>
+      <time/>
+      <assignedEntity>
+         <representedOrganization>
+            <id root="1.3.6.1.4.1.519.1" extension="825145191"/>
+            <name>St. Renatus</name>
+            <assignedEntity>
+               <assignedOrganization/>
+            </assignedEntity>
+         </representedOrganization>
+      </assignedEntity>
+   </author>
+   <component>
+      <structuredBody>
+         <component>
+            <section>
+               <id root="7aceb38a-64f0-3986-e053-2991aa0a63be"/>
+               <code code="48780-1" codeSystem="2.16.840.1.113883.6.1" displayName="SPL product data elements section"/>
+               <effectiveTime value="20181116"/>
+               <subject>
+                  <manufacturedProduct>
+                     <manufacturedProduct>
+                        <code code="69803-100" codeSystem="2.16.840.1.113883.6.69"/>
+                        <name>Kovanaze</name>
+                        <formCode code="C42989" codeSystem="2.16.840.1.113883.3.26.1.1" displayName="SPRAY"/>
+                        <asEntityWithGeneric>
+                           <genericMedicine>
+                              <name>tetracaine hydrochloride and oxymetazoline hydrochloride</name>
+                           </genericMedicine>
+                        </asEntityWithGeneric>
+                        <ingredient classCode="IACT">
+                           <ingredientSubstance>
+                              <code code="LKG8494WBH" codeSystem="2.16.840.1.113883.4.9"/>
+                              <name>BENZYL ALCOHOL</name>
+                           </ingredientSubstance>
+                        </ingredient>
+                        <ingredient classCode="IACT">
+                           <ingredientSubstance>
+                              <code code="55X04QC32I" codeSystem="2.16.840.1.113883.4.9"/>
+                              <name>SODIUM HYDROXIDE</name>
+                           </ingredientSubstance>
+                        </ingredient>
+                        <ingredient classCode="IACT">
+                           <ingredientSubstance>
+                              <code code="S38J6RZN16" codeSystem="2.16.840.1.113883.4.9"/>
+                              <name>HYDROXYETHYL CELLULOSE (2000 MPA.S AT 1%)</name>
+                           </ingredientSubstance>
+                        </ingredient>
+                        <ingredient classCode="IACT">
+                           <ingredientSubstance>
+                              <code code="1Q73Q2JULR" codeSystem="2.16.840.1.113883.4.9"/>
+                              <name>SODIUM CITRATE</name>
+                           </ingredientSubstance>
+                        </ingredient>
+                        <ingredient classCode="IACT">
+                           <ingredientSubstance>
+                              <code code="QTT17582CB" codeSystem="2.16.840.1.113883.4.9"/>
+                              <name>HYDROCHLORIC ACID</name>
+                           </ingredientSubstance>
+                        </ingredient>
+                        <ingredient classCode="IACT">
+                           <ingredientSubstance>
+                              <code code="XF417D3PSL" codeSystem="2.16.840.1.113883.4.9"/>
+                              <name>ANHYDROUS CITRIC ACID</name>
+                           </ingredientSubstance>
+                        </ingredient>
+                        <ingredient classCode="IACT">
+                           <ingredientSubstance>
+                              <code code="059QF0KO0R" codeSystem="2.16.840.1.113883.4.9"/>
+                              <name>WATER</name>
+                           </ingredientSubstance>
+                        </ingredient>
+                        <ingredient classCode="ACTIB">
+                           <quantity>
+                              <numerator unit="mg" value="30"/>
+                              <denominator unit="mL" value="1"/>
+                           </quantity>
+                           <ingredientSubstance>
+                              <code code="5NF5D4OPCI" codeSystem="2.16.840.1.113883.4.9"/>
+                              <name>TETRACAINE HYDROCHLORIDE</name>
+                              <activeMoiety>
+                                 <activeMoiety>
+                                    <code code="0619F35CGV" codeSystem="2.16.840.1.113883.4.9"/>
+                                    <name>TETRACAINE</name>
+                                 </activeMoiety>
+                              </activeMoiety>
+                           </ingredientSubstance>
+                        </ingredient>
+                        <ingredient classCode="ACTIB">
+                           <quantity>
+                              <numerator unit="mg" value="0.5"/>
+                              <denominator unit="mL" value="1"/>
+                           </quantity>
+                           <ingredientSubstance>
+                              <code code="K89MJ0S5VY" codeSystem="2.16.840.1.113883.4.9"/>
+                              <name>OXYMETAZOLINE HYDROCHLORIDE</name>
+                              <activeMoiety>
+                                 <activeMoiety>
+                                    <code code="8VLN5B44ZY" codeSystem="2.16.840.1.113883.4.9"/>
+                                    <name>OXYMETAZOLINE</name>
+                                 </activeMoiety>
+                              </activeMoiety>
+                           </ingredientSubstance>
+                        </ingredient>
+                        <asContent>
+                           <quantity>
+                              <numerator value="0.2" unit="mL"/>
+                              <denominator value="1"/>
+                           </quantity>
+                           <containerPackagedProduct>
+                              <code/>
+                              <formCode code="C43166" codeSystem="2.16.840.1.113883.3.26.1.1" displayName="APPLICATOR"/>
+                              <asContent>
+                                 <quantity>
+                                    <numerator value="30" unit="1"/>
+                                    <denominator value="1"/>
+                                 </quantity>
+                                 <containerPackagedProduct>
+                                    <code code="69803-100-10" codeSystem="2.16.840.1.113883.6.69"/>
+                                    <formCode code="C43182" codeSystem="2.16.840.1.113883.3.26.1.1" displayName="CARTON"/>
+                                 </containerPackagedProduct>
+                                 <subjectOf>
+                                    <marketingAct>
+                                       <code code="C53292" codeSystem="2.16.840.1.113883.3.26.1.1"/>
+                                       <statusCode code="active"/>
+                                       <effectiveTime>
+                                          <low value="20160901"/>
+                                       </effectiveTime>
+                                    </marketingAct>
+                                 </subjectOf>
+                              </asContent>
+                           </containerPackagedProduct>
+                           <subjectOf>
+                              <characteristic>
+                                 <code code="SPLCMBPRDTP" codeSystem="2.16.840.1.113883.1.11.19255"/>
+                                 <value code="C112160" codeSystem="2.16.840.1.113883.3.26.1.1" displayName="Type 0: Not a Combination Product" xsi:type="CV"/>
+                              </characteristic>
+                           </subjectOf>
+                        </asContent>
+                     </manufacturedProduct>
+                     <subjectOf>
+                        <approval>
+                           <id extension="NDA208032" root="2.16.840.1.113883.3.150"/>
+                           <code code="C73594" codeSystem="2.16.840.1.113883.3.26.1.1" displayName="NDA"/>
+                           <author>
+                              <territorialAuthority>
+                                 <territory>
+                                    <code code="USA" codeSystem="2.16.840.1.113883.5.28"/>
+                                 </territory>
+                              </territorialAuthority>
+                           </author>
+                        </approval>
+                     </subjectOf>
+                     <subjectOf>
+                        <marketingAct>
+                           <code code="C53292" codeSystem="2.16.840.1.113883.3.26.1.1"/>
+                           <statusCode code="active"/>
+                           <effectiveTime>
+                              <low value="20160901"/>
+                           </effectiveTime>
+                        </marketingAct>
+                     </subjectOf>
+                     <consumedIn>
+                        <substanceAdministration>
+                           <routeCode code="C38284" codeSystem="2.16.840.1.113883.3.26.1.1" displayName="NASAL"/>
+                        </substanceAdministration>
+                     </consumedIn>
+                  </manufacturedProduct>
+               </subject>
+            </section>
+         </component>
+         <component>
+            <section ID="id_link_71fd9ead-2cb7-7573-e053-2995a90abc40">
+               <id root="7aceb111-5e81-5057-e053-2991aa0a9286"/>
+               <code code="43683-2" codeSystem="2.16.840.1.113883.6.1" displayName="RECENT MAJOR CHANGES SECTION"/>
+               <effectiveTime value="20181114"/>
+               <excerpt>
+                  <highlight>
+                     <text>
+                        <paragraph>Warnings and Precautions, Methemoglobinemia (
+    <linkHtml href="#s9">5.1</linkHtml>) 11/2018
+   </paragraph>
+                     </text>
+                  </highlight>
+               </excerpt>
+            </section>
+         </component>
+         <component>
+            <section ID="s1">
+               <id root="7aceb111-5e7d-5057-e053-2991aa0a9286"/>
+               <code code="34067-9" codeSystem="2.16.840.1.113883.6.1" displayName="INDICATIONS &amp; USAGE SECTION"/>
+               <title>1 INDICATIONS AND USAGE</title>
+               <text>
+                  <paragraph>KOVANAZE 
+  <sup>TM</sup> is indicated for regional anesthesia when performing a restorative procedure on Teeth 4-13 and A-J in adults and children who weigh 40 kg or more.
+ </paragraph>
+               </text>
+               <effectiveTime value="20160630"/>
+               <excerpt>
+                  <highlight>
+                     <text>
+                        <paragraph>KOVANAZE contains tetracaine HCl, an ester local anesthetic, and oxymetazoline HCl, a vasoconstrictor. KOVANAZE is indicated for regional anesthesia when performing a restorative procedure on Teeth 4-13 and A-J in adults and children who weigh 40 kg or more (
+    <linkHtml href="#s1">1</linkHtml>).
+   </paragraph>
+                     </text>
+                  </highlight>
+               </excerpt>
+            </section>
+         </component>
+         <component>
+            <section ID="s2">
+               <id root="7aceb111-5e86-5057-e053-2991aa0a9286"/>
+               <code code="34068-7" codeSystem="2.16.840.1.113883.6.1" displayName="DOSAGE &amp; ADMINISTRATION SECTION"/>
+               <title>2 DOSAGE AND ADMINISTRATION</title>
+               <effectiveTime value="20160630"/>
+               <excerpt>
+                  <highlight>
+                     <text>
+                        <paragraph>KOVANAZE is for intranasal use only (
+    <linkHtml href="#s2">2</linkHtml>). Administer KOVANAZE ipsilateral (on the same side) to the maxillary tooth on which the dental procedure will be performed.
+   </paragraph>
+                        <table width="100%">
+                           <colgroup>
+                              <col align="left" width="45.300%"/>
+                              <col align="left" width="54.700%"/>
+                           </colgroup>
+                           <tbody>
+                              <tr>
+                                 <td align="center" styleCode="Toprule Botrule Lrule Rrule" valign="middle">
+                                    <content styleCode="bold">Age Group</content>
+                                 </td>
+                                 <td align="center" styleCode="Toprule Botrule Rrule" valign="middle">
+                                    <content styleCode="bold">Dose</content>
+                                 </td>
+                              </tr>
+                              <tr>
+                                 <td align="left" rowspan="2" styleCode="Botrule Lrule Rrule" valign="top">Adults (≥ 18 years old)</td>
+                                 <td align="left" styleCode="Botrule Rrule" valign="top">2 sprays (0.2 mL per spray),
+       <br/>
+                                    <br/>
+			4 to 5 minutes apart
+      </td>
+                              </tr>
+                              <tr>
+                                 <td align="left" styleCode="Botrule Rrule" valign="top">1 additional spray (0.2 mL) if adequate anesthesia has not been achieved 10 minutes after the second spray</td>
+                              </tr>
+                              <tr>
+                                 <td align="left" styleCode="Botrule Lrule Rrule" valign="top">Children who weigh 40 kg or more</td>
+                                 <td align="left" styleCode="Botrule Rrule" valign="top">2 sprays (0.2 mL per spray),
+       <br/>
+                                    <br/>
+			4 to 5 minutes apart
+      </td>
+                              </tr>
+                           </tbody>
+                        </table>
+                     </text>
+                  </highlight>
+               </excerpt>
+               <component>
+                  <section ID="s3">
+                     <id root="7aceb111-5e8b-5057-e053-2991aa0a9286"/>
+                     <code code="42229-5" codeSystem="2.16.840.1.113883.6.1" displayName="SPL UNCLASSIFIED SECTION"/>
+                     <title>2.1 Important Dosage and Administration Instructions
+</title>
+                     <text>
+                        <list listType="unordered" styleCode="Disc">
+                           <item>KOVANAZE is for intranasal use only.
+</item>
+                           <item>Administer ipsilateral (same side) to the maxillary tooth on which the dental procedure will be performed.
+</item>
+                           <item>Wait 10 minutes after administration of KOVANAZE to perform a test drill to confirm that the tooth involved is anesthetized.  A patient may not experience the same sensations of numbness or tingling of the lips and cheeks associated with injectable dental anesthetics.
+</item>
+                        </list>
+                     </text>
+                     <effectiveTime value="20160630"/>
+                  </section>
+               </component>
+               <component>
+                  <section ID="s4">
+                     <id root="7aceb111-5e8c-5057-e053-2991aa0a9286"/>
+                     <code code="42229-5" codeSystem="2.16.840.1.113883.6.1" displayName="SPL UNCLASSIFIED SECTION"/>
+                     <title>2.2 Dosing in Adults (≥ 18 years old)
+</title>
+                     <text>
+                        <list listType="unordered" styleCode="Disc">
+                           <item>2 sprays (0.2 mL each) administered 4 to 5 minutes apart in the nostril ipsilateral to the maxillary tooth on which the dental procedure will be performed. Initiate the dental procedure 10 minutes after the second spray.
+</item>
+                           <item>1 additional spray (0.2 mL) if adequate anesthesia to initiate the dental procedure has not been achieved 10 minutes after the second spray.
+</item>
+                        </list>
+                     </text>
+                     <effectiveTime value="20160630"/>
+                  </section>
+               </component>
+               <component>
+                  <section ID="s5">
+                     <id root="7aceb111-5e8d-5057-e053-2991aa0a9286"/>
+                     <code code="42229-5" codeSystem="2.16.840.1.113883.6.1" displayName="SPL UNCLASSIFIED SECTION"/>
+                     <title>2.3 Dosing in Children (who weigh 40 kg or more)
+</title>
+                     <text>
+                        <list listType="unordered" styleCode="Disc">
+                           <item>2 sprays (0.2 mL each) administered 4 to 5 minutes apart in the nostril ipsilateral to the maxillary tooth on which the dental procedure will be performed. Initiate the dental procedure 10 minutes after the second spray.
+</item>
+                        </list>
+                        <table width="100%">
+                           <col width="45.750%" align="left"/>
+                           <col width="54.250%" align="left"/>
+                           <tbody>
+                              <tr>
+                                 <td align="center" styleCode="Toprule Botrule Lrule Rrule" valign="top">
+                                    <content styleCode="bold">Age Group</content>
+                                 </td>
+                                 <td align="center" styleCode="Toprule Botrule Rrule" valign="top">
+                                    <content styleCode="bold">Dose</content>
+                                 </td>
+                              </tr>
+                              <tr>
+                                 <td align="left" styleCode="Botrule Lrule Rrule" valign="middle">        Adults (≥ 18 years old)
+</td>
+                                 <td align="left" styleCode="Botrule Rrule" valign="top">
+                                    <list listType="unordered" styleCode="Disc">
+                                       <item>2 sprays (0.2 mL per spray), 4 to 5 minutes apart
+</item>
+                                       <item>1 additional spray (0.2 mL) if adequate anesthesia has not been achieved 10 minutes after the second spray
+</item>
+                                    </list>
+                                 </td>
+                              </tr>
+                              <tr>
+                                 <td align="left" styleCode="Botrule Lrule Rrule" valign="top">        Children who weigh 40 kg or more
+</td>
+                                 <td align="left" styleCode="Botrule Rrule" valign="top">
+                                    <list listType="unordered" styleCode="Disc">
+                                       <item>2 sprays (0.2 mL per spray), 4 to 5 minutes apart
+</item>
+                                    </list>
+                                 </td>
+                              </tr>
+                           </tbody>
+                        </table>
+                     </text>
+                     <effectiveTime value="20160630"/>
+                  </section>
+               </component>
+            </section>
+         </component>
+         <component>
+            <section ID="id_link_7a8dd3fd-e4dc-02f4-e053-2991aa0a300c">
+               <id root="7aceb111-5e8a-5057-e053-2991aa0a9286"/>
+               <code code="43678-2" codeSystem="2.16.840.1.113883.6.1" displayName="DOSAGE FORMS &amp; STRENGTHS SECTION"/>
+               <title>3 DOSAGE FORMS AND STRENGTHS</title>
+               <text>
+                  <paragraph>Nasal spray in pre-filled, single-dose sprayer: 6 mg tetracaine HCl and 0.1 mg oxymetazoline HCl (equivalent to 5.27 mg tetracaine and 0.088 mg oxymetazoline) in each 0.2 mL spray.</paragraph>
+               </text>
+               <effectiveTime value="20181112"/>
+               <excerpt>
+                  <highlight>
+                     <text>
+                        <paragraph>Nasal spray in pre-filled, single-dose sprayer: 6 mg tetracaine HCl and 0.1 mg oxymetazoline HCl (equivalent to 5.27 mg tetracaine and 0.088 mg oxymetazoline) in each 0.2 mL spray (
+    <linkHtml href="#id_link_7a8dd3fd-e4dc-02f4-e053-2991aa0a300c">3</linkHtml>).
+   </paragraph>
+                     </text>
+                  </highlight>
+               </excerpt>
+            </section>
+         </component>
+         <component>
+            <section ID="s7">
+               <id root="7aceb111-5e7a-5057-e053-2991aa0a9286"/>
+               <code code="34070-3" codeSystem="2.16.840.1.113883.6.1" displayName="CONTRAINDICATIONS SECTION"/>
+               <title>4 CONTRAINDICATIONS</title>
+               <text>
+                  <paragraph>KOVANAZE is contraindicated in patients with a history of allergy to or intolerance of tetracaine, benzyl alcohol, other ester local anesthetics, 
+  <content styleCode="italics">p</content>-aminobenzoic acid (PABA), oxymetazoline, or any other component of the product 
+  <content styleCode="italics">[see Warnings and Precautions ( 
+   <linkHtml href="#s13">5.5</linkHtml>)] 
+  </content>.
+ </paragraph>
+               </text>
+               <effectiveTime value="20160630"/>
+               <excerpt>
+                  <highlight>
+                     <text>
+                        <paragraph>Known hypersensitivity to tetracaine, benzyl alcohol, other ester local anesthetics, 
+    <content styleCode="italics">p</content>-aminobenzoic acid (PABA), oxymetazoline, or any other component of the product (
+    <linkHtml href="#s7">4</linkHtml>).
+   </paragraph>
+                     </text>
+                  </highlight>
+               </excerpt>
+            </section>
+         </component>
+         <component>
+            <section ID="s8">
+               <id root="7aceb111-5e7b-5057-e053-2991aa0a9286"/>
+               <code code="43685-7" codeSystem="2.16.840.1.113883.6.1" displayName="WARNINGS AND PRECAUTIONS SECTION"/>
+               <title>5 WARNINGS AND PRECAUTIONS</title>
+               <effectiveTime value="20180727"/>
+               <excerpt>
+                  <highlight>
+                     <text>
+                        <paragraph>
+                           <content styleCode="underline">Methemoglobinemia</content>: Cases of methemoglobinemia have been reported in association with local anesthetic use (
+    <linkHtml href="#s9">5.1</linkHtml>)
+   </paragraph>
+                        <paragraph>
+                           <content styleCode="underline">Hypertension and Thyroid Disease</content>: Shown to increase blood pressure in some clinical trial patients. Monitor blood pressure. Use in patients with inadequately controlled hypertension or active thyroid disease is not advised (
+    <linkHtml href="#s9">5.2</linkHtml>).
+   </paragraph>
+                        <paragraph>
+                           <content styleCode="underline">Epistaxis</content>: Use is not recommended in patients with a history of frequent nose bleeds (≥5 per month). If a decision to use is made, monitor these patients carefully (
+    <linkHtml href="#s10">5.3</linkHtml>).
+   </paragraph>
+                        <paragraph>
+                           <content styleCode="underline">Dysphagia</content>: Carefully monitor patients for dysphagia (
+    <linkHtml href="#s11">5.4</linkHtml>).
+   </paragraph>
+                        <paragraph>
+                           <content styleCode="underline">Anaphylactic Reactions</content>: Seek emergency help if an anaphylactic reaction occurs (
+    <linkHtml href="#s13">5.5</linkHtml>).
+   </paragraph>
+                     </text>
+                  </highlight>
+               </excerpt>
+               <component>
+                  <section ID="id_link_71fd9ead-2cba-7573-e053-2995a90abc40">
+                     <id root="7aceb111-5ebd-5057-e053-2991aa0a9286"/>
+                     <code code="42229-5" codeSystem="2.16.840.1.113883.6.1" displayName="SPL UNCLASSIFIED SECTION"/>
+                     <title>5.1 Methemoglobinemia</title>
+                     <text>
+                        <paragraph>
+                           <content styleCode="xmChange">Cases of methemoglobinemia have been reported in association with local anesthetic use. Although all patients are at risk for methemoglobinemia, patients with glucose-6-phosphate dehydrogenase deficiency, congenital or idiopathic methemoglobinemia, cardiac or pulmonary compromise, infants under 6 months of age, and concurrent exposure to oxidizing agents or their metabolites are more susceptible to developing clinical manifestations of the condition. If local anesthetics must be used in these patients, close monitoring for symptoms and signs of methemoglobinemia is recommended.</content>
+                        </paragraph>
+                        <paragraph>
+                           <content styleCode="xmChange">Signs of methemoglobinemia may occur immediately or may be delayed some hours after exposure, and are characterized by a cyanotic skin discoloration and/or abnormal coloration of the blood. Methemoglobin levels may continue to rise; therefore, immediate treatment is required to avert more serious central nervous system and cardiovascular adverse effects, including seizures, coma, arrhythmias, and death. Discontinue KOVANAZE and any other oxidizing agents. Depending on the severity of the signs and symptoms, patients may respond to supportive care, i.e., oxygen therapy, hydration. A more severe clinical presentation may require treatment with methylene blue, exchange transfusion, or hyperbaric oxygen.</content>
+                        </paragraph>
+                        <paragraph/>
+                     </text>
+                     <effectiveTime value="20180727"/>
+                  </section>
+               </component>
+               <component>
+                  <section ID="s9">
+                     <id root="7aceb111-5e8e-5057-e053-2991aa0a9286"/>
+                     <code code="42229-5" codeSystem="2.16.840.1.113883.6.1" displayName="SPL UNCLASSIFIED SECTION"/>
+                     <title>5.2 Risk of Hypertension</title>
+                     <text>
+                        <paragraph>KOVANAZE has not been studied in Phase 3 trials in adult dental patients with blood pressure greater than 150/100 or in those with inadequately controlled active thyroid disease. KOVANAZE has been shown to increase blood pressure in some patients in clinical trials. Monitor patients for increased blood pressure. Use in patients with uncontrolled hypertension or inadequately controlled active thyroid disease of any type is not advised 
+  <content styleCode="italics">[see Adverse Reactions (
+   <linkHtml href="#s15">6.1</linkHtml>)] 
+  </content>.
+ </paragraph>
+                     </text>
+                     <effectiveTime value="20180727"/>
+                  </section>
+               </component>
+               <component>
+                  <section ID="s10">
+                     <id root="7aceb111-5e8f-5057-e053-2991aa0a9286"/>
+                     <code code="42229-5" codeSystem="2.16.840.1.113883.6.1" displayName="SPL UNCLASSIFIED SECTION"/>
+                     <title>5.3 Epistaxis</title>
+                     <text>
+                        <paragraph>In clinical trials, epistaxis occurred more frequently with KOVANAZE than placebo. Either do not use KOVANAZE in patients with a history of frequent nose bleeds (≥ 5 per month) or monitor patients with frequent nose bleeds more carefully if KOVANAZE is used. 
+  <content styleCode="italics">[see Adverse Reactions (</content>
+                           <linkHtml href="#s15">6.1</linkHtml>
+                           <content styleCode="italics">)]</content>.
+ </paragraph>
+                     </text>
+                     <effectiveTime value="20160727"/>
+                  </section>
+               </component>
+               <component>
+                  <section ID="s11">
+                     <id root="7aceb111-5e90-5057-e053-2991aa0a9286"/>
+                     <code code="42229-5" codeSystem="2.16.840.1.113883.6.1" displayName="SPL UNCLASSIFIED SECTION"/>
+                     <title>5.4 Dysphagia</title>
+                     <text>
+                        <paragraph>In clinical trials, dysphagia occurred more frequently with KOVANAZE than placebo. Carefully monitor patients for this adverse reaction.</paragraph>
+                     </text>
+                     <effectiveTime value="20180727"/>
+                  </section>
+               </component>
+               <component>
+                  <section ID="s13">
+                     <id root="7aceb111-5e91-5057-e053-2991aa0a9286"/>
+                     <code code="42229-5" codeSystem="2.16.840.1.113883.6.1" displayName="SPL UNCLASSIFIED SECTION"/>
+                     <title>5.5 Anaphylactic Reactions
+</title>
+                     <text>
+                        <paragraph>Allergic or anaphylactic reactions have been associated with tetracaine, and may occur with other components of KOVANAZE. They are characterized by urticaria, angioedema, bronchospasm, and shock. If an allergic reaction occurs, seek emergency help immediately.
+</paragraph>
+                     </text>
+                     <effectiveTime value="20160630"/>
+                  </section>
+               </component>
+            </section>
+         </component>
+         <component>
+            <section ID="s14">
+               <id root="7aceb111-5e7c-5057-e053-2991aa0a9286"/>
+               <code code="34084-4" codeSystem="2.16.840.1.113883.6.1" displayName="ADVERSE REACTIONS SECTION"/>
+               <title>6 ADVERSE REACTIONS</title>
+               <text>
+                  <paragraph>The following adverse reactions are described elsewhere in the labeling:</paragraph>
+                  <list listType="unordered" styleCode="Disc">
+                     <item>Methemoglobinemia [see Warnings and Precautions (
+   <linkHtml href="#id_link_71fd9ead-2cba-7573-e053-2995a90abc40">5.1</linkHtml>)]
+  </item>
+                     <item>Hypertension 
+   <content styleCode="italics">[see Warnings and Precautions (</content>
+                        <linkHtml href="#s9">5.2</linkHtml>
+                        <content styleCode="italics">)] </content>
+                     </item>
+                     <item>Epistaxis 
+   <content styleCode="italics">[see Warnings and Precautions (</content>
+                        <linkHtml href="#s10">5.3</linkHtml>
+                        <content styleCode="italics">)] </content>
+                     </item>
+                     <item>Dysphagia 
+   <content styleCode="italics">[see Warnings and Precautions (</content>
+                        <linkHtml href="#s11">5.4</linkHtml>
+                        <content styleCode="italics">)] </content>
+                     </item>
+                     <item>Anaphylatic Reactions 
+   <content styleCode="italics">[see Warnings and Precautions (</content>
+                        <linkHtml href="#s13">5.5</linkHtml>
+                        <content styleCode="italics">)] </content>
+                     </item>
+                  </list>
+               </text>
+               <effectiveTime value="20180727"/>
+               <excerpt>
+                  <highlight>
+                     <text>
+                        <paragraph>The most common adverse reactions occurring in &gt;10% of patients include rhinorrhea, nasal congestion, nasal discomfort, oropharyngeal pain, and lacrimation increased (
+    <linkHtml href="#s14">6</linkHtml>).
+   </paragraph>
+                        <paragraph>Transient, asymptomatic elevations in systolic blood pressure (≥ 25 mm Hg from baseline) and diastolic blood pressures (≥ 15 mm Hg from baseline) have been reported (
+    <linkHtml href="#s14">6</linkHtml>).
+   </paragraph>
+                        <paragraph>
+                           <content styleCode="bold">To report SUSPECTED ADVERSE REACTIONS, contact St. Renatus, LLC at 800-865-4925 or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch.</content>
+                        </paragraph>
+                     </text>
+                  </highlight>
+               </excerpt>
+               <component>
+                  <section ID="s15">
+                     <id root="7aceb111-5e92-5057-e053-2991aa0a9286"/>
+                     <code code="42229-5" codeSystem="2.16.840.1.113883.6.1" displayName="SPL UNCLASSIFIED SECTION"/>
+                     <title>6.1 Clinical Trials Experience
+</title>
+                     <text>
+                        <paragraph>Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be compared to rates in the clinical trials of another drug and may not reflect the rates observed in clinical practice.
+</paragraph>
+                        <paragraph>The adverse reactions information described below is from Phase 3 randomized, controlled clinical trials 
+         
+ 
+  <content styleCode="italics">[see Clinical Studies (
+          
+  
+   <linkHtml href="#s57">14</linkHtml>)]
+         
+ 
+  </content>. These data reflect exposure to KOVANAZE in 154 adult dental patients and 20 pediatric dental patients (aged 7 to 17 years) with a need for an operative restorative dental procedure requiring local anesthesia for a single vital maxillary tooth (other than a maxillary first, second, or third molar) with no evidence of pulpal pathology. 
+         
+ 
+  <content styleCode="italics">[see Clinical Studies (
+          
+  
+   <linkHtml href="#s57">14</linkHtml>)].
+         
+ 
+  </content>
+                        </paragraph>
+                     </text>
+                     <effectiveTime value="20160630"/>
+                     <component>
+                        <section ID="s16">
+                           <id root="7acee790-fc32-2a28-e053-2991aa0a991b"/>
+                           <code code="42229-5" codeSystem="2.16.840.1.113883.6.1" displayName="SPL UNCLASSIFIED SECTION"/>
+                           <text>
+                              <paragraph>
+                                 <content styleCode="underline">Common Adverse Reactions in Adult Dental Patients and Pediatric Patients Weighing 40 kg or More</content>
+                              </paragraph>
+                              <paragraph>The most common adverse reactions to occur in Phase 3 trials with KOVANAZE in adult dental patients and pediatric dental patients weighing 40 kg or more were rhinorrhea, nasal congestion, nasal discomfort, oropharyngeal pain, and lacrimation increased 
+  <content styleCode="italics">[
+   <linkHtml href="#t1">Table 1</linkHtml>] 
+  </content>.
+ </paragraph>
+                              <paragraph>No serious adverse events with KOVANAZE have occurred 
+  <content styleCode="italics">[see Clinical Studies (
+   <linkHtml href="#s58">14.1</linkHtml>)] 
+  </content>.
+ </paragraph>
+                              <paragraph/>
+                              <table ID="t1" width="100%">
+                                 <caption>Table 1: Common Adverse Reactions in ≥ 2% of Phase 3 Adult Dental Patients and Pediatric Patients Weighing 40 kg or More</caption>
+                                 <tbody>
+                                    <tr>
+                                       <td valign="middle">
+                                          <content styleCode="bold">SOC / Preferred Term</content>
+                                       </td>
+                                       <td valign="middle">
+                                          <content styleCode="bold">KOVANAZE (N=174)</content>
+                                       </td>
+                                       <td valign="middle">
+                                          <content styleCode="bold">Active Comparator* (N=54)</content>
+                                       </td>
+                                       <td valign="middle">
+                                          <content styleCode="bold">Placebo (N=88)</content>
+                                       </td>
+                                    </tr>
+                                    <tr>
+                                       <td valign="middle">
+                                          <content styleCode="bold">Respiratory System Disorders</content>
+                                       </td>
+                                       <td valign="middle">141 (81%)</td>
+                                       <td valign="middle">50 (93%)</td>
+                                       <td valign="middle">18 (21%)</td>
+                                    </tr>
+                                    <tr>
+                                       <td valign="middle">Rhinorrhea (runny nose)</td>
+                                       <td valign="middle">91 (52%)</td>
+                                       <td valign="middle">20 (37%)</td>
+                                       <td valign="middle">3 (3%)</td>
+                                    </tr>
+                                    <tr>
+                                       <td valign="middle">Nasal congestion</td>
+                                       <td valign="middle">56 (32%)</td>
+                                       <td valign="middle">34 (63%)</td>
+                                       <td valign="middle">6 (7%)</td>
+                                    </tr>
+                                    <tr>
+                                       <td valign="middle">Nasal discomfort</td>
+                                       <td valign="middle">45 (26%)</td>
+                                       <td valign="middle">7 (13%)</td>
+                                       <td valign="middle">5 (6%)</td>
+                                    </tr>
+                                    <tr>
+                                       <td valign="middle">Oropharyngeal pain (sore throat)</td>
+                                       <td valign="middle">25 (14%)</td>
+                                       <td valign="middle">5 (9%)</td>
+                                       <td valign="middle">0 (0%)</td>
+                                    </tr>
+                                    <tr>
+                                       <td valign="middle">Intranasal hypoesthesia</td>
+                                       <td valign="middle">18 (10%)</td>
+                                       <td valign="middle">8 (15%)</td>
+                                       <td valign="middle">5 (6%)</td>
+                                    </tr>
+                                    <tr>
+                                       <td valign="middle">Pharyngeal hypoesthesia (numb throat)</td>
+                                       <td valign="middle">17 (10%)</td>
+                                       <td valign="middle">10 (19%)</td>
+                                       <td valign="middle">0 (0%)</td>
+                                    </tr>
+                                    <tr>
+                                       <td valign="middle">Throat Irritation</td>
+                                       <td valign="middle">15 (9%)</td>
+                                       <td valign="middle">1 (2%)</td>
+                                       <td valign="middle">0 (0%)</td>
+                                    </tr>
+                                    <tr>
+                                       <td valign="middle">Rhinalgia</td>
+                                       <td valign="middle">10 (6%)</td>
+                                       <td valign="middle">3 (6%)</td>
+                                       <td valign="middle">2 (2%)</td>
+                                    </tr>
+                                    <tr>
+                                       <td valign="middle">Sneezing</td>
+                                       <td valign="middle">7 (4%)</td>
+                                       <td valign="middle">2 (4%)</td>
+                                       <td valign="middle">1 (1%)</td>
+                                    </tr>
+                                    <tr>
+                                       <td valign="middle">Epistaxis</td>
+                                       <td valign="middle">4 (2%)</td>
+                                       <td valign="middle">2 (4%)</td>
+                                       <td valign="middle">0 (0%)</td>
+                                    </tr>
+                                    <tr>
+                                       <td valign="middle">Nasal Dryness</td>
+                                       <td valign="middle">4 (2%)</td>
+                                       <td valign="middle">0 (0%)</td>
+                                       <td valign="middle">1 (1%)</td>
+                                    </tr>
+                                    <tr>
+                                       <td valign="middle">
+                                          <content styleCode="bold">Nervous System Disorders</content>
+                                       </td>
+                                       <td valign="middle">39 (22%)</td>
+                                       <td valign="middle">5 (9%)</td>
+                                       <td valign="middle">6 (7%)</td>
+                                    </tr>
+                                    <tr>
+                                       <td valign="middle">Headache</td>
+                                       <td valign="middle">18 (10%)</td>
+                                       <td valign="middle">3 (6%)</td>
+                                       <td valign="middle">4 (5%)</td>
+                                    </tr>
+                                    <tr>
+                                       <td valign="middle">Dysgeusia</td>
+                                       <td valign="middle">14 (8%)</td>
+                                       <td valign="middle">1 (2%)</td>
+                                       <td valign="middle">1 (1%)</td>
+                                    </tr>
+                                    <tr>
+                                       <td valign="middle">Sinus headache</td>
+                                       <td valign="middle">5 (3%)</td>
+                                       <td valign="middle">0 (0%)</td>
+                                       <td valign="middle">0 (0%)</td>
+                                    </tr>
+                                    <tr>
+                                       <td valign="middle">Dizziness</td>
+                                       <td valign="middle">5 (3%)</td>
+                                       <td valign="middle">0 (0%)</td>
+                                       <td valign="middle">1 (1%)</td>
+                                    </tr>
+                                    <tr>
+                                       <td valign="middle">Sensory Disturbance</td>
+                                       <td valign="middle">4 (2%)</td>
+                                       <td valign="middle">0 (0%)</td>
+                                       <td valign="middle">0 (0%)</td>
+                                    </tr>
+                                    <tr>
+                                       <td valign="middle">
+                                          <content styleCode="bold">Eye Disorders</content>
+                                       </td>
+                                       <td valign="middle">29 (17%)</td>
+                                       <td valign="middle">8 (15%)</td>
+                                       <td valign="middle">4 (5%)</td>
+                                    </tr>
+                                    <tr>
+                                       <td valign="middle">Lacrimation increased (watery eye)</td>
+                                       <td valign="middle">23 (13%)</td>
+                                       <td valign="middle">6 (11%)</td>
+                                       <td valign="middle">4 (5%)</td>
+                                    </tr>
+                                    <tr>
+                                       <td valign="middle">
+                                          <content styleCode="bold">Gastrointestinal Disorders</content>
+                                       </td>
+                                       <td valign="middle">16 (9%)</td>
+                                       <td valign="middle">5 (9%)</td>
+                                       <td valign="middle">3 (3%)</td>
+                                    </tr>
+                                    <tr>
+                                       <td valign="middle">Oral Discomfort</td>
+                                       <td valign="middle">4 (2%)</td>
+                                       <td valign="middle">0 (0%)</td>
+                                       <td valign="middle">0 (0%)</td>
+                                    </tr>
+                                    <tr>
+                                       <td valign="middle">
+                                          <content styleCode="bold">Investigations</content>
+                                       </td>
+                                       <td valign="middle">12 (7%)</td>
+                                       <td valign="middle">0 (0%)</td>
+                                       <td valign="middle">4 (5%)</td>
+                                    </tr>
+                                    <tr>
+                                       <td valign="middle">BP systolic increased</td>
+                                       <td valign="middle">8 (5%)</td>
+                                       <td valign="middle">0 (0%)</td>
+                                       <td valign="middle">2 (2%)</td>
+                                    </tr>
+                                    <tr>
+                                       <td valign="middle">BP diastolic increased</td>
+                                       <td valign="middle">6 (3%)</td>
+                                       <td valign="middle">0 (0%)</td>
+                                       <td valign="middle">1 (1%)</td>
+                                    </tr>
+                                    <tr>
+                                       <td valign="middle">
+                                          <content styleCode="bold">Cardiac Disorders</content>
+                                       </td>
+                                       <td valign="middle">8 (5%)</td>
+                                       <td valign="middle">5 (9%)</td>
+                                       <td valign="middle">1 (1%)</td>
+                                    </tr>
+                                    <tr>
+                                       <td valign="middle">Bradycardia</td>
+                                       <td valign="middle">5 (3%)</td>
+                                       <td valign="middle">3 (6%)</td>
+                                       <td valign="middle">1 (1%)</td>
+                                    </tr>
+                                    <tr>
+                                       <td valign="middle">
+                                          <content styleCode="bold">Vascular Disorders</content>
+                                       </td>
+                                       <td valign="middle">6 (3%)</td>
+                                       <td valign="middle">2 (4%)</td>
+                                       <td valign="middle">1 (1%)</td>
+                                    </tr>
+                                    <tr>
+                                       <td valign="middle">Hypertension</td>
+                                       <td valign="middle">5 (3%)</td>
+                                       <td valign="middle">1 (2%)</td>
+                                       <td valign="middle">1 (1%)</td>
+                                    </tr>
+                                    <tr>
+                                       <td colspan="4" valign="middle">* Active Comparator was tetracaine only spray used in two clinical studies in adults.</td>
+                                    </tr>
+                                 </tbody>
+                              </table>
+                              <paragraph>Intranasal ulcerations, some of which were transient, were noted to have occurred following treatment with KOVANAZE. In Phase 3 trials, 6 (3%) patients who received KOVANAZE, but no patients who received placebo, developed nasal ulcers that were present on exam the same day as KOVANAZE dosing. Three (2%) KOVANAZE and 2 (2%) placebo-treated patients without nasal ulcerations on the day of KOVANAZE or placebo dosing were observed to have nasal ulcerations at the next day follow-up visit.</paragraph>
+                           </text>
+                           <effectiveTime value="20181116"/>
+                        </section>
+                     </component>
+                     <component>
+                        <section ID="s17">
+                           <id root="7aceb111-5e94-5057-e053-2991aa0a9286"/>
+                           <code code="42229-5" codeSystem="2.16.840.1.113883.6.1" displayName="SPL UNCLASSIFIED SECTION"/>
+                           <text>
+                              <paragraph>
+                                 <content styleCode="underline">Less Common Adverse Reactions in Phase 3 Clinical Trials Adult Dental Patients and Pediatric Dental Patients Weighing 40 kg or More</content>
+                              </paragraph>
+                              <paragraph>Dysphagia (i.e., the sensation of difficult swallowing) is a notable adverse reaction reported in Phase 3 trials, occurring in 1.15% of patients.
+</paragraph>
+                              <paragraph>
+                                 <content styleCode="bold">For medical advice about adverse reactions, contact your medical professional.</content> To report SUSPECTED ADVERSE REACTIONS, contact St. Renatus, LLC at 800-865-4925 or FDA at 1-800-FDA-1088 or 
+           
+ 
+  <content styleCode="underline">www.fda.gov/medwatch/</content>.
+
+          
+
+ </paragraph>
+                           </text>
+                           <effectiveTime value="20160721"/>
+                        </section>
+                     </component>
+                  </section>
+               </component>
+            </section>
+         </component>
+         <component>
+            <section ID="s18">
+               <id root="7aceb111-5e7e-5057-e053-2991aa0a9286"/>
+               <code code="34073-7" codeSystem="2.16.840.1.113883.6.1" displayName="DRUG INTERACTIONS SECTION"/>
+               <title>7 DRUG INTERACTIONS</title>
+               <text/>
+               <effectiveTime value="20181112"/>
+               <excerpt>
+                  <highlight>
+                     <text>
+                        <paragraph>
+                           <content styleCode="underline">Monoamine oxidase inhibitors (MAOIs)</content>: Concomitant use of MAOIs, nonselective beta adrenergic antagonists, or tricyclic antidepressants may cause hypertension and is not recommended (
+    <linkHtml href="#s19">7.2</linkHtml>).
+   </paragraph>
+                        <paragraph>
+                           <content styleCode="underline">Oxymetazoline-containing products</content>: Discontinue use 24 hours prior to KOVANAZE administration (
+    <linkHtml href="#s20">7.3</linkHtml>).
+   </paragraph>
+                        <paragraph>
+                           <content styleCode="underline">Intranasal products</content>: Avoid concomitant use (
+    <linkHtml href="#s21">7.4</linkHtml>).
+   </paragraph>
+                     </text>
+                  </highlight>
+               </excerpt>
+               <component>
+                  <section ID="id_link_71fdfe37-f024-0b97-e053-2a95a90aff33">
+                     <id root="7aceb111-5ebe-5057-e053-2991aa0a9286"/>
+                     <code code="42229-5" codeSystem="2.16.840.1.113883.6.1" displayName="SPL UNCLASSIFIED SECTION"/>
+                     <title>7.1 Drugs That May Cause Methemoglobinemia When Used with KOVANAZE</title>
+                     <text>
+                        <paragraph>Patients who are administered local anesthetics may be at increased risk of developing methemoglobinemia when concurrently exposed to the following drugs, which could include other local anesthetics:</paragraph>
+                        <paragraph>
+                           <content styleCode="bold">Examples of Drugs Associated with Methemoglobinemia:</content>
+                        </paragraph>
+                        <table border="1" width="100%">
+                           <tbody>
+                              <tr>
+                                 <td>
+                                    <content styleCode="bold">Class</content>
+                                 </td>
+                                 <td>
+                                    <content styleCode="bold">Examples</content>
+                                 </td>
+                              </tr>
+                              <tr>
+                                 <td>Nitrates/Nitrites</td>
+                                 <td>nitric oxide, nitroglycerin, nitroprusside, nitrous oxide</td>
+                              </tr>
+                              <tr>
+                                 <td>Local anesthetics</td>
+                                 <td>articaine, benzocaine, bupivacaine, lidocaine, mepivacaine, prilocaine, procaine, ropivacaine, tetracaine</td>
+                              </tr>
+                              <tr>
+                                 <td>Antineoplastic agents</td>
+                                 <td>cyclophosphamide, flutamide, hydroxyurea, ifosfamide, rasburicase</td>
+                              </tr>
+                              <tr>
+                                 <td>Antibiotics</td>
+                                 <td>dapsone, nitrofurantoin, para-aminosalicylic acid, sulfonamides</td>
+                              </tr>
+                              <tr>
+                                 <td>Antimalarials</td>
+                                 <td>chloroquine, primaquine</td>
+                              </tr>
+                              <tr>
+                                 <td>Anticonvulsants</td>
+                                 <td>phenobarbital, phenytoin, sodium valproate,</td>
+                              </tr>
+                              <tr>
+                                 <td>Other drugs</td>
+                                 <td>acetaminophen, metoclopramide, quinine, sulfasalazine</td>
+                              </tr>
+                           </tbody>
+                        </table>
+                     </text>
+                     <effectiveTime value="20181112"/>
+                  </section>
+               </component>
+               <component>
+                  <section ID="s19">
+                     <id root="7aceb111-5e95-5057-e053-2991aa0a9286"/>
+                     <code code="42229-5" codeSystem="2.16.840.1.113883.6.1" displayName="SPL UNCLASSIFIED SECTION"/>
+                     <title>7.2 Monoamine Oxidase Inhibitors</title>
+                     <text>
+                        <paragraph>Use of KOVANAZE in combination with monoamine oxidase inhibitors (MAOIs), nonselective beta adrenergic antagonists, or tricyclic antidepressants may cause hypertension and is not recommended. Alternative anesthetic agents should be chosen for patients who cannot discontinue use of MAOIs, nonselective beta adrenergic antagonists, or tricyclic antidepressants.</paragraph>
+                     </text>
+                     <effectiveTime value="20180727"/>
+                  </section>
+               </component>
+               <component>
+                  <section ID="s20">
+                     <id root="7aceb111-5e96-5057-e053-2991aa0a9286"/>
+                     <code code="42229-5" codeSystem="2.16.840.1.113883.6.1" displayName="SPL UNCLASSIFIED SECTION"/>
+                     <title>7.3 Oxymetazoline-containing Products</title>
+                     <text>
+                        <paragraph>Concomitant use with other oxymetazoline-containing products (such as Afrin®) has not been adequately studied. Use of KOVANAZE with other products containing oxymetazoline may increase risk of hypertension, bradycardia, and other adverse events associated with oxymetazoline. Discontinue use 24 hours prior to administration of KOVANAZE.</paragraph>
+                     </text>
+                     <effectiveTime value="20160630"/>
+                  </section>
+               </component>
+               <component>
+                  <section ID="s21">
+                     <id root="7aceb111-5e97-5057-e053-2991aa0a9286"/>
+                     <code code="42229-5" codeSystem="2.16.840.1.113883.6.1" displayName="SPL UNCLASSIFIED SECTION"/>
+                     <title>7.4 Intranasal Products</title>
+                     <text>
+                        <paragraph>Oxymetazoline has been known to slow the rate, but not affect the extent of absorption of concomitantly administered intranasal products. Do not administer other intranasal products with KOVANAZE.</paragraph>
+                     </text>
+                     <effectiveTime value="20180727"/>
+                  </section>
+               </component>
+            </section>
+         </component>
+         <component>
+            <section ID="s23">
+               <id root="7aceb111-5e7f-5057-e053-2991aa0a9286"/>
+               <code code="43684-0" codeSystem="2.16.840.1.113883.6.1" displayName="USE IN SPECIFIC POPULATIONS SECTION"/>
+               <title>8 USE IN SPECIFIC POPULATIONS
+</title>
+               <effectiveTime value="20160630"/>
+               <component>
+                  <section ID="s24">
+                     <id root="7aceb111-5e98-5057-e053-2991aa0a9286"/>
+                     <code code="42228-7" codeSystem="2.16.840.1.113883.6.1" displayName="PREGNANCY SECTION"/>
+                     <title>8.1 Pregnancy
+</title>
+                     <effectiveTime value="20160630"/>
+                     <component>
+                        <section ID="s25">
+                           <id root="7aceb111-5e99-5057-e053-2991aa0a9286"/>
+                           <code code="42229-5" codeSystem="2.16.840.1.113883.6.1" displayName="SPL UNCLASSIFIED SECTION"/>
+                           <text>
+                              <paragraph>
+                                 <content styleCode="underline">Risk Summary</content>
+                              </paragraph>
+                              <paragraph>Limited published data on tetracaine use in pregnant women are not sufficient to inform any risks. Published epidemiologic studies of nasal oxymetazoline used as a decongestant during pregnancy do not identify a consistent association with any specific malformation or pattern of malformations 
+           
+ 
+  <content styleCode="italics">[see 
+            
+  
+   <linkHtml href="#s26">Data</linkHtml>]
+           
+ 
+  </content>. In animal reproduction and development studies, oxymetazoline given subcutaneously to rats during the period of organogenesis caused structural abnormalities at a dose approximately 7.6 times the exposure of oxymetazoline HCl at the 0.3 mg maximum recommended human dose (MRHD) of KOVANAZE. In a pre- and post-natal development study, oxymetazoline given subcutaneously to rats caused embryo-fetal toxicity manifested by reduced implantation sites and live litter sizes at approximately 1.5 times the MRHD and increased pup mortality at 6 times the MRHD. No adverse developmental effects were observed following subcutaneous administration of tetracaine HCl only to rats and rabbits during organogenesis at 32 and 6 times, respectively, the estimated exposure of tetracaine HCl at the 18 mg MRHD of KOVANAZE 
+           
+ 
+  <content styleCode="italics">[see 
+            
+  
+   <linkHtml href="#s26">Data</linkHtml>]
+           
+ 
+  </content>.
+
+          
+
+ </paragraph>
+                              <paragraph>In the U.S. general population, the estimated background risk of major birth defects and miscarriage in clinically recognized pregnancies is 2 to 4% and 15 and to 20%, respectively.
+</paragraph>
+                           </text>
+                           <effectiveTime value="20160630"/>
+                        </section>
+                     </component>
+                     <component>
+                        <section ID="s26">
+                           <id root="7aceb111-5e9a-5057-e053-2991aa0a9286"/>
+                           <code code="42229-5" codeSystem="2.16.840.1.113883.6.1" displayName="SPL UNCLASSIFIED SECTION"/>
+                           <text>
+                              <paragraph>
+                                 <content styleCode="underline">Data</content>
+                              </paragraph>
+                           </text>
+                           <effectiveTime value="20160630"/>
+                           <component>
+                              <section ID="s27">
+                                 <id root="7aceb111-5e9b-5057-e053-2991aa0a9286"/>
+                                 <code code="42229-5" codeSystem="2.16.840.1.113883.6.1" displayName="SPL UNCLASSIFIED SECTION"/>
+                                 <text>
+                                    <paragraph>
+                                       <content styleCode="italics">Human Data</content>
+                                    </paragraph>
+                                    <paragraph>Published epidemiologic studies of nasal oxymetazoline used as a decongestant during pregnancy do not identify a consistent association with any specific malformation or pattern of malformations.  These data are limited by the small number of cases exposed, multiple comparisons which may have resulted in chance findings, and analyses based on decongestants as a group.
+</paragraph>
+                                 </text>
+                                 <effectiveTime value="20160630"/>
+                              </section>
+                           </component>
+                           <component>
+                              <section ID="s28">
+                                 <id root="7aceb111-5e9c-5057-e053-2991aa0a9286"/>
+                                 <code code="42229-5" codeSystem="2.16.840.1.113883.6.1" displayName="SPL UNCLASSIFIED SECTION"/>
+                                 <text>
+                                    <paragraph>
+                                       <content styleCode="italics">Animal Data</content>
+                                    </paragraph>
+                                    <paragraph>In an embryo-fetal development study, pregnant rats were administered subcutaneous doses of oxymetazoline HCl only at 0.1 mg/kg, tetracaine HCl only at 7.5 mg/kg, or oxymetazoline HCl at 0.01, 0.03, and 0.1 mg/kg/day in combination with 7.5 mg/kg tetracaine HCl during the period of organogenesis (Gestational Days [GD] 7-17). Oxymetazoline HCl treatment at 0.1 mg/kg/day (7.6 times the oxymetazoline AUC exposure at the maximum recommended human dose [MRHD] of KOVANAZE [3 mg oxymetazoline HCl and 18 mg tetracaine HCl]) caused reduced fetal weight and structural abnormalities including external and skeletal malformations (e.g., short forelimb digits, fused arches in thoracic vertebrae, fused ribs, and irregular number of ribs), and variations (e.g., irregularly shaped arches and increased bifid centra in thoracic vertebrae, and un-ossified forelimb phalanx) in the presence of maternal toxicity (reduced food consumption, body weight gain, and absolute body weight); however, the structural abnormality findings cannot be clearly attributed to the maternal toxicity.  Adverse developmental effects were not observed when pregnant rats were co-administered the same dose of oxymetazoline HCl in combination with 7.5 mg/kg/day tetracaine HCl, or with 7.5 mg/kg/day tetracaine HCl alone.  The no-observed-adverse-effect-level (NOAEL) for fetal effects was 0.03 mg/kg/day oxymetazoline HCl (1.5 times the oxymetazoline AUC exposure at the MRHD) and 7.5 mg/kg/day tetracaine HCl (30 times the AUC exposure as measured by PBBA [major tetracaine metabolite] at the MRHD).
+</paragraph>
+                                    <paragraph>In other embryo-fetal development studies, tetracaine base alone administered subcutaneously did not cause structural abnormalities in rats at doses up to 10 mg/kg/day (approximately 6.1 times the MRHD level of 18 mg tetracaine HCl by body surface area (BSA) comparison) or in rabbits at subcutaneous doses up to 5 mg/kg/day (approximately 6.1 times the MRHD level by BSA comparison).
+</paragraph>
+                                    <paragraph>In a prenatal and postnatal development study, pregnant rats were given subcutaneous doses of oxymetazoline HCl only at 0.1 mg/kg/day, tetracaine HCl only at 7.5 mg/kg/day, and oxymetazoline HCl at 0.01, 0.03, and 0.1 mg/kg/day in combination with 7.5 mg/kg/day tetracaine HCl from GD 7 to Lactation Day [LD] 20 (corresponding to the beginning of organogenesis through parturition and subsequent pup weaning). Oxymetazoline HCl treatment decreased the mean number of implant sites/litter at ≥ 0.03 mg/kg (≥ 1.5 times the oxymetazoline AUC exposure at the MRHD) when administered with 7.5 mg/kg tetracaine HCl (approximately 9%) and without tetracaine HCl (5.5%), which resulted in a reduction in live litter sizes in these groups. At the end of the lactation period, fetal body weights were significantly decreased at 0.1 mg/kg oxymetazoline HCl (6 times the oxymetazoline AUC exposure at the MRHD) when administered alone (19%) and co-administered with 7.5 mg/kg/day tetracaine HCl (11%).  In addition, a decrease in pup survival was observed at the 0.1/7.5 mg/kg oxymetazoline HCl/tetracaine HCl dose (91.9%) compared to the control (99.6%), but no effects in any other groups.  Maternal toxicity (e.g., mortality and reduced body weight gain, absolute body weight and food consumption) occurred in groups administered 0.1 mg/kg/day oxymetazoline HCl; however, the adverse developmental findings observed at this dose cannot clearly be attributed to the maternal toxicity. There were no adverse effects on sexual maturation, neurobehavioral, or reproductive function in the offspring at any maternal dose. The no-effect level for oxymetazoline HCl for maternal reproduction was 0.01 mg/kg/day (0.5 times oxymetazoline AUC exposure at the MRHD) and for pup growth and development was 0.03 mg/kg/day (1.5 times oxymetazoline AUC exposure at the MRHD).  The no-effect level for tetracaine HCl for maternal reproduction and pup growth and development was 7.5 mg/kg/day (12 times the AUC exposure as measured by PBBA at the MRHD).
+</paragraph>
+                                 </text>
+                                 <effectiveTime value="20160630"/>
+                              </section>
+                           </component>
+                        </section>
+                     </component>
+                  </section>
+               </component>
+               <component>
+                  <section ID="s29">
+                     <id root="7aceb111-5e9d-5057-e053-2991aa0a9286"/>
+                     <code code="42229-5" codeSystem="2.16.840.1.113883.6.1" displayName="SPL UNCLASSIFIED SECTION"/>
+                     <title>8.2 Lactation
+</title>
+                     <effectiveTime value="20160630"/>
+                     <component>
+                        <section ID="s30">
+                           <id root="7aceb111-5e9e-5057-e053-2991aa0a9286"/>
+                           <code code="42229-5" codeSystem="2.16.840.1.113883.6.1" displayName="SPL UNCLASSIFIED SECTION"/>
+                           <text>
+                              <paragraph>
+                                 <content styleCode="underline">Risk Summary</content>
+                              </paragraph>
+                              <paragraph>There are no data on the presence of tetracaine, oxymetazoline, or their metabolites in human milk, the effects on the breastfed infant, or the effects on milk production. Detectable levels of oxymetazoline, tetracaine and the major metabolite of tetracaine, 
+           
+ 
+  <content styleCode="italics">p</content>-butylaminobenzoic acid (PBBA), were found in the milk of lactating rats following subcutaneous administration of oxymetazoline HCl in combination with tetracaine HCl during the period of organogenesis through parturition and subsequent pup weaning 
+           
+ 
+  <content styleCode="italics">[see 
+            
+  
+   <linkHtml href="#s31">Data</linkHtml>]
+           
+ 
+  </content>. Due to species-specific differences in lactation physiology, animal data may not reliably predict drug levels in human milk.
+
+          
+
+ </paragraph>
+                              <paragraph>The developmental and health benefits of breastfeeding should be considered along with the mother's clinical need for KOVANAZE and any potential adverse effects on the breastfed infant from KOVANAZE or from the underlying maternal condition.
+</paragraph>
+                           </text>
+                           <effectiveTime value="20160630"/>
+                        </section>
+                     </component>
+                     <component>
+                        <section ID="s31">
+                           <id root="7aceb111-5e9f-5057-e053-2991aa0a9286"/>
+                           <code code="42229-5" codeSystem="2.16.840.1.113883.6.1" displayName="SPL UNCLASSIFIED SECTION"/>
+                           <text>
+                              <paragraph>
+                                 <content styleCode="underline">Data</content>
+                              </paragraph>
+                              <paragraph>In a pre- and post-natal development study, rats were given oxymetazoline HCl subcutaneously at doses of 0.01, 0.03, and 0.1 mg/kg/day (0.6, 1.5, and 7.6 times, respectively, the oxymetazoline AUC exposure at the MRHD) in combination with 7.5 mg/kg tetracaine HCl (12 times the AUC exposure as measured by PBBA at the MRHD) from Gestational Day [GD] 7 to Lactation Day [LD] 20. Concentrations of oxymetazoline, tetracaine, and PBBA were measured in the milk of lactating rats at approximately 2 hours postdose on LD 15. The concentrations of oxymetazoline were generally dose dependent (2.5, 7.0, and 33.8 ng/mL at 0.01, 0.03, and 0.1 mg/kg/day, respectively). The concentrations of tetracaine and PBBA were generally similar across all 7.5 mg/kg/day tetracaine HCl dosing groups regardless of the presence of oxymetazoline (54.2 – 72.9 ng/mL for tetracaine, and 100.5 – 131.2 ng/mL for PBBA).</paragraph>
+                           </text>
+                           <effectiveTime value="20160901"/>
+                        </section>
+                     </component>
+                  </section>
+               </component>
+               <component>
+                  <section ID="s32">
+                     <id root="7aceb111-5ea0-5057-e053-2991aa0a9286"/>
+                     <code code="42229-5" codeSystem="2.16.840.1.113883.6.1" displayName="SPL UNCLASSIFIED SECTION"/>
+                     <title>8.3 Females and Males of Reproductive Potential
+</title>
+                     <effectiveTime value="20160630"/>
+                     <component>
+                        <section ID="s33">
+                           <id root="7aceb111-5ea1-5057-e053-2991aa0a9286"/>
+                           <code code="42229-5" codeSystem="2.16.840.1.113883.6.1" displayName="SPL UNCLASSIFIED SECTION"/>
+                           <text>
+                              <paragraph>
+                                 <content styleCode="underline">Infertility</content>
+                              </paragraph>
+                              <paragraph>No information is available on fertility effects in humans.
+</paragraph>
+                           </text>
+                           <effectiveTime value="20160630"/>
+                           <component>
+                              <section ID="s34">
+                                 <id root="7aceb111-5ea2-5057-e053-2991aa0a9286"/>
+                                 <code code="42229-5" codeSystem="2.16.840.1.113883.6.1" displayName="SPL UNCLASSIFIED SECTION"/>
+                                 <text>
+                                    <paragraph>
+                                       <content styleCode="italics">Females</content>
+                                    </paragraph>
+                                    <paragraph>Based on animal data, KOVANAZE may reduce fertility in females of reproductive potential. In female rats, decreased fertility noted as a decrease in litter size occurred at 0.7 times the oxymetazoline AUC exposure at the MRHD of KOVANAZE.  It is not known if the effects on fertility are reversible [
+             
+ 
+  <content styleCode="italics">see Nonclinical Toxicology (
+              
+  
+   <linkHtml href="#s53">13.1</linkHtml>)]
+             
+ 
+  </content>.
+
+            
+
+ </paragraph>
+                                 </text>
+                                 <effectiveTime value="20160630"/>
+                              </section>
+                           </component>
+                           <component>
+                              <section ID="s35">
+                                 <id root="7aceb111-5ea3-5057-e053-2991aa0a9286"/>
+                                 <code code="42229-5" codeSystem="2.16.840.1.113883.6.1" displayName="SPL UNCLASSIFIED SECTION"/>
+                                 <text>
+                                    <paragraph>
+                                       <content styleCode="italics">Males</content>
+                                    </paragraph>
+                                    <paragraph>Based on animal data, KOVANAZE may reduce male fertility.  In male rats, decreased sperm motility and sperm concentration occurred at approximately 2 times the oxymetazoline AUC exposure at the MRHD of KOVANAZE 
+             
+ 
+  <content styleCode="italics">[see Nonclinical Toxicology (
+              
+  
+   <linkHtml href="#s53">13.1</linkHtml>)]
+             
+ 
+  </content>.
+
+            
+
+ </paragraph>
+                                 </text>
+                                 <effectiveTime value="20160630"/>
+                              </section>
+                           </component>
+                        </section>
+                     </component>
+                  </section>
+               </component>
+               <component>
+                  <section ID="s36">
+                     <id root="7aceb111-5ea4-5057-e053-2991aa0a9286"/>
+                     <code code="34081-0" codeSystem="2.16.840.1.113883.6.1" displayName="PEDIATRIC USE SECTION"/>
+                     <title>8.4 Pediatric Use</title>
+                     <text>
+                        <paragraph>KOVANAZE has not been studied in pediatric patients under 3 years of age and is not advised for use in pediatric patients weighing less than 40 kg because efficacy has not been demonstrated in these patients 
+  <content styleCode="italics">[see Clinical Studies (
+   <linkHtml href="#s61">14.2</linkHtml>)] 
+  </content>.
+ </paragraph>
+                     </text>
+                     <effectiveTime value="20160901"/>
+                  </section>
+               </component>
+               <component>
+                  <section ID="s37">
+                     <id root="7aceb111-5ea5-5057-e053-2991aa0a9286"/>
+                     <code code="34082-8" codeSystem="2.16.840.1.113883.6.1" displayName="GERIATRIC USE SECTION"/>
+                     <title>8.5 Geriatric Use</title>
+                     <text>
+                        <paragraph>Clinical studies of KOVANAZE did not include sufficient numbers of patients aged 65 and over to determine whether they respond differently from younger patients. Other reported clinical experience has not identified differences in responses between the elderly and younger patients. Monitor geriatric patients for signs of local anesthetic toxicity, reflecting the greater frequency of decreased hepatic, renal, or cardiac function, and of concomitant disease or other drug therapy.</paragraph>
+                        <paragraph>Of note, comparisons of KOVANAZE safety and efficacy results were generally similar among dental patients who were &gt; 50 years old (n=66) and ≤ 50 years old (n=148). However, a trend toward a higher incidence of notable increases in systolic blood pressure was observed in dental patients &gt; 50 years of age compared with patients ≤ 50 years of age (16.6% vs 1.4, respectively) 
+  <content styleCode="italics">[see Adverse Reactions (</content>
+                           <linkHtml href="#s15">6.1</linkHtml>
+                           <content styleCode="italics">)]</content>. These increases in blood pressure measurements were generally asymptomatic and transient in nature, and all spontaneously resolved without the need for medical intervention 
+  <content styleCode="italics">[see Clinical Studies (</content>
+                           <linkHtml href="#s58">14.1</linkHtml>
+                           <content styleCode="italics">)] </content>.
+ </paragraph>
+                     </text>
+                     <effectiveTime value="20160901"/>
+                  </section>
+               </component>
+               <component>
+                  <section ID="s38">
+                     <id root="7aceb111-5ea6-5057-e053-2991aa0a9286"/>
+                     <code code="42229-5" codeSystem="2.16.840.1.113883.6.1" displayName="SPL UNCLASSIFIED SECTION"/>
+                     <title>8.6 Hepatic Disease
+</title>
+                     <text>
+                        <paragraph>Because of an inability to metabolize local anesthetics, those patients with severe hepatic disease may be at a greater risk of developing toxic plasma concentrations of tetracaine.  Monitor patients with hepatic disease for signs of local anesthetic toxicity.
+</paragraph>
+                     </text>
+                     <effectiveTime value="20160630"/>
+                  </section>
+               </component>
+               <component>
+                  <section ID="s39">
+                     <id root="7aceb111-5ea7-5057-e053-2991aa0a9286"/>
+                     <code code="42229-5" codeSystem="2.16.840.1.113883.6.1" displayName="SPL UNCLASSIFIED SECTION"/>
+                     <title>8.7 Pseudocholinesterase Deficiency
+</title>
+                     <text>
+                        <paragraph>Because of an inability to metabolize local anesthetics, those patients with pseudocholinesterase deficiency may be at a greater risk of developing toxic plasma concentrations of tetracaine. Monitor patients with pseudocholinesterase deficiency for signs of local anesthetic toxicity.
+</paragraph>
+                     </text>
+                     <effectiveTime value="20160630"/>
+                  </section>
+               </component>
+            </section>
+         </component>
+         <component>
+            <section ID="s40">
+               <id root="7aceb111-5e80-5057-e053-2991aa0a9286"/>
+               <code code="34088-5" codeSystem="2.16.840.1.113883.6.1" displayName="OVERDOSAGE SECTION"/>
+               <title>10 OVERDOSAGE</title>
+               <text>
+                  <paragraph>No addictive properties have been reported in the literature for either tetracaine or oxymetazoline, but there have been numerous case reports of unintended overdose for both compounds. Side effects in adults and children associated with oxymetazoline overdose include dizziness, chest pain, headaches, myocardial infarction, stroke, visual disturbances, arrhythmia, hypertension, or hypotension. Side effects of tetracaine overdose include rapid circulatory collapse, cardiac arrest, and cerebral events.</paragraph>
+                  <paragraph>Possible rebound nasal congestion, irritation of nasal mucosa, and adverse systemic effects (particularly in children), including serious cardiac events, have been associated with overdosage and/or prolonged or too frequent intranasal use of oxymetazoline containing agents.</paragraph>
+                  <paragraph>Accidental ingestion of imidazoline derivatives (i.e., oxymetazoline, naphazoline, tetrahydrozoline) in children has resulted in serious adverse events requiring hospitalization (e.g., coma, bradycardia, decreased respiration, sedation, and somnolence).</paragraph>
+                  <paragraph>Patients should be instructed to avoid using oxymetazoline-containing products (such as Afrin 
+  <sup>®</sup>) and other α-adrenergic agonists within 24 hours prior to their scheduled dental procedure 
+  <content styleCode="italics">[see Drug Interactions (</content>
+                     <linkHtml href="#s20">7.3</linkHtml>
+                     <content styleCode="italics">)] </content>.
+ </paragraph>
+                  <paragraph>Management of an overdose includes close monitoring, supportive care, and symptomatic treatment.</paragraph>
+               </text>
+               <effectiveTime value="20181114"/>
+            </section>
+         </component>
+         <component>
+            <section ID="s41">
+               <id root="7aceb111-5e82-5057-e053-2991aa0a9286"/>
+               <code code="34089-3" codeSystem="2.16.840.1.113883.6.1" displayName="DESCRIPTION SECTION"/>
+               <title>11 DESCRIPTION</title>
+               <text>
+                  <paragraph>KOVANAZE (tetracaine HCl and oxymetazoline HCl) Nasal Spray is a clear aqueous solution in a pre-filled, single-dose intranasal sprayer. The solution pH is 6.0 ± 1.0. The product contains two active ingredients: 30 mg/mL tetracaine HCl (equivalent to 26.4 mg/mL tetracaine) and 0.5 mg/mL oxymetazoline hydrochloride (equivalent to 0.44 mg/mL oxymetazoline). Each spray delivers 0.2 mL of solution containing 6 mg tetracaine hydrochloride (equivalent to 5.27 mg tetracaine) and 0.1 mg of oxymetazoline hydrochloride (equivalent to 0.088 mg oxymetazoline). The product also contains citric acid, sodium citrate, hydroxyethylcellulose, benzyl alcohol, and water. Sodium hydroxide and/or hydrochloric acid are added for pH adjustment as needed.</paragraph>
+                  <paragraph>Tetracaine hydrochloride is an ester local anesthetic. Chemically it is 2-(dimethylamino)ethyl 4-(butylamino)benzoate hydrochloride. Its molecular weight is 300.8 for the hydrochloride salt and 264.4 for the free base. It is freely soluble in water and soluble in ethanol. Its structural formula is:</paragraph>
+                  <paragraph>
+                     <renderMultiMedia referencedObject="mm01"/>
+                  </paragraph>
+                  <paragraph>Oxymetazoline hydrochloride is a vasoconstrictor. Chemically it is 3-[(4,5-dihydro-1 
+  <content styleCode="italics">H</content>-imidazol-2-yl)methyl]-6-(1,1,-dimethylethyl)-2,4-dimethylphenol mono-hydrochloride. Its molecular weight is 296.8 for the hydrochloride salt and 260.4 for the free base. It is freely soluble in water and ethanol and has a partition coefficient of 0.1 in octanol/water. Its structural formula is:
+ </paragraph>
+                  <paragraph>
+                     <renderMultiMedia referencedObject="mm02"/>
+                  </paragraph>
+               </text>
+               <effectiveTime value="20181112"/>
+               <component>
+                  <observationMedia ID="mm01">
+                     <text>Tetracaine Hydrochloride Structural Formula
+</text>
+                     <value mediaType="image/jpeg" xsi:type="ED">
+                        <reference value="kov00-0000-01.jpg"/>
+                     </value>
+                  </observationMedia>
+               </component>
+               <component>
+                  <observationMedia ID="mm02">
+                     <text>Oxymetazoline Hydrochloride Structural Formula
+</text>
+                     <value mediaType="image/jpeg" xsi:type="ED">
+                        <reference value="kov00-0000-02.jpg"/>
+                     </value>
+                  </observationMedia>
+               </component>
+            </section>
+         </component>
+         <component>
+            <section ID="s42">
+               <id root="7aceb111-5e83-5057-e053-2991aa0a9286"/>
+               <code code="34090-1" codeSystem="2.16.840.1.113883.6.1" displayName="CLINICAL PHARMACOLOGY SECTION"/>
+               <title>12 CLINICAL PHARMACOLOGY
+</title>
+               <effectiveTime value="20160630"/>
+               <component>
+                  <section ID="s43">
+                     <id root="7aceb111-5ea8-5057-e053-2991aa0a9286"/>
+                     <code code="43679-0" codeSystem="2.16.840.1.113883.6.1" displayName="MECHANISM OF ACTION SECTION"/>
+                     <title>12.1 Mechanism of Action
+</title>
+                     <text>
+                        <paragraph>Tetracaine is a local anesthetic of the ester type and exerts its activity by blocking sodium ion channels required for the initiation and conduction of neuronal impulses. Oxymetazoline is an imidazoline derivative with sympathomimetic activity. It is believed to be a mixed α
+         
+ 
+  <sub>1</sub>/α
+         
+ 
+  <sub>2</sub>-adrenoceptor agonist and, by stimulating adrenergic receptors, it elicits vasoconstriction of dilated arterioles and reduces nasal blood flow.
+
+        
+
+ </paragraph>
+                     </text>
+                     <effectiveTime value="20160630"/>
+                  </section>
+               </component>
+               <component>
+                  <section ID="s44">
+                     <id root="7aceb111-5ea9-5057-e053-2991aa0a9286"/>
+                     <code code="43682-4" codeSystem="2.16.840.1.113883.6.1" displayName="PHARMACOKINETICS SECTION"/>
+                     <title>12.3 Pharmacokinetics
+</title>
+                     <effectiveTime value="20160630"/>
+                     <component>
+                        <section ID="s45">
+                           <id root="7aceb111-5eaa-5057-e053-2991aa0a9286"/>
+                           <code code="42229-5" codeSystem="2.16.840.1.113883.6.1" displayName="SPL UNCLASSIFIED SECTION"/>
+                           <text>
+                              <paragraph>
+                                 <content styleCode="underline">Absorption</content>
+                              </paragraph>
+                              <paragraph>Following nasal administration of 0.6 mL KOVANAZE in adult subjects (n=24), oxymetazoline attained maximum concentrations within approximately 10 minutes following the end of dosing.  The observed mean oxymetazoline C
+           
+ 
+  <sub>max</sub> and AUC
+           
+ 
+  <sub>0-inf</sub> value were 1.78 ng/mL and 4.24 ng.h/mL, respectively.  The observed median T
+           
+ 
+  <sub>max</sub> was 5 minutes.
+
+          
+
+ </paragraph>
+                              <paragraph>Plasma concentrations of tetracaine in all subjects were at or below the limit of assay quantification (0.05 ng/mL). Of all plasma samples analyzed, only one quantifiable tetracaine concentration was observed in a single sample from one subject, which was at the limit of assay quantification. The primary metabolite of tetracaine, 
+           
+ 
+  <content styleCode="italics">p-</content>butylaminobenzoic acid (PBBA) achieved peak concentrations within approximately 25 minutes following the end of KOVANAZE dosing.  The observed mean PBBA C
+           
+ 
+  <sub>max</sub> and AUC
+           
+ 
+  <sub>0-inf</sub> value were 465 ng/mL and 973 ng.h/mL, respectively.  The observed median T
+           
+ 
+  <sub>max</sub> was 20 minutes.
+
+          
+
+ </paragraph>
+                           </text>
+                           <effectiveTime value="20160630"/>
+                        </section>
+                     </component>
+                     <component>
+                        <section ID="s46">
+                           <id root="7aceb111-5eab-5057-e053-2991aa0a9286"/>
+                           <code code="42229-5" codeSystem="2.16.840.1.113883.6.1" displayName="SPL UNCLASSIFIED SECTION"/>
+                           <text>
+                              <paragraph>
+                                 <content styleCode="underline">Distribution</content>
+                              </paragraph>
+                              <paragraph>Protein binding and distribution of oxymetazoline and PBBA have not been determined. Plasma protein binding of tetracaine has been reported to be 75% to 85%.
+</paragraph>
+                           </text>
+                           <effectiveTime value="20160630"/>
+                        </section>
+                     </component>
+                     <component>
+                        <section ID="s47">
+                           <id root="7aceb111-5eac-5057-e053-2991aa0a9286"/>
+                           <code code="42229-5" codeSystem="2.16.840.1.113883.6.1" displayName="SPL UNCLASSIFIED SECTION"/>
+                           <text>
+                              <paragraph>
+                                 <content styleCode="underline">Elimination</content>
+                              </paragraph>
+                              <paragraph>The terminal half-life of oxymetazoline in plasma following nasal administration of KOVANAZE to adult subjects is approximately 5.2 hours.
+</paragraph>
+                              <paragraph>The elimination half-life and apparent clearance of tetracaine could not be determined after KOVANAZE administration because it is rapidly and thoroughly hydrolyzed in plasma. The plasma half-life of PBBA is approximately 2.6 hours in adult subjects.
+</paragraph>
+                           </text>
+                           <effectiveTime value="20160630"/>
+                           <component>
+                              <section ID="s48">
+                                 <id root="7aceb111-5ead-5057-e053-2991aa0a9286"/>
+                                 <code code="42229-5" codeSystem="2.16.840.1.113883.6.1" displayName="SPL UNCLASSIFIED SECTION"/>
+                                 <text>
+                                    <paragraph>
+                                       <content styleCode="italics">Metabolism</content>
+                                    </paragraph>
+                                    <paragraph>Oxymetazoline is converted to a glucuronide conjugate in vitro by UGT1A9.
+</paragraph>
+                                    <paragraph>Tetracaine is rapidly and thoroughly cleaved by esterases in plasma and other tissues to PBBA and dimethylaminoethanol. These metabolites have an unspecified activity.
+</paragraph>
+                                 </text>
+                                 <effectiveTime value="20160630"/>
+                              </section>
+                           </component>
+                           <component>
+                              <section ID="s49">
+                                 <id root="7aceb111-5eae-5057-e053-2991aa0a9286"/>
+                                 <code code="42229-5" codeSystem="2.16.840.1.113883.6.1" displayName="SPL UNCLASSIFIED SECTION"/>
+                                 <text>
+                                    <paragraph>
+                                       <content styleCode="italics">Excretion</content>
+                                    </paragraph>
+                                    <paragraph>The apparent clearance of oxymetazoline after nasal administration of KOVANAZE has not been determined. It is thought that the primary route of oxymetazoline elimination at clinically relevant concentrations is by renal excretion.
+</paragraph>
+                                    <paragraph>PBBA clearance cannot be determined after administration of tetracaine.
+</paragraph>
+                                 </text>
+                                 <effectiveTime value="20160630"/>
+                              </section>
+                           </component>
+                        </section>
+                     </component>
+                     <component>
+                        <section ID="s50">
+                           <id root="7aceb111-5eaf-5057-e053-2991aa0a9286"/>
+                           <code code="42229-5" codeSystem="2.16.840.1.113883.6.1" displayName="SPL UNCLASSIFIED SECTION"/>
+                           <text>
+                              <paragraph>
+                                 <content styleCode="underline">Special Populations</content>
+                              </paragraph>
+                           </text>
+                           <effectiveTime value="20160630"/>
+                           <component>
+                              <section ID="s51">
+                                 <id root="7aceb111-5eb0-5057-e053-2991aa0a9286"/>
+                                 <code code="42229-5" codeSystem="2.16.840.1.113883.6.1" displayName="SPL UNCLASSIFIED SECTION"/>
+                                 <text>
+                                    <paragraph>
+                                       <content styleCode="italics">Pediatrics:</content>
+                                    </paragraph>
+                                    <paragraph>In subjects 4-15 years of age (n=18) that received KOVANAZE doses of 0.1 mL (10 to &lt; 20 kg body weight), 0.2 mL (20 to &lt; 40 kg), or 0.4 mL (≥ 40 kg), oxymetazoline attained maximum concentrations within approximately 10 minutes to 30 minutes (median time) following the end of dosing.  The observed oxymetazoline mean C
+             
+ 
+  <sub>max</sub> values were 0.37 ± 0.43, 0.85 ± 0.45, and 1.2 ± 0.39 ng/mL in the 0.1 mL, 0.2 mL, and 0.4 mL dose groups, respectively.  The observed oxymetazoline mean AUC
+             
+ 
+  <sub>0-inf</sub> values were 0.99 (AUC can be calculated only in one subject), 2.53 ± 1.08, and 2.64 ± 0.41 ng.h/mL in the 0.1 mL, 0.2 mL, and 0.4 mL dose groups, respectively.  Mean elimination half-life values for oxymetazoline were approximately 1.6 to 4.3 hours across pediatric dose groups.
+
+            
+
+ </paragraph>
+                                    <paragraph>Plasma concentrations of tetracaine were below the limit of assay quantification (0.05 ng/mL) in all subjects.
+</paragraph>
+                                    <paragraph>PBBA attained maximum concentrations within approximately 20 minutes to 30 minutes (median time) following the end of dosing.  The observed PBBA mean C
+             
+ 
+  <sub>max</sub> values were 166 ± 71, 345 ± 172, and 365 ± 30 ng/mL in the 0.1 mL, 0.2 mL, and 0.4 mL dose groups, respectively.  The observed PBBA mean AUC
+             
+ 
+  <sub>0-inf</sub> values were 529 ± 222, 826 ± 606, and 665 ± 86 ng.h/mL in the 0.1 mL, 0.2 mL, and 0.4 mL dose groups, respectively.  Mean elimination half-life values for PBBA were approximately 1.6 to 2.8 hours across pediatric dose groups.
+
+            
+
+ </paragraph>
+                                 </text>
+                                 <effectiveTime value="20160630"/>
+                              </section>
+                           </component>
+                           <component>
+                              <section ID="e51">
+                                 <id root="7aceb111-5eb1-5057-e053-2991aa0a9286"/>
+                                 <code code="42229-5" codeSystem="2.16.840.1.113883.6.1" displayName="SPL UNCLASSIFIED SECTION"/>
+                                 <text>
+                                    <paragraph>
+                                       <content styleCode="italics">Elderly:</content> The pharmacokinetics of KOVANAZE were not evaluated in subjects greater than 50 years of age.
+
+            
+
+ </paragraph>
+                                 </text>
+                                 <effectiveTime value="20160630"/>
+                              </section>
+                           </component>
+                           <component>
+                              <section ID="e52">
+                                 <id root="7aceb111-5eb2-5057-e053-2991aa0a9286"/>
+                                 <code code="42229-5" codeSystem="2.16.840.1.113883.6.1" displayName="SPL UNCLASSIFIED SECTION"/>
+                                 <text>
+                                    <paragraph>
+                                       <content styleCode="italics">Renal or Hepatic Impairment:</content> The pharmacokinetics of oxymetazoline, tetracaine, and PBBA were not evaluated after nasal administration of KOVANAZE in subjects with renal or hepatic impairment.
+
+            
+
+ </paragraph>
+                                 </text>
+                                 <effectiveTime value="20160630"/>
+                              </section>
+                           </component>
+                           <component>
+                              <section ID="e53">
+                                 <id root="7aceb111-5eb3-5057-e053-2991aa0a9286"/>
+                                 <code code="42229-5" codeSystem="2.16.840.1.113883.6.1" displayName="SPL UNCLASSIFIED SECTION"/>
+                                 <text>
+                                    <paragraph>
+                                       <content styleCode="italics">Race:</content> There were insufficient data to evaluate the effect of race on oxymetazoline, tetracaine, and PBBA pharmacokinetics after nasal administration of KOVANAZE.
+
+            
+
+ </paragraph>
+                                 </text>
+                                 <effectiveTime value="20160630"/>
+                              </section>
+                           </component>
+                        </section>
+                     </component>
+                  </section>
+               </component>
+            </section>
+         </component>
+         <component>
+            <section ID="s52">
+               <id root="7aceb111-5e84-5057-e053-2991aa0a9286"/>
+               <code code="42229-5" codeSystem="2.16.840.1.113883.6.1" displayName="SPL UNCLASSIFIED SECTION"/>
+               <title>13 NON-CLINICAL TOXICOLOGY
+</title>
+               <effectiveTime value="20160630"/>
+               <component>
+                  <section ID="s53">
+                     <id root="7aceb111-5eb4-5057-e053-2991aa0a9286"/>
+                     <code code="34083-6" codeSystem="2.16.840.1.113883.6.1" displayName="CARCINOGENESIS &amp; MUTAGENESIS &amp; IMPAIRMENT OF FERTILITY SECTION"/>
+                     <title>13.1 Carcinogenesis, Mutagenesis, Impairment of Fertility
+</title>
+                     <effectiveTime value="20160630"/>
+                     <component>
+                        <section ID="s54">
+                           <id root="7aceb111-5eb5-5057-e053-2991aa0a9286"/>
+                           <code code="42229-5" codeSystem="2.16.840.1.113883.6.1" displayName="SPL UNCLASSIFIED SECTION"/>
+                           <text>
+                              <paragraph>
+                                 <content styleCode="italics">Carcinogenesis</content>
+                              </paragraph>
+                              <paragraph>Long-term studies in animals have not been performed to evaluate the carcinogenic potential of tetracaine or oxymetazoline.
+</paragraph>
+                           </text>
+                           <effectiveTime value="20160630"/>
+                        </section>
+                     </component>
+                     <component>
+                        <section ID="s55">
+                           <id root="7aceb111-5eb6-5057-e053-2991aa0a9286"/>
+                           <code code="42229-5" codeSystem="2.16.840.1.113883.6.1" displayName="SPL UNCLASSIFIED SECTION"/>
+                           <text>
+                              <paragraph>
+                                 <content styleCode="italics">Mutagenesis</content>
+                              </paragraph>
+                              <paragraph>Tetracaine base was negative in the 
+           
+ 
+  <content styleCode="italics">in vitro</content> Ames bacterial reverse mutation assay and the 
+           
+ 
+  <content styleCode="italics">in vivo</content> mouse micronucleus assay. In the 
+           
+ 
+  <content styleCode="italics">in vitro</content> chromosome aberration assay using Chinese hamster ovary cells, tetracaine base was negative in the absence of metabolic activation, and equivocal in the presence of metabolic activation. No studies have been conducted to evaluate the mutagenic potential of oxymetazoline.
+
+          
+
+ </paragraph>
+                           </text>
+                           <effectiveTime value="20160630"/>
+                        </section>
+                     </component>
+                     <component>
+                        <section ID="s56">
+                           <id root="7aceb111-5eb7-5057-e053-2991aa0a9286"/>
+                           <code code="42229-5" codeSystem="2.16.840.1.113883.6.1" displayName="SPL UNCLASSIFIED SECTION"/>
+                           <text>
+                              <paragraph>
+                                 <content styleCode="italics">Impairment of Fertility</content>
+                              </paragraph>
+                              <paragraph>Male and female rats were given subcutaneous doses of oxymetazoline HCl alone at 0.1 mg/kg/day, tetracaine HCl alone at 7.5 mg/kg/day, or the combination of oxymetazoline HCl at 0.01, 0.03, or 0.1 mg/kg/day oxymetazoline with 7.5 mg/kg/day tetracaine HCl prior to and during mating. Oxymetazoline HCl at ≥ 0.03 mg/kg/day reduced the percentage of motile sperm and sperm counts at 2 times the oxymetazoline AUC exposure at the MRHD of KOVANAZE. There were no effects on male mating behavior at any dose tested. The no-effect level for sperm effects was 0.01 mg/kg/day (0.7 times the oxymetazoline AUC exposure at the MRHD of KOVANAZE).
+</paragraph>
+                              <paragraph>In female rats, a reduction in the number of viable embryos was observed at oxymetazoline AUC exposures equivalent to 0.7 times the MRHD and higher, given alone or in combination with tetracaine HCl. Reduced numbers of corpora lutea and implantation sites were observed at 7.5 times the oxymetazoline AUC exposure at the MRHD in animals given oxymetazoline HCl alone or in combination with tetracaine HCl. These effects were attributed to oxymetazoline HCl because similar effects were not observed in rats given tetracaine HCl alone. A no-effect level for fertility in female rats was not established in this study.
+</paragraph>
+                              <paragraph>No effects on male or female fertility were attributed to tetracaine HCl at 7.5 mg/kg/day (28 and 33 times the AUC exposure for males and females, respectively, as measured by PBBA [major tetracaine metabolite] at the MRHD of KOVANAZE).
+</paragraph>
+                           </text>
+                           <effectiveTime value="20160630"/>
+                        </section>
+                     </component>
+                  </section>
+               </component>
+            </section>
+         </component>
+         <component>
+            <section ID="s57">
+               <id root="7aceb111-5e85-5057-e053-2991aa0a9286"/>
+               <code code="34092-7" codeSystem="2.16.840.1.113883.6.1" displayName="CLINICAL STUDIES SECTION"/>
+               <title>14 CLINICAL STUDIES
+</title>
+               <text>
+                  <paragraph>The efficacy of KOVANAZE Nasal Spray for regional anesthesia when performing a restorative procedure on Teeth 4-13 and A-J has been evaluated in three adult dental patient studies, as well as one pediatric dental patient study. The primary endpoint for all four studies was the successful completion of a restorative operative dental procedure without the need for a rescue injection. One adult dental study was terminated early for reasons related to the administration of KOVANAZE. Unlike the other studies conducted, in this study all three sprays were delivered horizontally.
+</paragraph>
+               </text>
+               <effectiveTime value="20160630"/>
+               <component>
+                  <section ID="s58">
+                     <id root="7aceb111-5eb8-5057-e053-2991aa0a9286"/>
+                     <code code="42229-5" codeSystem="2.16.840.1.113883.6.1" displayName="SPL UNCLASSIFIED SECTION"/>
+                     <title>14.1 Studies in Adults
+</title>
+                     <effectiveTime value="20160630"/>
+                     <component>
+                        <section ID="s59">
+                           <id root="7aceb111-5eb9-5057-e053-2991aa0a9286"/>
+                           <code code="42229-5" codeSystem="2.16.840.1.113883.6.1" displayName="SPL UNCLASSIFIED SECTION"/>
+                           <text>
+                              <paragraph>
+                                 <content styleCode="underline">Study 1</content>
+                              </paragraph>
+                              <paragraph>Study 1 was a Phase 3, multicenter, randomized, double-blind, placebo and active-controlled, parallel-groups study designed to compare the efficacy and safety of intranasally administered KOVANAZE to both tetracaine HCl alone and placebo, for providing dental anesthesia sufficient to allow completion of the standard dental procedure on a single maxillary tooth (#4-13) in adults.
+</paragraph>
+                              <paragraph>A total of 110 patients were enrolled in two clinical centers and randomized to receive three 0.2 mL intranasal sprays of either KOVANAZE (n=44), tetracaine alone (n=44), or placebo (n=22). All randomized patients completed the study dental procedure.
+</paragraph>
+                              <paragraph>Fifty-three percent (53%) of randomized patients were female and 76% were White, with a mean age of 35 years (range 18 to 73 years).
+</paragraph>
+                              <paragraph>Eighty-four percent (95% CI: 70%, 93%) of KOVANAZE patients were able to complete the dental procedure without the need for rescue medication compared to 27% (95% CI: 15%, 43%) who received tetracaine alone and 27% (95% CI: 11%, 50%) who received placebo.
+</paragraph>
+                              <paragraph>KOVANAZE had a lower success rate for dental procedures on the 2
+           
+ 
+  <sup>nd</sup> pre-molar (teeth #4 and #13) compared with more anterior teeth (#5 through #12): 63% for the 2
+           
+ 
+  <sup>nd</sup> pre-molars vs 96% for more anterior teeth.
+
+          
+
+ </paragraph>
+                              <paragraph>In this trial, the median duration of a dental procedure successfully completed with KOVANAZE was 11 minutes, although one successfully completed dental procedure was as long as 43 minutes.  Of the people that needed rescue medication in the KOVANAZE arm, they required it within the first 6 minutes following the start of the dental procedure.
+</paragraph>
+                           </text>
+                           <effectiveTime value="20160630"/>
+                        </section>
+                     </component>
+                     <component>
+                        <section ID="s60">
+                           <id root="7aceb111-5eba-5057-e053-2991aa0a9286"/>
+                           <code code="42229-5" codeSystem="2.16.840.1.113883.6.1" displayName="SPL UNCLASSIFIED SECTION"/>
+                           <text>
+                              <paragraph>
+                                 <content styleCode="underline">Study 2</content>
+                              </paragraph>
+                              <paragraph>Study 2 was a Phase 3, multicenter, randomized, double-blind, parallel-groups study designed to compare the efficacy and safety of intranasally administered KOVANAZE to placebo, for providing dental anesthesia sufficient to allow completion of the standard dental procedure on a single maxillary tooth (#4-13) in adults.
+</paragraph>
+                              <paragraph>A total of 150 adult patients were enrolled at three study centers and received either KOVANAZE (n=100) or placebo (n=50) as a dose of two or three 0.2 mL intranasal sprays. All except two randomized patients (one each in the KOVANAZE and placebo groups) completed the study dental procedure.
+</paragraph>
+                              <paragraph>Fifty-five percent (55%) of randomized patients were female and 63% were White, with a mean age of 41 years (range 18 to 78 years).
+</paragraph>
+                              <paragraph>Eighty-eight percent (95% CI: 80%, 94%) of KOVANAZE patients were able to complete the dental procedure without the need for rescue medication compared to 28% (95% CI: 16%, 43%) of patients who received placebo.
+</paragraph>
+                              <paragraph>KOVANAZE had a lower success rate for dental procedures on the 2
+           
+ 
+  <sup>nd</sup> pre-molar (teeth #4 and #13) compared with more anterior teeth (#5 through #12): 64% for the 2
+           
+ 
+  <sup>nd</sup> pre-molars vs 96% for more anterior teeth.
+
+          
+
+ </paragraph>
+                           </text>
+                           <effectiveTime value="20160630"/>
+                        </section>
+                     </component>
+                  </section>
+               </component>
+               <component>
+                  <section ID="s61">
+                     <id root="7aceb111-5ebb-5057-e053-2991aa0a9286"/>
+                     <code code="42229-5" codeSystem="2.16.840.1.113883.6.1" displayName="SPL UNCLASSIFIED SECTION"/>
+                     <title>14.2 Study in Children
+</title>
+                     <effectiveTime value="20160630"/>
+                     <component>
+                        <section ID="s62">
+                           <id root="7aceb111-5ebc-5057-e053-2991aa0a9286"/>
+                           <code code="42229-5" codeSystem="2.16.840.1.113883.6.1" displayName="SPL UNCLASSIFIED SECTION"/>
+                           <text>
+                              <paragraph>
+                                 <content styleCode="underline">Study 3</content>
+                              </paragraph>
+                              <paragraph>Study 3 was a Phase 3, multicenter, randomized, double-blind, parallel-groups study designed to compare the efficacy and safety of intranasally administered KOVANAZE to placebo for providing dental anesthesia sufficient to allow completion of the standard dental procedure on a single maxillary tooth (permanent teeth 4-13 or primary teeth A-J) for pediatric patients aged 3 through 17.
+</paragraph>
+                              <paragraph>A total of 90 patients, 3 through 17 years of age inclusive, were enrolled at two study centers.  Patients received one or two intranasal sprays of either KOVANAZE (n=60) or placebo (n=30) based on body weight: one 0.1 mL spray for patients weighing 10 kg to less than 20 kg; two 0.1 mL sprays for 20 kg to less than 40 kg; or two 0.2 mL sprays for patients weighing 40 kg or more.  All except one randomized patient in the KOVANAZE group completed the study dental procedure.
+</paragraph>
+                              <paragraph>Fifty-one percent (51%) of randomized patients were male and 89% were White, with a mean age of 8 years (range 3 to 17 years).
+</paragraph>
+                              <paragraph>Even though a greater percentage of patients were able to complete the dental procedure without the need for rescue anesthesia for KOVANAZE: 77% for KOVANAZE (95% CI: 64%, 87%) compared to 53% for placebo (95% CI: 34%, 72%) an analysis by weight indicated that efficacy was only established for patients weighing 40 kg or more 
+           
+ 
+  <content styleCode="italics">[see 
+            
+  
+   <linkHtml href="#t3">Table 3</linkHtml>]
+           
+ 
+  </content>.
+
+          
+
+ </paragraph>
+                              <table ID="t3" width="100%">
+                                 <caption>Table 3:  Success Rates by Weight Group in the Pediatric Dental Patients (Study 3)
+</caption>
+                                 <col width="39.133%" align="left"/>
+                                 <col width="29.800%" align="left"/>
+                                 <col width="31.067%" align="left"/>
+                                 <tbody>
+                                    <tr>
+                                       <td align="left" styleCode="Toprule Botrule Lrule Rrule" valign="middle">
+                                          <content styleCode="bold">Successful Anesthetic Response by Weight</content>
+                                          <br/>N (%)
+
+             
+   
+    </td>
+                                       <td align="center" styleCode="Toprule Botrule Rrule" valign="middle">
+                                          <content styleCode="bold">KOVANAZE
+               
+     
+      <br/>(N = 60)
+              
+    
+     </content>
+                                       </td>
+                                       <td align="center" styleCode="Toprule Botrule Rrule" valign="middle">
+                                          <content styleCode="bold">Placebo
+               
+     
+      <br/>(N = 30)
+              
+    
+     </content>
+                                       </td>
+                                    </tr>
+                                    <tr>
+                                       <td align="left" styleCode="Botrule Lrule Rrule" valign="middle">40 kg or more
+</td>
+                                       <td align="center" styleCode="Botrule Rrule" valign="middle">18/20 (90%)
+</td>
+                                       <td align="center" styleCode="Botrule Rrule" valign="middle">4/10 (40%)
+</td>
+                                    </tr>
+                                    <tr>
+                                       <td align="left" styleCode="Botrule Lrule Rrule" valign="middle">20 to less than 40 kg
+</td>
+                                       <td align="center" styleCode="Botrule Rrule" valign="middle">14/24 (58%)
+</td>
+                                       <td align="center" styleCode="Botrule Rrule" valign="middle">5/12 (42%)
+</td>
+                                    </tr>
+                                    <tr>
+                                       <td align="left" styleCode="Botrule Lrule Rrule" valign="middle">10 to less than 20 kg
+</td>
+                                       <td align="center" styleCode="Botrule Rrule" valign="middle">14/16 (88%)
+</td>
+                                       <td align="center" styleCode="Botrule Rrule" valign="middle">7/8 (88%)
+</td>
+                                    </tr>
+                                 </tbody>
+                              </table>
+                           </text>
+                           <effectiveTime value="20160630"/>
+                        </section>
+                     </component>
+                  </section>
+               </component>
+            </section>
+         </component>
+         <component>
+            <section ID="s63">
+               <id root="7aceb111-5e87-5057-e053-2991aa0a9286"/>
+               <code code="34069-5" codeSystem="2.16.840.1.113883.6.1" displayName="HOW SUPPLIED SECTION"/>
+               <title>16 HOW SUPPLIED/STORAGE AND HANDLING</title>
+               <text>
+                  <paragraph>KOVANAZE Nasal Spray is supplied as pre-filled, single-dose sprayers containing a clear aqueous solution of 30 mg/mL of tetracaine hydrochloride (equivalent to 26.4 mg/mL tetracaine) and 0.5 mg/mL of oxymetazoline hydrochloride (equivalent to 0.44 mg/mL oxymetazoline). Each sprayer delivers 0.2 mL.</paragraph>
+                  <paragraph>The product is available as:</paragraph>
+                  <list listType="unordered">
+                     <item>NDC 69803-100-10: Box of 30 sprayers</item>
+                  </list>
+                  <paragraph>Store between 2° and 8°C (36° and 46°F); excursions permitted between 0° and 15°C (32° and 59°F) [see USP controlled cold temperature].</paragraph>
+                  <paragraph>Discard any unused solution. DO NOT use if drug is left out at room temperature for more than 5 days.</paragraph>
+               </text>
+               <effectiveTime value="20181114"/>
+            </section>
+         </component>
+         <component>
+            <section ID="s64">
+               <id root="7acee590-884e-08ad-e053-2991aa0a5041"/>
+               <code code="34076-0" codeSystem="2.16.840.1.113883.6.1" displayName="INFORMATION FOR PATIENTS SECTION"/>
+               <title>17 PATIENT COUNSELING INFORMATION</title>
+               <text>
+                  <list listType="unordered" styleCode="Disc">
+                     <item>Inform patients that use of local anesthetics may cause methemoglobinemia, a serious condition that must be treated promptly. Advise patients or caregivers to seek immediate medical attention if they or someone in their care experience the following signs or symptoms: pale, gray, or blue colored skin (cyanosis); headache; rapid heart rate; shortness of breath; lightheadedness; or fatigue 
+   <content styleCode="italics">[see Warnings and Precautions (
+    <linkHtml href="#id_link_71fd9ead-2cba-7573-e053-2995a90abc40">5.1</linkHtml>)]
+   </content>.
+  </item>
+                     <item>Inform patients of the likelihood of expected side effects (including runny nose, nasal congestion, mild nose bleeds, dizziness, and/or a sensation of difficulty in swallowing) that should resolve within the same day. Instruct patients to contact their dentist or health care professional if these symptoms persist 
+   <content styleCode="italics">[see Adverse Reactions (
+    <linkHtml href="#s14">6</linkHtml>)] 
+   </content>.
+  </item>
+                     <item>Advise patients to inform the dental practitioner if they are taking monoamine oxidase inhibitors (MAOIs), nonselective beta adrenergic antagonists, or tricyclic antidepressants 
+   <content styleCode="italics">[see Drug Interactions (</content>
+                        <linkHtml href="#s19">7.2</linkHtml>
+                        <content styleCode="italics">)] </content>.
+  </item>
+                     <item>Instruct patients to avoid using oxymetazoline-containing products (such as Afrin 
+   <sup>®</sup> and other α-adrenergic agonists) within 24 hours prior to their scheduled dental procedure. 
+   <content styleCode="italics">[see Drug Interactions (</content>
+                        <linkHtml href="#s20">7.3</linkHtml>
+                        <content styleCode="italics">)] </content>.
+  </item>
+                     <item>Advise patients of the signs and symptoms of hypersensitivity reactions and to seek immediate medical attention should they occur 
+   <content styleCode="italics">[see Warnings and Precautions (
+    <linkHtml href="#s13">5.5</linkHtml>)] 
+   </content>.
+  </item>
+                  </list>
+                  <paragraph>St. Renatus, LLC
+  <br/>
+                     <br/>
+Manufactured for:
+  <br/>
+                     <br/>
+St. Renatus, LLC
+  <br/>
+                     <br/>
+Fort Collins, CO 80526
+ </paragraph>
+                  <paragraph>KOVANAZE is a trademark of St. Renatus, LLC.</paragraph>
+               </text>
+               <effectiveTime value="20181116"/>
+            </section>
+         </component>
+         <component>
+            <section ID="s65">
+               <id root="7aceb111-5e89-5057-e053-2991aa0a9286"/>
+               <code code="51945-4" codeSystem="2.16.840.1.113883.6.1" displayName="PACKAGE LABEL.PRINCIPAL DISPLAY PANEL"/>
+               <text>
+                  <paragraph>
+                     <content styleCode="bold">Principal Display Panel - Box Label</content>
+                  </paragraph>
+                  <paragraph>
+                     <content styleCode="bold">NDC 69803-100-10</content>
+                  </paragraph>
+                  <paragraph>
+                     <content styleCode="bold">KOVANAZE</content>
+                     <br/>
+                     <br/>
+(tetracaine HCl and oxymetazoline HCl)
+ </paragraph>
+                  <paragraph>
+                     <content styleCode="bold">NASAL SPRAY</content>
+                  </paragraph>
+                  <paragraph>0.2 mL per sprayer
+  <br/>
+                     <br/>
+Containing 6 mg tetracaine HCl and 0.1 mg oxymetazoline HCl
+ </paragraph>
+                  <paragraph>(equivalent to 5.27 mg tetracaine and 0.088 mg oxymetazoline)</paragraph>
+                  <paragraph>
+                     <content styleCode="bold">Contents: 30 sprayers</content>
+                  </paragraph>
+                  <paragraph>Rx only</paragraph>
+                  <paragraph>NOT FOR INJECTION</paragraph>
+                  <paragraph>Store refrigerated at 2 to 8°C (36 to 46°F)</paragraph>
+                  <paragraph>Manufactured for</paragraph>
+                  <paragraph>St. Renatus, LLC</paragraph>
+                  <paragraph>Fort Collins, CO 80526</paragraph>
+                  <paragraph>
+                     <renderMultiMedia referencedObject="mm03"/>
+                  </paragraph>
+               </text>
+               <effectiveTime value="20160901"/>
+               <component>
+                  <observationMedia ID="mm03">
+                     <text>Principal Display Panel - Box Label
+</text>
+                     <value mediaType="image/jpeg" xsi:type="ED">
+                        <reference value="kov00-0000-03.jpg"/>
+                     </value>
+                  </observationMedia>
+               </component>
+            </section>
+         </component>
+      </structuredBody>
+   </component>
+</document>

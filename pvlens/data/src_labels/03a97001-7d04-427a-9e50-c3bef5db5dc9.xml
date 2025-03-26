@@ -1,0 +1,1457 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet href="http://www.accessdata.fda.gov/spl/stylesheet/spl.xsl" type="text/xsl"?>
+<document xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:hl7-org:v3 http://www.accessdata.fda.gov/spl/schema/spl.xsd">
+   <id root="03a97001-7d04-427a-9e50-c3bef5db5dc9"/>
+   <code code="34391-3" codeSystem="2.16.840.1.113883.6.1" displayName="HUMAN PRESCRIPTION DRUG LABEL"/>
+   <title>These highlights do not include all the information needed to use ESKATA<sup>®</sup> safely and effectively. See full prescribing information for ESKATA<sup>®</sup>.<br/>
+      <br/> ESKATA<sup>®</sup> (hydrogen peroxide) topical solution <br/>Initial U.S. Approval: 2017</title>
+   <effectiveTime value="20190327"/>
+   <setId root="52f4cc49-6553-426f-9778-0bd34e31b942"/>
+   <versionNumber value="4"/>
+   <author>
+      <time/>
+      <assignedEntity>
+         <representedOrganization>
+            <id extension="032365882" root="1.3.6.1.4.1.519.1"/>
+            <name>Aclaris Therapeutics, Inc.</name>
+            <assignedEntity>
+               <assignedOrganization>
+                  <assignedEntity>
+                     <assignedOrganization>
+                        <id extension="040756421" root="1.3.6.1.4.1.519.1"/>
+                        <name>James Alexander Corp.</name>
+                     </assignedOrganization>
+                     <performance>
+                        <actDefinition>
+                           <code code="C25391" codeSystem="2.16.840.1.113883.3.26.1.1" displayName="ANALYSIS"/>
+                           <product>
+                              <manufacturedProduct classCode="MANU">
+                                 <manufacturedMaterialKind>
+                                    <code code="71180-001" codeSystem="2.16.840.1.113883.6.69"/>
+                                 </manufacturedMaterialKind>
+                              </manufacturedProduct>
+                           </product>
+                        </actDefinition>
+                     </performance>
+                     <performance>
+                        <actDefinition>
+                           <code code="C25391" codeSystem="2.16.840.1.113883.3.26.1.1" displayName="ANALYSIS"/>
+                           <product>
+                              <manufacturedProduct classCode="MANU">
+                                 <manufacturedMaterialKind>
+                                    <code code="71180-002" codeSystem="2.16.840.1.113883.6.69"/>
+                                 </manufacturedMaterialKind>
+                              </manufacturedProduct>
+                           </product>
+                        </actDefinition>
+                     </performance>
+                     <performance>
+                        <actDefinition>
+                           <code code="C84732" codeSystem="2.16.840.1.113883.3.26.1.1" displayName="LABEL"/>
+                           <product>
+                              <manufacturedProduct classCode="MANU">
+                                 <manufacturedMaterialKind>
+                                    <code code="71180-001" codeSystem="2.16.840.1.113883.6.69"/>
+                                 </manufacturedMaterialKind>
+                              </manufacturedProduct>
+                           </product>
+                        </actDefinition>
+                     </performance>
+                     <performance>
+                        <actDefinition>
+                           <code code="C84732" codeSystem="2.16.840.1.113883.3.26.1.1" displayName="LABEL"/>
+                           <product>
+                              <manufacturedProduct classCode="MANU">
+                                 <manufacturedMaterialKind>
+                                    <code code="71180-002" codeSystem="2.16.840.1.113883.6.69"/>
+                                 </manufacturedMaterialKind>
+                              </manufacturedProduct>
+                           </product>
+                        </actDefinition>
+                     </performance>
+                     <performance>
+                        <actDefinition>
+                           <code code="C43360" codeSystem="2.16.840.1.113883.3.26.1.1" displayName="MANUFACTURE"/>
+                           <product>
+                              <manufacturedProduct classCode="MANU">
+                                 <manufacturedMaterialKind>
+                                    <code code="71180-001" codeSystem="2.16.840.1.113883.6.69"/>
+                                 </manufacturedMaterialKind>
+                              </manufacturedProduct>
+                           </product>
+                        </actDefinition>
+                     </performance>
+                     <performance>
+                        <actDefinition>
+                           <code code="C43360" codeSystem="2.16.840.1.113883.3.26.1.1" displayName="MANUFACTURE"/>
+                           <product>
+                              <manufacturedProduct classCode="MANU">
+                                 <manufacturedMaterialKind>
+                                    <code code="71180-002" codeSystem="2.16.840.1.113883.6.69"/>
+                                 </manufacturedMaterialKind>
+                              </manufacturedProduct>
+                           </product>
+                        </actDefinition>
+                     </performance>
+                  </assignedEntity>
+               </assignedOrganization>
+            </assignedEntity>
+         </representedOrganization>
+      </assignedEntity>
+   </author>
+   <component>
+      <structuredBody>
+         <component>
+            <section ID="DLDE">
+               <id root="af732a7e-03b3-4dd2-8686-65579db4b250"/>
+               <code code="48780-1" codeSystem="2.16.840.1.113883.6.1" displayName="SPL PRODUCT DATA ELEMENTS SECTION"/>
+               <effectiveTime value="20190327"/>
+               <subject>
+                  <manufacturedProduct>
+                     <manufacturedProduct>
+                        <code code="71180-001" codeSystem="2.16.840.1.113883.6.69"/>
+                        <name>Eskata</name>
+                        <formCode code="C42986" codeSystem="2.16.840.1.113883.3.26.1.1" displayName="SOLUTION"/>
+                        <asEntityWithGeneric>
+                           <genericMedicine>
+                              <name>hydrogen peroxide</name>
+                           </genericMedicine>
+                        </asEntityWithGeneric>
+                        <ingredient classCode="ACTIB">
+                           <quantity>
+                              <numerator value="40" unit="mg"/>
+                              <denominator value="100" unit="mg"/>
+                           </quantity>
+                           <ingredientSubstance>
+                              <code code="BBX060AN9V" codeSystem="2.16.840.1.113883.4.9"/>
+                              <name>HYDROGEN PEROXIDE</name>
+                              <activeMoiety>
+                                 <activeMoiety>
+                                    <code code="BBX060AN9V" codeSystem="2.16.840.1.113883.4.9"/>
+                                    <name>HYDROGEN PEROXIDE</name>
+                                 </activeMoiety>
+                              </activeMoiety>
+                           </ingredientSubstance>
+                        </ingredient>
+                        <ingredient classCode="IACT">
+                           <ingredientSubstance>
+                              <code code="ND2M416302" codeSystem="2.16.840.1.113883.4.9"/>
+                              <name>ISOPROPYL ALCOHOL</name>
+                           </ingredientSubstance>
+                        </ingredient>
+                        <ingredient classCode="IACT">
+                           <ingredientSubstance>
+                              <code code="059QF0KO0R" codeSystem="2.16.840.1.113883.4.9"/>
+                              <name>WATER</name>
+                           </ingredientSubstance>
+                        </ingredient>
+                        <asContent>
+                           <quantity>
+                              <numerator value="280" unit="mg"/>
+                              <denominator value="1"/>
+                           </quantity>
+                           <containerPackagedProduct>
+                              <code/>
+                              <formCode code="C43166" codeSystem="2.16.840.1.113883.3.26.1.1" displayName="APPLICATOR"/>
+                              <asContent>
+                                 <quantity>
+                                    <numerator value="1" unit="1"/>
+                                    <denominator value="1"/>
+                                 </quantity>
+                                 <containerPackagedProduct>
+                                    <code code="71180-001-01" codeSystem="2.16.840.1.113883.6.69"/>
+                                    <formCode code="C43182" codeSystem="2.16.840.1.113883.3.26.1.1" displayName="CARTON"/>
+                                 </containerPackagedProduct>
+                                 <subjectOf>
+                                    <marketingAct>
+                                       <code code="C53292" codeSystem="2.16.840.1.113883.3.26.1.1"/>
+                                       <statusCode code="active"/>
+                                       <effectiveTime>
+                                          <low value="20171214"/>
+                                       </effectiveTime>
+                                    </marketingAct>
+                                 </subjectOf>
+                              </asContent>
+                           </containerPackagedProduct>
+                           <subjectOf>
+                              <characteristic>
+                                 <code code="SPLCMBPRDTP" codeSystem="2.16.840.1.113883.1.11.19255"/>
+                                 <value code="C112160" codeSystem="2.16.840.1.113883.3.26.1.1" xsi:type="CV" displayName="Type 0: Not a Combination Product"/>
+                              </characteristic>
+                           </subjectOf>
+                        </asContent>
+                        <asContent>
+                           <quantity>
+                              <numerator value="280" unit="mg"/>
+                              <denominator value="1"/>
+                           </quantity>
+                           <containerPackagedProduct>
+                              <code/>
+                              <formCode code="C43166" codeSystem="2.16.840.1.113883.3.26.1.1" displayName="APPLICATOR"/>
+                              <asContent>
+                                 <quantity>
+                                    <numerator value="3" unit="1"/>
+                                    <denominator value="1"/>
+                                 </quantity>
+                                 <containerPackagedProduct>
+                                    <code code="71180-001-03" codeSystem="2.16.840.1.113883.6.69"/>
+                                    <formCode code="C43182" codeSystem="2.16.840.1.113883.3.26.1.1" displayName="CARTON"/>
+                                 </containerPackagedProduct>
+                                 <subjectOf>
+                                    <marketingAct>
+                                       <code code="C53292" codeSystem="2.16.840.1.113883.3.26.1.1"/>
+                                       <statusCode code="active"/>
+                                       <effectiveTime>
+                                          <low value="20171214"/>
+                                       </effectiveTime>
+                                    </marketingAct>
+                                 </subjectOf>
+                              </asContent>
+                           </containerPackagedProduct>
+                           <subjectOf>
+                              <characteristic>
+                                 <code code="SPLCMBPRDTP" codeSystem="2.16.840.1.113883.1.11.19255"/>
+                                 <value code="C112160" codeSystem="2.16.840.1.113883.3.26.1.1" xsi:type="CV" displayName="Type 0: Not a Combination Product"/>
+                              </characteristic>
+                           </subjectOf>
+                        </asContent>
+                        <asContent>
+                           <quantity>
+                              <numerator value="280" unit="mg"/>
+                              <denominator value="1"/>
+                           </quantity>
+                           <containerPackagedProduct>
+                              <code/>
+                              <formCode code="C43166" codeSystem="2.16.840.1.113883.3.26.1.1" displayName="APPLICATOR"/>
+                              <asContent>
+                                 <quantity>
+                                    <numerator value="12" unit="1"/>
+                                    <denominator value="1"/>
+                                 </quantity>
+                                 <containerPackagedProduct>
+                                    <code code="71180-001-12" codeSystem="2.16.840.1.113883.6.69"/>
+                                    <formCode code="C43182" codeSystem="2.16.840.1.113883.3.26.1.1" displayName="CARTON"/>
+                                 </containerPackagedProduct>
+                                 <subjectOf>
+                                    <marketingAct>
+                                       <code code="C53292" codeSystem="2.16.840.1.113883.3.26.1.1"/>
+                                       <statusCode code="active"/>
+                                       <effectiveTime>
+                                          <low value="20171214"/>
+                                       </effectiveTime>
+                                    </marketingAct>
+                                 </subjectOf>
+                              </asContent>
+                           </containerPackagedProduct>
+                           <subjectOf>
+                              <characteristic>
+                                 <code code="SPLCMBPRDTP" codeSystem="2.16.840.1.113883.1.11.19255"/>
+                                 <value code="C112160" codeSystem="2.16.840.1.113883.3.26.1.1" xsi:type="CV" displayName="Type 0: Not a Combination Product"/>
+                              </characteristic>
+                           </subjectOf>
+                        </asContent>
+                     </manufacturedProduct>
+                     <subjectOf>
+                        <approval>
+                           <id extension="NDA209305" root="2.16.840.1.113883.3.150"/>
+                           <code code="C73594" codeSystem="2.16.840.1.113883.3.26.1.1" displayName="NDA"/>
+                           <author>
+                              <territorialAuthority>
+                                 <territory>
+                                    <code code="USA" codeSystem="2.16.840.1.113883.5.28"/>
+                                 </territory>
+                              </territorialAuthority>
+                           </author>
+                        </approval>
+                     </subjectOf>
+                     <subjectOf>
+                        <marketingAct>
+                           <code code="C53292" codeSystem="2.16.840.1.113883.3.26.1.1"/>
+                           <statusCode code="active"/>
+                           <effectiveTime>
+                              <low value="20171214"/>
+                           </effectiveTime>
+                        </marketingAct>
+                     </subjectOf>
+                     <consumedIn>
+                        <substanceAdministration>
+                           <routeCode code="C38304" codeSystem="2.16.840.1.113883.3.26.1.1" displayName="TOPICAL"/>
+                        </substanceAdministration>
+                     </consumedIn>
+                  </manufacturedProduct>
+               </subject>
+               <subject>
+                  <manufacturedProduct>
+                     <manufacturedProduct>
+                        <code code="71180-002" codeSystem="2.16.840.1.113883.6.69"/>
+                        <name>Eskata</name>
+                        <formCode code="C42986" codeSystem="2.16.840.1.113883.3.26.1.1" displayName="SOLUTION"/>
+                        <asEntityWithGeneric>
+                           <genericMedicine>
+                              <name>hydrogen peroxide</name>
+                           </genericMedicine>
+                        </asEntityWithGeneric>
+                        <ingredient classCode="ACTIB">
+                           <quantity>
+                              <numerator value="40" unit="mg"/>
+                              <denominator value="100" unit="mg"/>
+                           </quantity>
+                           <ingredientSubstance>
+                              <code code="BBX060AN9V" codeSystem="2.16.840.1.113883.4.9"/>
+                              <name>HYDROGEN PEROXIDE</name>
+                              <activeMoiety>
+                                 <activeMoiety>
+                                    <code code="BBX060AN9V" codeSystem="2.16.840.1.113883.4.9"/>
+                                    <name>HYDROGEN PEROXIDE</name>
+                                 </activeMoiety>
+                              </activeMoiety>
+                           </ingredientSubstance>
+                        </ingredient>
+                        <ingredient classCode="IACT">
+                           <ingredientSubstance>
+                              <code code="ND2M416302" codeSystem="2.16.840.1.113883.4.9"/>
+                              <name>ISOPROPYL ALCOHOL</name>
+                           </ingredientSubstance>
+                        </ingredient>
+                        <ingredient classCode="IACT">
+                           <ingredientSubstance>
+                              <code code="059QF0KO0R" codeSystem="2.16.840.1.113883.4.9"/>
+                              <name>WATER</name>
+                           </ingredientSubstance>
+                        </ingredient>
+                        <asContent>
+                           <quantity>
+                              <numerator value="520" unit="mg"/>
+                              <denominator value="1"/>
+                           </quantity>
+                           <containerPackagedProduct>
+                              <code/>
+                              <formCode code="C43166" codeSystem="2.16.840.1.113883.3.26.1.1" displayName="APPLICATOR"/>
+                              <asContent>
+                                 <quantity>
+                                    <numerator value="1" unit="1"/>
+                                    <denominator value="1"/>
+                                 </quantity>
+                                 <containerPackagedProduct>
+                                    <code code="71180-002-01" codeSystem="2.16.840.1.113883.6.69"/>
+                                    <formCode code="C43182" codeSystem="2.16.840.1.113883.3.26.1.1" displayName="CARTON"/>
+                                 </containerPackagedProduct>
+                                 <subjectOf>
+                                    <marketingAct>
+                                       <code code="C53292" codeSystem="2.16.840.1.113883.3.26.1.1"/>
+                                       <statusCode code="active"/>
+                                       <effectiveTime>
+                                          <low value="20171214"/>
+                                       </effectiveTime>
+                                    </marketingAct>
+                                 </subjectOf>
+                              </asContent>
+                           </containerPackagedProduct>
+                           <subjectOf>
+                              <characteristic>
+                                 <code code="SPLCMBPRDTP" codeSystem="2.16.840.1.113883.1.11.19255"/>
+                                 <value code="C112160" codeSystem="2.16.840.1.113883.3.26.1.1" xsi:type="CV" displayName="Type 0: Not a Combination Product"/>
+                              </characteristic>
+                           </subjectOf>
+                        </asContent>
+                        <asContent>
+                           <quantity>
+                              <numerator value="520" unit="mg"/>
+                              <denominator value="1"/>
+                           </quantity>
+                           <containerPackagedProduct>
+                              <code/>
+                              <formCode code="C43166" codeSystem="2.16.840.1.113883.3.26.1.1" displayName="APPLICATOR"/>
+                              <asContent>
+                                 <quantity>
+                                    <numerator value="3" unit="1"/>
+                                    <denominator value="1"/>
+                                 </quantity>
+                                 <containerPackagedProduct>
+                                    <code code="71180-002-03" codeSystem="2.16.840.1.113883.6.69"/>
+                                    <formCode code="C43182" codeSystem="2.16.840.1.113883.3.26.1.1" displayName="CARTON"/>
+                                 </containerPackagedProduct>
+                                 <subjectOf>
+                                    <marketingAct>
+                                       <code code="C53292" codeSystem="2.16.840.1.113883.3.26.1.1"/>
+                                       <statusCode code="active"/>
+                                       <effectiveTime>
+                                          <low value="20171214"/>
+                                       </effectiveTime>
+                                    </marketingAct>
+                                 </subjectOf>
+                              </asContent>
+                           </containerPackagedProduct>
+                           <subjectOf>
+                              <characteristic>
+                                 <code code="SPLCMBPRDTP" codeSystem="2.16.840.1.113883.1.11.19255"/>
+                                 <value code="C112160" codeSystem="2.16.840.1.113883.3.26.1.1" xsi:type="CV" displayName="Type 0: Not a Combination Product"/>
+                              </characteristic>
+                           </subjectOf>
+                        </asContent>
+                        <asContent>
+                           <quantity>
+                              <numerator value="520" unit="mg"/>
+                              <denominator value="1"/>
+                           </quantity>
+                           <containerPackagedProduct>
+                              <code/>
+                              <formCode code="C43166" codeSystem="2.16.840.1.113883.3.26.1.1" displayName="APPLICATOR"/>
+                              <asContent>
+                                 <quantity>
+                                    <numerator value="12" unit="1"/>
+                                    <denominator value="1"/>
+                                 </quantity>
+                                 <containerPackagedProduct>
+                                    <code code="71180-002-12" codeSystem="2.16.840.1.113883.6.69"/>
+                                    <formCode code="C43182" codeSystem="2.16.840.1.113883.3.26.1.1" displayName="CARTON"/>
+                                 </containerPackagedProduct>
+                                 <subjectOf>
+                                    <marketingAct>
+                                       <code code="C53292" codeSystem="2.16.840.1.113883.3.26.1.1"/>
+                                       <statusCode code="active"/>
+                                       <effectiveTime>
+                                          <low value="20171214"/>
+                                       </effectiveTime>
+                                    </marketingAct>
+                                 </subjectOf>
+                              </asContent>
+                           </containerPackagedProduct>
+                           <subjectOf>
+                              <characteristic>
+                                 <code code="SPLCMBPRDTP" codeSystem="2.16.840.1.113883.1.11.19255"/>
+                                 <value code="C112160" codeSystem="2.16.840.1.113883.3.26.1.1" xsi:type="CV" displayName="Type 0: Not a Combination Product"/>
+                              </characteristic>
+                           </subjectOf>
+                        </asContent>
+                     </manufacturedProduct>
+                     <subjectOf>
+                        <approval>
+                           <id extension="NDA209305" root="2.16.840.1.113883.3.150"/>
+                           <code code="C73594" codeSystem="2.16.840.1.113883.3.26.1.1" displayName="NDA"/>
+                           <author>
+                              <territorialAuthority>
+                                 <territory>
+                                    <code code="USA" codeSystem="2.16.840.1.113883.5.28"/>
+                                 </territory>
+                              </territorialAuthority>
+                           </author>
+                        </approval>
+                     </subjectOf>
+                     <subjectOf>
+                        <marketingAct>
+                           <code code="C53292" codeSystem="2.16.840.1.113883.3.26.1.1"/>
+                           <statusCode code="active"/>
+                           <effectiveTime>
+                              <low value="20171214"/>
+                           </effectiveTime>
+                        </marketingAct>
+                     </subjectOf>
+                     <consumedIn>
+                        <substanceAdministration>
+                           <routeCode code="C38304" codeSystem="2.16.840.1.113883.3.26.1.1" displayName="TOPICAL"/>
+                        </substanceAdministration>
+                     </consumedIn>
+                  </manufacturedProduct>
+               </subject>
+            </section>
+         </component>
+         <component>
+            <section ID="S1">
+               <id root="7b9c1cb8-6e26-4151-9ce3-f05396625589"/>
+               <code code="34067-9" codeSystem="2.16.840.1.113883.6.1" displayName="INDICATIONS &amp; USAGE SECTION"/>
+               <title>1. INDICATION AND USAGE</title>
+               <text>
+                  <paragraph>ESKATA is indicated for the treatment of seborrheic keratoses that are raised.</paragraph>
+               </text>
+               <effectiveTime value="20190327"/>
+               <excerpt>
+                  <highlight>
+                     <text>
+                        <paragraph>ESKATA is indicated for the treatment of seborrheic keratoses that are raised. (<linkHtml href="#S1">1</linkHtml>)</paragraph>
+                     </text>
+                  </highlight>
+               </excerpt>
+            </section>
+         </component>
+         <component>
+            <section ID="S2">
+               <id root="9fb03a46-8511-4d08-9e5d-ac33a15e0a64"/>
+               <code code="34068-7" codeSystem="2.16.840.1.113883.6.1" displayName="DOSAGE &amp; ADMINISTRATION SECTION"/>
+               <title>2. DOSAGE AND ADMINISTRATION</title>
+               <effectiveTime value="20190327"/>
+               <excerpt>
+                  <highlight>
+                     <text>
+                        <list>
+                           <item>To be administered by a healthcare provider. (<linkHtml href="#S2.1">2.1</linkHtml>)</item>
+                           <item>For topical use only. Not for ophthalmic use.  (<linkHtml href="#S2.1">2.1</linkHtml>)</item>
+                           <item>Do not apply ESKATA topical solution to open or infected seborrheic keratoses. (<linkHtml href="#S2.1">2.1</linkHtml>)</item>
+                           <item>Apply 4 times, approximately 1 minute apart, to the targeted lesion(s) during a single in-office treatment session. (<linkHtml href="#S2.1">2.1</linkHtml>)</item>
+                        </list>
+                     </text>
+                  </highlight>
+               </excerpt>
+               <component>
+                  <section ID="S2.1">
+                     <id root="030432dd-3183-43fe-85ff-2e8615bcf7c1"/>
+                     <code code="42229-5" codeSystem="2.16.840.1.113883.6.1" displayName="SPL UNCLASSIFIED SECTION"/>
+                     <title>2.1	Important Administration Information </title>
+                     <text>
+                        <paragraph>ESKATA is to be administered by a health care provider.</paragraph>
+                        <paragraph>For topical use only. Not for oral, ophthalmic, or intravaginal use.</paragraph>
+                        <paragraph>Do not apply ESKATA topical solution to open or infected seborrheic keratoses.</paragraph>
+                        <paragraph>Prior to application of ESKATA, ensure the surface of seborrheic keratosis lesion is clear of oil and debris (an alcohol wipe can be used).</paragraph>
+                        <paragraph>During a single in-office treatment session, apply ESKATA to seborrheic keratosis lesions 4 times, approximately 1 minute apart. After one use, replace the cap and discard the unit dose applicator.</paragraph>
+                        <paragraph>When treating seborrheic keratoses on the face, take appropriate actions to ensure that ESKATA will not come into contact with the eyes.</paragraph>
+                        <paragraph>If the treated lesions have not completely cleared approximately 3 weeks after treatment, another treatment may be administered following the same procedure.</paragraph>
+                     </text>
+                     <effectiveTime value="20190327"/>
+                  </section>
+               </component>
+               <component>
+                  <section ID="S2.2">
+                     <id root="48b771bb-19ef-41c5-aa1e-6dabd9216966"/>
+                     <code code="42229-5" codeSystem="2.16.840.1.113883.6.1" displayName="SPL UNCLASSIFIED SECTION"/>
+                     <title>2.2 Dosage and Administration Instructions </title>
+                     <effectiveTime value="20190327"/>
+                     <component>
+                        <section>
+                           <id root="02bb4e76-b43d-4f80-b3fa-9a26bbca1cab"/>
+                           <code code="42229-5" codeSystem="2.16.840.1.113883.6.1" displayName="SPL UNCLASSIFIED SECTION"/>
+                           <text>
+                              <paragraph>
+                                 <content styleCode="bold">Preparation of the ESKATA applicator</content>
+                              </paragraph>
+                              <paragraph>Wear nitrile or vinyl examination gloves during the activation of the ESKATA applicator and during the administration of the solution to the lesion(s).</paragraph>
+                              <paragraph>The method for preparing the ESKATA applicator for use is illustrated below. While activating the applicator, hold it away from the patient. Do not remove the cap until after completion of Step 4 (below).</paragraph>
+                              <table width="65%" styleCode="Noautorules">
+                                 <col width="25%" align="left" valign="top"/>
+                                 <col width="10%" align="left" valign="top"/>
+                                 <col width="35%" align="left" valign="top"/>
+                                 <col width="30%" align="left" valign="top"/>
+                                 <tbody>
+                                    <tr>
+                                       <td>
+                                          <paragraph>
+                                             <renderMultiMedia referencedObject="MM1"/>
+                                          </paragraph>
+                                       </td>
+                                       <td/>
+                                       <td colspan="2">
+                                          <paragraph>
+                                             <renderMultiMedia referencedObject="MM2"/>
+                                          </paragraph>
+                                       </td>
+                                    </tr>
+                                    <tr>
+                                       <td>Step 1:  Hold the ESKATA applicator so that the applicator cap is pointing up</td>
+                                       <td/>
+                                       <td>Step 2:  Crush the ampule in the applicator by applying finger pressure to the diamond symbol on the applicator barrel</td>
+                                       <td/>
+                                    </tr>
+                                    <tr>
+                                       <td>
+                                          <paragraph>
+                                             <renderMultiMedia referencedObject="MM3"/>
+                                          </paragraph>
+                                       </td>
+                                       <td/>
+                                       <td colspan="2">
+                                          <paragraph>
+                                             <renderMultiMedia referencedObject="MM4"/>
+                                          </paragraph>
+                                       </td>
+                                    </tr>
+                                    <tr>
+                                       <td>Step 3:  Remove the sleeve</td>
+                                       <td/>
+                                       <td>Step 4: Holding the applicator with cap pointing up, tap the bottom of the applicator to separate the solution from the crushed ampule</td>
+                                       <td/>
+                                    </tr>
+                                 </tbody>
+                              </table>
+                           </text>
+                           <effectiveTime value="20190327"/>
+                           <component>
+                              <observationMedia ID="MM1">
+                                 <text>Figure</text>
+                                 <value xsi:type="ED" mediaType="image/jpeg">
+                                    <reference value="eskata-01.jpg"/>
+                                 </value>
+                              </observationMedia>
+                           </component>
+                           <component>
+                              <observationMedia ID="MM2">
+                                 <text>Figure</text>
+                                 <value xsi:type="ED" mediaType="image/jpeg">
+                                    <reference value="eskata-02.jpg"/>
+                                 </value>
+                              </observationMedia>
+                           </component>
+                           <component>
+                              <observationMedia ID="MM3">
+                                 <text>Figure</text>
+                                 <value xsi:type="ED" mediaType="image/jpeg">
+                                    <reference value="eskata-03.jpg"/>
+                                 </value>
+                              </observationMedia>
+                           </component>
+                           <component>
+                              <observationMedia ID="MM4">
+                                 <text>Figure</text>
+                                 <value xsi:type="ED" mediaType="image/jpeg">
+                                    <reference value="eskata-04.jpg"/>
+                                 </value>
+                              </observationMedia>
+                           </component>
+                        </section>
+                     </component>
+                     <component>
+                        <section>
+                           <id root="b5f38771-1fc3-485d-b5db-896b855c214c"/>
+                           <code code="42229-5" codeSystem="2.16.840.1.113883.6.1" displayName="SPL UNCLASSIFIED SECTION"/>
+                           <text>
+                              <paragraph>
+                                 <content styleCode="bold">Application of ESKATA topical solution</content>
+                              </paragraph>
+                              <paragraph>Following release of the solution from the ampule, remove the cap from the ESKATA applicator. Gently squeeze the applicator barrel to express the solution to the applicator tip. Using the applicator, apply the solution directly to the seborrheic keratosis in a circular motion. Apply enough solution to uniformly wet the lesion surface, including the edges without excess running or dripping.</paragraph>
+                              <paragraph>Wait 1 minute and observe.  Whitening of the lesion may occur.</paragraph>
+                              <paragraph>Do not progress to subsequent applications if severe erythema/edema or pain occur. Apply again in the same manner 3 additional applications 1 minute apart.</paragraph>
+                              <paragraph>Minimize the amount of drug that comes into contact with surrounding skin. If ESKATA does come into contact with surrounding skin, use an absorbent wipe to remove any excess solution (do not use paper towels or tissue).</paragraph>
+                           </text>
+                           <effectiveTime value="20190327"/>
+                        </section>
+                     </component>
+                  </section>
+               </component>
+            </section>
+         </component>
+         <component>
+            <section ID="S3">
+               <id root="093a6d77-b70e-4790-a416-7f49ebcb74dd"/>
+               <code code="43678-2" codeSystem="2.16.840.1.113883.6.1" displayName="DOSAGE FORMS &amp; STRENGTHS SECTION"/>
+               <title>3. DOSAGE FORMS AND STRENGTHS</title>
+               <text>
+                  <paragraph>ESKATA topical solution is a clear, colorless solution containing 40% (w/w) hydrogen peroxide.</paragraph>
+               </text>
+               <effectiveTime value="20190327"/>
+               <excerpt>
+                  <highlight>
+                     <text>
+                        <paragraph>Topical solution: 40% (w/w) hydrogen peroxide (<linkHtml href="#S3">3</linkHtml>)</paragraph>
+                     </text>
+                  </highlight>
+               </excerpt>
+            </section>
+         </component>
+         <component>
+            <section ID="S4">
+               <id root="3d4dffe5-1a25-4fd5-90cb-a89816d74f69"/>
+               <code code="34070-3" codeSystem="2.16.840.1.113883.6.1" displayName="CONTRAINDICATIONS SECTION"/>
+               <title>4. CONTRAINDICATIONS</title>
+               <text>
+                  <paragraph>None.</paragraph>
+               </text>
+               <effectiveTime value="20190327"/>
+               <excerpt>
+                  <highlight>
+                     <text>
+                        <paragraph>None</paragraph>
+                     </text>
+                  </highlight>
+               </excerpt>
+            </section>
+         </component>
+         <component>
+            <section ID="S5">
+               <id root="a73d58fc-88b4-4a3a-9dc9-4a8fed7479da"/>
+               <code code="43685-7" codeSystem="2.16.840.1.113883.6.1" displayName="WARNINGS AND PRECAUTIONS SECTION"/>
+               <title>5. WARNINGS AND PRECAUTIONS</title>
+               <effectiveTime value="20190327"/>
+               <excerpt>
+                  <highlight>
+                     <text>
+                        <list>
+                           <item>Eye Disorders: Avoid eye exposure. Eye disorders including corneal injury (erosion, ulceration, perforation, and scarring), chemical conjunctivitis, eyelid edema, severe eye pain, or permanent eye injury, including blindness can occur after exposure. If accidental exposure occurs, flush eyes with water for 15 to 30 minutes and initiate monitoring, and further evaluation as appropriate. (<linkHtml href="#S5.1">5.1</linkHtml>)</item>
+                           <item>Local Skin Reactions: severe reactions, including ulcerations and scarring, may occur. Do not retreat with ESKATA until the skin has recovered from any reaction caused by the previous treatment (<linkHtml href="#S5.2">5.2</linkHtml>)</item>
+                        </list>
+                     </text>
+                  </highlight>
+               </excerpt>
+               <component>
+                  <section ID="S5.1">
+                     <id root="d3fe8477-c1ca-4d6b-8b30-dad25d855813"/>
+                     <code code="42229-5" codeSystem="2.16.840.1.113883.6.1" displayName="SPL UNCLASSIFIED SECTION"/>
+                     <title>5.1	Eye Disorders</title>
+                     <text>
+                        <paragraph>Do not apply to the eyes or mucous membranes.  Avoid treating seborrheic keratoses within the orbital rim. Direct contact with the eye can cause corneal injury (erosion, ulceration, perforation, and scarring), chemical conjunctivitis, eyelid edema, severe eye pain, or permanent eye injury, including blindness.  </paragraph>
+                        <paragraph>If accidental exposure occurs, flush with water for 15 to 30 minutes and initiate monitoring, and further evaluation as appropriate. </paragraph>
+                     </text>
+                     <effectiveTime value="20190327"/>
+                  </section>
+               </component>
+               <component>
+                  <section ID="S5.2">
+                     <id root="4102f679-fd0f-4e06-9604-8d7ff5531a5d"/>
+                     <code code="42229-5" codeSystem="2.16.840.1.113883.6.1" displayName="SPL UNCLASSIFIED SECTION"/>
+                     <title>5.2	Local Skin Reactions</title>
+                     <text>
+                        <paragraph>Skin reactions occurred in the treatment area after application of ESKATA. Severe local skin reactions included erosion, ulceration, vesiculation and scarring. <content styleCode="italics">[See <linkHtml href="#S6.1">Adverse Reactions (6.1)</linkHtml>].  </content>Do not initiate a second treatment course with ESKATA until the skin has recovered from any reaction caused by the previous treatment.</paragraph>
+                     </text>
+                     <effectiveTime value="20190327"/>
+                  </section>
+               </component>
+            </section>
+         </component>
+         <component>
+            <section ID="S6">
+               <id root="c19318af-ae05-4302-b2e4-cfca7c54c363"/>
+               <code code="34084-4" codeSystem="2.16.840.1.113883.6.1" displayName="ADVERSE REACTIONS SECTION"/>
+               <title>6. ADVERSE REACTIONS</title>
+               <effectiveTime value="20190327"/>
+               <excerpt>
+                  <highlight>
+                     <text>
+                        <paragraph>Common adverse reactions include erythema (99%), stinging (97%), edema (91%), scaling (90%), crusting (81%), and pruritus (58%). (<linkHtml href="#S6.1">6.1</linkHtml>)</paragraph>
+                        <br/>
+                        <paragraph>
+                           <content styleCode="bold">To report SUSPECTED ADVERSE REACTIONS, contact Aclaris Therapeutics, Inc at 1-833-225-2747 or FDA at 1-800-FDA-1088 or <content styleCode="underline">http://www.fda.gov/medwatch</content>.</content>
+                        </paragraph>
+                     </text>
+                  </highlight>
+               </excerpt>
+               <component>
+                  <section ID="S6.1">
+                     <id root="ad48b6ff-d7db-45d7-b4e9-10e3453573f6"/>
+                     <code code="42229-5" codeSystem="2.16.840.1.113883.6.1" displayName="SPL UNCLASSIFIED SECTION"/>
+                     <title>6.1 Clinical Trials Experience</title>
+                     <text>
+                        <paragraph>Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice.</paragraph>
+                        <paragraph>The data described below reflect exposure to ESKATA or vehicle in a total of 937 subjects with seborrheic keratoses that are raised. Overall, 42% of the subjects were male and 58% were female. Ninety-eight (98) percent of the subjects were Caucasian and the mean age was 68.7 years.</paragraph>
+                        <paragraph>At each visit, local skin reactions were graded for severity to determine the maximum severity after treatment. Table 1 presents the percentage of subjects with the local adverse reactions by the most severe grade reported during the course of the trials. </paragraph>
+                        <table width="75%">
+                           <caption>Table 1.	Percentage of Subjects with Local Skin Reactions by Severity </caption>
+                           <col width="14%" align="left" valign="middle"/>
+                           <col width="10%" align="center" valign="middle"/>
+                           <col width="12%" align="center" valign="middle"/>
+                           <col width="11%" align="center" valign="middle"/>
+                           <col width="10%" align="center" valign="middle"/>
+                           <col width="10%" align="center" valign="middle"/>
+                           <col width="12%" align="center" valign="middle"/>
+                           <col width="11%" align="center" valign="middle"/>
+                           <col width="10%" align="center" valign="middle"/>
+                           <thead>
+                              <tr styleCode="Botrule">
+                                 <th styleCode="Lrule Rrule"/>
+                                 <th styleCode="Rrule" colspan="4">ESKATA<br/>N=467</th>
+                                 <th styleCode="Rrule" colspan="4">Vehicle<br/>N=470</th>
+                              </tr>
+                              <tr>
+                                 <th styleCode="Lrule Rrule"/>
+                                 <th styleCode="Rrule">Mild</th>
+                                 <th styleCode="Rrule">Moderate</th>
+                                 <th styleCode="Rrule">Severe</th>
+                                 <th styleCode="Rrule">Total</th>
+                                 <th styleCode="Rrule">Mild</th>
+                                 <th styleCode="Rrule">Moderate</th>
+                                 <th styleCode="Rrule">Severe</th>
+                                 <th styleCode="Rrule">Total</th>
+                              </tr>
+                           </thead>
+                           <tbody>
+                              <tr styleCode="Botrule">
+                                 <td styleCode="Lrule Rrule">Erythema</td>
+                                 <td styleCode="Rrule">13</td>
+                                 <td styleCode="Rrule">67</td>
+                                 <td styleCode="Rrule">19</td>
+                                 <td styleCode="Rrule">
+                                    <content styleCode="bold">99</content>
+                                 </td>
+                                 <td styleCode="Rrule">29</td>
+                                 <td styleCode="Rrule">5</td>
+                                 <td styleCode="Rrule">&lt;1</td>
+                                 <td styleCode="Rrule">34</td>
+                              </tr>
+                              <tr styleCode="Botrule">
+                                 <td styleCode="Lrule Rrule">Stinging</td>
+                                 <td styleCode="Rrule">34</td>
+                                 <td styleCode="Rrule">49</td>
+                                 <td styleCode="Rrule">15</td>
+                                 <td styleCode="Rrule">
+                                    <content styleCode="bold">97</content>
+                                 </td>
+                                 <td styleCode="Rrule">9</td>
+                                 <td styleCode="Rrule">1</td>
+                                 <td styleCode="Rrule">&lt;1</td>
+                                 <td styleCode="Rrule">10</td>
+                              </tr>
+                              <tr styleCode="Botrule">
+                                 <td styleCode="Lrule Rrule">Edema</td>
+                                 <td styleCode="Rrule">28</td>
+                                 <td styleCode="Rrule">48</td>
+                                 <td styleCode="Rrule">15</td>
+                                 <td styleCode="Rrule">
+                                    <content styleCode="bold">91</content>
+                                 </td>
+                                 <td styleCode="Rrule">6</td>
+                                 <td styleCode="Rrule">1</td>
+                                 <td styleCode="Rrule">0</td>
+                                 <td styleCode="Rrule">6</td>
+                              </tr>
+                              <tr styleCode="Botrule">
+                                 <td styleCode="Lrule Rrule">Scaling</td>
+                                 <td styleCode="Rrule">49</td>
+                                 <td styleCode="Rrule">36</td>
+                                 <td styleCode="Rrule">5</td>
+                                 <td styleCode="Rrule">
+                                    <content styleCode="bold">90</content>
+                                 </td>
+                                 <td styleCode="Rrule">28</td>
+                                 <td styleCode="Rrule">5</td>
+                                 <td styleCode="Rrule">1</td>
+                                 <td styleCode="Rrule">33</td>
+                              </tr>
+                              <tr styleCode="Botrule">
+                                 <td styleCode="Lrule Rrule">Crusting</td>
+                                 <td styleCode="Rrule">34</td>
+                                 <td styleCode="Rrule">38</td>
+                                 <td styleCode="Rrule">8</td>
+                                 <td styleCode="Rrule">
+                                    <content styleCode="bold">81</content>
+                                 </td>
+                                 <td styleCode="Rrule">13</td>
+                                 <td styleCode="Rrule">5</td>
+                                 <td styleCode="Rrule">1</td>
+                                 <td styleCode="Rrule">19</td>
+                              </tr>
+                              <tr styleCode="Botrule">
+                                 <td styleCode="Lrule Rrule">Pruritus</td>
+                                 <td styleCode="Rrule">34</td>
+                                 <td styleCode="Rrule">18</td>
+                                 <td styleCode="Rrule">5</td>
+                                 <td styleCode="Rrule">
+                                    <content styleCode="bold">58</content>
+                                 </td>
+                                 <td styleCode="Rrule">7</td>
+                                 <td styleCode="Rrule">1</td>
+                                 <td styleCode="Rrule">&lt;1</td>
+                                 <td styleCode="Rrule">8</td>
+                              </tr>
+                              <tr styleCode="Botrule">
+                                 <td styleCode="Lrule Rrule">Hyperpigmentation</td>
+                                 <td styleCode="Rrule">32</td>
+                                 <td styleCode="Rrule">7</td>
+                                 <td styleCode="Rrule">&lt;1</td>
+                                 <td styleCode="Rrule">
+                                    <content styleCode="bold">39</content>
+                                 </td>
+                                 <td styleCode="Rrule">1</td>
+                                 <td styleCode="Rrule">&lt;1</td>
+                                 <td styleCode="Rrule">0</td>
+                                 <td styleCode="Rrule">1</td>
+                              </tr>
+                              <tr styleCode="Botrule">
+                                 <td styleCode="Lrule Rrule">Vesicles</td>
+                                 <td styleCode="Rrule">21</td>
+                                 <td styleCode="Rrule">3</td>
+                                 <td styleCode="Rrule">1</td>
+                                 <td styleCode="Rrule">
+                                    <content styleCode="bold">24</content>
+                                 </td>
+                                 <td styleCode="Rrule">&lt;1</td>
+                                 <td styleCode="Rrule">0</td>
+                                 <td styleCode="Rrule">0</td>
+                                 <td styleCode="Rrule">&lt;1</td>
+                              </tr>
+                              <tr styleCode="Botrule">
+                                 <td styleCode="Lrule Rrule">Hypopigmentation</td>
+                                 <td styleCode="Rrule">16</td>
+                                 <td styleCode="Rrule">3</td>
+                                 <td styleCode="Rrule">&lt;1</td>
+                                 <td styleCode="Rrule">
+                                    <content styleCode="bold">19</content>
+                                 </td>
+                                 <td styleCode="Rrule">1</td>
+                                 <td styleCode="Rrule">&lt;1</td>
+                                 <td styleCode="Rrule">0</td>
+                                 <td styleCode="Rrule">1</td>
+                              </tr>
+                              <tr styleCode="Botrule">
+                                 <td styleCode="Lrule Rrule">Erosion</td>
+                                 <td styleCode="Rrule">12</td>
+                                 <td styleCode="Rrule">2</td>
+                                 <td styleCode="Rrule">1</td>
+                                 <td styleCode="Rrule">
+                                    <content styleCode="bold">15</content>
+                                 </td>
+                                 <td styleCode="Rrule">&lt;1</td>
+                                 <td styleCode="Rrule">0</td>
+                                 <td styleCode="Rrule">0</td>
+                                 <td styleCode="Rrule">1</td>
+                              </tr>
+                              <tr styleCode="Botrule">
+                                 <td styleCode="Lrule Rrule">Ulceration</td>
+                                 <td styleCode="Rrule">6</td>
+                                 <td styleCode="Rrule">2</td>
+                                 <td styleCode="Rrule">&lt;1</td>
+                                 <td styleCode="Rrule">
+                                    <content styleCode="bold">9</content>
+                                 </td>
+                                 <td styleCode="Rrule">1</td>
+                                 <td styleCode="Rrule">1</td>
+                                 <td styleCode="Rrule">0</td>
+                                 <td styleCode="Rrule">2</td>
+                              </tr>
+                              <tr styleCode="Botrule">
+                                 <td styleCode="Lrule Rrule">Atrophy</td>
+                                 <td styleCode="Rrule">4</td>
+                                 <td styleCode="Rrule">0</td>
+                                 <td styleCode="Rrule">0</td>
+                                 <td styleCode="Rrule">
+                                    <content styleCode="bold">4</content>
+                                 </td>
+                                 <td styleCode="Rrule">0</td>
+                                 <td styleCode="Rrule">0</td>
+                                 <td styleCode="Rrule">0</td>
+                                 <td styleCode="Rrule">0</td>
+                              </tr>
+                              <tr>
+                                 <td styleCode="Lrule Rrule">Scarring</td>
+                                 <td styleCode="Rrule">3</td>
+                                 <td styleCode="Rrule">&lt;1</td>
+                                 <td styleCode="Rrule">&lt;1</td>
+                                 <td styleCode="Rrule">
+                                    <content styleCode="bold">3</content>
+                                 </td>
+                                 <td styleCode="Rrule">0</td>
+                                 <td styleCode="Rrule">0</td>
+                                 <td styleCode="Rrule">0</td>
+                                 <td styleCode="Rrule">0</td>
+                              </tr>
+                           </tbody>
+                        </table>
+                        <paragraph>Common local skin reactions observed 10 minutes after treatment include: erythema (98%), stinging (93%), edema (85%), pruritus (32%), and vesiculation (18%).</paragraph>
+                        <paragraph>Common local skin reactions observed 1 week after treatment are scaling (72%), erythema (66%), crusting (67%), pruritus (18%), erosion (9%), and ulceration (4%).</paragraph>
+                        <paragraph>Common local skin reactions observed 15 weeks after the initial treatment are erythema (21%), hyperpigmentation (18%), scaling (16%), crusting (12%), and hypopigmentation (7%).</paragraph>
+                        <paragraph>Less common adverse reactions occurring in ≥ 0.5% of subjects treated with ESKATA include eyelid edema (0.6%) and herpes zoster (0.6%).</paragraph>
+                     </text>
+                     <effectiveTime value="20190327"/>
+                  </section>
+               </component>
+               <component>
+                  <section ID="S6.2">
+                     <id root="1f9f8411-673f-4fa3-a3d6-e849cede652b"/>
+                     <code code="42229-5" codeSystem="2.16.840.1.113883.6.1" displayName="SPL UNCLASSIFIED SECTION"/>
+                     <title>6.2 Postmarketing Experience</title>
+                     <text>
+                        <paragraph>The following adverse reactions have been identified during post-approval use of ESKATA. Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.</paragraph>
+                        <paragraph>
+                           <content styleCode="italics">Skin and subcutaneous tissues disorders</content>: crepitus</paragraph>
+                     </text>
+                     <effectiveTime value="20190327"/>
+                  </section>
+               </component>
+            </section>
+         </component>
+         <component>
+            <section ID="S8">
+               <id root="b1070a94-0e84-431b-bdfa-202ca157278c"/>
+               <code code="43684-0" codeSystem="2.16.840.1.113883.6.1" displayName="USE IN SPECIFIC POPULATIONS SECTION"/>
+               <title>8. USE IN SPECIFIC POPULATIONS</title>
+               <effectiveTime value="20190327"/>
+               <component>
+                  <section ID="S8.1">
+                     <id root="584ea0ca-f3dc-4bed-9ff8-b2f8bc47b599"/>
+                     <code code="42228-7" codeSystem="2.16.840.1.113883.6.1" displayName="PREGNANCY SECTION"/>
+                     <title>8.1 Pregnancy</title>
+                     <effectiveTime value="20190327"/>
+                     <component>
+                        <section>
+                           <id root="f970826c-d84c-4049-9ab3-a6562ce10f72"/>
+                           <code code="42229-5" codeSystem="2.16.840.1.113883.6.1" displayName="SPL UNCLASSIFIED SECTION"/>
+                           <text>
+                              <paragraph>
+                                 <content styleCode="underline">Risk Summary</content>
+                              </paragraph>
+                              <paragraph>Hydrogen peroxide is not absorbed systemically following topical administration, and maternal use is not expected to result in fetal exposure to the drug.</paragraph>
+                           </text>
+                           <effectiveTime value="20190327"/>
+                        </section>
+                     </component>
+                  </section>
+               </component>
+               <component>
+                  <section ID="S8.2">
+                     <id root="2fc121a0-b6d5-4118-96c3-fe04820e6101"/>
+                     <code code="77290-5" codeSystem="2.16.840.1.113883.6.1" displayName="LACTATION SECTION"/>
+                     <title>8.2 Lactation</title>
+                     <effectiveTime value="20190327"/>
+                     <component>
+                        <section>
+                           <id root="661b1c32-430a-4962-bdef-99013b171079"/>
+                           <code code="42229-5" codeSystem="2.16.840.1.113883.6.1" displayName="SPL UNCLASSIFIED SECTION"/>
+                           <text>
+                              <paragraph>
+                                 <content styleCode="underline">Risk Summary</content>
+                              </paragraph>
+                              <paragraph>Hydrogen peroxide is not absorbed systemically by the mother following topical administration, and breastfeeding is not expected to result in exposure of the child to hydrogen peroxide.</paragraph>
+                           </text>
+                           <effectiveTime value="20190327"/>
+                        </section>
+                     </component>
+                  </section>
+               </component>
+               <component>
+                  <section ID="S8.4">
+                     <id root="36446fe9-9cbd-4a28-bd72-4feb1a4fbff8"/>
+                     <code code="34081-0" codeSystem="2.16.840.1.113883.6.1" displayName="PEDIATRIC USE SECTION"/>
+                     <title>8.4 Pediatric Use</title>
+                     <text>
+                        <paragraph>Seborrheic keratosis is not seen in the pediatric population.  </paragraph>
+                     </text>
+                     <effectiveTime value="20190327"/>
+                  </section>
+               </component>
+               <component>
+                  <section ID="S8.5">
+                     <id root="ab2730d7-ef57-479d-b8f5-601592d015eb"/>
+                     <code code="34082-8" codeSystem="2.16.840.1.113883.6.1" displayName="GERIATRIC USE SECTION"/>
+                     <title>8.5 Geriatric Use</title>
+                     <text>
+                        <paragraph>Of the 841 subjects treated with ESKATA in the clinical trials, 70% were 65 years of age and older and 26% were 75 years of age and older. No overall differences in safety or effectiveness were observed between these subjects and younger subjects.</paragraph>
+                     </text>
+                     <effectiveTime value="20190327"/>
+                  </section>
+               </component>
+            </section>
+         </component>
+         <component>
+            <section ID="S10">
+               <id root="8b064fbd-28ac-4581-9bdb-8f9a2b08a93c"/>
+               <code code="34088-5" codeSystem="2.16.840.1.113883.6.1" displayName="OVERDOSAGE SECTION"/>
+               <title>10. OVERDOSE</title>
+               <text>
+                  <paragraph>Topical overdosing of ESKATA could result in an increased incidence and severity of local skin reactions.</paragraph>
+               </text>
+               <effectiveTime value="20190327"/>
+            </section>
+         </component>
+         <component>
+            <section ID="S11">
+               <id root="09082c66-6d64-4ad0-a60c-01c91a222beb"/>
+               <code code="34089-3" codeSystem="2.16.840.1.113883.6.1" displayName="DESCRIPTION SECTION"/>
+               <title>11. DESCRIPTION</title>
+               <text>
+                  <paragraph>ESKATA (hydrogen peroxide) topical solution, 40% (w/w) is a clear, colorless solution for topical administration, which contains the active ingredient, hydrogen peroxide.</paragraph>
+                  <paragraph>The chemical name of hydrogen peroxide is dihydrogen dioxide.</paragraph>
+                  <paragraph>The molecular formula of hydrogen peroxide is H<sub>2</sub>O<sub>2</sub> and the molecular weight is 34.01. Hydrogen peroxide is represented by the following structural formula:</paragraph>
+                  <renderMultiMedia referencedObject="MM5"/>
+                  <paragraph>ESKATA contains 40% (w/w) hydrogen peroxide in an aqueous solution of isopropyl alcohol and water.</paragraph>
+               </text>
+               <effectiveTime value="20190327"/>
+               <component>
+                  <observationMedia ID="MM5">
+                     <text>Chemical Structure</text>
+                     <value xsi:type="ED" mediaType="image/jpeg">
+                        <reference value="eskata-05.jpg"/>
+                     </value>
+                  </observationMedia>
+               </component>
+            </section>
+         </component>
+         <component>
+            <section ID="S12">
+               <id root="af847666-4146-4290-871c-4761d0e77f72"/>
+               <code code="34090-1" codeSystem="2.16.840.1.113883.6.1" displayName="CLINICAL PHARMACOLOGY SECTION"/>
+               <title>12. CLINICAL PHARMACOLOGY</title>
+               <effectiveTime value="20190327"/>
+               <component>
+                  <section ID="S12.1">
+                     <id root="146c98b4-eeff-48d9-92c4-254f9400c2a2"/>
+                     <code code="43679-0" codeSystem="2.16.840.1.113883.6.1" displayName="MECHANISM OF ACTION SECTION"/>
+                     <title>12.1 Mechanism of Action</title>
+                     <text>
+                        <paragraph>The mechanism of action for ESKATA for the treatment of seborrheic keratosis is unknown. </paragraph>
+                     </text>
+                     <effectiveTime value="20190327"/>
+                  </section>
+               </component>
+               <component>
+                  <section ID="S12.2">
+                     <id root="aeb0b23d-9b3d-424e-b654-c10a9a9359cd"/>
+                     <code code="43681-6" codeSystem="2.16.840.1.113883.6.1" displayName="PHARMACODYNAMICS SECTION"/>
+                     <title>12.2 Pharmacodynamics</title>
+                     <text>
+                        <paragraph>The pharmacodynamics of ESKATA in the treatment of seborrheic keratosis are unknown.</paragraph>
+                     </text>
+                     <effectiveTime value="20190327"/>
+                  </section>
+               </component>
+               <component>
+                  <section ID="S12.3">
+                     <id root="fe51b607-2f4e-4f20-ad24-e572b657569e"/>
+                     <code code="43682-4" codeSystem="2.16.840.1.113883.6.1" displayName="PHARMACOKINETICS SECTION"/>
+                     <title>12.3 Pharmacokinetics</title>
+                     <text>
+                        <paragraph>Following application of ESKATA in patients with seborrheic keratosis lesions, hydrogen peroxide rapidly dissociates into water and reactive oxygen species. Indirect assessment of reactive oxygen species in patients with seborrheic keratosis lesions did not demonstrate any systemic absorption of hydrogen peroxide.</paragraph>
+                     </text>
+                     <effectiveTime value="20190327"/>
+                  </section>
+               </component>
+            </section>
+         </component>
+         <component>
+            <section ID="S13">
+               <id root="7be5bee8-4490-49f2-9d79-f0fffe3a7563"/>
+               <code code="43680-8" codeSystem="2.16.840.1.113883.6.1" displayName="NONCLINICAL TOXICOLOGY SECTION"/>
+               <title>13. NONCLINICAL TOXICOLOGY</title>
+               <effectiveTime value="20190327"/>
+               <component>
+                  <section ID="S13.1">
+                     <id root="448b5caa-f301-4035-9712-a3ad3f1de5ec"/>
+                     <code code="34083-6" codeSystem="2.16.840.1.113883.6.1" displayName="CARCINOGENESIS &amp; MUTAGENESIS &amp; IMPAIRMENT OF FERTILITY SECTION"/>
+                     <title>13.1 Carcinogenesis, Mutagenesis, Impairment of Fertility</title>
+                     <text>
+                        <paragraph>Long-term animal studies have not been performed to evaluate the carcinogenic potential of ESKATA or hydrogen peroxide.</paragraph>
+                        <paragraph>Hydrogen peroxide has been found to exhibit positive results in in vitro tests for genotoxicity, but has not exhibited positive results in in vivo tests for genotoxicity<content styleCode="italics">, </content>presumably due to the rapid metabolism of hydrogen peroxide.</paragraph>
+                        <paragraph>The effects of hydrogen peroxide on fertility have not been evaluated. Hydrogen peroxide has been associated with effects on sperm function and elevated testicular hydrogen peroxide concentration has been implicated in male infertility, although in vivo, no effect of hydrogen peroxide on sperm function has been demonstrated.</paragraph>
+                     </text>
+                     <effectiveTime value="20190327"/>
+                  </section>
+               </component>
+            </section>
+         </component>
+         <component>
+            <section ID="S14">
+               <id root="16f8564f-a5b6-4d23-99aa-90a40f78e137"/>
+               <code code="34092-7" codeSystem="2.16.840.1.113883.6.1" displayName="CLINICAL STUDIES SECTION"/>
+               <title>14. CLINICAL STUDIES</title>
+               <text>
+                  <paragraph>In two double-blind, vehicle-controlled clinical trials, 937 subjects with 4 clinically typical seborrheic keratoses that are raised on the face, trunk, or extremities were randomized to treatment with either ESKATA or vehicle.  Subjects ranged from 42 to 91 years of age (mean 68.7 years), 58% percent were female, and 98% were Caucasian. A total of 925 subjects completed the trials. Each lesion was treated with 4 applications, at baseline and again at Day 22, if needed, and subjects were followed through Day 106. </paragraph>
+                  <paragraph>Efficacy was assessed at Day 106. Success rate was defined as the proportion of subjects achieving "clear" on the Physician's Lesion Assessment Scale for all 4 treated lesions. Efficacy was also assessed for the proportion of subjects achieving "clear" on the Physician's Lesion Assessment Scale for at least 3 of 4 lesions. Table 3 presents the efficacy results for the two clinical trials.</paragraph>
+                  <table width="75%">
+                     <caption>Table 2.	Percentage of Subjects Achieving Clearance of Target Lesions at Day 106 in Study 1 and Study 2</caption>
+                     <col width="20%" align="center" valign="top"/>
+                     <col width="20%" align="center" valign="top"/>
+                     <col width="20%" align="center" valign="top"/>
+                     <col width="20%" align="center" valign="top"/>
+                     <col width="20%" align="center" valign="top"/>
+                     <thead>
+                        <tr styleCode="Botrule">
+                           <th styleCode="Lrule Rrule"/>
+                           <th styleCode="Rrule" colspan="2">Study 1</th>
+                           <th styleCode="Rrule" colspan="2">Study 2</th>
+                        </tr>
+                        <tr>
+                           <th styleCode="Lrule Rrule"/>
+                           <th styleCode="Rrule">ESKATA<br/>N=223</th>
+                           <th styleCode="Rrule">Vehicle<br/>N=227</th>
+                           <th styleCode="Rrule">ESKATA<br/>N=244</th>
+                           <th styleCode="Rrule">Vehicle<br/>N=243</th>
+                        </tr>
+                     </thead>
+                     <tbody>
+                        <tr styleCode="Botrule">
+                           <td styleCode="Lrule Rrule">All 4 lesions "Clear"</td>
+                           <td styleCode="Rrule">4%</td>
+                           <td styleCode="Rrule">0%</td>
+                           <td styleCode="Rrule">8%</td>
+                           <td styleCode="Rrule">0%</td>
+                        </tr>
+                        <tr>
+                           <td styleCode="Lrule Rrule">At least 3 of 4 lesions "Clear"</td>
+                           <td styleCode="Rrule">13%</td>
+                           <td styleCode="Rrule">0%</td>
+                           <td styleCode="Rrule">23%</td>
+                           <td styleCode="Rrule">0%</td>
+                        </tr>
+                     </tbody>
+                  </table>
+               </text>
+               <effectiveTime value="20190327"/>
+            </section>
+         </component>
+         <component>
+            <section ID="S16">
+               <id root="2f416865-2212-4c50-add4-58be32242be9"/>
+               <code code="34069-5" codeSystem="2.16.840.1.113883.6.1" displayName="HOW SUPPLIED SECTION"/>
+               <title>16. HOW SUPPLIED/STORAGE AND HANDLING</title>
+               <text>
+                  <paragraph>ESKATA (hydrogen peroxide) topical solution, 40% (w/w) is a clear, colorless solution and is supplied in a unit dose package.  The available carton packages are presented below:</paragraph>
+                  <table width="75%">
+                     <col width="20%" align="center" valign="middle"/>
+                     <col width="20%" align="center" valign="middle"/>
+                     <col width="20%" align="center" valign="middle"/>
+                     <col width="20%" align="center" valign="middle"/>
+                     <col width="20%" align="center" valign="middle"/>
+                     <thead>
+                        <tr>
+                           <th styleCode="Lrule Rrule" valign="bottom">Dosage Strength</th>
+                           <th styleCode="Rrule">Fill Volume</th>
+                           <th styleCode="Rrule" valign="top">Deliverable Volume</th>
+                           <th styleCode="Rrule" valign="top">Number of unit dose packages per carton</th>
+                           <th styleCode="Rrule">NDC#</th>
+                        </tr>
+                     </thead>
+                     <tbody>
+                        <tr styleCode="Botrule">
+                           <td styleCode="Lrule Rrule" rowspan="6" valign="top">40% (w/w)</td>
+                           <td styleCode="Rrule" rowspan="3">1.5 mL</td>
+                           <td styleCode="Rrule" rowspan="3">0.7 mL</td>
+                           <td styleCode="Rrule">1</td>
+                           <td styleCode="Rrule">71180-001-01</td>
+                        </tr>
+                        <tr styleCode="Botrule">
+                           <td styleCode="Rrule">3</td>
+                           <td styleCode="Rrule">71180-001-03</td>
+                        </tr>
+                        <tr styleCode="Botrule">
+                           <td styleCode="Rrule">12</td>
+                           <td styleCode="Rrule">71180-001-12</td>
+                        </tr>
+                        <tr styleCode="Botrule">
+                           <td styleCode="Rrule" rowspan="3">2.2 mL</td>
+                           <td styleCode="Rrule" rowspan="3">1.3 mL</td>
+                           <td styleCode="Rrule">1</td>
+                           <td styleCode="Rrule">71180-002-01</td>
+                        </tr>
+                        <tr styleCode="Botrule">
+                           <td styleCode="Rrule">3</td>
+                           <td styleCode="Rrule">71180-002-03</td>
+                        </tr>
+                        <tr>
+                           <td styleCode="Rrule">12</td>
+                           <td styleCode="Rrule">71180-002-12</td>
+                        </tr>
+                     </tbody>
+                  </table>
+               </text>
+               <effectiveTime value="20190327"/>
+               <component>
+                  <section>
+                     <id root="5c617b5b-5ac6-4fcd-88cf-3964ca98c2e8"/>
+                     <code code="44425-7" codeSystem="2.16.840.1.113883.6.1" displayName="STORAGE AND HANDLING SECTION"/>
+                     <text>
+                        <paragraph>Store ESKATA at controlled room temperature of 20°C to 25°C (68°F to 77°F), excursions permitted between 15°C and 30°C (59° F and 86° F).</paragraph>
+                     </text>
+                     <effectiveTime value="20190327"/>
+                  </section>
+               </component>
+            </section>
+         </component>
+         <component>
+            <section ID="S17">
+               <id root="b9558cb7-6e6a-4693-bfda-10ca56f8e119"/>
+               <code code="34076-0" codeSystem="2.16.840.1.113883.6.1" displayName="INFORMATION FOR PATIENTS SECTION"/>
+               <title>17. PATIENT COUNSELING INFORMATION</title>
+               <text>
+                  <paragraph>Advise the patient to read the FDA-approved patient labeling (Patient Information).</paragraph>
+               </text>
+               <effectiveTime value="20190327"/>
+               <component>
+                  <section>
+                     <id root="9d03969a-4d26-4ad2-aa2b-e1dc2d035865"/>
+                     <code code="42229-5" codeSystem="2.16.840.1.113883.6.1" displayName="SPL UNCLASSIFIED SECTION"/>
+                     <text>
+                        <paragraph>
+                           <content styleCode="bold underline">Ophthalmic Adverse Reactions</content>
+                        </paragraph>
+                        <paragraph>Inform patients that severe eye injury can occur with ESKATA application.  Advise patients to inform the healthcare provider immediately if ESKATA runs into eyes, mouth, or nose during administration <content styleCode="italics">[see <linkHtml href="#S5.1">Warnings and Precautions (5.1)</linkHtml>]</content>.</paragraph>
+                     </text>
+                     <effectiveTime value="20190327"/>
+                  </section>
+               </component>
+               <component>
+                  <section>
+                     <id root="3991c2ae-8dec-4851-9927-4d7f2d31397f"/>
+                     <code code="42229-5" codeSystem="2.16.840.1.113883.6.1" displayName="SPL UNCLASSIFIED SECTION"/>
+                     <text>
+                        <paragraph>
+                           <content styleCode="bold underline">Local Skin Reactions</content>
+                        </paragraph>
+                        <paragraph>Inform patients that treatment with ESKATA may lead to local skin reactions <content styleCode="italics">[see <linkHtml href="#S5.2">Warnings and Precautions (5.2)</linkHtml>]</content>.</paragraph>
+                     </text>
+                     <effectiveTime value="20190327"/>
+                  </section>
+               </component>
+            </section>
+         </component>
+         <component>
+            <section>
+               <id root="66be65be-83d1-440c-a105-f99d5024a43e"/>
+               <code code="42229-5" codeSystem="2.16.840.1.113883.6.1" displayName="SPL UNCLASSIFIED SECTION"/>
+               <text>
+                  <paragraph>
+                     <content styleCode="bold">Manufactured &amp; Packaged by:</content>
+                     <br/>James Alexander Corp.  <br/>845 Route 94<br/>Blairstown, NJ  07825<br/>United States</paragraph>
+                  <paragraph>
+                     <content styleCode="bold">For:</content>
+                     <br/>Aclaris Therapeutics, Inc. <br/>640 Lee Road, Suite 200<br/>Wayne, PA  19087 <br/>United States</paragraph>
+                  <paragraph>US Patent Numbers: US 7,381,427, US 9,675,639, US 9,980,983 and US 10,098,910</paragraph>
+               </text>
+               <effectiveTime value="20190327"/>
+            </section>
+         </component>
+         <component>
+            <section>
+               <id root="4eb68851-398b-4563-aa3c-508c7dbe085a"/>
+               <code code="42230-3" codeSystem="2.16.840.1.113883.6.1" displayName="SPL PATIENT PACKAGE INSERT SECTION"/>
+               <text>
+                  <table width="100%">
+                     <col width="2%" align="left" valign="top"/>
+                     <col width="40%" align="left" valign="top"/>
+                     <col width="43%" align="left" valign="top"/>
+                     <col width="15%" align="right" valign="top"/>
+                     <tfoot>
+                        <tr>
+                           <td align="left" colspan="3" valign="top">This Patient Information has been approved by the U.S. Food and Drug Administration</td>
+                           <td align="right" valign="top">Issued: December 2017</td>
+                        </tr>
+                     </tfoot>
+                     <tbody>
+                        <tr styleCode="Botrule">
+                           <td styleCode="Lrule Rrule" colspan="4" align="center">Patient Information<br/>ESKATA<sup>®</sup> (es-KAH-tah)<br/>(hydrogen peroxide), topical solution</td>
+                        </tr>
+                        <tr styleCode="Botrule">
+                           <td styleCode="Lrule Rrule" colspan="4">
+                              <content styleCode="bold">IMPORTANT:</content>  ESKATA topical solution is for use as an in-office treatment. ESKATA is applied by your healthcare provider and is not for use at home. </td>
+                        </tr>
+                        <tr styleCode="Botrule">
+                           <td styleCode="Lrule Rrule" colspan="4">
+                              <content styleCode="bold">What is ESKATA ?</content>
+                              <br/>ESKATA is a prescription medicine used to treat seborrheic keratoses that are raised.</td>
+                        </tr>
+                        <tr styleCode="Botrule">
+                           <td styleCode="Lrule Rrule" colspan="4">
+                              <content styleCode="bold">Before treatment with ESKATA, tell your healthcare provider about all of your medical conditions, including if you:</content>
+                              <list>
+                                 <item>are being treated or have had treatments for seborrheic keratosis</item>
+                                 <item>have other skin problems</item>
+                                 <item>are pregnant or plan to become pregnant.  </item>
+                                 <item>are breastfeeding or plan to breastfeed. </item>
+                              </list>
+                              <content styleCode="bold">Tell your healthcare provider about all the medications you take,</content> including prescription and over-the-counter medicines, vitamins and herbal supplements. </td>
+                        </tr>
+                        <tr styleCode="Botrule">
+                           <td styleCode="Lrule Rrule" colspan="4">
+                              <content styleCode="bold">How should I receive ESKATA ?</content>
+                              <list>
+                                 <item>Your healthcare provider will apply ESKATA to your seborrheic keratosis lesions.</item>
+                                 <item>Your healthcare provider may apply ESKATA again, about 3 weeks after your treatment if your treated lesions are not completely gone. </item>
+                              </list>
+                           </td>
+                        </tr>
+                        <tr>
+                           <td styleCode="Lrule Rrule" colspan="4">
+                              <content styleCode="bold">What are the possible side effects with ESKATA?<br/>ESKATA can cause serious side effects, including:</content>
+                              <list>
+                                 <item>
+                                    <content styleCode="bold">Eye problems</content>.  Eye problems can happen if ESKATA  gets into your eyes, including:</item>
+                              </list>
+                           </td>
+                        </tr>
+                        <tr>
+                           <td styleCode="Lrule"/>
+                           <td>
+                              <list listType="unordered" styleCode="circle">
+                                 <item>ulcers or small holes in your eyes</item>
+                                 <item>scarring</item>
+                                 <item>redness</item>
+                                 <item>irritation</item>
+                              </list>
+                           </td>
+                           <td styleCode="Rrule" colspan="2">
+                              <list listType="unordered" styleCode="circle">
+                                 <item>eyelid swelling</item>
+                                 <item>severe eye pain</item>
+                                 <item>permanent eye injury, including blindness</item>
+                              </list>
+                           </td>
+                        </tr>
+                        <tr>
+                           <td styleCode="Lrule"/>
+                           <td colspan="3" styleCode="Rrule">
+                              <content styleCode="bold">If ESKATA accidentally gets into your eyes, your healthcare provider will tell you to flush them well with water for 15 to 30 minutes. Your healthcare provider may send you to another healthcare care provider if needed.</content>
+                           </td>
+                        </tr>
+                        <tr styleCode="Botrule">
+                           <td styleCode="Lrule Rrule" colspan="4">
+                              <list>
+                                 <item>
+                                    <content styleCode="bold">Local skin reactions</content>. Skin reactions have happened in and around the treatment area after application of ESKATA. Severe skin reactions can include: breakdown of the outer layer of the skin (erosion), ulcers, blisters and scarring. Tell your healthcare provider if you have any skin reactions during treatment with ESKATA. </item>
+                              </list>
+                              <content styleCode="bold">The most common side effects of ESKATA include</content>: itching, stinging, crusting, swelling, redness and scaling.<br/>Your healthcare provider will not apply another treatment of ESKATA if your treated area is still irritated from the previous treatment.<br/>Tell your healthcare provider right away if ESKATA gets into your eyes, mouth or nose during application.<br/>These are not all of the possible side effects of ESKATA. <br/>Call your doctor for medical advice about side effects. You may report side effects to FDA at 1-800-FDA-1088.</td>
+                        </tr>
+                        <tr styleCode="Botrule">
+                           <td styleCode="Lrule Rrule" colspan="4">
+                              <content styleCode="bold">General information about the safe and effective use of ESKATA.</content>
+                              <br/>Medicines are sometimes prescribed for purposes other than those listed in a Patient Information leaflet.  You can ask your pharmacist or healthcare provider for information that is written for healthcare professionals.</td>
+                        </tr>
+                        <tr>
+                           <td styleCode="Lrule Rrule" colspan="4">
+                              <content styleCode="bold">What are the ingredients in ESKATA?</content>
+                              <br/>
+                              <content styleCode="bold">Active ingredient:</content> hydrogen peroxide<br/>
+                              <content styleCode="bold">Inactive ingredients:</content> isopropyl alcohol and water.<br/>Manufactured &amp; Packaged by: James Alexander Corp.,  845 Route 94, Blairstown, NJ  07825 United States<br/>For: Aclaris Therapeutics, Inc., 640 Lee Rd, Suite 200, Wayne, PA  19087 United States <br/>US Patent Number: US 7,381,427, US 9,675,639, US 9,980,983 and US 10,098,910</td>
+                        </tr>
+                     </tbody>
+                  </table>
+               </text>
+               <effectiveTime value="20190327"/>
+            </section>
+         </component>
+         <component>
+            <section>
+               <id root="f9dc6fb0-3520-48f1-a697-563c4dd2a2c8"/>
+               <code code="51945-4" codeSystem="2.16.840.1.113883.6.1" displayName="PACKAGE LABEL.PRINCIPAL DISPLAY PANEL"/>
+               <title>PRINCIPAL DISPLAY PANEL - 0.7 mL Applicator Carton</title>
+               <text>
+                  <paragraph>NDC: 71180-001-03</paragraph>
+                  <paragraph>3 Units<br/>Rx Only<br/>Store at 20-25°C</paragraph>
+                  <paragraph>ACLARIS<br/>THERAPEUTICS</paragraph>
+                  <paragraph>eskata™<br/>(hydrogen peroxide) topical solution, 40% (w/w)</paragraph>
+                  <paragraph>Single use applicator/0.7 mL. For Topical Use Only.</paragraph>
+                  <paragraph>Marketed by<br/>Aclaris Therapeutics, Inc.<br/>Malvern, PA 19355<br/>www.aclaristx.com</paragraph>
+                  <paragraph>US Patent 7,381,427</paragraph>
+                  <renderMultiMedia referencedObject="MM6"/>
+               </text>
+               <effectiveTime value="20190327"/>
+               <component>
+                  <observationMedia ID="MM6">
+                     <text>PRINCIPAL DISPLAY PANEL - 0.7 mL Applicator Carton</text>
+                     <value xsi:type="ED" mediaType="image/jpeg">
+                        <reference value="eskata-06.jpg"/>
+                     </value>
+                  </observationMedia>
+               </component>
+            </section>
+         </component>
+         <component>
+            <section>
+               <id root="af7d291f-289d-4743-b64a-19c4e02ee94c"/>
+               <code code="51945-4" codeSystem="2.16.840.1.113883.6.1" displayName="PACKAGE LABEL.PRINCIPAL DISPLAY PANEL"/>
+               <title>PRINCIPAL DISPLAY PANEL - 1.3 mL Applicator Carton</title>
+               <text>
+                  <paragraph>NDC: 71180-002-03</paragraph>
+                  <paragraph>3 Units<br/>Rx Only<br/>Store at 20-25°C</paragraph>
+                  <paragraph>ACLARIS<br/>THERAPEUTICS</paragraph>
+                  <paragraph>eskata™<br/>(hydrogen peroxide) topical solution, 40% (w/w)</paragraph>
+                  <paragraph>Single use applicator/1.3 mL. For Topical Use Only.</paragraph>
+                  <paragraph>Marketed by<br/>Aclaris Therapeutics, Inc.<br/>Malvern, PA 19355<br/>www.aclaristx.com</paragraph>
+                  <paragraph>US Patent 7,381,427</paragraph>
+                  <renderMultiMedia referencedObject="MM7"/>
+               </text>
+               <effectiveTime value="20190327"/>
+               <component>
+                  <observationMedia ID="MM7">
+                     <text>PRINCIPAL DISPLAY PANEL - 1.3 mL Applicator Carton</text>
+                     <value xsi:type="ED" mediaType="image/jpeg">
+                        <reference value="eskata-07.jpg"/>
+                     </value>
+                  </observationMedia>
+               </component>
+            </section>
+         </component>
+      </structuredBody>
+   </component>
+</document>

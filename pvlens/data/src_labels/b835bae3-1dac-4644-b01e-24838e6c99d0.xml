@@ -1,0 +1,1376 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet href="https://www.accessdata.fda.gov/spl/stylesheet/spl.xsl" type="text/xsl"?>
+<document xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:hl7-org:v3 https://www.accessdata.fda.gov/spl/schema/spl.xsd">
+   <id root="b835bae3-1dac-4644-b01e-24838e6c99d0"/>
+   <code code="34391-3" codeSystem="2.16.840.1.113883.6.1" displayName="HUMAN PRESCRIPTION DRUG LABEL"/>
+   <title mediaType="text/x-hl7-title+xml">
+      <content styleCode="bold">These highlights do not include all the information needed to use ANTHIM safely and effectively. See full prescribing information for ANTHIM.
+		<br/>
+         <br/>ANTHIM<sup>®</sup> (obiltoxaximab) injection, for intravenous use
+		<br/>Initial U.S. Approval: 2016
+		<br/>
+         <br/>
+      </content>
+   </title>
+   <effectiveTime value="20230607"/>
+   <setId root="39ad8799-00a4-4fc8-9852-c0536350c474"/>
+   <versionNumber value="8"/>
+   <author>
+      <time/>
+      <assignedEntity>
+         <representedOrganization>
+            <id extension="083819511" root="1.3.6.1.4.1.519.1"/>
+            <name>Elusys Therapeutics, Inc.</name>
+            <assignedEntity>
+               <assignedOrganization>
+                  <assignedEntity>
+                     <assignedOrganization>
+                        <id extension="093149750" root="1.3.6.1.4.1.519.1"/>
+                        <name>Lonza Biologics Inc.</name>
+                     </assignedOrganization>
+                     <performance>
+                        <actDefinition>
+                           <code code="C82401" codeSystem="2.16.840.1.113883.3.26.1.1" displayName="API MANUFACTURE"/>
+                           <product>
+                              <manufacturedProduct classCode="MANU">
+                                 <manufacturedMaterialKind>
+                                    <code code="69604-204" codeSystem="2.16.840.1.113883.6.69"/>
+                                 </manufacturedMaterialKind>
+                              </manufacturedProduct>
+                           </product>
+                        </actDefinition>
+                     </performance>
+                     <performance>
+                        <actDefinition>
+                           <code code="C25391" codeSystem="2.16.840.1.113883.3.26.1.1" displayName="ANALYSIS"/>
+                           <product>
+                              <manufacturedProduct classCode="MANU">
+                                 <manufacturedMaterialKind>
+                                    <code code="69604-204" codeSystem="2.16.840.1.113883.6.69"/>
+                                 </manufacturedMaterialKind>
+                              </manufacturedProduct>
+                           </product>
+                        </actDefinition>
+                     </performance>
+                  </assignedEntity>
+                  <assignedEntity>
+                     <assignedOrganization>
+                        <id extension="006453670" root="1.3.6.1.4.1.519.1"/>
+                        <name>Labcorp Early Development Laboratories Ltd.</name>
+                     </assignedOrganization>
+                     <performance>
+                        <actDefinition>
+                           <code code="C25391" codeSystem="2.16.840.1.113883.3.26.1.1" displayName="ANALYSIS"/>
+                           <product>
+                              <manufacturedProduct classCode="MANU">
+                                 <manufacturedMaterialKind>
+                                    <code code="69604-204" codeSystem="2.16.840.1.113883.6.69"/>
+                                 </manufacturedMaterialKind>
+                              </manufacturedProduct>
+                           </product>
+                        </actDefinition>
+                     </performance>
+                  </assignedEntity>
+                  <assignedEntity>
+                     <assignedOrganization>
+                        <id extension="023050730" root="1.3.6.1.4.1.519.1"/>
+                        <name>Ajinomoto Althea, Inc.</name>
+                     </assignedOrganization>
+                     <performance>
+                        <actDefinition>
+                           <code code="C43360" codeSystem="2.16.840.1.113883.3.26.1.1" displayName="MANUFACTURE"/>
+                           <product>
+                              <manufacturedProduct classCode="MANU">
+                                 <manufacturedMaterialKind>
+                                    <code code="69604-204" codeSystem="2.16.840.1.113883.6.69"/>
+                                 </manufacturedMaterialKind>
+                              </manufacturedProduct>
+                           </product>
+                        </actDefinition>
+                     </performance>
+                     <performance>
+                        <actDefinition>
+                           <code code="C25391" codeSystem="2.16.840.1.113883.3.26.1.1" displayName="ANALYSIS"/>
+                           <product>
+                              <manufacturedProduct classCode="MANU">
+                                 <manufacturedMaterialKind>
+                                    <code code="69604-204" codeSystem="2.16.840.1.113883.6.69"/>
+                                 </manufacturedMaterialKind>
+                              </manufacturedProduct>
+                           </product>
+                        </actDefinition>
+                     </performance>
+                     <performance>
+                        <actDefinition>
+                           <code code="C84732" codeSystem="2.16.840.1.113883.3.26.1.1" displayName="LABEL"/>
+                           <product>
+                              <manufacturedProduct classCode="MANU">
+                                 <manufacturedMaterialKind>
+                                    <code code="69604-204" codeSystem="2.16.840.1.113883.6.69"/>
+                                 </manufacturedMaterialKind>
+                              </manufacturedProduct>
+                           </product>
+                        </actDefinition>
+                     </performance>
+                  </assignedEntity>
+                  <assignedEntity>
+                     <assignedOrganization>
+                        <id extension="151663234" root="1.3.6.1.4.1.519.1"/>
+                        <name>Nelson Laboratories</name>
+                     </assignedOrganization>
+                     <performance>
+                        <actDefinition>
+                           <code code="C25391" codeSystem="2.16.840.1.113883.3.26.1.1" displayName="ANALYSIS"/>
+                           <product>
+                              <manufacturedProduct classCode="MANU">
+                                 <manufacturedMaterialKind>
+                                    <code code="69604-204" codeSystem="2.16.840.1.113883.6.69"/>
+                                 </manufacturedMaterialKind>
+                              </manufacturedProduct>
+                           </product>
+                        </actDefinition>
+                     </performance>
+                  </assignedEntity>
+                  <assignedEntity>
+                     <assignedOrganization>
+                        <id extension="118935952" root="1.3.6.1.4.1.519.1"/>
+                        <name>West Services and Solutions LLC</name>
+                     </assignedOrganization>
+                     <performance>
+                        <actDefinition>
+                           <code code="C25391" codeSystem="2.16.840.1.113883.3.26.1.1" displayName="ANALYSIS"/>
+                           <product>
+                              <manufacturedProduct classCode="MANU">
+                                 <manufacturedMaterialKind>
+                                    <code code="69604-204" codeSystem="2.16.840.1.113883.6.69"/>
+                                 </manufacturedMaterialKind>
+                              </manufacturedProduct>
+                           </product>
+                        </actDefinition>
+                     </performance>
+                  </assignedEntity>
+               </assignedOrganization>
+            </assignedEntity>
+         </representedOrganization>
+      </assignedEntity>
+   </author>
+   <component>
+      <structuredBody>
+         <component>
+            <section>
+               <id root="0c19e1d9-597c-4bf8-ab9f-c8333bcfbb4d"/>
+               <code code="48780-1" codeSystem="2.16.840.1.113883.6.1" displayName="SPL PRODUCT DATA ELEMENTS SECTION"/>
+               <effectiveTime value="20221014"/>
+               <subject>
+                  <manufacturedProduct>
+                     <manufacturedProduct>
+                        <code code="69604-204" codeSystem="2.16.840.1.113883.6.69"/>
+                        <name>Anthim<suffix/>
+                        </name>
+                        <formCode code="C42986" codeSystem="2.16.840.1.113883.3.26.1.1" displayName="SOLUTION"/>
+                        <asEntityWithGeneric>
+                           <genericMedicine>
+                              <name>obiltoxaximab</name>
+                           </genericMedicine>
+                        </asEntityWithGeneric>
+                        <ingredient classCode="ACTIB">
+                           <quantity>
+                              <numerator value="100" unit="mg"/>
+                              <denominator value="1" unit="mL"/>
+                           </quantity>
+                           <ingredientSubstance>
+                              <code code="29Z5DNL48C" codeSystem="2.16.840.1.113883.4.9"/>
+                              <name>OBILTOXAXIMAB</name>
+                              <activeMoiety>
+                                 <activeMoiety>
+                                    <code code="29Z5DNL48C" codeSystem="2.16.840.1.113883.4.9"/>
+                                    <name>OBILTOXAXIMAB</name>
+                                 </activeMoiety>
+                              </activeMoiety>
+                           </ingredientSubstance>
+                        </ingredient>
+                        <asContent>
+                           <quantity>
+                              <numerator value="6" unit="mL"/>
+                              <denominator value="1"/>
+                           </quantity>
+                           <containerPackagedProduct>
+                              <code/>
+                              <formCode code="C43216" codeSystem="2.16.840.1.113883.3.26.1.1" displayName="VIAL, SINGLE-USE"/>
+                              <asContent>
+                                 <quantity>
+                                    <numerator value="1" unit="1"/>
+                                    <denominator value="1"/>
+                                 </quantity>
+                                 <containerPackagedProduct>
+                                    <code code="69604-204-02" codeSystem="2.16.840.1.113883.6.69"/>
+                                    <formCode code="C43182" codeSystem="2.16.840.1.113883.3.26.1.1" displayName="CARTON"/>
+                                 </containerPackagedProduct>
+                                 <subjectOf>
+                                    <marketingAct>
+                                       <code code="C53292" codeSystem="2.16.840.1.113883.3.26.1.1"/>
+                                       <statusCode code="active"/>
+                                       <effectiveTime>
+                                          <low value="20160318"/>
+                                       </effectiveTime>
+                                    </marketingAct>
+                                 </subjectOf>
+                              </asContent>
+                           </containerPackagedProduct>
+                           <subjectOf>
+                              <characteristic>
+                                 <code code="SPLCMBPRDTP" codeSystem="2.16.840.1.113883.1.11.19255"/>
+                                 <value code="C112160" codeSystem="2.16.840.1.113883.3.26.1.1" xsi:type="CV" displayName="Type 0: Not a Combination Product"/>
+                              </characteristic>
+                           </subjectOf>
+                        </asContent>
+                     </manufacturedProduct>
+                     <subjectOf>
+                        <approval>
+                           <id extension="BLA125509" root="2.16.840.1.113883.3.150"/>
+                           <code code="C73585" codeSystem="2.16.840.1.113883.3.26.1.1" displayName="BLA"/>
+                           <author>
+                              <territorialAuthority>
+                                 <territory>
+                                    <code code="USA" codeSystem="2.16.840.1.113883.5.28"/>
+                                 </territory>
+                              </territorialAuthority>
+                           </author>
+                        </approval>
+                     </subjectOf>
+                     <subjectOf>
+                        <marketingAct>
+                           <code code="C53292" codeSystem="2.16.840.1.113883.3.26.1.1"/>
+                           <statusCode code="active"/>
+                           <effectiveTime>
+                              <low value="20160318"/>
+                           </effectiveTime>
+                        </marketingAct>
+                     </subjectOf>
+                     <consumedIn>
+                        <substanceAdministration>
+                           <routeCode code="C38276" codeSystem="2.16.840.1.113883.3.26.1.1" displayName="INTRAVENOUS"/>
+                        </substanceAdministration>
+                     </consumedIn>
+                  </manufacturedProduct>
+               </subject>
+            </section>
+         </component>
+         <component>
+            <section ID="boxedwarning">
+               <id root="e0092956-6fd8-4591-a817-c8747a08c548"/>
+               <code code="34066-1" codeSystem="2.16.840.1.113883.6.1" displayName="BOXED WARNING SECTION"/>
+               <title mediaType="text/x-hl7-title+xml">WARNING: HYPERSENSITIVITY and ANAPHYLAXIS</title>
+               <text>
+                  <paragraph>
+                     <content styleCode="bold">Hypersensitivity and anaphylaxis have been reported during the intravenous infusion of ANTHIM. Due to the risk of hypersensitivity and anaphylaxis, ANTHIM should be administered in monitored settings by personnel trained and equipped to manage anaphylaxis. Monitor individuals who receive ANTHIM closely for signs and symptoms of hypersensitivity reactions throughout the infusion and for a period of time after administration. Stop ANTHIM infusion immediately and treat appropriately if hypersensitivity or anaphylaxis occurs <content styleCode="italics">[see Indications and Usage (<linkHtml href="#s0102">1.2</linkHtml>), Dosage and Administration (<linkHtml href="#s0204">2.4</linkHtml>) and Warnings and Precautions (<linkHtml href="#s0501">5.1</linkHtml>)].</content>
+                     </content>
+                  </paragraph>
+               </text>
+               <effectiveTime value="20160328"/>
+               <excerpt>
+                  <highlight>
+                     <text>
+                        <paragraph>WARNING: HYPERSENSITIVITY and ANAPHYLAXIS<br/>
+                           <content styleCode="italics">See full prescribing information for complete boxed warning.</content>
+                        </paragraph>
+                        <list listType="unordered" styleCode="Disc">
+                           <item>
+                              <content styleCode="bold">Hypersensitivity reactions, including anaphylaxis, have been reported during ANTHIM infusion (<linkHtml href="#s0501">5.1</linkHtml>)</content>
+                           </item>
+                           <item>
+                              <content styleCode="bold">ANTHIM should be administered in monitored settings by personnel trained and equipped to manage anaphylaxis (<linkHtml href="#s0102">1.2</linkHtml>, <linkHtml href="#s0204">2.4</linkHtml>, <linkHtml href="#s0501">5.1</linkHtml>)</content>
+                           </item>
+                           <item>
+                              <content styleCode="bold">Stop ANTHIM infusion immediately and treat appropriately if hypersensitivity or anaphylaxis occurs (<linkHtml href="#s0204">2.4</linkHtml>, <linkHtml href="#s0501">5.1</linkHtml>)</content>
+                           </item>
+                        </list>
+                     </text>
+                  </highlight>
+               </excerpt>
+            </section>
+         </component>
+         <component>
+            <section ID="s0100">
+               <id root="f5a8244f-9dce-417b-ad06-eab7488841a2"/>
+               <code code="34067-9" codeSystem="2.16.840.1.113883.6.1" displayName="INDICATIONS &amp; USAGE SECTION"/>
+               <title mediaType="text/x-hl7-title+xml">1 INDICATIONS AND USAGE</title>
+               <text/>
+               <effectiveTime value="20160328"/>
+               <excerpt>
+                  <highlight>
+                     <text>
+                        <paragraph>ANTHIM<sup>®</sup> is a monoclonal antibody directed against the protective antigen of <content styleCode="italics">Bacillus anthracis.</content> It is indicated in adult and pediatric patients for treatment of inhalational anthrax due to <content styleCode="italics">B. anthracis</content> in combination with appropriate antibacterial drugs and, for prophylaxis of inhalational anthrax when alternative therapies are not available or are not appropriate. (<linkHtml href="#s0101">1.1</linkHtml>)<br/>
+                           <br/>
+                           <content styleCode="underline">Limitations of Use</content>
+                        </paragraph>
+                        <list listType="unordered" styleCode="Disc">
+                           <item>ANTHIM should only be used for prophylaxis when its benefit for prevention of inhalational anthrax outweighs the risk of hypersensitivity and anaphylaxis. (<linkHtml href="#s0102">1.2</linkHtml>, <linkHtml href="#s0501">5.1</linkHtml>)</item>
+                           <item>The effectiveness of ANTHIM is based solely on efficacy studies in animal models of inhalational anthrax. (<linkHtml href="#s0102">1.2</linkHtml>, <linkHtml href="#s1400">14</linkHtml>)</item>
+                           <item>There have been no studies of the safety or pharmacokinetics (PK) of ANTHIM in the pediatric population. Dosing in pediatric patients was derived using a population PK approach. (<linkHtml href="#s0102">1.2</linkHtml>, <linkHtml href="#s0804">8.4</linkHtml>)</item>
+                           <item>ANTHIM does not have direct antibacterial activity. ANTHIM should be used in combination with appropriate antibacterial drugs. (<linkHtml href="#s0102">1.2</linkHtml>)</item>
+                           <item>ANTHIM is not expected to cross the blood-brain barrier and does not prevent or treat meningitis. (<linkHtml href="#s0102">1.2</linkHtml>)</item>
+                        </list>
+                     </text>
+                  </highlight>
+               </excerpt>
+               <component>
+                  <section ID="s0101">
+                     <id root="94ecc04d-ff14-4b1e-8ea5-26b6c50a9c99"/>
+                     <code code="42229-5" codeSystem="2.16.840.1.113883.6.1" displayName="SPL UNCLASSIFIED SECTION"/>
+                     <title mediaType="text/x-hl7-title+xml">1.1 Inhalational Anthrax</title>
+                     <text>
+                        <paragraph>ANTHIM is indicated in adult and pediatric patients for the treatment of inhalational anthrax due to <content styleCode="italics">Bacillus anthracis</content> in combination with appropriate antibacterial drugs.</paragraph>
+                        <paragraph>ANTHIM is indicated for prophylaxis of inhalational anthrax due to B. anthracis when alternative therapies are not available or not appropriate <content styleCode="italics">[see Indications and Usage (<linkHtml href="#s0102">1.2</linkHtml>)].</content>
+                        </paragraph>
+                     </text>
+                     <effectiveTime value="20160328"/>
+                  </section>
+               </component>
+               <component>
+                  <section ID="s0102">
+                     <id root="ea98c4cc-92d3-48f2-8a60-1054ce9a61b3"/>
+                     <code code="42229-5" codeSystem="2.16.840.1.113883.6.1" displayName="SPL UNCLASSIFIED SECTION"/>
+                     <title mediaType="text/x-hl7-title+xml">1.2 Limitations of Use</title>
+                     <text>
+                        <paragraph>ANTHIM should only be used for prophylaxis when its benefit for prevention of inhalational anthrax outweighs the risk of hypersensitivity and anaphylaxis <content styleCode="italics">[see Warnings and Precautions (<linkHtml href="#s0501">5.1</linkHtml>)].</content>
+                        </paragraph>
+                        <paragraph>The effectiveness of ANTHIM is based solely on efficacy studies in animal models of inhalational anthrax. It is not ethical or feasible to conduct controlled clinical trials with intentional exposure of humans to anthrax <content styleCode="italics">[see Clinical Studies (<linkHtml href="#s1400">14</linkHtml>)]</content>.</paragraph>
+                        <paragraph>Safety and PK of ANTHIM have been studied in adult healthy volunteers. There have been no studies of safety or PK of ANTHIM in the pediatric population. A population PK approach was used to derive intravenous infusion dosing regimens that are predicted to provide pediatric patients with exposure comparable to the observed exposure in adults <content styleCode="italics">[see Use in Specific Populations (<linkHtml href="#s0804">8.4</linkHtml>)]</content>.</paragraph>
+                        <paragraph>ANTHIM binds to the protective antigen (PA) component of <content styleCode="italics">B. anthracis</content> toxin; it does not have direct antibacterial activity. ANTHIM is not expected to cross the blood-brain barrier and does not prevent or treat meningitis. ANTHIM should be used in combination with appropriate antibacterial drugs.</paragraph>
+                     </text>
+                     <effectiveTime value="20160328"/>
+                  </section>
+               </component>
+            </section>
+         </component>
+         <component>
+            <section ID="s0200">
+               <id root="05bdb71e-c776-446b-bf3b-dc18cf7d6f45"/>
+               <code code="34068-7" codeSystem="2.16.840.1.113883.6.1" displayName="DOSAGE &amp; ADMINISTRATION SECTION"/>
+               <title mediaType="text/x-hl7-title+xml">2 DOSAGE AND ADMINISTRATION</title>
+               <text/>
+               <effectiveTime value="20191130"/>
+               <excerpt>
+                  <highlight>
+                     <text>
+                        <list listType="unordered" styleCode="Disc">
+                           <item>Pre-medicate with diphenhydramine. (<linkHtml href="#s0201">2.1</linkHtml>, <linkHtml href="#s0501">5.1</linkHtml>)</item>
+                           <item>Recommended Dosage of ANTHIM:
+										<list listType="unordered" styleCode="circle">
+                                 <item>Adult Patients: 16 mg/kg. (<linkHtml href="#s0201">2.1</linkHtml>)</item>
+                                 <item>Pediatric Patients: (<linkHtml href="#s0202">2.2</linkHtml>)
+											<list listType="unordered">
+                                       <item>
+                                          <caption>➢</caption> Greater than 40 kg: 16 mg/kg</item>
+                                       <item>
+                                          <caption>➢</caption> Greater than 15 kg to 40 kg: 24 mg/kg</item>
+                                       <item>
+                                          <caption>➢</caption> Less than or equal to 15 kg: 32 mg/kg</item>
+                                    </list>
+                                 </item>
+                              </list>
+                           </item>
+                           <item>Dilute the injection in 0.9% Sodium Chloride Injection, USP, before administering as an intravenous (IV) infusion over 1 hour and 30 minutes. (<linkHtml href="#s0203">2.3</linkHtml>)</item>
+                           <item>Administer ANTHIM in a monitored setting equipped to manage anaphylaxis. (<linkHtml href="#s0204">2.4</linkHtml>, <linkHtml href="#s0501">5.1</linkHtml>)</item>
+                           <item>See Full Prescribing Information for instructions on preparation, dilution and administration of ANTHIM injection. (<linkHtml href="#s0203">2.3</linkHtml>, <linkHtml href="#s0204">2.4</linkHtml>)</item>
+                        </list>
+                     </text>
+                  </highlight>
+               </excerpt>
+               <component>
+                  <section ID="s0201">
+                     <id root="3e61d911-bd6a-43c2-8550-1544b28b3db4"/>
+                     <code code="42229-5" codeSystem="2.16.840.1.113883.6.1" displayName="SPL UNCLASSIFIED SECTION"/>
+                     <title mediaType="text/x-hl7-title+xml">2.1 Dosage for Adult Patients</title>
+                     <text>
+                        <list listType="unordered" styleCode="Disc">
+                           <item>Pre-medicate with diphenhydramine prior to administering ANTHIM <content styleCode="italics">[see Warnings and Precautions (<linkHtml href="#s0501">5.1</linkHtml>)].</content>
+                           </item>
+                           <item>Dilute the injection in 0.9% Sodium Chloride Injection, USP, before administering as an intravenous infusion <content styleCode="italics">[see Dosage and Administration (<linkHtml href="#s0203">2.3</linkHtml>)].</content>
+                           </item>
+                           <item>The recommended dosage of ANTHIM in adult patients is a single dose of 16 mg/kg administered intravenously over 90 minutes (1 hour and 30 minutes) <content styleCode="italics">[see Dosage and Administration (<linkHtml href="#s0204">2.4</linkHtml>)].</content>
+                           </item>
+                           <item>For adult patients weighing less than 40 kg, see <linkHtml href="#tbl01">Table 1</linkHtml> below.</item>
+                        </list>
+                     </text>
+                     <effectiveTime value="20160328"/>
+                  </section>
+               </component>
+               <component>
+                  <section ID="s0202">
+                     <id root="fc3bb14f-c465-4078-a712-f5265f32c420"/>
+                     <code code="42229-5" codeSystem="2.16.840.1.113883.6.1" displayName="SPL UNCLASSIFIED SECTION"/>
+                     <title mediaType="text/x-hl7-title+xml">2.2 Dosage for Pediatric Patients</title>
+                     <text>
+                        <list listType="unordered" styleCode="Disc">
+                           <item>Pre-medicate with diphenhydramine prior to administering ANTHIM <content styleCode="italics">[see Warnings and Precautions (<linkHtml href="#s0501">5.1</linkHtml>)].</content>
+                           </item>
+                           <item>Dilute the injection in 0.9% Sodium Chloride Injection, USP, before administering as an intravenous infusion <content styleCode="italics">[see Dosage and Administration (<linkHtml href="#s0203">2.3</linkHtml>)].</content>
+                           </item>
+                           <item>The recommended dose for pediatric patients is based on weight as shown in <linkHtml href="#tbl01">Table 1</linkHtml> below.</item>
+                        </list>
+                        <table ID="tbl01" width="450" styleCode="Noautorules">
+                           <caption>Table 1. Recommended Pediatric Dose of ANTHIM (weight-based dosing)</caption>
+                           <col width="60%" align="center"/>
+                           <col width="40%" align="center"/>
+                           <tbody>
+                              <tr valign="top">
+                                 <td styleCode="Toprule Botrule Lrule Rrule">
+                                    <content styleCode="bold">Body Weight</content>
+                                 </td>
+                                 <td styleCode="Toprule Botrule Lrule Rrule">
+                                    <content styleCode="bold">Dose</content>
+                                 </td>
+                              </tr>
+                              <tr valign="top">
+                                 <td styleCode="Toprule Botrule Lrule Rrule">Greater than 40 kg</td>
+                                 <td styleCode="Toprule Botrule Lrule Rrule">16 mg/kg</td>
+                              </tr>
+                              <tr valign="top">
+                                 <td styleCode="Toprule Botrule Lrule Rrule">Greater than 15 kg to 40 kg</td>
+                                 <td styleCode="Toprule Botrule Lrule Rrule">24 mg/kg</td>
+                              </tr>
+                              <tr valign="top">
+                                 <td styleCode="Toprule Botrule Lrule Rrule">Less than or equal to 15 kg</td>
+                                 <td styleCode="Toprule Botrule Lrule Rrule">32 mg/kg</td>
+                              </tr>
+                           </tbody>
+                        </table>
+                        <list listType="unordered" styleCode="Disc">
+                           <item>Administer the recommended dose of ANTHIM intravenously over 90 minutes (1 hour and 30 minutes) <content styleCode="italics">[see Dosage and Administration (<linkHtml href="#s0204">2.4</linkHtml>)].</content>
+                           </item>
+                        </list>
+                        <paragraph>There have been no studies of the safety or PK of ANTHIM conducted in the pediatric population. The dosing recommendations in <linkHtml href="#tbl01">Table 1</linkHtml> are derived from simulations using a population PK approach designed to match the observed adult exposure to ANTHIM at a 16 mg/kg dose <content styleCode="italics">[see Use in Specific Populations (<linkHtml href="#s0804">8.4)</linkHtml>].</content>
+                        </paragraph>
+                     </text>
+                     <effectiveTime value="20160328"/>
+                  </section>
+               </component>
+               <component>
+                  <section ID="s0203">
+                     <id root="e21bbba2-0b35-4bb6-98b6-6f4fe73bfc96"/>
+                     <code code="42229-5" codeSystem="2.16.840.1.113883.6.1" displayName="SPL UNCLASSIFIED SECTION"/>
+                     <title mediaType="text/x-hl7-title+xml">2.3 Preparation and Dilution for Administration</title>
+                     <text>
+                        <paragraph>
+                           <content styleCode="underline">Important Preparation Instructions</content>
+                        </paragraph>
+                        <list listType="unordered" styleCode="Disc">
+                           <item>Keep vials in their cartons prior to preparation of an infusion solution to protect ANTHIM from light. ANTHIM vials contain no preservative.</item>
+                           <item>Parenteral drug products should be inspected visually for particulate matter and discoloration prior to administration, whenever solution and container permit.</item>
+                           <item>Discard the vial if the solution is discolored or contains extraneous particles other than a few translucent-to- white, proteinaceous particles <content styleCode="italics">[see Description (<linkHtml href="#s1100">11</linkHtml>)].</content>
+                           </item>
+                           <item>Do not shake the vial.</item>
+                        </list>
+                        <table ID="tbl02" width="1000" styleCode="Noautorules">
+                           <caption>Table 2. ANTHIM Dose, Total Infusion Volume and Infusion Rate by Body Weight</caption>
+                           <col width="42%" align="center"/>
+                           <col width="30%" align="center"/>
+                           <col width="28%" align="center"/>
+                           <tbody>
+                              <tr valign="top">
+                                 <td styleCode="Toprule Botrule Lrule Rrule">
+                                    <content styleCode="bold">Body Weight (weight-based dosing)</content>
+                                 </td>
+                                 <td styleCode="Toprule Botrule Lrule Rrule">
+                                    <content styleCode="bold">Total Infusion Volume</content>
+                                 </td>
+                                 <td styleCode="Toprule Botrule Lrule Rrule">
+                                    <content styleCode="bold">Infusion Rate</content>
+                                 </td>
+                              </tr>
+                              <tr>
+                                 <td styleCode="Lrule Rrule"> </td>
+                                 <td styleCode="Lrule Rrule"> </td>
+                                 <td styleCode="Lrule Rrule"> </td>
+                              </tr>
+                              <tr valign="middle">
+                                 <td styleCode="Toprule Botrule Lrule Rrule" colspan="3">
+                                    <content styleCode="bold">Greater than 40 kg or adult (16 mg/kg)</content>
+                                 </td>
+                              </tr>
+                              <tr valign="middle">
+                                 <td styleCode="Toprule Botrule Lrule Rrule">Greater than 40 kg</td>
+                                 <td styleCode="Toprule Botrule Lrule Rrule">250 mL</td>
+                                 <td styleCode="Toprule Botrule Lrule Rrule">167 mL/hr</td>
+                              </tr>
+                              <tr valign="middle">
+                                 <td styleCode="Toprule Botrule Lrule Rrule" colspan="3">
+                                    <content styleCode="bold">Greater than 15 kg to 40 kg (24 mg/kg)</content>
+                                 </td>
+                              </tr>
+                              <tr valign="middle">
+                                 <td styleCode="Toprule Botrule Lrule Rrule">31 kg to 40 kg</td>
+                                 <td styleCode="Toprule Botrule Lrule Rrule">250 mL</td>
+                                 <td styleCode="Toprule Botrule Lrule Rrule">167 mL/hr</td>
+                              </tr>
+                              <tr valign="middle">
+                                 <td styleCode="Toprule Botrule Lrule Rrule">16 kg to 30 kg</td>
+                                 <td styleCode="Toprule Botrule Lrule Rrule">100 mL</td>
+                                 <td styleCode="Toprule Botrule Lrule Rrule">67 mL/hr</td>
+                              </tr>
+                              <tr valign="middle">
+                                 <td styleCode="Toprule Botrule Lrule Rrule" colspan="3">
+                                    <content styleCode="bold">15 kg or less (32 mg/kg)</content>
+                                 </td>
+                              </tr>
+                              <tr valign="middle">
+                                 <td styleCode="Toprule Botrule Lrule Rrule">11 kg to 15 kg</td>
+                                 <td styleCode="Toprule Botrule Lrule Rrule">100 mL</td>
+                                 <td styleCode="Toprule Botrule Lrule Rrule">67 mL/hr</td>
+                              </tr>
+                              <tr valign="middle">
+                                 <td styleCode="Toprule Botrule Lrule Rrule">5 kg to 10 kg</td>
+                                 <td styleCode="Toprule Botrule Lrule Rrule">50 mL</td>
+                                 <td styleCode="Toprule Botrule Lrule Rrule">33.3 mL/hr</td>
+                              </tr>
+                              <tr valign="middle">
+                                 <td styleCode="Toprule Botrule Lrule Rrule">3.1 kg to 4.9 kg</td>
+                                 <td styleCode="Toprule Botrule Lrule Rrule">25 mL</td>
+                                 <td styleCode="Toprule Botrule Lrule Rrule">17 mL/hr</td>
+                              </tr>
+                              <tr valign="middle">
+                                 <td styleCode="Toprule Botrule Lrule Rrule">2.1 kg to 3 kg</td>
+                                 <td styleCode="Toprule Botrule Lrule Rrule">20 mL</td>
+                                 <td styleCode="Toprule Botrule Lrule Rrule">13.3 mL/hr</td>
+                              </tr>
+                              <tr valign="middle">
+                                 <td styleCode="Toprule Botrule Lrule Rrule">1.1 kg to 2 kg</td>
+                                 <td styleCode="Toprule Botrule Lrule Rrule">15 mL</td>
+                                 <td styleCode="Toprule Botrule Lrule Rrule">10 mL/hr</td>
+                              </tr>
+                              <tr valign="middle">
+                                 <td styleCode="Toprule Botrule Lrule Rrule">1 kg or less</td>
+                                 <td styleCode="Toprule Botrule Lrule Rrule">7 mL</td>
+                                 <td styleCode="Toprule Botrule Lrule Rrule">4.7 mL/hr</td>
+                              </tr>
+                           </tbody>
+                        </table>
+                        <paragraph>
+                           <content styleCode="underline">Preparation and Dilution in Bag for Infusion</content>
+                        </paragraph>
+                        <list listType="ordered">
+                           <item>Calculate the milligrams of ANTHIM injection needed by multiplying the recommended mg/kg dose in <linkHtml href="#tbl02">Table 2</linkHtml> by the patient weight in kilograms.</item>
+                           <item>Calculate the required volume in milliliters of ANTHIM injection and number of vials needed for the dose by dividing the calculated dose in milligrams (step 1) by the concentration, 100 mg/mL. Each single vial allows delivery of 6 mL of ANTHIM.</item>
+                           <item>Select an appropriate size bag of 0.9% Sodium Chloride Injection, USP. Withdraw a volume of solution from the bag equal to the calculated volume in milliliters of ANTHIM in step 2 above. Discard the solution that was withdrawn from the bag.</item>
+                           <item>Withdraw the required volume of ANTHIM injection (calculated from step 2) from the ANTHIM vial(s). Discard any unused portion remaining in the ANTHIM vial(s).</item>
+                           <item>Transfer the required volume of ANTHIM injection to the selected infusion bag.</item>
+                           <item>Gently invert the bag to mix the solution. Do not shake.</item>
+                           <item>The prepared solution is stable for 8 hours stored at room temperature 20°C to 25°C (68°F to 77°F) or 
+										8 hours stored in the refrigerator at 2°C to 8°C (36°F to 46°F).</item>
+                        </list>
+                        <paragraph>
+                           <content styleCode="underline">Preparation and Dilution in Syringe for Infusion</content>
+                        </paragraph>
+                        <list listType="ordered">
+                           <item>Calculate the milligrams of ANTHIM injection needed by multiplying the recommended mg/kg dose in <linkHtml href="#tbl02">Table 2</linkHtml> by the patient weight in kilograms.</item>
+                           <item>Calculate the required volume in milliliters of ANTHIM injection and number of vials needed for the dose by dividing the calculated dose in milligrams (step 1) by the concentration, 100 mg/mL. Each single vial allows delivery of 6 mL of ANTHIM.</item>
+                           <item>Select an appropriate size syringe for the total volume of infusion to be administered.</item>
+                           <item>Using the selected syringe, withdraw the required volume of ANTHIM injection (calculated from step 2). Discard any unused portion remaining in the ANTHIM vial(s).</item>
+                           <item>Withdraw an appropriate amount of 0.9% Sodium Chloride Injection, USP to prepare the total infusion volume specified in <linkHtml href="#tbl02">Table 2</linkHtml>.</item>
+                           <item>Gently mix the solution. Do not shake.</item>
+                           <item>Once a diluted solution of ANTHIM has been prepared, administer immediately. Do not store solution in syringe. Discard unused product.</item>
+                        </list>
+                     </text>
+                     <effectiveTime value="20191130"/>
+                  </section>
+               </component>
+               <component>
+                  <section ID="s0204">
+                     <id root="8347cb24-b468-4484-aa06-795bc1361d91"/>
+                     <code code="42229-5" codeSystem="2.16.840.1.113883.6.1" displayName="SPL UNCLASSIFIED SECTION"/>
+                     <title mediaType="text/x-hl7-title+xml">2.4 Administration</title>
+                     <text>
+                        <list>
+                           <item>Administer ANTHIM in appropriately monitored settings which are equipped to manage anaphylaxis <content styleCode="italics">[see Warnings and Precautions (<linkHtml href="#s0501">5.1</linkHtml>)].</content>
+                           </item>
+                           <item>Dilute ANTHIM injection <content styleCode="italics">[see Dosage and Administration (<linkHtml href="#s0203">2.3</linkHtml>)]</content> before administering ANTHIM intravenously using the bag or syringe for infusion.</item>
+                           <item>After preparation of the bag or syringe for infusion administer the infusion solution using a 0.22 micron inline filter with the infusion rate described in <linkHtml href="#tbl02">Table 2 </linkHtml>
+                              <content styleCode="italics">[see Dosage and Administration (<linkHtml href="#s0203">2.3</linkHtml>)].</content>
+                           </item>
+                           <item>Administer diluted ANTHIM intravenous infusion over 1 hour and 30 minutes. Monitor patients closely for signs and symptoms of hypersensitivity throughout the infusion and for a period of time after administration <content styleCode="italics">[see Warnings and Precautions (<linkHtml href="#s0501">5.1</linkHtml>)].</content>
+                           </item>
+                           <item>Stop the infusion immediately and treat appropriately, if hypersensitivity or anaphylaxis occurs <content styleCode="italics">[see Warnings and Precautions (<linkHtml href="#s0501">5.1</linkHtml>)].</content>
+                           </item>
+                           <item>Flush the line with 0.9% Sodium Chloride Injection, USP at the end of the intravenous infusion.</item>
+                        </list>
+                     </text>
+                     <effectiveTime value="20160328"/>
+                  </section>
+               </component>
+            </section>
+         </component>
+         <component>
+            <section ID="s0300">
+               <id root="9ce953ce-8701-4df3-8c45-b29a9361e863"/>
+               <code code="43678-2" codeSystem="2.16.840.1.113883.6.1" displayName="DOSAGE FORMS &amp; STRENGTHS SECTION"/>
+               <title mediaType="text/x-hl7-title+xml">3 DOSAGE FORMS AND STRENGTHS</title>
+               <text>
+                  <paragraph>Injection: 600 mg/6 mL (100 mg/mL) in a single-dose vial.</paragraph>
+                  <paragraph>ANTHIM is a clear to opalescent, colorless to pale yellow to pale brownish-yellow solution and may contain few translucent-to-white proteinaceous particulates.</paragraph>
+               </text>
+               <effectiveTime value="20160328"/>
+               <excerpt>
+                  <highlight>
+                     <text>
+                        <paragraph>Injection: 600 mg/6 mL (100 mg/mL) solution in single-dose vial. (<linkHtml href="#s0300">3</linkHtml>)</paragraph>
+                     </text>
+                  </highlight>
+               </excerpt>
+            </section>
+         </component>
+         <component>
+            <section ID="s0400">
+               <id root="9381491f-7a86-4294-8d32-aeec7f81f5d8"/>
+               <code code="34070-3" codeSystem="2.16.840.1.113883.6.1" displayName="CONTRAINDICATIONS SECTION"/>
+               <title mediaType="text/x-hl7-title+xml">4 CONTRAINDICATIONS</title>
+               <text>
+                  <paragraph>None.</paragraph>
+               </text>
+               <effectiveTime value="20160328"/>
+               <excerpt>
+                  <highlight>
+                     <text>
+                        <paragraph>None (<linkHtml href="#s0400">4</linkHtml>)</paragraph>
+                        <br/>
+                     </text>
+                  </highlight>
+               </excerpt>
+            </section>
+         </component>
+         <component>
+            <section ID="s0500">
+               <id root="8a2820e3-72d3-47ee-9684-34da62393abb"/>
+               <code code="43685-7" codeSystem="2.16.840.1.113883.6.1" displayName="WARNINGS AND PRECAUTIONS SECTION"/>
+               <title mediaType="text/x-hl7-title+xml">5 WARNINGS AND PRECAUTIONS</title>
+               <text/>
+               <effectiveTime value="20160328"/>
+               <excerpt>
+                  <highlight>
+                     <text>
+                        <paragraph>Hypersensitivity reactions, including anaphylaxis (<linkHtml href="#boxedwarning">Boxed Warning</linkHtml>, <linkHtml href="#s0102">1.2</linkHtml>, <linkHtml href="#s0201">2.1</linkHtml>, <linkHtml href="#s0204">2.4</linkHtml>, <linkHtml href="#s0501">5.1</linkHtml>)</paragraph>
+                        <br/>
+                     </text>
+                  </highlight>
+               </excerpt>
+               <component>
+                  <section ID="s0501">
+                     <id root="5d9c350a-8f93-473b-8b6a-f706938e923d"/>
+                     <code code="42229-5" codeSystem="2.16.840.1.113883.6.1" displayName="SPL UNCLASSIFIED SECTION"/>
+                     <title mediaType="text/x-hl7-title+xml">5.1 Hypersensitivity and Anaphylaxis</title>
+                     <text>
+                        <paragraph>Hypersensitivity reactions were the most common adverse reactions in the safety trials of ANTHIM, occurring in 34/320 healthy subjects (10.6%). Three (0.9%) cases of anaphylaxis occurred during or immediately after the infusion. In clinical trials, manifestations of anaphylaxis were rash/urticaria, cough, dyspnea, cyanosis, postural dizziness and chest discomfort. ANTHIM infusion was discontinued in 8 (2.5%) subjects due to hypersensitivity or anaphylaxis. The adverse reactions reported in these 8 subjects included urticaria, rash, cough, pruritus, dizziness, throat irritation, dysphonia, dyspnea and chest discomfort. The remaining subjects with hypersensitivity had predominantly skin-related symptoms such as pruritus and rash, and 6 subjects reported cough <content styleCode="italics">[see Adverse Reactions <linkHtml href="#s0601">6.1</linkHtml>].</content>
+                        </paragraph>
+                        <paragraph>Due to the risk of anaphylaxis, ANTHIM should be administered in monitored settings by personnel trained and equipped to manage anaphylaxis. Patients should be monitored closely throughout the infusion period and for a period of time after administration <content styleCode="italics">[see Patient Counseling Information (<linkHtml href="#s1700">17</linkHtml>)].</content> If anaphylaxis or hypersensitivity reactions occur, stop the infusion immediately and treat appropriately.</paragraph>
+                        <paragraph>Premedication with diphenhydramine is recommended prior to administration of ANTHIM <content styleCode="italics">[see Dosage and Administration (<linkHtml href="#s0201">2.1</linkHtml>) and Adverse Reactions (<linkHtml href="#s0601">6.1</linkHtml>)].</content> Diphenhydramine premedication does not prevent anaphylaxis, and may mask or delay onset of symptoms of hypersensitivity.</paragraph>
+                     </text>
+                     <effectiveTime value="20160328"/>
+                  </section>
+               </component>
+            </section>
+         </component>
+         <component>
+            <section ID="s0600">
+               <id root="b56dfda4-4e69-4180-8f7a-141c18576d4f"/>
+               <code code="34084-4" codeSystem="2.16.840.1.113883.6.1" displayName="ADVERSE REACTIONS SECTION"/>
+               <title mediaType="text/x-hl7-title+xml">6 ADVERSE REACTIONS</title>
+               <text>
+                  <paragraph>The following clinically important adverse reactions are described elsewhere in the labeling:</paragraph>
+                  <list listType="unordered" styleCode="Disc">
+                     <item>Hypersensitivity and Anaphylaxis <content styleCode="italics">[see Warnings and Precautions (<linkHtml href="#s0501">5.1</linkHtml>)].</content>
+                     </item>
+                  </list>
+               </text>
+               <effectiveTime value="20160328"/>
+               <excerpt>
+                  <highlight>
+                     <text>
+                        <paragraph>Most frequently reported adverse reactions in healthy adult subjects (≥1.5%) were headache, pruritus, infections of the upper respiratory tract, cough, vessel puncture site bruise, infusion site swelling, nasal congestion, infusion site pain, urticaria and pain in extremity. (<linkHtml href="#s0601">6.1</linkHtml>)</paragraph>
+                        <br/>
+                        <paragraph>
+                           <content styleCode="bold">To report SUSPECTED ADVERSE REACTIONS, contact Elusys Therapeutics, Inc. at 1-844-808-0222 or FDA at 1-800-FDA-1088 or <content styleCode="underline">www.fda.gov/medwatch</content>.</content>
+                        </paragraph>
+                        <br/>
+                     </text>
+                  </highlight>
+               </excerpt>
+               <component>
+                  <section ID="s0601">
+                     <id root="6787e223-6cc6-4ae1-b218-d234bdf6382f"/>
+                     <code code="42229-5" codeSystem="2.16.840.1.113883.6.1" displayName="SPL UNCLASSIFIED SECTION"/>
+                     <title mediaType="text/x-hl7-title+xml">6.1 Clinical Trial Experience</title>
+                     <text>
+                        <paragraph>Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice. The safety of ANTHIM has been studied only in healthy volunteers. It has not been studied in patients with inhalational anthrax.</paragraph>
+                        <paragraph>The safety of ANTHIM was evaluated in 320 healthy subjects treated with one or more 16 mg/kg IV doses in three clinical studies. Study 1 was a placebo-controlled study evaluating a single dose of ANTHIM vs. placebo (210 subjects received ANTHIM, 70 received placebo). Study 2 was a repeat-dose study in which 70 subjects received the first dose, but 34 and 31 subjects received a second dose of ANTHIM in sequences A (2 weeks apart) and B (≥ 4 months apart), respectively. Study 3 was a drug interaction study of a single dose of ANTHIM with ciprofloxacin in 40 subjects (20 subjects received ANTHIM alone and 20 subjects received ANTHIM plus ciprofloxacin for 9 days).</paragraph>
+                        <paragraph>Subjects were 18 to 79 years of age, 54% were male, 70% Caucasian, 26% Black/African American, 2% American Indian/Alaska Native, 1% Asian and 10% Hispanic.</paragraph>
+                        <paragraph>
+                           <content styleCode="underline">Adverse Reactions Leading to Discontinuation of ANTHIM Infusion</content>
+                           <br/>ANTHIM infusion was discontinued in 8/320 healthy subjects (2.5%) in clinical trials due to hypersensitivity reactions or anaphylaxis <content styleCode="italics">[see Warnings and Precautions (<linkHtml href="#s0501">5.1</linkHtml>)].</content>
+                        </paragraph>
+                        <paragraph>
+                           <content styleCode="underline">Most Frequently Reported Adverse Reactions</content>
+                           <br/>The most frequently reported adverse reactions were headache, pruritus, infections of the upper respiratory tract, cough, vessel puncture site bruise, infusion site swelling, urticaria, nasal congestion, infusion site pain, and pain in extremity.</paragraph>
+                        <paragraph>
+                           <linkHtml href="#tbl03">Table 3</linkHtml> shows the adverse reactions that occurred in ≥1.5% of healthy subjects receiving a single dose of ANTHIM (16 mg/kg IV) and more frequently than those receiving placebo.</paragraph>
+                        <table ID="tbl03" width="1000" styleCode="Noautorules">
+                           <caption>Table 3. Adverse Reactions Reported in ≥ 1.5% of Healthy Adult Subjects Exposed to a Single Dose of ANTHIM 16 mg/kg IV</caption>
+                           <col width="34%" align="left"/>
+                           <col width="33%" align="center"/>
+                           <col width="33%" align="center"/>
+                           <tfoot>
+                              <tr>
+                                 <td colspan="3">*Single-dose population: 210 subjects in study 1 plus 70 subjects in the first treatment period of study 2 plus 20 subjects in the ANTHIM alone treatment arm of study 3</td>
+                              </tr>
+                           </tfoot>
+                           <tbody>
+                              <tr valign="top">
+                                 <td styleCode="Toprule Botrule Lrule Rrule">
+                                    <content styleCode="bold">Adverse Reactions</content>
+                                 </td>
+                                 <td styleCode="Toprule Botrule Lrule Rrule">
+                                    <content styleCode="bold">Placebo<br/>N = 70 (%)</content>
+                                 </td>
+                                 <td styleCode="Toprule Botrule Lrule Rrule">
+                                    <content styleCode="bold">Single Dose ANTHIM<br/>N = 300* (%)</content>
+                                 </td>
+                              </tr>
+                              <tr valign="top">
+                                 <td styleCode="Toprule Botrule Lrule Rrule">Headache</td>
+                                 <td styleCode="Toprule Botrule Lrule Rrule">4 (6%)</td>
+                                 <td styleCode="Toprule Botrule Lrule Rrule">24 (8%)</td>
+                              </tr>
+                              <tr valign="top">
+                                 <td styleCode="Toprule Botrule Lrule Rrule">Pruritus</td>
+                                 <td styleCode="Toprule Botrule Lrule Rrule">1 (1%)</td>
+                                 <td styleCode="Toprule Botrule Lrule Rrule">11 (4%)</td>
+                              </tr>
+                              <tr valign="top">
+                                 <td styleCode="Toprule Botrule Lrule Rrule">Infections of the upper respiratory tract</td>
+                                 <td styleCode="Toprule Botrule Lrule Rrule">2 (3%) </td>
+                                 <td styleCode="Toprule Botrule Lrule Rrule">14 (5%)</td>
+                              </tr>
+                              <tr valign="top">
+                                 <td styleCode="Toprule Botrule Lrule Rrule">Cough</td>
+                                 <td styleCode="Toprule Botrule Lrule Rrule">0</td>
+                                 <td styleCode="Toprule Botrule Lrule Rrule">9 (3%) </td>
+                              </tr>
+                              <tr valign="top">
+                                 <td styleCode="Toprule Botrule Lrule Rrule">Vessel puncture site bruise</td>
+                                 <td styleCode="Toprule Botrule Lrule Rrule">1 (1%)</td>
+                                 <td styleCode="Toprule Botrule Lrule Rrule">8 (3%)</td>
+                              </tr>
+                              <tr valign="top">
+                                 <td styleCode="Toprule Botrule Lrule Rrule">Infusion site swelling</td>
+                                 <td styleCode="Toprule Botrule Lrule Rrule">1 (1%)</td>
+                                 <td styleCode="Toprule Botrule Lrule Rrule">8 (3%)</td>
+                              </tr>
+                              <tr valign="top">
+                                 <td styleCode="Toprule Botrule Lrule Rrule">Nasal congestion</td>
+                                 <td styleCode="Toprule Botrule Lrule Rrule">1 (1%)</td>
+                                 <td styleCode="Toprule Botrule Lrule Rrule">5 (2%)</td>
+                              </tr>
+                              <tr valign="top">
+                                 <td styleCode="Toprule Botrule Lrule Rrule">Infusion site pain</td>
+                                 <td styleCode="Toprule Botrule Lrule Rrule">0</td>
+                                 <td styleCode="Toprule Botrule Lrule Rrule">7 (2%)</td>
+                              </tr>
+                              <tr valign="top">
+                                 <td styleCode="Toprule Botrule Lrule Rrule">Urticaria</td>
+                                 <td styleCode="Toprule Botrule Lrule Rrule">0</td>
+                                 <td styleCode="Toprule Botrule Lrule Rrule">5 (2%)</td>
+                              </tr>
+                              <tr valign="top">
+                                 <td styleCode="Toprule Botrule Lrule Rrule">Pain in extremity</td>
+                                 <td styleCode="Toprule Botrule Lrule Rrule">1 (1%)</td>
+                                 <td styleCode="Toprule Botrule Lrule Rrule">5 (2%)</td>
+                              </tr>
+                           </tbody>
+                        </table>
+                        <paragraph>
+                           <content styleCode="underline">Effect of Diphenhydramine on the Incidence of Adverse Reactions</content>
+                           <br/>
+									Overall in the single-dose population, subjects who received pre-medication with diphenhydramine were less likely to experience adverse reactions with administration of ANTHIM compared to those who did not (42% vs. 58% respectively). Specifically, the incidence of the following adverse reactions was lower in the subjects who received diphenhydramine prior to ANTHIM infusion compared to those who did not: headache (5% vs. 16%), cough (1% vs. 8%), rash (2% vs. 7%), pruritus (3% vs. 4%) throat irritation (0 vs. 3%), rhinorrhea (0 vs. 3%), and infusion site erythema (0% vs. 4%). Somnolence was only reported in subjects who were pretreated with diphenhydramine.</paragraph>
+                        <paragraph>
+                           <content styleCode="underline">Less Common Adverse Reactions</content>
+                           <br/>Clinically significant adverse reactions that were reported in &lt;1.5% of subjects exposed to ANTHIM and at rates higher than in placebo subjects are listed below:</paragraph>
+                        <list listType="unordered" styleCode="Disc">
+                           <item>
+                              <content styleCode="italics">General disorders and administration site conditions:</content> chest discomfort/pain, fatigue, pyrexia, intravenous site discoloration </item>
+                           <item>
+                              <content styleCode="italics">Musculoskeletal and connective tissue disorders:</content> myalgia, musculoskeletal pain</item>
+                           <item>
+                              <content styleCode="italics">Respiratory, thoracic and mediastinal disorders:</content> oropharyngeal pain, sinus congestion, rhinorrhea, dysphonia, dyspnea</item>
+                           <item>
+                              <content styleCode="italics">Investigations:</content> lymphocyte count decreased, neutrophil count decreased, white blood count decreased, increased creatine phosphokinase</item>
+                           <item>
+                              <content styleCode="italics">Cardiac disorders:</content> palpitations, cyanosis</item>
+                           <item>
+                              <content styleCode="italics">Neurologic disorders:</content> dizziness</item>
+                           <item>
+                              <content styleCode="italics">Gastrointestinal disorders:</content> vomiting, dry mouth</item>
+                        </list>
+                     </text>
+                     <effectiveTime value="20160328"/>
+                  </section>
+               </component>
+               <component>
+                  <section ID="s0602">
+                     <id root="ac380c19-8911-4314-b8e9-986887a85fa4"/>
+                     <code code="42229-5" codeSystem="2.16.840.1.113883.6.1" displayName="SPL UNCLASSIFIED SECTION"/>
+                     <title mediaType="text/x-hl7-title+xml">6.2 Immunogenicity</title>
+                     <text>
+                        <paragraph>As with all therapeutic proteins, there is a potential for immunogenicity. The development of anti-ANTHIM antibodies was evaluated in all subjects receiving single and double doses of ANTHIM in studies 1, 2 and 3. Eight subjects (2.5%) who received at least one dose of IV ANTHIM were positive for a treatment-emergent anti-therapeutic antibody (ATA) response. Quantitative titers were low ranging from 1:20 – 1:320. There was no evidence of altered PK or toxicity profile in subjects with ATA development.</paragraph>
+                        <paragraph>The incidence of antibody formation is highly dependent on the sensitivity and specificity of the immunogenicity assay. Additionally, the observed incidence of any antibody positivity in an assay is highly dependent on several factors, including assay sensitivity and specificity, assay methodology, sample handling, timing of sample collection, concomitant medications, and underlying disease. For these reasons, comparison of incidence of antibodies to obiltoxaximab with the incidence of antibodies to other products may be misleading.</paragraph>
+                     </text>
+                     <effectiveTime value="20160328"/>
+                  </section>
+               </component>
+            </section>
+         </component>
+         <component>
+            <section ID="s0700">
+               <id root="6c26ce77-625b-47a8-9dcb-645f3a95e571"/>
+               <code code="34073-7" codeSystem="2.16.840.1.113883.6.1" displayName="DRUG INTERACTIONS SECTION"/>
+               <title mediaType="text/x-hl7-title+xml">7 DRUG INTERACTIONS</title>
+               <text/>
+               <effectiveTime value="20160328"/>
+               <component>
+                  <section ID="s0701">
+                     <id root="90518f64-2418-4ee4-a82a-3e5466eb6572"/>
+                     <code code="42229-5" codeSystem="2.16.840.1.113883.6.1" displayName="SPL UNCLASSIFIED SECTION"/>
+                     <title mediaType="text/x-hl7-title+xml">7.1 Ciprofloxacin</title>
+                     <text>
+                        <paragraph>Co-administration of 16 mg/kg ANTHIM intravenously with intravenous or oral ciprofloxacin in human subjects did not alter the PK of either ciprofloxacin or obiltoxaximab <content styleCode="italics">[see Clinical Pharmacology (<linkHtml href="#s1203">12.3</linkHtml>)]</content>.</paragraph>
+                     </text>
+                     <effectiveTime value="20160328"/>
+                  </section>
+               </component>
+            </section>
+         </component>
+         <component>
+            <section ID="s0800">
+               <id root="bbc3e4e0-75f5-4609-b9e8-8d82a4850cc0"/>
+               <code code="43684-0" codeSystem="2.16.840.1.113883.6.1" displayName="USE IN SPECIFIC POPULATIONS SECTION"/>
+               <title mediaType="text/x-hl7-title+xml">8 USE IN SPECIFIC POPULATIONS</title>
+               <text/>
+               <effectiveTime value="20191130"/>
+               <excerpt>
+                  <highlight>
+                     <text>
+                        <paragraph>Pediatric Use: There have been no studies of the safety or PK of ANTHIM in the pediatric population. (<linkHtml href="#s0102">1.2</linkHtml>, <linkHtml href="#s0804">8.4</linkHtml>)</paragraph>
+                        <br/>
+                     </text>
+                  </highlight>
+               </excerpt>
+               <component>
+                  <section ID="s0801">
+                     <id root="089bc066-82f6-4829-b0aa-3513255457bd"/>
+                     <code code="42228-7" codeSystem="2.16.840.1.113883.6.1" displayName="PREGNANCY SECTION"/>
+                     <title mediaType="text/x-hl7-title+xml">8.1 Pregnancy</title>
+                     <text>
+                        <paragraph>
+                           <content styleCode="underline">Risk Summary</content>
+                           <br/>There are no data on the use of ANTHIM in pregnant women to inform on drug-associated risk. There are adverse effects on maternal and fetal outcomes associated with anthrax in pregnancy <content styleCode="italics">(see <linkHtml href="#s0801_a">Clinical Considerations</linkHtml>)</content>. In pregnant rabbits, intravenous administration of obiltoxaximab during organogenesis was not associated with adverse developmental outcomes at up to 0.62 times the human systemic exposure at the maximum recommended adult dose <content styleCode="italics">(see <linkHtml href="#s0801_b">Data</linkHtml>)</content>.</paragraph>
+                        <paragraph>The estimated background risk of major birth defects and miscarriage for the indicated population is unknown. All pregnancies have a background risk of birth defect, loss, or other adverse outcomes. In the U.S. general population, the estimated background risk of major birth defects and miscarriage in clinically recognized pregnancies is 2% to 4% and 15% to 20%, respectively.</paragraph>
+                        <paragraph ID="s0801_a">
+                           <content styleCode="underline">Clinical Considerations</content>
+                           <br/>
+                           <content styleCode="italics">Disease-Associated Maternal and/or Embryo/Fetal Risk:</content>
+                           <br/>Limited data in the form of case reports of anthrax infection in pregnant women indicate that maternal infection is associated with a high risk of maternal, fetal, and neonatal deaths, particularly in the absence of treatment.</paragraph>
+                        <paragraph ID="s0801_b">
+                           <content styleCode="underline">Data</content>
+                           <br/>
+                           <content styleCode="italics">Animal Data:</content>
+                           <br/>A study was conducted in pregnant, healthy, New Zealand White rabbits administered intravenous obiltoxaximab at dose levels of 16 or 32 mg/kg during organogenesis on Gestation Days 6, 10, 13 and 17. No maternal toxicity or adverse developmental outcomes were observed at the highest tested dose, 32 mg/kg.  In those rabbits, mean maternal maximum plasma concentration (C<sub>max</sub> = 1180 mcg/mL) and mean maternal AUC<sub>inf</sub> (3220 mcg•day/mL) were approximately 3 times and 0.62 times the respective values for C<sub>max</sub> and AUC reported in clinical trial subjects at the maximum recommended adult dose of 16 mg/kg.</paragraph>
+                     </text>
+                     <effectiveTime value="20191130"/>
+                  </section>
+               </component>
+               <component>
+                  <section ID="s_0802">
+                     <id root="111454c7-4257-47bd-8108-1158f0ce80bd"/>
+                     <code code="77290-5" codeSystem="2.16.840.1.113883.6.1" displayName="LACTATION SECTION"/>
+                     <title mediaType="text/x-hl7-title+xml">8.2 Lactation</title>
+                     <text>
+                        <paragraph>
+                           <content styleCode="underline">Risk Summary</content>
+                           <br/>There is no information available on the presence of obiltoxaximab in human milk, the effects on the breastfed child, or the effects on milk production. Maternal IgG is known to be present in human milk. Therefore, the development and health benefits of breastfeeding should be considered along with the mother’s clinical need for ANTHIM and any potential adverse effects on the breastfed child from ANTHIM or from the underlying maternal condition.</paragraph>
+                     </text>
+                     <effectiveTime value="20191130"/>
+                  </section>
+               </component>
+               <component>
+                  <section ID="s0804">
+                     <id root="5f363d44-70f9-4ed2-bba6-4186023680e9"/>
+                     <code code="34081-0" codeSystem="2.16.840.1.113883.6.1" displayName="PEDIATRIC USE SECTION"/>
+                     <title mediaType="text/x-hl7-title+xml">8.4 Pediatric Use</title>
+                     <text>
+                        <paragraph>As in adults, the effectiveness of ANTHIM in pediatric patients is based solely on efficacy studies in animal models of inhalational anthrax. As exposure of healthy children to ANTHIM is not ethical, a population PK approach was used to derive intravenous dosing regimens that are predicted to provide pediatric patients with exposure comparable to the observed exposure in adults receiving 16 mg/kg. The dose for pediatric patients is based on weight <content styleCode="italics">[see Dosage and Administration (<linkHtml href="#s0202">2.2</linkHtml>)]</content>.</paragraph>
+                        <paragraph>There have been no studies of safety or PK of ANTHIM in the pediatric population.</paragraph>
+                     </text>
+                     <effectiveTime value="20160328"/>
+                  </section>
+               </component>
+               <component>
+                  <section ID="s0805">
+                     <id root="af7ed590-c37a-408f-ad41-25712f422196"/>
+                     <code code="34082-8" codeSystem="2.16.840.1.113883.6.1" displayName="GERIATRIC USE SECTION"/>
+                     <title mediaType="text/x-hl7-title+xml">8.5 Geriatric Use</title>
+                     <text>
+                        <paragraph>Clinical studies of ANTHIM did not include sufficient numbers of subjects aged 65 years and over to determine whether they respond differently from younger subjects. Of the 320 subjects in clinical studies of ANTHIM, 9.4% (30/320) were 65 years and over, while 2% (6/320) were 75 years and over. No alteration of dosing is needed for patients ≥65 years of age <content styleCode="italics">[see Clinical Pharmacology (<linkHtml href="#s1203">12.3</linkHtml>)]</content>.</paragraph>
+                     </text>
+                     <effectiveTime value="20160328"/>
+                  </section>
+               </component>
+            </section>
+         </component>
+         <component>
+            <section ID="s1000">
+               <id root="86a824d0-3024-4ce1-bfd5-b2878296ad14"/>
+               <code code="34088-5" codeSystem="2.16.840.1.113883.6.1" displayName="OVERDOSAGE SECTION"/>
+               <title mediaType="text/x-hl7-title+xml">10 OVERDOSAGE</title>
+               <text>
+                  <paragraph>There is no clinical experience with overdosage of ANTHIM. In case of overdosage, monitor patients for any signs or symptoms of adverse effects.</paragraph>
+               </text>
+               <effectiveTime value="20160328"/>
+            </section>
+         </component>
+         <component>
+            <section ID="s1100">
+               <id root="3198e1ef-770e-45f5-844a-e4a4eb6067b4"/>
+               <code code="34089-3" codeSystem="2.16.840.1.113883.6.1" displayName="DESCRIPTION SECTION"/>
+               <title mediaType="text/x-hl7-title+xml">11 DESCRIPTION</title>
+               <text>
+                  <paragraph>Obiltoxaximab is a chimeric IgG1 kappa monoclonal antibody (mAb) that binds the PA component of <content styleCode="italics">B. anthracis</content> toxin. It has an approximate molecular weight of 148 kDa.</paragraph>
+                  <paragraph>ANTHIM injection is a sterile, preservative-free, clear to opalescent, colorless to pale yellow to pale brownish-yellow solution that may contain few translucent-to-white proteinaceous particulates. ANTHIM is supplied as 600 mg/6 mL in single-dose vials for intravenous infusion. Each mL contains 100 mg obiltoxaximab in L-histidine (6.2 mg), polysorbate 80 (0.1 mg), sorbitol (36 mg) with a pH of 5.5.</paragraph>
+               </text>
+               <effectiveTime value="20160328"/>
+            </section>
+         </component>
+         <component>
+            <section ID="s1200">
+               <id root="5bdd086e-0805-4aca-a79f-49669de59833"/>
+               <code code="34090-1" codeSystem="2.16.840.1.113883.6.1" displayName="CLINICAL PHARMACOLOGY SECTION"/>
+               <title mediaType="text/x-hl7-title+xml">12 CLINICAL PHARMACOLOGY</title>
+               <text/>
+               <effectiveTime value="20160328"/>
+               <component>
+                  <section ID="s1201">
+                     <id root="f8fa5951-4ef1-4e3e-90b5-a71671e3845e"/>
+                     <code code="43679-0" codeSystem="2.16.840.1.113883.6.1" displayName="MECHANISM OF ACTION SECTION"/>
+                     <title mediaType="text/x-hl7-title+xml">12.1 Mechanism of Action</title>
+                     <text>
+                        <paragraph>Obiltoxaximab is a monoclonal antibody that binds the PA of <content styleCode="italics">B. anthracis</content>
+                           <content styleCode="italics">[see Microbiology (<linkHtml href="#s1204">12.4</linkHtml>)]</content>.</paragraph>
+                     </text>
+                     <effectiveTime value="20160328"/>
+                  </section>
+               </component>
+               <component>
+                  <section ID="s1203">
+                     <id root="74f7a989-70db-45f9-a87c-12123fbd5f39"/>
+                     <code code="43682-4" codeSystem="2.16.840.1.113883.6.1" displayName="PHARMACOKINETICS SECTION"/>
+                     <title mediaType="text/x-hl7-title+xml">12.3 Pharmacokinetics</title>
+                     <text>
+                        <paragraph>The PK of obiltoxaximab are linear over the dose range of 4 mg/kg (0.25 times the lowest recommended dose) to 16 mg/kg following single IV administration in healthy subjects. Following single IV administration of ANTHIM 16 mg/kg in healthy, male and female human subjects, the mean C<sub>max</sub> and AUC<sub>inf</sub> were 400 ± 91.2 mcg/mL and 5170 ± 1360 mcg•day/mL, respectively.</paragraph>
+                        <paragraph>
+                           <content styleCode="underline">Repeat Dosing</content>
+                           <br/>Although ANTHIM is intended for single dose administration, the PK of obiltoxaximab following a second dose administration of 16 mg/kg IV given 2 weeks or ≥ 4 months after the first 16 mg/kg IV dose was assessed in 65 healthy subjects (study 2). The obiltoxaximab AUC<sub>inf</sub> following two 16 mg/kg doses 2 weeks apart was approximately twice that after a single 16 mg/kg dose on Day 1 or Day 120. No significant differences in mean estimates of C<sub>max</sub>, AUC<sub>inf</sub>, CL, or half-life of obiltoxaximab between the 2 doses administered ≥4 months apart were observed.</paragraph>
+                        <paragraph>
+                           <content styleCode="underline">Distribution</content>
+                           <br/>Mean obiltoxaximab steady-state volume of distribution was greater than plasma volume, suggesting some tissue distribution.</paragraph>
+                        <paragraph>
+                           <content styleCode="underline">Elimination</content>
+                           <br/>Clearance values were much smaller than the glomerular filtration rate, indicating that there is virtually no renal clearance of obiltoxaximab.</paragraph>
+                        <paragraph>Because the effectiveness of ANTHIM cannot be evaluated in humans, a comparison of ANTHIM exposures achieved in healthy human subjects to those observed in animal models of inhalational anthrax in therapeutic efficacy studies is necessary to support the dosage regimen of 16 mg/kg IV as a single dose for the treatment of inhalational anthrax in humans. Based on observed and simulated data, humans achieve similar obiltoxaximab C<sub>max</sub> and greater AUC<sub>inf</sub> following a single 16 mg/kg IV dose compared to exposures achieved in NZW rabbits and cynomolgus macaques.</paragraph>
+                        <paragraph>
+                           <content styleCode="underline">Specific Populations</content>
+                           <br/>
+                           <content styleCode="italics">Gender, Age, and Race</content>
+                           <br/>ANTHIM PK were evaluated via a population PK analysis using serum samples from 303 healthy adult subjects who received a single IV dose across 3 clinical trials. Based on this analysis, gender (female versus male), race (non-Caucasian versus Caucasian), or age (elderly versus young) had no meaningful effects on the PK parameters for ANTHIM.</paragraph>
+                        <paragraph>
+                           <content styleCode="italics">Pediatric Population</content>
+                           <br/>ANTHIM PK have not been evaluated in children <content styleCode="italics">[see Dosage and Administration (<linkHtml href="#s0202">2.2</linkHtml>) and Use in Specific Populations (<linkHtml href="#s0804">8.4</linkHtml>)].</content>
+                        </paragraph>
+                        <paragraph>
+                           <content styleCode="underline">Drug Interaction Studies</content>
+                           <br/>
+                           <content styleCode="italics">Ciprofloxacin</content>
+                           <br/>In an open-label study evaluating the effect of ciprofloxacin on obiltoxaximab PK in healthy adult male and female subjects (study 3), the administration of 16 mg/kg ANTHIM IV infusion prior to ciprofloxacin IV infusion or ciprofloxacin oral tablets twice daily did not alter the PK of obiltoxaximab. Likewise, obiltoxaximab did not alter the PK of ciprofloxacin administered orally and/or intravenously <content styleCode="italics">[see Drug Interactions (<linkHtml href="#s0701">7.1</linkHtml>)].</content>
+                        </paragraph>
+                     </text>
+                     <effectiveTime value="20160328"/>
+                  </section>
+               </component>
+               <component>
+                  <section ID="s1204">
+                     <id root="000ae7cc-141b-42ae-a00a-9bd0a145f8c5"/>
+                     <code code="49489-8" codeSystem="2.16.840.1.113883.6.1" displayName="MICROBIOLOGY SECTION"/>
+                     <title mediaType="text/x-hl7-title+xml">12.4 Microbiology</title>
+                     <text>
+                        <paragraph>
+                           <content styleCode="underline">Mechanism of Action</content>
+                           <br/>Obiltoxaximab is a monoclonal antibody that binds free PA with an affinity equilibrium dissociation constant (Kd) of 0.33 nM. Obiltoxaximab inhibits the binding of PA to its cellular receptors, preventing the intracellular entry of the anthrax lethal factor and edema factor, the enzymatic toxin components responsible for the pathogenic effects of anthrax toxin.</paragraph>
+                        <paragraph>
+                           <content styleCode="underline">Activity <content styleCode="italics">In Vitro</content> and <content styleCode="italics">In Vivo</content>
+                           </content>
+                           <br/>Obiltoxaximab binds <content styleCode="italics">in vitro</content> to PA from the Ames, Vollum, and Sterne strains of <content styleCode="italics">B. anthracis</content>. Obiltoxaximab binds to an epitope on PA that is conserved across reported strains of <content styleCode="italics">B. anthracis</content>.</paragraph>
+                        <paragraph>
+                           <content styleCode="italics">In vitro</content> studies in a cell-based assay, using murine macrophages, suggest that obiltoxaximab neutralizes the toxic effects of lethal toxin, a combination of PA + lethal factor.</paragraph>
+                        <paragraph>
+                           <content styleCode="italics">In vivo</content> efficacy studies in NZW rabbits and cynomolgus macaques challenged with the spores of the Ames strain of <content styleCode="italics">B. anthracis</content> by the inhalational route, showed a dose-dependent increase in survival following treatment with ANTHIM. Exposure to <content styleCode="italics">B. anthracis</content> spores resulted in increasing concentrations of PA in the serum of NZW rabbits and cynomolgus macaques. After treatment with ANTHIM there was a decrease in PA concentrations in a majority of surviving animals. PA concentrations in placebo animals increased until they died <content styleCode="italics">[see Clinical Studies (<linkHtml href="#s1400">14</linkHtml>)].</content>
+                        </paragraph>
+                     </text>
+                     <effectiveTime value="20160328"/>
+                  </section>
+               </component>
+            </section>
+         </component>
+         <component>
+            <section ID="s1300">
+               <id root="4e656302-5481-4067-9f1f-3e107e3b3ad7"/>
+               <code code="43680-8" codeSystem="2.16.840.1.113883.6.1" displayName="NONCLINICAL TOXICOLOGY SECTION"/>
+               <title mediaType="text/x-hl7-title+xml">13 NONCLINICAL TOXICOLOGY</title>
+               <text/>
+               <effectiveTime value="20160328"/>
+               <component>
+                  <section ID="s1301">
+                     <id root="f86171d6-0f5e-4f76-8b19-6a43871ed2a4"/>
+                     <code code="34083-6" codeSystem="2.16.840.1.113883.6.1" displayName="CARCINOGENESIS &amp; MUTAGENESIS &amp; IMPAIRMENT OF FERTILITY SECTION"/>
+                     <title mediaType="text/x-hl7-title+xml">13.1 Carcinogenesis, Mutagenesis, Impairment of Fertility</title>
+                     <text>
+                        <paragraph>Carcinogenicity, genotoxicity, and fertility studies have not been conducted with obiltoxaximab.</paragraph>
+                     </text>
+                     <effectiveTime value="20150317"/>
+                  </section>
+               </component>
+               <component>
+                  <section ID="s1302">
+                     <id root="b4ec0813-4129-4d6a-b1a3-efed5cf849c4"/>
+                     <code code="34091-9" codeSystem="2.16.840.1.113883.6.1" displayName="ANIMAL PHARMACOLOGY &amp; OR TOXICOLOGY SECTION"/>
+                     <title mediaType="text/x-hl7-title+xml">13.2 Animal Toxicology and/or Pharmacology</title>
+                     <text>
+                        <paragraph>Central nervous system (CNS) lesions (bacteria, inflammation, hemorrhage and occasionally necrosis) were seen in anthrax-infected non-surviving NZW rabbits and cynomolgus macaques administered IV obiltoxaximab (≥4 mg/kg) or control at the time of disease confirmation. Microscopic changes in the non-surviving animals that received obiltoxaximab were due to the presence of extravascular bacteria and not the effect of obiltoxaximab. No dose response relationship for brain histopathology was identified. No treatment-related brain lesions were shown in anthrax-infected surviving NZW rabbits (at day 28) or cynomolgus macaques (up to day 56) after a single administration of obiltoxaximab at doses up to 16 mg/kg and up to 32 mg/kg/dose, respectively. No obiltoxaximab-related neurobehavioral effects were observed in surviving anthrax-infected cynomolgus macaques following treatment with obiltoxaximab.</paragraph>
+                     </text>
+                     <effectiveTime value="20160328"/>
+                  </section>
+               </component>
+            </section>
+         </component>
+         <component>
+            <section ID="s1400">
+               <id root="f67d8651-7772-4fc9-ac22-9a3035343f5d"/>
+               <code code="34092-7" codeSystem="2.16.840.1.113883.6.1" displayName="CLINICAL STUDIES SECTION"/>
+               <title mediaType="text/x-hl7-title+xml">14 CLINICAL STUDIES</title>
+               <text>
+                  <paragraph>
+                     <content styleCode="underline">Overview</content>
+                     <br/>Because it is not feasible or ethical to conduct controlled clinical trials in humans with inhalational anthrax, the efficacy of ANTHIM for the treatment of inhalational anthrax is based on efficacy studies in NZW rabbits and cynomolgus macaques. The animal efficacy studies are conducted under widely varying conditions, such that the survival rates observed in the animal studies cannot be directly compared between studies and may not reflect the rates observed in clinical practice.</paragraph>
+                  <paragraph>
+                     <content styleCode="underline">Types of Studies</content>
+                     <br/>The efficacy of ANTHIM for treatment and prophylaxis of inhalational anthrax was studied in multiple studies in the cynomolgus macaque and NZW rabbit models of inhalational anthrax. These studies tested the efficacy of ANTHIM compared to placebo and the efficacy of ANTHIM in combination with antibacterial drugs relative to the antibacterial drugs alone.</paragraph>
+                  <paragraph>
+                     <content styleCode="underline">Study Design</content>
+                     <br/>The animals were challenged with aerosolized <content styleCode="italics">B. anthracis</content> spores (Ames strain) at approximately 200xLD<sub>50</sub> to achieve 100% mortality if untreated. In prophylaxis studies of inhalational anthrax, animals were treated prior to the development of symptoms. In treatment studies, animals were administered treatment after exhibiting clinical signs or symptoms of systemic anthrax. Cynomolgus macaques were treated at the time of a positive serum electrochemiluminescence (ECL) assay for <content styleCode="italics">B. anthracis</content> PA at a mean time of approximately 40 hours post-challenge with <content styleCode="italics">B. anthracis</content>. In NZW rabbit treatment studies, animals were treated after a positive ECL assay for PA or sustained elevation of body temperature above baseline, at a mean time of approximately 30 hours post-challenge; the majority of animals triggered by temperature. In some of the treatment studies assessing the effect of ANTHIM in combination with antibacterial drugs, treatment was delayed to 72 to 96 hours post-challenge. Most study animals were bacteremic and had a positive ECL assay for PA prior to treatment. Survival was assessed at 28 days post-challenge with <content styleCode="italics">B. anthracis</content> in most studies.</paragraph>
+                  <paragraph>
+                     <content styleCode="underline">Results</content>
+                     <br/>NZW rabbit studies 1 and 2 and cynomolgus macaque studies 3 and 4 evaluated treatment with ANTHIM 16 mg/kg IV single dose compared to placebo in animals with systemic anthrax. Treatment with ANTHIM alone resulted in statistically significant improvement in survival relative to placebo (<linkHtml href="#tbl04">Table 4</linkHtml>).</paragraph>
+                  <table ID="tbl04" width="750" styleCode="Noautorules">
+                     <caption>Table 4. Survival Proportions in Monotherapy Treatment Studies of 16 mg/kg IV, All Randomized Animals Positive for Bacteremia Prior to Treatment</caption>
+                     <tfoot>
+                        <tr>
+                           <td colspan="5">IV: intravenous, CI: Confidence Interval</td>
+                        </tr>
+                        <tr>
+                           <td colspan="5">
+                              <sup>1</sup>Survival assessed 28 days after spore challenge</td>
+                        </tr>
+                        <tr>
+                           <td colspan="5">
+                              <sup>2</sup>p-value is from 1-sided Boschloo Test (with Berger-Boos modification of gamma=0.001) compared to placebo</td>
+                        </tr>
+                        <tr>
+                           <td colspan="5">
+                              <sup>3</sup>Exact 95% confidence interval of difference in survival rates</td>
+                        </tr>
+                        <tr>
+                           <td colspan="5">
+                              <sup>4</sup>ANTHIM products manufactured at two different facilities were tested in two separate treatment arms</td>
+                        </tr>
+                     </tfoot>
+                     <tbody>
+                        <tr valign="middle">
+                           <td styleCode="Toprule Botrule Lrule Rrule"/>
+                           <td align="center" colspan="2" styleCode="Toprule Botrule Lrule Rrule">
+                              <content styleCode="bold">Proportion of Survival at Day 28<sup>1</sup>
+                                 <br/>(# survived/n)</content>
+                           </td>
+                           <td align="center" rowspan="2" styleCode="Toprule Botrule Lrule Rrule">
+                              <content styleCode="bold">p-value<sup>2</sup>
+                              </content>
+                           </td>
+                           <td align="center" rowspan="2" styleCode="Toprule Botrule Lrule Rrule">
+                              <content styleCode="bold">95% CI<sup>3</sup>
+                              </content>
+                           </td>
+                        </tr>
+                        <tr valign="middle">
+                           <td styleCode="Toprule Botrule Lrule Rrule"/>
+                           <td align="center" styleCode="Toprule Botrule Lrule Rrule">
+                              <content styleCode="bold">Placebo</content>
+                           </td>
+                           <td align="center" styleCode="Toprule Botrule Lrule Rrule">
+                              <content styleCode="bold">ANTHIM 16 mg/kg IV</content>
+                           </td>
+                        </tr>
+                        <tr valign="middle">
+                           <td colspan="5" styleCode="Toprule Botrule Lrule Rrule">NZW Rabbits</td>
+                        </tr>
+                        <tr valign="middle">
+                           <td styleCode="Toprule Botrule Lrule Rrule">Study 1</td>
+                           <td align="center" styleCode="Toprule Botrule Lrule Rrule">0 (0/9)</td>
+                           <td align="center" styleCode="Toprule Botrule Lrule Rrule">93% (13/14)</td>
+                           <td align="center" styleCode="Toprule Botrule Lrule Rrule">0.0010</td>
+                           <td align="center" styleCode="Toprule Botrule Lrule Rrule">(0.59, 1.00)</td>
+                        </tr>
+                        <tr valign="middle">
+                           <td styleCode="Toprule Botrule Lrule Rrule">Study 2 </td>
+                           <td align="center" styleCode="Toprule Botrule Lrule Rrule">0 (0/13)</td>
+                           <td align="center" styleCode="Toprule Botrule Lrule Rrule">62% (8/13)</td>
+                           <td align="center" styleCode="Toprule Botrule Lrule Rrule">0.0013</td>
+                           <td align="center" styleCode="Toprule Botrule Lrule Rrule">(0.29, 0.86)</td>
+                        </tr>
+                        <tr valign="middle">
+                           <td colspan="5" styleCode="Toprule Botrule Lrule Rrule">Cynomolgus Macaques</td>
+                        </tr>
+                        <tr valign="middle">
+                           <td styleCode="Toprule Botrule Lrule Rrule">Study 3</td>
+                           <td align="center" styleCode="Toprule Botrule Lrule Rrule">6% (1/16)</td>
+                           <td align="center" styleCode="Toprule Botrule Lrule Rrule">47% (7/15)</td>
+                           <td align="center" styleCode="Toprule Botrule Lrule Rrule">0.0068</td>
+                           <td align="center" styleCode="Toprule Botrule Lrule Rrule">(0.09, 0.68)</td>
+                        </tr>
+                        <tr valign="middle">
+                           <td styleCode="Toprule Botrule Lrule Rrule">Study 4<sup>4</sup>
+                           </td>
+                           <td align="center" styleCode="Toprule Botrule Lrule Rrule">0 (0/17)</td>
+                           <td align="center" styleCode="Toprule Botrule Lrule Rrule">31% (5/16)<br/>35% (6/17)</td>
+                           <td align="center" styleCode="Toprule Botrule Lrule Rrule">0.0085<br/>0.0055</td>
+                           <td align="center" styleCode="Toprule Botrule Lrule Rrule">(0.08, 0.59)<br/>(0.11, 0.62)</td>
+                        </tr>
+                     </tbody>
+                  </table>
+                  <paragraph>ANTHIM administered in combination with antibacterial drugs (levofloxacin, ciprofloxacin and doxycycline) for the treatment of systemic inhalational anthrax disease resulted in higher survival outcomes than antibacterial therapy alone in multiple studies where ANTHIM and antibacterial therapy was given at various doses and treatment times.</paragraph>
+                  <paragraph>ANTHIM administered as prophylaxis resulted in higher survival outcomes compared to placebo in multiple studies where treatment was given at various doses and treatment times. In one study, cynomolgus macaques were administered ANTHIM 16 mg/kg at 18 hours, 24 hours or 36 hours after exposure. Survival was 6/6 (100%) at 18 hours, 5/6 (83%) at 24 hours, and 3/6 (50%) at 36 hours. Another cynomolgus macaque study evaluated ANTHIM 16 mg/kg administered 72, 48 or 24 hours prior to exposure. Survival was 100% at all three time points (14/14, 14/14, 15/15, respectively) at day 56 (end of study). </paragraph>
+               </text>
+               <effectiveTime value="20160328"/>
+            </section>
+         </component>
+         <component>
+            <section ID="s1600">
+               <id root="0520d5ed-9d90-46de-a27a-606fe6fc23cc"/>
+               <code code="34069-5" codeSystem="2.16.840.1.113883.6.1" displayName="HOW SUPPLIED SECTION"/>
+               <title mediaType="text/x-hl7-title+xml">16 HOW SUPPLIED/STORAGE AND HANDLING</title>
+               <text>
+                  <paragraph>ANTHIM injection is a sterile, preservative-free, clear to opalescent, colorless to pale yellow to pale brownish-yellow solution that may contain few translucent-to-white proteinaceous particulates in single-dose vials containing 600 mg/6 mL (100 mg/mL) and is available in the following packaging configuration:</paragraph>
+                  <paragraph>Carton: Contains one (1) single-dose vial of ANTHIM 600 mg/6 mL (NDC 69604-204-02).</paragraph>
+                  <paragraph>Store in refrigerator at 2°C to 8°C (36°F to 46°F) in original carton to protect from light. <content styleCode="italics">Do Not Freeze. Do Not Shake.</content>
+                  </paragraph>
+               </text>
+               <effectiveTime value="20160328"/>
+            </section>
+         </component>
+         <component>
+            <section ID="s1700">
+               <id root="f0a1b930-e7e0-42a9-9b21-353b6676c027"/>
+               <code code="34076-0" codeSystem="2.16.840.1.113883.6.1" displayName="INFORMATION FOR PATIENTS SECTION"/>
+               <title mediaType="text/x-hl7-title+xml">17 PATIENT COUNSELING INFORMATION</title>
+               <text>
+                  <paragraph>Advise the patient to read the FDA-approved patient labeling (<linkHtml href="#patinfo">Patient Information</linkHtml>)</paragraph>
+                  <paragraph>
+                     <content styleCode="underline">Efficacy Based on Animal Models Alone</content>
+                     <br/>Inform patients that:</paragraph>
+                  <list listType="unordered" styleCode="Disc">
+                     <item>The effectiveness of ANTHIM has been studied only in animals with inhalational anthrax. ANTHIM has not been tested in people who have inhalational anthrax.</item>
+                     <item>The safety of ANTHIM has been studied in healthy adults, but no safety data are available in pediatric patients or pregnant women. Limited data are available in geriatric subjects <content styleCode="italics">[see Use in Specific Populations (<linkHtml href="#s0805">8.5</linkHtml>)]</content>.</item>
+                  </list>
+                  <paragraph>
+                     <content styleCode="underline">Hypersensitivity Reactions and Anaphylaxis</content>
+                     <br/>Inform patients that hypersensitivity reactions, including anaphylaxis, have occurred with administration of ANTHIM. Inform patients of the signs and symptoms of hypersensitivity reactions and anaphylaxis and instruct patients to seek immediate medical care if they experience such symptoms during or following administration of ANTHIM <content styleCode="italics">[see Warnings and Precautions (<linkHtml href="#s0501">5.1</linkHtml>)]</content>.</paragraph>
+                  <br/>
+                  <paragraph>Manufactured by:</paragraph>
+                  <paragraph>Elusys Therapeutics, Inc.
+							<br/>2001 Route 46, Suite 310
+							<br/>Parsippany, NJ 07054
+							<br/>U.S. License Number 1907</paragraph>
+                  <br/>
+               </text>
+               <effectiveTime value="20230607"/>
+            </section>
+         </component>
+         <component>
+            <section ID="patinfo">
+               <id root="f9207c05-218b-453f-8d74-bce0b68b3ffe"/>
+               <code code="42230-3" codeSystem="2.16.840.1.113883.6.1" displayName="SPL PATIENT PACKAGE INSERT SECTION"/>
+               <title mediaType="text/x-hl7-title+xml"/>
+               <text>
+                  <table width="100%" styleCode="Noautorules">
+                     <col width="78%" align="left"/>
+                     <col width="22%" align="right"/>
+                     <tfoot>
+                        <tr>
+                           <td>
+                              <paragraph styleCode="footnote">The Patient Information has been approved by the U.S. Food and Drug Administration</paragraph>
+                           </td>
+                           <td>
+                              <paragraph styleCode="footnote">06/2023</paragraph>
+                           </td>
+                        </tr>
+                     </tfoot>
+                     <tbody>
+                        <tr valign="top">
+                           <td colspan="2" styleCode="Toprule Botrule Lrule Rrule" align="center">
+                              <paragraph>
+                                 <content styleCode="bold">PATIENT INFORMATION</content>
+                                 <br/>ANTHIM<sup>®</sup> (an(t)-thim)
+											<br/>obiltoxaximab
+											<br/>injection, for intravenous use</paragraph>
+                           </td>
+                        </tr>
+                        <tr valign="top">
+                           <td colspan="2" styleCode="Toprule Botrule Lrule Rrule" align="left">
+                              <paragraph>
+                                 <content styleCode="bold">What is the most important information I should know about ANTHIM?<br/>ANTHIM can cause serious side effects, including:</content>
+                              </paragraph>
+                              <list listType="unordered" styleCode="Disc">
+                                 <item>
+                                    <content styleCode="bold">Serious allergic reactions.</content> Tell your healthcare provider right away if you have itching, hives, rash, throat irritation, cough, dizziness, shortness of breath or chest discomfort while receiving ANTHIM.</item>
+                              </list>
+                           </td>
+                        </tr>
+                        <tr valign="top">
+                           <td colspan="2" styleCode="Toprule Botrule Lrule Rrule" align="left">
+                              <paragraph>
+                                 <content styleCode="bold">What is ANTHIM?</content>
+                              </paragraph>
+                              <list listType="unordered" styleCode="Disc">
+                                 <item>ANTHIM is a prescription medicine used along with antibiotic medicines to treat people with inhalational anthrax. ANTHIM can also be used to prevent anthrax disease when there are no other treatment options.</item>
+                                 <item>The effectiveness of ANTHIM has been studied only in animals with inhalational anthrax. There have been no studies in people who have inhalational anthrax.</item>
+                                 <item>The safety of ANTHIM was studied in healthy adults. There have been no studies of ANTHIM in children younger than 18 years.</item>
+                                 <item>ANTHIM is not used in prevention or treatment of anthrax meningitis.</item>
+                              </list>
+                           </td>
+                        </tr>
+                        <tr valign="top">
+                           <td colspan="2" styleCode="Toprule Botrule Lrule Rrule" align="left">
+                              <paragraph>
+                                 <content styleCode="bold">Before you receive ANTHIM, tell your healthcare provider about all of your medical conditions, including if you are:</content>
+                              </paragraph>
+                              <list listType="unordered" styleCode="Disc">
+                                 <item>allergic to obiltoxaximab or any of the ingredients in ANTHIM. See the end of this leaflet for a list of ingredients in ANTHIM.</item>
+                                 <item>allergic to diphenhydramine (Benadryl®)</item>
+                                 <item>pregnant or planning to become pregnant. It is not known if ANTHIM will harm your unborn baby.</item>
+                                 <item>breastfeeding or plan to breastfeed. It is not known if ANTHIM passes into your breast milk. You and your healthcare provider should decide if you will receive ANTHIM or breastfeed.</item>
+                              </list>
+                              <paragraph>Tell your healthcare provider about all the medicines you take, including prescription and over-the-counter medicines, vitamins, and herbal supplements.</paragraph>
+                           </td>
+                        </tr>
+                        <tr valign="top">
+                           <td colspan="2" styleCode="Toprule Botrule Lrule Rrule" align="left">
+                              <paragraph>
+                                 <content styleCode="bold">How will I receive ANTHIM?</content>
+                              </paragraph>
+                              <list listType="unordered" styleCode="Disc">
+                                 <item>You will be given 1 dose of ANTHIM by a healthcare provider through a vein (IV or intravenous infusion). It takes about 1 hour and 30 minutes to give you the full dose of medicine.</item>
+                                 <item>Your healthcare provider should give you a medicine called diphenhydramine (Benadryl®) before you receive ANTHIM to help reduce your chances of developing a skin reaction from ANTHIM. Benadryl may be given to you to take by mouth or through a vein.</item>
+                                 <item>Benadryl may make you sleepy, and you should use caution if you will be driving or operating equipment.</item>
+                              </list>
+                           </td>
+                        </tr>
+                        <tr valign="top">
+                           <td colspan="2" styleCode="Toprule Botrule Lrule Rrule" align="left">
+                              <paragraph>
+                                 <content styleCode="bold">What are the possible side effects of ANTHIM?</content>
+                              </paragraph>
+                              <paragraph>
+                                 <content styleCode="bold">The most common side effects of ANTHIM include </content> headache, itching, upper respiratory tract infections, cough, IV site bruising, swelling and/or pain, stuffy nose (nasal congestion), hives, and pain in the hands or feet.</paragraph>
+                              <paragraph>Tell your healthcare provider if you have any side effect that bothers you or that does not go away. These are not all the possible side effects of ANTHIM. For more information, ask your healthcare provider.</paragraph>
+                              <paragraph>Call your doctor for medical advice about side effects. You may report side effects to FDA at 1-800-FDA-1088. For more information go to <content styleCode="bold">dailymed.nlm.nih.gov.</content>
+                              </paragraph>
+                           </td>
+                        </tr>
+                        <tr valign="top">
+                           <td colspan="2" styleCode="Toprule Botrule Lrule Rrule" align="left">
+                              <paragraph>
+                                 <content styleCode="bold">General information about the safe and effective use of ANTHIM.</content>
+                              </paragraph>
+                              <list listType="unordered" styleCode="Disc">
+                                 <item>This patient information leaflet summarizes the most important information about ANTHIM. If you would like more information, talk to your healthcare provider. You can ask your pharmacist or healthcare provider for information about ANTHIM that is written for health professionals.</item>
+                              </list>
+                           </td>
+                        </tr>
+                        <tr valign="top">
+                           <td colspan="2" styleCode="Toprule Botrule Lrule Rrule" align="left">
+                              <paragraph>
+                                 <content styleCode="bold">What are the ingredients in ANTHIM?</content>
+                              </paragraph>
+                              <paragraph>
+                                 <content styleCode="bold">Active ingredient:</content> Obiltoxaximab</paragraph>
+                              <paragraph>
+                                 <content styleCode="bold">Inactive ingredients:</content> L-histidine, sorbitol and polysorbate 80</paragraph>
+                              <paragraph>Manufactured by: Elusys Therapeutics, Inc., Parsippany, NJ 07054, U.S. License Number 1907</paragraph>
+                              <paragraph>For more information call 1-844-808-0222</paragraph>
+                           </td>
+                        </tr>
+                     </tbody>
+                  </table>
+                  <br/>
+               </text>
+               <effectiveTime value="20230607"/>
+            </section>
+         </component>
+         <component>
+            <section ID="pdp01">
+               <id root="b91bce70-35a9-4abe-b6e0-508432a45509"/>
+               <code code="51945-4" codeSystem="2.16.840.1.113883.6.1" displayName="PACKAGE LABEL.PRINCIPAL DISPLAY PANEL"/>
+               <title mediaType="text/x-hl7-title+xml">PRINCIPAL DISPLAY PANEL - NDC: 69604-204-02 - 600 mg/6 mL Vial Label</title>
+               <text>
+                  <paragraph>
+                     <renderMultiMedia referencedObject="img01"/>
+                  </paragraph>
+               </text>
+               <effectiveTime value="20191209"/>
+               <component>
+                  <observationMedia ID="img01">
+                     <text>600 mg/6 mL Vial Label</text>
+                     <value mediaType="image/jpeg" xsi:type="ED">
+                        <reference value="anthim-01.jpg"/>
+                     </value>
+                  </observationMedia>
+               </component>
+            </section>
+         </component>
+         <component>
+            <section ID="pdp02">
+               <id root="edf22bd0-f1f9-11e5-a837-0800200c9a66"/>
+               <code code="51945-4" codeSystem="2.16.840.1.113883.6.1" displayName="PACKAGE LABEL.PRINCIPAL DISPLAY PANEL"/>
+               <title mediaType="text/x-hl7-title+xml">PRINCIPAL DISPLAY PANEL - NDC: 69604-204-02 - 600 mg/6 mL Carton Label</title>
+               <text>
+                  <paragraph>
+                     <renderMultiMedia referencedObject="img02"/>
+                  </paragraph>
+               </text>
+               <effectiveTime value="20160328"/>
+               <component>
+                  <observationMedia ID="img02">
+                     <text>600 mg/6 mL Carton Label</text>
+                     <value mediaType="image/jpeg" xsi:type="ED">
+                        <reference value="anthim-02.jpg"/>
+                     </value>
+                  </observationMedia>
+               </component>
+            </section>
+         </component>
+      </structuredBody>
+   </component>
+</document>

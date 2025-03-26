@@ -1,0 +1,1621 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet href="https://www.accessdata.fda.gov/spl/stylesheet/spl.xsl" type="text/xsl"?>
+<document xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:hl7-org:v3" xsi:schemaLocation="urn:hl7-org:v3 https://www.accessdata.fda.gov/spl/schema/spl.xsd">
+   <id root="f277c0eb-453c-8d7d-e053-2995a90a20df"/>
+   <code code="34391-3" codeSystem="2.16.840.1.113883.6.1" displayName="HUMAN PRESCRIPTION DRUG LABEL"/>
+   <title>These highlights do not include all the information needed to use INTRAROSA 
+ <sup>®</sup> safely and effectively. See full prescribing information for INTRAROSA 
+ <sup>®</sup>.
+ <br/>
+      <br/>
+INTRAROSA 
+ <sup>®</sup> (prasterone) vaginal inserts
+ <br/>
+      <br/>
+Initial U.S. Approval: 2016
+</title>
+   <effectiveTime value="20230117"/>
+   <setId root="ada639d4-bac0-2ad0-e053-2a95a90afce7"/>
+   <versionNumber value="4"/>
+   <author>
+      <time/>
+      <assignedEntity>
+         <representedOrganization>
+            <id root="1.3.6.1.4.1.519.1" extension="081309152"/>
+            <name>Millicent US, Inc.</name>
+            <assignedEntity>
+               <assignedOrganization/>
+            </assignedEntity>
+         </representedOrganization>
+      </assignedEntity>
+   </author>
+   <component>
+      <structuredBody>
+         <component>
+            <section>
+               <id root="f277eb15-66cc-a860-e053-2995a90ad93d"/>
+               <code code="48780-1" codeSystem="2.16.840.1.113883.6.1" displayName="SPL product data elements section"/>
+               <effectiveTime value="20230117"/>
+               <subject>
+                  <manufacturedProduct>
+                     <manufacturedProduct>
+                        <code code="72495-501" codeSystem="2.16.840.1.113883.6.69"/>
+                        <name>Intrarosa</name>
+                        <formCode code="C60933" codeSystem="2.16.840.1.113883.3.26.1.1" displayName="INSERT"/>
+                        <asEntityWithGeneric>
+                           <genericMedicine>
+                              <name>Prasterone</name>
+                           </genericMedicine>
+                        </asEntityWithGeneric>
+                        <ingredient classCode="ACTIB">
+                           <quantity>
+                              <numerator unit="mg" value="6.5"/>
+                              <denominator unit="1" value="1"/>
+                           </quantity>
+                           <ingredientSubstance>
+                              <code code="459AG36T1B" codeSystem="2.16.840.1.113883.4.9"/>
+                              <name>PRASTERONE</name>
+                              <activeMoiety>
+                                 <activeMoiety>
+                                    <code code="459AG36T1B" codeSystem="2.16.840.1.113883.4.9"/>
+                                    <name>PRASTERONE</name>
+                                 </activeMoiety>
+                              </activeMoiety>
+                           </ingredientSubstance>
+                        </ingredient>
+                        <ingredient classCode="IACT">
+                           <ingredientSubstance>
+                              <code code="XDD37N2GPR" codeSystem="2.16.840.1.113883.4.9"/>
+                              <name>HYDROGENATED COCO-GLYCERIDES</name>
+                           </ingredientSubstance>
+                        </ingredient>
+                        <asContent>
+                           <quantity>
+                              <numerator value="1" unit="1"/>
+                              <denominator value="1"/>
+                           </quantity>
+                           <containerPackagedProduct>
+                              <code/>
+                              <formCode code="C43168" codeSystem="2.16.840.1.113883.3.26.1.1" displayName="BLISTER PACK"/>
+                              <asContent>
+                                 <quantity>
+                                    <numerator value="14" unit="1"/>
+                                    <denominator value="1"/>
+                                 </quantity>
+                                 <containerPackagedProduct>
+                                    <code/>
+                                    <formCode code="C43178" codeSystem="2.16.840.1.113883.3.26.1.1" displayName="BOX"/>
+                                    <asContent>
+                                       <quantity>
+                                          <numerator value="1" unit="1"/>
+                                          <denominator value="1"/>
+                                       </quantity>
+                                       <containerPackagedProduct>
+                                          <code code="72495-501-14" codeSystem="2.16.840.1.113883.6.69"/>
+                                          <formCode code="C43178" codeSystem="2.16.840.1.113883.3.26.1.1" displayName="BOX"/>
+                                       </containerPackagedProduct>
+                                       <subjectOf>
+                                          <marketingAct>
+                                             <code code="C53292" codeSystem="2.16.840.1.113883.3.26.1.1"/>
+                                             <statusCode code="active"/>
+                                             <effectiveTime>
+                                                <low value="20201101"/>
+                                             </effectiveTime>
+                                          </marketingAct>
+                                       </subjectOf>
+                                    </asContent>
+                                 </containerPackagedProduct>
+                              </asContent>
+                           </containerPackagedProduct>
+                           <subjectOf>
+                              <characteristic>
+                                 <code code="SPLCMBPRDTP" codeSystem="2.16.840.1.113883.1.11.19255"/>
+                                 <value code="C102837" codeSystem="2.16.840.1.113883.3.26.1.1" displayName="Type 4: Device Coated/Impregnated/Otherwise Combined with Drug" xsi:type="CV"/>
+                              </characteristic>
+                           </subjectOf>
+                        </asContent>
+                     </manufacturedProduct>
+                     <subjectOf>
+                        <approval>
+                           <id extension="NDA208470" root="2.16.840.1.113883.3.150"/>
+                           <code code="C73594" codeSystem="2.16.840.1.113883.3.26.1.1" displayName="NDA"/>
+                           <author>
+                              <territorialAuthority>
+                                 <territory>
+                                    <code code="USA" codeSystem="2.16.840.1.113883.5.28"/>
+                                 </territory>
+                              </territorialAuthority>
+                           </author>
+                        </approval>
+                     </subjectOf>
+                     <subjectOf>
+                        <marketingAct>
+                           <code code="C53292" codeSystem="2.16.840.1.113883.3.26.1.1"/>
+                           <statusCode code="active"/>
+                           <effectiveTime>
+                              <low value="20201101"/>
+                           </effectiveTime>
+                        </marketingAct>
+                     </subjectOf>
+                     <subjectOf>
+                        <characteristic classCode="OBS">
+                           <code code="SPLSHAPE" codeSystem="2.16.840.1.113883.1.11.19255"/>
+                           <value code="C48335" codeSystem="2.16.840.1.113883.3.26.1.1" displayName="BULLET" xsi:type="CE">
+                              <originalText/>
+                           </value>
+                        </characteristic>
+                     </subjectOf>
+                     <subjectOf>
+                        <characteristic classCode="OBS">
+                           <code code="SPLSIZE" codeSystem="2.16.840.1.113883.1.11.19255"/>
+                           <value unit="mm" value="28" xsi:type="PQ"/>
+                        </characteristic>
+                     </subjectOf>
+                     <subjectOf>
+                        <characteristic classCode="OBS">
+                           <code code="SPLSCORE" codeSystem="2.16.840.1.113883.1.11.19255"/>
+                           <value value="1" xsi:type="INT"/>
+                        </characteristic>
+                     </subjectOf>
+                     <subjectOf>
+                        <characteristic classCode="OBS">
+                           <code code="SPLCOLOR" codeSystem="2.16.840.1.113883.1.11.19255"/>
+                           <value code="C48325" codeSystem="2.16.840.1.113883.3.26.1.1" displayName="white" xsi:type="CE">
+                              <originalText>White to off-white</originalText>
+                           </value>
+                        </characteristic>
+                     </subjectOf>
+                     <consumedIn>
+                        <substanceAdministration>
+                           <routeCode code="C38313" codeSystem="2.16.840.1.113883.3.26.1.1" displayName="VAGINAL"/>
+                        </substanceAdministration>
+                     </consumedIn>
+                  </manufacturedProduct>
+               </subject>
+               <subject>
+                  <manufacturedProduct>
+                     <manufacturedProduct>
+                        <code code="72495-401" codeSystem="2.16.840.1.113883.6.69"/>
+                        <name>Intrarosa</name>
+                        <formCode code="C60933" codeSystem="2.16.840.1.113883.3.26.1.1" displayName="INSERT"/>
+                        <asEntityWithGeneric>
+                           <genericMedicine>
+                              <name>Prasterone</name>
+                           </genericMedicine>
+                        </asEntityWithGeneric>
+                        <ingredient classCode="IACT">
+                           <ingredientSubstance>
+                              <code code="XDD37N2GPR" codeSystem="2.16.840.1.113883.4.9"/>
+                              <name>HYDROGENATED COCO-GLYCERIDES</name>
+                           </ingredientSubstance>
+                        </ingredient>
+                        <ingredient classCode="ACTIB">
+                           <quantity>
+                              <numerator unit="mg" value="6.5"/>
+                              <denominator unit="1" value="1"/>
+                           </quantity>
+                           <ingredientSubstance>
+                              <code code="459AG36T1B" codeSystem="2.16.840.1.113883.4.9"/>
+                              <name>PRASTERONE</name>
+                              <activeMoiety>
+                                 <activeMoiety>
+                                    <code code="459AG36T1B" codeSystem="2.16.840.1.113883.4.9"/>
+                                    <name>PRASTERONE</name>
+                                 </activeMoiety>
+                              </activeMoiety>
+                           </ingredientSubstance>
+                        </ingredient>
+                        <asContent>
+                           <quantity>
+                              <numerator value="1" unit="1"/>
+                              <denominator value="1"/>
+                           </quantity>
+                           <containerPackagedProduct>
+                              <code/>
+                              <formCode code="C43168" codeSystem="2.16.840.1.113883.3.26.1.1" displayName="BLISTER PACK"/>
+                              <asContent>
+                                 <quantity>
+                                    <numerator value="28" unit="1"/>
+                                    <denominator value="1"/>
+                                 </quantity>
+                                 <containerPackagedProduct>
+                                    <code/>
+                                    <formCode code="C43178" codeSystem="2.16.840.1.113883.3.26.1.1" displayName="BOX"/>
+                                    <asContent>
+                                       <quantity>
+                                          <numerator value="1" unit="1"/>
+                                          <denominator value="1"/>
+                                       </quantity>
+                                       <containerPackagedProduct>
+                                          <code code="72495-401-28" codeSystem="2.16.840.1.113883.6.69"/>
+                                          <formCode code="C43178" codeSystem="2.16.840.1.113883.3.26.1.1" displayName="BOX"/>
+                                       </containerPackagedProduct>
+                                       <subjectOf>
+                                          <marketingAct>
+                                             <code code="C53292" codeSystem="2.16.840.1.113883.3.26.1.1"/>
+                                             <statusCode code="active"/>
+                                             <effectiveTime>
+                                                <low value="20201101"/>
+                                             </effectiveTime>
+                                          </marketingAct>
+                                       </subjectOf>
+                                    </asContent>
+                                 </containerPackagedProduct>
+                              </asContent>
+                           </containerPackagedProduct>
+                           <subjectOf>
+                              <characteristic>
+                                 <code code="SPLCMBPRDTP" codeSystem="2.16.840.1.113883.1.11.19255"/>
+                                 <value code="C102837" codeSystem="2.16.840.1.113883.3.26.1.1" displayName="Type 4: Device Coated/Impregnated/Otherwise Combined with Drug" xsi:type="CV"/>
+                              </characteristic>
+                           </subjectOf>
+                        </asContent>
+                     </manufacturedProduct>
+                     <subjectOf>
+                        <approval>
+                           <id extension="NDA208470" root="2.16.840.1.113883.3.150"/>
+                           <code code="C73594" codeSystem="2.16.840.1.113883.3.26.1.1" displayName="NDA"/>
+                           <author>
+                              <territorialAuthority>
+                                 <territory>
+                                    <code code="USA" codeSystem="2.16.840.1.113883.5.28"/>
+                                 </territory>
+                              </territorialAuthority>
+                           </author>
+                        </approval>
+                     </subjectOf>
+                     <subjectOf>
+                        <marketingAct>
+                           <code code="C53292" codeSystem="2.16.840.1.113883.3.26.1.1"/>
+                           <statusCode code="active"/>
+                           <effectiveTime>
+                              <low value="20201101"/>
+                           </effectiveTime>
+                        </marketingAct>
+                     </subjectOf>
+                     <subjectOf>
+                        <characteristic classCode="OBS">
+                           <code code="SPLCOLOR" codeSystem="2.16.840.1.113883.1.11.19255"/>
+                           <value code="C48325" codeSystem="2.16.840.1.113883.3.26.1.1" displayName="white" xsi:type="CE">
+                              <originalText>White to off-white</originalText>
+                           </value>
+                        </characteristic>
+                     </subjectOf>
+                     <subjectOf>
+                        <characteristic classCode="OBS">
+                           <code code="SPLSHAPE" codeSystem="2.16.840.1.113883.1.11.19255"/>
+                           <value code="C48335" codeSystem="2.16.840.1.113883.3.26.1.1" displayName="BULLET" xsi:type="CE">
+                              <originalText/>
+                           </value>
+                        </characteristic>
+                     </subjectOf>
+                     <subjectOf>
+                        <characteristic classCode="OBS">
+                           <code code="SPLSIZE" codeSystem="2.16.840.1.113883.1.11.19255"/>
+                           <value unit="mm" value="28" xsi:type="PQ"/>
+                        </characteristic>
+                     </subjectOf>
+                     <subjectOf>
+                        <characteristic classCode="OBS">
+                           <code code="SPLSCORE" codeSystem="2.16.840.1.113883.1.11.19255"/>
+                           <value value="1" xsi:type="INT"/>
+                        </characteristic>
+                     </subjectOf>
+                     <consumedIn>
+                        <substanceAdministration>
+                           <routeCode code="C38313" codeSystem="2.16.840.1.113883.3.26.1.1" displayName="VAGINAL"/>
+                        </substanceAdministration>
+                     </consumedIn>
+                  </manufacturedProduct>
+               </subject>
+            </section>
+         </component>
+         <component>
+            <section ID="d_link_425de789-b8c1-209b-e054-00144ff8d46c">
+               <id root="ae476155-bfaa-ad58-e053-2a95a90a62cc"/>
+               <code code="34067-9" codeSystem="2.16.840.1.113883.6.1" displayName="INDICATIONS &amp; USAGE SECTION"/>
+               <title>1 INDICATIONS AND USAGE</title>
+               <text>
+                  <paragraph>INTRAROSA 
+  <sup>®</sup> is a steroid indicated for the treatment of moderate to severe dyspareunia, a symptom of vulvar and vaginal atrophy, due to menopause.
+ </paragraph>
+               </text>
+               <effectiveTime value="20201101"/>
+               <excerpt>
+                  <highlight>
+                     <text>
+                        <paragraph>INTRAROSA 
+    <sup>®</sup> is a steroid indicated for the treatment of moderate to severe dyspareunia, a symptom of vulvar and vaginal atrophy, due to menopause. ( 
+    <linkHtml href="#id_link_425de789-b8c1-209b-e054-00144ff8d46c">1</linkHtml>)
+   </paragraph>
+                        <paragraph/>
+                        <paragraph/>
+                        <paragraph/>
+                     </text>
+                  </highlight>
+               </excerpt>
+            </section>
+         </component>
+         <component>
+            <section ID="id_link_425e5a10-8ebb-518f-e054-00144ff88e88">
+               <id root="ae476155-bfad-ad58-e053-2a95a90a62cc"/>
+               <code code="34068-7" codeSystem="2.16.840.1.113883.6.1" displayName="DOSAGE &amp; ADMINISTRATION SECTION"/>
+               <title>2 DOSAGE AND ADMINISTRATION</title>
+               <text>
+                  <paragraph>Administer one INTRAROSA vaginal insert once daily at bedtime, using the provided applicator.</paragraph>
+               </text>
+               <effectiveTime value="20201101"/>
+               <excerpt>
+                  <highlight>
+                     <text>
+                        <paragraph>One vaginal insert, once daily at bedtime. ( 
+    <linkHtml href="#id_link_425e5a10-8ebb-518f-e054-00144ff88e88">2</linkHtml>)
+   </paragraph>
+                        <paragraph/>
+                        <paragraph/>
+                        <paragraph/>
+                     </text>
+                  </highlight>
+               </excerpt>
+            </section>
+         </component>
+         <component>
+            <section ID="id_link_425e5a10-8ebd-518f-e054-00144ff88e88">
+               <id root="ae476155-bfb0-ad58-e053-2a95a90a62cc"/>
+               <code code="43678-2" codeSystem="2.16.840.1.113883.6.1" displayName="DOSAGE FORMS &amp; STRENGTHS SECTION"/>
+               <title>3 DOSAGE FORMS AND STRENGTHS</title>
+               <text>
+                  <paragraph>Vaginal insert: 6.5 mg of prasterone, smooth, white to off-white solid fat bullet-shaped, measuring 28 mm in length, 9 mm in width at its wider end, and weighing 1.2 gram.</paragraph>
+               </text>
+               <effectiveTime value="20201101"/>
+               <excerpt>
+                  <highlight>
+                     <text>
+                        <paragraph>Vaginal Insert: 6.5 mg of prasterone. ( 
+    <linkHtml href="#id_link_425e5a10-8ebd-518f-e054-00144ff88e88">3</linkHtml>)
+   </paragraph>
+                        <paragraph/>
+                        <paragraph/>
+                        <paragraph/>
+                     </text>
+                  </highlight>
+               </excerpt>
+            </section>
+         </component>
+         <component>
+            <section ID="id_link_425e5a10-8ebf-518f-e054-00144ff88e88">
+               <id root="ae476046-5c48-82e4-e053-2995a90af3ef"/>
+               <code code="34070-3" codeSystem="2.16.840.1.113883.6.1" displayName="CONTRAINDICATIONS SECTION"/>
+               <title>4 CONTRAINDICATIONS</title>
+               <text>
+                  <paragraph>Undiagnosed abnormal genital bleeding: Any postmenopausal woman with undiagnosed, persistent or recurring genital bleeding should be evaluated to determine the cause of the bleeding before consideration of treatment with INTRAROSA.</paragraph>
+               </text>
+               <effectiveTime value="20201101"/>
+               <excerpt>
+                  <highlight>
+                     <text>
+                        <paragraph>Undiagnosed abnormal genital bleeding. ( 
+    <linkHtml href="#id_link_425e5a10-8ebf-518f-e054-00144ff88e88">4</linkHtml>)
+   </paragraph>
+                        <paragraph/>
+                        <paragraph/>
+                        <paragraph/>
+                     </text>
+                  </highlight>
+               </excerpt>
+            </section>
+         </component>
+         <component>
+            <section ID="id_link_425ea21f-ca6f-422a-e054-00144ff8d46c">
+               <id root="ae476155-bfb3-ad58-e053-2a95a90a62cc"/>
+               <code code="43685-7" codeSystem="2.16.840.1.113883.6.1" displayName="WARNINGS AND PRECAUTIONS SECTION"/>
+               <title>5 WARNINGS AND PRECAUTIONS</title>
+               <effectiveTime value="20201101"/>
+               <excerpt>
+                  <highlight>
+                     <text>
+                        <paragraph>Current or Past History of Breast Cancer. ( 
+    <linkHtml href="#id_link_425ea21f-ca72-422a-e054-00144ff8d46c">5.1</linkHtml>)
+   </paragraph>
+                        <paragraph/>
+                        <paragraph/>
+                        <paragraph/>
+                     </text>
+                  </highlight>
+               </excerpt>
+               <component>
+                  <section ID="id_link_425ea21f-ca72-422a-e054-00144ff8d46c">
+                     <id root="ae476da2-72c6-f91c-e053-2a95a90a8a35"/>
+                     <code code="43685-7" codeSystem="2.16.840.1.113883.6.1" displayName="WARNINGS AND PRECAUTIONS SECTION"/>
+                     <title>5.1 Current or Past History of Breast Cancer</title>
+                     <text>
+                        <paragraph>Estrogen is a metabolite of prasterone. Use of exogenous estrogen is contraindicated in women with a known or suspected history of breast cancer. INTRAROSA has not been studied in women with a history of breast cancer.</paragraph>
+                     </text>
+                     <effectiveTime value="20201101"/>
+                  </section>
+               </component>
+            </section>
+         </component>
+         <component>
+            <section ID="id_link_425ea21f-ca74-422a-e054-00144ff8d46c">
+               <id root="ae476046-5c4b-82e4-e053-2995a90af3ef"/>
+               <code code="34084-4" codeSystem="2.16.840.1.113883.6.1" displayName="ADVERSE REACTIONS SECTION"/>
+               <title>6 ADVERSE REACTIONS</title>
+               <effectiveTime value="20201101"/>
+               <excerpt>
+                  <highlight>
+                     <text>
+                        <paragraph>In four 12-week randomized, placebo-controlled clinical trials, the most common adverse reaction with an incidence ≥ 2 percent was vaginal discharge. ( 
+    <linkHtml href="#id_link_425ec720-8ed2-5fa1-e054-00144ff88e88">6.1</linkHtml>)
+   </paragraph>
+                        <paragraph/>
+                        <paragraph/>
+                        <paragraph>In one 52-week open-label clinical trial, the most common adverse reactions with an incidence ≥ 2 percent were vaginal discharge and abnormal Pap smear. ( 
+    <linkHtml href="#id_link_425ec720-8ed2-5fa1-e054-00144ff88e88">6.1</linkHtml>)
+   </paragraph>
+                        <paragraph/>
+                        <paragraph/>
+                        <paragraph/>
+                        <paragraph/>
+                        <paragraph>
+                           <content styleCode="bold">To report SUSPECTED ADVERSE REACTIONS, contact Millicent U.S. Inc at 1-877-810-2101 or FDA at 1-800-FDA-1088 or 
+     <linkHtml href="http://www.fda.gov/medwatch">www.fda.gov/medwatch</linkHtml>. 
+    </content>
+                        </paragraph>
+                        <paragraph/>
+                        <paragraph/>
+                        <paragraph/>
+                        <paragraph/>
+                        <paragraph/>
+                        <paragraph/>
+                     </text>
+                  </highlight>
+               </excerpt>
+               <component>
+                  <section ID="id_link_425ec720-8ed2-5fa1-e054-00144ff88e88">
+                     <id root="ae476046-5c4c-82e4-e053-2995a90af3ef"/>
+                     <code code="34084-4" codeSystem="2.16.840.1.113883.6.1" displayName="ADVERSE REACTIONS SECTION"/>
+                     <title>6.1 Clinical Trials Experience</title>
+                     <text>
+                        <paragraph>Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice.</paragraph>
+                        <paragraph/>
+                        <paragraph/>
+                        <paragraph>In four (4) placebo-controlled, 12-week clinical trials [91% - White Caucasian non-Hispanic women, 7% - Black or African American women, and 2% - "Other" women, average age 58.8 years of age (range 40 to 80 years of age)], vaginal discharge is the most frequently reported treatment-emergent adverse reaction in the INTRAROSA treatment group with an incidence of ≥ 2 percent and greater than reported in the placebo treatment group. There were 38 cases in 665 participating postmenopausal women (5.71 percent) in the INTRAROSA treatment group compared to 17 cases in 464 participating postmenopausal women (3.66 percent) in the placebo treatment group.</paragraph>
+                        <paragraph/>
+                        <paragraph/>
+                        <paragraph>In a 52-week non-comparative clinical trial [92% - White Caucasian non-Hispanic women, 6% - Black or African American women, and 2% - "Other" women, average age 57.9 years of age (range 43 to 75 years of age)], vaginal discharge and abnormal Pap smear at 52 weeks were the most frequently reported treatment-emergent adverse reaction in women receiving INTRAROSA with an incidence of ≥ 2 percent. There were 74 cases of vaginal discharge (14.2 percent) and 11 cases of abnormal Pap smear (2.1 percent) in 521 participating postmenopausal women. The eleven (11) cases of abnormal Pap smear at 52 weeks include one (1) case of low-grade squamous intraepithelial lesion (LSIL), and ten (10) cases of atypical cells of undetermined significance (ASCUS).</paragraph>
+                     </text>
+                     <effectiveTime value="20201101"/>
+                  </section>
+               </component>
+            </section>
+         </component>
+         <component>
+            <section ID="id_link_425ec720-8ed4-5fa1-e054-00144ff88e88">
+               <id root="ae476046-5c50-82e4-e053-2995a90af3ef"/>
+               <code code="43684-0" codeSystem="2.16.840.1.113883.6.1" displayName="USE IN SPECIFIC POPULATIONS SECTION"/>
+               <title>8 USE IN SPECIFIC POPULATIONS</title>
+               <effectiveTime value="20201101"/>
+               <component>
+                  <section ID="id_link_425ea21f-ca76-422a-e054-00144ff8d46c">
+                     <id root="ae477005-c81b-29dd-e053-2a95a90a5e2a"/>
+                     <code code="43684-0" codeSystem="2.16.840.1.113883.6.1" displayName="USE IN SPECIFIC POPULATIONS SECTION"/>
+                     <title>8.1 Pregnancy</title>
+                     <text>
+                        <paragraph>
+                           <content styleCode="underline">Risk Summary</content>
+                        </paragraph>
+                        <paragraph>INTRAROSA is indicated only in postmenopausal women. There are no data with INTRAROSA use in pregnant women regarding any drug-associated risks. Animal reproduction studies have not been conducted with prasterone.</paragraph>
+                     </text>
+                     <effectiveTime value="20201101"/>
+                  </section>
+               </component>
+               <component>
+                  <section ID="id_link_425e8e87-882a-59d0-e054-00144ff88e88">
+                     <id root="ae477005-c81e-29dd-e053-2a95a90a5e2a"/>
+                     <code code="43684-0" codeSystem="2.16.840.1.113883.6.1" displayName="USE IN SPECIFIC POPULATIONS SECTION"/>
+                     <title>8.2 Lactation</title>
+                     <text>
+                        <paragraph>
+                           <content styleCode="underline">Risk Summary</content>
+                        </paragraph>
+                        <paragraph>INTRAROSA is indicated only in postmenopausal women. There is no information on the presence of prasterone in human milk, the effects on the breastfed infant, or the effects on milk production.</paragraph>
+                     </text>
+                     <effectiveTime value="20201101"/>
+                  </section>
+               </component>
+               <component>
+                  <section ID="id_link_425ea21f-ca78-422a-e054-00144ff8d46c">
+                     <id root="ae477402-26ba-0b97-e053-2995a90a4016"/>
+                     <code code="43684-0" codeSystem="2.16.840.1.113883.6.1" displayName="USE IN SPECIFIC POPULATIONS SECTION"/>
+                     <title>8.4 Pediatric Use</title>
+                     <text>
+                        <paragraph>Safety and effectiveness have not been established in pediatric patients.</paragraph>
+                     </text>
+                     <effectiveTime value="20201101"/>
+                  </section>
+               </component>
+               <component>
+                  <section ID="id_link_425ea21f-ca7c-422a-e054-00144ff8d46c">
+                     <id root="ae477005-c821-29dd-e053-2a95a90a5e2a"/>
+                     <code code="43684-0" codeSystem="2.16.840.1.113883.6.1" displayName="USE IN SPECIFIC POPULATIONS SECTION"/>
+                     <title>8.5 Geriatric Use</title>
+                     <text>
+                        <paragraph>Of the 1522 prasterone-treated postmenopausal women enrolled in the four placebo-controlled 12-week and one open-label 52-week clinical trial, 19 and 11 percent, respectively, were 65 years of age or older.</paragraph>
+                     </text>
+                     <effectiveTime value="20201101"/>
+                  </section>
+               </component>
+               <component>
+                  <section ID="id_link_425ee049-0328-527e-e054-00144ff8d46c">
+                     <id root="ae477388-7a3b-2218-e053-2995a90ac503"/>
+                     <code code="43684-0" codeSystem="2.16.840.1.113883.6.1" displayName="USE IN SPECIFIC POPULATIONS SECTION"/>
+                     <title>8.6 Renal Impairment</title>
+                     <text>
+                        <paragraph>The effect of renal impairment on the pharmacokinetics of prasterone has not been studied.</paragraph>
+                     </text>
+                     <effectiveTime value="20201101"/>
+                  </section>
+               </component>
+               <component>
+                  <section ID="id_link_425ea21f-ca7e-422a-e054-00144ff8d46c">
+                     <id root="ae477402-26bd-0b97-e053-2995a90a4016"/>
+                     <code code="43684-0" codeSystem="2.16.840.1.113883.6.1" displayName="USE IN SPECIFIC POPULATIONS SECTION"/>
+                     <title>8.7 Hepatic Impairment</title>
+                     <text>
+                        <paragraph>The effect of hepatic impairment on the pharmacokinetics of prasterone has not been studied.</paragraph>
+                     </text>
+                     <effectiveTime value="20201101"/>
+                  </section>
+               </component>
+            </section>
+         </component>
+         <component>
+            <section ID="id_link_425ea21f-ca81-422a-e054-00144ff8d46c">
+               <id root="ae477402-26bf-0b97-e053-2995a90a4016"/>
+               <code code="34089-3" codeSystem="2.16.840.1.113883.6.1" displayName="DESCRIPTION SECTION"/>
+               <title>11 DESCRIPTION</title>
+               <text>
+                  <paragraph>INTRAROSA (prasterone) vaginal insert is a vaginally administered steroid. Prasterone is identified chemically as 3β-hydroxyandrost-5-en-17-one. It has the empirical formula C 
+  <sub>19</sub>H 
+  <sub>28</sub>O 
+  <sub>2</sub> with a molecular weight of 288.424 g/mol. Prasterone is a white to off-white crystalline powder insoluble in water and soluble in sodium lauryl sulfate (SLS). The structural formula is:
+ </paragraph>
+                  <paragraph/>
+                  <paragraph>
+                     <renderMultiMedia referencedObject="img_425ea21f-ca7f-422a-e054-00144ff8d46c"/>
+                  </paragraph>
+                  <paragraph>Each INTRAROSA (prasterone) vaginal insert contains 6.5 mg of prasterone in 1.3 ml of off-white hard fat (Witepsol). 
+  <linkHtml name="_Ref411852232"/>
+                  </paragraph>
+                  <paragraph/>
+               </text>
+               <effectiveTime value="20201101"/>
+               <component>
+                  <observationMedia ID="img_425ea21f-ca7f-422a-e054-00144ff8d46c">
+                     <text>Prasterone</text>
+                     <value mediaType="image/jpeg" xsi:type="ED">
+                        <reference value="intrarosa-01.jpg"/>
+                     </value>
+                  </observationMedia>
+               </component>
+            </section>
+         </component>
+         <component>
+            <section ID="id_link_425ee049-0382-527e-e054-00144ff8d46c">
+               <id root="ae477402-26c0-0b97-e053-2995a90a4016"/>
+               <code code="34090-1" codeSystem="2.16.840.1.113883.6.1" displayName="CLINICAL PHARMACOLOGY SECTION"/>
+               <title>12 CLINICAL PHARMACOLOGY</title>
+               <effectiveTime value="20201101"/>
+               <component>
+                  <section ID="id_link_425f25df-28b1-5dff-e054-00144ff8d46c">
+                     <id root="ae477402-26c6-0b97-e053-2995a90a4016"/>
+                     <code code="34090-1" codeSystem="2.16.840.1.113883.6.1" displayName="CLINICAL PHARMACOLOGY SECTION"/>
+                     <title>12.1 Mechanism of Action</title>
+                     <text>
+                        <paragraph>Prasterone is an inactive endogenous steroid and is converted into active androgens and/or estrogens. The mechanism of action of INTRAROSA in postmenopausal women with vulvar and vaginal atrophy is not fully established.</paragraph>
+                     </text>
+                     <effectiveTime value="20201101"/>
+                  </section>
+               </component>
+               <component>
+                  <section ID="id_link_425f25df-28b5-5dff-e054-00144ff8d46c">
+                     <id root="ae477388-7a3c-2218-e053-2995a90ac503"/>
+                     <code code="34090-1" codeSystem="2.16.840.1.113883.6.1" displayName="CLINICAL PHARMACOLOGY SECTION"/>
+                     <title>12.3 Pharmacokinetics</title>
+                     <text>
+                        <paragraph>In a study conducted in postmenopausal women, administration of the INTRAROSA vaginal insert once daily for 7 days resulted in a mean prasterone C 
+  <sub>max</sub> and area under the curve from 0 to 24 hours (AUC 
+  <sub>0-24</sub>) at Day 7 of 4.4 ng/mL and 56.2 ng·h/mL, respectively, which were significantly higher than those in the group treated with placebo (Table 1). The C 
+  <sub>max</sub> and AUC 
+  <sub>0-24</sub> of the metabolites testosterone and estradiol were also slightly higher in women treated with the INTRAROSA vaginal insert compared to those receiving placebo.
+ </paragraph>
+                        <table border="1" cellpadding="10" cellspacing="2" width="700px" styleCode="Noautorules">
+                           <caption>Table 1. C 
+   <sub>max</sub> and AUC 
+   <sub>0-24</sub> of Prasterone, Testosterone, and Estradiol on Day 7 Following Daily Administration of Placebo or INTRAROSA (mean ± SD).
+  </caption>
+                           <colgroup>
+                              <col align="center"/>
+                              <col align="center"/>
+                              <col align="center"/>
+                              <col align="center"/>
+                           </colgroup>
+                           <tfoot>
+                              <tr>
+                                 <td align="left" colspan="4">
+                                    <sup>1:</sup> N=8
+    </td>
+                              </tr>
+                           </tfoot>
+                           <tbody>
+                              <tr>
+                                 <td colspan="2" rowspan="1" styleCode="Lrule Rrule Toprule Botrule" valign="middle"/>
+                                 <td styleCode="Lrule Rrule Toprule Botrule" valign="middle">
+                                    <content styleCode="bold">Placebo</content> (N=9)
+    </td>
+                                 <td styleCode="Lrule Rrule Toprule Botrule" valign="middle">
+                                    <content styleCode="bold">INTRAROSA</content> (N=10)
+    </td>
+                              </tr>
+                              <tr>
+                                 <td colspan="1" rowspan="2" styleCode="Lrule Rrule Toprule Botrule" valign="middle">
+                                    <content styleCode="bold">Prasterone</content>
+                                 </td>
+                                 <td scope="row" styleCode="Lrule Rrule Toprule Botrule" valign="middle">C 
+     <sub>max</sub> (ng/mL)
+    </td>
+                                 <td styleCode="Lrule Rrule Toprule Botrule" valign="middle">1.60 (±0.95)</td>
+                                 <td styleCode="Lrule Rrule Toprule Botrule" valign="middle">4.42 (±1.49)</td>
+                              </tr>
+                              <tr>
+                                 <td styleCode="Lrule Rrule Toprule Botrule" valign="middle">AUC 
+     <sub>0-24 </sub>(ng·h/mL)
+    </td>
+                                 <td styleCode="Lrule Rrule Toprule Botrule" valign="middle">24.82 (±14.31)</td>
+                                 <td styleCode="Lrule Rrule Toprule Botrule" valign="middle">56.17 (±28.27)</td>
+                              </tr>
+                              <tr>
+                                 <td colspan="1" rowspan="2" styleCode="Lrule Rrule Toprule Botrule" valign="middle">
+                                    <content styleCode="bold">Testosterone</content>
+                                 </td>
+                                 <td styleCode="Lrule Rrule Toprule Botrule" valign="middle">C 
+     <sub>max </sub>(ng/mL)
+    </td>
+                                 <td styleCode="Lrule Rrule Toprule Botrule" valign="middle">0.12 (±0.04) 
+     <sup>1</sup>
+                                 </td>
+                                 <td styleCode="Lrule Rrule Toprule Botrule" valign="middle">0.15 (±0.05)</td>
+                              </tr>
+                              <tr>
+                                 <td styleCode="Lrule Rrule Toprule Botrule" valign="middle">AUC 
+     <sub>0-24</sub> (ng·h/mL)
+    </td>
+                                 <td styleCode="Lrule Rrule Toprule Botrule" valign="middle">2.58 (±0.94) 
+     <sup>1</sup>
+                                 </td>
+                                 <td styleCode="Lrule Rrule Toprule Botrule" valign="middle">2.79 (±0.94)</td>
+                              </tr>
+                              <tr>
+                                 <td colspan="1" rowspan="2" styleCode="Lrule Rrule Toprule Botrule" valign="middle">
+                                    <content styleCode="bold">Estradiol</content>
+                                 </td>
+                                 <td styleCode="Lrule Rrule Toprule Botrule" valign="middle">C 
+     <sub>max </sub>(pg/mL)
+    </td>
+                                 <td styleCode="Lrule Rrule Toprule Botrule" valign="middle">3.33 (±1.31)</td>
+                                 <td styleCode="Lrule Rrule Toprule Botrule" valign="middle">5.04 (±2.68)</td>
+                              </tr>
+                              <tr>
+                                 <td styleCode="Lrule Rrule Toprule Botrule" valign="middle">AUC 
+     <sub>0-24</sub> (pg·h/mL)
+    </td>
+                                 <td styleCode="Lrule Rrule Toprule Botrule" valign="middle">66.49 (±20.70)</td>
+                                 <td styleCode="Lrule Rrule Toprule Botrule" valign="middle">96.93 (±52.06)</td>
+                              </tr>
+                           </tbody>
+                        </table>
+                        <paragraph/>
+                        <paragraph>
+                           <content styleCode="bold">Figure 1. Serum Concentrations of Prasterone (A), Testosterone (B), and Estradiol (C) Measured Over a 24h Period on Day 7 </content>
+                           <content styleCode="bold">Following Daily Administration of Placebo or INTRAROSA (mean ± SD). </content>
+                        </paragraph>
+                        <paragraph>
+                           <renderMultiMedia referencedObject="img_4262ddc9-8e28-108a-e054-00144ff88e88"/>
+                        </paragraph>
+                        <paragraph/>
+                        <paragraph>In two primary efficacy trials, daily administration of INTRAROSA vaginal insert for 12 weeks increased mean serum C 
+  <sub>trough</sub> of prasterone and its metabolites testosterone and estradiol by 47%, 21% and 19% from baseline, respectively. This comparison based on C 
+  <sub>trough</sub> may underestimate the magnitude of increase in prasterone and metabolites’ exposure because it does not take into account the overall concentration-time profile following administration of INTRAROSA.
+ </paragraph>
+                        <paragraph/>
+                        <paragraph>
+                           <content styleCode="italics">Metabolism</content>
+                        </paragraph>
+                        <paragraph>Exogenous prasterone is metabolized in the same manner as endogenous prasterone. Human steroidogenic enzymes such as hydroxysteroid dehydrogenases, 5α-reductases and aromatases transform prasterone into androgens and estrogens.</paragraph>
+                     </text>
+                     <effectiveTime value="20201101"/>
+                     <component>
+                        <observationMedia ID="img_4262ddc9-8e28-108a-e054-00144ff88e88">
+                           <text>Figure 1</text>
+                           <value mediaType="image/jpeg" xsi:type="ED">
+                              <reference value="intrarosa-02.jpg"/>
+                           </value>
+                        </observationMedia>
+                     </component>
+                  </section>
+               </component>
+            </section>
+         </component>
+         <component>
+            <section ID="id_link_425fbf8e-8ed1-1131-e054-00144ff88e88">
+               <id root="ae477402-26c7-0b97-e053-2995a90a4016"/>
+               <code code="43680-8" codeSystem="2.16.840.1.113883.6.1" displayName="NONCLINICAL TOXICOLOGY SECTION"/>
+               <title>13 NONCLINICAL TOXICOLOGY</title>
+               <effectiveTime value="20201101"/>
+               <component>
+                  <section ID="id_link_425fbf8e-8ed3-1131-e054-00144ff88e88">
+                     <id root="ae4780ac-7c2d-65aa-e053-2a95a90a5151"/>
+                     <code code="43680-8" codeSystem="2.16.840.1.113883.6.1" displayName="NONCLINICAL TOXICOLOGY SECTION"/>
+                     <title>13.1 Carcinogenesis, Mutagenesis, Impairment of Fertility</title>
+                     <text>
+                        <paragraph>
+                           <content styleCode="underline">Carcinogenesis</content>
+                        </paragraph>
+                        <paragraph>Long-term studies in animals to evaluate carcinogenic potential have not been conducted with prasterone. Two metabolites of prasterone, testosterone and estradiol, are carcinogenic in animals.</paragraph>
+                        <paragraph/>
+                        <paragraph>
+                           <content styleCode="underline">Mutagenesis</content>
+                        </paragraph>
+                        <paragraph>Prasterone was not genotoxic in the in vitro bacterial mutagenesis assay (Ames test), the in vitro chromosomal aberrations assay with human peripheral blood lymphocytes, and in vivo in the mouse bone marrow micronucleus assay.</paragraph>
+                        <paragraph/>
+                        <paragraph>
+                           <content styleCode="underline">Fertility</content>
+                        </paragraph>
+                        <paragraph>Fertility studies were not conducted with prasterone.</paragraph>
+                     </text>
+                     <effectiveTime value="20201101"/>
+                  </section>
+               </component>
+            </section>
+         </component>
+         <component>
+            <section ID="id_link_425fbf8e-8ed8-1131-e054-00144ff88e88">
+               <id root="ae477388-7a3e-2218-e053-2995a90ac503"/>
+               <code code="34092-7" codeSystem="2.16.840.1.113883.6.1" displayName="CLINICAL STUDIES SECTION"/>
+               <title>14 CLINICAL STUDIES</title>
+               <text>
+                  <paragraph>The effectiveness of INTRAROSA on moderate to severe dyspareunia, a symptom of vulvar and vaginal atrophy, due to menopause was examined in two primary 12-week placebo-controlled efficacy trials.</paragraph>
+                  <paragraph/>
+                  <paragraph>The first clinical trial (Trial 1) was a 12-week randomized, double-blind and placebo-controlled trial that enrolled 255 generally healthy postmenopausal women between 40 to 75 years of age (mean 58.6 years) who, at baseline, identified moderate to severe dyspareunia as their most bothersome symptom of vulvar and vaginal atrophy. In addition to moderate to severe dyspareunia, women had ≤ 5% superficial cells on vaginal smear and a vaginal pH &gt; 5. Women were randomized in a 1:1:1 ratio between three treatment groups who received daily INTRAROSA (n=87), one active comparator vaginal insert (n=87), or placebo (n=81). All women were assessed for improvement from Baseline to Week 12 for four co-primary efficacy endpoints: most bothersome moderate to severe symptom of dyspareunia, the percentage of vaginal superficial cells, the percentage of parabasal cells, and vaginal pH.</paragraph>
+                  <paragraph/>
+                  <paragraph>The second clinical trial (Trial 2) was a 12-week randomized, double-blind and placebo-controlled trial that enrolled 558 generally healthy postmenopausal women between 40 to 80 years of age (mean 59.5 years) who, at baseline, had identified moderate to severe dyspareunia as their most bothersome symptom of vulvar and vaginal atrophy. In addition to dyspareunia, women had ≤ 5% superficial cells on vaginal smear and a vaginal pH &gt; 5. Women were randomized in a 2:1 ratio to receive once daily vaginal insert containing 6.5 mg INTRAROSA (n=376) or placebo (n=182). The primary endpoints and study conduct were the same or similar to those in Trial 1.</paragraph>
+                  <paragraph/>
+                  <paragraph>The primary efficacy results obtained in the Intent-to-Treat (ITT) population in Trial 1 are shown in Table 2.</paragraph>
+                  <paragraph/>
+                  <paragraph>
+                     <content styleCode="bold">Table 2: Efficacy Summary in Primary 12-Week Trial 1: ITT Population (LOCF)</content>
+                  </paragraph>
+                  <table border="2" cellpadding="10" cellspacing="2" width="700px" styleCode="Noautorules">
+                     <colgroup>
+                        <col align="left"/>
+                        <col align="center"/>
+                        <col align="center"/>
+                     </colgroup>
+                     <tfoot>
+                        <tr>
+                           <td align="left" colspan="3">
+                              <sup>1</sup>Difference from placebo =INTRAROSA (Week 12 mean – Baseline mean) – Placebo (Week 12 mean – Baseline mean).
+     <br/>
+                              <br/>
+                              <sup>2</sup>ANCOVA: Treatment as the main factor and Baseline value as the covariate.
+    </td>
+                        </tr>
+                     </tfoot>
+                     <tbody>
+                        <tr>
+                           <td scope="row" styleCode="Toprule Botrule Lrule Rrule" valign="bottom">
+                              <paragraph/>
+                           </td>
+                           <td scope="row" styleCode="Toprule Botrule Lrule Rrule" valign="bottom">
+                              <paragraph>
+                                 <content styleCode="bold">Placebo</content>
+                              </paragraph>
+                              <paragraph>
+                                 <content styleCode="bold">N = 77</content>
+                              </paragraph>
+                           </td>
+                           <td scope="row" styleCode="Toprule Botrule Lrule Rrule" valign="bottom">
+                              <paragraph>
+                                 <content styleCode="bold">INTRAROSA </content>
+                              </paragraph>
+                              <paragraph>
+                                 <content styleCode="bold">N = 81</content>
+                              </paragraph>
+                           </td>
+                        </tr>
+                        <tr>
+                           <td scope="row" styleCode="Toprule Botrule Lrule Rrule" valign="bottom">
+                              <paragraph>
+                                 <content styleCode="bold">Dyspareunia</content>
+                              </paragraph>
+                              <paragraph>    Baseline Mean Severity</paragraph>
+                              <paragraph>    Week 12 Mean Severity</paragraph>
+                              <paragraph>    Mean Change in Severity (SD)</paragraph>
+                              <paragraph>    Difference from Placebo 
+      <sup>1</sup>
+                              </paragraph>
+                              <paragraph>    p-value 
+      <sup>2</sup>
+                              </paragraph>
+                           </td>
+                           <td scope="row" styleCode="Toprule Botrule Lrule Rrule" valign="bottom">
+                              <paragraph/>
+                              <paragraph>2.58</paragraph>
+                              <paragraph>1.71</paragraph>
+                              <paragraph>-0.87 (0.95)</paragraph>
+                              <paragraph>-</paragraph>
+                              <paragraph>-</paragraph>
+                           </td>
+                           <td scope="row" styleCode="Toprule Botrule Lrule Rrule" valign="bottom">
+                              <paragraph/>
+                              <paragraph>2.63</paragraph>
+                              <paragraph>1.36</paragraph>
+                              <paragraph>-1.27 (0.99)</paragraph>
+                              <paragraph>-0.40</paragraph>
+                              <paragraph>0.0132</paragraph>
+                           </td>
+                        </tr>
+                        <tr>
+                           <td scope="row" styleCode="Toprule Botrule Lrule Rrule" valign="bottom">
+                              <paragraph>
+                                 <content styleCode="bold">% Superficial Cells</content>
+                              </paragraph>
+                              <paragraph>    Baseline Mean</paragraph>
+                              <paragraph>    Week 12 Mean</paragraph>
+                              <paragraph>    Mean Change (SD)</paragraph>
+                              <paragraph>    Difference from Placebo 
+      <sup>1</sup>
+                              </paragraph>
+                              <paragraph>    p-value 
+      <sup>2</sup>
+                              </paragraph>
+                           </td>
+                           <td scope="row" styleCode="Toprule Botrule Lrule Rrule" valign="bottom">
+                              <paragraph/>
+                              <paragraph>0.73</paragraph>
+                              <paragraph>1.64</paragraph>
+                              <paragraph>0.91 (2.69)</paragraph>
+                              <paragraph>-</paragraph>
+                              <paragraph>-</paragraph>
+                           </td>
+                           <td scope="row" styleCode="Toprule Botrule Lrule Rrule" valign="bottom">
+                              <paragraph/>
+                              <paragraph>0.68</paragraph>
+                              <paragraph>6.30</paragraph>
+                              <paragraph>5.62 (5.49)</paragraph>
+                              <paragraph>4.71</paragraph>
+                              <paragraph>&lt;0.0001</paragraph>
+                           </td>
+                        </tr>
+                        <tr>
+                           <td scope="row" styleCode="Toprule Botrule Lrule Rrule" valign="bottom">
+                              <paragraph>
+                                 <content styleCode="bold">% Parabasal Cells</content>
+                              </paragraph>
+                              <paragraph>    Baseline Mean</paragraph>
+                              <paragraph>    Week 12 Mean</paragraph>
+                              <paragraph>    Mean Change (SD)</paragraph>
+                              <paragraph>    Difference from Placebo 
+      <sup>1</sup>
+                              </paragraph>
+                              <paragraph>    p-value 
+      <sup>2</sup>
+                              </paragraph>
+                           </td>
+                           <td scope="row" styleCode="Toprule Botrule Lrule Rrule" valign="bottom">
+                              <paragraph/>
+                              <paragraph>68.48</paragraph>
+                              <paragraph>66.86</paragraph>
+                              <paragraph>-1.62 (28.22)</paragraph>
+                              <paragraph>-</paragraph>
+                              <paragraph>-</paragraph>
+                           </td>
+                           <td scope="row" styleCode="Toprule Botrule Lrule Rrule" valign="bottom">
+                              <paragraph/>
+                              <paragraph>65.05</paragraph>
+                              <paragraph>17.65</paragraph>
+                              <paragraph>-47.40 (42.50)</paragraph>
+                              <paragraph>-45.77</paragraph>
+                              <paragraph>&lt;0.0001</paragraph>
+                           </td>
+                        </tr>
+                        <tr>
+                           <td scope="row" styleCode="Toprule Botrule Lrule Rrule" valign="bottom">
+                              <paragraph>
+                                 <content styleCode="bold">Vaginal pH</content>
+                              </paragraph>
+                              <paragraph>    Baseline Mean</paragraph>
+                              <paragraph>    Week 12 Mean</paragraph>
+                              <paragraph>    Mean Change (SD)</paragraph>
+                              <paragraph>    Difference from Placebo 
+      <sup>1</sup>
+                              </paragraph>
+                              <paragraph>    p-value 
+      <sup>2</sup>
+                              </paragraph>
+                           </td>
+                           <td scope="row" styleCode="Toprule Botrule Lrule Rrule" valign="bottom">
+                              <paragraph/>
+                              <paragraph>6.51</paragraph>
+                              <paragraph>6.31</paragraph>
+                              <paragraph>-0.21 (0.69)</paragraph>
+                              <paragraph>-</paragraph>
+                              <paragraph>-</paragraph>
+                           </td>
+                           <td scope="row" styleCode="Toprule Botrule Lrule Rrule" valign="bottom">
+                              <paragraph/>
+                              <paragraph>6.47</paragraph>
+                              <paragraph>5.43</paragraph>
+                              <paragraph>-1.04 (1.00)</paragraph>
+                              <paragraph>-0.83</paragraph>
+                              <paragraph>&lt;0.0001</paragraph>
+                           </td>
+                        </tr>
+                     </tbody>
+                  </table>
+                  <paragraph/>
+                  <paragraph/>
+                  <paragraph/>
+                  <paragraph>The primary efficacy results obtained in the Intent-to-Treat (ITT) population in Trial 2 are shown in Table 3.</paragraph>
+                  <paragraph/>
+                  <paragraph/>
+                  <paragraph>
+                     <content styleCode="bold">Table 3: Efficacy Summary in Primary 12-Week Trial 2: ITT Population (LOCF)</content>
+                  </paragraph>
+                  <table border="2" cellpadding="10" cellspacing="2" width="700px" styleCode="Noautorules">
+                     <colgroup>
+                        <col align="left"/>
+                        <col align="center"/>
+                        <col align="center"/>
+                     </colgroup>
+                     <tfoot>
+                        <tr>
+                           <td align="left" colspan="3">
+                              <sup>1</sup>Difference from placebo =INTRAROSA (Week 12 mean – Baseline mean) – Placebo (Week 12 mean – Baseline mean).
+     <br/>
+                              <br/>
+                              <sup>2</sup>ANCOVA: Treatment as the main factor and Baseline value as the covariate.
+    </td>
+                        </tr>
+                     </tfoot>
+                     <tbody>
+                        <tr>
+                           <td scope="row" styleCode="Toprule Botrule Lrule Rrule" valign="bottom">
+                              <paragraph/>
+                           </td>
+                           <td scope="row" styleCode="Toprule Botrule Lrule Rrule" valign="bottom">
+                              <paragraph>
+                                 <content styleCode="bold">Placebo</content>
+                              </paragraph>
+                              <paragraph>
+                                 <content styleCode="bold">N = 157</content>
+                              </paragraph>
+                           </td>
+                           <td scope="row" styleCode="Toprule Botrule Lrule Rrule" valign="bottom">
+                              <paragraph>
+                                 <content styleCode="bold">INTRAROSA </content>
+                              </paragraph>
+                              <paragraph>
+                                 <content styleCode="bold">N = 325</content>
+                              </paragraph>
+                           </td>
+                        </tr>
+                        <tr>
+                           <td scope="row" styleCode="Toprule Botrule Lrule Rrule" valign="bottom">
+                              <paragraph>
+                                 <content styleCode="bold">Dyspareunia</content>
+                              </paragraph>
+                              <paragraph>    Baseline Mean Severity</paragraph>
+                              <paragraph>    Week 12 Mean Severity</paragraph>
+                              <paragraph>    Mean Change in Severity (SD)</paragraph>
+                              <paragraph>    Difference from Placebo 
+      <sup>1</sup>
+                              </paragraph>
+                              <paragraph>    p-value 
+      <sup>2</sup>
+                              </paragraph>
+                           </td>
+                           <td scope="row" styleCode="Toprule Botrule Lrule Rrule" valign="bottom">
+                              <paragraph/>
+                              <paragraph>2.56</paragraph>
+                              <paragraph>1.50</paragraph>
+                              <paragraph>-1.06 (1.02)</paragraph>
+                              <paragraph>-</paragraph>
+                              <paragraph>-</paragraph>
+                           </td>
+                           <td scope="row" styleCode="Toprule Botrule Lrule Rrule" valign="bottom">
+                              <paragraph/>
+                              <paragraph>2.54</paragraph>
+                              <paragraph>1.13</paragraph>
+                              <paragraph>-1.42 (1.00)</paragraph>
+                              <paragraph>-0.35</paragraph>
+                              <paragraph>0.0002</paragraph>
+                           </td>
+                        </tr>
+                        <tr>
+                           <td scope="row" styleCode="Toprule Botrule Lrule Rrule" valign="bottom">
+                              <paragraph>
+                                 <content styleCode="bold">% Superficial Cells</content>
+                              </paragraph>
+                              <paragraph>    Baseline Mean</paragraph>
+                              <paragraph>    Week 12 Mean</paragraph>
+                              <paragraph>    Mean Change (SD)</paragraph>
+                              <paragraph>    Difference from Placebo 
+      <sup>1</sup>
+                              </paragraph>
+                              <paragraph>    p-value 
+      <sup>2</sup>
+                              </paragraph>
+                           </td>
+                           <td scope="row" styleCode="Toprule Botrule Lrule Rrule" valign="bottom">
+                              <paragraph/>
+                              <paragraph>1.04</paragraph>
+                              <paragraph>2.78</paragraph>
+                              <paragraph>1.75 (3.33)</paragraph>
+                              <paragraph>-</paragraph>
+                              <paragraph>-</paragraph>
+                           </td>
+                           <td scope="row" styleCode="Toprule Botrule Lrule Rrule" valign="bottom">
+                              <paragraph/>
+                              <paragraph>1.02</paragraph>
+                              <paragraph>11.22</paragraph>
+                              <paragraph>10.20 (10.35)</paragraph>
+                              <paragraph>8.46</paragraph>
+                              <paragraph>&lt;0.0001</paragraph>
+                           </td>
+                        </tr>
+                        <tr>
+                           <td scope="row" styleCode="Toprule Botrule Lrule Rrule" valign="bottom">
+                              <paragraph>
+                                 <content styleCode="bold">% Parabasal Cells</content>
+                              </paragraph>
+                              <paragraph>    Baseline Mean</paragraph>
+                              <paragraph>    Week 12 Mean</paragraph>
+                              <paragraph>    Mean Change (SD)</paragraph>
+                              <paragraph>    Difference from Placebo 
+      <sup>1</sup>
+                              </paragraph>
+                              <paragraph>    p-value 
+      <sup>2</sup>
+                              </paragraph>
+                           </td>
+                           <td scope="row" styleCode="Toprule Botrule Lrule Rrule" valign="bottom">
+                              <paragraph/>
+                              <paragraph>51.66</paragraph>
+                              <paragraph>39.68</paragraph>
+                              <paragraph>-11.98 (29.58)</paragraph>
+                              <paragraph>-</paragraph>
+                              <paragraph>-</paragraph>
+                           </td>
+                           <td scope="row" styleCode="Toprule Botrule Lrule Rrule" valign="bottom">
+                              <paragraph/>
+                              <paragraph>54.25</paragraph>
+                              <paragraph>12.74</paragraph>
+                              <paragraph>-41.51 (36.26)</paragraph>
+                              <paragraph>-29.53</paragraph>
+                              <paragraph>&lt;0.0001</paragraph>
+                           </td>
+                        </tr>
+                        <tr>
+                           <td scope="row" styleCode="Toprule Botrule Lrule Rrule" valign="bottom">
+                              <paragraph>
+                                 <content styleCode="bold">Vaginal pH</content>
+                              </paragraph>
+                              <paragraph>    Baseline Mean</paragraph>
+                              <paragraph>    Week 12 Mean</paragraph>
+                              <paragraph>    Mean Change (SD)</paragraph>
+                              <paragraph>    Difference from Placebo 
+      <sup>1</sup>
+                              </paragraph>
+                              <paragraph>    p-value 
+      <sup>2</sup>
+                              </paragraph>
+                           </td>
+                           <td scope="row" styleCode="Toprule Botrule Lrule Rrule" valign="bottom">
+                              <paragraph/>
+                              <paragraph>6.32</paragraph>
+                              <paragraph>6.05</paragraph>
+                              <paragraph>-0.27 (0.74)</paragraph>
+                              <paragraph>-</paragraph>
+                              <paragraph>-</paragraph>
+                           </td>
+                           <td scope="row" styleCode="Toprule Botrule Lrule Rrule" valign="bottom">
+                              <paragraph/>
+                              <paragraph>6.34</paragraph>
+                              <paragraph>5.39</paragraph>
+                              <paragraph>-0.94 (0.94)</paragraph>
+                              <paragraph>-0.67</paragraph>
+                              <paragraph>&lt;0.0001</paragraph>
+                           </td>
+                        </tr>
+                     </tbody>
+                  </table>
+               </text>
+               <effectiveTime value="20201101"/>
+            </section>
+         </component>
+         <component>
+            <section ID="id_link_425fa212-e928-7251-e054-00144ff8d46c">
+               <id root="ae477402-26ca-0b97-e053-2995a90a4016"/>
+               <code code="34069-5" codeSystem="2.16.840.1.113883.6.1" displayName="HOW SUPPLIED SECTION"/>
+               <title>16 HOW SUPPLIED/STORAGE AND HANDLING</title>
+               <effectiveTime value="20201101"/>
+               <component>
+                  <section ID="id_link_429d0096-f831-06cc-e054-00144ff8d46c">
+                     <id root="ae8120af-e19b-432a-e053-2995a90ade63"/>
+                     <code code="34069-5" codeSystem="2.16.840.1.113883.6.1" displayName="HOW SUPPLIED SECTION"/>
+                     <title>16.1 How Supplied</title>
+                     <text>
+                        <paragraph>INTRAROSA is supplied as white to off-white 1.3 mL solid fat bullet-shaped, smooth vaginal inserts (containing 6.5 mg of prasterone). INTRAROSA is available in small boxes of 4 blister packs containing 7 vaginal inserts (28 vaginal inserts per box). The small box (containing the vaginal inserts) is supplied inside a larger box containing 28 applicators (NDC 72495-401-28).</paragraph>
+                     </text>
+                     <effectiveTime value="20201101"/>
+                  </section>
+               </component>
+               <component>
+                  <section ID="id_link_425fbfc8-208d-1133-e054-00144ff88e88">
+                     <id root="ae477388-7a40-2218-e053-2995a90ac503"/>
+                     <code code="44425-7" codeSystem="2.16.840.1.113883.6.1" displayName="STORAGE AND HANDLING SECTION"/>
+                     <title>16.2 Storage and Handling</title>
+                     <text>
+                        <paragraph>Store at 41°F to 86°F (5°C to 30°C). Can be stored at room temperature or in the refrigerator.</paragraph>
+                     </text>
+                     <effectiveTime value="20201101"/>
+                  </section>
+               </component>
+            </section>
+         </component>
+         <component>
+            <section ID="id_link_42621047-cc30-635d-e054-00144ff8d46c">
+               <id root="ae4780ac-7c37-65aa-e053-2a95a90a5151"/>
+               <code code="34076-0" codeSystem="2.16.840.1.113883.6.1" displayName="INFORMATION FOR PATIENTS SECTION"/>
+               <title>17 PATIENT COUNSELING INFORMATION</title>
+               <text>
+                  <paragraph>Advise the patient to read FDA-approved patient labeling (Patient Information and Instructions for Use).</paragraph>
+                  <paragraph/>
+                  <paragraph>
+                     <content styleCode="underline">Vaginal Discharge</content>
+                  </paragraph>
+                  <paragraph>Inform postmenopausal women that vaginal discharge may occur with INTRAROSA 
+  <content styleCode="italics">[see 
+   <linkHtml href="#id_link_425ec720-8ed2-5fa1-e054-00144ff88e88">Adverse Reactions (6.1)</linkHtml>] 
+  </content>.
+ </paragraph>
+                  <paragraph/>
+                  <paragraph>
+                     <content styleCode="underline">Abnormal Pap Smear Findings</content>
+                  </paragraph>
+                  <paragraph>Inform postmenopausal women that abnormal Pap smear findings may occur with INTRAROSA 
+  <content styleCode="italics">[see 
+   <linkHtml href="#id_link_425ec720-8ed2-5fa1-e054-00144ff88e88">Adverse Reactions (6.1)</linkHtml>] 
+  </content>.
+  <br/>
+                     <br/>
+                  </paragraph>
+                  <paragraph>Manufactured for:</paragraph>
+                  <paragraph>Endoceutics, Inc.
+  <br/>
+                     <br/>
+Quebec City, Canada, G1V 4M7
+  <br/>
+                     <br/>
+                  </paragraph>
+                  <paragraph>Distributed by:</paragraph>
+                  <paragraph>Millicent U.S. Inc.
+  <br/>
+                     <br/>
+East Hanover, NJ 07936
+ </paragraph>
+                  <paragraph/>
+                  <paragraph/>
+                  <paragraph/>
+               </text>
+               <effectiveTime value="20201101"/>
+            </section>
+         </component>
+         <component>
+            <section ID="id_link_4261d4d4-0f71-5b3d-e054-00144ff8d46c">
+               <id root="ae2c86b5-5607-f3a8-e053-2995a90a87ee"/>
+               <code code="42230-3" codeSystem="2.16.840.1.113883.6.1" displayName="SPL PATIENT PACKAGE INSERT SECTION"/>
+               <text>
+                  <table width="750" styleCode="Noautorules">
+                     <tbody>
+                        <tr>
+                           <td align="center" styleCode="Toprule Botrule Lrule Rrule" valign="top">
+                              <paragraph>
+                                 <content styleCode="bold">Patient Information</content>
+                              </paragraph>
+                              <paragraph>
+                                 <content styleCode="bold">INTRAROSA 
+       <sup>®</sup> (in trah ROE sah) 
+      </content>
+                              </paragraph>
+                              <paragraph>
+                                 <content styleCode="bold">(prasterone) vaginal inserts</content>
+                              </paragraph>
+                           </td>
+                        </tr>
+                        <tr>
+                           <td styleCode="Toprule Botrule Lrule Rrule">
+                              <paragraph>
+                                 <content styleCode="bold">What is INTRAROSA vaginal inserts?</content>
+                              </paragraph>
+                              <paragraph>INTRAROSA vaginal inserts are a prescription medicine used in women after menopause to treat moderate to severe pain during sexual intercourse caused by changes in and around the vagina that happen with menopause.</paragraph>
+                              <paragraph>It is not known if INTRAROSA vaginal inserts are safe and effective in children.</paragraph>
+                           </td>
+                        </tr>
+                        <tr>
+                           <td styleCode="Toprule Botrule Lrule Rrule">
+                              <paragraph>
+                                 <content styleCode="bold">Do not use INTRAROSA vaginal inserts</content> if you have vaginal bleeding that has not been checked by your healthcare provider.
+     </paragraph>
+                           </td>
+                        </tr>
+                        <tr>
+                           <td styleCode="Toprule Botrule Lrule Rrule">
+                              <paragraph>
+                                 <content styleCode="bold">Before using INTRAROSA vaginal inserts, tell your healthcare provider about all of your medical conditions, including if you:</content>
+                              </paragraph>
+                              <list listType="unordered">
+                                 <item>have, have had, or think you may have had breast cancer. Prasterone, an ingredient in INTRAROSA vaginal inserts, is changed in your body to estrogen. Estrogen medicines are not for use in women who have, have had, or think they may have had breast cancer.</item>
+                                 <item>are pregnant or plan to become pregnant. INTRAROSA is only for use in women who are past menopause. It is not known if INTRAROSA vaginal inserts will harm your unborn baby.</item>
+                                 <item>are breastfeeding or plan to breastfeed. INTRAROSA vaginal inserts are only for use in women who are past menopause. It is not known if INTRAROSA passes into your breast milk.</item>
+                              </list>
+                              <paragraph>
+                                 <content styleCode="bold">Tell your healthcare provider about all the medicines you take, </content>including prescription and over-the-counter medicines, vitamins, and herbal supplements.
+     </paragraph>
+                           </td>
+                        </tr>
+                        <tr>
+                           <td styleCode="Toprule Botrule Lrule Rrule">
+                              <paragraph>
+                                 <content styleCode="bold">How should I use INTRAROSA vaginal inserts?</content>
+                              </paragraph>
+                              <list listType="unordered">
+                                 <item>See the 
+       <content styleCode="bold">
+                                       <linkHtml href="#id_link_42629fcd-d79f-0763-e054-00144ff8d46c">Instructions for Use</linkHtml>
+                                    </content> at the end of this Patient Information for detailed instructions about the right way to use INTRAROSA vaginal inserts.
+      </item>
+                                 <item>Use INTRAROSA vaginal inserts exactly how your healthcare provider tells you to use it.</item>
+                                 <item>Place 1 INTRAROSA vaginal insert in your vagina one time each day at bedtime, using the applicator that comes with INTRAROSA vaginal inserts.</item>
+                              </list>
+                           </td>
+                        </tr>
+                        <tr>
+                           <td styleCode="Toprule Botrule Lrule Rrule">
+                              <paragraph>
+                                 <content styleCode="bold">What are the possible side effects of INTRAROSA vaginal inserts?</content>
+                              </paragraph>
+                              <paragraph>
+                                 <content styleCode="bold">The most common side effects of INTRAROSA vaginal inserts</content> are vaginal discharge and changes on Pap smear.
+     </paragraph>
+                              <paragraph>These are not all of the possible side effects of INTRAROSA vaginal inserts.</paragraph>
+                              <paragraph>Call your doctor for medical advice about side effects. You may report side effects to FDA at 1-800-FDA-1088.</paragraph>
+                           </td>
+                        </tr>
+                        <tr>
+                           <td styleCode="Toprule Botrule Lrule Rrule">
+                              <paragraph>
+                                 <content styleCode="bold">How should I store INTRAROSA vaginal inserts?</content>
+                              </paragraph>
+                              <list listType="unordered">
+                                 <item>Store INTRAROSA vaginal inserts between 41°F to 86°F (5°C to 30°C).</item>
+                                 <item>INTRAROSA vaginal inserts can be stored at room temperature or in the refrigerator.</item>
+                              </list>
+                              <paragraph>
+                                 <content styleCode="bold">Keep INTRAROSA vaginal inserts and all medicines out of the reach of children.</content>
+                              </paragraph>
+                           </td>
+                        </tr>
+                        <tr>
+                           <td styleCode="Toprule Botrule Lrule Rrule">
+                              <paragraph>
+                                 <content styleCode="bold">General Information about the safe and effective use of INTRAROSA vaginal inserts.</content>
+                              </paragraph>
+                              <paragraph>Medicines are sometimes prescribed for purposes other than those listed in a Patient Information leaflet. Do not use INTRAROSA vaginal inserts for a condition for which it was not prescribed. Do not give INTRAROSA vaginal inserts to other people, even if they have the same symptoms that you have. It may harm them. You can ask your pharmacist or healthcare provider for information about INTRAROSA vaginal inserts that is written for health professionals.</paragraph>
+                           </td>
+                        </tr>
+                        <tr>
+                           <td styleCode="Toprule Botrule Lrule Rrule">
+                              <paragraph>
+                                 <content styleCode="bold">What are the ingredients in INTRAROSA vaginal inserts?</content>
+                              </paragraph>
+                              <paragraph>
+                                 <content styleCode="bold">Active ingredient:</content> prasterone
+     </paragraph>
+                              <paragraph>
+                                 <content styleCode="bold">Inactive ingredient:</content> off-white hard fat (Witepsol)
+     </paragraph>
+                              <paragraph>For more information, go to www.intrarosa.com or call Millicent U.S. Inc at 1-877-810-2101.</paragraph>
+                           </td>
+                        </tr>
+                     </tbody>
+                  </table>
+                  <paragraph/>
+                  <paragraph/>
+                  <paragraph/>
+               </text>
+               <effectiveTime value="20201101"/>
+            </section>
+         </component>
+         <component>
+            <section ID="id_link_42629fcd-d79f-0763-e054-00144ff8d46c">
+               <id root="ae4780ac-7c38-65aa-e053-2a95a90a5151"/>
+               <code code="59845-8" codeSystem="2.16.840.1.113883.6.1" displayName="INSTRUCTIONS FOR USE SECTION"/>
+               <text>
+                  <paragraph>
+                     <content styleCode="bold">Instructions for Use</content>
+                     <br/>
+                     <br/>
+                     <content styleCode="bold">INTRAROSA (in trah ROE sah)</content>
+                     <br/>
+                     <br/>
+                     <content styleCode="bold">(prasterone) vaginal inserts</content>
+                  </paragraph>
+                  <paragraph>
+                     <content styleCode="bold">How should I use INTRAROSA vaginal inserts?</content>
+                  </paragraph>
+                  <list listType="unordered">
+                     <item>INTRAROSA is a vaginal insert that you place in your vagina with an applicator that comes with INTRAROSA vaginal inserts.</item>
+                     <item>Use 1 INTRAROSA vaginal insert, one time each day at bedtime.</item>
+                     <item>Each applicator is for one time use only.</item>
+                     <item>Empty your bladder and wash your hands before handling the vaginal insert and applicator.</item>
+                     <item>Tear off 1 vaginal insert along the perforations from the 7-vaginal insert strip.</item>
+                  </list>
+                  <paragraph>
+                     <content styleCode="bold">STEP 1</content>
+                  </paragraph>
+                  <paragraph>1a. Remove 1 applicator from the package.</paragraph>
+                  <paragraph>1b. Pull back on the plunger until it stops to activate the applicator. The applicator must be activated before use. Place the applicator on a clean surface.</paragraph>
+                  <paragraph>
+                     <renderMultiMedia referencedObject="img_42877b6c-3b10-4672-e054-00144ff88e88"/>
+                  </paragraph>
+                  <paragraph>
+                     <content styleCode="bold">STEP 2</content>
+                  </paragraph>
+                  <paragraph>Slowly pull the plastic tabs on the vaginal insert away from each other while keeping the vaginal insert still between your fingers. Carefully remove the vaginal insert from the plastic wrap. If a vaginal insert falls on an unsanitary surface, replace it with a new one.</paragraph>
+                  <paragraph>
+                     <renderMultiMedia referencedObject="img_42628692-5932-04aa-e054-00144ff8d46c"/>
+                  </paragraph>
+                  <paragraph>
+                     <content styleCode="bold">STEP 3</content>
+                  </paragraph>
+                  <paragraph>Place the flat end of the vaginal insert into the open end of the activated applicator as shown. You are now ready to insert the vaginal insert into your vagina.</paragraph>
+                  <paragraph>
+                     <renderMultiMedia referencedObject="img_42628692-5933-04aa-e054-00144ff8d46c"/>
+                  </paragraph>
+                  <paragraph>
+                     <content styleCode="bold">STEP 4</content>
+                  </paragraph>
+                  <paragraph>Hold the applicator between your thumb and middle finger. Leave your index (pointer) finger free to press the applicator plunger after the applicator is inserted into your vagina.</paragraph>
+                  <paragraph>
+                     <renderMultiMedia referencedObject="img_42628692-5934-04aa-e054-00144ff8d46c"/>
+                  </paragraph>
+                  <paragraph>
+                     <content styleCode="bold">STEP 5</content>
+                  </paragraph>
+                  <paragraph>Select the position for insertion of the vaginal insert that is most comfortable for you.</paragraph>
+                  <paragraph>5a. Lying position</paragraph>
+                  <paragraph>
+                     <renderMultiMedia referencedObject="img_42628692-5935-04aa-e054-00144ff8d46c"/>
+                  </paragraph>
+                  <paragraph>5b. Standing position</paragraph>
+                  <paragraph>
+                     <renderMultiMedia referencedObject="img_42629fcd-d79d-0763-e054-00144ff8d46c"/>
+                  </paragraph>
+                  <paragraph>
+                     <content styleCode="bold">STEP 6</content>
+                  </paragraph>
+                  <paragraph>Gently slide the vaginal insert end of the applicator into your vagina as far as it will comfortably go.</paragraph>
+                  <paragraph/>
+                  <paragraph>
+                     <content styleCode="bold">Do not use force.</content>
+                  </paragraph>
+                  <paragraph>
+                     <renderMultiMedia referencedObject="img_4262cf27-d3f6-0c3e-e054-00144ff8d46c"/>
+                  </paragraph>
+                  <paragraph>
+                     <content styleCode="bold">STEP 7</content>
+                  </paragraph>
+                  <paragraph>Press the applicator plunger with your index (pointer) finger to release the vaginal insert. Remove the applicator and throw it away after use.</paragraph>
+                  <paragraph>
+                     <renderMultiMedia referencedObject="img_42628692-5936-04aa-e054-00144ff8d46c"/>
+                  </paragraph>
+                  <paragraph>For more information, go to 
+  <linkHtml href="http://www.intrarosa.com/">www.intrarosa.com</linkHtml> or call Millicent U.S. Inc at 1-877-810-2101.
+ </paragraph>
+                  <paragraph>This Patient Information and Instructions for Use have been approved by the U.S. Food and Drug Administration.</paragraph>
+                  <paragraph>INTRAROSA 
+  <sup>®</sup> is a registered trademark of Endoceutics, Inc.
+ </paragraph>
+                  <paragraph>Manufactured for: Endoceutics, Inc., Quebec City, Canada, G1V 4M7</paragraph>
+                  <paragraph>Distributed by: Millicent U.S. Inc., East Hanover, NJ 07936
+  <br/>
+                     <br/>
+©2020 Millicent Pharma Limited
+ </paragraph>
+                  <paragraph>Issued: June 2020</paragraph>
+                  <paragraph/>
+                  <paragraph/>
+                  <paragraph/>
+               </text>
+               <effectiveTime value="20201101"/>
+               <component>
+                  <observationMedia ID="img_42877b6c-3b10-4672-e054-00144ff88e88">
+                     <text>Figure 1</text>
+                     <value mediaType="image/jpeg" xsi:type="ED">
+                        <reference value="intrarosa-03.jpg"/>
+                     </value>
+                  </observationMedia>
+               </component>
+               <component>
+                  <observationMedia ID="img_42628692-5932-04aa-e054-00144ff8d46c">
+                     <text>Step 2</text>
+                     <value mediaType="image/jpeg" xsi:type="ED">
+                        <reference value="intrarosa-04.jpg"/>
+                     </value>
+                  </observationMedia>
+               </component>
+               <component>
+                  <observationMedia ID="img_42628692-5933-04aa-e054-00144ff8d46c">
+                     <text>Step 3</text>
+                     <value mediaType="image/jpeg" xsi:type="ED">
+                        <reference value="intrarosa-05.jpg"/>
+                     </value>
+                  </observationMedia>
+               </component>
+               <component>
+                  <observationMedia ID="img_42628692-5934-04aa-e054-00144ff8d46c">
+                     <text>Step 4</text>
+                     <value mediaType="image/jpeg" xsi:type="ED">
+                        <reference value="intrarosa-06.jpg"/>
+                     </value>
+                  </observationMedia>
+               </component>
+               <component>
+                  <observationMedia ID="img_42628692-5935-04aa-e054-00144ff8d46c">
+                     <text>Step 5</text>
+                     <value mediaType="image/jpeg" xsi:type="ED">
+                        <reference value="intrarosa-07.jpg"/>
+                     </value>
+                  </observationMedia>
+               </component>
+               <component>
+                  <observationMedia ID="img_42629fcd-d79d-0763-e054-00144ff8d46c">
+                     <text>Step 6</text>
+                     <value mediaType="image/jpeg" xsi:type="ED">
+                        <reference value="intrarosa-08.jpg"/>
+                     </value>
+                  </observationMedia>
+               </component>
+               <component>
+                  <observationMedia ID="img_4262cf27-d3f6-0c3e-e054-00144ff8d46c">
+                     <text>Step 7</text>
+                     <value mediaType="image/jpeg" xsi:type="ED">
+                        <reference value="intrarosa-09.jpg"/>
+                     </value>
+                  </observationMedia>
+               </component>
+               <component>
+                  <observationMedia ID="img_42628692-5936-04aa-e054-00144ff8d46c">
+                     <text>Step 8</text>
+                     <value mediaType="image/jpeg" xsi:type="ED">
+                        <reference value="intrarosa-10.jpg"/>
+                     </value>
+                  </observationMedia>
+               </component>
+            </section>
+         </component>
+         <component>
+            <section ID="id_link_ae4780c8-f226-65ac-e053-2a95a90a42d6">
+               <id root="ae477005-c824-29dd-e053-2a95a90a5e2a"/>
+               <code code="51945-4" codeSystem="2.16.840.1.113883.6.1" displayName="PACKAGE LABEL.PRINCIPAL DISPLAY PANEL"/>
+               <title>PRINCIPAL DISPLAY PANEL - NDC: 72495-401-28 - Small Box (Inserts)</title>
+               <text>
+                  <paragraph>
+                     <renderMultiMedia referencedObject="img_ae4787ea-03bb-17ef-e053-2995a90ae94a"/>
+                  </paragraph>
+                  <paragraph/>
+                  <paragraph/>
+                  <paragraph/>
+                  <paragraph/>
+               </text>
+               <effectiveTime value="20201101"/>
+               <component>
+                  <observationMedia ID="img_ae4787ea-03bb-17ef-e053-2995a90ae94a">
+                     <text>small box</text>
+                     <value mediaType="image/jpeg" xsi:type="ED">
+                        <reference value="401-28 image.jpg"/>
+                     </value>
+                  </observationMedia>
+               </component>
+            </section>
+         </component>
+         <component>
+            <section ID="id_link_ae4789a0-3266-3770-e053-2995a90a67de">
+               <id root="ae479884-6b3a-429a-e053-2a95a90ae8ec"/>
+               <code code="51945-4" codeSystem="2.16.840.1.113883.6.1" displayName="PACKAGE LABEL.PRINCIPAL DISPLAY PANEL"/>
+               <title>PRINCIPAL DISPLAY PANEL - NDC: 72495-401-28 - Outmost Large Box (Inserts plus Applicators)</title>
+               <text>
+                  <paragraph>
+                     <renderMultiMedia referencedObject="img_ae46f190-944c-5edf-e053-2a95a90aee3a"/>
+                  </paragraph>
+                  <paragraph/>
+                  <paragraph/>
+                  <paragraph/>
+                  <paragraph/>
+               </text>
+               <effectiveTime value="20201101"/>
+               <component>
+                  <observationMedia ID="img_ae46f190-944c-5edf-e053-2a95a90aee3a">
+                     <text>outer box</text>
+                     <value mediaType="image/jpeg" xsi:type="ED">
+                        <reference value="401-28 outer box.jpg"/>
+                     </value>
+                  </observationMedia>
+               </component>
+            </section>
+         </component>
+         <component>
+            <section ID="id_link_ae479884-6b3e-429a-e053-2a95a90ae8ec">
+               <id root="ae46f190-944d-5edf-e053-2a95a90aee3a"/>
+               <code code="51945-4" codeSystem="2.16.840.1.113883.6.1" displayName="PACKAGE LABEL.PRINCIPAL DISPLAY PANEL"/>
+               <title>PRINCIPAL DISPLAY PANEL - NDC: 72495-501-14 - Professional Sample Small Box (Inserts)</title>
+               <text>
+                  <paragraph>
+                     <renderMultiMedia referencedObject="img_ae479884-6b41-429a-e053-2a95a90ae8ec"/>
+                  </paragraph>
+                  <paragraph/>
+                  <paragraph/>
+                  <paragraph/>
+                  <paragraph/>
+               </text>
+               <effectiveTime value="20201101"/>
+               <component>
+                  <observationMedia ID="img_ae479884-6b41-429a-e053-2a95a90ae8ec">
+                     <text>small box</text>
+                     <value mediaType="image/jpeg" xsi:type="ED">
+                        <reference value="501-14 image.jpg"/>
+                     </value>
+                  </observationMedia>
+               </component>
+            </section>
+         </component>
+         <component>
+            <section ID="id_link_ae479e93-df9c-6ff3-e053-2a95a90a1590">
+               <id root="ae4790c3-9480-10a5-e053-2995a90aef64"/>
+               <code code="51945-4" codeSystem="2.16.840.1.113883.6.1" displayName="PACKAGE LABEL.PRINCIPAL DISPLAY PANEL"/>
+               <title>PRINCIPAL DISPLAY PANEL - NDC: 72495-501-14 - Professional Sample Outmost Large Box (Inserts plus Applicators)</title>
+               <text>
+                  <paragraph>
+                     <renderMultiMedia referencedObject="img_ae479e93-df9f-6ff3-e053-2a95a90a1590"/>
+                  </paragraph>
+                  <paragraph/>
+                  <paragraph/>
+                  <paragraph/>
+                  <paragraph/>
+               </text>
+               <effectiveTime value="20201101"/>
+               <component>
+                  <observationMedia ID="img_ae479e93-df9f-6ff3-e053-2a95a90a1590">
+                     <text>outer box</text>
+                     <value mediaType="image/jpeg" xsi:type="ED">
+                        <reference value="501-14 outer box.jpg"/>
+                     </value>
+                  </observationMedia>
+               </component>
+            </section>
+         </component>
+      </structuredBody>
+   </component>
+</document>

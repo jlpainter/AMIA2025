@@ -1,0 +1,2648 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet href="https://www.accessdata.fda.gov/spl/stylesheet/spl.xsl" type="text/xsl"?>
+<document xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:hl7-org:v3" xsi:schemaLocation="urn:hl7-org:v3 https://www.accessdata.fda.gov/spl/schema/spl.xsd">
+   <id root="bf7831ab-f1fe-9652-e053-2a95a90a6bfd"/>
+   <code code="34391-3" codeSystem="2.16.840.1.113883.6.1" displayName="HUMAN PRESCRIPTION DRUG LABEL"/>
+   <title>These highlights do not include all the information needed to use ZONTIVITY safely and effectively. See full prescribing information for ZONTIVITY.
+ <br/>
+      <br/>
+      <br/>
+      <br/>
+ZONTIVITY 
+ <sup>®</sup> (vorapaxar) Tablets 2.08 mg*, for oral use
+ <br/>
+      <br/>
+*Equivalent to 2.5 mg vorapaxar sulfate
+ <br/>
+      <br/>
+Initial U.S. Approval: 2014
+</title>
+   <effectiveTime value="20210408"/>
+   <setId root="f001f406-8cf1-40a4-bbf5-1775fe020122"/>
+   <versionNumber value="8"/>
+   <author>
+      <time/>
+      <assignedEntity>
+         <representedOrganization>
+            <id root="1.3.6.1.4.1.519.1" extension="046550531"/>
+            <name>Aralez Pharmaceuticals Us Inc.</name>
+            <assignedEntity>
+               <assignedOrganization>
+                  <id root="1.3.6.1.4.1.519.1" extension="985620239"/>
+                  <name>ARALEZ PHARMACEUTICALS TRADING DESIGNATED ACTIVITY COMPANY</name>
+               </assignedOrganization>
+            </assignedEntity>
+         </representedOrganization>
+      </assignedEntity>
+   </author>
+   <component>
+      <structuredBody>
+         <component>
+            <section>
+               <id root="bf782ab6-47af-244d-e053-2a95a90abe44"/>
+               <code code="48780-1" codeSystem="2.16.840.1.113883.6.1" displayName="SPL product data elements section"/>
+               <effectiveTime value="20210408"/>
+               <subject>
+                  <manufacturedProduct>
+                     <manufacturedProduct>
+                        <code code="70347-208" codeSystem="2.16.840.1.113883.6.69"/>
+                        <name>ZONTIVITY</name>
+                        <formCode code="C42931" codeSystem="2.16.840.1.113883.3.26.1.1" displayName="TABLET, FILM COATED"/>
+                        <asEntityWithGeneric>
+                           <genericMedicine>
+                              <name>vorapaxar</name>
+                           </genericMedicine>
+                        </asEntityWithGeneric>
+                        <ingredient classCode="IACT">
+                           <ingredientSubstance>
+                              <code code="EWQ57Q8I5X" codeSystem="2.16.840.1.113883.4.9"/>
+                              <name>LACTOSE MONOHYDRATE</name>
+                           </ingredientSubstance>
+                        </ingredient>
+                        <ingredient classCode="IACT">
+                           <ingredientSubstance>
+                              <code code="OP1R32D61U" codeSystem="2.16.840.1.113883.4.9"/>
+                              <name>CELLULOSE, MICROCRYSTALLINE</name>
+                           </ingredientSubstance>
+                        </ingredient>
+                        <ingredient classCode="IACT">
+                           <ingredientSubstance>
+                              <code code="M28OL1HH48" codeSystem="2.16.840.1.113883.4.9"/>
+                              <name>CROSCARMELLOSE SODIUM</name>
+                           </ingredientSubstance>
+                        </ingredient>
+                        <ingredient classCode="IACT">
+                           <ingredientSubstance>
+                              <code code="FZ989GH94E" codeSystem="2.16.840.1.113883.4.9"/>
+                              <name>POVIDONE</name>
+                           </ingredientSubstance>
+                        </ingredient>
+                        <ingredient classCode="IACT">
+                           <ingredientSubstance>
+                              <code code="70097M6I30" codeSystem="2.16.840.1.113883.4.9"/>
+                              <name>MAGNESIUM STEARATE</name>
+                           </ingredientSubstance>
+                        </ingredient>
+                        <ingredient classCode="IACT">
+                           <ingredientSubstance>
+                              <code code="36SFW2JZ0W" codeSystem="2.16.840.1.113883.4.9"/>
+                              <name>HYPROMELLOSE 2910 (15 MPA.S)</name>
+                           </ingredientSubstance>
+                        </ingredient>
+                        <ingredient classCode="IACT">
+                           <ingredientSubstance>
+                              <code code="15FIX9V2JP" codeSystem="2.16.840.1.113883.4.9"/>
+                              <name>TITANIUM DIOXIDE</name>
+                           </ingredientSubstance>
+                        </ingredient>
+                        <ingredient classCode="IACT">
+                           <ingredientSubstance>
+                              <code code="XHX3C3X673" codeSystem="2.16.840.1.113883.4.9"/>
+                              <name>TRIACETIN</name>
+                           </ingredientSubstance>
+                        </ingredient>
+                        <ingredient classCode="IACT">
+                           <ingredientSubstance>
+                              <code code="EX438O2MRT" codeSystem="2.16.840.1.113883.4.9"/>
+                              <name>FERRIC OXIDE YELLOW</name>
+                           </ingredientSubstance>
+                        </ingredient>
+                        <ingredient classCode="ACTIM">
+                           <quantity>
+                              <numerator unit="mg" value="2.08"/>
+                              <denominator unit="1" value="1"/>
+                           </quantity>
+                           <ingredientSubstance>
+                              <code code="IN66038E6C" codeSystem="2.16.840.1.113883.4.9"/>
+                              <name>VORAPAXAR SULFATE</name>
+                              <activeMoiety>
+                                 <activeMoiety>
+                                    <code code="ZCE93644N2" codeSystem="2.16.840.1.113883.4.9"/>
+                                    <name>VORAPAXAR</name>
+                                 </activeMoiety>
+                              </activeMoiety>
+                           </ingredientSubstance>
+                        </ingredient>
+                        <asContent>
+                           <quantity>
+                              <numerator value="30" unit="1"/>
+                              <denominator value="1"/>
+                           </quantity>
+                           <containerPackagedProduct>
+                              <code code="70347-208-30" codeSystem="2.16.840.1.113883.6.69"/>
+                              <formCode code="C43169" codeSystem="2.16.840.1.113883.3.26.1.1" displayName="BOTTLE"/>
+                           </containerPackagedProduct>
+                           <subjectOf>
+                              <characteristic>
+                                 <code code="SPLCMBPRDTP" codeSystem="2.16.840.1.113883.1.11.19255"/>
+                                 <value code="C112160" codeSystem="2.16.840.1.113883.3.26.1.1" displayName="Type 0: Not a Combination Product" xsi:type="CV"/>
+                              </characteristic>
+                           </subjectOf>
+                           <subjectOf>
+                              <marketingAct>
+                                 <code code="C53292" codeSystem="2.16.840.1.113883.3.26.1.1"/>
+                                 <statusCode code="active"/>
+                                 <effectiveTime>
+                                    <low value="20170401"/>
+                                 </effectiveTime>
+                              </marketingAct>
+                           </subjectOf>
+                        </asContent>
+                        <asContent>
+                           <quantity>
+                              <numerator value="90" unit="1"/>
+                              <denominator value="1"/>
+                           </quantity>
+                           <containerPackagedProduct>
+                              <code code="70347-208-90" codeSystem="2.16.840.1.113883.6.69"/>
+                              <formCode code="C43169" codeSystem="2.16.840.1.113883.3.26.1.1" displayName="BOTTLE"/>
+                           </containerPackagedProduct>
+                           <subjectOf>
+                              <characteristic>
+                                 <code code="SPLCMBPRDTP" codeSystem="2.16.840.1.113883.1.11.19255"/>
+                                 <value code="C112160" codeSystem="2.16.840.1.113883.3.26.1.1" displayName="Type 0: Not a Combination Product" xsi:type="CV"/>
+                              </characteristic>
+                           </subjectOf>
+                           <subjectOf>
+                              <marketingAct>
+                                 <code code="C53292" codeSystem="2.16.840.1.113883.3.26.1.1"/>
+                                 <statusCode code="active"/>
+                                 <effectiveTime>
+                                    <low value="20170401"/>
+                                 </effectiveTime>
+                              </marketingAct>
+                           </subjectOf>
+                        </asContent>
+                        <asContent>
+                           <quantity>
+                              <numerator value="5" unit="1"/>
+                              <denominator value="1"/>
+                           </quantity>
+                           <containerPackagedProduct>
+                              <code code="70347-208-05" codeSystem="2.16.840.1.113883.6.69"/>
+                              <formCode code="C43168" codeSystem="2.16.840.1.113883.3.26.1.1" displayName="BLISTER PACK"/>
+                           </containerPackagedProduct>
+                           <subjectOf>
+                              <characteristic>
+                                 <code code="SPLCMBPRDTP" codeSystem="2.16.840.1.113883.1.11.19255"/>
+                                 <value code="C112160" codeSystem="2.16.840.1.113883.3.26.1.1" displayName="Type 0: Not a Combination Product" xsi:type="CV"/>
+                              </characteristic>
+                           </subjectOf>
+                           <subjectOf>
+                              <marketingAct>
+                                 <code code="C96974" codeSystem="2.16.840.1.113883.3.26.1.1"/>
+                                 <statusCode code="active"/>
+                                 <effectiveTime>
+                                    <low value="20170706"/>
+                                 </effectiveTime>
+                              </marketingAct>
+                           </subjectOf>
+                        </asContent>
+                     </manufacturedProduct>
+                     <subjectOf>
+                        <approval>
+                           <id extension="NDA204886" root="2.16.840.1.113883.3.150"/>
+                           <code code="C73594" codeSystem="2.16.840.1.113883.3.26.1.1" displayName="NDA"/>
+                           <author>
+                              <territorialAuthority>
+                                 <territory>
+                                    <code code="USA" codeSystem="2.16.840.1.113883.5.28"/>
+                                 </territory>
+                              </territorialAuthority>
+                           </author>
+                        </approval>
+                     </subjectOf>
+                     <subjectOf>
+                        <marketingAct>
+                           <code code="C53292" codeSystem="2.16.840.1.113883.3.26.1.1"/>
+                           <statusCode code="active"/>
+                           <effectiveTime>
+                              <low value="20140508"/>
+                           </effectiveTime>
+                        </marketingAct>
+                     </subjectOf>
+                     <subjectOf>
+                        <characteristic classCode="OBS">
+                           <code code="SPLCOLOR" codeSystem="2.16.840.1.113883.1.11.19255"/>
+                           <value code="C48330" codeSystem="2.16.840.1.113883.3.26.1.1" displayName="yellow" xsi:type="CE">
+                              <originalText/>
+                           </value>
+                        </characteristic>
+                     </subjectOf>
+                     <subjectOf>
+                        <characteristic classCode="OBS">
+                           <code code="SPLSCORE" codeSystem="2.16.840.1.113883.1.11.19255"/>
+                           <value value="1" xsi:type="INT"/>
+                        </characteristic>
+                     </subjectOf>
+                     <subjectOf>
+                        <characteristic classCode="OBS">
+                           <code code="SPLSHAPE" codeSystem="2.16.840.1.113883.1.11.19255"/>
+                           <value code="C48345" codeSystem="2.16.840.1.113883.3.26.1.1" displayName="OVAL" xsi:type="CE">
+                              <originalText/>
+                           </value>
+                        </characteristic>
+                     </subjectOf>
+                     <subjectOf>
+                        <characteristic classCode="OBS">
+                           <code code="SPLSIZE" codeSystem="2.16.840.1.113883.1.11.19255"/>
+                           <value unit="mm" value="9" xsi:type="PQ"/>
+                        </characteristic>
+                     </subjectOf>
+                     <subjectOf>
+                        <characteristic classCode="OBS">
+                           <code code="SPLIMPRINT" codeSystem="2.16.840.1.113883.1.11.19255"/>
+                           <value xsi:type="ST">351</value>
+                        </characteristic>
+                     </subjectOf>
+                     <consumedIn>
+                        <substanceAdministration>
+                           <routeCode code="C38288" codeSystem="2.16.840.1.113883.3.26.1.1" displayName="ORAL"/>
+                        </substanceAdministration>
+                     </consumedIn>
+                  </manufacturedProduct>
+               </subject>
+            </section>
+         </component>
+         <component>
+            <section ID="BOX">
+               <id root="bf7831ab-f1ff-9652-e053-2a95a90a6bfd"/>
+               <code code="34066-1" codeSystem="2.16.840.1.113883.6.1" displayName="BOXED WARNING SECTION"/>
+               <title>WARNING: BLEEDING RISK</title>
+               <text>
+                  <list listType="unordered">
+                     <item>
+                        <content styleCode="bold">Do not use ZONTIVITY in patients with a history of stroke, transient ischemic attack (TIA), or intracranial hemorrhage (ICH); or active pathological bleeding 
+         
+   
+    <content styleCode="italics">[see 
+          
+    
+     <linkHtml href="#S4.1">CONTRAINDICATIONS (4.1</linkHtml>, 
+          
+    
+     <linkHtml href="#S4.2">4.2)</linkHtml>]
+         
+   
+    </content>.
+        
+  
+   </content>
+                     </item>
+                     <item>
+                        <content styleCode="bold">Antiplatelet agents, including ZONTIVITY, increase the risk of bleeding, including ICH and fatal bleeding 
+         
+   
+    <content styleCode="italics">[see 
+          
+    
+     <linkHtml href="#S5.1">Warnings and Precautions (5.1)</linkHtml>].
+         
+   
+    </content>
+                        </content>
+                     </item>
+                  </list>
+               </text>
+               <effectiveTime value="20161201"/>
+               <excerpt>
+                  <highlight>
+                     <text>
+                        <paragraph>
+                           <content styleCode="bold">WARNING: BLEEDING RISK</content>
+                        </paragraph>
+                        <paragraph>
+                           <content styleCode="bold">
+                              <content styleCode="italics">See full prescribing information for complete boxed warning.</content>
+                           </content>
+                        </paragraph>
+                        <list listType="unordered">
+                           <item>
+                              <content styleCode="bold">Do not use ZONTIVITY in patients with a history of stroke, transient ischemic attack (TIA), or intracranial hemorrhage (ICH); or active pathological bleeding. (
+           
+   
+      <linkHtml href="#S4.1">4.1</linkHtml>, 
+           
+   
+      <linkHtml href="#S4.2">4.2</linkHtml>)
+          
+  
+     </content>
+                           </item>
+                           <item>
+                              <content styleCode="bold">Antiplatelet agents, including ZONTIVITY, increase the risk of bleeding, including ICH and fatal bleeding. (
+           
+   
+      <linkHtml href="#S5.1">5.1</linkHtml>)
+          
+  
+     </content>
+                           </item>
+                        </list>
+                     </text>
+                  </highlight>
+               </excerpt>
+            </section>
+         </component>
+         <component>
+            <section ID="S1">
+               <id root="bf7831ab-f200-9652-e053-2a95a90a6bfd"/>
+               <code code="34067-9" codeSystem="2.16.840.1.113883.6.1" displayName="INDICATIONS &amp; USAGE SECTION"/>
+               <title>1 INDICATIONS AND USAGE</title>
+               <effectiveTime value="20161201"/>
+               <excerpt>
+                  <highlight>
+                     <text>
+                        <paragraph>ZONTIVITY is a protease-activated receptor-1 (PAR-1) antagonist indicated for the reduction of thrombotic cardiovascular events in patients with a history of myocardial infarction (MI) or with peripheral arterial disease (PAD). ZONTIVITY has been shown to reduce the rate of a combined endpoint of cardiovascular death, MI, stroke, and urgent coronary revascularization. (
+         
+ 
+    <linkHtml href="#S1.1">1.1</linkHtml>)
+        
+
+   </paragraph>
+                     </text>
+                  </highlight>
+               </excerpt>
+               <component>
+                  <section ID="S1.1">
+                     <id root="bf7831ab-f201-9652-e053-2a95a90a6bfd"/>
+                     <code code="42229-5" codeSystem="2.16.840.1.113883.6.1" displayName="SPL UNCLASSIFIED SECTION"/>
+                     <title>1.1     Patients with History of Myocardial Infarction (MI) or with Peripheral Arterial Disease (PAD)</title>
+                     <text>
+                        <paragraph>ZONTIVITY
+         
+ 
+  <content styleCode="bold">
+                              <sup>®</sup>
+                           </content> is indicated for the reduction of thrombotic cardiovascular events in patients with a history of myocardial infarction (MI) or with peripheral arterial disease (PAD). ZONTIVITY has been shown to reduce the rate of a combined endpoint of cardiovascular death, MI, stroke, and urgent coronary revascularization (UCR).
+        
+
+ </paragraph>
+                     </text>
+                     <effectiveTime value="20161201"/>
+                  </section>
+               </component>
+            </section>
+         </component>
+         <component>
+            <section ID="S2">
+               <id root="bf7831ab-f202-9652-e053-2a95a90a6bfd"/>
+               <code code="34068-7" codeSystem="2.16.840.1.113883.6.1" displayName="DOSAGE &amp; ADMINISTRATION SECTION"/>
+               <title>2 DOSAGE AND ADMINISTRATION</title>
+               <effectiveTime value="20161201"/>
+               <excerpt>
+                  <highlight>
+                     <text>
+                        <list listType="unordered">
+                           <item>One tablet of ZONTIVITY orally once daily. (
+          
+  
+     <linkHtml href="#S2.1">2.1</linkHtml>)
+         
+ 
+    </item>
+                           <item>Use with aspirin and/or clopidogrel according to their indications or standard of care. There is limited clinical experience with other antiplatelet drugs and none with ZONTIVITY as the only antiplatelet agent. (
+          
+  
+     <linkHtml href="#S2.2">2.2</linkHtml>)
+         
+ 
+    </item>
+                        </list>
+                     </text>
+                  </highlight>
+               </excerpt>
+               <component>
+                  <section ID="S2.1">
+                     <id root="bf7831ab-f203-9652-e053-2a95a90a6bfd"/>
+                     <code code="42229-5" codeSystem="2.16.840.1.113883.6.1" displayName="SPL UNCLASSIFIED SECTION"/>
+                     <title>2.1     General Dosing Information</title>
+                     <text>
+                        <paragraph>Take one tablet of ZONTIVITY 2.08 mg orally once daily, with or without food.</paragraph>
+                     </text>
+                     <effectiveTime value="20161201"/>
+                  </section>
+               </component>
+               <component>
+                  <section ID="S2.2">
+                     <id root="bf7831ab-f204-9652-e053-2a95a90a6bfd"/>
+                     <code code="42229-5" codeSystem="2.16.840.1.113883.6.1" displayName="SPL UNCLASSIFIED SECTION"/>
+                     <title>2.2     Coadministration with Other Antiplatelet Drugs</title>
+                     <text>
+                        <paragraph>There is no experience with use of ZONTIVITY alone as the only administered antiplatelet agent. ZONTIVITY has been studied only as an addition to aspirin and/or clopidogrel. Use ZONTIVITY with aspirin and/or clopidogrel according to their indications or standard of care 
+         
+ 
+  <content styleCode="italics">[see 
+          
+  
+   <linkHtml href="#S14">Clinical Studies (14)</linkHtml>]. 
+         
+ 
+  </content>There is limited clinical experience with other antiplatelet drugs.
+        
+
+ </paragraph>
+                     </text>
+                     <effectiveTime value="20161201"/>
+                  </section>
+               </component>
+            </section>
+         </component>
+         <component>
+            <section ID="S3">
+               <id root="bf7831ab-f205-9652-e053-2a95a90a6bfd"/>
+               <code code="43678-2" codeSystem="2.16.840.1.113883.6.1" displayName="DOSAGE FORMS &amp; STRENGTHS SECTION"/>
+               <title>3 DOSAGE FORMS AND STRENGTHS</title>
+               <text>
+                  <paragraph>ZONTIVITY tablets, 2.08 mg vorapaxar, are yellow, oval-shaped, film-coated tablets with "351" on one side and the Merck logo on the other side.</paragraph>
+               </text>
+               <effectiveTime value="20161201"/>
+               <excerpt>
+                  <highlight>
+                     <text>
+                        <paragraph>Tablets: 2.08 mg vorapaxar. (
+         
+ 
+    <linkHtml href="#S3">3</linkHtml>)
+        
+
+   </paragraph>
+                     </text>
+                  </highlight>
+               </excerpt>
+            </section>
+         </component>
+         <component>
+            <section ID="S4">
+               <id root="bf7831ab-f206-9652-e053-2a95a90a6bfd"/>
+               <code code="34070-3" codeSystem="2.16.840.1.113883.6.1" displayName="CONTRAINDICATIONS SECTION"/>
+               <title>4 CONTRAINDICATIONS</title>
+               <effectiveTime value="20161201"/>
+               <excerpt>
+                  <highlight>
+                     <text>
+                        <list listType="unordered">
+                           <item>History of stroke, TIA, or ICH. (
+          
+  
+     <linkHtml href="#S4.1">4.1</linkHtml>)
+         
+ 
+    </item>
+                           <item>Active pathologic bleeding. (
+          
+  
+     <linkHtml href="#S4.2">4.2</linkHtml>)
+         
+ 
+    </item>
+                        </list>
+                     </text>
+                  </highlight>
+               </excerpt>
+               <component>
+                  <section ID="S4.1">
+                     <id root="bf7831ab-f207-9652-e053-2a95a90a6bfd"/>
+                     <code code="42229-5" codeSystem="2.16.840.1.113883.6.1" displayName="SPL UNCLASSIFIED SECTION"/>
+                     <title>4.1     History of Stroke, Transient Ischemic Attack (TIA), or Intracranial Hemorrhage (ICH)</title>
+                     <text>
+                        <paragraph>ZONTIVITY is contraindicated in patients with a history of stroke, TIA, or ICH because of an increased risk of ICH in this population 
+         
+ 
+  <content styleCode="italics">[see 
+          
+  
+   <linkHtml href="#S6">Adverse Reactions (6)</linkHtml>]
+         
+ 
+  </content>.
+        
+
+ </paragraph>
+                        <paragraph>Discontinue ZONTIVITY in patients who experience a stroke, TIA, or ICH 
+         
+ 
+  <content styleCode="italics">[see 
+          
+  
+   <linkHtml href="#S6.1">Adverse Reactions (6.1)</linkHtml> and 
+          
+  
+   <linkHtml href="#S14">Clinical Studies (14)</linkHtml>]
+         
+ 
+  </content>.
+        
+
+ </paragraph>
+                     </text>
+                     <effectiveTime value="20161201"/>
+                  </section>
+               </component>
+               <component>
+                  <section ID="S4.2">
+                     <id root="bf7831ab-f208-9652-e053-2a95a90a6bfd"/>
+                     <code code="42229-5" codeSystem="2.16.840.1.113883.6.1" displayName="SPL UNCLASSIFIED SECTION"/>
+                     <title>4.2     Active Pathologic Bleeding</title>
+                     <text>
+                        <paragraph>ZONTIVITY is contraindicated in patients with active pathological bleeding such as ICH or peptic ulcer 
+         
+ 
+  <content styleCode="italics">[see 
+          
+  
+   <linkHtml href="#S5.1">Warnings and Precautions (5.1)</linkHtml> and 
+          
+  
+   <linkHtml href="#S6.1">Adverse Reactions (6.1)</linkHtml>]
+         
+ 
+  </content>.
+        
+
+ </paragraph>
+                     </text>
+                     <effectiveTime value="20161201"/>
+                  </section>
+               </component>
+            </section>
+         </component>
+         <component>
+            <section ID="S5">
+               <id root="bf7831ab-f209-9652-e053-2a95a90a6bfd"/>
+               <code code="43685-7" codeSystem="2.16.840.1.113883.6.1" displayName="WARNINGS AND PRECAUTIONS SECTION"/>
+               <title>5 WARNINGS AND PRECAUTIONS</title>
+               <effectiveTime value="20161201"/>
+               <excerpt>
+                  <highlight>
+                     <text>
+                        <list listType="unordered">
+                           <item>Like other antiplatelet agents, ZONTIVITY increases the risk of bleeding. (
+          
+  
+     <linkHtml href="#S5.1">5.1</linkHtml>)
+         
+ 
+    </item>
+                           <item>Avoid use with strong CYP3A inhibitors or inducers. (
+          
+  
+     <linkHtml href="#S5.2">5.2</linkHtml>)
+         
+ 
+    </item>
+                        </list>
+                     </text>
+                  </highlight>
+               </excerpt>
+               <component>
+                  <section ID="S5.1">
+                     <id root="bf7831ab-f20a-9652-e053-2a95a90a6bfd"/>
+                     <code code="42229-5" codeSystem="2.16.840.1.113883.6.1" displayName="SPL UNCLASSIFIED SECTION"/>
+                     <title>5.1     General Risk of Bleeding</title>
+                     <text>
+                        <paragraph>Antiplatelet agents, including ZONTIVITY, increase the risk of bleeding, including ICH and fatal bleeding 
+         
+ 
+  <content styleCode="italics">[see 
+          
+  
+   <linkHtml href="#S6.1">Adverse Reactions (6.1)</linkHtml>]
+         
+ 
+  </content>.
+        
+
+ </paragraph>
+                        <paragraph>ZONTIVITY increases the risk of bleeding in proportion to the patient's underlying bleeding risk. Consider the underlying risk of bleeding before initiating ZONTIVITY. General risk factors for bleeding include older age, low body weight, reduced renal or hepatic function, history of bleeding disorders, and use of certain concomitant medications (e.g., anticoagulants, fibrinolytic therapy, chronic nonsteroidal anti-inflammatory drugs [NSAIDS], selective serotonin reuptake inhibitors, serotonin norepinephrine reuptake inhibitors) increases the risk of bleeding 
+         
+ 
+  <content styleCode="italics">[see 
+          
+  
+   <linkHtml href="#S8.7">Use in Specific Populations (8.7)</linkHtml> and 
+          
+  
+   <linkHtml href="#S12.3">Clinical Pharmacology (12.3)</linkHtml>]
+         
+ 
+  </content>. Avoid concomitant use of warfarin or other anticoagulants.
+        
+
+ </paragraph>
+                        <paragraph>Suspect bleeding in any patient who is hypotensive and has recently undergone coronary angiography, percutaneous coronary intervention (PCI), coronary artery bypass graft surgery (CABG), or other surgical procedures.</paragraph>
+                        <paragraph>Withholding ZONTIVITY for a brief period will not be useful in managing an acute bleeding event because of its long half-life. There is no known treatment to reverse the antiplatelet effect of ZONTIVITY. Significant inhibition of platelet aggregation remains 4 weeks after discontinuation 
+         
+ 
+  <content styleCode="italics">[see</content>
+                           <content styleCode="italics">
+                              <linkHtml href="#S10"> Overdosage (10)</linkHtml> and 
+          
+  
+   <linkHtml href="#S12.2">Clinical Pharmacology (12.2</linkHtml>, 
+          
+  
+   <linkHtml href="#S12.3">12.3)</linkHtml>].
+         
+ 
+  </content>
+                        </paragraph>
+                     </text>
+                     <effectiveTime value="20161201"/>
+                  </section>
+               </component>
+               <component>
+                  <section ID="S5.2">
+                     <id root="bf7831ab-f20b-9652-e053-2a95a90a6bfd"/>
+                     <code code="42229-5" codeSystem="2.16.840.1.113883.6.1" displayName="SPL UNCLASSIFIED SECTION"/>
+                     <title>5.2     Strong CYP3A Inhibitors or Inducers</title>
+                     <text>
+                        <paragraph>Strong CYP3A inhibitors increase and inducers decrease ZONTIVITY exposure. Avoid concomitant use of ZONTIVITY with strong CYP3A inhibitors or inducers 
+         
+ 
+  <content styleCode="italics">[see 
+          
+  
+   <linkHtml href="#S7.1">Drug Interactions (7.1)</linkHtml> and 
+          
+  
+   <linkHtml href="#S12.3">Clinical Pharmacology (12.3)</linkHtml>]
+         
+ 
+  </content>.
+        
+
+ </paragraph>
+                     </text>
+                     <effectiveTime value="20161201"/>
+                  </section>
+               </component>
+            </section>
+         </component>
+         <component>
+            <section ID="S6">
+               <id root="bf7831ab-f20c-9652-e053-2a95a90a6bfd"/>
+               <code code="34084-4" codeSystem="2.16.840.1.113883.6.1" displayName="ADVERSE REACTIONS SECTION"/>
+               <title>6 ADVERSE REACTIONS</title>
+               <text>
+                  <paragraph>The following serious adverse reaction is also discussed elsewhere in the labeling:</paragraph>
+                  <list listType="unordered">
+                     <item>Bleeding 
+        
+  
+   <content styleCode="italics">[see 
+         
+   
+    <linkHtml href="#BOX">Boxed Warning</linkHtml> and 
+         
+   
+    <linkHtml href="#S5.1">Warnings and Precautions (5.1)</linkHtml>].
+        
+  
+   </content>
+                     </item>
+                  </list>
+               </text>
+               <effectiveTime value="20191107"/>
+               <excerpt>
+                  <highlight>
+                     <text>
+                        <list listType="unordered">
+                           <item>Bleeding, including life-threatening and fatal bleeding, is the most commonly reported adverse reaction. (
+          
+  
+     <linkHtml href="#S6.1">6.1</linkHtml>)
+         
+ 
+    </item>
+                        </list>
+                        <paragraph/>
+                        <paragraph>
+                           <content styleCode="bold">To report SUSPECTED ADVERSE REACTIONS, contact Aralez Pharmaceuticals at 1-833-694-8235 or FDA at 1-800-FDA-1088 or 
+          
+  
+     <content styleCode="italics">
+                                 <linkHtml href="http://www.fda.gov/medwatch">www.fda.gov/medwatch</linkHtml>
+                              </content>
+                              <content styleCode="italics">.</content>
+                           </content>
+                        </paragraph>
+                     </text>
+                  </highlight>
+               </excerpt>
+               <component>
+                  <section ID="S6.1">
+                     <id root="bf7831ab-f20d-9652-e053-2a95a90a6bfd"/>
+                     <code code="42229-5" codeSystem="2.16.840.1.113883.6.1" displayName="SPL UNCLASSIFIED SECTION"/>
+                     <title>6.1     Clinical Trials Experience</title>
+                     <text>
+                        <paragraph>Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in clinical practice.</paragraph>
+                        <paragraph>ZONTIVITY was evaluated for safety in 13,186 patients, including 2,187 patients treated for more than 3 years, in the Phase 3 study TRA 2°P TIMI 50 (Thrombin Receptor Antagonist in Secondary Prevention of Atherothrombotic Ischemic Events). The overall study population, patients who had evidence or a history of atherosclerosis involving the coronary (post-MI), cerebral (ischemic stroke), or peripheral vascular (documented history of PAD) systems, was treated once a day with ZONTIVITY (n=13,186) or placebo (n=13,166). Patients randomized to ZONTIVITY received treatment for a median of 2.3 years.</paragraph>
+                        <paragraph>The adverse events in the ZONTIVITY-treated (n=10,059) and placebo-treated (n=10,049) post-MI or PAD patients with no history of stroke or TIA are shown below 
+         
+ 
+  <content styleCode="italics">[see 
+          
+  
+   <linkHtml href="#S4">Contraindications (4)</linkHtml>]
+         
+ 
+  </content>.
+        
+
+ </paragraph>
+                     </text>
+                     <effectiveTime value="20161201"/>
+                     <component>
+                        <section>
+                           <id root="bf7831ab-f20e-9652-e053-2a95a90a6bfd"/>
+                           <code code="42229-5" codeSystem="2.16.840.1.113883.6.1" displayName="SPL UNCLASSIFIED SECTION"/>
+                           <text>
+                              <paragraph>
+                                 <content styleCode="bold">
+                                    <content styleCode="italics">Bleeding</content>
+                                 </content>
+                                 <br/>GUSTO severe bleeding was defined as fatal, intracranial, or bleeding with hemodynamic compromise requiring intervention; GUSTO moderate bleeding was defined as bleeding requiring transfusion of whole blood or packed red blood cells without hemodynamic compromise. (GUSTO: Global Utilization of Streptokinase and Tissue Plasminogen Activator for Occluded Arteries.)
+          
+
+ </paragraph>
+                              <paragraph>The results for the bleeding endpoints in the post-MI or PAD patients without a history of stroke or TIA are shown in Table 1. ZONTIVITY increased GUSTO moderate or severe bleeding by 55%. </paragraph>
+                              <table width="95%" ID="t1">
+                                 <caption>Table 1: Non-CABG-Related Bleeds in Post-MI or PAD Patients without a History of Stroke or TIA (First Dose to Last Dose + 30 Days) in the TRA 2°P Study</caption>
+                                 <col width="25%" align="left" valign="top"/>
+                                 <col width="15%" align="left" valign="top"/>
+                                 <col width="10%" align="left" valign="top"/>
+                                 <col width="20%" align="left" valign="top"/>
+                                 <col width="10%" align="left" valign="top"/>
+                                 <col width="20%" align="left" valign="top"/>
+                                 <thead>
+                                    <tr>
+                                       <td styleCode="Botrule Lrule Rrule"/>
+                                       <td colspan="2" align="center" styleCode="Botrule Rrule">Placebo
+              
+    
+     <br/>(n=10,049)
+             
+   
+    </td>
+                                       <td colspan="2" align="center" styleCode="Botrule Rrule">ZONTIVITY
+              
+    
+     <br/>(n=10,059)
+             
+   
+    </td>
+                                       <td styleCode="Rrule"/>
+                                    </tr>
+                                    <tr>
+                                       <td styleCode="Lrule Rrule Botrule">Endpoints</td>
+                                       <td styleCode="Rrule Botrule">Patients with events
+              
+    
+     <br/>(%)
+             
+   
+    </td>
+                                       <td styleCode="Rrule Botrule" valign="bottom">K-M %
+              
+    
+     <footnote ID="ft1.2">K-M estimate at 1,080 days.</footnote>
+                                       </td>
+                                       <td styleCode="Rrule Botrule" valign="bottom">Patients with events
+              
+    
+     <br/>(%)
+             
+   
+    </td>
+                                       <td styleCode="Rrule Botrule" valign="bottom">K-M %
+              
+    
+     <footnoteRef IDREF="ft1.2"/>
+                                       </td>
+                                       <td styleCode="Rrule" valign="bottom">Hazard Ratio
+              
+    
+     <footnote ID="ft1.1">Clinically significant bleeding includes any bleeding requiring medical attention including ICH, or clinically significant overt signs of hemorrhage associated with a drop in hemoglobin (Hgb) of ≥3 g/dL (or, when Hgb is not available, an absolute drop in hematocrit (Hct) of ≥9%).</footnote>
+                                          <sup>,</sup>
+                                          <footnote ID="K990">Hazard ratio is ZONTIVITY group vs. placebo group.</footnote>
+                                          <br/>(95% CI)
+             
+   
+    </td>
+                                    </tr>
+                                 </thead>
+                                 <tbody>
+                                    <tr styleCode="Botrule">
+                                       <td colspan="6" styleCode="Lrule Rrule">GUSTO Bleeding Categories</td>
+                                    </tr>
+                                    <tr>
+                                       <td styleCode="Lrule Rrule">Severe</td>
+                                       <td styleCode="Rrule">82 (0.8%)</td>
+                                       <td styleCode="Rrule">1.0%</td>
+                                       <td styleCode="Rrule">100 (1.0%)</td>
+                                       <td styleCode="Rrule">1.3%</td>
+                                       <td styleCode="Rrule">1.24 (0.92 - 1.66)</td>
+                                    </tr>
+                                    <tr>
+                                       <td styleCode="Lrule Rrule">Moderate or Severe</td>
+                                       <td styleCode="Rrule">199 (2.0%)</td>
+                                       <td styleCode="Rrule">2.4%</td>
+                                       <td styleCode="Rrule">303 (3.0%)</td>
+                                       <td styleCode="Rrule">3.7%</td>
+                                       <td styleCode="Rrule">1.55 (1.30 - 1.86)</td>
+                                    </tr>
+                                    <tr>
+                                       <td styleCode="Lrule Rrule Botrule">Any GUSTO Bleeding (Severe/Moderate/Mild)</td>
+                                       <td styleCode="Rrule Botrule">1769 (17.6%)</td>
+                                       <td styleCode="Rrule Botrule">19.8%</td>
+                                       <td styleCode="Rrule Botrule">2518 (25.0%)</td>
+                                       <td styleCode="Rrule Botrule">27.7%</td>
+                                       <td styleCode="Rrule Botrule">1.52 (1.43 - 1.61)</td>
+                                    </tr>
+                                    <tr>
+                                       <td styleCode="Lrule Rrule">Fatal Bleeding</td>
+                                       <td styleCode="Rrule">14 (0.1%)</td>
+                                       <td styleCode="Rrule">0.2%</td>
+                                       <td styleCode="Rrule">16 (0.2%)</td>
+                                       <td styleCode="Rrule">0.2%</td>
+                                       <td styleCode="Rrule">1.15 (0.56 - 2.36)</td>
+                                    </tr>
+                                    <tr>
+                                       <td styleCode="Lrule Rrule Botrule">Intracranial Hemorrhage (ICH)</td>
+                                       <td styleCode="Rrule Botrule">31 (0.3%)</td>
+                                       <td styleCode="Rrule Botrule">0.4%</td>
+                                       <td styleCode="Rrule Botrule">45 (0.4%)</td>
+                                       <td styleCode="Rrule Botrule">0.6%</td>
+                                       <td styleCode="Rrule Botrule">1.46 (0.92-2.31)</td>
+                                    </tr>
+                                    <tr>
+                                       <td styleCode="Lrule Rrule">Clinically Significant Bleeding
+              
+    
+     <footnoteRef IDREF="ft1.1"/>
+                                       </td>
+                                       <td styleCode="Rrule">950 (9.5%)</td>
+                                       <td styleCode="Rrule">10.9%</td>
+                                       <td styleCode="Rrule">1349 (13.4%)</td>
+                                       <td styleCode="Rrule">15.5%</td>
+                                       <td styleCode="Rrule">1.47 (1.35 - 1.60)</td>
+                                    </tr>
+                                    <tr>
+                                       <td styleCode="Lrule Rrule">  Gastrointestinal Bleeding</td>
+                                       <td styleCode="Rrule">297 (3.0%)</td>
+                                       <td styleCode="Rrule">3.5%</td>
+                                       <td styleCode="Rrule">400 (4.0%)</td>
+                                       <td styleCode="Rrule">4.7%</td>
+                                       <td styleCode="Rrule">1.37 (1.18-1.59)</td>
+                                    </tr>
+                                 </tbody>
+                              </table>
+                              <paragraph>The effects of ZONTIVITY on bleeding were examined in a number of subsets based on demographic and other baseline characteristics. Many of these are shown in Figure 1. Such analyses must be interpreted cautiously, as differences can reflect the play of chance among a large number of analyses.</paragraph>
+                              <table width="100%" styleCode="Noautorules">
+                                 <col width="100%" align="left" valign="top"/>
+                                 <thead>
+                                    <tr>
+                                       <th>Figure 1: Subgroup Analyses (GUSTO Moderate or Severe Bleeding) in Post-MI or PAD Patients without a History of Stroke or TIA in the TRA 2°P Study (First Dose to Last Dose + 30 Days)</th>
+                                    </tr>
+                                 </thead>
+                                 <tbody>
+                                    <tr>
+                                       <td>
+                                          <paragraph>
+                                             <renderMultiMedia referencedObject="MM1"/>
+                                          </paragraph>
+                                       </td>
+                                    </tr>
+                                 </tbody>
+                              </table>
+                              <paragraph>In TRA 2°P, 367 post-MI or PAD patients without a history of stroke or TIA underwent CABG surgery. Study investigators were encouraged not to discontinue treatment with study drug (i.e., ZONTIVITY or placebo) prior to surgery. Approximately 12.3% of patients discontinued ZONTIVITY more than 30 days prior to CABG. The relative risk for GUSTO moderate or severe bleeding was approximately 1.2 on ZONTIVITY vs. placebo.</paragraph>
+                              <paragraph>Bleeding events that occurred on ZONTIVITY were treated in the same manner as for other antiplatelet agents.</paragraph>
+                           </text>
+                           <effectiveTime value="20161201"/>
+                           <component>
+                              <observationMedia ID="MM1">
+                                 <text>Figure 1</text>
+                                 <value mediaType="image/jpeg" xsi:type="ED">
+                                    <reference value="zontivity-01.jpg"/>
+                                 </value>
+                              </observationMedia>
+                           </component>
+                        </section>
+                     </component>
+                     <component>
+                        <section>
+                           <id root="bf7831ab-f20f-9652-e053-2a95a90a6bfd"/>
+                           <code code="42229-5" codeSystem="2.16.840.1.113883.6.1" displayName="SPL UNCLASSIFIED SECTION"/>
+                           <text>
+                              <paragraph>
+                                 <content styleCode="bold">
+                                    <content styleCode="italics">Use in Patients with History of Stroke, TIA, or ICH</content>
+                                 </content>
+                                 <br/>In the TRA 2°P study, patients with a history of ischemic stroke had a higher rate for ICH on ZONTIVITY than on placebo. ZONTIVITY is contraindicated in patients with a history of stroke, TIA, or ICH 
+           
+ 
+  <content styleCode="italics">[see 
+            
+  
+   <linkHtml href="#S4">Contraindications (4)</linkHtml>].
+           
+ 
+  </content>
+                              </paragraph>
+                           </text>
+                           <effectiveTime value="20161201"/>
+                        </section>
+                     </component>
+                     <component>
+                        <section>
+                           <id root="bf7831ab-f210-9652-e053-2a95a90a6bfd"/>
+                           <code code="42229-5" codeSystem="2.16.840.1.113883.6.1" displayName="SPL UNCLASSIFIED SECTION"/>
+                           <text>
+                              <paragraph>
+                                 <content styleCode="bold">
+                                    <content styleCode="italics">Other Adverse Reactions</content>
+                                 </content>
+                                 <br/>Adverse reactions other than bleeding were evaluated in 19,632 patients treated with ZONTIVITY [13,186 patients in the TRA 2°P study and 6,446 patients in the TRA•CER (Thrombin Receptor Antagonist for Clinical Event Reduction in Acute Coronary Syndrome) study]. Adverse events other than bleeding that occurred at a rate that was at least 2% in the ZONTIVITY group and also 10% greater than the rate in the placebo group are shown in Table 2.
+          
+
+ </paragraph>
+                              <table width="75%">
+                                 <caption>Table 2: TRA 2°P / TRA•CER - Percentage of Patients Reporting Non-hemorrhagic Adverse Reactions at a Rate at Least 2% in the ZONTIVITY Group and at Least 10% Greater than Placebo </caption>
+                                 <col width="40%" align="left" valign="top"/>
+                                 <col width="30%" align="center" valign="top"/>
+                                 <col width="30%" align="center" valign="top"/>
+                                 <thead>
+                                    <tr styleCode="Botrule">
+                                       <th styleCode="Lrule Rrule"/>
+                                       <th styleCode="Rrule">ZONTIVITY
+              
+    
+     <br/>N=19,632
+             
+   
+    </th>
+                                       <th styleCode="Rrule">Placebo
+              
+    
+     <br/>N=19,607
+             
+   
+    </th>
+                                    </tr>
+                                    <tr>
+                                       <th styleCode="Lrule Rrule"/>
+                                       <th styleCode="Rrule">n (%)</th>
+                                       <th styleCode="Rrule">n (%)</th>
+                                    </tr>
+                                 </thead>
+                                 <tbody>
+                                    <tr styleCode="Botrule">
+                                       <td styleCode="Lrule Rrule">Anemia</td>
+                                       <td styleCode="Rrule">982 (5.0)</td>
+                                       <td styleCode="Rrule">783 (4.0)</td>
+                                    </tr>
+                                    <tr styleCode="Botrule">
+                                       <td styleCode="Lrule Rrule">Depression</td>
+                                       <td styleCode="Rrule">477 (2.4)</td>
+                                       <td styleCode="Rrule">405 (2.1)</td>
+                                    </tr>
+                                    <tr>
+                                       <td styleCode="Lrule Rrule">Rashes, Eruptions, and Exanthemas</td>
+                                       <td styleCode="Rrule">439 (2.2)</td>
+                                       <td styleCode="Rrule">395 (2.0)</td>
+                                    </tr>
+                                 </tbody>
+                              </table>
+                              <paragraph>The following adverse reactions occurred at a rate less than 2% in the ZONTIVITY group but at least 40% greater than placebo. In descending order of rate in the ZONTIVITY group: iron deficiency, retinopathy or retinal disorder, and diplopia/oculomotor disturbances.</paragraph>
+                              <paragraph>An increased rate of diplopia and related oculomotor disturbances was observed with ZONTIVITY treatment (30 subjects, 0.2%) vs. placebo (10 subjects, 0.06%). While some cases resolved during continued treatment, information on resolution of symptoms was not available for some cases.</paragraph>
+                           </text>
+                           <effectiveTime value="20161201"/>
+                        </section>
+                     </component>
+                  </section>
+               </component>
+            </section>
+         </component>
+         <component>
+            <section ID="S7">
+               <id root="bf7831ab-f211-9652-e053-2a95a90a6bfd"/>
+               <code code="34073-7" codeSystem="2.16.840.1.113883.6.1" displayName="DRUG INTERACTIONS SECTION"/>
+               <title>7 DRUG INTERACTIONS</title>
+               <effectiveTime value="20161201"/>
+               <component>
+                  <section ID="S7.1">
+                     <id root="bf7831ab-f212-9652-e053-2a95a90a6bfd"/>
+                     <code code="42229-5" codeSystem="2.16.840.1.113883.6.1" displayName="SPL UNCLASSIFIED SECTION"/>
+                     <title>7.1     Effects of Other Drugs on ZONTIVITY</title>
+                     <text>
+                        <paragraph>Vorapaxar is eliminated primarily by metabolism, with contributions from CYP3A4 and CYP2J2.</paragraph>
+                     </text>
+                     <effectiveTime value="20161201"/>
+                     <component>
+                        <section>
+                           <id root="bf7831ab-f213-9652-e053-2a95a90a6bfd"/>
+                           <code code="42229-5" codeSystem="2.16.840.1.113883.6.1" displayName="SPL UNCLASSIFIED SECTION"/>
+                           <text>
+                              <paragraph>
+                                 <content styleCode="bold">
+                                    <content styleCode="italics">Strong CYP3A Inhibitors</content>
+                                 </content>
+                                 <br/>Avoid concomitant use of ZONTIVITY with strong inhibitors of CYP3A (e.g., ketoconazole, itraconazole, posaconazole, clarithromycin, nefazodone, ritonavir, saquinavir, nelfinavir, indinavir, boceprevir, telaprevir, telithromycin and conivaptan) 
+           
+ 
+  <content styleCode="italics">[see 
+            
+  
+   <linkHtml href="#S5.2">Warnings and Precautions (5.2)</linkHtml> and 
+            
+  
+   <linkHtml href="#S12.3">Clinical Pharmacology (12.3)</linkHtml>]
+           
+ 
+  </content>.
+          
+
+ </paragraph>
+                           </text>
+                           <effectiveTime value="20161201"/>
+                        </section>
+                     </component>
+                     <component>
+                        <section>
+                           <id root="bf7831ab-f214-9652-e053-2a95a90a6bfd"/>
+                           <code code="42229-5" codeSystem="2.16.840.1.113883.6.1" displayName="SPL UNCLASSIFIED SECTION"/>
+                           <text>
+                              <paragraph>
+                                 <content styleCode="bold">
+                                    <content styleCode="italics">Strong CYP3A Inducers</content>
+                                 </content>
+                                 <br/>Avoid concomitant use of ZONTIVITY with strong inducers of CYP3A (e.g., rifampin, carbamazepine, St. John's Wort and phenytoin) 
+           
+ 
+  <content styleCode="italics">[see 
+            
+  
+   <linkHtml href="#S5.2">Warnings and Precautions (5.2)</linkHtml> and 
+            
+  
+   <linkHtml href="#S12.3">Clinical Pharmacology (12.3)</linkHtml>].
+           
+ 
+  </content>
+                              </paragraph>
+                           </text>
+                           <effectiveTime value="20161201"/>
+                        </section>
+                     </component>
+                  </section>
+               </component>
+            </section>
+         </component>
+         <component>
+            <section ID="S8">
+               <id root="bf7831ab-f215-9652-e053-2a95a90a6bfd"/>
+               <code code="43684-0" codeSystem="2.16.840.1.113883.6.1" displayName="USE IN SPECIFIC POPULATIONS SECTION"/>
+               <title>8 USE IN SPECIFIC POPULATIONS</title>
+               <effectiveTime value="20191120"/>
+               <excerpt>
+                  <highlight>
+                     <text>
+                        <list listType="unordered">
+                           <item>Pregnancy: When pregnancy is detected, discontinue vorapaxar and initiate appropriate alternative therapy. (
+          
+  
+     <linkHtml href="#S8.1">8.1</linkHtml>)
+         
+ 
+    </item>
+                           <item>Lactation: Breastfeeding not recommended. (
+          
+  
+     <linkHtml href="#S8.3">8.2</linkHtml>)
+         
+ 
+    </item>
+                        </list>
+                     </text>
+                  </highlight>
+               </excerpt>
+               <component>
+                  <section ID="S8.1">
+                     <id root="bf7831ab-f216-9652-e053-2a95a90a6bfd"/>
+                     <code code="42228-7" codeSystem="2.16.840.1.113883.6.1" displayName="PREGNANCY SECTION"/>
+                     <title>8.1 Pregnancy</title>
+                     <effectiveTime value="20191120"/>
+                     <component>
+                        <section>
+                           <id root="bf7831ab-f217-9652-e053-2a95a90a6bfd"/>
+                           <code code="34077-8" codeSystem="2.16.840.1.113883.6.1" displayName="TERATOGENIC EFFECTS SECTION"/>
+                           <text>
+                              <paragraph styleCode="FDAText">
+                                 <content styleCode="bold">
+                                    <content styleCode="italics">Risk Summary</content>
+                                 </content>
+                                 <br/>Based on the potential for serious adverse reactions (such as maternal bleeding/hemorrhage) and the long half-life which makes it effectively irreversible, discontinue vorapaxar when pregnancy is detected and initiate alternative therapy with a shorter duration of action 
+           
+ 
+  <content styleCode="italics">[see 
+            
+  
+   <linkHtml href="#S5.1">Warnings and Precautions (5.1)</linkHtml> and 
+            
+  
+   <linkHtml href="#S12.1">Clinical Pharmacology (12.1</linkHtml>, 
+            
+  
+   <linkHtml href="#S12.2">12.2)</linkHtml>]
+           
+ 
+  </content>. Available data from postmarketing experience with ZONTIVITY use in pregnant women are insufficient to evaluate for a drug-associated risk of major birth defects, miscarriage, or adverse maternal or fetal outcomes.  In animal reproduction studies, no embryo/fetal toxicities, malformations or maternal toxicities were observed in rats and rabbits exposed during the period of organogenesis at exposures 56 times and 26 times, respectively, the human systemic exposure at the recommended human dose (RHD) 
+           
+ 
+  <content styleCode="italics">(see 
+            
+  
+   <linkHtml href="#35843d16-ff65-406a-877a-c4014c16cd09">Data</linkHtml>).
+           
+ 
+  </content>
+                              </paragraph>
+                              <paragraph styleCode="FDAText">The estimated background risk of major birth defects and miscarriage for the indicated population is unknown. All pregnancies have a background risk of birth defect, loss, or other adverse outcomes. In the U.S. general population, the estimated background risk of major birth defects and miscarriage in clinically recognized pregnancies is 2% to 4% and 15% to 20%, respectively.</paragraph>
+                           </text>
+                           <effectiveTime value="20191120"/>
+                        </section>
+                     </component>
+                     <component>
+                        <section>
+                           <id root="bf7831ab-f218-9652-e053-2a95a90a6bfd"/>
+                           <code code="42229-5" codeSystem="2.16.840.1.113883.6.1" displayName="SPL UNCLASSIFIED SECTION"/>
+                           <title>
+                              <content styleCode="bold">
+                                 <content styleCode="italics">Data</content>
+                              </content>
+                           </title>
+                           <text>
+                              <paragraph styleCode="FDAText">
+                                 <content styleCode="italics">Animal Data</content>
+                                 <br/>In the rat embryo/fetal developmental toxicity study, pregnant rats received daily oral doses of vorapaxar at 0, 5, 25, and 75 mg/kg from implantation to closure of the fetal hard palate (6th to 17th day of gestation). Maternal systemic exposures were approximately 0, 7, 56, and 285 times greater than exposures in women treated at the RHD based on AUC. No embryo/fetal toxicities, malformations, or maternal toxicities were observed in rats receiving exposures up to 56 times the human systemic exposure at the RHD.
+          
+
+ </paragraph>
+                              <paragraph styleCode="FDAText">In the rabbit embryo/fetal developmental toxicity study, pregnant rabbits received daily oral doses of vorapaxar at 0, 2, 10, or 20 mg/kg from implantation to closure of the fetal hard palate (7th to 19th day of gestation). The NOAEL for maternal and fetal toxicity was equal to or above the highest dose tested. However, an overall increase in the number of litters with any malformation was observed at the highest dose, where systemic exposures were 89-fold higher than the human exposure at RHD.</paragraph>
+                              <paragraph styleCode="FDALast">The effects of vorapaxar on prenatal and postnatal development were assessed in pregnant rats dosed at 0, 5, 25, or 50 mg/kg/day from implantation through the end of lactation. Rat pups had decreased survival and body weight gain from birth to postnatal day 4 and decreased body weight gain for the overall pre-weaning period at exposures 67 times the human exposure at the RHD. Both male and female pups displayed effects on sensory function (acoustic startle) and neurobehavioral (locomotor assay) development on post-natal day (PND) 20 and 21, but not later (PND 60, 61) in development, whereas decreased memory was observed in female pups on PND 27 at 31 times the human exposure at the RHD. 
+           
+ 
+  <content styleCode="italics">In utero</content> and lactational exposure did not affect fertility or reproductive behavior of offspring at exposures up to 67 times the RHD.
+          
+
+ </paragraph>
+                           </text>
+                           <effectiveTime value="20191120"/>
+                        </section>
+                     </component>
+                  </section>
+               </component>
+               <component>
+                  <section ID="S8.3">
+                     <id root="bf7831ab-f219-9652-e053-2a95a90a6bfd"/>
+                     <code code="77290-5" codeSystem="2.16.840.1.113883.6.1" displayName="LACTATION SECTION"/>
+                     <title>8.2 Lactation</title>
+                     <text>
+                        <paragraph styleCode="FDAText">
+                           <content styleCode="bold">
+                              <content styleCode="italics">Risk Summary</content>
+                           </content>
+                           <br/>There are no data on the presence of vorapaxar or its metabolites in human milk, the effects on the breastfed infant, or the effects on milk production. When vorapaxar was administered to lactating rats, vorapaxar was actively secreted in the milk of rats. When a drug is present in animal milk, it is likely the drug will be present in human milk. Because of the potential for serious adverse reactions in the breastfed infant, such as bleeding, advise patients that breastfeeding is not recommended during treatment with ZONTIVITY.
+        
+
+ </paragraph>
+                     </text>
+                     <effectiveTime value="20191120"/>
+                  </section>
+               </component>
+               <component>
+                  <section ID="S8.4">
+                     <id root="bf7831ab-f21a-9652-e053-2a95a90a6bfd"/>
+                     <code code="34081-0" codeSystem="2.16.840.1.113883.6.1" displayName="PEDIATRIC USE SECTION"/>
+                     <title>8.4 Pediatric Use</title>
+                     <text>
+                        <paragraph>The safety and effectiveness of ZONTIVITY in pediatric patients have not been established.</paragraph>
+                     </text>
+                     <effectiveTime value="20161201"/>
+                  </section>
+               </component>
+               <component>
+                  <section ID="S8.5">
+                     <id root="bf7831ab-f21b-9652-e053-2a95a90a6bfd"/>
+                     <code code="34082-8" codeSystem="2.16.840.1.113883.6.1" displayName="GERIATRIC USE SECTION"/>
+                     <title>8.5 Geriatric Use</title>
+                     <text>
+                        <paragraph>In TRA 2°P, in post-MI or PAD patients without a history of stroke or TIA, 33% of patients were ≥65 years of age and 9% were ≥75 years of age. The relative risk of bleeding (ZONTIVITY compared with placebo) was similar across age groups. No overall differences in safety or effectiveness were observed between these patients and younger patients. ZONTIVITY increases the risk of bleeding in proportion to a patient's underlying risk. Because older patients are generally at a higher risk of bleeding, consider patient age before initiating ZONTIVITY 
+         
+ 
+  <content styleCode="italics">[see 
+          
+  
+   <linkHtml href="#S6.1">Adverse Reactions (6.1)</linkHtml>]
+         
+ 
+  </content>.
+        
+
+ </paragraph>
+                     </text>
+                     <effectiveTime value="20161201"/>
+                  </section>
+               </component>
+               <component>
+                  <section ID="S8.6">
+                     <id root="bf7831ab-f21c-9652-e053-2a95a90a6bfd"/>
+                     <code code="42229-5" codeSystem="2.16.840.1.113883.6.1" displayName="SPL UNCLASSIFIED SECTION"/>
+                     <title>8.6     Renal Impairment</title>
+                     <text>
+                        <paragraph>No dose adjustment is required in patients with renal impairment 
+         
+ 
+  <content styleCode="italics">[see 
+          
+  
+   <linkHtml href="#S12.3">Clinical Pharmacology (12.3)</linkHtml>].
+         
+ 
+  </content>
+                        </paragraph>
+                     </text>
+                     <effectiveTime value="20161201"/>
+                  </section>
+               </component>
+               <component>
+                  <section ID="S8.7">
+                     <id root="bf7831ab-f21d-9652-e053-2a95a90a6bfd"/>
+                     <code code="42229-5" codeSystem="2.16.840.1.113883.6.1" displayName="SPL UNCLASSIFIED SECTION"/>
+                     <title>8.7     Hepatic Impairment</title>
+                     <text>
+                        <paragraph>No dose adjustment is required in patients with mild and moderate hepatic impairment. Based on the increased inherent risk of bleeding in patients with severe hepatic impairment, ZONTIVITY is not recommended in such patients 
+         
+ 
+  <content styleCode="italics">[see  
+          
+  
+   <linkHtml href="#S5.1">Warnings and Precautions (5.1)</linkHtml> and 
+          
+  
+   <linkHtml href="#S12.3">Clinical Pharmacology (12.3)</linkHtml>].
+         
+ 
+  </content>
+                        </paragraph>
+                     </text>
+                     <effectiveTime value="20161201"/>
+                  </section>
+               </component>
+            </section>
+         </component>
+         <component>
+            <section ID="S10">
+               <id root="bf7831ab-f21e-9652-e053-2a95a90a6bfd"/>
+               <code code="34088-5" codeSystem="2.16.840.1.113883.6.1" displayName="OVERDOSAGE SECTION"/>
+               <title>10 OVERDOSAGE</title>
+               <text>
+                  <paragraph>There is no known treatment to reverse the antiplatelet effect of ZONTIVITY, and neither dialysis nor platelet transfusion can be expected to be beneficial if bleeding occurs after overdose. Inhibition of platelet aggregation can be expected for weeks after discontinuation of normal dosing 
+       
+ 
+  <content styleCode="italics">[see 
+        
+  
+   <linkHtml href="#S12.2">Clinical Pharmacology (12.2)</linkHtml>]
+       
+ 
+  </content>. There is no standard test available to assess the risk of bleeding in an overdose situation.
+      
+
+ </paragraph>
+               </text>
+               <effectiveTime value="20161201"/>
+            </section>
+         </component>
+         <component>
+            <section ID="S11">
+               <id root="bf7831ab-f21f-9652-e053-2a95a90a6bfd"/>
+               <code code="34089-3" codeSystem="2.16.840.1.113883.6.1" displayName="DESCRIPTION SECTION"/>
+               <title>11 DESCRIPTION</title>
+               <text>
+                  <paragraph>ZONTIVITY contains vorapaxar sulfate, a tricyclic himbacine-derived selective inhibitor of platelet aggregation mediated by PAR-1.</paragraph>
+                  <paragraph>The chemical name of vorapaxar sulfate is ethyl [(1R,3aR,4aR,6R,8aR,9S,9aS)-9-{(1E)-2-[5-(3-fluorophenyl)pyridin-2-yl]ethen-1-yl}-1-methyl-3-oxododecahydronaphtho[2,3-c]furan-6-yl]carbamate sulfate. The empirical formula is C
+       
+ 
+  <sub>29</sub>H
+       
+ 
+  <sub>33</sub>FN
+       
+ 
+  <sub>2</sub>O
+       
+ 
+  <sub>4</sub>∙H
+       
+ 
+  <sub>2</sub>SO
+       
+ 
+  <sub>4</sub>, and its molecular weight is 590.7. The structural formula is:
+      
+
+ </paragraph>
+                  <paragraph>
+                     <renderMultiMedia referencedObject="MM2"/>
+                  </paragraph>
+                  <paragraph>Vorapaxar sulfate is a white to off-white solid. Vorapaxar sulfate is freely soluble in methanol and slightly soluble in ethanol, acetone, 2-propanol, and acetonitrile. In aqueous solution, it is slightly soluble in pH 1; its solubility decreases with increasing pH. ZONTIVITY tablets are formulated with vorapaxar sulfate, but during manufacture and storage, partial conversion from vorapaxar sulfate to vorapaxar free base may occur.</paragraph>
+                  <paragraph>ZONTIVITY is available for oral use as tablets containing 2.08 mg of vorapaxar,  which is equivalent to 2.5 mg of vorapaxar sulfate.</paragraph>
+                  <paragraph>Each film-coated tablet of ZONTIVITY contains the following inactive ingredients: lactose monohydrate, microcrystalline cellulose, croscarmellose sodium, povidone, and magnesium stearate. In addition, the film coating contains the following inactive ingredients: lactose monohydrate, hypromellose, titanium dioxide, triacetin (glycerol triacetate), and iron oxide yellow.</paragraph>
+               </text>
+               <effectiveTime value="20161201"/>
+               <component>
+                  <observationMedia ID="MM2">
+                     <text>Chemical Structure</text>
+                     <value mediaType="image/jpeg" xsi:type="ED">
+                        <reference value="zontivity-02.jpg"/>
+                     </value>
+                  </observationMedia>
+               </component>
+            </section>
+         </component>
+         <component>
+            <section ID="S12">
+               <id root="bf7831ab-f220-9652-e053-2a95a90a6bfd"/>
+               <code code="34090-1" codeSystem="2.16.840.1.113883.6.1" displayName="CLINICAL PHARMACOLOGY SECTION"/>
+               <title>12 CLINICAL PHARMACOLOGY</title>
+               <effectiveTime value="20161201"/>
+               <component>
+                  <section ID="S12.1">
+                     <id root="bf7831ab-f221-9652-e053-2a95a90a6bfd"/>
+                     <code code="43679-0" codeSystem="2.16.840.1.113883.6.1" displayName="MECHANISM OF ACTION SECTION"/>
+                     <title>12.1 Mechanism of Action</title>
+                     <text>
+                        <paragraph>Vorapaxar is a reversible antagonist of the protease-activated receptor-1 (PAR-1) expressed on platelets, but its long half-life makes it effectively irreversible. Vorapaxar inhibits thrombin-induced and thrombin receptor agonist peptide (TRAP)-induced platelet aggregation in 
+         
+ 
+  <content styleCode="italics">in vitro</content> studies. Vorapaxar does not inhibit platelet aggregation induced by adenosine diphosphate (ADP), collagen or a thromboxane mimetic and does not affect coagulation parameters 
+         
+ 
+  <content styleCode="italics">ex vivo</content>. PAR-1 receptors are also expressed in a wide variety of cell types, including endothelial cells, neurons, and smooth muscle cells, but the pharmacodynamic effects of vorapaxar in these cell types have not been assessed.
+        
+
+ </paragraph>
+                     </text>
+                     <effectiveTime value="20161201"/>
+                  </section>
+               </component>
+               <component>
+                  <section ID="S12.2">
+                     <id root="bf7831ab-f222-9652-e053-2a95a90a6bfd"/>
+                     <code code="43681-6" codeSystem="2.16.840.1.113883.6.1" displayName="PHARMACODYNAMICS SECTION"/>
+                     <title>12.2 Pharmacodynamics</title>
+                     <text>
+                        <paragraph>At the recommended dose, ZONTIVITY achieves ≥80% inhibition of TRAP-induced platelet aggregation within one week of initiation of treatment. The duration of platelet inhibition is dose- and concentration-dependent. Inhibition of TRAP-induced platelet aggregation at a level of 50% can be expected at 4 weeks after discontinuation of daily doses of ZONTIVITY 2.08 mg, consistent with the terminal elimination half-life of vorapaxar 
+         
+ 
+  <content styleCode="italics">[see 
+          
+  
+   <linkHtml href="#S12.3">Clinical Pharmacology (12.3)</linkHtml>]
+         
+ 
+  </content>.
+        
+
+ </paragraph>
+                        <paragraph>In healthy volunteer studies, no changes in platelet P-selectin and soluble CD40 ligand (sCD40L) expression or coagulation test parameters (TT, PT, aPTT, ACT, ECT) occurred after single- or multiple- dose (28 days) administration of vorapaxar. No meaningful changes in P-selectin, sCD40L, or hs-CRP concentrations were observed in patients treated with vorapaxar in the phase 2/3 clinical trials.</paragraph>
+                     </text>
+                     <effectiveTime value="20161201"/>
+                     <component>
+                        <section>
+                           <id root="bf7831ab-f223-9652-e053-2a95a90a6bfd"/>
+                           <code code="42229-5" codeSystem="2.16.840.1.113883.6.1" displayName="SPL UNCLASSIFIED SECTION"/>
+                           <text>
+                              <paragraph>
+                                 <content styleCode="bold">
+                                    <content styleCode="italics">Evaluation of Vorapaxar on QTc Interval</content>
+                                 </content>
+                              </paragraph>
+                              <paragraph>The effect of vorapaxar on the QTc interval was evaluated in a thorough QT study and in other studies. Vorapaxar had no effect on the QTc interval at single doses up to 48 times the recommended dose.</paragraph>
+                           </text>
+                           <effectiveTime value="20161201"/>
+                        </section>
+                     </component>
+                  </section>
+               </component>
+               <component>
+                  <section ID="S12.3">
+                     <id root="bf7831ab-f224-9652-e053-2a95a90a6bfd"/>
+                     <code code="43682-4" codeSystem="2.16.840.1.113883.6.1" displayName="PHARMACOKINETICS SECTION"/>
+                     <title>12.3 Pharmacokinetics</title>
+                     <text>
+                        <paragraph>Vorapaxar exposure increases in an approximately dose-proportional manner following single doses up to 16 times the recommended dose. Vorapaxar pharmacokinetics are similar in healthy subjects and patients.</paragraph>
+                     </text>
+                     <effectiveTime value="20161201"/>
+                     <component>
+                        <section>
+                           <id root="bf7831ab-f225-9652-e053-2a95a90a6bfd"/>
+                           <code code="42229-5" codeSystem="2.16.840.1.113883.6.1" displayName="SPL UNCLASSIFIED SECTION"/>
+                           <text>
+                              <paragraph>
+                                 <content styleCode="bold">
+                                    <content styleCode="italics">Absorption</content>
+                                 </content>
+                                 <br/>After oral administration of a single ZONTIVITY 2.08 mg dose under fasted conditions, peak concentrations (C
+           
+ 
+  <sub>max</sub>) occur at 1 hour post-dose (range: 1 to 2 h). The mean absolute bioavailability as determined from a microdosing study is approximately 100%.
+          
+
+ </paragraph>
+                              <paragraph>Ingestion of vorapaxar with a high-fat meal resulted in no meaningful change in AUC with a small (21%) decrease in C
+           
+ 
+  <sub>max</sub> and delayed time to peak concentration (45 minutes). ZONTIVITY may be taken with or without food.
+          
+
+ </paragraph>
+                           </text>
+                           <effectiveTime value="20161201"/>
+                        </section>
+                     </component>
+                     <component>
+                        <section>
+                           <id root="bf7831ab-f226-9652-e053-2a95a90a6bfd"/>
+                           <code code="42229-5" codeSystem="2.16.840.1.113883.6.1" displayName="SPL UNCLASSIFIED SECTION"/>
+                           <text>
+                              <paragraph>
+                                 <content styleCode="bold">
+                                    <content styleCode="italics">Distribution</content>
+                                 </content>
+                                 <br/>The mean volume of distribution of vorapaxar is approximately 424 liters (95% CI: 351-512). Vorapaxar and the major circulating active metabolite, M20, are extensively bound (≥99%) to human plasma proteins. Vorapaxar is highly bound to human serum albumin and does not preferentially distribute into red blood cells.
+          
+
+ </paragraph>
+                           </text>
+                           <effectiveTime value="20161201"/>
+                        </section>
+                     </component>
+                     <component>
+                        <section>
+                           <id root="bf7831ab-f227-9652-e053-2a95a90a6bfd"/>
+                           <code code="42229-5" codeSystem="2.16.840.1.113883.6.1" displayName="SPL UNCLASSIFIED SECTION"/>
+                           <text>
+                              <paragraph>
+                                 <content styleCode="bold">
+                                    <content styleCode="italics">Metabolism</content>
+                                 </content>
+                                 <br/>Vorapaxar is eliminated by metabolism via CYP3A4 and CYP2J2. The major active circulating metabolite is M20 (monohydroxy metabolite) and the predominant metabolite identified in excreta is M19 (amine metabolite). The systemic exposure of M20 is ~20% of the exposure to vorapaxar.
+          
+
+ </paragraph>
+                           </text>
+                           <effectiveTime value="20161201"/>
+                        </section>
+                     </component>
+                     <component>
+                        <section>
+                           <id root="bf7831ab-f228-9652-e053-2a95a90a6bfd"/>
+                           <code code="42229-5" codeSystem="2.16.840.1.113883.6.1" displayName="SPL UNCLASSIFIED SECTION"/>
+                           <text>
+                              <paragraph>
+                                 <content styleCode="bold">
+                                    <content styleCode="italics">Excretion</content>
+                                 </content>
+                                 <br/>The primary route of elimination is through the feces. In a 6-week study, 84% of the administered radiolabeled dose was recovered as total radioactivity with 58% collected in feces and 25% in urine. Vorapaxar is eliminated primarily in the form of metabolites, with no unchanged vorapaxar detected in urine.
+          
+
+ </paragraph>
+                              <paragraph>Vorapaxar exhibits multi-exponential disposition with an effective half-life of 3-4 days and an apparent terminal elimination half-life of 8 days. Steady-state is achieved by 21 days following once-daily dosing with an accumulation of 5- to 6-fold. The apparent terminal elimination half-life for vorapaxar is approximately 8 days (range 5-13 days) and is similar for the active metabolite. The terminal elimination half-life is important to determine the time to offset the pharmacodynamic effect 
+           
+ 
+  <content styleCode="italics">[see 
+            
+  
+   <linkHtml href="#S12.2">Clinical Pharmacology (12.2)</linkHtml>]
+           
+ 
+  </content>.
+          
+
+ </paragraph>
+                           </text>
+                           <effectiveTime value="20161201"/>
+                        </section>
+                     </component>
+                     <component>
+                        <section>
+                           <id root="bf7831ab-f229-9652-e053-2a95a90a6bfd"/>
+                           <code code="42229-5" codeSystem="2.16.840.1.113883.6.1" displayName="SPL UNCLASSIFIED SECTION"/>
+                           <text>
+                              <paragraph>
+                                 <content styleCode="bold">
+                                    <content styleCode="italics">Specific Populations</content>
+                                 </content>
+                                 <br/>The effects of intrinsic factors on the pharmacokinetics of vorapaxar are presented in Figure 2 
+           
+ 
+  <content styleCode="italics">[see 
+            
+  
+   <linkHtml href="#S8.5">Use in Specific Populations (8.5</linkHtml>, 
+            
+  
+   <linkHtml href="#S8.6">8.6</linkHtml>, 
+            
+  
+   <linkHtml href="#S8.7">8.7)</linkHtml>]
+           
+ 
+  </content>.
+          
+
+ </paragraph>
+                              <paragraph>In general, effects on the exposure of vorapaxar based on age, race, gender, weight, and moderate renal insufficiency were modest (20-40%; see 
+           
+ 
+  <linkHtml href="#f2">Figure 2</linkHtml>). No dose adjustments are necessary based upon these factors. Because of the inherent bleeding risks in patients with severe hepatic impairment, ZONTIVITY is not recommended in such patients 
+           
+ 
+  <content styleCode="italics">[see 
+            
+  
+   <linkHtml href="#S5.1">Warnings and Precautions (5.1)</linkHtml> and 
+            
+  
+   <linkHtml href="#S8.7">Use in Specific Populations (8.7)</linkHtml>]
+           
+ 
+  </content>.
+          
+
+ </paragraph>
+                              <table ID="f2" width="100%" styleCode="Noautorules">
+                                 <col width="100%" valign="top" align="left"/>
+                                 <thead>
+                                    <tr>
+                                       <th align="left">Figure 2: Effect of Intrinsic Factors on the Pharmacokinetics of Vorapaxar</th>
+                                    </tr>
+                                 </thead>
+                                 <tfoot>
+                                    <tr>
+                                       <td colspan="1" align="left">
+                                          <sup>†</sup> See 
+              
+    
+     <linkHtml href="#S5.1">Warnings and Precautions. (5.1)</linkHtml> and 
+              
+    
+     <linkHtml href="#S8.7">Use in Specific Populations. (8.7)</linkHtml>
+                                       </td>
+                                    </tr>
+                                 </tfoot>
+                                 <tbody>
+                                    <tr>
+                                       <td align="left">
+                                          <paragraph>
+                                             <renderMultiMedia referencedObject="MM3"/>
+                                          </paragraph>
+                                       </td>
+                                    </tr>
+                                 </tbody>
+                              </table>
+                              <paragraph/>
+                           </text>
+                           <effectiveTime value="20161201"/>
+                           <component>
+                              <observationMedia ID="MM3">
+                                 <text>Figure 2</text>
+                                 <value mediaType="image/jpeg" xsi:type="ED">
+                                    <reference value="zontivity-03.jpg"/>
+                                 </value>
+                              </observationMedia>
+                           </component>
+                        </section>
+                     </component>
+                     <component>
+                        <section>
+                           <id root="bf7831ab-f22a-9652-e053-2a95a90a6bfd"/>
+                           <code code="42229-5" codeSystem="2.16.840.1.113883.6.1" displayName="SPL UNCLASSIFIED SECTION"/>
+                           <text>
+                              <paragraph/>
+                           </text>
+                           <effectiveTime value="20161201"/>
+                           <component>
+                              <section>
+                                 <id root="bf7831ab-f22b-9652-e053-2a95a90a6bfd"/>
+                                 <code code="42229-5" codeSystem="2.16.840.1.113883.6.1" displayName="SPL UNCLASSIFIED SECTION"/>
+                                 <text>
+                                    <paragraph>
+                                       <content styleCode="bold">
+                                          <content styleCode="italics">Drug Interactions [see also 
+              
+   
+    <linkHtml href="#S7">Drug Interactions (7)</linkHtml>]
+                                    
+             
+  
+   </content>
+                                       </content>
+                                       <br/>
+                                       <content styleCode="italics">Anticoagulants and Antiplatelet Agents</content>
+                                       <br/>An interaction study with vorapaxar and warfarin in healthy subjects did not demonstrate a clinically significant pharmacokinetic or pharmacodynamic interaction 
+             
+ 
+  <content styleCode="italics">[see 
+              
+  
+   <linkHtml href="#S5.1">Warnings and Precautions (5.1)</linkHtml> and 
+              
+  
+   <linkHtml href="#f4">Figure 4</linkHtml>]
+             
+ 
+  </content>.
+            
+
+ </paragraph>
+                                    <paragraph>Vorapaxar did not affect prasugrel pharmacokinetics and prasugrel did not affect vorapaxar pharmacokinetics following multiple-dose administration at steady-state 
+             
+ 
+  <content styleCode="italics">[see 
+              
+  
+   <linkHtml href="#S5.1">Warnings and Precautions (5.1)</linkHtml> and 
+              
+  
+   <linkHtml href="#f3">Figures 3</linkHtml> and 
+              
+  
+   <linkHtml href="#f4">4</linkHtml>]
+             
+ 
+  </content>. The pharmacokinetic interaction between vorapaxar and clopidogrel has not been evaluated. However, the use of vorapaxar on a background of clopidogrel is supported by the clinical data from TRA 2°P and TRA•CER 
+             
+ 
+  <content styleCode="italics">[see 
+              
+  
+   <linkHtml href="#S6.1">Adverse Reactions (6.1)</linkHtml> and 
+              
+  
+   <linkHtml href="#S14">Clinical Studies (14)</linkHtml>]
+             
+ 
+  </content>.
+            
+
+ </paragraph>
+                                 </text>
+                                 <effectiveTime value="20161201"/>
+                              </section>
+                           </component>
+                           <component>
+                              <section>
+                                 <id root="bf7831ab-f22c-9652-e053-2a95a90a6bfd"/>
+                                 <code code="42229-5" codeSystem="2.16.840.1.113883.6.1" displayName="SPL UNCLASSIFIED SECTION"/>
+                                 <text>
+                                    <paragraph>
+                                       <content styleCode="italics">Effects of Other Drugs on Vorapaxar</content>
+                                       <br/>The effects of other drugs on the pharmacokinetics of vorapaxar are presented in Figure 3 as change relative to vorapaxar administered alone (test/reference). Phase 3 data suggest that coadministration of a weak or moderate CYP3A inhibitor with vorapaxar does not increase bleeding risk or alter the efficacy of vorapaxar. No dose adjustment for ZONTIVITY is required in patients taking weak to moderate inhibitors of CYP3A.
+            
+
+ </paragraph>
+                                    <table ID="f3" width="100%" styleCode="Noautorules">
+                                       <col width="100%" valign="top" align="left"/>
+                                       <thead>
+                                          <tr>
+                                             <th align="left">Figure 3: Effects of Other Drugs on the Pharmacokinetics of Vorapaxar</th>
+                                          </tr>
+                                       </thead>
+                                       <tfoot>
+                                          <tr>
+                                             <td colspan="1" align="left">
+                                                <sup>†</sup> See 
+                
+    
+     <linkHtml href="#S5.2">Warnings and Precautions. (5.2)</linkHtml> and 
+                
+    
+     <linkHtml href="#S7.1">Drug Interactions. (7.1)</linkHtml>
+                                             </td>
+                                          </tr>
+                                          <tr>
+                                             <td colspan="1" align="left">
+                                                <sup>‡</sup> See 
+                
+    
+     <linkHtml href="#S2.2">Dosage and Administration. (2.2)</linkHtml>
+                                             </td>
+                                          </tr>
+                                       </tfoot>
+                                       <tbody>
+                                          <tr>
+                                             <td align="left">
+                                                <paragraph>
+                                                   <renderMultiMedia referencedObject="MM4"/>
+                                                </paragraph>
+                                             </td>
+                                          </tr>
+                                       </tbody>
+                                    </table>
+                                    <paragraph/>
+                                 </text>
+                                 <effectiveTime value="20161201"/>
+                                 <component>
+                                    <observationMedia ID="MM4">
+                                       <text>Figure 3</text>
+                                       <value mediaType="image/jpeg" xsi:type="ED">
+                                          <reference value="zontivity-04.jpg"/>
+                                       </value>
+                                    </observationMedia>
+                                 </component>
+                              </section>
+                           </component>
+                           <component>
+                              <section>
+                                 <id root="bf7831ab-f22d-9652-e053-2a95a90a6bfd"/>
+                                 <code code="42229-5" codeSystem="2.16.840.1.113883.6.1" displayName="SPL UNCLASSIFIED SECTION"/>
+                                 <text>
+                                    <paragraph>
+                                       <content styleCode="italics">Effects of Vorapaxar on Other Drugs</content>
+                                       <br/>
+                                       <content styleCode="italics">In vitro</content> metabolism studies demonstrate that vorapaxar or M20 is unlikely to cause clinically significant inhibition or induction of major CYP isoforms or inhibition of OATP1B1, OATP1B3, BCRP, OAT1, OAT3, and OCT2 transporters.
+            
+
+ </paragraph>
+                                    <paragraph>Specific 
+             
+ 
+  <content styleCode="italics">in vivo</content> effects on the pharmacokinetics of digoxin, warfarin, rosiglitazone and prasugrel are presented in Figure 4 as a change relative to the interacting drug administered alone (test/reference). Vorapaxar is a weak inhibitor of the intestinal P-glycoprotein (P-gp) transporter. No dosage adjustment of digoxin or ZONTIVITY is required.
+            
+
+ </paragraph>
+                                    <table ID="f4" width="100%" styleCode="Noautorules">
+                                       <col width="100%" valign="top" align="left"/>
+                                       <thead>
+                                          <tr>
+                                             <th align="left">Figure 4: Effects of Vorapaxar on the Pharmacokinetics of Other Drugs</th>
+                                          </tr>
+                                       </thead>
+                                       <tfoot>
+                                          <tr>
+                                             <td colspan="1" align="left">
+                                                <sup>†</sup> See 
+                
+    
+     <linkHtml href="#S5.1">Warnings and Precautions. (5.1)</linkHtml>
+                                             </td>
+                                          </tr>
+                                          <tr>
+                                             <td colspan="1" align="left">
+                                                <sup>‡</sup> See 
+                
+    
+     <linkHtml href="#S2.2">Dosage and Administration. (2.2)</linkHtml>
+                                             </td>
+                                          </tr>
+                                       </tfoot>
+                                       <tbody>
+                                          <tr>
+                                             <td align="left">
+                                                <paragraph>
+                                                   <renderMultiMedia referencedObject="MM5"/>
+                                                </paragraph>
+                                             </td>
+                                          </tr>
+                                       </tbody>
+                                    </table>
+                                    <paragraph/>
+                                 </text>
+                                 <effectiveTime value="20161201"/>
+                                 <component>
+                                    <observationMedia ID="MM5">
+                                       <text>Figure 4</text>
+                                       <value mediaType="image/jpeg" xsi:type="ED">
+                                          <reference value="zontivity-05.jpg"/>
+                                       </value>
+                                    </observationMedia>
+                                 </component>
+                              </section>
+                           </component>
+                        </section>
+                     </component>
+                  </section>
+               </component>
+            </section>
+         </component>
+         <component>
+            <section ID="S13">
+               <id root="bf7831ab-f22e-9652-e053-2a95a90a6bfd"/>
+               <code code="43680-8" codeSystem="2.16.840.1.113883.6.1" displayName="NONCLINICAL TOXICOLOGY SECTION"/>
+               <title>13 NONCLINICAL TOXICOLOGY</title>
+               <effectiveTime value="20161201"/>
+               <component>
+                  <section ID="S13.1">
+                     <id root="bf7831ab-f22f-9652-e053-2a95a90a6bfd"/>
+                     <code code="34083-6" codeSystem="2.16.840.1.113883.6.1" displayName="CARCINOGENESIS &amp; MUTAGENESIS &amp; IMPAIRMENT OF FERTILITY SECTION"/>
+                     <title>13.1   Carcinogenesis, Mutagenesis, Impairment of Fertility</title>
+                     <effectiveTime value="20161201"/>
+                     <component>
+                        <section>
+                           <id root="bf7831ab-f230-9652-e053-2a95a90a6bfd"/>
+                           <code code="42229-5" codeSystem="2.16.840.1.113883.6.1" displayName="SPL UNCLASSIFIED SECTION"/>
+                           <text>
+                              <paragraph>
+                                 <content styleCode="bold">
+                                    <content styleCode="italics">Carcinogenesis</content>
+                                 </content>
+                                 <br/>Carcinogenicity studies were conducted in rats and mice dosed orally with vorapaxar for two years. Male and female rats dosed at 0, 3, 10 or 30 mg/kg/day showed no carcinogenic potential at systemic exposures (AUC) in males and females that were 9- and 29-fold, respectively, the human systemic exposure at the RHD. In male and female mice dosed at 0, 1, 5, and 15 mg/kg/day, vorapaxar showed no carcinogenic potential at systemic exposures (AUC) that were up to 30-fold the human systemic exposure.
+          
+
+ </paragraph>
+                           </text>
+                           <effectiveTime value="20161201"/>
+                        </section>
+                     </component>
+                     <component>
+                        <section>
+                           <id root="bf7831ab-f231-9652-e053-2a95a90a6bfd"/>
+                           <code code="42229-5" codeSystem="2.16.840.1.113883.6.1" displayName="SPL UNCLASSIFIED SECTION"/>
+                           <text>
+                              <paragraph>
+                                 <content styleCode="bold">
+                                    <content styleCode="italics">Mutagenesis</content>
+                                 </content>
+                                 <br/>Vorapaxar was not mutagenic in the Ames bacterial reverse mutation assay and not clastogenic in an 
+           
+ 
+  <content styleCode="italics">in vitro</content> human peripheral blood lymphocyte assay or an 
+           
+ 
+  <content styleCode="italics">in vivo</content> mouse micronucleus assay after intraperitoneal administration.
+          
+
+ </paragraph>
+                           </text>
+                           <effectiveTime value="20161201"/>
+                        </section>
+                     </component>
+                     <component>
+                        <section>
+                           <id root="bf7831ab-f232-9652-e053-2a95a90a6bfd"/>
+                           <code code="42229-5" codeSystem="2.16.840.1.113883.6.1" displayName="SPL UNCLASSIFIED SECTION"/>
+                           <text>
+                              <paragraph>
+                                 <content styleCode="bold">
+                                    <content styleCode="italics">Impairment of Fertility</content>
+                                 </content>
+                                 <br/>Fertility studies in rats showed that vorapaxar had no effect on either male or female fertility at doses up to 50 mg/kg/day, a dose resulting in systemic exposures (AUC) in male and female rats that are 40 and 67 times, respectively, the human systemic exposure at the RHD.
+          
+
+ </paragraph>
+                           </text>
+                           <effectiveTime value="20161201"/>
+                        </section>
+                     </component>
+                  </section>
+               </component>
+               <component>
+                  <section ID="S13.2">
+                     <id root="bf7831ab-f233-9652-e053-2a95a90a6bfd"/>
+                     <code code="34091-9" codeSystem="2.16.840.1.113883.6.1" displayName="ANIMAL PHARMACOLOGY &amp; OR TOXICOLOGY SECTION"/>
+                     <title>13.2	Animal Pharmacology</title>
+                     <text>
+                        <paragraph>Vorapaxar did not increase bleeding time in non-human primates when administered alone. Bleeding time was prolonged slightly with administration of aspirin or aspirin plus vorapaxar. The combination of aspirin, vorapaxar, and clopidogrel produced significant prolongation of bleeding time. Transfusion of human platelet rich plasma normalized bleeding times with partial recovery of 
+         
+ 
+  <content styleCode="italics">ex vivo</content> platelet aggregation induced with arachidonic acid, but not induced with ADP or TRAP. Platelet poor plasma had no effect on bleeding times or platelet aggregation 
+         
+ 
+  <content styleCode="italics">[see 
+          
+  
+   <linkHtml href="#S5.1">Warnings and Precautions (5.1)</linkHtml>].
+         
+ 
+  </content>
+                        </paragraph>
+                     </text>
+                     <effectiveTime value="20161201"/>
+                  </section>
+               </component>
+            </section>
+         </component>
+         <component>
+            <section ID="S14">
+               <id root="bf7831ab-f234-9652-e053-2a95a90a6bfd"/>
+               <code code="34092-7" codeSystem="2.16.840.1.113883.6.1" displayName="CLINICAL STUDIES SECTION"/>
+               <title>14 CLINICAL STUDIES</title>
+               <text>
+                  <paragraph>The clinical evidence for the effectiveness of ZONTIVITY is supported by TRA 2°P - TIMI 50. TRA 2°P was a multicenter, randomized, double-blind, placebo-controlled study conducted in patients who had evidence or a history of atherosclerosis involving the coronary (spontaneous MI ≥2 weeks but ≤12 months prior), cerebral (ischemic stroke), or peripheral vascular (documented peripheral arterial disease [PAD]) systems. Patients were randomized to receive daily treatment with ZONTIVITY (n=13,225) or placebo (n=13,224) in addition to standard of care. The study's primary endpoint was the composite of cardiovascular death, MI, stroke, and urgent coronary revascularization (UCR). The composite of cardiovascular death, MI, and stroke was assessed as key secondary endpoint. The median follow-up was 2.5 years (up to 4 years).</paragraph>
+                  <paragraph>The findings in all randomized patients for the primary efficacy composite endpoint show a 3-year K-M event rate of 11.2% in the ZONTIVITY group compared to 12.4% in the placebo group (hazard ratio [HR]: 0.88; 95% confidence interval [CI], 0.82 to 0.95; p=0.001).</paragraph>
+                  <paragraph>The findings for the key secondary efficacy endpoint show a 3-year Kaplan-Meier (K-M) event rate of 9.3% in the ZONTIVITY group compared to 10.5% in placebo group (HR 0.87; 95% CI, 0.80 to 0.94; p&lt;0.001).</paragraph>
+                  <paragraph>Although TRA 2°P was not designed to evaluate the relative benefits and risks of ZONTIVITY in individual patient subgroups, patients with a history of stroke or TIA showed an increased risk of ICH. Of the patients who comprised the post-MI and PAD strata and had no baseline history of stroke or TIA,10,080 were randomized to treatment with ZONTIVITY and 10,090 to placebo. These patients were 89% Caucasian, 22% female, and 33% ≥65 years of age, with a median age of 60 years. The population included patients with diabetes (24%) and patients with hypertension (65%). Of the patients who qualified for the trial with MI without a history of stroke or TIA, 98% were receiving aspirin, 78% were receiving a thienopyridine, and 77% were receiving both aspirin and a thienopyridine when they enrolled in the trial. Of the patients who qualified for the trial with PAD without a history of stroke or TIA, 88% were receiving aspirin, 35% were receiving a thienopyridine, and 27% were receiving both aspirin and a thienopyridine when they enrolled.</paragraph>
+                  <paragraph>In post-MI or PAD patients without a history of stroke or TIA the 3-year K-M event rate for the primary efficacy endpoint (composite of time to first CV death, MI, stroke, or UCR) was 10.1% in the ZONTIVITY group compared to 11.8% in the placebo group (HR 0.83; 95% CI, 0.76 to 0.90; p&lt;0.001) (see 
+       
+ 
+  <linkHtml href="#f5">Figure 5</linkHtml> and 
+       
+ 
+  <linkHtml href="#t3">Table 3</linkHtml>).
+      
+
+ </paragraph>
+                  <paragraph>The results for the key secondary efficacy endpoint (composite of time to first CV death, MI, or stroke) show a 3-year K-M event rate of 7.9% in the ZONTIVITY group compared to 9.5% in the placebo group (HR 0.80; 95% CI, 0.73 to 0.89; p&lt;0.001) (see 
+       
+ 
+  <linkHtml href="#t3">Table 3</linkHtml>).
+      
+
+ </paragraph>
+                  <paragraph>The effect of chronic dosing with ZONTIVITY on the primary and key secondary endpoints was maintained for the duration of the trial (median follow up 2.5 years, up to 4 years).</paragraph>
+                  <table ID="f5" width="100%" styleCode="Noautorules">
+                     <col width="100%" valign="top" align="left"/>
+                     <thead>
+                        <tr>
+                           <th align="left">Figure 5: Time to First Occurrence of the Composite Endpoint of CV Death, MI, Stroke or UCR in Post-MI or PAD Patients without a History of Stroke or TIA in TRA 2°P</th>
+                        </tr>
+                     </thead>
+                     <tbody>
+                        <tr>
+                           <td align="left">
+                              <paragraph>
+                                 <renderMultiMedia referencedObject="MM6"/>
+                              </paragraph>
+                           </td>
+                        </tr>
+                     </tbody>
+                  </table>
+                  <table ID="t3" width="100%">
+                     <caption>Table 3: TRA 2°P: Time to First Event in Post-MI or PAD Patients without a History of Stroke or TIA</caption>
+                     <col width="27%" valign="middle" align="left"/>
+                     <col width="14%" valign="middle" align="center"/>
+                     <col width="10%" valign="middle" align="center"/>
+                     <col width="14%" valign="middle" align="center"/>
+                     <col width="10%" valign="middle" align="center"/>
+                     <col width="15%" valign="middle" align="center"/>
+                     <col width="10%" valign="middle" align="center"/>
+                     <thead>
+                        <tr>
+                           <th align="left" styleCode="Botrule Lrule Rrule"/>
+                           <th colspan="2" align="center" styleCode="Botrule Rrule" valign="top">Placebo
+          
+    
+     <br/>(n=10,090)
+         
+   
+    </th>
+                           <th colspan="2" align="center" styleCode="Botrule Rrule" valign="top">ZONTIVITY
+          
+    
+     <br/>(n=10,080)
+         
+   
+    </th>
+                           <th align="center" styleCode="Rrule"/>
+                           <th align="center" styleCode="Rrule"/>
+                        </tr>
+                        <tr>
+                           <th align="left" styleCode="Lrule Rrule" valign="top">Endpoints</th>
+                           <th align="center" styleCode="Rrule" valign="bottom">Patients with events
+          
+    
+     <footnote ID="ft3.2">Each patient was counted only once (first component event) in the component summary that contributed to the primary efficacy endpoint.</footnote>
+                              <br/>(%)
+         
+   
+    </th>
+                           <th align="center" styleCode="Rrule" valign="bottom">K-M %
+          
+    
+     <footnote ID="ft3.3">K-M estimate at 1,080 days.</footnote>
+                           </th>
+                           <th align="center" styleCode="Rrule" valign="bottom">Patients with events
+          
+    
+     <footnoteRef IDREF="ft3.2"/>
+                              <br/>(%)
+         
+   
+    </th>
+                           <th align="center" styleCode="Rrule" valign="bottom">K-M %
+          
+    
+     <footnoteRef IDREF="ft3.3"/>
+                           </th>
+                           <th align="center" styleCode="Rrule" valign="bottom">Hazard Ratio
+                    
+          
+    
+     <footnote ID="ft3.4">Hazard ratio is ZONTIVITY group versus placebo group.</footnote>
+                              <sup>,</sup>
+                              <footnote ID="ft3.1">Cox proportional hazard model with covariates treatment and stratification factors (qualifying atherosclerotic disease and planned thienopyridine use).</footnote>
+                              <br/>(95% CI)
+         
+   
+    </th>
+                           <th align="center" styleCode="Rrule" valign="bottom">p-value
+          
+    
+     <footnoteRef IDREF="ft3.1"/>
+                           </th>
+                        </tr>
+                     </thead>
+                     <tbody>
+                        <tr styleCode="Botrule First">
+                           <td align="left" styleCode="Lrule Rrule">
+                              <content styleCode="bold">Primary Composite Efficacy Endpoint
+           
+     
+      <br/>(CV death/MI/stroke/UCR)
+          
+    
+     </content>
+                              <footnoteRef IDREF="ft3.2"/>
+                              <sup>,</sup>
+                              <footnoteRef IDREF="ft3.1"/>
+                           </td>
+                           <td align="center" styleCode="Rrule">1073 (10.6%)</td>
+                           <td align="center" styleCode="Rrule">11.8%</td>
+                           <td align="center" styleCode="Rrule">896 (8.9%)</td>
+                           <td align="center" styleCode="Rrule">10.1%</td>
+                           <td align="center" styleCode="Rrule">0.83 (0.76-0.90)</td>
+                           <td align="center" styleCode="Rrule">&lt;0.001</td>
+                        </tr>
+                        <tr styleCode="Botrule">
+                           <td align="left" styleCode="Lrule Rrule">
+                              <content styleCode="bold">Secondary Composite Efficacy Endpoint
+           
+     
+      <br/>(CV death/MI/stroke)
+          
+    
+     </content>
+                              <footnoteRef IDREF="ft3.2"/>
+                              <sup>,</sup>
+                              <footnoteRef IDREF="ft3.1"/>
+                           </td>
+                           <td align="center" styleCode="Rrule">851 (8.4%)</td>
+                           <td align="center" styleCode="Rrule">9.5%</td>
+                           <td align="center" styleCode="Rrule">688 (6.8%)</td>
+                           <td align="center" styleCode="Rrule">7.9%</td>
+                           <td align="center" styleCode="Rrule">0.80 (0.73-0.89)</td>
+                           <td align="center" styleCode="Rrule">&lt;0.001</td>
+                        </tr>
+                        <tr styleCode="Botrule">
+                           <td colspan="7" align="left" styleCode="Lrule Rrule">
+                              <content styleCode="bold">Other Secondary Efficacy Endpoints (first occurrences of specified event at any time) </content>
+                              <footnote ID="ft3.5">Including patients who could have had other non-fatal events or subsequently died.</footnote>
+                           </td>
+                        </tr>
+                        <tr styleCode="Botrule">
+                           <td align="left" styleCode="Lrule Rrule">
+                              <content styleCode="bold">CV Death</content>
+                           </td>
+                           <td align="center" styleCode="Rrule">239 (2.4%)</td>
+                           <td align="center" styleCode="Rrule">2.8%</td>
+                           <td align="center" styleCode="Rrule">205 (2.0%)</td>
+                           <td align="center" styleCode="Rrule">2.4%</td>
+                           <td align="center" styleCode="Rrule">0.86 (0.71-1.03)</td>
+                           <td align="center" styleCode="Rrule"/>
+                        </tr>
+                        <tr styleCode="Botrule">
+                           <td align="left" styleCode="Lrule Rrule">
+                              <content styleCode="bold">MI</content>
+                           </td>
+                           <td align="center" styleCode="Rrule">569 (5.6%)</td>
+                           <td align="center" styleCode="Rrule">6.4%</td>
+                           <td align="center" styleCode="Rrule">470 (4.7%)</td>
+                           <td align="center" styleCode="Rrule">5.4%</td>
+                           <td align="center" styleCode="Rrule">0.82 (0.73-0.93)</td>
+                           <td align="center" styleCode="Rrule"/>
+                        </tr>
+                        <tr styleCode="Botrule">
+                           <td align="left" styleCode="Lrule Rrule">
+                              <content styleCode="bold">Stroke</content>
+                           </td>
+                           <td align="center" styleCode="Rrule">145 (1.4%)</td>
+                           <td align="center" styleCode="Rrule">1.6%</td>
+                           <td align="center" styleCode="Rrule">98 (1.0%)</td>
+                           <td align="center" styleCode="Rrule">1.2%</td>
+                           <td align="center" styleCode="Rrule">0.67 (0.52-0.87)</td>
+                           <td align="center" styleCode="Rrule"/>
+                        </tr>
+                        <tr>
+                           <td align="left" styleCode="Lrule Rrule">
+                              <content styleCode="bold">UCR</content>
+                           </td>
+                           <td align="center" styleCode="Rrule">283 (2.8%)</td>
+                           <td align="center" styleCode="Rrule">3.0%</td>
+                           <td align="center" styleCode="Rrule">249 (2.5%)</td>
+                           <td align="center" styleCode="Rrule">2.8%</td>
+                           <td align="center" styleCode="Rrule">0.88 (0.74-1.04)</td>
+                           <td align="center" styleCode="Rrule"/>
+                        </tr>
+                     </tbody>
+                  </table>
+                  <paragraph>In post-MI or PAD patients who survived an on-study efficacy event, the incidence of subsequent events was lower with ZONTIVITY.</paragraph>
+                  <paragraph>The time from the prior MI to randomization had no relationship to the treatment benefit for the primary study outcome.</paragraph>
+                  <paragraph>A range of demographic, concurrent baseline medications, and other treatment differences were examined for their influence on outcomes as shown in Figure 6. Such analyses must be interpreted cautiously, as differences can reflect the play of chance among a large number of analyses.</paragraph>
+                  <table ID="f6" width="100%" styleCode="Noautorules">
+                     <col width="100%" valign="top" align="left"/>
+                     <thead>
+                        <tr>
+                           <th align="left">Figure 6: Subgroup Analyses (Primary Endpoints) of the TRA 2°P Post-MI or PAD Patients without a History of Stroke or TIA</th>
+                        </tr>
+                     </thead>
+                     <tbody>
+                        <tr>
+                           <td align="left">
+                              <paragraph>
+                                 <renderMultiMedia referencedObject="MM7"/>
+                              </paragraph>
+                           </td>
+                        </tr>
+                     </tbody>
+                  </table>
+                  <paragraph/>
+               </text>
+               <effectiveTime value="20161201"/>
+               <component>
+                  <observationMedia ID="MM6">
+                     <text>Figure 5</text>
+                     <value mediaType="image/jpeg" xsi:type="ED">
+                        <reference value="zontivity-06.jpg"/>
+                     </value>
+                  </observationMedia>
+               </component>
+               <component>
+                  <observationMedia ID="MM7">
+                     <text>Figure 6</text>
+                     <value mediaType="image/jpeg" xsi:type="ED">
+                        <reference value="zontivity-07.jpg"/>
+                     </value>
+                  </observationMedia>
+               </component>
+            </section>
+         </component>
+         <component>
+            <section ID="S16">
+               <id root="bf7831ab-f235-9652-e053-2a95a90a6bfd"/>
+               <code code="34069-5" codeSystem="2.16.840.1.113883.6.1" displayName="HOW SUPPLIED SECTION"/>
+               <title>16 HOW SUPPLIED/STORAGE AND HANDLING</title>
+               <text>
+                  <paragraph>ZONTIVITY tablets, 2.08 mg vorapaxar, are yellow, oval-shaped, film-coated tablets with "351" on one side and the Merck logo on the other side.</paragraph>
+                  <paragraph>They are supplied as follows:</paragraph>
+                  <list listType="unordered">
+                     <item>NDC 70347-208-30 bottles of 30 tablets</item>
+                     <item>NDC 70347-208-90 bottles of 90 tablets</item>
+                  </list>
+               </text>
+               <effectiveTime value="20161201"/>
+               <component>
+                  <section>
+                     <id root="bf7831ab-f236-9652-e053-2a95a90a6bfd"/>
+                     <code code="44425-7" codeSystem="2.16.840.1.113883.6.1" displayName="STORAGE AND HANDLING SECTION"/>
+                     <text>
+                        <paragraph>
+                           <content styleCode="bold">
+                              <content styleCode="italics">Storage of bottles</content>
+                           </content>
+                           <br/>Store at 20-25°C (68-77°F), excursions permitted between 15-30°C (between 59-86°F). [See USP Controlled Room Temperature.] Store tablets in the original package with the bottle tightly closed. Keep the desiccant in the bottle to protect from moisture.
+        
+
+ </paragraph>
+                     </text>
+                     <effectiveTime value="20161201"/>
+                  </section>
+               </component>
+               <component>
+                  <section>
+                     <id root="bf7831ab-f237-9652-e053-2a95a90a6bfd"/>
+                     <code code="44425-7" codeSystem="2.16.840.1.113883.6.1" displayName="STORAGE AND HANDLING SECTION"/>
+                     <text>
+                        <paragraph>
+                           <content styleCode="bold">
+                              <content styleCode="italics">Storage of blisters</content>
+                           </content>
+                           <br/>Store at 20-25°C (68-77°F), excursions permitted between 15-30°C (between 59-86°F). [See USP Controlled Room Temperature.] Store in the original package until use.
+        
+
+ </paragraph>
+                     </text>
+                     <effectiveTime value="20161201"/>
+                  </section>
+               </component>
+            </section>
+         </component>
+         <component>
+            <section ID="S17">
+               <id root="bf7831ab-f238-9652-e053-2a95a90a6bfd"/>
+               <code code="34076-0" codeSystem="2.16.840.1.113883.6.1" displayName="INFORMATION FOR PATIENTS SECTION"/>
+               <title>17 PATIENT COUNSELING INFORMATION</title>
+               <text>
+                  <paragraph>Advise the patient to read the FDA-approved Patient Labeling ((
+       
+ 
+  <linkHtml href="#aeebb4e9-9a9d-4cda-985e-3ea946e13fae">Medication Guide</linkHtml>).
+      
+
+ </paragraph>
+               </text>
+               <effectiveTime value="20191120"/>
+               <component>
+                  <section>
+                     <id root="bf7831ab-f239-9652-e053-2a95a90a6bfd"/>
+                     <code code="42229-5" codeSystem="2.16.840.1.113883.6.1" displayName="SPL UNCLASSIFIED SECTION"/>
+                     <text>
+                        <paragraph>
+                           <content styleCode="italics">
+                              <content styleCode="bold">Benefits and Risks</content>
+                           </content>
+                        </paragraph>
+                        <list listType="unordered">
+                           <item>Summarize the benefits and potential side effects of ZONTIVITY.</item>
+                           <item>Tell patients to take ZONTIVITY exactly as prescribed.</item>
+                           <item>Inform patients not to discontinue ZONTIVITY without discussing it with the prescribing physician.</item>
+                           <item>Tell patients to read the Medication Guide.</item>
+                        </list>
+                     </text>
+                     <effectiveTime value="20191120"/>
+                  </section>
+               </component>
+               <component>
+                  <section>
+                     <id root="bf7831ab-f23a-9652-e053-2a95a90a6bfd"/>
+                     <code code="42229-5" codeSystem="2.16.840.1.113883.6.1" displayName="SPL UNCLASSIFIED SECTION"/>
+                     <text>
+                        <paragraph>
+                           <content styleCode="italics">
+                              <content styleCode="bold">Bleeding</content>
+                           </content>
+                           <br/>Inform patients that they:
+        
+
+ </paragraph>
+                        <list listType="unordered">
+                           <item>May bleed and bruise more easily.</item>
+                           <item>Should report any unanticipated, prolonged or excessive bleeding, or blood in their stool or urine.</item>
+                        </list>
+                     </text>
+                     <effectiveTime value="20191120"/>
+                  </section>
+               </component>
+               <component>
+                  <section>
+                     <id root="bf7831ab-f23b-9652-e053-2a95a90a6bfd"/>
+                     <code code="42229-5" codeSystem="2.16.840.1.113883.6.1" displayName="SPL UNCLASSIFIED SECTION"/>
+                     <text>
+                        <paragraph>
+                           <content styleCode="italics">
+                              <content styleCode="bold">Invasive Procedures</content>
+                           </content>
+                           <br/>Instruct patients to:
+        
+
+ </paragraph>
+                        <list listType="unordered">
+                           <item>Inform physicians and dentists that they are taking ZONTIVITY before any surgery or dental procedure.</item>
+                           <item>Tell the doctor performing any surgery or dental procedure to talk to the prescribing physician before stopping ZONTIVITY.</item>
+                        </list>
+                     </text>
+                     <effectiveTime value="20191120"/>
+                  </section>
+               </component>
+               <component>
+                  <section>
+                     <id root="bf7831ab-f23c-9652-e053-2a95a90a6bfd"/>
+                     <code code="42229-5" codeSystem="2.16.840.1.113883.6.1" displayName="SPL UNCLASSIFIED SECTION"/>
+                     <text>
+                        <paragraph>
+                           <content styleCode="italics">
+                              <content styleCode="bold">Concomitant Medications</content>
+                           </content>
+                           <br/>Tell patients to list all prescription medications, over-the-counter medications, or dietary supplements they are taking or plan to take so that the physician knows about other treatments that may affect bleeding risk.
+        
+
+ </paragraph>
+                        <paragraph>
+                           <content styleCode="bold">
+                              <content styleCode="italics">Lactation</content>
+                           </content>
+                           <br/>Advise patients that breastfeeding is not recommended during treatment with Zontivity
+        
+
+ </paragraph>
+                     </text>
+                     <effectiveTime value="20191120"/>
+                  </section>
+               </component>
+            </section>
+         </component>
+         <component>
+            <section>
+               <id root="bf7831ab-f23d-9652-e053-2a95a90a6bfd"/>
+               <code code="42229-5" codeSystem="2.16.840.1.113883.6.1" displayName="SPL UNCLASSIFIED SECTION"/>
+               <text>
+                  <paragraph>Manufactured for:
+       
+ 
+  <br/>Aralez Pharmaceuticals US Inc.
+       
+ 
+  <br/>300 Interpace Parkway
+       
+ 
+  <br/>Morris Corporate Center 1, Building C3
+       
+ 
+  <br/>Parsippany, NJ 07054
+       
+ 
+  <br/>United States
+       
+ 
+  <br/>Copyright © 2019 Aralez Pharmaceuticals US Inc.
+      
+
+ </paragraph>
+               </text>
+               <effectiveTime value="20191120"/>
+            </section>
+         </component>
+         <component>
+            <section>
+               <id root="bf7831ab-f23e-9652-e053-2a95a90a6bfd"/>
+               <code code="42231-1" codeSystem="2.16.840.1.113883.6.1" displayName="SPL MEDGUIDE SECTION"/>
+               <text>
+                  <table ID="MG" width="100%" styleCode="Noautorules">
+                     <col width="100%" valign="top" align="left"/>
+                     <thead>
+                        <tr>
+                           <th align="center"> Medication Guide
+          
+    
+     <br/>ZONTIVITY
+          
+    
+     <sup>®</sup> (zon-TIV-iti)
+          
+    
+     <br/>(vorapaxar)
+          
+    
+     <br/>Tablets
+         
+   
+    </th>
+                        </tr>
+                     </thead>
+                     <tbody>
+                        <tr>
+                           <th/>
+                        </tr>
+                     </tbody>
+                  </table>
+                  <paragraph>Read this Medication Guide before you start taking ZONTIVITY and each time you get a refill. There may be new information. This information does not take the place of talking with your doctor about your medical condition or your treatment.</paragraph>
+                  <paragraph ID="mi">
+                     <content styleCode="bold">What is the most important information I should know about ZONTIVITY?</content>
+                  </paragraph>
+                  <paragraph>ZONTIVITY is used to lower your chance of having another serious problem with your heart or blood vessels, 
+       
+ 
+  <content styleCode="bold">but ZONTIVITY (and similar drugs) can cause bleeding that can be serious and lead to death.</content>
+                  </paragraph>
+                  <paragraph>Call your doctor right away if you have any of these signs or symptoms of bleeding while taking ZONTIVITY:</paragraph>
+                  <list listType="unordered" styleCode="Disc">
+                     <item>bleeding that is severe or that you cannot control</item>
+                     <item>pink, red, or brown urine</item>
+                     <item>vomiting blood or your vomit looks like "coffee grounds"</item>
+                     <item>red or black stools (looks like tar)</item>
+                     <item>coughing up blood or blood clots.</item>
+                  </list>
+                  <paragraph>While you take ZONTIVITY and for about 4 weeks after your treatment with ZONTIVITY is stopped:</paragraph>
+                  <list listType="unordered" styleCode="Disc">
+                     <item>you may bruise and bleed more easily (nose bleeds may be common)</item>
+                     <item>it will take longer than usual for any bleeding to stop.</item>
+                  </list>
+                  <paragraph>
+                     <content styleCode="bold">Do not take ZONTIVITY if you:</content>
+                  </paragraph>
+                  <list listType="unordered" styleCode="Disc">
+                     <item>have had a stroke or "mini stroke" (also known as transient ischemic attack or TIA)</item>
+                     <item>have had bleeding in your brain</item>
+                     <item>currently have unusual bleeding, such as bleeding in your head, stomach or intestines (an ulcer).</item>
+                  </list>
+                  <paragraph>If you have a stroke, TIA, or bleeding in your brain while taking ZONTIVITY your doctor should stop your treatment with ZONTIVITY. Follow your doctor's instructions about stopping ZONTIVITY.</paragraph>
+                  <paragraph>
+                     <content styleCode="bold">Do not stop taking ZONTIVITY without talking to the doctor who prescribed it for you. </content>
+                  </paragraph>
+                  <paragraph>
+                     <content styleCode="bold">What is ZONTIVITY?</content>
+                  </paragraph>
+                  <paragraph>ZONTIVITY is a prescription medicine used to treat people who have</paragraph>
+                  <list listType="unordered" styleCode="Disc">
+                     <item>had a heart attack or</item>
+                     <item>reduced blood flow in their legs (peripheral arterial disease).</item>
+                  </list>
+                  <paragraph>ZONTIVITY is used with aspirin and/or clopidogrel to lower your chance of having another serious problem with your heart or blood vessels, such as heart attack, stroke, or death.</paragraph>
+                  <paragraph>It is not known if ZONTIVITY is safe and effective in children.</paragraph>
+                  <paragraph>
+                     <content styleCode="bold">What should I tell my doctor before taking ZONTIVITY?</content>
+                  </paragraph>
+                  <paragraph>
+                     <content styleCode="bold">Before you take ZONTIVITY, tell your doctor if you:</content>
+                  </paragraph>
+                  <list listType="unordered" styleCode="Disc">
+                     <item>have had bleeding problems or history of stomach ulcers</item>
+                     <item>have had a stroke or "mini-stroke" (also known as transient ischemic attack or TIA)</item>
+                     <item>have had any recent serious injury or surgery</item>
+                     <item>plan to have surgery or a dental procedure</item>
+                     <item>have kidney problems or severe liver problems</item>
+                     <item>are pregnant or plan to become pregnant. It is not known if ZONTIVITY will harm your unborn baby.</item>
+                     <item>are breastfeeding or plan to breastfeed. It is not known if ZONTIVITY passes into your breast milk. You and your doctor should decide if you will take ZONTIVITY or breastfeed. You should not do both.</item>
+                  </list>
+                  <paragraph>Tell all of your doctors and dentists that you are taking ZONTIVITY. They should talk to the doctor who prescribed ZONTIVITY for you before you have any surgery or dental procedure.</paragraph>
+                  <paragraph>
+                     <content styleCode="bold">Tell your doctor about all the medicines you take</content>, including prescription and over-the-counter medicines, vitamins, dietary or herbal supplements. Taking ZONTIVITY with certain other medicines may increase your risk of bleeding and may affect how ZONTIVITY works.
+      
+
+ </paragraph>
+                  <paragraph>Know the medicines you take. Keep a list of them to show your doctor and pharmacist when you get a new medicine.</paragraph>
+                  <paragraph>
+                     <content styleCode="bold">How should I take ZONTIVITY?</content>
+                  </paragraph>
+                  <paragraph>Take ZONTIVITY exactly as prescribed by your doctor.</paragraph>
+                  <list listType="unordered" styleCode="Disc">
+                     <item>Take ZONTIVITY 1 time each day.</item>
+                     <item>Take ZONTIVITY with or without food.</item>
+                     <item>Take ZONTIVITY with aspirin and/or clopidogrel as prescribed by your doctor.</item>
+                     <item>Do not stop taking ZONTIVITY without first talking to the doctor who prescribed it for you.</item>
+                     <item>If you take too much ZONTIVITY, call your doctor, or go to the nearest emergency room right away.</item>
+                  </list>
+                  <paragraph>
+                     <content styleCode="bold">What are the possible side effects of ZONTIVITY?</content>
+                  </paragraph>
+                  <list listType="unordered">
+                     <item>See "
+        
+  
+   <content styleCode="bold">
+                           <linkHtml href="#mi">What is the most important information I should know about ZONTIVITY?</linkHtml>"
+        
+  
+   </content>
+                     </item>
+                     <item>Anemia (low level of red blood cells)</item>
+                     <item>Depression</item>
+                     <item>Rash</item>
+                  </list>
+                  <paragraph>These are not all the possible side effects of ZONTIVITY.</paragraph>
+                  <paragraph>Call your doctor for medical advice about side effects. You may report side effects to FDA at 1-800-FDA-1088.</paragraph>
+                  <paragraph>
+                     <content styleCode="bold">How should I store ZONTIVITY?</content>
+                  </paragraph>
+                  <list listType="unordered" styleCode="Disc">
+                     <item>Store ZONTIVITY at room temperature between 68°F to 77°F (20°C to 25°C).</item>
+                     <item>Keep ZONTIVITY in the bottle it comes in.</item>
+                     <item>Keep the bottle tightly closed.</item>
+                     <item>The ZONTIVITY bottle contains a desiccant packet to help keep your medicine dry (protect it from moisture). Keep the desiccant packet in the bottle. Do not throw away the desiccant packet.</item>
+                     <item>Store blister packs of ZONTIVITY in the original package it comes in.</item>
+                  </list>
+                  <paragraph>
+                     <content styleCode="bold">Keep ZONTIVITY and all medicines out of the reach of children.</content>
+                  </paragraph>
+                  <paragraph>You can ask your doctor or pharmacist for information about ZONTIVITY that is written for health professionals.</paragraph>
+                  <paragraph>For more information, go to 
+       
+ 
+  <content styleCode="underline">
+                        <linkHtml href="http://www.zontivity.com"> www.zontivity.com </linkHtml>
+                     </content> or call 1-833-694-8235.
+      
+
+ </paragraph>
+                  <paragraph ID="ingredients">
+                     <content styleCode="bold">What are the ingredients in ZONTIVITY?</content>
+                     <br/>Active ingredient: vorapaxar sulfate
+      
+
+ </paragraph>
+                  <paragraph>Inactive ingredients:
+       
+ 
+  <br/>Tablet: lactose monohydrate, microcrystalline cellulose, croscarmellose sodium, povidone, and magnesium stearate
+      
+
+ </paragraph>
+                  <paragraph>Film coating: lactose monohydrate, hypromellose, titanium dioxide, triacetin (glycerol triacetate), and iron oxide yellow</paragraph>
+                  <paragraph>This Medication Guide has been approved by the U.S. Food and Drug Administration.</paragraph>
+               </text>
+               <effectiveTime value="20161201"/>
+            </section>
+         </component>
+         <component>
+            <section>
+               <id root="bf7831ab-f23f-9652-e053-2a95a90a6bfd"/>
+               <code code="42229-5" codeSystem="2.16.840.1.113883.6.1" displayName="SPL UNCLASSIFIED SECTION"/>
+               <text>
+                  <paragraph>Manufactured for:
+                  
+       
+ 
+  <br/>Aralez Pharmaceuticals US Inc.
+                  
+       
+ 
+  <br/>300 Interpace Parkway
+                  
+       
+ 
+  <br/>Morris Corporate Center 1, Building C3
+                  
+       
+ 
+  <br/>Parsippany NJ 07054
+                  
+       
+ 
+  <br/>United States
+      
+
+ </paragraph>
+                  <paragraph>Revised: 11/2019</paragraph>
+                  <paragraph>Copyright © 2019 Aralez Pharmaceuticals US Inc.</paragraph>
+               </text>
+               <effectiveTime value="20191107"/>
+            </section>
+         </component>
+         <component>
+            <section>
+               <id root="bf7831ab-f240-9652-e053-2a95a90a6bfd"/>
+               <code code="51945-4" codeSystem="2.16.840.1.113883.6.1" displayName="PACKAGE LABEL.PRINCIPAL DISPLAY PANEL"/>
+               <text>
+                  <paragraph>
+                     <content styleCode="bold">PRINCIPAL DISPLAY PANEL - 30 Tablet Bottle Label</content>
+                  </paragraph>
+                  <paragraph>NDC 70347-208-30</paragraph>
+                  <paragraph>
+                     <content styleCode="bold">Zontivity
+        
+  
+   <sup>®</sup>
+                        <br/>(vorapaxar) tablets
+       
+ 
+  </content>
+                  </paragraph>
+                  <paragraph>
+                     <content styleCode="bold">2.08 mg*</content>
+                  </paragraph>
+                  <paragraph>
+                     <content styleCode="bold">Dispense the accompanying
+        
+  
+   <br/>Medication Guide to each patient.
+       
+ 
+  </content>
+                  </paragraph>
+                  <paragraph>*Each tablet contains 2.08 mg
+       
+ 
+  <br/>vorapaxar, equivalent to 2.5 mg
+       
+ 
+  <br/>vorapaxar sulfate.
+      
+
+ </paragraph>
+                  <paragraph>
+                     <content styleCode="bold">Rx only</content>
+                  </paragraph>
+                  <paragraph>
+                     <content styleCode="bold">30 Tablets</content>
+                  </paragraph>
+                  <paragraph>
+                     <content styleCode="bold">Aralez Pharmaceuticals</content>
+                  </paragraph>
+                  <renderMultiMedia referencedObject="MM8"/>
+               </text>
+               <effectiveTime value="20161201"/>
+               <component>
+                  <observationMedia ID="MM8">
+                     <text>PRINCIPAL DISPLAY PANEL - 30 Tablet Bottle Label</text>
+                     <value mediaType="image/jpeg" xsi:type="ED">
+                        <reference value="zontivity-08.jpg"/>
+                     </value>
+                  </observationMedia>
+               </component>
+            </section>
+         </component>
+      </structuredBody>
+   </component>
+</document>

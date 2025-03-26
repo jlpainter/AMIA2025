@@ -1,0 +1,1534 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet href="https://www.accessdata.fda.gov/spl/stylesheet/spl.xsl" type="text/xsl"?>
+<document xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:hl7-org:v3 https://www.accessdata.fda.gov/spl/schema/spl.xsd">
+   <id root="fbd33240-1ebe-4f39-b9f7-bcdc90e10824"/>
+   <code code="34391-3" codeSystem="2.16.840.1.113883.6.1" displayName="HUMAN PRESCRIPTION DRUG LABEL"/>
+   <title mediaType="text/x-hl7-title+xml">
+      <content styleCode="bold">These highlights do not include all the information needed to use POMBILITI<sup>®</sup> safely and effectively.  See full prescribing information for POMBILITI.
+			<br/>
+         <br/>POMBILITI (cipaglucosidase alfa-atga) for injection, for intravenous use
+			<br/>Initial U.S. Approval: 2023</content>
+   </title>
+   <effectiveTime value="20240729"/>
+   <setId root="d77aa596-910d-516b-e053-2995a90a0839"/>
+   <versionNumber value="4"/>
+   <author>
+      <time/>
+      <assignedEntity>
+         <representedOrganization>
+            <id extension="080932337" root="1.3.6.1.4.1.519.1"/>
+            <name>AMICUS THERAPEUTICS US, LLC</name>
+            <assignedEntity>
+               <assignedOrganization/>
+            </assignedEntity>
+         </representedOrganization>
+      </assignedEntity>
+   </author>
+   <component>
+      <structuredBody>
+         <component>
+            <section>
+               <id root="7defb246-f9ff-49a0-a652-59e53f778cb1"/>
+               <code code="48780-1" codeSystem="2.16.840.1.113883.6.1" displayName="SPL PRODUCT DATA ELEMENTS SECTION"/>
+               <effectiveTime value="20230901"/>
+               <subject>
+                  <manufacturedProduct>
+                     <manufacturedProduct>
+                        <code code="71904-200" codeSystem="2.16.840.1.113883.6.69"/>
+                        <name>POMBILITI<suffix>ATGA</suffix>
+                        </name>
+                        <formCode code="C42957" codeSystem="2.16.840.1.113883.3.26.1.1" displayName="INJECTION, POWDER, LYOPHILIZED, FOR SOLUTION"/>
+                        <asEntityWithGeneric>
+                           <genericMedicine>
+                              <name>cipaglucosidase alfa-atga</name>
+                           </genericMedicine>
+                        </asEntityWithGeneric>
+                        <ingredient classCode="ACTIB">
+                           <quantity>
+                              <numerator value="105" unit="mg"/>
+                              <denominator value="1" unit="1"/>
+                           </quantity>
+                           <ingredientSubstance>
+                              <code code="4SED7F4BSG" codeSystem="2.16.840.1.113883.4.9"/>
+                              <name>CIPAGLUCOSIDASE ALFA</name>
+                              <activeMoiety>
+                                 <activeMoiety>
+                                    <code code="4SED7F4BSG" codeSystem="2.16.840.1.113883.4.9"/>
+                                    <name>CIPAGLUCOSIDASE ALFA</name>
+                                 </activeMoiety>
+                              </activeMoiety>
+                           </ingredientSubstance>
+                        </ingredient>
+                        <asContent>
+                           <quantity>
+                              <numerator value="105" unit="1"/>
+                              <denominator value="1"/>
+                           </quantity>
+                           <containerPackagedProduct>
+                              <code/>
+                              <formCode code="C43209" codeSystem="2.16.840.1.113883.3.26.1.1" displayName="VIAL, GLASS"/>
+                              <asContent>
+                                 <quantity>
+                                    <numerator value="1" unit="1"/>
+                                    <denominator value="1"/>
+                                 </quantity>
+                                 <containerPackagedProduct>
+                                    <code code="71904-200-01" codeSystem="2.16.840.1.113883.6.69"/>
+                                    <formCode code="C43182" codeSystem="2.16.840.1.113883.3.26.1.1" displayName="CARTON"/>
+                                 </containerPackagedProduct>
+                                 <subjectOf>
+                                    <marketingAct>
+                                       <code code="C53292" codeSystem="2.16.840.1.113883.3.26.1.1"/>
+                                       <statusCode code="active"/>
+                                       <effectiveTime>
+                                          <low value="20231011"/>
+                                       </effectiveTime>
+                                    </marketingAct>
+                                 </subjectOf>
+                              </asContent>
+                           </containerPackagedProduct>
+                           <subjectOf>
+                              <characteristic>
+                                 <code code="SPLCMBPRDTP" codeSystem="2.16.840.1.113883.1.11.19255"/>
+                                 <value code="C112160" codeSystem="2.16.840.1.113883.3.26.1.1" xsi:type="CV" displayName="Type 0: Not a Combination Product"/>
+                              </characteristic>
+                           </subjectOf>
+                        </asContent>
+                        <asContent>
+                           <quantity>
+                              <numerator value="105" unit="1"/>
+                              <denominator value="1"/>
+                           </quantity>
+                           <containerPackagedProduct>
+                              <code/>
+                              <formCode code="C43209" codeSystem="2.16.840.1.113883.3.26.1.1" displayName="VIAL, GLASS"/>
+                              <asContent>
+                                 <quantity>
+                                    <numerator value="10" unit="1"/>
+                                    <denominator value="1"/>
+                                 </quantity>
+                                 <containerPackagedProduct>
+                                    <code code="71904-200-02" codeSystem="2.16.840.1.113883.6.69"/>
+                                    <formCode code="C43182" codeSystem="2.16.840.1.113883.3.26.1.1" displayName="CARTON"/>
+                                 </containerPackagedProduct>
+                                 <subjectOf>
+                                    <marketingAct>
+                                       <code code="C53292" codeSystem="2.16.840.1.113883.3.26.1.1"/>
+                                       <statusCode code="active"/>
+                                       <effectiveTime>
+                                          <low value="20231011"/>
+                                       </effectiveTime>
+                                    </marketingAct>
+                                 </subjectOf>
+                              </asContent>
+                           </containerPackagedProduct>
+                           <subjectOf>
+                              <characteristic>
+                                 <code code="SPLCMBPRDTP" codeSystem="2.16.840.1.113883.1.11.19255"/>
+                                 <value code="C112160" codeSystem="2.16.840.1.113883.3.26.1.1" xsi:type="CV" displayName="Type 0: Not a Combination Product"/>
+                              </characteristic>
+                           </subjectOf>
+                        </asContent>
+                        <asContent>
+                           <quantity>
+                              <numerator value="105" unit="1"/>
+                              <denominator value="1"/>
+                           </quantity>
+                           <containerPackagedProduct>
+                              <code/>
+                              <formCode code="C43209" codeSystem="2.16.840.1.113883.3.26.1.1" displayName="VIAL, GLASS"/>
+                              <asContent>
+                                 <quantity>
+                                    <numerator value="25" unit="1"/>
+                                    <denominator value="1"/>
+                                 </quantity>
+                                 <containerPackagedProduct>
+                                    <code code="71904-200-03" codeSystem="2.16.840.1.113883.6.69"/>
+                                    <formCode code="C43182" codeSystem="2.16.840.1.113883.3.26.1.1" displayName="CARTON"/>
+                                 </containerPackagedProduct>
+                                 <subjectOf>
+                                    <marketingAct>
+                                       <code code="C53292" codeSystem="2.16.840.1.113883.3.26.1.1"/>
+                                       <statusCode code="active"/>
+                                       <effectiveTime>
+                                          <low value="20231011"/>
+                                       </effectiveTime>
+                                    </marketingAct>
+                                 </subjectOf>
+                              </asContent>
+                           </containerPackagedProduct>
+                           <subjectOf>
+                              <characteristic>
+                                 <code code="SPLCMBPRDTP" codeSystem="2.16.840.1.113883.1.11.19255"/>
+                                 <value code="C112160" codeSystem="2.16.840.1.113883.3.26.1.1" xsi:type="CV" displayName="Type 0: Not a Combination Product"/>
+                              </characteristic>
+                           </subjectOf>
+                        </asContent>
+                     </manufacturedProduct>
+                     <subjectOf>
+                        <approval>
+                           <id extension="BLA761204" root="2.16.840.1.113883.3.150"/>
+                           <code code="C73585" codeSystem="2.16.840.1.113883.3.26.1.1" displayName="BLA"/>
+                           <author>
+                              <territorialAuthority>
+                                 <territory>
+                                    <code code="USA" codeSystem="2.16.840.1.113883.5.28"/>
+                                 </territory>
+                              </territorialAuthority>
+                           </author>
+                        </approval>
+                     </subjectOf>
+                     <subjectOf>
+                        <marketingAct>
+                           <code code="C53292" codeSystem="2.16.840.1.113883.3.26.1.1"/>
+                           <statusCode code="active"/>
+                           <effectiveTime>
+                              <low value="20231011"/>
+                           </effectiveTime>
+                        </marketingAct>
+                     </subjectOf>
+                     <subjectOf>
+                        <characteristic classCode="OBS">
+                           <code code="SPLCOLOR" codeSystem="2.16.840.1.113883.1.11.19255"/>
+                           <value code="C48325" codeSystem="2.16.840.1.113883.3.26.1.1" displayName="WHITE" xsi:type="CE">
+                              <originalText>WHITE</originalText>
+                           </value>
+                        </characteristic>
+                     </subjectOf>
+                     <consumedIn>
+                        <substanceAdministration>
+                           <routeCode code="C38276" codeSystem="2.16.840.1.113883.3.26.1.1" displayName="INTRAVENOUS"/>
+                        </substanceAdministration>
+                     </consumedIn>
+                  </manufacturedProduct>
+               </subject>
+            </section>
+         </component>
+         <component>
+            <section ID="Boxwarning">
+               <id root="6dde70d1-6e2b-4ca1-ba12-df7608c8d96e"/>
+               <code code="34066-1" codeSystem="2.16.840.1.113883.6.1" displayName="BOXED WARNING SECTION"/>
+               <title mediaType="text/x-hl7-title+xml">WARNING: SEVERE HYPERSENSITIVITY REACTIONS, INFUSION-ASSOCIATED REACTIONS, and RISK OF ACUTE CARDIORESPIRATORY FAILURE IN SUSCEPTIBLE PATIENTS</title>
+               <text>
+                  <paragraph>
+                     <content styleCode="bold underline">Hypersensitivity Reactions Including Anaphylaxis<br/>
+                     </content>
+                     <content styleCode="bold">Patients treated with POMBILITI have experienced life-threatening hypersensitivity reactions, including anaphylaxis. Appropriate medical support measures, including cardiopulmonary resuscitation equipment, should be readily available during POMBILITI administration. If a severe hypersensitivity reaction (e.g., anaphylaxis) occurs, POMBILITI should be discontinued immediately, and appropriate medical treatment should be initiated. In patients with severe hypersensitivity reaction, desensitization measures to POMBILITI may be considered <content styleCode="italics">[see <linkHtml href="#s_0501">Warnings and Precautions (5.1)</linkHtml>].</content>
+                     </content>
+                  </paragraph>
+                  <paragraph>
+                     <content styleCode="bold underline">Infusion-Associated Reactions (IARs)<br/>
+                     </content>
+                     <content styleCode="bold">Patients treated with POMBILITI have experienced severe IARs. If severe IARs occur, immediately discontinue the POMBILITI infusion, initiate appropriate medical treatment, and assess the benefits and risks of readministering POMBILITI following severe IARs. Patients with an acute underlying illness at the time of POMBILITI infusion may be at greater risk for IARs. Patients with advanced Pompe disease may have compromised cardiac and respiratory function, which may predispose them to a higher risk of severe complications from IARs <content styleCode="italics">[see <linkHtml href="#s_0502">Warnings and Precautions (5.2)</linkHtml>].</content>
+                     </content>
+                  </paragraph>
+                  <paragraph>
+                     <content styleCode="bold underline">Risk of Acute Cardiorespiratory Failure in Susceptible Patients<br/>
+                     </content>
+                     <content styleCode="bold">Patients susceptible to fluid volume overload, or those with acute underlying respiratory illness or compromised cardiac or respiratory function for whom fluid restriction is indicated may be at risk of serious exacerbation of their cardiac or respiratory status during POMBILITI infusion. More frequent monitoring of vitals should be performed during POMBILITI infusion in such patients <content styleCode="italics">[see <linkHtml href="#s_0503">Warnings and Precautions (5.3)</linkHtml>].</content>
+                     </content>
+                  </paragraph>
+               </text>
+               <effectiveTime value="20230814"/>
+               <excerpt>
+                  <highlight>
+                     <text>
+                        <paragraph>WARNING: SEVERE HYPERSENSITIVITY REACTIONS, INFUSION-ASSOCIATED REACTIONS, and RISK OF ACUTE CARDIORESPIRATORY FAILURE IN SUSCEPTIBLE PATIENTS</paragraph>
+                        <paragraph>
+                           <content styleCode="italics">See full prescribing information for complete boxed warning</content>
+                        </paragraph>
+                        <list listType="unordered" styleCode="Disc">
+                           <item>
+                              <content styleCode="bold underline">Hypersensitivity Reactions Including Anaphylaxis<br/>
+                              </content>
+                              <content styleCode="bold">Appropriate medical support measures, including cardiopulmonary resuscitation equipment, should be readily available. If a severe hypersensitivity reaction occurs, POMBILITI should be discontinued immediately and appropriate medical treatment should be initiated. (<linkHtml href="#s_0501">5.1</linkHtml>)</content>
+                           </item>
+                           <item>
+                              <content styleCode="bold underline">Infusion-Associated Reactions (IARs)<br/>
+                              </content>
+                              <content styleCode="bold">If severe IARs occur, immediately discontinue POMBILITI and initiate appropriate medical treatment. (<linkHtml href="#s_0502">5.2</linkHtml>)</content>
+                           </item>
+                           <item>
+                              <content styleCode="bold underline">Risk of Acute Cardiorespiratory Failure in Susceptible Patients<br/>
+                              </content>
+                              <content styleCode="bold">	Patients susceptible to fluid volume overload, or those with acute underlying respiratory illness or compromised cardiac or respiratory function, may be at risk of serious exacerbation of their cardiac or respiratory status during POMBILITI infusion. (<linkHtml href="#s_0503">5.3</linkHtml>)</content>
+                           </item>
+                        </list>
+                     </text>
+                  </highlight>
+               </excerpt>
+            </section>
+         </component>
+         <component>
+            <section ID="s_0100">
+               <id root="55a8526a-5650-4b32-b815-db8f376c1a77"/>
+               <code code="34067-9" codeSystem="2.16.840.1.113883.6.1" displayName="INDICATIONS &amp; USAGE SECTION"/>
+               <title mediaType="text/x-hl7-title+xml">1 INDICATIONS AND USAGE</title>
+               <text>
+                  <paragraph>POMBILITI is indicated, in combination with Opfolda, for the treatment of adult patients with late-onset Pompe disease (lysosomal acid alpha-glucosidase [GAA] deficiency) weighing ≥40 kg and who are not improving on their current enzyme replacement therapy (ERT).</paragraph>
+               </text>
+               <effectiveTime value="20230901"/>
+               <excerpt>
+                  <highlight>
+                     <text>
+                        <paragraph>POMBILITI is a hydrolytic lysosomal glycogen-specific enzyme indicated, in combination with Opfolda, an enzyme stabilizer, for the treatment of adult patients with late-onset Pompe disease (lysosomal acid alpha-glucosidase [GAA] deficiency) weighing ≥40 kg and who are not improving on their current enzyme replacement therapy (ERT). (<linkHtml href="#s_0100">1</linkHtml>)</paragraph>
+                     </text>
+                  </highlight>
+               </excerpt>
+            </section>
+         </component>
+         <component>
+            <section ID="s_0200">
+               <id root="beab7bc2-694c-4621-8503-bf1d1fd8f7f4"/>
+               <code code="34068-7" codeSystem="2.16.840.1.113883.6.1" displayName="DOSAGE &amp; ADMINISTRATION SECTION"/>
+               <title mediaType="text/x-hl7-title+xml">2 DOSAGE AND ADMINISTRATION</title>
+               <effectiveTime value="20240729"/>
+               <excerpt>
+                  <highlight>
+                     <text>
+                        <list listType="unordered" styleCode="disc">
+                           <item>Verify pregnancy status in females of reproductive potential prior to initiating treatment. (<linkHtml href="#s_0201">2.1</linkHtml>)</item>
+                           <item>Administer POMBILITI in combination with Opfolda. (<linkHtml href="#s_0202">2.2</linkHtml>)</item>
+                           <item>Consider administering antihistamines, antipyretics, and/or corticosteroids prior to POMBILITI administration. (<linkHtml href="#s_0202">2.2</linkHtml>)</item>
+                           <item>Recommended POMBILITI dosage is 20 mg/kg (of actual body weight) administered every other week as an intravenous infusion over approximately 4 hours. (<linkHtml href="#s_0202">2.2</linkHtml>)</item>
+                           <item>Start POMBILITI in combination with Opfolda 2 weeks after the last ERT dose. (<linkHtml href="#s_0202">2.2</linkHtml>)</item>
+                           <item>Initiate the POMBILITI infusion approximately 1 hour after oral administration of Opfolda. If the POMBILITI infusion cannot be started within 3 hours of oral administration of Opfolda, reschedule POMBILITI in combination with Opfolda at least 24 hours after Opfolda was last taken. If POMBILITI in combination with Opfolda are both missed, re-start treatment as soon as possible. (<linkHtml href="#s_0202">2.2</linkHtml>)</item>
+                           <item>See the full prescribing information for dosage modifications due to hypersensitivity reactions or IARs. (<linkHtml href="#s_0203">2.3</linkHtml>)</item>
+                           <item>Must be reconstituted and diluted prior to use. (<linkHtml href="#s_0204">2.4</linkHtml>)</item>
+                           <item>See the full prescribing information for administration instructions. (<linkHtml href="#s_0206">2.6</linkHtml>)</item>
+                        </list>
+                     </text>
+                  </highlight>
+               </excerpt>
+               <component>
+                  <section ID="s_0201">
+                     <id root="1ad2a630-24da-4f50-b67b-55b58f54d584"/>
+                     <code code="42229-5" codeSystem="2.16.840.1.113883.6.1" displayName="SPL UNCLASSIFIED SECTION"/>
+                     <title mediaType="text/x-hl7-title+xml">2.1	Pregnancy Evaluation Prior to Initiating Treatment</title>
+                     <text>
+                        <paragraph>Verify the pregnancy status of females of reproductive potential prior to initiating POMBILITI in combination with Opfolda <content styleCode="italics">[see <linkHtml href="#s_0801">Use in Specific Populations (8.1</linkHtml>, <linkHtml href="#s_0803">8.3</linkHtml>)]</content>.</paragraph>
+                     </text>
+                     <effectiveTime value="20230814"/>
+                  </section>
+               </component>
+               <component>
+                  <section ID="s_0202">
+                     <id root="82eb8698-f1cd-484b-9011-e316855db664"/>
+                     <code code="42229-5" codeSystem="2.16.840.1.113883.6.1" displayName="SPL UNCLASSIFIED SECTION"/>
+                     <title mediaType="text/x-hl7-title+xml">2.2	Recommended Dosage and Administration</title>
+                     <text>
+                        <paragraph>POMBILITI must be administered in combination with Opfolda (see <linkHtml href="#figure1">Figure 1</linkHtml> for the dosing timeline). If the Opfolda dose is missed, POMBILITI should not be administered. Refer to the Opfolda Prescribing Information for Opfolda dosage and administration recommendations.</paragraph>
+                        <paragraph>Prior to POMBILITI administration, consider pretreating with antihistamines, antipyretics, and/or corticosteroids <content styleCode="italics">[see <linkHtml href="#s_0501">Warnings and Precautions (5.1</linkHtml>, <linkHtml href="#s_0502">5.2</linkHtml>)]</content>. If premedication was used with previous enzyme replacement therapy (ERT), prior to POMBILITI administration, pretreat with antihistamines, antipyretics, and/or corticosteroids.</paragraph>
+                        <paragraph>The recommended dosage of POMBILITI is 20 mg/kg (of actual body weight) administered every other week as an intravenous infusion over approximately 4 hours (see <linkHtml href="#table1">Table 1</linkHtml> for the recommended total infusion volume based on the patient’s weight).</paragraph>
+                        <paragraph>Start POMBILITI in combination with Opfolda 2 weeks after the last ERT dose.</paragraph>
+                        <paragraph>Initiate the POMBILITI infusion approximately 1 hour after oral administration of Opfolda. If the POMBILITI infusion cannot be started within 3 hours of oral administration of Opfolda, reschedule POMBILITI in combination with Opfolda at least 24 hours after Opfolda was last taken. If POMBILITI in combination with Opfolda are both missed, re-start treatment as soon as possible.</paragraph>
+                        <paragraph ID="figure1">
+                           <content styleCode="bold">Figure 1. Dosing Timeline</content>
+                        </paragraph>
+                        <paragraph>
+                           <renderMultiMedia referencedObject="MM01"/>
+                        </paragraph>
+                     </text>
+                     <effectiveTime value="20240729"/>
+                     <component>
+                        <observationMedia ID="MM01">
+                           <text>Figure 1</text>
+                           <value mediaType="image/jpeg" xsi:type="ED">
+                              <reference value="pombiliti-01.jpg"/>
+                           </value>
+                        </observationMedia>
+                     </component>
+                  </section>
+               </component>
+               <component>
+                  <section ID="s_0203">
+                     <id root="3296f3d7-17ff-4fe5-8c80-71752c990073"/>
+                     <code code="42229-5" codeSystem="2.16.840.1.113883.6.1" displayName="SPL UNCLASSIFIED SECTION"/>
+                     <title mediaType="text/x-hl7-title+xml">2.3	Dosage and Administration Modifications Due to Hypersensitivity Reactions and/or Infusion-Associated Reactions</title>
+                     <text>
+                        <paragraph>In the event of a <content styleCode="italics">severe</content> hypersensitivity reaction (including anaphylaxis) or a <content styleCode="italics">severe</content> infusion-associated reaction (IAR), immediately discontinue the POMBILITI infusion, and initiate appropriate medical treatment. For additional recommendations in the event of a severe hypersensitivity reaction <content styleCode="italics">[see <linkHtml href="#s_0502">Warnings and Precautions (5.1</linkHtml>, <linkHtml href="#s_0502">5.2</linkHtml>)]</content>.</paragraph>
+                        <paragraph>In the event of a <content styleCode="italics">mild to moderate</content> hypersensitivity reaction or <content styleCode="italics">moderate</content> IAR, consider temporarily holding or slowing the infusion rate and initiating appropriate medical treatment <content styleCode="italics">[see <linkHtml href="#s_0502">Warnings and Precautions (5.1</linkHtml>, <linkHtml href="#s_0502">5.2</linkHtml>)]</content>. If symptoms:</paragraph>
+                        <list listType="unordered" styleCode="disc">
+                           <item>Persist despite temporarily holding or slowing the infusion, stop the infusion for 30 to 60 minutes, monitor the patient, and consider resuming the infusion at a reduced rate if symptoms have improved. If symptoms continue to persist, discontinue the infusion, and consider re-initiating the infusion within 7 to 14 days with appropriate premedication.</item>
+                           <item>Subside following holding or slowing the infusion, increase the infusion rate to the rate at which the reaction occurred and consider continuing to increase the rate (every 30 minutes) in a stepwise manner up to the target infusion rate. Closely monitor the patient.</item>
+                        </list>
+                     </text>
+                     <effectiveTime value="20240115"/>
+                  </section>
+               </component>
+               <component>
+                  <section ID="s_0204">
+                     <id root="9b9774c4-c193-4339-8ebe-458ac0ca1a8c"/>
+                     <code code="42229-5" codeSystem="2.16.840.1.113883.6.1" displayName="SPL UNCLASSIFIED SECTION"/>
+                     <title mediaType="text/x-hl7-title+xml">2.4	Reconstitution and Dilution Instructions</title>
+                     <text>
+                        <paragraph>Use aseptic technique during preparation. Reconstitute and dilute POMBILITI in the following manner:</paragraph>
+                        <paragraph>
+                           <content styleCode="underline">Reconstitute the Lyophilized Powder</content>
+                        </paragraph>
+                        <list listType="unordered" styleCode="disc">
+                           <item>Determine the number of POMBILITI vials to be reconstituted based on the calculated dose (based on patient’s actual body weight in kg) <content styleCode="italics">[see (<linkHtml href="#s_0202">Dosage and Administration 2.2</linkHtml>)].</content>
+                           </item>
+                           <item>Remove vials from the refrigerator and set aside for approximately 30 minutes to allow vials to come to room temperature.</item>
+                           <item>Reconstitute each vial by slowly injecting 7.2 mL of Sterile Water for Injection, down the inside wall of each vial to avoid foaming. Avoid forceful impact of Sterile Water for Injection on the lyophilized powder and avoid foaming.</item>
+                           <item>Roll and tilt each vial to allow the lyophilized powder to dissolve completely which typically takes 2 minutes. Each vial will yield a concentration of 15 mg/mL. Do not invert, swirl, or shake.</item>
+                           <item>Visually inspect the reconstituted solution for particulate matter and discoloration. The reconstituted solution appears as a clear to opalescent, colorless to yellowish solution essentially particle free. Discard if foreign matter is observed or the solution is discolored.</item>
+                        </list>
+                        <paragraph>
+                           <content styleCode="underline">Dilute the Reconstituted Solution</content>
+                        </paragraph>
+                        <list listType="unordered" styleCode="disc">
+                           <item>Remove airspace within a bag of 0.9% Sodium Chloride Injection. Remove an equal volume of 0.9% Sodium Chloride Injection from the bag that will be replaced by the total volume (mL) of reconstituted POMBILITI (see <linkHtml href="#table1">Table 1</linkHtml> for the recommended total infusion volume based on the patient’s weight).</item>
+                           <item>Slowly withdraw 7 mL of reconstituted solution from each of the vials until the patient’s dose is obtained. Discard any remaining reconstituted solution in the last vial.</item>
+                           <item>Add the reconstituted solution slowly and directly into the infusion bag.</item>
+                           <item>To prevent foaming, gently invert infusion bag to mix the solution and avoid vigorous shaking or agitation. After dilution, the solution will have a final concentration of 0.5 to 4 mg/mL of cipaglucosidase alfa-atga. Do not use a pneumatic tube to transport the infusion bag.</item>
+                           <item>Administer the diluted solution at room temperature without delay <content styleCode="italics">[see (<linkHtml href="#s_0206">Dosage and Administration 2.6</linkHtml>)].</content>
+                           </item>
+                        </list>
+                     </text>
+                     <effectiveTime value="20240115"/>
+                  </section>
+               </component>
+               <component>
+                  <section ID="s_0205">
+                     <id root="5cf39f58-53fe-47a8-9765-414eeb2766a1"/>
+                     <code code="42229-5" codeSystem="2.16.840.1.113883.6.1" displayName="SPL UNCLASSIFIED SECTION"/>
+                     <title mediaType="text/x-hl7-title+xml">2.5	Storage Instructions for the Reconstituted and Diluted Product</title>
+                     <text>
+                        <paragraph>
+                           <content styleCode="underline">Storage of the Reconstituted Solution</content>
+                           <br/>If the reconstituted POMBILITI vials are not used immediately, store refrigerated at 2°C to 8°C (36°F to 46°F) for up to 24 hours. Do not freeze.</paragraph>
+                        <paragraph>
+                           <content styleCode="underline">Storage of the Diluted Solution</content>
+                           <br/>If the diluted solution is not administered immediately, store refrigerated at 2°C to 8°C (36°F to 46°F) for up to 16 hours. Storage at room temperature is not recommended. Do not freeze.</paragraph>
+                        <paragraph>	After removal of the diluted solution from the refrigerator:</paragraph>
+                        <list listType="unordered" styleCode="disc">
+                           <item>Completely infuse within 6 hours.</item>
+                           <item>Do not restore in the refrigerator.</item>
+                        </list>
+                        <paragraph>	Discard the diluted solution if refrigerated more than 16 hours or if the diluted solution is not able to be completely infused within 6 hours after removal from the refrigerator.</paragraph>
+                     </text>
+                     <effectiveTime value="20240115"/>
+                  </section>
+               </component>
+               <component>
+                  <section ID="s_0206">
+                     <id root="3ddbc926-f6e1-4b43-b7dd-a70a6d673904"/>
+                     <code code="42229-5" codeSystem="2.16.840.1.113883.6.1" displayName="SPL UNCLASSIFIED SECTION"/>
+                     <title mediaType="text/x-hl7-title+xml">2.6	Administration Instructions</title>
+                     <text>
+                        <paragraph>Prior to administration, inspect the infusion bag for foaming. If foaming is present, let foam dissipate before administering POMBILITI. If the diluted solution has been refrigerated, allow solution to equilibrate to room temperature for 30 minutes prior to infusion.</paragraph>
+                        <paragraph>Use an administration set with an inline low protein binding 0.2‑micron filter to administer POMBILITI. Change filter if the filter becomes blocked.</paragraph>
+                        <paragraph>Initiate the POMBILITI infusion approximately 1 hour after oral administration of Opfolda. In the event of POMBILITI infusion delay, the starting infusion time should not exceed 3 hours from the oral administration of Opfolda <content styleCode="italics">[see (<linkHtml href="#s_0202">Dosage and Administration 2.2</linkHtml>)]</content>.</paragraph>
+                        <paragraph>The initial recommended infusion rate is 1 mg/kg/hour (see <linkHtml href="#table1">Table 1</linkHtml>). Gradually increase the infusion rate by 2 mg/kg/hour every 30 minutes if there are no signs of hypersensitivity or infusion-associated reactions (IARs) until a maximum rate of 7 mg/kg/hour is reached; then, maintain the infusion rate at 7 mg/kg/hour until the infusion is complete. The approximate total infusion duration is 4 hours.</paragraph>
+                        <paragraph>See <linkHtml href="#table1">Table 1</linkHtml> for the rate of infusion at each step, expressed as mL/hour based on the recommended infusion volume by patient weight.</paragraph>
+                        <paragraph>Do not infuse POMBILITI in the same intravenous line with other products.</paragraph>
+                        <paragraph ID="table1">
+                           <content styleCode="bold">Table 1. Recommended POMBILITI Infusion Volumes and Rates by Patient Weight</content>
+                        </paragraph>
+                        <table width="800" styleCode="Noautorules">
+                           <col width="16%" align="left"/>
+                           <col width="16%" align="center"/>
+                           <col width="17%" align="center"/>
+                           <col width="17%" align="center"/>
+                           <col width="17%" align="center"/>
+                           <col width="17%" align="center"/>
+                           <tbody>
+                              <tr valign="top">
+                                 <td align="center" rowspan="2" styleCode="Toprule Botrule Lrule Rrule Bold">Patient Weight Range</td>
+                                 <td rowspan="2" styleCode="Toprule Botrule Lrule Rrule Bold">Total Infusion Volume</td>
+                                 <td styleCode="Toprule Botrule Lrule Rrule Bold">Step 1<br/>1 mg/kg/hour</td>
+                                 <td styleCode="Toprule Botrule Lrule Rrule Bold">Step 2<br/>3 mg/kg/hour</td>
+                                 <td styleCode="Toprule Botrule Lrule Rrule Bold">Step 3<br/>5 mg/kg/hour</td>
+                                 <td styleCode="Toprule Botrule Lrule Rrule Bold">Step 4<br/>7 mg/kg/hour</td>
+                              </tr>
+                              <tr valign="middle">
+                                 <td align="center" colspan="4" styleCode="Toprule Botrule Lrule Rrule Bold">Infusion Rate in mL/hour</td>
+                              </tr>
+                              <tr valign="top">
+                                 <td styleCode="Toprule Botrule Lrule Rrule">40–50 kg</td>
+                                 <td styleCode="Toprule Botrule Lrule Rrule">250 mL</td>
+                                 <td styleCode="Toprule Botrule Lrule Rrule">13</td>
+                                 <td styleCode="Toprule Botrule Lrule Rrule">38</td>
+                                 <td styleCode="Toprule Botrule Lrule Rrule">63</td>
+                                 <td styleCode="Toprule Botrule Lrule Rrule">88</td>
+                              </tr>
+                              <tr valign="top">
+                                 <td styleCode="Toprule Botrule Lrule Rrule">50.1–60 kg</td>
+                                 <td styleCode="Toprule Botrule Lrule Rrule">300 mL</td>
+                                 <td styleCode="Toprule Botrule Lrule Rrule">15</td>
+                                 <td styleCode="Toprule Botrule Lrule Rrule">45</td>
+                                 <td styleCode="Toprule Botrule Lrule Rrule">75</td>
+                                 <td styleCode="Toprule Botrule Lrule Rrule">105</td>
+                              </tr>
+                              <tr valign="top">
+                                 <td styleCode="Toprule Botrule Lrule Rrule">60.1-100 kg</td>
+                                 <td styleCode="Toprule Botrule Lrule Rrule">500 mL</td>
+                                 <td styleCode="Toprule Botrule Lrule Rrule">25</td>
+                                 <td styleCode="Toprule Botrule Lrule Rrule">75</td>
+                                 <td styleCode="Toprule Botrule Lrule Rrule">125</td>
+                                 <td styleCode="Toprule Botrule Lrule Rrule">175</td>
+                              </tr>
+                              <tr valign="top">
+                                 <td styleCode="Toprule Botrule Lrule Rrule">100.1–120 kg</td>
+                                 <td styleCode="Toprule Botrule Lrule Rrule">600 mL</td>
+                                 <td styleCode="Toprule Botrule Lrule Rrule">30</td>
+                                 <td styleCode="Toprule Botrule Lrule Rrule">90</td>
+                                 <td styleCode="Toprule Botrule Lrule Rrule">150</td>
+                                 <td styleCode="Toprule Botrule Lrule Rrule">210</td>
+                              </tr>
+                              <tr valign="top">
+                                 <td styleCode="Toprule Botrule Lrule Rrule">120.1–140 kg</td>
+                                 <td styleCode="Toprule Botrule Lrule Rrule">700 mL</td>
+                                 <td styleCode="Toprule Botrule Lrule Rrule">35</td>
+                                 <td styleCode="Toprule Botrule Lrule Rrule">105</td>
+                                 <td styleCode="Toprule Botrule Lrule Rrule">175</td>
+                                 <td styleCode="Toprule Botrule Lrule Rrule">245</td>
+                              </tr>
+                           </tbody>
+                        </table>
+                     </text>
+                     <effectiveTime value="20240115"/>
+                  </section>
+               </component>
+            </section>
+         </component>
+         <component>
+            <section ID="s_0300">
+               <id root="699d8005-9325-4b8f-8286-b1ae7993e9ba"/>
+               <code code="43678-2" codeSystem="2.16.840.1.113883.6.1" displayName="DOSAGE FORMS &amp; STRENGTHS SECTION"/>
+               <title mediaType="text/x-hl7-title+xml">3 DOSAGE FORMS AND STRENGTHS</title>
+               <text>
+                  <paragraph>For injection: 105 mg of cipaglucosidase alfa-atga as a white to slightly yellowish lyophilized powder with a cake-like appearance in a single-dose vial for reconstitution</paragraph>
+               </text>
+               <effectiveTime value="20230814"/>
+               <excerpt>
+                  <highlight>
+                     <text>
+                        <paragraph>For injection: 105 mg of cipaglucosidase alfa-atga as a lyophilized powder in a single-dose vial for reconstitution. (<linkHtml href="#s_0300">3</linkHtml>)</paragraph>
+                     </text>
+                  </highlight>
+               </excerpt>
+            </section>
+         </component>
+         <component>
+            <section ID="s_0400">
+               <id root="de0b2592-fde6-4182-a4e4-3e8f4b1e658d"/>
+               <code code="34070-3" codeSystem="2.16.840.1.113883.6.1" displayName="CONTRAINDICATIONS SECTION"/>
+               <title mediaType="text/x-hl7-title+xml">4 CONTRAINDICATIONS</title>
+               <text>
+                  <paragraph>POMBILITI in combination with Opfolda is contraindicated in pregnancy <content styleCode="italics">[see <linkHtml href="#s_0504">Warnings and Precautions (5.4)</linkHtml> and <linkHtml href="#s_0801">Use in Specific Populations (8.1)</linkHtml>].</content>
+                  </paragraph>
+               </text>
+               <effectiveTime value="20230814"/>
+               <excerpt>
+                  <highlight>
+                     <text>
+                        <paragraph>Pregnancy (<linkHtml href="#s_0400">4</linkHtml>, <linkHtml href="#s_0504">5.4</linkHtml>, <linkHtml href="#s_0801">8.1</linkHtml>)</paragraph>
+                     </text>
+                  </highlight>
+               </excerpt>
+            </section>
+         </component>
+         <component>
+            <section ID="s_0500">
+               <id root="253a7bb8-92f6-477e-879b-d8e9fad32c8e"/>
+               <code code="43685-7" codeSystem="2.16.840.1.113883.6.1" displayName="WARNINGS AND PRECAUTIONS SECTION"/>
+               <title mediaType="text/x-hl7-title+xml">5 WARNINGS AND PRECAUTIONS</title>
+               <effectiveTime value="20240729"/>
+               <excerpt>
+                  <highlight>
+                     <text>
+                        <list listType="unordered" styleCode="Disc">
+                           <item>
+                              <content styleCode="italics">Embryo-Fetal Toxicity:</content> May cause embryo-fetal harm. Advise females of reproductive potential of the potential risk to a fetus and to use effective contraception during treatment and for at least 60 days after the last dose. (<linkHtml href="#s_0400">4</linkHtml>, <linkHtml href="#s_0504">5.4</linkHtml>, <linkHtml href="#s_0801">8.1</linkHtml>, <linkHtml href="#s_0803">8.3</linkHtml>)</item>
+                           <item>
+                              <content styleCode="italics">Risks Associated with Opfolda:</content> Refer to the Opfolda Prescribing Information for a description of additional risks for Opfolda. (<linkHtml href="#s_0505">5.5</linkHtml>)</item>
+                        </list>
+                     </text>
+                  </highlight>
+               </excerpt>
+               <component>
+                  <section ID="s_0501">
+                     <id root="bd4fde95-a42c-43d9-8928-c463b42dc821"/>
+                     <code code="42229-5" codeSystem="2.16.840.1.113883.6.1" displayName="SPL UNCLASSIFIED SECTION"/>
+                     <title mediaType="text/x-hl7-title+xml">5.1	Hypersensitivity Reactions Including Anaphylaxis</title>
+                     <text>
+                        <paragraph>Life-threatening hypersensitivity reactions, including anaphylaxis, have been reported in POMBILITI-treated patients. In clinical trials, 43 (27%) POMBILITI-treated patients experienced hypersensitivity reactions, including 4 (3%) patients who reported severe hypersensitivity reactions and 4 (3%) additional patients who experienced anaphylaxis (fulfilling at least one of the Sampson criteria). Three of the 4 (2%) patients experiencing anaphylaxis discontinued from the trial <content styleCode="italics">[see <linkHtml href="#s_1400">Clinical Studies (14)</linkHtml>]</content>. Two of the 4 patients who experienced anaphylaxis developed high anti-cipaglucosidase alfa-atga antibody titers <content styleCode="italics">[see <linkHtml href="#s_1206">Clinical Pharmacology (12.6)</linkHtml>]</content>. Anaphylaxis signs and symptoms included dyspnea, rash, hypotension, bronchospasm, edema, pharyngeal edema, and tongue swelling. Symptoms of severe hypersensitivity reactions included urticaria, pruritus, and flushing.</paragraph>
+                        <paragraph>Prior to POMBILITI administration, consider pretreating with antihistamines, antipyretics, and/or corticosteroids. Appropriate medical support measures, including cardiopulmonary resuscitation equipment, should be readily available during POMBILITI administration.</paragraph>
+                        <list listType="unordered" styleCode="disc">
+                           <item>If a <content styleCode="italics">severe</content> hypersensitivity reaction (e.g., anaphylaxis) occurs, POMBILITI should be discontinued immediately, and appropriate medical treatment should be initiated. The risks and benefits of readministering POMBILITI following severe hypersensitivity reaction (including anaphylaxis) should be considered. Patients may be rechallenged using slower infusion rates. In patients with severe hypersensitivity reaction, desensitization measures to POMBILITI may be considered. If the decision is made to readminister POMBILITI, ensure the patient tolerates the infusion. If the patient tolerates the infusion, the dosage (dose and/or the rate) may be increased to reach the approved recommended dosage.</item>
+                           <item>If a <content styleCode="italics">mild or moderate</content> hypersensitivity reaction occurs, the infusion rate may be slowed or temporarily stopped <content styleCode="italics">[see <linkHtml href="#s_0203">Dosage and Administration (2.3)</linkHtml>].</content>
+                           </item>
+                        </list>
+                     </text>
+                     <effectiveTime value="20240115"/>
+                  </section>
+               </component>
+               <component>
+                  <section ID="s_0502">
+                     <id root="6b99bc95-70c3-42f7-9e39-26a11d1b6fb5"/>
+                     <code code="42229-5" codeSystem="2.16.840.1.113883.6.1" displayName="SPL UNCLASSIFIED SECTION"/>
+                     <title mediaType="text/x-hl7-title+xml">5.2	Infusion-Associated Reactions</title>
+                     <text>
+                        <paragraph>In clinical trials, IARs were reported to occur at any time during and/or within a few hours after the POMBILITI infusion and were more likely to occur with higher infusion rates. IARs were reported in 48 (32%) POMBILITI-treated patients in clinical trials. In these trials, 4 (3%) POMBILITI-treated patients reported 11 severe IARs including symptoms of pharyngeal edema, anaphylactic reaction, urticaria, pruritus, chills, dyspnea, and flushing. The majority of IARs were assessed as mild to moderate. IARs that led to treatment discontinuation were urticaria, anaphylactic reaction, chills, and hypotension.</paragraph>
+                        <paragraph>Antihistamines, antipyretics, and/or corticosteroids can be given prior to POMBILITI administration to reduce the risk of infusion-associated reactions (IARs). However, IARs may still occur in patients after receiving pretreatment.</paragraph>
+                        <br/>
+                        <list listType="unordered" styleCode="disc">
+                           <item>If <content styleCode="italics">severe</content> IARs occur, immediately discontinue the POMBILITI infusion, initiate appropriate medical treatment, and assess the benefits and risks of readministering POMBILITI following severe IARs. Patients may be rechallenged using slower infusion rates. Once a patient tolerates the infusion, the infusion rate may be increased to reach the recommended infusion rate.</item>
+                           <item>If <content styleCode="italics">mild or moderate</content> IARs occur regardless of pretreatment, decreasing the infusion rate or temporarily stopping the infusion may ameliorate the symptoms <content styleCode="italics">[see <linkHtml href="#s_0203">Dosage and Administration (2.3)</linkHtml>].</content>
+                           </item>
+                        </list>
+                        <paragraph>Patients with an acute underlying illness at the time of POMBILITI infusion may be at greater risk for IARs. Patients with advanced Pompe disease may have compromised cardiac and respiratory function, which may predispose them to a higher risk of severe complications from IARs.</paragraph>
+                     </text>
+                     <effectiveTime value="20240115"/>
+                  </section>
+               </component>
+               <component>
+                  <section ID="s_0503">
+                     <id root="0e9bcc8f-eee2-4f1f-bd72-83abcf689493"/>
+                     <code code="42229-5" codeSystem="2.16.840.1.113883.6.1" displayName="SPL UNCLASSIFIED SECTION"/>
+                     <title mediaType="text/x-hl7-title+xml">5.3	Risk of Acute Cardiorespiratory Failure in Susceptible Patients</title>
+                     <text>
+                        <paragraph>Patients susceptible to fluid volume overload, or those with acute underlying respiratory illness or compromised cardiac or respiratory function for whom fluid restriction is indicated may be at risk of serious exacerbation of their cardiac or respiratory status during the POMBILITI infusion. More frequent monitoring of vitals should be performed during POMBILITI infusion in these patients. Some patients may require prolonged observation times.</paragraph>
+                     </text>
+                     <effectiveTime value="20230814"/>
+                  </section>
+               </component>
+               <component>
+                  <section ID="s_0504">
+                     <id root="c3e63478-2154-40a9-a807-a2a44fd2c053"/>
+                     <code code="42229-5" codeSystem="2.16.840.1.113883.6.1" displayName="SPL UNCLASSIFIED SECTION"/>
+                     <title mediaType="text/x-hl7-title+xml">5.4	Embryo-Fetal Toxicity</title>
+                     <text>
+                        <paragraph>Based on findings from animal reproduction studies, POMBILITI in combination with Opfolda may cause embryo-fetal harm when administered to a pregnant female and is contraindicated during pregnancy. In a rabbit embryo-fetal development study, great vessel and cardiac malformations were increased in offspring of pregnant rabbits treated with cipaglucosidase alfa‑atga in combination with oral miglustat at 16‑fold and 3‑fold, respectively, the maximum recommended human dose (MRHD) based on plasma AUC exposure.</paragraph>
+                        <paragraph>Verify the pregnancy status in females of reproductive potential prior to initiating treatment with POMBILITI in combination with Opfolda. Advise females of reproductive potential to use effective contraception during treatment with POMBILITI in combination with Opfolda and for at least 60 days after the last dose <content styleCode="italics">[see <linkHtml href="#s_0801">Use in Specific Populations (8.1</linkHtml>, <linkHtml href="#s_0803">8.3</linkHtml>)].</content>
+                        </paragraph>
+                     </text>
+                     <effectiveTime value="20230814"/>
+                  </section>
+               </component>
+               <component>
+                  <section ID="s_0505">
+                     <id root="2ef6d50e-4fdf-4017-986e-c8342bb3d7a3"/>
+                     <code code="42229-5" codeSystem="2.16.840.1.113883.6.1" displayName="SPL UNCLASSIFIED SECTION"/>
+                     <title mediaType="text/x-hl7-title+xml">5.5	Risks Associated with Opfolda</title>
+                     <text>
+                        <paragraph>POMBILITI must be administered in combination with Opfolda. Refer to the Opfolda Prescribing Information for a description of additional risks for Opfolda including, but not limited to, the warnings and precautions for Opfolda.</paragraph>
+                     </text>
+                     <effectiveTime value="20230814"/>
+                  </section>
+               </component>
+            </section>
+         </component>
+         <component>
+            <section ID="s_0600">
+               <id root="349477ca-b5d1-453e-8467-7c15fd1ddea2"/>
+               <code code="34084-4" codeSystem="2.16.840.1.113883.6.1" displayName="ADVERSE REACTIONS SECTION"/>
+               <title mediaType="text/x-hl7-title+xml">6 ADVERSE REACTIONS</title>
+               <text>
+                  <paragraph>The following clinically significant adverse reactions are described elsewhere in the labeling:</paragraph>
+                  <list listType="unordered" styleCode="disc">
+                     <item>Hypersensitivity Reactions Including Anaphylaxis <content styleCode="italics">[see <linkHtml href="#s_0501">Warnings and Precautions (5.1)</linkHtml>]</content>
+                     </item>
+                     <item>Infusion-Associated Reactions <content styleCode="italics">[see <linkHtml href="#s_0502">Warnings and Precautions (5.2)</linkHtml>]</content>
+                     </item>
+                  </list>
+               </text>
+               <effectiveTime value="20240729"/>
+               <excerpt>
+                  <highlight>
+                     <text>
+                        <paragraph>Most common adverse reactions ≥ 5% are headache, diarrhea, fatigue, nausea, abdominal pain and pyrexia. (<linkHtml href="#s_0601">6.1</linkHtml>)</paragraph>
+                        <br/>
+                        <paragraph>
+                           <content styleCode="bold">To report SUSPECTED ADVERSE REACTIONS, contact Amicus Therapeutics at 1-877-4AMICUS or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch.</content>
+                        </paragraph>
+                     </text>
+                  </highlight>
+               </excerpt>
+               <component>
+                  <section ID="s_0601">
+                     <id root="269d5ecb-3564-4d72-bc68-8d3a4a3573c4"/>
+                     <code code="42229-5" codeSystem="2.16.840.1.113883.6.1" displayName="SPL UNCLASSIFIED SECTION"/>
+                     <title mediaType="text/x-hl7-title+xml">6.1	Clinical Trials Experience</title>
+                     <text>
+                        <paragraph>Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice.</paragraph>
+                        <paragraph>
+                           <content styleCode="underline">Adverse Reactions from the Pooled Clinical Trials Including Trial 1</content>
+                        </paragraph>
+                        <paragraph>The pooled safety analysis from 3 clinical trials included 151 adult patients with late-onset Pompe disease (LOPD) treated with POMBILITI in combination with Opfolda including:</paragraph>
+                        <list listType="unordered" styleCode="disc">
+                           <item>85 patients in the randomized, double-blind, active-controlled trial in adults (Trial 1) <content styleCode="italics">[see <linkHtml href="#s_1400">Clinical Studies (14)</linkHtml>]</content>,</item>
+                           <item>37 patients in the open-label extension trial where patients switched from a non‑U.S.‑approved alglucosidase alfa product <content styleCode="italics">[see <linkHtml href="#s_1400">Clinical Studies (14)</linkHtml>]</content> to POMBILITI in combination with Opfolda,</item>
+                           <item>29 patients in an open-label trial.</item>
+                        </list>
+                        <paragraph>The total median duration of exposure in these trials was 21 months, with 120 patients having at least 12 months exposure to POMBILITI in combination with Opfolda. In these trials, 78% (n=117) of the patients received previous ERT (ERT‑experienced) with a mean treatment duration of 7.7 years.</paragraph>
+                        <paragraph>In these trials, serious adverse reactions reported in 2 or more patients treated with POMBILITI in combination with Opfolda were anaphylaxis and urticaria. A total of 5 patients treated with POMBILITI in combination with Opfolda in these trials permanently discontinued POMBILITI due to adverse reactions, including 4 of these patients who discontinued the treatment because of a serious adverse reaction.</paragraph>
+                        <paragraph>The most common adverse reactions (≥5%) reported in the pooled safety population of patients treated with POMBILITI in combination with Opfolda in the 3 clinical trials were headache, diarrhea, fatigue, nausea, abdominal pain and pyrexia.</paragraph>
+                        <paragraph>In these trials, IARs were reported in 48 (32%) patients treated with POMBILITI in combination with Opfolda. IARs reported in more than 1 patient included headache, myalgia, diarrhea, nausea, fatigue, muscle spasms, pyrexia, dizziness, cough, chills, rash, vomiting, dyspnea, pain, abdominal distension, tachycardia, urticaria, flatulence, pruritus, abdominal pain, chest discomfort, flushing, hyperhidrosis, dysgeusia, hypotension, and hypertension <content styleCode="italics">[see <linkHtml href="#s_0502">Warnings and Precautions (5.2)</linkHtml>].</content>
+                        </paragraph>
+                        <paragraph>
+                           <content styleCode="underline">Adverse Reactions from Trial 1</content>
+                        </paragraph>
+                        <paragraph>Trial 1 (a randomized, double‑blind, active‑controlled trial) included 123 adult patients with LOPD who were randomized in a 2:1 ratio to receive treatment with POMBILITI in combination with Opfolda or a non-U.S.-approved alglucosidase alfa product with placebo <content styleCode="italics">[see <linkHtml href="#s_1400">Clinical Studies (14)</linkHtml>].</content>
+                        </paragraph>
+                        <paragraph>The duration of exposure was similar for both treatment groups (overall mean exposure of 12 months). Most patients (77%) were ERT‑experienced, and a majority of patients in both treatment groups had &gt;5 years of prior treatment with ERT (69% and 63% of patients in the POMBILITI in combination with Opfolda group and the non-U.S.-approved alglucosidase alfa product with placebo group, respectively).</paragraph>
+                        <paragraph>The most common adverse reactions (≥5%) reported in the patients who received POMBILITI in combination with Opfolda in Trial 1 were headache and diarrhea.</paragraph>
+                        <paragraph>
+                           <linkHtml href="#table2">Table 2</linkHtml> summarizes frequent adverse reactions that occurred in patients treated with POMBILITI in combination with Opfolda in Trial 1. Trial 1 was not designed to demonstrate a statistically significant difference in the incidence of adverse reactions in the POMBILITI in combination with Opfolda and the non-U.S.-approved alglucosidase alfa product with placebo groups.</paragraph>
+                        <paragraph ID="table2">
+                           <content styleCode="bold">Table 2. Adverse Reactions that Occurred in Adults with LOPD at an Incidence of ≥2% in Trial 1</content>
+                        </paragraph>
+                        <table width="800" styleCode="Noautorules">
+                           <col width="34%" align="left"/>
+                           <col width="33%" align="center"/>
+                           <col width="33%" align="center"/>
+                           <tfoot>
+                              <tr>
+                                 <td align="left" colspan="3">LOPD: late-onset Pompe disease</td>
+                              </tr>
+                              <tr>
+                                 <td align="left" colspan="3">∗ Headache included migraine and migraine with aura.</td>
+                              </tr>
+                              <tr>
+                                 <td align="left" colspan="3">
+                                    <sup>†</sup> Rash included erythematous rash and macular rash. </td>
+                              </tr>
+                              <tr>
+                                 <td align="left" colspan="3">
+                                    <sup>‡</sup> Abdominal pain included upper and lower abdominal pain. </td>
+                              </tr>
+                              <tr>
+                                 <td align="left" colspan="3">
+                                    <sup>§</sup> Tachycardia included sinus tachycardia.</td>
+                              </tr>
+                              <tr>
+                                 <td align="left" colspan="3">
+                                    <sup>¶</sup> Urticaria included mechanical urticaria and urticarial rash. </td>
+                              </tr>
+                           </tfoot>
+                           <tbody>
+                              <tr valign="middle">
+                                 <td align="center" styleCode="Toprule Botrule Lrule Rrule Bold">Adverse Reaction</td>
+                                 <td align="center" styleCode="Toprule Botrule Lrule Rrule Bold">POMBILITI in Combination with Opfolda<br/>(n=85)<br/>N (%)</td>
+                                 <td align="center" styleCode="Toprule Botrule Lrule Rrule Bold">A Non-U.S.-Approved <br/>Alglucosidase alfa Product<br/> with Placebo<br/>(n=38)<br/>N (%)</td>
+                              </tr>
+                              <tr valign="middle">
+                                 <td styleCode="Toprule Botrule Lrule Rrule">Headache∗</td>
+                                 <td styleCode="Toprule Botrule Lrule Rrule">7 (8.2)</td>
+                                 <td styleCode="Toprule Botrule Lrule Rrule">3 (7.9)</td>
+                              </tr>
+                              <tr valign="middle">
+                                 <td styleCode="Toprule Botrule Lrule Rrule">Diarrhea</td>
+                                 <td styleCode="Toprule Botrule Lrule Rrule">5 (5.9)</td>
+                                 <td styleCode="Toprule Botrule Lrule Rrule">2 (5.3)</td>
+                              </tr>
+                              <tr valign="middle">
+                                 <td styleCode="Toprule Botrule Lrule Rrule">Dizziness</td>
+                                 <td styleCode="Toprule Botrule Lrule Rrule">4 (4.7)</td>
+                                 <td styleCode="Toprule Botrule Lrule Rrule">2 (5.3)</td>
+                              </tr>
+                              <tr valign="middle">
+                                 <td styleCode="Toprule Botrule Lrule Rrule">Dyspnea</td>
+                                 <td styleCode="Toprule Botrule Lrule Rrule">3 (3.5)</td>
+                                 <td styleCode="Toprule Botrule Lrule Rrule">0</td>
+                              </tr>
+                              <tr valign="middle">
+                                 <td styleCode="Toprule Botrule Lrule Rrule">Abdominal distention</td>
+                                 <td styleCode="Toprule Botrule Lrule Rrule">3 (3.5)</td>
+                                 <td styleCode="Toprule Botrule Lrule Rrule">2 (5.3)</td>
+                              </tr>
+                              <tr valign="middle">
+                                 <td styleCode="Toprule Botrule Lrule Rrule">Pyrexia</td>
+                                 <td styleCode="Toprule Botrule Lrule Rrule">3 (3.5)</td>
+                                 <td styleCode="Toprule Botrule Lrule Rrule">1 (2.6)</td>
+                              </tr>
+                              <tr valign="middle">
+                                 <td styleCode="Toprule Botrule Lrule Rrule">Rash<sup>†</sup>
+                                 </td>
+                                 <td styleCode="Toprule Botrule Lrule Rrule">3 (3.5)</td>
+                                 <td styleCode="Toprule Botrule Lrule Rrule">0</td>
+                              </tr>
+                              <tr valign="middle">
+                                 <td styleCode="Toprule Botrule Lrule Rrule">Abdominal pain<sup>‡</sup>
+                                 </td>
+                                 <td styleCode="Toprule Botrule Lrule Rrule">2 (2.4)</td>
+                                 <td styleCode="Toprule Botrule Lrule Rrule">4 (10.5)</td>
+                              </tr>
+                              <tr valign="middle">
+                                 <td styleCode="Toprule Botrule Lrule Rrule">Nausea</td>
+                                 <td styleCode="Toprule Botrule Lrule Rrule">2 (2.4)</td>
+                                 <td styleCode="Toprule Botrule Lrule Rrule">5 (13.2)</td>
+                              </tr>
+                              <tr valign="middle">
+                                 <td styleCode="Toprule Botrule Lrule Rrule">Chills</td>
+                                 <td styleCode="Toprule Botrule Lrule Rrule">2 (2.4)</td>
+                                 <td styleCode="Toprule Botrule Lrule Rrule">0</td>
+                              </tr>
+                              <tr valign="middle">
+                                 <td styleCode="Toprule Botrule Lrule Rrule">Dysgeusia</td>
+                                 <td styleCode="Toprule Botrule Lrule Rrule">2 (2.4)</td>
+                                 <td styleCode="Toprule Botrule Lrule Rrule">0</td>
+                              </tr>
+                              <tr valign="middle">
+                                 <td styleCode="Toprule Botrule Lrule Rrule">Flushing</td>
+                                 <td styleCode="Toprule Botrule Lrule Rrule">2 (2.4)</td>
+                                 <td styleCode="Toprule Botrule Lrule Rrule">0</td>
+                              </tr>
+                              <tr valign="middle">
+                                 <td styleCode="Toprule Botrule Lrule Rrule">Muscle spasms</td>
+                                 <td styleCode="Toprule Botrule Lrule Rrule">2 (2.4)</td>
+                                 <td styleCode="Toprule Botrule Lrule Rrule">0</td>
+                              </tr>
+                              <tr valign="middle">
+                                 <td styleCode="Toprule Botrule Lrule Rrule">Pruritus</td>
+                                 <td styleCode="Toprule Botrule Lrule Rrule">2 (2.4)</td>
+                                 <td styleCode="Toprule Botrule Lrule Rrule">2 (5.3)</td>
+                              </tr>
+                              <tr valign="middle">
+                                 <td styleCode="Toprule Botrule Lrule Rrule">Tachycardia<sup>§</sup>
+                                 </td>
+                                 <td styleCode="Toprule Botrule Lrule Rrule">2 (2.4)</td>
+                                 <td styleCode="Toprule Botrule Lrule Rrule">0</td>
+                              </tr>
+                              <tr valign="middle">
+                                 <td styleCode="Toprule Botrule Lrule Rrule">Urticaria<sup>¶</sup>
+                                 </td>
+                                 <td styleCode="Toprule Botrule Lrule Rrule">2 (2.4)</td>
+                                 <td styleCode="Toprule Botrule Lrule Rrule">0</td>
+                              </tr>
+                           </tbody>
+                        </table>
+                        <paragraph>Additional adverse reactions reported in at least 2% of patients treated with POMBILITI in combination with Opfolda across the 3 clinical trials include: myalgia, arthralgia, increased blood pressure, pain, tremor, dyspepsia, asthenia, constipation, infusion site swelling, flank pain, malaise, paresthesia, somnolence, and decreased platelet count.</paragraph>
+                        <paragraph>
+                           <content styleCode="underline">Immunogenicity: Anti-Drug Antibody-Associated Adverse Reactions in Trial 1</content>
+                        </paragraph>
+                        <paragraph>Anaphylaxis or serious infusion-associated reactions (IARs) occurred in 1 (1.5%) POMBILITI‑treated patient (who previously received U.S.-approved alglucosidase alfa or a non-U.S.-approved alglucosidase alfa product) who had peak anti-cipaglucosidase alfa-atga antibody titer of 6,553,600 during the 52-week treatment period <content styleCode="italics">[see <linkHtml href="#s_1206">Clinical Pharmacology (12.6)</linkHtml>]</content>.</paragraph>
+                     </text>
+                     <effectiveTime value="20240729"/>
+                  </section>
+               </component>
+            </section>
+         </component>
+         <component>
+            <section ID="s_0800">
+               <id root="0d0c9e60-4d41-4b4c-a763-09fffcca9a73"/>
+               <code code="43684-0" codeSystem="2.16.840.1.113883.6.1" displayName="USE IN SPECIFIC POPULATIONS SECTION"/>
+               <title mediaType="text/x-hl7-title+xml">8 USE IN SPECIFIC POPULATIONS</title>
+               <effectiveTime value="20240115"/>
+               <excerpt>
+                  <highlight>
+                     <text>
+                        <paragraph>
+                           <content styleCode="italics">Lactation:</content> Breastfeeding not recommended. (<linkHtml href="#s_0802">8.2</linkHtml>)</paragraph>
+                        <br/>
+                     </text>
+                  </highlight>
+               </excerpt>
+               <component>
+                  <section ID="s_0801">
+                     <id root="54409bf5-bae7-40c3-ad9c-82f1cbfc7970"/>
+                     <code code="42228-7" codeSystem="2.16.840.1.113883.6.1" displayName="PREGNANCY SECTION"/>
+                     <title mediaType="text/x-hl7-title+xml">8.1 Pregnancy</title>
+                     <text>
+                        <paragraph>
+                           <content styleCode="underline">Risk Summary</content>
+                        </paragraph>
+                        <paragraph>Based on findings from animal reproduction studies, POMBILITI in combination with Opfolda may cause embryo-fetal harm when administered to a pregnant female and is contraindicated during pregnancy. In a rabbit embryo-fetal development study, great vessel and cardiac malformations were increased in offspring of pregnant rabbits treated with cipaglucosidase alfa-atga in combination with miglustat at 16-fold and 3-fold, respectively, the MRHD of POMBILITI and Opfolda based on plasma AUC exposure. A No Observed Adverse Effect Level (NOAEL) was not identified for the combination. In a pre- and post-natal development study in rats, increases in pup mortality were seen following maternal treatment with cipaglucosidase alfa-atga (400 mg/kg) in combination with miglustat, or with cipaglucosidase alfa-atga (400 mg/kg) alone. The NOAEL for cipaglucosidase alfa-atga alone is 150 mg/kg (5-fold the POMBILITI MRHD margin). A NOAEL for the combination was not identified. Margins at the lowest observed adverse effect level (LOAEL), relative to exposures at the MRHD of POMBILITI and Opfolda were 20-fold and 4-fold, respectively, based on plasma AUC exposure <content styleCode="italics">(see <linkHtml href="#data">Data</linkHtml>)</content>.</paragraph>
+                        <paragraph>There are no available human data on POMBILITI in combination with Opfolda use in pregnant females to evaluate for a drug-associated risk of major birth defects, miscarriage, or other adverse maternal or fetal outcomes.</paragraph>
+                        <paragraph ID="data">
+                           <content styleCode="underline">Data</content>
+                        </paragraph>
+                        <paragraph>
+                           <content styleCode="italics">Animal Data</content>
+                        </paragraph>
+                        <paragraph>Reproductive toxicity studies of cipaglucosidase alfa-atga in rats and rabbits included pretreatment with diphenhydramine (DPH) to prevent or minimize hypersensitivity reactions.</paragraph>
+                        <paragraph>In a rabbit embryo-fetal development study, cipaglucosidase alfa-atga (30, 70, or 175 mg/kg) was administered intravenously every other day to pregnant females during organogenesis (Gestation Day [GD] 7 through GD 19). Additional experimental groups received 25 mg/kg oral miglustat alone, or in combination with intravenous cipaglucosidase alfa-atga 175 mg/kg, with the same dosing frequency during organogenesis. Clusters of great vessel and cardiac malformations were increased in offspring of pregnant rabbits treated with the combination of cipaglucosidase alfa-atga and miglustat at 16-fold and 3-fold the MRHD of POMBILITI and Opfolda, respectively, based on plasma AUC exposure. A NOAEL for the combination was not identified. One fetus treated with cipaglucosidase alfa-atga alone (175 mg/kg) and one fetus treated with miglustat alone (25 mg/kg), each showed a similar cluster of these great vessel and cardiac malformations.</paragraph>
+                        <paragraph>In a rat embryo-fetal development study, cipaglucosidase alfa-atga (75, 150, or 400 mg/kg) was administered intravenously every other day to pregnant rats during organogenesis (GD 6 through GD 18). Additional experimental groups received 60 mg/kg oral miglustat alone, or in combination with intravenous cipaglucosidase alfa-atga 400 mg/kg, with the same dosing frequency during organogenesis. No evidence of adverse effects was noted in pregnant rats or their offspring in any experimental group. The margin at the NOAEL for cipaglucosidase alfa‑atga (400 mg/kg) was 20-fold the POMBILITI MRHD based on plasma AUC exposure. The margin at the NOAEL for miglustat (60 mg/kg) was 4-fold the Opfolda MRHD based on plasma AUC exposure.</paragraph>
+                        <paragraph>In a pre-and post-natal development study in rats, cipaglucosidase alfa-atga (75, 150, or 400 mg/kg) was administered intravenously every other day to pregnant females from GD 6 through GD 18, and from Lactation Day (LD) 1 through LD 19. Additional experimental groups received 60 mg/kg oral miglustat alone, or in combination with intravenous cipaglucosidase alfa‑atga 400 mg/kg, with the same dosing frequency during pregnancy and lactation. Maternal and pup mortality were increased with the combination, and pup mortality was also increased with cipaglucosidase alfa-atga 400 mg/kg alone. The NOAEL for cipaglucosidase alfa-atga alone is 150 mg/kg (5-fold the POMBILITI MRHD margin). A NOAEL was not identified for the combination, for which LOAEL margins at the MRHD of POMBILITI and Opfolda were 20-fold and 4-fold, respectively, based on plasma AUC exposure.</paragraph>
+                     </text>
+                     <effectiveTime value="20240115"/>
+                  </section>
+               </component>
+               <component>
+                  <section ID="s_0802">
+                     <id root="28db1de7-5178-4f6c-a989-5b5d1a3dc8e2"/>
+                     <code code="77290-5" codeSystem="2.16.840.1.113883.6.1" displayName="LACTATION SECTION"/>
+                     <title mediaType="text/x-hl7-title+xml">8.2 Lactation</title>
+                     <text>
+                        <paragraph>
+                           <content styleCode="underline">Risk Summary</content>
+                        </paragraph>
+                        <paragraph>There are no data on the presence of cipaglucosidase alfa-atga, alone or in combination with miglustat, in human milk, the effects on the breastfed infant, or the effects on milk production. Cipaglucosidase alfa‑atga is present in animal milk <content styleCode="italics">(see <linkHtml href="#data1">Data</linkHtml>)</content>. When a drug is present in animal milk, it is likely that the drug will be present in human milk. Based on findings in animal studies, the use of POMBILITI in combination with Opfolda may lead to serious adverse reactions in breastfed infants. Advise females that breastfeeding is not recommended while on treatment with POMBILITI in combination with Opfolda.</paragraph>
+                        <paragraph ID="data1">
+                           <content styleCode="underline">Data</content>
+                        </paragraph>
+                        <paragraph>Evaluation of milk in rats from the pre- and post-natal development study of cipaglucosidase alfa atga in combination with miglustat (400 mg/kg and 60 mg/kg, respectively) showed excretion of cipaglucosidase alfa-atga and secretion of miglustat in rat milk. In this study, the ratio of cipaglucosidase alfa-atga exposure in rat milk to cipaglucosidase alfa-atga exposure in rat plasma was &lt;4%, and the ratio of miglustat exposure in rat milk to the miglustat exposure in rat plasma was 1.7.<br/>The concentration of drug in animal milk does not necessarily predict the concentration of drug in human milk.</paragraph>
+                     </text>
+                     <effectiveTime value="20240115"/>
+                  </section>
+               </component>
+               <component>
+                  <section ID="s_0803">
+                     <id root="88c55f5d-dc3a-4e48-a0d5-31d615a6c766"/>
+                     <code code="77291-3" codeSystem="2.16.840.1.113883.6.1" displayName="FEMALES &amp; MALES OF REPRODUCTIVE POTENTIAL SECTION"/>
+                     <title mediaType="text/x-hl7-title+xml">8.3 Females and Males of Reproductive Potential</title>
+                     <text>
+                        <paragraph>POMBILITI in combination with Opfolda may cause embryo-fetal harm when administered to a pregnant female <content styleCode="italics">[see <linkHtml href="#s_0801">Use in Specific Populations (8.1)</linkHtml>]</content>.</paragraph>
+                        <paragraph>
+                           <content styleCode="underline">Pregnancy Testing</content>
+                        </paragraph>
+                        <paragraph>Verify the pregnancy status in females of reproductive potential prior to initiating treatment with POMBILITI in combination with Opfolda.</paragraph>
+                        <paragraph>
+                           <content styleCode="underline">Contraception</content>
+                        </paragraph>
+                        <paragraph>
+                           <content styleCode="italics">Females</content>
+                        </paragraph>
+                        <paragraph>Advise females of reproductive potential to use effective contraception during treatment with POMBILITI in combination with Opfolda and for at least 60 days after the last dose.</paragraph>
+                        <paragraph>
+                           <content styleCode="underline">Infertility</content>
+                        </paragraph>
+                        <paragraph>
+                           <content styleCode="italics">Females</content>
+                        </paragraph>
+                        <paragraph>Based on preimplantation loss observed in female rats treated with intravenous cipaglucosidase alfa-atga (400 mg/kg) in combination with oral miglustat (60 mg/kg) every other day for 14 days prior to mating, and continuing through GD 7, POMBILITI in combination with Opfolda may impair human female fertility. A NOAEL for the combination was not identified. The LOAEL margins are 27-fold and 4-fold the MRHD for POMBILITI and Opfolda, respectively. It is not known whether this preimplantation loss in female rats would be sustained if dosing with the combination were discontinued prior to mating <content styleCode="italics">[see <linkHtml href="#s_1301">Nonclinical Toxicology (13.1)</linkHtml>]</content>.</paragraph>
+                        <paragraph>
+                           <content styleCode="italics">Males</content>
+                        </paragraph>
+                        <paragraph>Based on reversible increases in preimplantation loss in male rats treated with the combination every other day for 28 days prior to mating, POMBILITI in combination with Opfolda may impair human male fertility. A NOAEL for the combination was not identified. The LOAEL margins are 27-fold and 4-fold the MRHD for POMBILITI and Opfolda, respectively <content styleCode="italics">[see <linkHtml href="#s_1301">Nonclinical Toxicology (13.1)</linkHtml>]</content>.</paragraph>
+                        <paragraph>For additional information about male fertility with the use of Opfolda, see the Opfolda Prescribing Information.</paragraph>
+                     </text>
+                     <effectiveTime value="20240115"/>
+                  </section>
+               </component>
+               <component>
+                  <section ID="s_0804">
+                     <id root="e4f4fc08-26f9-4b2b-813e-433e3c102b4c"/>
+                     <code code="34081-0" codeSystem="2.16.840.1.113883.6.1" displayName="PEDIATRIC USE SECTION"/>
+                     <title mediaType="text/x-hl7-title+xml">8.4 Pediatric Use</title>
+                     <text>
+                        <paragraph>Safety and effectiveness of POMBILITI in combination with Opfolda have not been established in pediatric patients with late-onset Pompe disease.</paragraph>
+                     </text>
+                     <effectiveTime value="20230814"/>
+                  </section>
+               </component>
+               <component>
+                  <section ID="s_0805">
+                     <id root="a7e53c04-359c-4aef-8da8-621f890981d5"/>
+                     <code code="34082-8" codeSystem="2.16.840.1.113883.6.1" displayName="GERIATRIC USE SECTION"/>
+                     <title mediaType="text/x-hl7-title+xml">8.5 Geriatric Use</title>
+                     <text>
+                        <paragraph>Of the total number of patients treated with POMBILITI in combination with Opfolda in clinical trials for LOPD, 17 (11%) were 65 to 74 years of age, and none were 75 years of age and older <content styleCode="italics">[see <linkHtml href="#s_1400">Clinical Studies (14)</linkHtml>]</content>.</paragraph>
+                        <paragraph>Clinical trials of POMBILITI in combination with Opfolda did not include sufficient numbers of patients 65 years of age and older to determine whether they respond differently from younger adult patients.</paragraph>
+                     </text>
+                     <effectiveTime value="20230814"/>
+                  </section>
+               </component>
+            </section>
+         </component>
+         <component>
+            <section ID="s_1100">
+               <id root="bc44c471-866c-412a-b56e-4ca650528730"/>
+               <code code="34089-3" codeSystem="2.16.840.1.113883.6.1" displayName="DESCRIPTION SECTION"/>
+               <title mediaType="text/x-hl7-title+xml">11 DESCRIPTION</title>
+               <text>
+                  <paragraph>Cipaglucosidase alfa-atga is a hydrolytic lysosomal glycogen‑specific recombinant human α‑glucosidase (rhGAA) enzyme derived from a Chinese Hamster Ovary (CHO) cell line using perfusion methodology, resulting in cellularly (CHO)‑derived N‑glycans. Cipaglucosidase alfa‑atga is a glycoprotein with 1.3 mols of bis‑mannose‑6‑phosphate (bis‑M6P) per mol of enzyme. Cipaglucosidase alfa-atga has a molecular weight of approximately 110 kDa.</paragraph>
+                  <paragraph>POMBILITI (cipaglucosidase alfa-atga) for injection is a sterile, white to slightly yellowish lyophilized powder with a cake-like appearance for intravenous use after reconstitution and dilution. Each single-dose vial contains 105 mg of cipaglucosidase alfa-atga and the inactive ingredients citric acid monohydrate (4.57 mg), mannitol (140 mg), polysorbate 80 (3.5 mg), and sodium citrate (39 mg). After reconstitution with Sterile Water for Injection, USP, the resultant concentration is 15 mg/mL with a pH of between 5.7 to 6.3.</paragraph>
+               </text>
+               <effectiveTime value="20230814"/>
+            </section>
+         </component>
+         <component>
+            <section ID="s_1200">
+               <id root="eb2822ed-1766-4030-8bc9-c773b3d3b510"/>
+               <code code="34090-1" codeSystem="2.16.840.1.113883.6.1" displayName="CLINICAL PHARMACOLOGY SECTION"/>
+               <title mediaType="text/x-hl7-title+xml">12 CLINICAL PHARMACOLOGY</title>
+               <effectiveTime value="20230814"/>
+               <component>
+                  <section ID="s_1201">
+                     <id root="c0ee015d-d95a-4379-a762-b9d84453cd3e"/>
+                     <code code="43679-0" codeSystem="2.16.840.1.113883.6.1" displayName="MECHANISM OF ACTION SECTION"/>
+                     <title mediaType="text/x-hl7-title+xml">12.1 Mechanism of Action</title>
+                     <text>
+                        <paragraph>Pompe disease (also known as glycogen storage disease type II, acid maltase deficiency, and glycogenosis type II) is an inherited disorder of glycogen metabolism caused by a deficiency of lysosomal acid alpha‑glucosidase (GAA) that degrades glycogen to glucose in the lysosome. GAA deficiency results in intra-lysosomal accumulation of glycogen in various tissues.</paragraph>
+                        <paragraph>Cipaglucosidase alfa-atga provides an exogenous source of GAA. The bis-M6P on cipaglucosidase alfa-atga mediates binding to M6P receptors on the cell surface with high affinity. After binding, it is internalized and transported into lysosomes where it undergoes proteolytic cleavage and N‑glycans trimming which are both required to yield the most mature and active form of GAA. Cipaglucosidase alfa-atga then exerts enzymatic activity in cleaving glycogen.</paragraph>
+                        <paragraph>Miglustat binds with, stabilizes, and reduces inactivation of cipaglucosidase alfa-atga in the blood after infusion.</paragraph>
+                     </text>
+                     <effectiveTime value="20230814"/>
+                  </section>
+               </component>
+               <component>
+                  <section ID="s_1202">
+                     <id root="e1bd484e-a07d-4761-b662-bf258e55e13a"/>
+                     <code code="43681-6" codeSystem="2.16.840.1.113883.6.1" displayName="PHARMACODYNAMICS SECTION"/>
+                     <title mediaType="text/x-hl7-title+xml">12.2 Pharmacodynamics</title>
+                     <text>
+                        <paragraph>In patients with LOPD, excess of glycogen is degraded to hexose tetrasaccharide (Hex4) which is then excreted in urine. The urinary Hex4 assay measures its major component, glucose tetrasaccharide (Glc4). Treatment with POMBILITI in combination with Opfolda resulted in reductions of urinary Glc4 concentrations (normalized by urine creatinine and reported as mmol Glc4/mol creatinine) in adult patients with LOPD.</paragraph>
+                        <paragraph>In ERT‑experienced patients in Trial 1 <content styleCode="italics">[see <linkHtml href="#s_1400">Clinical Studies (14)</linkHtml>]</content>, the baseline mean urinary Glc4 concentration was 4.6 mmol/mol and 7.2 mmol/mol in the POMBILITI in combination with Opfolda and the non-U.S.-approved alglucosidase alfa product with placebo groups, respectively. The mean percentage (SD) change in urinary Glc4 concentration from baseline to Week 52 was  ‑29% (32) and +20% (32) in the POMBILITI in combination with Opfolda and the non-U.S.-approved alglucosidase alfa product with placebo groups, respectively.</paragraph>
+                     </text>
+                     <effectiveTime value="20230814"/>
+                  </section>
+               </component>
+               <component>
+                  <section ID="s_1203">
+                     <id root="e62b9a5e-98a2-489a-80df-70dcd7025132"/>
+                     <code code="43682-4" codeSystem="2.16.840.1.113883.6.1" displayName="PHARMACOKINETICS SECTION"/>
+                     <title mediaType="text/x-hl7-title+xml">12.3 Pharmacokinetics</title>
+                     <text>
+                        <paragraph>The maximum plasma concentration (C<sub>max</sub>) and area under the plasma concentration-time curve (AUC) of cipaglucosidase alfa-atga following administration with 20 mg/kg of cipaglucosidase alfa-atga in combination with a single oral dose of 260 mg of Opfolda in adult patients with LOPD are summarized in <linkHtml href="#table3">Table 3</linkHtml>.</paragraph>
+                        <paragraph ID="table3">
+                           <content styleCode="bold">Table 3. Geometric Mean (CV%) Pharmacokinetic Parameters of Cipaglucosidase alfa‑atga in ERT‑experienced Adult Patients with LOPD</content>
+                        </paragraph>
+                        <table width="800" styleCode="Noautorules">
+                           <col width="34%" align="left"/>
+                           <col width="33%" align="center"/>
+                           <col width="33%" align="center"/>
+                           <tfoot>
+                              <tr>
+                                 <td align="left" colspan="3">CV: coefficient of variation; ERT: enzyme replacement therapy; LOPD: late-onset Pompe disease; PK: pharmacokinetic parameters; C<sub>max</sub>: maximum plasma concentration; AUC: plasma concentration-time curve </td>
+                              </tr>
+                              <tr>
+                                 <td align="left" colspan="3">
+                                    <sup>†</sup> POMBILITI in combination with Opfolda is not approved for use without Opfolda <content styleCode="italics">[see <linkHtml href="#s_0100">Indications and Usage (1)</linkHtml>]</content>.</td>
+                              </tr>
+                           </tfoot>
+                           <tbody>
+                              <tr valign="middle">
+                                 <td align="center" styleCode="Toprule Botrule Lrule Rrule Bold">PK Parameter</td>
+                                 <td align="center" styleCode="Toprule Botrule Lrule Rrule Bold">Cipaglucosidase alfa-atga 20 mg/kg in Combination with Opfolda 260 mg</td>
+                                 <td align="center" styleCode="Toprule Botrule Lrule Rrule Bold">Cipaglucosidase alfa-atga 20 mg/kg<sup>†</sup>
+                                 </td>
+                              </tr>
+                              <tr valign="middle">
+                                 <td styleCode="Toprule Botrule Lrule Rrule bold">C<sub>max</sub> (mcg/mL)</td>
+                                 <td styleCode="Toprule Botrule Lrule Rrule">345 (18.5)</td>
+                                 <td styleCode="Toprule Botrule Lrule Rrule">325 (13.5)</td>
+                              </tr>
+                              <tr valign="middle">
+                                 <td styleCode="Toprule Botrule Lrule Rrule bold">AUC<sub>0-inf</sub> (mcg*h/mL)</td>
+                                 <td styleCode="Toprule Botrule Lrule Rrule">1812 (20.8)</td>
+                                 <td styleCode="Toprule Botrule Lrule Rrule">1410 (15.9)</td>
+                              </tr>
+                           </tbody>
+                        </table>
+                        <paragraph>
+                           <content styleCode="underline">Distribution</content>
+                        </paragraph>
+                        <paragraph>The volume of distribution of cipaglucosidase alfa-atga ranged from 2.0 to 4.7 L.</paragraph>
+                        <paragraph>
+                           <content styleCode="underline">Elimination</content>
+                        </paragraph>
+                        <paragraph>When cipaglucosidase alfa-atga was administered with Opfolda, the mean total body clearance (CL) of cipaglucosidase alfa-atga was 0.8 L/hour and the mean half-life of cipaglucosidase alfa-atga was 2.1 hours in ERT‑experienced patients.</paragraph>
+                        <paragraph>
+                           <content styleCode="underline">Metabolism</content>
+                        </paragraph>
+                        <paragraph>The metabolic pathway of cipaglucosidase alfa-atga has not been characterized. Cipaglucosidase alfa-atga is expected to be metabolized into small peptides and amino acid via catabolic pathways.</paragraph>
+                        <paragraph>
+                           <content styleCode="underline">Specific Populations</content>
+                        </paragraph>
+                        <paragraph>Age (18 to 74 years) and sex did not have clinically meaningful effects on the pharmacokinetics of cipaglucosidase alfa-atga.</paragraph>
+                     </text>
+                     <effectiveTime value="20230814"/>
+                  </section>
+               </component>
+               <component>
+                  <section ID="s_1206">
+                     <id root="263ee146-b22c-40bc-b62d-d051bb6e6913"/>
+                     <code code="42229-5" codeSystem="2.16.840.1.113883.6.1" displayName="SPL UNCLASSIFIED SECTION"/>
+                     <title mediaType="text/x-hl7-title+xml">12.6 Immunogenicity</title>
+                     <text>
+                        <paragraph>The observed incidence of antidrug antibodies is highly dependent on the sensitivity and specificity of the assay. Differences in assay methods preclude meaningful comparisons of the incidence of antidrug antibodies (ADA) in the trials described below with the incidence of antidrug antibodies in other trials, including those of cipaglucosidase alfa-atga or of other cipaglucosidase alfa products.</paragraph>
+                        <paragraph>
+                           <linkHtml href="#table4">Table 4</linkHtml> presents the incidence of ADA and neutralizing antibodies against cipaglucosidase alfa-atga in adult patients with LOPD treated with POMBILITI in combination with Opfolda (who previously received U.S.-approved alglucosidase alfa or a non-U.S.-approved alglucosidase alfa product) during the 52-week treatment period in Trial 1 <content styleCode="italics">[see <linkHtml href="#s_1400">Clinical Studies (14)</linkHtml>]</content>.</paragraph>
+                        <paragraph>Antibodies against cipaglucosidase alfa-atga (anti-cipaglucosidase alfa-atga antibodies) were cross-reactive to alglucosidase alfa.</paragraph>
+                        <paragraph>Patients who had an IAR post‑treatment were tested for anti-cipaglucosidase alfa-atga IgE antibodies after the occurrence of the IAR. For ERT‑experienced patients, 25% of POMBILITI‑treated patients had IARs, with 1 patient having positive results for anti‑cipaglucosidase alfa-atga IgE antibodies <content styleCode="italics">[see <linkHtml href="#s_0601">Adverse Reactions (6.1)</linkHtml>]</content>. Overall, there was no clear trend in IAR occurrence with the development of anti-cipaglucosidase alfa-atga IgE antibodies.</paragraph>
+                        <paragraph>There was no identified clinically significant effect of ADA on pharmacokinetics or pharmacodynamics of POMBILITI in combination with Opfolda over the treatment duration of 52 weeks. Because of the small number of patients with negative ADA, the effect of ADA on the effectiveness of POMBILITI in combination with Opfolda is unknown.</paragraph>
+                        <paragraph ID="table4">
+                           <content styleCode="bold">Table 4. Incidence of Anti-Cipaglucosidase alfa-atga IgG Antibodies in ERT-experienced POMBILITI-treated Adult Patients with LOPD (Trial 1)<sup>*</sup>
+                           </content>
+                        </paragraph>
+                        <table width="800" styleCode="Noautorules">
+                           <col width="50%" align="left"/>
+                           <col width="50%" align="center"/>
+                           <tfoot>
+                              <tr>
+                                 <td align="left" colspan="3">ERT: enzyme replacement therapy; LOPD: late-onset Pompe disease </td>
+                              </tr>
+                              <tr>
+                                 <td align="left" colspan="3">∗ In this table, ADAs (antidrug antibodies) are anti-cipaglucosidase alfa-atga IgG antibodies, and neutralizing IgG antibodies are against cipaglucosidase alfa-atga.</td>
+                              </tr>
+                              <tr>
+                                 <td align="left" colspan="3">
+                                    <sup>†</sup> Enzyme activity measured as 4-methylumbelliferone-α-D-glucopyranoside (4-MU-α-Glc) hydrolysis</td>
+                              </tr>
+                              <tr>
+                                 <td align="left" colspan="3">
+                                    <sup>‡</sup> Enzyme activity measured as glycogen hydrolysis</td>
+                              </tr>
+                              <tr>
+                                 <td align="left" colspan="3">
+                                    <sup>§</sup> Inhibition of cation independent mannose-6-phosphate receptor (CI-MPR) binding</td>
+                              </tr>
+                              <tr>
+                                 <td align="left" colspan="3">
+                                    <sup>¶</sup> ERT‑experienced patients received U.S.-approved alglucosidase alfa or a non-U.S.-approved alglucosidase alfa product before they received POMBILITI.</td>
+                              </tr>
+                           </tfoot>
+                           <tbody>
+                              <tr valign="middle">
+                                 <td align="center" styleCode="Toprule Botrule Lrule Rrule Bold">Antidrug Antibodies</td>
+                                 <td align="center" styleCode="Toprule Botrule Lrule Rrule Bold">ERT-experienced Patients¶<br/> (N=65)</td>
+                              </tr>
+                              <tr valign="middle">
+                                 <td styleCode="Toprule Botrule Lrule Rrule">ADA at Baseline</td>
+                                 <td styleCode="Toprule Botrule Lrule Rrule">n=55 (85%)</td>
+                              </tr>
+                              <tr valign="middle">
+                                 <td styleCode="Toprule Botrule Lrule Rrule">ADA at Week 52</td>
+                                 <td styleCode="Toprule Botrule Lrule Rrule">n=58 (89%)</td>
+                              </tr>
+                              <tr valign="middle">
+                                 <td styleCode="Toprule Botrule Lrule Rrule">Inhibition of enzyme activity†</td>
+                                 <td styleCode="Toprule Botrule Lrule Rrule">n=26 (40%)</td>
+                              </tr>
+                              <tr valign="middle">
+                                 <td styleCode="Toprule Botrule Lrule Rrule">Inhibition of enzyme activity‡</td>
+                                 <td styleCode="Toprule Botrule Lrule Rrule">n=24 (37%)</td>
+                              </tr>
+                              <tr valign="middle">
+                                 <td styleCode="Toprule Botrule Lrule Rrule">Inhibition of CI-MPR binding§</td>
+                                 <td styleCode="Toprule Botrule Lrule Rrule">n=53 (82%)</td>
+                              </tr>
+                           </tbody>
+                        </table>
+                     </text>
+                     <effectiveTime value="20230814"/>
+                  </section>
+               </component>
+            </section>
+         </component>
+         <component>
+            <section ID="s_1300">
+               <id root="228117fc-fb29-4a7b-824e-74817a09c2b9"/>
+               <code code="43680-8" codeSystem="2.16.840.1.113883.6.1" displayName="NONCLINICAL TOXICOLOGY SECTION"/>
+               <title mediaType="text/x-hl7-title+xml">13 NONCLINICAL TOXICOLOGY</title>
+               <effectiveTime value="20240115"/>
+               <component>
+                  <section ID="s_1301">
+                     <id root="f8728116-ee61-4c70-b111-18d9ef9f0751"/>
+                     <code code="34083-6" codeSystem="2.16.840.1.113883.6.1" displayName="CARCINOGENESIS &amp; MUTAGENESIS &amp; IMPAIRMENT OF FERTILITY SECTION"/>
+                     <title mediaType="text/x-hl7-title+xml">13.1 Carcinogenesis, Mutagenesis, Impairment of Fertility</title>
+                     <text>
+                        <paragraph>
+                           <content styleCode="underline">Carcinogenesis</content>
+                        </paragraph>
+                        <paragraph>Studies in animals to evaluate the carcinogenic potential of cipaglucosidase alfa-atga have not been conducted. For information on an evaluation of carcinogenicity of miglustat in animals, see the Opfolda Prescribing Information.</paragraph>
+                        <paragraph>
+                           <content styleCode="underline">Mutagenesis</content>
+                        </paragraph>
+                        <paragraph>Studies to evaluate the mutagenic or genotoxic potential of cipaglucosidase alfa-atga have not been conducted. For information regarding the mutagenesis of miglustat, see the Opfolda Prescribing Information.</paragraph>
+                        <paragraph>
+                           <content styleCode="underline">Impairment of Fertility</content>
+                        </paragraph>
+                        <paragraph>In a fertility study in rats, cipaglucosidase alfa-atga (75, 150, or 400 mg/kg) was administered intravenously to male and female rats every other day. Dosing in males was initiated 28 days prior to cohabitation with untreated females. Dosing in females was initiated 14 days prior to cohabitation with untreated males and continued through GD 7. Additional experimental groups received 60 mg/kg oral miglustat alone, or in combination with intravenous cipaglucosidase alfa‑atga 400 mg/kg, with the same frequency over the same pre‑mating interval (males) or pre-mating and pregnancy interval (females).</paragraph>
+                        <paragraph>There was no effect on male or female rat fertility in any experimental group. Treatment of male rats with the combination was associated with increased preimplantation loss that was reversible. Treatment of female rats with the combination, or with miglustat alone, resulted in preimplantation loss; whether this would be reversible if treatment were discontinued prior to cohabitation is unknown. NOAELs were not identified for the combination in either male or female rats. The LOAEL margins for these doses represent 27-fold and 4-fold the MRHD of POMBILITI and Opfolda, respectively, based on plasma AUC exposure.</paragraph>
+                     </text>
+                     <effectiveTime value="20240115"/>
+                  </section>
+               </component>
+               <component>
+                  <section ID="s_1302">
+                     <id root="4be3bc25-da73-4f8a-8f92-3afa61d328fb"/>
+                     <code code="34091-9" codeSystem="2.16.840.1.113883.6.1" displayName="ANIMAL PHARMACOLOGY &amp; OR TOXICOLOGY SECTION"/>
+                     <title mediaType="text/x-hl7-title+xml">13.2 Animal Toxicology and/or Pharmacology</title>
+                     <text>
+                        <paragraph>For additional animal toxicology findings for miglustat, see the Opfolda Prescribing Information.</paragraph>
+                     </text>
+                     <effectiveTime value="20230814"/>
+                  </section>
+               </component>
+            </section>
+         </component>
+         <component>
+            <section ID="s_1400">
+               <id root="1afd7867-256d-47a3-8ebf-827a318fbb38"/>
+               <code code="34092-7" codeSystem="2.16.840.1.113883.6.1" displayName="CLINICAL STUDIES SECTION"/>
+               <title mediaType="text/x-hl7-title+xml">14 CLINICAL STUDIES</title>
+               <text>
+                  <paragraph>Trial 1 was a randomized, double‑blind, active‑controlled, international, multi‑center clinical trial (NCT#03729362) in patients ≥18 years old diagnosed with LOPD. Patients were randomized 2:1 to receive POMBILITI (20 mg/kg by intravenous infusion) in combination with Opfolda (260 mg orally for those ≥50 kg or 195 mg orally for those ≥40 kg to &lt;50 kg) or a non-U.S.-approved alglucosidase alfa product with placebo every other week for 52 weeks. The efficacy population included a total of 123 patients of whom 95 (77%) had received prior treatment with U.S.-approved alglucosidase alfa or a non-U.S.-approved alglucosidase alfa product (ERT‑experienced) and 28 (23%) were ERT‑naïve. More than two thirds (n=64, 67%) of ERT‑experienced patients had been on ERT treatment for more than 5 years prior to entering Trial 1 (mean of 7.4 years).</paragraph>
+                  <paragraph>Demographics, baseline sitting forced vital capacity (FVC) (% predicted), and 6-minute walk distance (6MWD) were generally similar between the 2 treatment groups (see <linkHtml href="#table5">Table 5</linkHtml> for baseline sitting FVC [percent predicted] values). Of the 123 randomized patients, 56 were males, baseline mean age was 47 years old (range from 19 to 74 years old), and mean age at diagnosis was 39 years old (range from 1 to 66). The racial groups for the patients consisted of 104 White (85%), 6 Japanese (5%), 6 Other racial group (5%), 4 Asian (3%), 1 Native Hawaiian or other Pacific Islander (1%), 1 American Indian or Alaska Native (1%), and 1 Black or African American (1%).</paragraph>
+                  <paragraph>Key efficacy endpoints included assessment of sitting FVC (% predicted) and 6MWD (<linkHtml href="#table5">Table 5</linkHtml> and <linkHtml href="#table6">Table 6</linkHtml>).</paragraph>
+                  <paragraph>
+                     <content styleCode="underline">Sitting FVC (Percent‑predicted) at 52 Weeks</content>
+                  </paragraph>
+                  <paragraph>Patients treated with POMBILITI in combination with Opfolda showed a mean change in sitting FVC from baseline at Week 52 of -1.1% as compared with patients treated with a non-U.S.-approved alglucosidase alfa product with placebo of -3.3%; the estimated treatment difference was 2.3% (95% CI: 0.02, 4.62).</paragraph>
+                  <paragraph>The ERT‑experienced patients treated with POMBILITI in combination with Opfolda showed a numerically favorable change in sitting FVC from baseline at Week 52 (<linkHtml href="#table5">Table 5</linkHtml> and <linkHtml href="#figure2">Figure 2</linkHtml>).</paragraph>
+                  <paragraph ID="table5">
+                     <content styleCode="bold">Table 5. Summary of Sitting FVC in Adults with LOPD by ERT Status at 52 Weeks in Trial 1</content>
+                  </paragraph>
+                  <table width="800" styleCode="Noautorules">
+                     <col width="20%" align="left"/>
+                     <col width="20%" align="center"/>
+                     <col width="20%" align="center"/>
+                     <col width="20%" align="center"/>
+                     <col width="20%" align="center"/>
+                     <tfoot>
+                        <tr>
+                           <td align="left" colspan="5">FVC: forced vital capacity; LOPD: late-onset Pompe disease; ERT: enzyme replacement therapy; SD: standard deviation; Diff.: difference; SE: standard error; CI: confidence interval</td>
+                        </tr>
+                        <tr>
+                           <td align="left" colspan="5">
+                              <sup>∗</sup> POMBILITI in combination with Opfolda is not approved for use in ERT-naïve patients with LOPD <content styleCode="italics">[see <linkHtml href="#s_0100">Indications and Usage (1)</linkHtml>]</content>. The ERT-naïve patient subgroup enrolled too few patients to conclusively interpret the data. For the ERT-naïve group, the treatment difference was estimated using a 2-sample t-test.</td>
+                        </tr>
+                        <tr>
+                           <td align="left" colspan="5">
+                              <sup>†</sup> A U.S.-approved alglucosidase alfa product was not used in this clinical trial. Conclusions cannot be drawn from this clinical trial regarding comparative effectiveness between a U.S.-approved alglucosidase alfa product and POMBILITI in combination with Opfolda for the treatment of adult patients with LOPD weighing ≥40 kg and who are not improving on their current ERT.</td>
+                        </tr>
+                        <tr>
+                           <td align="left" colspan="5">
+                              <sup>‡</sup> For the ERT‑experienced group, the treatment difference of the mean was estimated by analysis of covariance which included treatment, gender, baseline FVC, age, weight, and height in the model. Nominal p=0.006. Missing data at Week 52 was imputed using last observed values.</td>
+                        </tr>
+                     </tfoot>
+                     <tbody>
+                        <tr valign="bottom">
+                           <td align="center" styleCode="Toprule Botrule Lrule Rrule Bold">Efficacy Endpoint</td>
+                           <td colspan="2" align="center" styleCode="Toprule Botrule Lrule Rrule Bold">ERT-experienced</td>
+                           <td colspan="2" align="center" styleCode="Toprule Botrule Lrule Rrule Bold">ERT-naïve*</td>
+                        </tr>
+                        <tr valign="bottom">
+                           <td align="center" styleCode="Toprule Botrule Lrule Rrule Bold">Sitting FVC <br/>(% predicted)</td>
+                           <td align="center" styleCode="Toprule Botrule Lrule Rrule Bold">POMBILITI in Combination with Opfolda</td>
+                           <td align="center" styleCode="Toprule Botrule Lrule Rrule Bold">A Non-U.S.-Approved Alglucosidase alfa Product<sup>†</sup> with Placebo</td>
+                           <td align="center" styleCode="Toprule Botrule Lrule Rrule Bold">POMBILITI in Combination with Opfolda</td>
+                           <td align="center" styleCode="Toprule Botrule Lrule Rrule Bold">A Non-U.S.-Approved Alglucosidase alfa Product<sup>†</sup> with Placebo</td>
+                        </tr>
+                        <tr valign="middle">
+                           <td styleCode="Toprule Botrule Lrule Rrule">Baseline<br/>     n<br/>     Mean (SD)<br/>     Median</td>
+                           <td styleCode="Toprule Botrule Lrule Rrule">
+                              <br/> n=65<br/> 67.9 (19.1)<br/> 68.0</td>
+                           <td styleCode="Toprule Botrule Lrule Rrule">
+                              <br/> n=30<br/> 67.5 (21.0)<br/> 69.0</td>
+                           <td styleCode="Toprule Botrule Lrule Rrule">
+                              <br/> n=20<br/> 80.2 (18.7)<br/> 82.3</td>
+                           <td styleCode="Toprule Botrule Lrule Rrule">
+                              <br/> n=8<br/> 79.6 (21.0)<br/> 88.5</td>
+                        </tr>
+                        <tr valign="middle">
+                           <td styleCode="Toprule Botrule Lrule Rrule">Change from baseline at Week 52<br/>     n<br/>     Mean (SD)<br/>     Median</td>
+                           <td styleCode="Toprule Botrule Lrule Rrule">
+                              <br/>
+                              <br/> n=55<br/> 0.1 (5.9)<br/> 0.5</td>
+                           <td styleCode="Toprule Botrule Lrule Rrule">
+                              <br/>
+                              <br/> n=26<br/> -3.5 (4.7)<br/> -2.5</td>
+                           <td styleCode="Toprule Botrule Lrule Rrule">
+                              <br/>
+                              <br/> n=19<br/> -4.7 (6.2)<br/> -4.5</td>
+                           <td styleCode="Toprule Botrule Lrule Rrule">
+                              <br/>
+                              <br/> n=7<br/> -2.4 (6.3)<br/> -3.0</td>
+                        </tr>
+                        <tr valign="middle">
+                           <td styleCode="Toprule Botrule Lrule Rrule">Change to Week 52<br/>     Diff. of means (SE)<br/>     (95% CI)</td>
+                           <td colspan="2" styleCode="Toprule Botrule Lrule Rrule">
+                              <br/> 3.5 (1.3)<br/> (1.0, 6.0)<sup>‡</sup>
+                           </td>
+                           <td colspan="2" styleCode="Toprule Botrule Lrule Rrule">
+                              <br/> -1.9 (2.7)<br/> (-7.3, 3.6)</td>
+                        </tr>
+                     </tbody>
+                  </table>
+                  <paragraph ID="figure2">
+                     <content styleCode="bold">Figure 2. Mean Change (± SE) in Sitting FVC (% predicted) from Baseline to Week 52 in ERT-experienced Adults with LOPD in Trial 1<sup>*</sup>
+                     </content>
+                  </paragraph>
+                  <paragraph>
+                     <renderMultiMedia referencedObject="MM02"/>
+                  </paragraph>
+                  <paragraph>SE: standard error; FVC: forced vital capacity; ERT: enzyme replacement therapy; LOPD: late-onset Pompe disease</paragraph>
+                  <paragraph>∗ A U.S.-approved alglucosidase alfa product was not used in this clinical trial. Conclusions cannot be drawn from this clinical trial regarding comparative effectiveness between a U.S.-approved alglucosidase alfa product and POMBILITI in combination with Opfolda for the treatment of adult patients with LOPD weighing ≥40 kg and who are not improving on their current ERT.</paragraph>
+                  <paragraph>
+                     <content styleCode="underline">6 Minute Walk Distance (6MWD) at 52 Weeks</content>
+                  </paragraph>
+                  <paragraph>Patients treated with POMBILITI in combination with Opfolda walked on average 21 meters farther from baseline as compared to those treated with a non-U.S.-approved alglucosidase alfa product with placebo who walked 8 meters farther from baseline; the estimated treatment difference was 14 meters (95% CI: -1, 28).</paragraph>
+                  <paragraph>The ERT‑experienced patients treated with POMBILITI in combination with Opfolda showed a numerically favorable change in 6MWD from baseline at Week 52 (<linkHtml href="#table6">Table 6</linkHtml> and <linkHtml href="#figure3">Figure 3</linkHtml>).</paragraph>
+                  <paragraph ID="table6">
+                     <content styleCode="bold">Table 6. Summary of 6MWD in Adults with LOPD by ERT Status at 52 Weeks in Trial 1</content>
+                  </paragraph>
+                  <table width="800" styleCode="Noautorules">
+                     <col width="20%" align="left"/>
+                     <col width="20%" align="center"/>
+                     <col width="20%" align="center"/>
+                     <col width="20%" align="center"/>
+                     <col width="20%" align="center"/>
+                     <tfoot>
+                        <tr>
+                           <td align="left" colspan="5">6MWD: 6-minute walk distance; LOPD: late-onset Pompe disease; ERT: enzyme replacement therapy; SD: standard deviation; Diff.: difference; SE: standard error; CI: confidence interval</td>
+                        </tr>
+                        <tr>
+                           <td align="left" colspan="5">∗ POMBILITI in combination with Opfolda is not approved for use in ERT‑naïve patients with LOPD <content styleCode="italics">[see <linkHtml href="#s_0100">Indications and Usage (1)</linkHtml>]</content>. The ERT-naïve patient subgroup enrolled too few patients to conclusively interpret the data. For the ERT‑naïve group, the treatment difference was estimated using a 2-sample t-test. One ERT‑naïve subject in the control arm was excluded from this table because their change of 355 meters in 6MWD from baseline at Week 52 was a statistical outlier and not considered clinically plausible.</td>
+                        </tr>
+                        <tr>
+                           <td align="left" colspan="5">
+                              <sup>†</sup> A U.S.-approved alglucosidase alfa product was not used in this clinical trial. Conclusions cannot be drawn from this clinical trial regarding comparative effectiveness between a U.S.-approved alglucosidase alfa product and POMBILITI in combination with Opfolda for the treatment of adult patients with LOPD weighing ≥40 kg and who are not improving on their current ERT.</td>
+                        </tr>
+                        <tr>
+                           <td align="left" colspan="5">
+                              <sup>‡</sup> For the ERT‑experienced group, the treatment difference of the mean was estimated by nonparametric analysis of covariance which included treatment, gender, baseline 6MWD, age, weight, and height in the model. Nominal p=0.047. Missing data at Week 52 was imputed using last observed values.</td>
+                        </tr>
+                     </tfoot>
+                     <tbody>
+                        <tr valign="middle">
+                           <td align="center" styleCode="Toprule Botrule Lrule Rrule Bold">Efficacy Endpoint</td>
+                           <td colspan="2" align="center" styleCode="Toprule Botrule Lrule Rrule Bold">ERT‑experienced</td>
+                           <td colspan="2" align="center" styleCode="Toprule Botrule Lrule Rrule Bold">ERT‑naïve*</td>
+                        </tr>
+                        <tr valign="middle">
+                           <td align="center" styleCode="Toprule Botrule Lrule Rrule Bold">6MWD</td>
+                           <td align="center" styleCode="Toprule Botrule Lrule Rrule Bold">POMBILITI in Combination with Opfolda</td>
+                           <td align="center" styleCode="Toprule Botrule Lrule Rrule Bold">A Non-U.S.-Approved Alglucosidase alfa Product<sup>†</sup> with Placebo</td>
+                           <td align="center" styleCode="Toprule Botrule Lrule Rrule Bold">POMBILITI in Combination with Opfolda</td>
+                           <td align="center" styleCode="Toprule Botrule Lrule Rrule Bold">A Non-U.S.-Approved Alglucosidase alfa Product<sup>†</sup> with Placebo</td>
+                        </tr>
+                        <tr valign="middle">
+                           <td styleCode="Toprule Botrule Lrule Rrule">Baseline<br/>    n<br/>    Mean (SD)<br/>    Median</td>
+                           <td styleCode="Toprule Botrule Lrule Rrule">
+                              <br/> n=65<br/> 347 (110)<br/> 353</td>
+                           <td styleCode="Toprule Botrule Lrule Rrule">
+                              <br/> n=30<br/> 335 (114)<br/> 344</td>
+                           <td styleCode="Toprule Botrule Lrule Rrule">
+                              <br/> n=20<br/> 394 (112)<br/> 375</td>
+                           <td styleCode="Toprule Botrule Lrule Rrule">
+                              <br/> n=7<br/> 421 (136)<br/> 386</td>
+                        </tr>
+                        <tr valign="middle">
+                           <td styleCode="Toprule Botrule Lrule Rrule">Change from baseline at Week 52<br/>    n<br/>    Mean (SD)<br/>    Median</td>
+                           <td styleCode="Toprule Botrule Lrule Rrule">
+                              <br/>
+                              <br/> n=61<br/> 16 (39)<br/> 10</td>
+                           <td styleCode="Toprule Botrule Lrule Rrule">
+                              <br/>
+                              <br/> n=29<br/> 1 (40)<br/> -9</td>
+                           <td styleCode="Toprule Botrule Lrule Rrule">
+                              <br/>
+                              <br/> n=20<br/> 33 (49)<br/> 24</td>
+                           <td styleCode="Toprule Botrule Lrule Rrule">
+                              <br/>
+                              <br/> n=7<br/> 38 (29)<br/> 34</td>
+                        </tr>
+                        <tr valign="middle">
+                           <td styleCode="Toprule Botrule Lrule Rrule">Change to Week 52<br/>    Diff. of means (SE)<br/>    (95% CI)</td>
+                           <td colspan="2" styleCode="Toprule Botrule Lrule Rrule">
+                              <br/> 17 (8)<br/> (0.2, 33)<sup>‡</sup>
+                           </td>
+                           <td colspan="2" styleCode="Toprule Botrule Lrule Rrule">
+                              <br/> -5 (20)<br/> (-45, 36)</td>
+                        </tr>
+                     </tbody>
+                  </table>
+                  <paragraph ID="figure3">
+                     <content styleCode="bold">Figure 3. Mean Change (± SE) of 6MWD from Baseline to Week 52 in ERT‑experienced Adults with LOPD in Trial 1<sup>*</sup>
+                     </content>
+                  </paragraph>
+                  <paragraph>
+                     <renderMultiMedia referencedObject="MM03"/>
+                  </paragraph>
+                  <paragraph>SE: standard error; 6MWD: 6-minute walk distance; ERT: enzyme replacement therapy; LOPD: late-onset Pompe disease</paragraph>
+                  <paragraph>∗ A U.S.-approved alglucosidase alfa product was not used in this clinical trial. Conclusions cannot be drawn from this clinical trial regarding comparative effectiveness between a U.S.-approved alglucosidase alfa product and POMBILITI in combination with Opfolda for the treatment of adult patients with LOPD weighing ≥40 kg and who are not improving on their current ERT.</paragraph>
+               </text>
+               <effectiveTime value="20240115"/>
+               <component>
+                  <observationMedia ID="MM02">
+                     <text>Figure 2</text>
+                     <value mediaType="image/jpeg" xsi:type="ED">
+                        <reference value="pombiliti-02.jpg"/>
+                     </value>
+                  </observationMedia>
+               </component>
+               <component>
+                  <observationMedia ID="MM03">
+                     <text>Figure 3</text>
+                     <value mediaType="image/jpeg" xsi:type="ED">
+                        <reference value="pombiliti-03.jpg"/>
+                     </value>
+                  </observationMedia>
+               </component>
+            </section>
+         </component>
+         <component>
+            <section ID="s_1600">
+               <id root="9b6c7370-541f-11ef-a886-0800200c9a66"/>
+               <code code="34069-5" codeSystem="2.16.840.1.113883.6.1" displayName="HOW SUPPLIED SECTION"/>
+               <title mediaType="text/x-hl7-title+xml">16 HOW SUPPLIED/STORAGE AND HANDLING</title>
+               <text>
+                  <paragraph>
+                     <content styleCode="underline">How Supplied</content>
+                  </paragraph>
+                  <paragraph>POMBILITI (cipaglucosidase alfa-atga) for injection is supplied as a sterile, white to slightly yellowish lyophilized powder with a cake-like appearance in a single‑dose vial. POMBILITI does not contain any preservatives. See <linkHtml href="#table7">Table 7</linkHtml> for the available POMBILITI packages.</paragraph>
+                  <paragraph ID="table7">
+                     <content styleCode="bold">Table 7. POMBILITI Cartons</content>
+                  </paragraph>
+                  <table width="750" styleCode="Noautorules">
+                     <col width="50%" align="center"/>
+                     <col width="50%" align="center"/>
+                     <tbody>
+                        <tr valign="middle">
+                           <td align="center" styleCode="Toprule Botrule Lrule Rrule Bold">Carton</td>
+                           <td align="center" styleCode="Toprule Botrule Lrule Rrule Bold">NDC</td>
+                        </tr>
+                        <tr valign="middle">
+                           <td align="left" styleCode="Toprule Botrule Lrule Rrule">Contains one (1) 105 mg single-dose vial</td>
+                           <td styleCode="Toprule Botrule Lrule Rrule">71904‑200‑01</td>
+                        </tr>
+                        <tr valign="middle">
+                           <td align="left" styleCode="Toprule Botrule Lrule Rrule">Contains ten (10) 105 mg single-dose vials</td>
+                           <td styleCode="Toprule Botrule Lrule Rrule">71904‑200‑02</td>
+                        </tr>
+                        <tr valign="middle">
+                           <td align="left" styleCode="Toprule Botrule Lrule Rrule">Contains twenty-five (25) 105 mg single-dose vials</td>
+                           <td styleCode="Toprule Botrule Lrule Rrule">71904‑200‑03</td>
+                        </tr>
+                     </tbody>
+                  </table>
+                  <paragraph>
+                     <content styleCode="underline">Storage and Handling</content>
+                  </paragraph>
+                  <paragraph>Store refrigerated at 2℃ to 8℃ (36℉ to 46℉) in the original carton to protect from light. Do not freeze.</paragraph>
+                  <paragraph>For storage of the reconstituted solution and diluted solution <content styleCode="italics">[see <linkHtml href="#s_0205">Dosage and Administration (2.5)</linkHtml>]</content>.</paragraph>
+               </text>
+               <effectiveTime value="20230814"/>
+            </section>
+         </component>
+         <component>
+            <section ID="s_1700">
+               <id root="796f4979-6686-4686-8c3c-63ee386914b8"/>
+               <code code="34076-0" codeSystem="2.16.840.1.113883.6.1" displayName="INFORMATION FOR PATIENTS SECTION"/>
+               <title mediaType="text/x-hl7-title+xml">17 PATIENT COUNSELING INFORMATION</title>
+               <text>
+                  <paragraph>POMBILITI must be administered in combination with Opfolda. Refer to the Opfolda Prescribing Information for Opfolda patient counseling information.</paragraph>
+                  <paragraph>
+                     <content styleCode="underline">Administration</content>
+                     <br/>Advise the patient and caregiver to follow the timeline recommendations for taking Opfolda prior to the intravenous infusion with POMBILITI <content styleCode="italics">[see <linkHtml href="#s_0202">Dosage and Administration (2.2)</linkHtml>]</content>.</paragraph>
+                  <paragraph>
+                     <content styleCode="underline">Hypersensitivity Reactions (Including Anaphylaxis) and Infusion-Associated Reactions (IARs)</content>
+                     <br/>Advise the patient and caregiver that reactions related to the infusion may occur during and after POMBILITI in combination with Opfolda treatment, including life-threatening hypersensitivity reactions, including anaphylaxis, and IARs. Inform the patient and caregiver of the signs and symptoms of hypersensitivity reactions and IARs and to seek medical care should signs and symptoms occur <content styleCode="italics">[see <linkHtml href="#s_0501">Warnings and Precaution (5.1</linkHtml>, <linkHtml href="#s_0502">5.2)</linkHtml>]</content>.</paragraph>
+                  <paragraph>
+                     <content styleCode="underline">Risk of Acute Cardiorespiratory Failure</content>
+                     <br/>Advise the patient and caregiver that a patient with underlying respiratory illness or compromised cardiac or respiratory function may be at risk of acute cardiorespiratory failure from volume overload during POMBILITI infusion and to seek medical care should signs and symptoms occur <content styleCode="italics">[see <linkHtml href="#s_0503">Warnings and Precaution (5.3)</linkHtml>]</content>.</paragraph>
+                  <paragraph>
+                     <content styleCode="underline">Embryo-Fetal Toxicity</content>
+                     <br/>POMBILITI in combination with Opfolda may cause embryo-fetal harm. Advise a female patient and caregiver to inform their healthcare provider of a known or suspected pregnancy <content styleCode="italics">[see <linkHtml href="#s_0504">Warnings and Precautions (5.4)</linkHtml> and <linkHtml href="#s_0801">Use in Specific Populations (8.1)</linkHtml>]</content>.</paragraph>
+                  <paragraph>Advise a female of reproductive potential to use effective contraception during treatment with POMBILITI in combination with Opfolda and for at least 60 days after the last dose <content styleCode="italics">[see <linkHtml href="#s_0801">Use in Specific Populations (8.1</linkHtml>, <linkHtml href="#s_0803">8.3)</linkHtml>]</content>.</paragraph>
+                  <paragraph>
+                     <content styleCode="underline">Lactation</content>
+                     <br/>Advise a lactating female not to breastfeed during treatment with POMBILITI in combination with Opfolda <content styleCode="italics">[see <linkHtml href="#s_0802">Use in Specific Populations (8.2)</linkHtml>]</content>.</paragraph>
+                  <paragraph>
+                     <content styleCode="underline">Infertility</content>
+                     <br/>Advise the male or female of reproductive potential that POMBILITI in combination with Opfolda may impair fertility <content styleCode="italics">[see <linkHtml href="#s_0803">Use in Specific Populations (8.3)</linkHtml>]</content>.</paragraph>
+                  <br/>
+                  <paragraph>Manufactured by:
+						<br/>Amicus Therapeutics US, LLC
+							<br/>3675 Market Street
+							<br/>Philadelphia, PA 19104</paragraph>
+                  <paragraph>U.S. License No. 2224</paragraph>
+                  <br/>
+                  <paragraph>POMBILITI and Opfolda are registered trademarks of Amicus Therapeutics, Inc.
+							<br/>For more information, go to pombilitiopfoldahcp.com.</paragraph>
+               </text>
+               <effectiveTime value="20240729"/>
+            </section>
+         </component>
+         <component>
+            <section ID="s_pdp01">
+               <id root="430a7322-401a-43f2-b396-d1535b9ed986"/>
+               <code code="51945-4" codeSystem="2.16.840.1.113883.6.1" displayName="PACKAGE LABEL.PRINCIPAL DISPLAY PANEL"/>
+               <title mediaType="text/x-hl7-title+xml">PRINCIPAL DISPLAY PANEL - NDC: 71904-200-01 - 105 mg/vial 1 Count Vial Label</title>
+               <text>
+                  <paragraph>
+                     <renderMultiMedia referencedObject="MM04"/>
+                  </paragraph>
+               </text>
+               <effectiveTime value="20230901"/>
+               <component>
+                  <observationMedia ID="MM04">
+                     <text>1 Count Carton Label</text>
+                     <value mediaType="image/jpeg" xsi:type="ED">
+                        <reference value="pombiliti-04.jpg"/>
+                     </value>
+                  </observationMedia>
+               </component>
+            </section>
+         </component>
+         <component>
+            <section ID="s_pdp02">
+               <id root="66d5918f-d914-42c7-a5f9-bb13307b56f7"/>
+               <code code="51945-4" codeSystem="2.16.840.1.113883.6.1" displayName="PACKAGE LABEL.PRINCIPAL DISPLAY PANEL"/>
+               <title mediaType="text/x-hl7-title+xml">PRINCIPAL DISPLAY PANEL - NDC: 71904-200-01 - 105 mg/vial 1 Count Carton Label</title>
+               <text>
+                  <paragraph>
+                     <renderMultiMedia referencedObject="MM05"/>
+                  </paragraph>
+                  <br/>
+                  <br/>
+               </text>
+               <effectiveTime value="20230901"/>
+               <component>
+                  <observationMedia ID="MM05">
+                     <text>1 Count Vial Label</text>
+                     <value mediaType="image/jpeg" xsi:type="ED">
+                        <reference value="pombiliti-05.jpg"/>
+                     </value>
+                  </observationMedia>
+               </component>
+            </section>
+         </component>
+         <component>
+            <section ID="s_pdp03">
+               <id root="c8eefcf8-5564-4406-8738-b2f71d5ab15b"/>
+               <code code="51945-4" codeSystem="2.16.840.1.113883.6.1" displayName="PACKAGE LABEL.PRINCIPAL DISPLAY PANEL"/>
+               <title mediaType="text/x-hl7-title+xml">PRINCIPAL DISPLAY PANEL - NDC: 71904-200-02 - 105 mg/vial 10 Count Multipack Label</title>
+               <text>
+                  <paragraph>
+                     <renderMultiMedia referencedObject="MM06"/>
+                  </paragraph>
+                  <br/>
+                  <br/>
+               </text>
+               <effectiveTime value="20230901"/>
+               <component>
+                  <observationMedia ID="MM06">
+                     <text>10 Count Multipack Label</text>
+                     <value mediaType="image/jpeg" xsi:type="ED">
+                        <reference value="pombiliti-06.jpg"/>
+                     </value>
+                  </observationMedia>
+               </component>
+            </section>
+         </component>
+         <component>
+            <section ID="s_pdp04">
+               <id root="96004a12-76c8-4ef8-a222-c635c353372a"/>
+               <code code="51945-4" codeSystem="2.16.840.1.113883.6.1" displayName="PACKAGE LABEL.PRINCIPAL DISPLAY PANEL"/>
+               <title mediaType="text/x-hl7-title+xml">PRINCIPAL DISPLAY PANEL - NDC: 71904-200-03 - 105 mg/vial 25 Count Multipack Label</title>
+               <text>
+                  <paragraph>
+                     <renderMultiMedia referencedObject="MM07"/>
+                  </paragraph>
+                  <br/>
+                  <br/>
+               </text>
+               <effectiveTime value="20230901"/>
+               <component>
+                  <observationMedia ID="MM07">
+                     <text>25 Count Multipack Label</text>
+                     <value mediaType="image/jpeg" xsi:type="ED">
+                        <reference value="pombiliti-07.jpg"/>
+                     </value>
+                  </observationMedia>
+               </component>
+            </section>
+         </component>
+      </structuredBody>
+   </component>
+</document>

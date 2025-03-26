@@ -1,0 +1,543 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="http://www.fda.gov/oc/datacouncil/stylesheets/spl/spl.xsl" type="text/xsl"?>
+<document xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:hl7-org:v3 http://www.fda.gov/oc/datacouncil/schemas/spl/spl.xsd">
+<id root="E516A136-46DD-AF5A-4CC5-BC93BF8CF980" />
+<code code="34391-3" codeSystem="2.16.840.1.113883.6.1" displayName="HUMAN PRESCRIPTION DRUG LABELING" />
+<title>INAPSINE<sup>&#174;</sup> (DROPERIDOL) INJECTION</title>
+<effectiveTime value="20070809" />
+<setId root="F4FA5E60-5F70-46D7-8E29-DFCF8B783F2C" />
+<versionNumber value="1" />
+<author>
+<time />
+<assignedEntity>
+<representedOrganization>
+<name>Taylor Pharmaceuticals</name>
+</representedOrganization>
+</assignedEntity>
+</author>
+<component>
+<structuredBody>
+<component>
+<section>
+<id root="7B093B37-917E-BD56-D64F-5611E18E086A" />
+<effectiveTime value="20070809" />
+<subject>
+<manufacturedProduct>
+<manufacturedMedicine>
+<code code="11098-010" codeSystem="2.16.840.1.113883.6.69" displayName="NDC" />
+<name>INAPSINE</name>
+<formCode code="C42946" codeSystem="2.16.840.1.113883.3.26.1.1" displayName="INJECTION" />
+<activeIngredient>
+<quantity>
+<numerator unit="mg" value="2.5">
+<translation code="C28253" codeSystem="2.16.840.1.113883.3.26.1.1" displayName="MILLIGRAM" value="2.5" />
+</numerator>
+<denominator unit="mL" value="1">
+<translation code="C28254" codeSystem="2.16.840.1.113883.3.26.1.1" displayName="MILLILITER" value="1" />
+</denominator>
+</quantity>
+<activeIngredientSubstance>
+<code code="O9U0F09D5X" codeSystem="2.16.840.1.113883.4.9" />
+<name>droperidol</name>
+<activeMoiety>
+<activeMoiety>
+<code code="O9U0F09D5X" codeSystem="2.16.840.1.113883.4.9" />
+<name>droperidol</name>
+</activeMoiety>
+</activeMoiety>
+</activeIngredientSubstance>
+</activeIngredient>
+<asEntityWithGeneric>
+<genericMedicine>
+<name>droperidol</name>
+</genericMedicine>
+</asEntityWithGeneric>
+<inactiveIngredient>
+<inactiveIngredientSubstance>
+<code code="33X04XA5AT" codeSystem="2.16.840.1.113883.4.9" />
+<name>lactic acid</name>
+</inactiveIngredientSubstance>
+</inactiveIngredient>
+<asContent>
+<quantity>
+<numerator unit="mL" value="1">
+<translation code="C28254" codeSystem="2.16.840.1.113883.3.26.1.1" displayName="MILLILITER" value="1" />
+</numerator>
+<denominator value="1">
+<translation value="1" />
+</denominator>
+</quantity>
+<containerPackagedMedicine>
+<code />
+<formCode code="C43165" codeSystem="2.16.840.1.113883.3.26.1.1" displayName="AMPULE" />
+<asContent>
+<quantity>
+<numerator unit="1" value="10">
+<translation code="C48473" codeSystem="2.16.840.1.113883.3.26.1.1" displayName="AMPULE" value="10" />
+</numerator>
+<denominator value="1">
+<translation value="1" />
+</denominator>
+</quantity>
+<containerPackagedMedicine>
+<code code="11098-010-01" codeSystem="2.16.840.1.113883.6.69" displayName="NDC" />
+<formCode code="C43233" codeSystem="2.16.840.1.113883.3.26.1.1" displayName="PACKAGE" />
+</containerPackagedMedicine>
+</asContent>
+</containerPackagedMedicine>
+</asContent>
+<asContent>
+<quantity>
+<numerator unit="mL" value="2">
+<translation code="C28254" codeSystem="2.16.840.1.113883.3.26.1.1" displayName="MILLILITER" value="2" />
+</numerator>
+<denominator value="1">
+<translation value="1" />
+</denominator>
+</quantity>
+<containerPackagedMedicine>
+<code />
+<formCode code="C43165" codeSystem="2.16.840.1.113883.3.26.1.1" displayName="AMPULE" />
+<asContent>
+<quantity>
+<numerator unit="1" value="10">
+<translation code="C48473" codeSystem="2.16.840.1.113883.3.26.1.1" displayName="AMPULE" value="10" />
+</numerator>
+<denominator value="1">
+<translation value="1" />
+</denominator>
+</quantity>
+<containerPackagedMedicine>
+<code code="11098-010-02" codeSystem="2.16.840.1.113883.6.69" displayName="NDC" />
+<formCode code="C43233" codeSystem="2.16.840.1.113883.3.26.1.1" displayName="PACKAGE" />
+</containerPackagedMedicine>
+</asContent>
+</containerPackagedMedicine>
+</asContent>
+</manufacturedMedicine>
+<consumedIn>
+<substanceAdministration>
+<routeCode code="C38276" codeSystem="2.16.840.1.113883.3.26.1.1" displayName="INTRAVENOUS" />
+</substanceAdministration>
+</consumedIn>
+<consumedIn>
+<substanceAdministration>
+<routeCode code="C28161" codeSystem="2.16.840.1.113883.3.26.1.1" displayName="INTRAMUSCULAR" />
+</substanceAdministration>
+</consumedIn>
+</manufacturedProduct>
+</subject>
+<subject>
+<manufacturedProduct>
+<manufacturedMedicine>
+<code code="11098-531" codeSystem="2.16.840.1.113883.6.69" displayName="NDC" />
+<name>INAPSINE</name>
+<formCode code="C42946" codeSystem="2.16.840.1.113883.3.26.1.1" displayName="INJECTION" />
+<activeIngredient>
+<quantity>
+<numerator unit="mg" value="2.5">
+<translation code="C28253" codeSystem="2.16.840.1.113883.3.26.1.1" displayName="MILLIGRAM" value="2.5" />
+</numerator>
+<denominator unit="mL" value="1">
+<translation code="C28254" codeSystem="2.16.840.1.113883.3.26.1.1" displayName="MILLILITER" value="1" />
+</denominator>
+</quantity>
+<activeIngredientSubstance>
+<code code="O9U0F09D5X" codeSystem="2.16.840.1.113883.4.9" />
+<name>droperidol</name>
+<activeMoiety>
+<activeMoiety>
+<code code="O9U0F09D5X" codeSystem="2.16.840.1.113883.4.9" />
+<name>droperidol</name>
+</activeMoiety>
+</activeMoiety>
+</activeIngredientSubstance>
+</activeIngredient>
+<asEntityWithGeneric>
+<genericMedicine>
+<name>droperidol</name>
+</genericMedicine>
+</asEntityWithGeneric>
+<inactiveIngredient>
+<inactiveIngredientSubstance>
+<code code="33X04XA5AT" codeSystem="2.16.840.1.113883.4.9" />
+<name>lactic acid</name>
+</inactiveIngredientSubstance>
+</inactiveIngredient>
+<asContent>
+<quantity>
+<numerator unit="mL" value="1">
+<translation code="C28254" codeSystem="2.16.840.1.113883.3.26.1.1" displayName="MILLILITER" value="1" />
+</numerator>
+<denominator value="1">
+<translation value="1" />
+</denominator>
+</quantity>
+<containerPackagedMedicine>
+<code />
+<formCode code="C43226" codeSystem="2.16.840.1.113883.3.26.1.1" displayName="VIAL" />
+<asContent>
+<quantity>
+<numerator unit="1" value="25">
+<translation code="C48551" codeSystem="2.16.840.1.113883.3.26.1.1" displayName="VIAL" value="25" />
+</numerator>
+<denominator value="1">
+<translation value="1" />
+</denominator>
+</quantity>
+<containerPackagedMedicine>
+<code code="11098-531-01" codeSystem="2.16.840.1.113883.6.69" displayName="NDC" />
+<formCode code="C43233" codeSystem="2.16.840.1.113883.3.26.1.1" displayName="PACKAGE" />
+</containerPackagedMedicine>
+</asContent>
+</containerPackagedMedicine>
+</asContent>
+<asContent>
+<quantity>
+<numerator unit="mL" value="2">
+<translation code="C28254" codeSystem="2.16.840.1.113883.3.26.1.1" displayName="MILLILITER" value="2" />
+</numerator>
+<denominator value="1">
+<translation value="1" />
+</denominator>
+</quantity>
+<containerPackagedMedicine>
+<code />
+<formCode code="C43226" codeSystem="2.16.840.1.113883.3.26.1.1" displayName="VIAL" />
+<asContent>
+<quantity>
+<numerator unit="1" value="25">
+<translation code="C48551" codeSystem="2.16.840.1.113883.3.26.1.1" displayName="VIAL" value="25" />
+</numerator>
+<denominator value="1">
+<translation value="1" />
+</denominator>
+</quantity>
+<containerPackagedMedicine>
+<code code="11098-531-02" codeSystem="2.16.840.1.113883.6.69" displayName="NDC" />
+<formCode code="C43233" codeSystem="2.16.840.1.113883.3.26.1.1" displayName="PACKAGE" />
+</containerPackagedMedicine>
+</asContent>
+</containerPackagedMedicine>
+</asContent>
+</manufacturedMedicine>
+<consumedIn>
+<substanceAdministration>
+<routeCode code="C38276" codeSystem="2.16.840.1.113883.3.26.1.1" displayName="INTRAVENOUS" />
+</substanceAdministration>
+</consumedIn>
+<consumedIn>
+<substanceAdministration>
+<routeCode code="C28161" codeSystem="2.16.840.1.113883.3.26.1.1" displayName="INTRAMUSCULAR" />
+</substanceAdministration>
+</consumedIn>
+</manufacturedProduct>
+</subject>
+</section>
+</component>
+<component>
+<section>
+<id root="9190089F-4B59-9170-105F-8E837ABD0CB0" />
+<code code="42229-5" codeSystem="2.16.840.1.113883.6.1" displayName="SPL UNCLASSIFIED SECTION" />
+<title />
+<text><paragraph><content styleCode="bold">FOR INTRAVENOUS OR INTRAMUSCULAR USE ONLY</content></paragraph><paragraph><content styleCode="bold">Rx only</content></paragraph></text>
+<effectiveTime value="20070809" />
+</section>
+</component>
+<component>
+<section ID="BOX">
+<id root="4D1DC6D5-2035-D56A-81E1-843690141BFC" />
+<code code="34066-1" codeSystem="2.16.840.1.113883.6.1" displayName="BOXED WARNING SECTION" />
+<title>WARNING</title>
+<text><paragraph><content styleCode="bold">Cases of QT prolongation and/or torsade de pointes have been reported in patients receiving INAPSINE at doses at or below recommended doses. Some cases have occurred in patients with no known risk factors for QT prolongation and some cases have been fatal.</content></paragraph><paragraph>Due to its potential for serious proarrhythmic effects and death, INAPSINE should be reserved for use in the treatment of patients who fail to show an acceptable response to other adequate treatments, either because of insufficient effectiveness or the inability to achieve an effective dose due to intolerable adverse effects from those drugs (see <linkHtml href="#WARNINGS">Warnings</linkHtml>, <linkHtml href="#ADVERSE">Adverse Reactions</linkHtml>, <linkHtml href="#CONTRAINDICATIONS">Contraindications</linkHtml>, and <linkHtml href="#PRECAUTIONS">Precautions</linkHtml>).</paragraph><paragraph>Cases of QT prolongation and serious arrhythmias (e.g., torsade de pointes) have been reported in patients treated with INAPSINE. Based on these reports, all patients should undergo a 12-lead ECG prior to administration of INAPSINE to determine if a prolonged QT interval (i.e., QTc greater than 440 msec for males or 450 msec for females) is present. If there is a prolonged QT interval, INAPSINE should <content styleCode="underline">NOT</content> be administered. For patients in whom the potential benefit of INAPSINE treatment is felt to outweigh the risks of potentially serious arrhythmias, ECG monitoring should be performed prior to treatment and continued for 2 to 3 hours after completing treatment to monitor for arrhythmias.</paragraph><paragraph>INAPSINE is contraindicated in patients with known or suspected QT prolongation, including patients with congenital long QT syndrome.</paragraph><paragraph>INAPSINE should be administered with extreme caution to patients who may be at risk for development of prolonged QT syndrome (e.g., congestive heart failure, bradycardia, use of a diuretic, cardiac hypertrophy, hypokalemia, hypomagnesemia, or administration of other drugs known to increase the QT interval). Other risk factors may include age over 65 years, alcohol abuse, and use of agents such as benzodiazepines, volatile anesthetics, and IV opiates. Droperidol should be initiated at a low dose and adjusted upward, with caution, as needed to achieve the desired effect.</paragraph></text>
+<effectiveTime value="20070809" />
+</section>
+</component>
+<component>
+<section>
+<id root="7D3DD2C2-1E45-0AF6-3854-EA8816CD262C" />
+<code code="34089-3" codeSystem="2.16.840.1.113883.6.1" displayName="DESCRIPTION SECTION" />
+<title>DESCRIPTION</title>
+<text><paragraph>INAPSINE contains droperidol, a neuroleptic (tranquilizer) agent. INAPSINE&#174; (droperidol) Injection is available in ampules and vials. Each milliliter contains 2.5 mg of droperidol in an aqueous solution adjusted to pH 3.4 &#177; 0.4 with lactic acid. Droperidol is chemically identified as 1-(1-[3-(p-fluorobenzoyl) propyl]-1,2,3,6-tetrahydro-4-pyridyl)-2-benzimidazolinone with a molecular weight of 379.43. The structural formula of droperidol is:</paragraph><renderMultiMedia referencedObject="MM1" /><paragraph>Molecular formula: C<sub>22</sub>H<sub>22</sub>FN<sub>3</sub>O<sub>2</sub>, partition coefficient in n-octanol: water: 3.46, pKa: 7.46</paragraph><paragraph>INAPSINE is a sterile, non-pyrogenic, aqueous solution for intravenous or intramuscular injection.</paragraph></text>
+<effectiveTime value="20070809" />
+<component>
+<observationMedia ID="MM1">
+<value mediaType="image/jpeg" xsi:type="ED"><reference value="inapsine-image01.jpg" /></value>
+</observationMedia>
+</component>
+</section>
+</component>
+<component>
+<section ID="CP">
+<id root="F180CB36-D12A-8EFA-717F-DF2AEAADE05F" />
+<code code="34090-1" codeSystem="2.16.840.1.113883.6.1" displayName="CLINICAL PHARMACOLOGY SECTION" />
+<title>CLINICAL PHARMACOLOGY</title>
+<text><paragraph>INAPSINE (droperidol) produces marked tranquilization and sedation. It allays apprehension and provides a state of mental detachment and indifference while maintaining a state of reflex alertness.</paragraph><paragraph>INAPSINE produces an antiemetic effect as evidenced by the antagonism of apomorphine in dogs. It lowers the incidence of nausea and vomiting during surgical procedures and provides antiemetic protection in the postoperative period.</paragraph><paragraph>INAPSINE potentiates other CNS depressants. It produces mild alpha-adrenergic blockade, peripheral vascular dilatation and reduction of the pressor effect of epinephrine. It can produce hypotension and decreased peripheral vascular resistance and may decrease pulmonary arterial pressure (particularly if it is abnormally high). It may reduce the incidence of epinephrine-induced arrhythmias, but it does not prevent other cardiac arrhythmias.</paragraph><paragraph>The onset of action of single intramuscular and intravenous doses is from three to ten minutes following administration, although the peak effect may not be apparent for up to thirty minutes. The duration of the tranquilizing and sedative effects generally is two to four hours, although alteration of alertness may persist for as long as twelve hours.</paragraph></text>
+<effectiveTime value="20070809" />
+</section>
+</component>
+<component>
+<section>
+<id root="6D26F0BD-C05E-0189-2267-24AB2DE432A7" />
+<code code="34067-9" codeSystem="2.16.840.1.113883.6.1" displayName="INDICATIONS &amp; USAGE SECTION" />
+<title>INDICATIONS AND USAGE</title>
+<text><paragraph>INAPSINE (droperidol) is indicated to reduce the incidence of nausea and vomiting associated with surgical and diagnostic procedures.</paragraph></text>
+<effectiveTime value="20070809" />
+</section>
+</component>
+<component>
+<section ID="CONTRAINDICATIONS">
+<id root="A77D7C44-AF90-3ED8-E03F-0C14037F9D8D" />
+<code code="34070-3" codeSystem="2.16.840.1.113883.6.1" displayName="CONTRAINDICATIONS SECTION" />
+<title>CONTRAINDICATIONS</title>
+<text><paragraph>INAPSINE is contraindicated in patients with known or suspected QT prolongation (i.e., QTc interval greater than 440 msec for males or 450 msec for females). This would include patients with congenital long QT syndrome.</paragraph><paragraph>INAPSINE (droperidol) is contraindicated in patients with known hypersensitivity to the drug.</paragraph><paragraph>INAPSINE is not recommended for any use other than for the treatment of perioperative nausea and vomiting in patients for whom other treatments are ineffective or inappropriate (see <linkHtml href="#WARNINGS">WARNINGS</linkHtml>).</paragraph></text>
+<effectiveTime value="20070809" />
+</section>
+</component>
+<component>
+<section ID="WARNINGS">
+<id root="CC799480-3975-DC16-050C-0F9BBE7F0FDB" />
+<code code="34071-1" codeSystem="2.16.840.1.113883.6.1" displayName="WARNINGS SECTION" />
+<title>WARNINGS</title>
+<text><paragraph>INAPSINE should be administered with extreme caution in the presence of risk factors for development of prolonged QT syndrome, such as: 1) clinically significant bradycardia (less than 50 bpm), 2) any clinically significant cardiac disease, 3) treatment with Class I and Class III antiarrhythmics, 4) treatment with monoamine oxidase inhibitors (MAOI's), 5) concomitant treatment with other drug products known to prolong the QT interval (see <linkHtml href="#P_drug">PRECAUTIONS, Drug Interactions</linkHtml>), and 6) electrolyte imbalance, in particular hypokalemia and hypomagnesemia, or concomitant treatment with drugs (e.g., diuretics) that may cause electrolyte imbalance.</paragraph></text>
+<effectiveTime value="20070809" />
+<component>
+<section ID="W_effects">
+<id root="AA92EDDB-01F9-DB3F-BE23-7B3CC6CFE26B" />
+<code code="42229-5" codeSystem="2.16.840.1.113883.6.1" displayName="SPL UNCLASSIFIED SECTION" />
+<title>Effects on Cardiac Conduction</title>
+<text><paragraph>A dose-dependent prolongation of the QT interval was observed within 10 minutes of droperidol administration in a study of 40 patients without known cardiac disease who underwent extracranial head and neck surgery. Significant QT prolongation was observed at all three dose levels evaluated, with 0.1, 0.175, and 0.25 mg/kg associated with prolongation of median QTc by 37, 44, and 59 msec, respectively.</paragraph><paragraph>Cases of QT prolongation and serious arrhythmias (e.g. torsade de pointes, ventricular arrythmias, cardiac arrest, and death) have been observed during post-marketing treatment with INAPSINE. Some cases have occurred in patients with no known risk factors and at doses at or below recommended doses. There has been at least one case of nonfatal torsade de pointes confirmed by rechallenge.</paragraph><paragraph>Based on these reports, all patients should undergo a 12-lead ECG prior to administration of INAPSINE to determine if a prolonged QT interval (i.e., QTc greater than 440 msec for males or 450 msec for females) is present. If there is a prolonged QT interval, INAPSINE should <content styleCode="bold underline">NOT</content> be administered. For patients in whom the potential benefit of INAPSINE treatment is felt to outweigh the risks of potentially serious arrhythmias, ECG monitoring should be performed prior to treatment and continued for 2 to 3 hours after completing treatment to monitor for arrhythmias.</paragraph><paragraph>FLUIDS AND OTHER COUNTERMEASURES TO MANAGE HYPOTENSION SHOULD BE READILY AVAILABLE.</paragraph><paragraph>As with other CNS depressant drugs, patients who have received INAPSINE (droperidol) should have appropriate surveillance.</paragraph><paragraph>It is recommended that opioids, when required, initially be used in reduced doses.</paragraph><paragraph>As with other neuroleptic agents, very rare reports of neuroleptic malignant syndrome (altered consciousness, muscle rigidity and autonomic instability) have occurred in patients who have received INAPSINE (droperidol).</paragraph><paragraph>Since it may be difficult to distinguish neuroleptic malignant syndrome from malignant hyperpyrexia in the perioperative period, prompt treatment with dantrolene should be considered if increases in temperature, heart rate or carbon dioxide production occur.</paragraph></text>
+<effectiveTime value="20070809" />
+</section>
+</component>
+</section>
+</component>
+<component>
+<section ID="PRECAUTIONS">
+<id root="584CA865-78CF-4E5B-C696-ECB94AF5B738" />
+<code code="42232-9" codeSystem="2.16.840.1.113883.6.1" displayName="PRECAUTIONS SECTION" />
+<title>PRECAUTIONS</title>
+<effectiveTime value="20070809" />
+<component>
+<section>
+<id root="D07B90CF-36BF-D6ED-12BD-1CE0DAC82EE9" />
+<code code="34072-9" codeSystem="2.16.840.1.113883.6.1" displayName="GENERAL PRECAUTIONS SECTION" />
+<title>General</title>
+<text><paragraph>The initial dose of INAPSINE (droperidol) should be appropriately reduced in elderly, debilitated and other poor-risk patients. The effect of the initial dose should be considered in determining incremental doses.</paragraph><paragraph>Certain forms of conduction anesthesia, such as spinal anesthesia and some peridural anesthetics, can alter respiration by blocking intercostal nerves and can cause peripheral vasodilatation and hypotension because of sympathetic blockade. Through other mechanisms (see <linkHtml href="#CP">CLINICAL PHARMACOLOGY</linkHtml>), INAPSINE can also alter circulation. Therefore, when INAPSINE is used to supplement these forms of anesthesia, the anesthetist should be familiar with the physiological alterations involved, and be prepared to manage them in the patients elected for these forms of anesthesia.</paragraph><paragraph>If hypotension occurs, the possibility of hypovolemia should be considered and managed with appropriate parenteral fluid therapy. Repositioning the patient to improve venous return to the heart should be considered when operative conditions permit. It should be noted that in spinal and peridural anesthesia, tilting the patient into a head-down position may result in a higher level of anesthesia than is desirable, as well as impair venous return to the heart. Care should be exercised in moving and positioning of patients because of a possibility of orthostatic hypotension. If volume expansion with fluids plus these other countermeasures do not correct the hypotension, then the administration of pressor agents other than epinephrine should be considered. Epinephrine may paradoxically decrease the blood pressure in patients treated with INAPSINE due to the alpha-adrenergic blocking action of INAPSINE.</paragraph><paragraph>Since INAPSINE may decrease pulmonary arterial pressure, this fact should be considered by those who conduct diagnostic or surgical procedures where interpretation of pulmonary arterial pressure measurements might determine final management of the patient.</paragraph><paragraph>Vital signs and ECG should be monitored routinely.</paragraph><paragraph>When the EEG is used for postoperative monitoring, it may be found that the EEG pattern returns to normal slowly.</paragraph></text>
+<effectiveTime value="20070809" />
+<component>
+<section>
+<id root="FDBE5B8E-AC9A-D1F6-BE0D-E5923EA96A01" />
+<code code="42229-5" codeSystem="2.16.840.1.113883.6.1" displayName="SPL UNCLASSIFIED SECTION" />
+<title>Impaired Hepatic or Renal Function</title>
+<text><paragraph>INAPSINE should be administered with caution to patients with liver and kidney dysfunction because of the importance of these organs in the metabolism and excretion of drugs.</paragraph></text>
+<effectiveTime value="20070809" />
+</section>
+</component>
+<component>
+<section>
+<id root="CEF6B199-4C33-5608-8478-E5168DF21FBF" />
+<code code="42229-5" codeSystem="2.16.840.1.113883.6.1" displayName="SPL UNCLASSIFIED SECTION" />
+<title>Pheochromocytoma</title>
+<text><paragraph>In patients with diagnosed/suspected pheochromocytonia, severe hypertension and tachycardia have been observed after the administration of INAPSINE (droperidol).</paragraph></text>
+<effectiveTime value="20070809" />
+</section>
+</component>
+</section>
+</component>
+<component>
+<section ID="P_drug">
+<id root="1D8E62B7-501D-1DE9-576A-59ED5853D18A" />
+<code code="34073-7" codeSystem="2.16.840.1.113883.6.1" displayName="DRUG INTERACTIONS SECTION" />
+<title>Drug Interactions</title>
+<effectiveTime value="20070809" />
+<component>
+<section>
+<id root="CFCF75E9-D531-D804-10A5-E371D9F0DBC5" />
+<code code="42229-5" codeSystem="2.16.840.1.113883.6.1" displayName="SPL UNCLASSIFIED SECTION" />
+<title>Potentially Arrhythmogenic Agents</title>
+<text><paragraph>Any drug known to have the potential to prolong the QT interval should not be used together with INAPSINE. Possible pharmacodynamic interactions can occur between INAPSINE and potentially arrhythmogenic agents such as class I or III antiarrhythmics, antihistamines that prolong the QT interval, antimalarials, calcium channel blockers, neuroleptics that prolong the QT interval, and antidepressants.</paragraph><paragraph>Caution should be used when patients are taking concomitant drugs known to induce hypokalemia or hypomagnesemia as they may precipitate QT prolongation and interact with INAPSINE. These would include diuretics, laxatives and supraphysiological use of steroid hormones with mineralocorticoid potential.</paragraph></text>
+<effectiveTime value="20070809" />
+</section>
+</component>
+<component>
+<section>
+<id root="BA8A8FC7-2D74-5DAF-C11C-94ED914E0F6F" />
+<code code="42229-5" codeSystem="2.16.840.1.113883.6.1" displayName="SPL UNCLASSIFIED SECTION" />
+<title>CNS Depressant Drugs</title>
+<text><paragraph>Other CNS depressant drugs (e.g., barbiturates, tranquilizers, opioids and general anesthetics) have additive or potentiating effects with INAPSINE. Following the administration of INAPSINE, the dose of other CNS depressant drugs should be reduced.</paragraph></text>
+<effectiveTime value="20070809" />
+</section>
+</component>
+</section>
+</component>
+<component>
+<section>
+<id root="E5514498-6C7C-72DE-552D-66CD4EBEB2B4" />
+<code code="34083-6" codeSystem="2.16.840.1.113883.6.1" displayName="CARCINOGENESIS &amp; MUTAGENESIS &amp; IMPAIRMENT OF FERTILITY SECTION" />
+<title>Carcinogenesis, Mutagenesis, Impairment of Fertility</title>
+<text><paragraph>No carcinogenicity studies have been carried out with INAPSINE. The micronucleus test in female rats revealed no mutagenic effects in single oral doses as high as 160 mg/kg. An oral study in rats (Segment I) revealed no impairment of fertility in either male or females at 0.63, 2.5 and 10 mg/kg doses (approximately 2.9 and 36 times maximum recommended human iv/im dosage).</paragraph></text>
+<effectiveTime value="20070809" />
+</section>
+</component>
+<component>
+<section>
+<id root="9C2B8BFA-274E-376B-83A4-692DA94108D0" />
+<code code="42228-7" codeSystem="2.16.840.1.113883.6.1" displayName="PREGNANCY SECTION" />
+<title>Pregnancy</title>
+<effectiveTime value="20070809" />
+<component>
+<section>
+<id root="38319B80-39B6-76C9-7631-960E0C690CAB" />
+<code code="34077-8" codeSystem="2.16.840.1.113883.6.1" displayName="TERATOGENIC EFFECTS SECTION" />
+<title>Category C</title>
+<text><paragraph>INAPSINE administered intravenously has been shown to cause a slight increase in mortality of the newborn rat at 4.4 times the upper human dose. At 44 times the upper human dose, mortality rate was comparable to that for control animals. Following intramuscular administration, increased mortality of the offspring at 1.8 times the upper human dose is attributed to CNS depression in the dams who neglected to remove placentae from their offspring. INAPSINE has not been shown to be teratogenic in animals. There are no adequate and well-controlled studies in pregnant women. INAPSINE should be used during pregnancy only if the potential benefit justifies the potential risk to the fetus.</paragraph></text>
+<effectiveTime value="20070809" />
+</section>
+</component>
+</section>
+</component>
+<component>
+<section>
+<id root="4AD260C8-A52C-B3B6-98ED-A2621BEE173C" />
+<code code="34079-4" codeSystem="2.16.840.1.113883.6.1" displayName="LABOR &amp; DELIVERY SECTION" />
+<title>Labor and Delivery</title>
+<text><paragraph>There are insufficient data to support the use of INAPSINE in labor and delivery. Therefore, such use is not recommended.</paragraph></text>
+<effectiveTime value="20070809" />
+</section>
+</component>
+<component>
+<section>
+<id root="5144E004-34CF-FE3A-9ED7-67A26C53D855" />
+<code code="34080-2" codeSystem="2.16.840.1.113883.6.1" displayName="NURSING MOTHERS SECTION" />
+<title>Nursing Mothers</title>
+<text><paragraph>It is not known whether INAPSINE is excreted in human milk. Because many drugs are excreted in human milk, caution should be exercised when INAPSINE is administered to a nursing mother.</paragraph></text>
+<effectiveTime value="20070809" />
+</section>
+</component>
+<component>
+<section>
+<id root="14B036D3-C818-068C-C0E7-45799CE148D4" />
+<code code="34081-0" codeSystem="2.16.840.1.113883.6.1" displayName="PEDIATRIC USE SECTION" />
+<title>Pediatric Use</title>
+<text><paragraph>The safety of INAPSINE in children younger than two years of age has not been established.</paragraph></text>
+<effectiveTime value="20070809" />
+</section>
+</component>
+</section>
+</component>
+<component>
+<section ID="ADVERSE">
+<id root="040FBB8F-18B9-7889-1364-FE73C35DA760" />
+<code code="34084-4" codeSystem="2.16.840.1.113883.6.1" displayName="ADVERSE REACTIONS SECTION" />
+<title>ADVERSE REACTIONS</title>
+<text><paragraph>QT interval prolongation, torsade de pointes, cardiac arrest, and ventricular tachycardia have been reported in patients treated with INAPSINE. Some of these cases were associated with death. Some cases occurred in patients with no known risk factors, and some were associated with droperidol doses at or below recommended doses.</paragraph><paragraph>Physicians should be alert to palpitations, syncope, or other symptoms suggestive of episodes of irregular cardiac rhythm in patients taking INAPSINE and promptly evaluate such cases (see <linkHtml href="#W_effects">WARNINGS, Effects on Cardiac Conduction</linkHtml>).</paragraph><paragraph>The most common somatic adverse reactions reported to occur with INAPSINE (droperidol) are mild to moderate hypotension and tachycardia, but these effects usually subside without treatment. If hypotension occurs and is severe or persists, the possibility of hypovolemia should be considered and managed with appropriate parenteral fluid therapy.</paragraph><paragraph>The most common behavioral adverse effects of INAPSINE (droperidol) include dysphoria, postoperative drowsiness, restlessness, hyperactivity and anxiety, which can either be the result of an inadequate dosage (lack of adequate treatment effect) or of an adverse drug reaction (part of the symptom complex of akathisia).</paragraph><paragraph>Care should be taken to search for extrapyramidal signs and symptoms (dystonia, akathisia, oculogyric crisis) to differentiate these different clinical conditions. When extrapyramidal symptoms are the cause, they can usually be controlled with anticholinergic agents.</paragraph><paragraph>Postoperative hallucinatory episodes (sometimes associated with transient periods of mental depression) have also been reported.</paragraph><paragraph>Other less common reported adverse reactions include anaphylaxis, dizziness, chills and/or shivering, laryngospasm, and bronchospasm.</paragraph><paragraph>Elevated blood pressure, with or without pre-existing hypertension, has been reported following administration of INAPSINE combined with SUBLIMAZE (fentanyl citrate) or other parenteral analgesics. This might be due to unexplained alterations in sympathetic activity following large doses: however, it is also frequently attributed to anesthetic or surgical stimulation during light anesthesia.</paragraph></text>
+<effectiveTime value="20070809" />
+</section>
+</component>
+<component>
+<section>
+<id root="B98BDE44-6F86-1249-E34C-C9622F4B7ABE" />
+<code code="34088-5" codeSystem="2.16.840.1.113883.6.1" displayName="OVERDOSAGE SECTION" />
+<title>OVERDOSAGE</title>
+<effectiveTime value="20070809" />
+<component>
+<section>
+<id root="0BFBDB44-FD0B-865E-4329-869215E395F1" />
+<code code="42229-5" codeSystem="2.16.840.1.113883.6.1" displayName="SPL UNCLASSIFIED SECTION" />
+<title>Manifestations</title>
+<text><paragraph>The manifestations of INAPSINE (droperidol) overdosage are an extension of its pharmacologic actions and may include QT prolongation and serious arrhythmias (e.g., torsade de pointes) (see <linkHtml href="#BOX">BOX WARNING</linkHtml>, <linkHtml href="#WARNINGS">WARNINGS</linkHtml>, and <linkHtml href="#PRECAUTIONS">PRECAUTIONS</linkHtml>).</paragraph></text>
+<effectiveTime value="20070809" />
+</section>
+</component>
+<component>
+<section>
+<id root="BFCC7FAD-A456-2EBE-7133-D6AAB16BEA46" />
+<code code="42229-5" codeSystem="2.16.840.1.113883.6.1" displayName="SPL UNCLASSIFIED SECTION" />
+<title>Treatment</title>
+<text><paragraph>In the presence of hypoventilation or apnea, oxygen should be administered and respiration should be assisted or controlled as indicated. A patent airway must be maintained; an oropharyngeal airway or endotracheal tube might be indicated. The patient should be carefully observed for 24 hours; body warmth and adequate fluid intake should be maintained. If hypotension occurs and is severe or persists, the possibility of hypovolemia should be considered and managed with appropriate parenteral fluid therapy (see <linkHtml href="#PRECAUTIONS">PRECAUTIONS</linkHtml>).</paragraph><paragraph>If significant extrapyramidal reactions occur in the context of an overdose, an anticholinergic should be administered.</paragraph><paragraph>The intravenous Median Lethal Dose of INAPSINE is 20 to 43 mg/kg in mice; 30 mg/kg in rats; 25 mg/kg in dogs and 11 to 13 mg/kg in rabbits. The intramuscular Median Lethal Dose of INAPSINE is 195 mg/kg in mice; 104 to 110 mg/kg in rats; 97 mg/kg in rabbits and 200 mg/kg in guinea pigs.</paragraph></text>
+<effectiveTime value="20070809" />
+</section>
+</component>
+</section>
+</component>
+<component>
+<section>
+<id root="C528CA08-D9C5-6EAC-76C0-007523CF98DC" />
+<code code="34068-7" codeSystem="2.16.840.1.113883.6.1" displayName="DOSAGE &amp; ADMINISTRATION SECTION" />
+<title>DOSAGE AND ADMINISTRATION</title>
+<text><paragraph><content styleCode="bold">Dosage should be individualized.</content> Some of the factors to be considered in determining the dose are age, body weight, physical status, underlying pathological condition, use of other drugs, type of anesthesia to be used and the surgical procedure involved.</paragraph><paragraph>Vital signs and ECG should be monitored routinely.</paragraph></text>
+<effectiveTime value="20070809" />
+<component>
+<section>
+<id root="B8C996D0-0C00-A737-8A91-4F2F3FB4CCD6" />
+<code code="42229-5" codeSystem="2.16.840.1.113883.6.1" displayName="SPL UNCLASSIFIED SECTION" />
+<title>Adult dosage</title>
+<text><paragraph>The maximum recommended initial dose of INAPSINE is 2.5 mg IM or slow IV. Additional 1.25 mg doses of INAPSINE may be administered to achieve the desired effect. However, additional doses should be administered with caution, and only if the potential benefit outweighs the potential risk.</paragraph></text>
+<effectiveTime value="20070809" />
+</section>
+</component>
+<component>
+<section>
+<id root="35A282A3-332E-C56C-3693-53D82E3FA2A8" />
+<code code="42229-5" codeSystem="2.16.840.1.113883.6.1" displayName="SPL UNCLASSIFIED SECTION" />
+<title>Children's dosage</title>
+<text><paragraph>For children two to 12 years of age, the maximum recommended initial dose is 0.1 mg/kg, taking into account the patient's age and other clinical factors. However, additional doses should be administered with caution, and only if the potential benefit outweighs the potential risk.</paragraph></text>
+<effectiveTime value="20070809" />
+</section>
+</component>
+<component>
+<section>
+<id root="FED3FE3A-F3C8-0778-883F-D035B820788B" />
+<code code="42229-5" codeSystem="2.16.840.1.113883.6.1" displayName="SPL UNCLASSIFIED SECTION" />
+<title />
+<text><paragraph>See <linkHtml href="#WARNINGS">WARNINGS</linkHtml> and <linkHtml href="#PRECAUTIONS">PRECAUTIONS</linkHtml> for use of INAPSINE with other CNS depressants and in patients with altered response.</paragraph><paragraph>Parenteral drug products should be inspected visually for particulate matter and discoloration prior to administration, whenever solution and container permit. If such abnormalities are observed, the drug should not be administered.</paragraph></text>
+<effectiveTime value="20070809" />
+</section>
+</component>
+</section>
+</component>
+<component>
+<section>
+<id root="9E89BCFB-2B91-7B12-F17B-59B861CD5C98" />
+<code code="34069-5" codeSystem="2.16.840.1.113883.6.1" displayName="HOW SUPPLIED SECTION" />
+<title>HOW SUPPLIED</title>
+<text><paragraph>INAPSINE<sup>&#174;</sup> (droperidol) Injection is available as:</paragraph><paragraph><content styleCode="bold">NDC</content> 11098-010-01, 2.5 mg/mL, 1 mL ampules in packages of 10</paragraph><paragraph><content styleCode="bold">NDC</content> 11098-010-02, 2.5 mg/mL, 2 mL ampules in packages of 10</paragraph><paragraph><content styleCode="bold">NDC</content> 11098-531-01, 2.5 mg/mL, 1 mL vials in packages of 25</paragraph><paragraph><content styleCode="bold">NDC</content> 11098-531-02, 2.5 mg/mL, 2 mL vials in packages of 25</paragraph><paragraph /></text>
+<effectiveTime value="20070809" />
+<component>
+<section>
+<id root="AAA38699-E0AA-2274-3244-DC671FEB917F" />
+<code code="44425-7" codeSystem="2.16.840.1.113883.6.1" displayName="STORAGE AND HANDLING SECTION" />
+<title>STORAGE</title>
+<text><paragraph>Store at 20&#176; to 25&#176;C (68&#176; to 77&#176;F). [See USP Controlled Room Temperature]. Protect from light.</paragraph></text>
+<effectiveTime value="20070809" />
+</section>
+</component>
+</section>
+</component>
+<component>
+<section>
+<id root="D01BAEBF-AD0F-BFAD-CCE6-1044BA24CB9F" />
+<code code="34093-5" codeSystem="2.16.840.1.113883.6.1" displayName="REFERENCES SECTION" />
+<title>REFERENCES</title>
+<text><list listType="ordered"><item>Saarnivarra L, Klemola UM, Lindgren L, et al. QT interval of the ECG, heart rate and arterial pressure using propofal, methohexital or midazolam for induction of anesthesia. Acta Anaesthesiol Scand 1990; 34: 276-81.</item><item>Schmeling WT, Warltier DC, McDonald DJ, et al. Prolongation of the QT interval by enflurane, isoflurane and halothane in humans. Anesth Analg 1991; 72: 137-44.</item><item>Spath G. Torsade des pointe oder die andere Ursache des plotz-lichen Herztodes. Wien: Ueberreuter, 1998.</item><item>Riley DC, Schmeling WT, Al-Wathiqui MH, et al. Prolongation of the QT-interval by volatile anesthetics in chronically instrumented dogs. Anesth Analg 1988; 67: 741-9.</item><item>McConachie I, Keaventy JP, Healy TF, et al. Effects of anaesthesia on the QT-interval. Br J Anaesth 1989; 63: 558-60.</item><item>Lawrence KR, Nasraway SA. Conduction disturbances associated with administration of butyrophenone antipsychotic in the critically ill: a review of the literature. Pharmacother 1997; 17(3): 531-7.</item><item>Lischke V, Behne M, Doelken P, et al. Droperidol causes a dose-dependent prolongation of the QT interval. Anesth Analg 1994; 79: 983-6.</item></list></text>
+<effectiveTime value="20070809" />
+</section>
+</component>
+<component>
+<section>
+<id root="F2A85949-6CE4-80F1-4BD5-8DCAF6B1B5C4" />
+<code code="42229-5" codeSystem="2.16.840.1.113883.6.1" displayName="SPL UNCLASSIFIED SECTION" />
+<title />
+<text><renderMultiMedia referencedObject="MM2" /><paragraph><content styleCode="bold">DPA0N Rev. 04/06</content></paragraph></text>
+<effectiveTime value="20070809" />
+<component>
+<observationMedia ID="MM2">
+<value mediaType="image/jpeg" xsi:type="ED"><reference value="inapsine-image02.jpg" /></value>
+</observationMedia>
+</component>
+</section>
+</component>
+</structuredBody>
+</component>
+</document>

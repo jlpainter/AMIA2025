@@ -1,0 +1,1922 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet href="https://www.accessdata.fda.gov/spl/stylesheet/spl.xsl" type="text/xsl"?>
+<document xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:hl7-org:v3 https://www.accessdata.fda.gov/spl/schema/spl.xsd">
+   <id root="21ecf2ba-0923-48bc-b8ca-53f7d8cff24d"/>
+   <code code="34391-3" codeSystem="2.16.840.1.113883.6.1" displayName="HUMAN PRESCRIPTION DRUG LABEL"/>
+   <title>These highlights do not include all the information needed to use RAPIVAB safely and effectively.  See full prescribing information for RAPIVAB. <br/>
+      <br/>RAPIVAB<sup>®</sup> (peramivir) injection, for intravenous use <br/>Initial U.S. Approval: 2014</title>
+   <effectiveTime value="20240618"/>
+   <setId root="fe04f6cd-e71c-4bd4-abac-97720bba2a0d"/>
+   <versionNumber value="5"/>
+   <author>
+      <time/>
+      <assignedEntity>
+         <representedOrganization>
+            <id extension="618194609" root="1.3.6.1.4.1.519.1"/>
+            <name>BioCryst Pharmaceuticals, Inc.</name>
+            <assignedEntity>
+               <assignedOrganization>
+                  <assignedEntity>
+                     <assignedOrganization>
+                        <id extension="117877975" root="1.3.6.1.4.1.519.1"/>
+                        <name>Alcami Carolinas Corporation</name>
+                     </assignedOrganization>
+                     <performance>
+                        <actDefinition>
+                           <code code="C25391" codeSystem="2.16.840.1.113883.3.26.1.1" displayName="ANALYSIS"/>
+                           <product>
+                              <manufacturedProduct classCode="MANU">
+                                 <manufacturedMaterialKind>
+                                    <code code="72769-181" codeSystem="2.16.840.1.113883.6.69"/>
+                                 </manufacturedMaterialKind>
+                              </manufacturedProduct>
+                           </product>
+                        </actDefinition>
+                     </performance>
+                  </assignedEntity>
+                  <assignedEntity>
+                     <assignedOrganization>
+                        <id extension="483237103" root="1.3.6.1.4.1.519.1"/>
+                        <name>Cilag Ag</name>
+                     </assignedOrganization>
+                     <performance>
+                        <actDefinition>
+                           <code code="C82401" codeSystem="2.16.840.1.113883.3.26.1.1" displayName="API MANUFACTURE"/>
+                           <product>
+                              <manufacturedProduct classCode="MANU">
+                                 <manufacturedMaterialKind>
+                                    <code code="72769-181" codeSystem="2.16.840.1.113883.6.69"/>
+                                 </manufacturedMaterialKind>
+                              </manufacturedProduct>
+                           </product>
+                        </actDefinition>
+                     </performance>
+                     <performance>
+                        <actDefinition>
+                           <code code="C25391" codeSystem="2.16.840.1.113883.3.26.1.1" displayName="ANALYSIS"/>
+                           <product>
+                              <manufacturedProduct classCode="MANU">
+                                 <manufacturedMaterialKind>
+                                    <code code="72769-181" codeSystem="2.16.840.1.113883.6.69"/>
+                                 </manufacturedMaterialKind>
+                              </manufacturedProduct>
+                           </product>
+                        </actDefinition>
+                     </performance>
+                  </assignedEntity>
+                  <assignedEntity>
+                     <assignedOrganization>
+                        <id extension="069777290" root="1.3.6.1.4.1.519.1"/>
+                        <name>Eurofins Lancaster Laboratories Inc.</name>
+                     </assignedOrganization>
+                     <performance>
+                        <actDefinition>
+                           <code code="C25391" codeSystem="2.16.840.1.113883.3.26.1.1" displayName="ANALYSIS"/>
+                           <product>
+                              <manufacturedProduct classCode="MANU">
+                                 <manufacturedMaterialKind>
+                                    <code code="72769-181" codeSystem="2.16.840.1.113883.6.69"/>
+                                 </manufacturedMaterialKind>
+                              </manufacturedProduct>
+                           </product>
+                        </actDefinition>
+                     </performance>
+                  </assignedEntity>
+                  <assignedEntity>
+                     <assignedOrganization>
+                        <id extension="042456145" root="1.3.6.1.4.1.519.1"/>
+                        <name>Galbraith Laboratories Inc.</name>
+                     </assignedOrganization>
+                     <performance>
+                        <actDefinition>
+                           <code code="C25391" codeSystem="2.16.840.1.113883.3.26.1.1" displayName="ANALYSIS"/>
+                           <product>
+                              <manufacturedProduct classCode="MANU">
+                                 <manufacturedMaterialKind>
+                                    <code code="72769-181" codeSystem="2.16.840.1.113883.6.69"/>
+                                 </manufacturedMaterialKind>
+                              </manufacturedProduct>
+                           </product>
+                        </actDefinition>
+                     </performance>
+                  </assignedEntity>
+                  <assignedEntity>
+                     <assignedOrganization>
+                        <id extension="069263643" root="1.3.6.1.4.1.519.1"/>
+                        <name>Jubilant HollisterStier LLC</name>
+                     </assignedOrganization>
+                     <performance>
+                        <actDefinition>
+                           <code code="C43360" codeSystem="2.16.840.1.113883.3.26.1.1" displayName="MANUFACTURE"/>
+                           <product>
+                              <manufacturedProduct classCode="MANU">
+                                 <manufacturedMaterialKind>
+                                    <code code="72769-181" codeSystem="2.16.840.1.113883.6.69"/>
+                                 </manufacturedMaterialKind>
+                              </manufacturedProduct>
+                           </product>
+                        </actDefinition>
+                     </performance>
+                     <performance>
+                        <actDefinition>
+                           <code code="C84731" codeSystem="2.16.840.1.113883.3.26.1.1" displayName="PACK"/>
+                           <product>
+                              <manufacturedProduct classCode="MANU">
+                                 <manufacturedMaterialKind>
+                                    <code code="72769-181" codeSystem="2.16.840.1.113883.6.69"/>
+                                 </manufacturedMaterialKind>
+                              </manufacturedProduct>
+                           </product>
+                        </actDefinition>
+                     </performance>
+                     <performance>
+                        <actDefinition>
+                           <code code="C84732" codeSystem="2.16.840.1.113883.3.26.1.1" displayName="LABEL"/>
+                           <product>
+                              <manufacturedProduct classCode="MANU">
+                                 <manufacturedMaterialKind>
+                                    <code code="72769-181" codeSystem="2.16.840.1.113883.6.69"/>
+                                 </manufacturedMaterialKind>
+                              </manufacturedProduct>
+                           </product>
+                        </actDefinition>
+                     </performance>
+                     <performance>
+                        <actDefinition>
+                           <code code="C25391" codeSystem="2.16.840.1.113883.3.26.1.1" displayName="ANALYSIS"/>
+                           <product>
+                              <manufacturedProduct classCode="MANU">
+                                 <manufacturedMaterialKind>
+                                    <code code="72769-181" codeSystem="2.16.840.1.113883.6.69"/>
+                                 </manufacturedMaterialKind>
+                              </manufacturedProduct>
+                           </product>
+                        </actDefinition>
+                     </performance>
+                  </assignedEntity>
+                  <assignedEntity>
+                     <assignedOrganization>
+                        <id extension="079415560" root="1.3.6.1.4.1.519.1"/>
+                        <name>Patheon Manufacturing Services LLC</name>
+                     </assignedOrganization>
+                     <performance>
+                        <actDefinition>
+                           <code code="C43360" codeSystem="2.16.840.1.113883.3.26.1.1" displayName="MANUFACTURE"/>
+                           <product>
+                              <manufacturedProduct classCode="MANU">
+                                 <manufacturedMaterialKind>
+                                    <code code="72769-181" codeSystem="2.16.840.1.113883.6.69"/>
+                                 </manufacturedMaterialKind>
+                              </manufacturedProduct>
+                           </product>
+                        </actDefinition>
+                     </performance>
+                     <performance>
+                        <actDefinition>
+                           <code code="C84731" codeSystem="2.16.840.1.113883.3.26.1.1" displayName="PACK"/>
+                           <product>
+                              <manufacturedProduct classCode="MANU">
+                                 <manufacturedMaterialKind>
+                                    <code code="72769-181" codeSystem="2.16.840.1.113883.6.69"/>
+                                 </manufacturedMaterialKind>
+                              </manufacturedProduct>
+                           </product>
+                        </actDefinition>
+                     </performance>
+                     <performance>
+                        <actDefinition>
+                           <code code="C84732" codeSystem="2.16.840.1.113883.3.26.1.1" displayName="LABEL"/>
+                           <product>
+                              <manufacturedProduct classCode="MANU">
+                                 <manufacturedMaterialKind>
+                                    <code code="72769-181" codeSystem="2.16.840.1.113883.6.69"/>
+                                 </manufacturedMaterialKind>
+                              </manufacturedProduct>
+                           </product>
+                        </actDefinition>
+                     </performance>
+                     <performance>
+                        <actDefinition>
+                           <code code="C25391" codeSystem="2.16.840.1.113883.3.26.1.1" displayName="ANALYSIS"/>
+                           <product>
+                              <manufacturedProduct classCode="MANU">
+                                 <manufacturedMaterialKind>
+                                    <code code="72769-181" codeSystem="2.16.840.1.113883.6.69"/>
+                                 </manufacturedMaterialKind>
+                              </manufacturedProduct>
+                           </product>
+                        </actDefinition>
+                     </performance>
+                  </assignedEntity>
+                  <assignedEntity>
+                     <assignedOrganization>
+                        <id extension="001213784" root="1.3.6.1.4.1.519.1"/>
+                        <name>Siegfried USA, LLC</name>
+                     </assignedOrganization>
+                     <performance>
+                        <actDefinition>
+                           <code code="C82401" codeSystem="2.16.840.1.113883.3.26.1.1" displayName="API MANUFACTURE"/>
+                           <product>
+                              <manufacturedProduct classCode="MANU">
+                                 <manufacturedMaterialKind>
+                                    <code code="72769-181" codeSystem="2.16.840.1.113883.6.69"/>
+                                 </manufacturedMaterialKind>
+                              </manufacturedProduct>
+                           </product>
+                        </actDefinition>
+                     </performance>
+                     <performance>
+                        <actDefinition>
+                           <code code="C25391" codeSystem="2.16.840.1.113883.3.26.1.1" displayName="ANALYSIS"/>
+                           <product>
+                              <manufacturedProduct classCode="MANU">
+                                 <manufacturedMaterialKind>
+                                    <code code="72769-181" codeSystem="2.16.840.1.113883.6.69"/>
+                                 </manufacturedMaterialKind>
+                              </manufacturedProduct>
+                           </product>
+                        </actDefinition>
+                     </performance>
+                  </assignedEntity>
+               </assignedOrganization>
+            </assignedEntity>
+         </representedOrganization>
+      </assignedEntity>
+   </author>
+   <component>
+      <structuredBody>
+         <component>
+            <section ID="dcl-dpl">
+               <id root="879de51e-7e36-40d6-b7f3-c63cdee02636"/>
+               <code code="48780-1" codeSystem="2.16.840.1.113883.6.1" displayName="SPL PRODUCT DATA ELEMENTS SECTION"/>
+               <effectiveTime value="20240618"/>
+               <subject>
+                  <manufacturedProduct>
+                     <manufacturedProduct>
+                        <code code="72769-181" codeSystem="2.16.840.1.113883.6.69"/>
+                        <name>Rapivab</name>
+                        <formCode code="C42986" codeSystem="2.16.840.1.113883.3.26.1.1" displayName="SOLUTION"/>
+                        <asEntityWithGeneric>
+                           <genericMedicine>
+                              <name>peramivir</name>
+                           </genericMedicine>
+                        </asEntityWithGeneric>
+                        <ingredient classCode="ACTIM">
+                           <quantity>
+                              <numerator value="600" unit="mg"/>
+                              <denominator value="60" unit="mL"/>
+                           </quantity>
+                           <ingredientSubstance>
+                              <code code="QW7Y7ZR15U" codeSystem="2.16.840.1.113883.4.9"/>
+                              <name>Peramivir</name>
+                              <activeMoiety>
+                                 <activeMoiety>
+                                    <code code="9ZS94HQO3B" codeSystem="2.16.840.1.113883.4.9"/>
+                                    <name>Peramivir Anhydrous</name>
+                                 </activeMoiety>
+                              </activeMoiety>
+                           </ingredientSubstance>
+                        </ingredient>
+                        <ingredient classCode="IACT">
+                           <ingredientSubstance>
+                              <code code="451W47IQ8X" codeSystem="2.16.840.1.113883.4.9"/>
+                              <name>Sodium Chloride</name>
+                           </ingredientSubstance>
+                        </ingredient>
+                        <ingredient classCode="IACT">
+                           <ingredientSubstance>
+                              <code code="QTT17582CB" codeSystem="2.16.840.1.113883.4.9"/>
+                              <name>Hydrochloric Acid</name>
+                           </ingredientSubstance>
+                        </ingredient>
+                        <ingredient classCode="IACT">
+                           <ingredientSubstance>
+                              <code code="55X04QC32I" codeSystem="2.16.840.1.113883.4.9"/>
+                              <name>Sodium Hydroxide</name>
+                           </ingredientSubstance>
+                        </ingredient>
+                        <ingredient classCode="IACT">
+                           <ingredientSubstance>
+                              <code code="059QF0KO0R" codeSystem="2.16.840.1.113883.4.9"/>
+                              <name>Water</name>
+                           </ingredientSubstance>
+                        </ingredient>
+                        <asContent>
+                           <quantity>
+                              <numerator value="20" unit="mL"/>
+                              <denominator value="1" unit="1"/>
+                           </quantity>
+                           <containerPackagedProduct>
+                              <code code="72769-181-01" codeSystem="2.16.840.1.113883.6.69"/>
+                              <formCode code="C43209" codeSystem="2.16.840.1.113883.3.26.1.1" displayName="VIAL, GLASS"/>
+                              <asContent>
+                                 <quantity>
+                                    <numerator value="3" unit="1"/>
+                                    <denominator value="1" unit="1"/>
+                                 </quantity>
+                                 <containerPackagedProduct>
+                                    <code code="72769-181-03" codeSystem="2.16.840.1.113883.6.69"/>
+                                    <formCode code="C43182" codeSystem="2.16.840.1.113883.3.26.1.1" displayName="CARTON"/>
+                                 </containerPackagedProduct>
+                                 <subjectOf>
+                                    <marketingAct>
+                                       <code code="C53292" codeSystem="2.16.840.1.113883.3.26.1.1"/>
+                                       <statusCode code="active"/>
+                                       <effectiveTime>
+                                          <low value="20141220"/>
+                                       </effectiveTime>
+                                    </marketingAct>
+                                 </subjectOf>
+                              </asContent>
+                           </containerPackagedProduct>
+                           <subjectOf>
+                              <characteristic>
+                                 <code code="SPLCMBPRDTP" codeSystem="2.16.840.1.113883.1.11.19255"/>
+                                 <value code="C112160" codeSystem="2.16.840.1.113883.3.26.1.1" xsi:type="CV" displayName="Type 0: Not a Combination Product"/>
+                              </characteristic>
+                           </subjectOf>
+                        </asContent>
+                     </manufacturedProduct>
+                     <subjectOf>
+                        <marketingAct>
+                           <code code="C53292" codeSystem="2.16.840.1.113883.3.26.1.1"/>
+                           <statusCode code="active"/>
+                           <effectiveTime>
+                              <low value="20141220"/>
+                           </effectiveTime>
+                        </marketingAct>
+                     </subjectOf>
+                     <subjectOf>
+                        <approval>
+                           <id extension="NDA206426" root="2.16.840.1.113883.3.150"/>
+                           <code code="C73594" codeSystem="2.16.840.1.113883.3.26.1.1" displayName="NDA"/>
+                           <author>
+                              <territorialAuthority>
+                                 <territory>
+                                    <code code="USA" codeSystem="2.16.840.1.113883.5.28"/>
+                                 </territory>
+                              </territorialAuthority>
+                           </author>
+                        </approval>
+                     </subjectOf>
+                     <consumedIn>
+                        <substanceAdministration>
+                           <routeCode code="C38276" codeSystem="2.16.840.1.113883.3.26.1.1" displayName="INTRAVENOUS"/>
+                        </substanceAdministration>
+                     </consumedIn>
+                  </manufacturedProduct>
+               </subject>
+            </section>
+         </component>
+         <component>
+            <section ID="S1">
+               <id root="62650aa6-8a13-4523-bb1e-a036587377a7"/>
+               <code code="34067-9" codeSystem="2.16.840.1.113883.6.1" displayName="INDICATIONS &amp; USAGE SECTION"/>
+               <title>1 INDICATIONS AND USAGE</title>
+               <text>
+                  <paragraph>							RAPIVAB is indicated for the treatment of acute uncomplicated influenza in patients 6 months and older who have been symptomatic for no more than 2 days. 						</paragraph>
+               </text>
+               <effectiveTime value="20240618"/>
+               <excerpt>
+                  <highlight>
+                     <text>
+                        <paragraph>RAPIVAB is an influenza virus neuraminidase inhibitor indicated for the treatment of acute uncomplicated influenza in patients 6 months and older who have been symptomatic for no more than two days. (<linkHtml href="#S1">1</linkHtml>)</paragraph>
+                        <paragraph>
+                           <content styleCode="underline">Limitations of Use</content>:</paragraph>
+                        <list listType="unordered" styleCode="disc">
+                           <item>Efficacy based on clinical trials in which the predominant influenza virus type was influenza A; a limited number of subjects infected with influenza B virus were enrolled. (<linkHtml href="#S1">1</linkHtml>)</item>
+                           <item>Consider available information on influenza drug susceptibility patterns and treatment effects when deciding whether to use. (<linkHtml href="#S1">1</linkHtml>)</item>
+                           <item>Efficacy could not be established in patients with serious influenza requiring hospitalization. (<linkHtml href="#S1">1</linkHtml>)	</item>
+                        </list>
+                     </text>
+                  </highlight>
+               </excerpt>
+               <component>
+                  <section>
+                     <id root="964d681c-6e71-40b5-8ab7-2f2a4f4f145a"/>
+                     <code code="42229-5" codeSystem="2.16.840.1.113883.6.1" displayName="SPL UNCLASSIFIED SECTION"/>
+                     <text>
+                        <paragraph>
+                           <content styleCode="underline">Limitations of Use</content>:</paragraph>
+                        <list listType="unordered" styleCode="disc">
+                           <item>Efficacy of RAPIVAB is based on clinical trials of naturally occurring influenza in which the predominant influenza infections were influenza A virus; a limited number of subjects infected with influenza B virus were enrolled.</item>
+                           <item>Influenza viruses change over time. Emergence of resistance substitutions could decrease drug effectiveness. Other factors (for example, changes in viral virulence) might also diminish clinical benefit of antiviral drugs. Prescribers should consider available information on influenza drug susceptibility patterns and treatment effects when deciding whether to use RAPIVAB <content styleCode="italics">[see <linkHtml href="#S12.4">Microbiology (12.4)</linkHtml>].</content>
+                           </item>
+                           <item>The efficacy of RAPIVAB could not be established in patients with serious influenza requiring hospitalization <content styleCode="italics">[see <linkHtml href="#S14.3">Clinical Studies (14.3)</linkHtml>].</content>
+                           </item>
+                        </list>
+                     </text>
+                     <effectiveTime value="20240618"/>
+                  </section>
+               </component>
+            </section>
+         </component>
+         <component>
+            <section ID="S2">
+               <id root="4dfd94e5-459f-47f1-a878-a87dd8282f71"/>
+               <code code="34068-7" codeSystem="2.16.840.1.113883.6.1" displayName="DOSAGE &amp; ADMINISTRATION SECTION"/>
+               <title>2 DOSAGE AND ADMINISTRATION</title>
+               <effectiveTime value="20240618"/>
+               <excerpt>
+                  <highlight>
+                     <text>
+                        <list listType="unordered" styleCode="disc">
+                           <item>Administer RAPIVAB as a single dose within 2 days of onset of influenza symptoms (<linkHtml href="#S2.1">2.1</linkHtml>)</item>
+                           <item>Administer RAPIVAB by intravenous infusion for a minimum of 15 minutes (<linkHtml href="#S2.1">2.1</linkHtml>) 								<table width="100%">
+                                 <col width="70%" align="left" valign="middle"/>
+                                 <col width="30%" align="center" valign="middle"/>
+                                 <thead>
+                                    <tr>
+                                       <th styleCode="Lrule Rrule" align="center">Recommended Dosage</th>
+                                       <th styleCode="Rrule">Single Dose</th>
+                                    </tr>
+                                 </thead>
+                                 <tbody>
+                                    <tr styleCode="Botrule">
+                                       <td styleCode="Lrule Rrule">Adults and adolescents (13 years and older)</td>
+                                       <td styleCode="Rrule">600 mg</td>
+                                    </tr>
+                                    <tr>
+                                       <td styleCode="Lrule Rrule">Pediatric patients (6 months to 12 years of age)</td>
+                                       <td styleCode="Rrule">12 mg/kg<br/>(up to 600 mg)</td>
+                                    </tr>
+                                 </tbody>
+                              </table>
+                              <table width="100%">
+                                 <col width="37%" align="left" valign="middle"/>
+                                 <col width="21%" align="center" valign="middle"/>
+                                 <col width="21%" align="center" valign="middle"/>
+                                 <col width="21%" align="center" valign="middle"/>
+                                 <thead>
+                                    <tr styleCode="Botrule">
+                                       <th styleCode="Lrule Rrule" rowspan="2">Recommended Dosage Adjustments in Patients with Altered Creatinine Clearance</th>
+                                       <th styleCode="Rrule" colspan="3" align="center">Creatinine Clearance (mL/min)</th>
+                                    </tr>
+                                    <tr>
+                                       <th styleCode="Rrule" align="center">≥50</th>
+                                       <th styleCode="Rrule">30-49</th>
+                                       <th styleCode="Rrule">10-29</th>
+                                    </tr>
+                                 </thead>
+                                 <tfoot>
+                                    <tr>
+                                       <td colspan="4">
+                                          <sup>a</sup> Up to maximum dose of 600 mg.</td>
+                                    </tr>
+                                 </tfoot>
+                                 <tbody>
+                                    <tr styleCode="Botrule">
+                                       <td styleCode="Lrule Rrule">Adults and adolescents <br/>(13 years and older)</td>
+                                       <td styleCode="Rrule">600 mg</td>
+                                       <td styleCode="Rrule">200 mg</td>
+                                       <td styleCode="Rrule">100 mg</td>
+                                    </tr>
+                                    <tr>
+                                       <td styleCode="Lrule Rrule">Pediatric patients<sup>a</sup>
+                                          <br/>(2 to 12 years of age)</td>
+                                       <td styleCode="Rrule">12 mg/kg</td>
+                                       <td styleCode="Rrule">4 mg/kg</td>
+                                       <td styleCode="Rrule">2 mg/kg</td>
+                                    </tr>
+                                 </tbody>
+                              </table>
+                           </item>
+                           <item>No recommendation for dosage adjustment can be made for pediatric patients 6 months to less than 2 years of age with creatinine clearance less than 50 mL/min (<linkHtml href="#S2.2">2.2</linkHtml>)</item>
+                           <item>Hemodialysis: Administer after dialysis (<linkHtml href="#S2.2">2.2</linkHtml>)</item>
+                           <item>RAPIVAB must be diluted prior to administration (<linkHtml href="#S2.3">2.3</linkHtml>)</item>
+                           <item>See the Full Prescribing Information for drug compatibility information (<linkHtml href="#S2.4">2.4</linkHtml>)</item>
+                        </list>
+                     </text>
+                  </highlight>
+               </excerpt>
+               <component>
+                  <section ID="S2.1">
+                     <id root="010ac899-c552-4b0b-83d6-7f2ef641f94c"/>
+                     <code code="42229-5" codeSystem="2.16.840.1.113883.6.1" displayName="SPL UNCLASSIFIED SECTION"/>
+                     <title>2.1	Dosage in Acute Uncomplicated Influenza</title>
+                     <text>
+                        <paragraph>Administer RAPIVAB within 2 days of onset of symptoms of influenza.</paragraph>
+                     </text>
+                     <effectiveTime value="20240618"/>
+                     <component>
+                        <section>
+                           <id root="c3aaac47-b70e-4e6b-a625-af45db10fe40"/>
+                           <code code="42229-5" codeSystem="2.16.840.1.113883.6.1" displayName="SPL UNCLASSIFIED SECTION"/>
+                           <text>
+                              <paragraph>
+                                 <content styleCode="underline">Adults and Adolescents (13 years of age and older)</content>
+                              </paragraph>
+                              <paragraph>The recommended dosage of RAPIVAB in adult and adolescent patients 13 years of age and older with acute uncomplicated influenza is a single 600 mg dose, administered via intravenous infusion for 15 to 30 minutes.</paragraph>
+                           </text>
+                           <effectiveTime value="20240618"/>
+                        </section>
+                     </component>
+                     <component>
+                        <section>
+                           <id root="dc32244c-21ae-47b1-9278-2e7d981285a0"/>
+                           <code code="42229-5" codeSystem="2.16.840.1.113883.6.1" displayName="SPL UNCLASSIFIED SECTION"/>
+                           <text>
+                              <paragraph>
+                                 <content styleCode="underline">Pediatric Patients (6 months to 12 years of age)</content>
+                              </paragraph>
+                              <paragraph>											The recommended dosage of RAPIVAB in pediatric patients 6 months to 12 years of age with acute uncomplicated influenza is a single 12 mg/kg dose (up to a maximum dose of 600 mg), administered via intravenous infusion for 15 to 30 minutes. 										</paragraph>
+                           </text>
+                           <effectiveTime value="20240618"/>
+                        </section>
+                     </component>
+                  </section>
+               </component>
+               <component>
+                  <section ID="S2.2">
+                     <id root="7fdf05ff-7d14-47b8-ac16-c472cd399211"/>
+                     <code code="42229-5" codeSystem="2.16.840.1.113883.6.1" displayName="SPL UNCLASSIFIED SECTION"/>
+                     <title>2.2	Dosing in Patients with Renal Impairment</title>
+                     <text>
+                        <paragraph>Significantly increased drug exposures were observed when RAPIVAB was administered to adult subjects with renal dysfunction <content styleCode="italics">[see <linkHtml href="#S12.3">Clinical Pharmacology (12.3)</linkHtml>]</content>. Therefore, the RAPIVAB dosage should be reduced for patients with baseline creatinine clearance below 50 mL/min using the recommendations in Table 1 and Table 2. No dosage adjustment is required for single administration of RAPIVAB in patients with creatinine clearance of 50 mL/min or higher <content styleCode="italics">[see <linkHtml href="#S12.3">Clinical Pharmacology (12.3)</linkHtml>]</content>.</paragraph>
+                        <paragraph>In patients with chronic renal impairment maintained on hemodialysis, RAPIVAB should be administered after dialysis at a dose adjusted based on renal function (Table 1 and Table 2) <content styleCode="italics">[see <linkHtml href="#S12.3">Clinical Pharmacology (12.3)</linkHtml>]</content>.</paragraph>
+                        <table width="85%">
+                           <caption>Table 1. Dosage Adjustment for Adults and Adolescents (13 Years and Older) with Altered Creatinine Clearance</caption>
+                           <col width="34%" align="left" valign="middle"/>
+                           <col width="22%" align="center" valign="middle"/>
+                           <col width="22%" align="center" valign="middle"/>
+                           <col width="22%" align="center" valign="middle"/>
+                           <thead>
+                              <tr>
+                                 <th styleCode="Lrule Rrule" rowspan="2"/>
+                                 <th styleCode="Botrule Rrule" colspan="3">Creatinine Clearance<sup>a</sup> (mL/min)</th>
+                              </tr>
+                              <tr>
+                                 <th styleCode="Rrule" align="center">≥50</th>
+                                 <th styleCode="Rrule">30 to 49</th>
+                                 <th styleCode="Rrule">10 to 29</th>
+                              </tr>
+                           </thead>
+                           <tfoot>
+                              <tr>
+                                 <td colspan="4" align="left">
+                                    <sup>a</sup> Calculated using the Cockcroft and Gault equation.</td>
+                              </tr>
+                           </tfoot>
+                           <tbody>
+                              <tr>
+                                 <td styleCode="Lrule Rrule">												Recommended Dose (mg) 											</td>
+                                 <td styleCode="Rrule">600 mg</td>
+                                 <td styleCode="Rrule">200 mg</td>
+                                 <td styleCode="Rrule">100 mg</td>
+                              </tr>
+                           </tbody>
+                        </table>
+                        <table width="85%">
+                           <caption>Table 2. Dosage Adjustment for Pediatric Patients (2 to 12 Years of Age) with Altered Creatinine Clearance</caption>
+                           <col width="34%" align="left" valign="middle"/>
+                           <col width="22%" align="center" valign="middle"/>
+                           <col width="22%" align="center" valign="middle"/>
+                           <col width="22%" align="center" valign="middle"/>
+                           <thead>
+                              <tr>
+                                 <th styleCode="Lrule Rrule" rowspan="2"/>
+                                 <th styleCode="Botrule Rrule" colspan="3">Creatinine Clearance<sup>a</sup> (mL/min)</th>
+                              </tr>
+                              <tr>
+                                 <th styleCode="Rrule" align="center">≥50</th>
+                                 <th styleCode="Rrule">30 to 49</th>
+                                 <th styleCode="Rrule">10 to 29</th>
+                              </tr>
+                           </thead>
+                           <tfoot>
+                              <tr>
+                                 <td colspan="4" align="left">
+                                    <content styleCode="bold">
+                                       <sup>a</sup>
+                                    </content> Calculated using the Cockcroft and Gault equation.</td>
+                              </tr>
+                              <tr>
+                                 <td colspan="4" align="left">
+                                    <sup>b</sup> Up to maximum dose of 600 mg.</td>
+                              </tr>
+                           </tfoot>
+                           <tbody>
+                              <tr>
+                                 <td styleCode="Lrule Rrule">												Recommended Dose (mg/kg)<sup>b</sup>
+                                 </td>
+                                 <td styleCode="Rrule">12 mg/kg</td>
+                                 <td styleCode="Rrule">4 mg/kg</td>
+                                 <td styleCode="Rrule">2 mg/kg</td>
+                              </tr>
+                           </tbody>
+                        </table>
+                        <paragraph>									No data are available to inform a recommendation for dosage adjustment with RAPIVAB in pediatric patients 6 months to less than 2 years of age with creatinine clearance less than 50 mL/min <content styleCode="italics">[see <linkHtml href="#S8.4">Use in Specific Populations (8.4</linkHtml>, <linkHtml href="#S8.6">8.6)</linkHtml>, <linkHtml href="#S12.3">Clinical Pharmacology (12.3)</linkHtml>]</content>.</paragraph>
+                     </text>
+                     <effectiveTime value="20240618"/>
+                  </section>
+               </component>
+               <component>
+                  <section ID="S2.3">
+                     <id root="9a7ee52c-2787-43f7-917c-0a90bd151e28"/>
+                     <code code="42229-5" codeSystem="2.16.840.1.113883.6.1" displayName="SPL UNCLASSIFIED SECTION"/>
+                     <title>2.3	Preparation of RAPIVAB for Intravenous Infusion</title>
+                     <text>
+                        <paragraph>Use aseptic technique during the preparation of RAPIVAB to prevent inadvertent microbial contamination. There is no preservative or bacteriostatic agent present in the solution.</paragraph>
+                        <paragraph>Follow the steps below to prepare a diluted solution of RAPIVAB:</paragraph>
+                        <list listType="unordered">
+                           <item>
+                              <caption>(a)</caption>Do not use if seal over bottle opening is broken or missing.</item>
+                           <item>
+                              <caption>(b)</caption>Visually inspect RAPIVAB for particulate matter and discoloration prior to administration. </item>
+                           <item>
+                              <caption>(c)</caption>										Dilute an appropriate dose of RAPIVAB 10 mg/mL solution <content styleCode="italics">[see <linkHtml href="#S2.1">Dosage and Administration (2.1</linkHtml>, <linkHtml href="#S2.2">2.2)</linkHtml>]</content> in 0.9% or 0.45% sodium chloride, 5% dextrose, or lactated Ringer's. The maximum infusion volume is provided in Table 3. The final concentration of diluted RAPIVAB for administration should be between 1 mg/mL and 6 mg/mL. 										<table width="85%">
+                                 <caption>Table 3.  Maximum Infusion Volume by Age and Weight</caption>
+                                 <col width="32%" align="left" valign="top"/>
+                                 <col width="34%" align="center" valign="top"/>
+                                 <col width="34%" align="center" valign="top"/>
+                                 <thead>
+                                    <tr>
+                                       <th styleCode="Lrule Rrule" align="center">														Age 													</th>
+                                       <th styleCode="Rrule" valign="bottom">Weight (kg)</th>
+                                       <th styleCode="Rrule">Maximum Infusion Volume<sup>a</sup> (mL)</th>
+                                    </tr>
+                                 </thead>
+                                 <tfoot>
+                                    <tr>
+                                       <td colspan="3" align="left">
+                                          <content styleCode="bold">
+                                             <sup>a</sup>
+                                          </content>Infusion volume is the total volume of RAPIVAB 10 mg/mL solution and diluent. The final concentration of diluted RAPIVAB for administration should be between 1 mg/mL and 6 mg/mL.</td>
+                                    </tr>
+                                 </tfoot>
+                                 <tbody>
+                                    <tr styleCode="Botrule">
+                                       <td styleCode="Lrule Rrule">														 															Infants 6 months to 1 year of age 														 													</td>
+                                       <td styleCode="Rrule">Any</td>
+                                       <td styleCode="Rrule">25 mL</td>
+                                    </tr>
+                                    <tr styleCode="Botrule">
+                                       <td styleCode="Lrule Rrule" rowspan="4">														 															Adults and pediatric patients 1 year and older 														 													</td>
+                                       <td styleCode="Rrule" align="center">5 kg to less than 10 kg</td>
+                                       <td styleCode="Rrule">25 mL</td>
+                                    </tr>
+                                    <tr styleCode="Botrule">
+                                       <td styleCode="Rrule" align="center">10 kg to less than 15 kg</td>
+                                       <td styleCode="Rrule">50 mL</td>
+                                    </tr>
+                                    <tr styleCode="Botrule">
+                                       <td styleCode="Rrule" align="center">15 kg to less than 20 kg</td>
+                                       <td styleCode="Rrule">75 mL</td>
+                                    </tr>
+                                    <tr>
+                                       <td styleCode="Rrule" align="center">At least 20 kg</td>
+                                       <td styleCode="Rrule">100 mL</td>
+                                    </tr>
+                                 </tbody>
+                              </table>
+                           </item>
+                           <item>
+                              <caption>(d)</caption>Administer the diluted solution via intravenous infusion for 15 to 30 minutes.</item>
+                           <item>
+                              <caption>(e)</caption>Discard any unused diluted solution of RAPIVAB after 24 hours.</item>
+                        </list>
+                        <paragraph>Once a diluted solution of RAPIVAB has been prepared, administer immediately or store under refrigerated conditions (2° to 8°C or 36° to 46°F) for up to 24 hours. If refrigerated, allow the diluted solution of RAPIVAB to reach room temperature then administer immediately.</paragraph>
+                     </text>
+                     <effectiveTime value="20240618"/>
+                  </section>
+               </component>
+               <component>
+                  <section ID="S2.4">
+                     <id root="d2c2374e-1e29-4dd4-86d7-a918868d50d4"/>
+                     <code code="42229-5" codeSystem="2.16.840.1.113883.6.1" displayName="SPL UNCLASSIFIED SECTION"/>
+                     <title>2.4 	Drug Compatibility</title>
+                     <text>
+                        <paragraph>RAPIVAB injection is compatible with 0.9% or 0.45% sodium chloride, 5% dextrose, or lactated Ringer's. Do not mix or co-infuse RAPIVAB with other intravenous medications.</paragraph>
+                        <paragraph>RAPIVAB injection is compatible with materials commonly used for administration such as polyvinylchloride (PVC) bags and PVC-free bags, polypropylene syringes, and polyethylene tubing.</paragraph>
+                     </text>
+                     <effectiveTime value="20240618"/>
+                  </section>
+               </component>
+            </section>
+         </component>
+         <component>
+            <section ID="S3">
+               <id root="748e6882-8445-4912-969b-892de7d766b9"/>
+               <code code="43678-2" codeSystem="2.16.840.1.113883.6.1" displayName="DOSAGE FORMS &amp; STRENGTHS SECTION"/>
+               <title>3 DOSAGE FORMS AND STRENGTHS</title>
+               <text>
+                  <paragraph>Each vial of RAPIVAB injection contains 200 mg per 20 mL (10 mg per mL) as a clear, colorless solution <content styleCode="italics">[see <linkHtml href="#S16">How Supplied/Storage and Handling (16)</linkHtml>].</content>
+                  </paragraph>
+               </text>
+               <effectiveTime value="20240618"/>
+               <excerpt>
+                  <highlight>
+                     <text>
+                        <paragraph>Injection: 200 mg in 20 mL (10 mg/mL) in a single-use vial (<linkHtml href="#S3">3</linkHtml>)</paragraph>
+                     </text>
+                  </highlight>
+               </excerpt>
+            </section>
+         </component>
+         <component>
+            <section ID="S4">
+               <id root="8c30ed38-a6d5-4cb0-8e87-4e381c05e5ef"/>
+               <code code="34070-3" codeSystem="2.16.840.1.113883.6.1" displayName="CONTRAINDICATIONS SECTION"/>
+               <title>4 CONTRAINDICATIONS</title>
+               <text>
+                  <paragraph>RAPIVAB is contraindicated in patients with known serious hypersensitivity or anaphylaxis to peramivir or any component of the product. Severe allergic reactions have included anaphylaxis, erythema multiforme, and Stevens-Johnson syndrome <content styleCode="italics">[see <linkHtml href="#S5.1">Warnings and Precautions (5.1)</linkHtml>]</content>.</paragraph>
+               </text>
+               <effectiveTime value="20240618"/>
+               <excerpt>
+                  <highlight>
+                     <text>
+                        <paragraph>Patients with known serious hypersensitivity or anaphylaxis to peramivir or any component of RAPIVAB (<linkHtml href="#S4">4</linkHtml>)</paragraph>
+                     </text>
+                  </highlight>
+               </excerpt>
+            </section>
+         </component>
+         <component>
+            <section ID="S5">
+               <id root="3cd8ca31-80fa-408b-9839-5cbd47b9aa6c"/>
+               <code code="43685-7" codeSystem="2.16.840.1.113883.6.1" displayName="WARNINGS AND PRECAUTIONS SECTION"/>
+               <title>5 WARNINGS AND PRECAUTIONS</title>
+               <effectiveTime value="20240618"/>
+               <excerpt>
+                  <highlight>
+                     <text>
+                        <list listType="unordered" styleCode="disc">
+                           <item>Cases of anaphylaxis and serious skin/hypersensitivity reactions such as Stevens-Johnson syndrome and erythema multiforme have occurred with RAPIVAB. Discontinue RAPIVAB and initiate appropriate treatment if anaphylaxis or serious skin reaction occurs or is suspected. (<linkHtml href="#S5.1">5.1</linkHtml>)</item>
+                           <item>Neuropsychiatric events: Patients with influenza may be at an increased risk of hallucinations, delirium, and abnormal behavior early in their illness. Monitor for signs of abnormal behavior. (<linkHtml href="#S5.2">5.2)</linkHtml>
+                           </item>
+                        </list>
+                     </text>
+                  </highlight>
+               </excerpt>
+               <component>
+                  <section ID="S5.1">
+                     <id root="db0caa47-9610-4859-8e59-17034257d218"/>
+                     <code code="42229-5" codeSystem="2.16.840.1.113883.6.1" displayName="SPL UNCLASSIFIED SECTION"/>
+                     <title>5.1	Serious Skin/Hypersensitivity Reactions</title>
+                     <text>
+                        <paragraph>Rare cases of serious skin reactions, including erythema multiforme, have been reported with RAPIVAB in clinical studies and in postmarketing experience. Cases of anaphylaxis and Stevens-Johnson syndrome have been reported in postmarketing experience with RAPIVAB. Discontinue RAPIVAB and institute appropriate treatment if anaphylaxis or a serious skin reaction occurs or is suspected. The use of RAPIVAB is contraindicated in patients with known serious hypersensitivity or anaphylaxis to RAPIVAB <content styleCode="italics">[see <linkHtml href="#S4">Contraindications (4)</linkHtml>, <linkHtml href="#S6.2">Adverse Reactions (6.2)</linkHtml>].</content>
+                        </paragraph>
+                     </text>
+                     <effectiveTime value="20240618"/>
+                  </section>
+               </component>
+               <component>
+                  <section ID="S5.2">
+                     <id root="a19bd14b-ff14-442c-9ce7-02a4b1f028ba"/>
+                     <code code="42229-5" codeSystem="2.16.840.1.113883.6.1" displayName="SPL UNCLASSIFIED SECTION"/>
+                     <title>5.2	Neuropsychiatric Events</title>
+                     <text>
+                        <paragraph>Influenza can be associated with a variety of neurologic and behavioral symptoms that can include events such as hallucinations, delirium, and abnormal behavior, in some cases resulting in fatal outcomes. These events may occur in the setting of encephalitis or encephalopathy but can occur in uncomplicated influenza as well.</paragraph>
+                        <paragraph>There have been postmarketing reports of delirium and abnormal behavior leading to injury in patients with influenza who were receiving neuraminidase inhibitors, including RAPIVAB. Because these events were reported voluntarily during clinical practice, estimates of frequency cannot be made, but they appear to be uncommon. These events were reported primarily among pediatric patients and often had an abrupt onset and rapid resolution. The contribution of RAPIVAB to these events has not been established. Patients with influenza should be closely monitored for signs of abnormal behavior.</paragraph>
+                     </text>
+                     <effectiveTime value="20240618"/>
+                  </section>
+               </component>
+               <component>
+                  <section ID="S5.3">
+                     <id root="c39925d9-23a6-4981-8deb-5f82141fecfc"/>
+                     <code code="42229-5" codeSystem="2.16.840.1.113883.6.1" displayName="SPL UNCLASSIFIED SECTION"/>
+                     <title>5.3	Risk of Bacterial Infections</title>
+                     <text>
+                        <paragraph>There is no evidence for efficacy of RAPIVAB in any illness caused by agents other than influenza viruses. Serious bacterial infections may begin with influenza-like symptoms or may coexist with or occur as complications during the course of influenza. RAPIVAB has not been shown to prevent such complications.</paragraph>
+                        <paragraph>Prescribers should be alert to the potential for secondary bacterial infections and treat with antibiotics as appropriate.</paragraph>
+                     </text>
+                     <effectiveTime value="20240618"/>
+                  </section>
+               </component>
+            </section>
+         </component>
+         <component>
+            <section ID="S6">
+               <id root="1f82921c-517d-4aa1-922e-89a9aef81da8"/>
+               <code code="34084-4" codeSystem="2.16.840.1.113883.6.1" displayName="ADVERSE REACTIONS SECTION"/>
+               <title>6 ADVERSE REACTIONS</title>
+               <text>
+                  <paragraph>The following adverse reactions are discussed in other sections of the labeling:</paragraph>
+                  <list listType="unordered" styleCode="disc">
+                     <item>Serious skin and hypersensitivity reactions <content styleCode="italics">[see <linkHtml href="#S5.1">Warnings and Precautions (5.1)</linkHtml>]</content>
+                     </item>
+                     <item>Neuropsychiatric events <content styleCode="italics">[see <linkHtml href="#S5.2">Warnings and Precautions (5.2)</linkHtml>]</content>
+                     </item>
+                  </list>
+               </text>
+               <effectiveTime value="20240618"/>
+               <excerpt>
+                  <highlight>
+                     <text>
+                        <paragraph>Most common adverse reaction (incidence &gt;2%) is diarrhea. (<linkHtml href="#S6">6</linkHtml>)</paragraph>
+                        <br/>
+                        <paragraph>
+                           <content styleCode="bold">To report SUSPECTED ADVERSE REACTIONS, contact BioCryst Pharmaceuticals, Inc. at 1-833-633-2279 or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch</content>
+                        </paragraph>
+                     </text>
+                  </highlight>
+               </excerpt>
+               <component>
+                  <section ID="S6.1">
+                     <id root="53af248e-6c01-4353-80c0-8bf9318fec66"/>
+                     <code code="90374-0" codeSystem="2.16.840.1.113883.6.1" displayName="CLINICAL TRIALS EXPERIENCE SECTION"/>
+                     <title>6.1	Clinical Trials Experience</title>
+                     <text>
+                        <paragraph>Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice.</paragraph>
+                     </text>
+                     <effectiveTime value="20240618"/>
+                     <component>
+                        <section>
+                           <id root="c6b094da-2a1f-4ad4-8687-a582a824d560"/>
+                           <code code="42229-5" codeSystem="2.16.840.1.113883.6.1" displayName="SPL UNCLASSIFIED SECTION"/>
+                           <text>
+                              <paragraph>
+                                 <content styleCode="underline">Adverse Reactions in Adults (18 years of age and older)</content>
+                              </paragraph>
+                              <paragraph>In 5 randomized, double-blind, controlled trials, 1,399 subjects with acute uncomplicated influenza received a single dose of RAPIVAB, administered intravenously or intramuscularly, at doses up to 600 mg. Among the 664 subjects receiving RAPIVAB 600 mg (intravenous or intramuscular), the most commonly observed adverse reaction was diarrhea, occurring at a rate of 8% versus 7% in subjects receiving placebo. No subject receiving RAPIVAB 600 mg experienced a serious adverse event and &lt;1% discontinued study because of an adverse reaction.</paragraph>
+                              <paragraph>Clinically significant laboratory abnormalities (DAIDS Grades 2 to 4) listed in Table 4 occurred more frequently in subjects treated with RAPIVAB 600 mg (intravenous or intramuscular) than placebo. Only events occurring at ≥2% are included.</paragraph>
+                              <table width="85%">
+                                 <caption>Table 4: Laboratory Abnormalities Occurring in ≥2% of Subjects Treated with RAPIVAB 600 mg</caption>
+                                 <col width="40%" align="left" valign="top"/>
+                                 <col width="30%" align="center" valign="middle"/>
+                                 <col width="30%" align="center" valign="middle"/>
+                                 <thead>
+                                    <tr>
+                                       <th styleCode="Lrule Rrule" align="center">Laboratory Parameter Abnormality<sup>a</sup>
+                                       </th>
+                                       <th styleCode="Rrule">RAPIVAB 600 mg</th>
+                                       <th styleCode="Rrule">Placebo</th>
+                                    </tr>
+                                 </thead>
+                                 <tfoot>
+                                    <tr>
+                                       <td colspan="3" align="left">
+                                          <sup>a</sup> Frequencies based on treatment-emergent laboratory abnormalities.</td>
+                                    </tr>
+                                 </tfoot>
+                                 <tbody>
+                                    <tr styleCode="Botrule">
+                                       <td styleCode="Lrule Rrule">														Alanine Aminotransferase (&gt;2.5 × ULN) 													</td>
+                                       <td styleCode="Lrule Rrule">(n = 654)<br/>3%</td>
+                                       <td styleCode="Rrule">(n = 430)<br/>2%</td>
+                                    </tr>
+                                    <tr styleCode="Botrule">
+                                       <td styleCode="Lrule Rrule">														Serum Glucose (&gt;160 mg/dL) 													</td>
+                                       <td styleCode="Lrule Rrule">(n = 660)<br/>5%</td>
+                                       <td styleCode="Rrule">(n = 433)<br/>3%</td>
+                                    </tr>
+                                    <tr styleCode="Botrule">
+                                       <td styleCode="Lrule Rrule">														Creatine Phosphokinase (≥6.0 × ULN) 													</td>
+                                       <td styleCode="Lrule Rrule">(n = 654)<br/>4%</td>
+                                       <td styleCode="Rrule">(n = 431)<br/>2%</td>
+                                    </tr>
+                                    <tr>
+                                       <td styleCode="Lrule Rrule">														Neutrophils (&lt;1.000 ×10<sup>9</sup>/L) 													</td>
+                                       <td styleCode="Lrule Rrule">(n = 654)<br/>8%</td>
+                                       <td styleCode="Rrule">(n = 430)<br/>6%</td>
+                                    </tr>
+                                 </tbody>
+                              </table>
+                              <paragraph>In a subset of subjects with serious influenza requiring hospitalization treated with RAPIVAB 600 mg as monotherapy (n = 101), the following adverse reactions were also reported more frequently with RAPIVAB as compared to placebo: constipation (4% versus 2%), insomnia (3% versus 0%), AST increased (3% versus 2%), and hypertension (2% versus 0%).</paragraph>
+                           </text>
+                           <effectiveTime value="20240618"/>
+                        </section>
+                     </component>
+                     <component>
+                        <section>
+                           <id root="59cb203f-31b0-45a1-bb41-c8d6ea94a75c"/>
+                           <code code="42229-5" codeSystem="2.16.840.1.113883.6.1" displayName="SPL UNCLASSIFIED SECTION"/>
+                           <text>
+                              <paragraph>
+                                 <content styleCode="underline">Adverse Reactions in Adolescent and Pediatric Subjects (6 months to 17 years of age)</content>
+                              </paragraph>
+                              <paragraph>Assessment of adverse reactions is based on a randomized, active-controlled study in which 130 adolescent and pediatric subjects ages 6 months to 17 years of age with acute uncomplicated influenza received open-label treatment with a single dose of RAPIVAB (n = 107), or 5 days of treatment with oseltamivir (n = 23) <content styleCode="italics">[see <linkHtml href="#S8.4">Use in Specific Populations (8.4)</linkHtml>, <linkHtml href="#S14.2">Clinical Studies (14.2)</linkHtml>]</content>.</paragraph>
+                              <paragraph>The safety profile of RAPIVAB in subjects 6 months to 17 years of age was generally similar to that observed in adults. The only adverse reaction reported in pediatric subjects treated with RAPIVAB (occurring in ≥2% of subjects) and not reported in adults was vomiting (3% versus 9% for oseltamivir). The only clinically significant laboratory abnormality (DAIDS Grade 2) occurring in ≥2% of pediatric subjects treated with RAPIVAB (and not previously reported in adults) was proteinuria by dipstick analysis (3% versus 0% for oseltamivir).</paragraph>
+                           </text>
+                           <effectiveTime value="20240618"/>
+                        </section>
+                     </component>
+                  </section>
+               </component>
+               <component>
+                  <section ID="S6.2">
+                     <id root="7e1defe5-dd01-4a61-a1e8-f7cc39d26d08"/>
+                     <code code="90375-7" codeSystem="2.16.840.1.113883.6.1" displayName="POSTMARKETING EXPERIENCE SECTION"/>
+                     <title>6.2 Postmarketing Experience</title>
+                     <text>
+                        <paragraph>The following additional adverse reactions have been identified during postapproval use of RAPIVAB. Because postmarketing reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.</paragraph>
+                        <paragraph>Dermatologic: Stevens-Johnson syndrome, exfoliative dermatitis, rash <content styleCode="italics">[see <linkHtml href="#S5.1">Warnings and Precautions (5.1)</linkHtml>]</content>. 								</paragraph>
+                        <paragraph>General Disorders and Administration Site Conditions: Anaphylactic/anaphylactoid reactions <content styleCode="italics">[see <linkHtml href="#S5.1">Warnings and Precautions (5.1)</linkHtml>]</content>. 								</paragraph>
+                        <paragraph>Psychiatric: Abnormal behavior, hallucination <content styleCode="italics">[see <linkHtml href="#S5.2">Warnings and Precautions (5.2)</linkHtml>]</content>. 								</paragraph>
+                     </text>
+                     <effectiveTime value="20240618"/>
+                  </section>
+               </component>
+            </section>
+         </component>
+         <component>
+            <section ID="S7">
+               <id root="d7e44a90-09f3-4ba5-8fd4-a03c03f45ff0"/>
+               <code code="34073-7" codeSystem="2.16.840.1.113883.6.1" displayName="DRUG INTERACTIONS SECTION"/>
+               <title>7 DRUG INTERACTIONS</title>
+               <text>
+                  <paragraph>This section describes clinically relevant drug interactions with RAPIVAB. Drug-drug interaction studies are described elsewhere in the labeling <content styleCode="italics">[see <linkHtml href="#S12.3">Clinical Pharmacology (12.3)</linkHtml>].</content>
+                  </paragraph>
+               </text>
+               <effectiveTime value="20240618"/>
+               <excerpt>
+                  <highlight>
+                     <text>
+                        <paragraph>Live attenuated influenza vaccine (LAIV), intranasal: Avoid use of LAIV within 2 weeks before or 48 hours after administration of RAPIVAB, unless medically indicated (<linkHtml href="#S7.1">7.1</linkHtml>)</paragraph>
+                     </text>
+                  </highlight>
+               </excerpt>
+               <component>
+                  <section ID="S7.1">
+                     <id root="ec66f81b-0262-4c55-ae9e-3492af7ef4a8"/>
+                     <code code="42229-5" codeSystem="2.16.840.1.113883.6.1" displayName="SPL UNCLASSIFIED SECTION"/>
+                     <title>7.1	Influenza Vaccines</title>
+                     <text>
+                        <paragraph>Inactivated influenza vaccine can be administered at any time relative to use of RAPIVAB. For live attenuated influenza vaccine (LAIV), antiviral drugs may inhibit viral replication and thus may reduce vaccine efficacy. The concurrent use of RAPIVAB with LAIV intranasal has not been evaluated. Because of the potential for interference between these two products, avoid use of LAIV within 2 weeks before or 48 hours after administration of RAPIVAB unless medically indicated.</paragraph>
+                     </text>
+                     <effectiveTime value="20240618"/>
+                  </section>
+               </component>
+            </section>
+         </component>
+         <component>
+            <section ID="S8">
+               <id root="e035f137-7926-4e55-b0d2-575cf904d5ea"/>
+               <code code="43684-0" codeSystem="2.16.840.1.113883.6.1" displayName="USE IN SPECIFIC POPULATIONS SECTION"/>
+               <title>8 USE IN SPECIFIC POPULATIONS</title>
+               <effectiveTime value="20240618"/>
+               <component>
+                  <section ID="S8.1">
+                     <id root="05485e7c-5317-4294-9017-3cf2c3e7490e"/>
+                     <code code="42228-7" codeSystem="2.16.840.1.113883.6.1" displayName="PREGNANCY SECTION"/>
+                     <title>8.1 Pregnancy</title>
+                     <effectiveTime value="20240618"/>
+                     <component>
+                        <section>
+                           <id root="cc1ffa21-d6e6-4fed-8952-bc04d1eead6e"/>
+                           <code code="42229-5" codeSystem="2.16.840.1.113883.6.1" displayName="SPL UNCLASSIFIED SECTION"/>
+                           <text>
+                              <paragraph>
+                                 <content styleCode="underline">Risk Summary</content>
+                              </paragraph>
+                              <paragraph>Limited available data with RAPIVAB use in pregnant women are insufficient to determine a drug-associated risk of adverse developmental outcomes. There are risks to the mother and fetus associated with influenza in pregnancy <content styleCode="italics">[see <linkHtml href="#cc">Clinical Considerations</linkHtml>]</content>. In animal reproduction studies, no adverse developmental effects were observed in rats when peramivir was administered by intravenous bolus injection during organogenesis at the maximum feasible dose, resulting in systemic drug exposures (AUC) approximately 8 times those in humans at the recommended dose. However, when peramivir was administered to rats by continuous intravenous infusion during the same gestation period, fetal abnormalities of reduced renal papilla and dilated ureters were observed. In rabbits, administration of peramivir during organogenesis at exposures 8 times those in humans at the recommended dose resulted in developmental toxicity (abortion or premature delivery) at a maternally toxic dose <content styleCode="italics">[see <linkHtml href="#data">Data</linkHtml>]</content>.</paragraph>
+                              <paragraph>The estimated background risk of major birth defects and miscarriage for the indicated population is unknown. All pregnancies have a background risk of birth defect, loss, or other adverse outcomes. In the U.S. general population, the estimated background risk of major birth defects and miscarriage in clinically recognized pregnancies is 2% to 4% and 15% to 20%, respectively.</paragraph>
+                           </text>
+                           <effectiveTime value="20240618"/>
+                        </section>
+                     </component>
+                     <component>
+                        <section ID="cc">
+                           <id root="6deeff57-4c1f-45bb-b088-c438027a2089"/>
+                           <code code="42229-5" codeSystem="2.16.840.1.113883.6.1" displayName="SPL UNCLASSIFIED SECTION"/>
+                           <text>
+                              <paragraph>
+                                 <content styleCode="underline">Clinical Considerations</content>
+                              </paragraph>
+                           </text>
+                           <effectiveTime value="20240618"/>
+                           <component>
+                              <section>
+                                 <id root="4b5b421e-c886-49d8-a059-dbebf053e863"/>
+                                 <code code="42229-5" codeSystem="2.16.840.1.113883.6.1" displayName="SPL UNCLASSIFIED SECTION"/>
+                                 <text>
+                                    <paragraph>
+                                       <content styleCode="italics">Disease-Associated Maternal and/or Embryo/Fetal Risk</content>
+                                    </paragraph>
+                                    <paragraph>Pregnant women are at higher risk of severe complications from influenza, which may lead to adverse pregnancy and/or fetal outcomes including maternal death, stillbirths, birth defects, preterm delivery, low birthweight, and small for gestational age.</paragraph>
+                                 </text>
+                                 <effectiveTime value="20240618"/>
+                              </section>
+                           </component>
+                        </section>
+                     </component>
+                     <component>
+                        <section ID="data">
+                           <id root="b22fc616-da05-4e2e-b8d1-44baf6903939"/>
+                           <code code="42229-5" codeSystem="2.16.840.1.113883.6.1" displayName="SPL UNCLASSIFIED SECTION"/>
+                           <text>
+                              <paragraph>
+                                 <content styleCode="underline">Data</content>
+                              </paragraph>
+                           </text>
+                           <effectiveTime value="20240618"/>
+                           <component>
+                              <section>
+                                 <id root="77feb1ee-040b-4519-9692-dd0d861e41d7"/>
+                                 <code code="42229-5" codeSystem="2.16.840.1.113883.6.1" displayName="SPL UNCLASSIFIED SECTION"/>
+                                 <text>
+                                    <paragraph>
+                                       <content styleCode="italics">Animal Data</content>
+                                    </paragraph>
+                                    <paragraph>Reproductive toxicity studies have been performed in rats and rabbits. In rats, peramivir was administered once daily by intravenous bolus injection at doses of 200, 400, and 600 mg/kg/day on Gestational Days 6 to 17. No treatment-related fetal toxicities were observed when peramivir was administered by intravenous bolus injection at the maximum feasible dose of 600 mg/kg, resulting in exposures approximately 8 times those in humans at the recommended dose.</paragraph>
+                                    <paragraph>Peramivir was also administered by continuous intravenous infusion to rats at daily doses of 50, 400, and 1000 mg/kg/day on Gestational Days 6 to 17. Dose related increases in the incidence of fetal abnormalities of reduced renal papilla and dilated ureters were observed at 400 and 1000 mg/kg/day. The systemic drug exposure in rats at a dose without fetal effects was less than the exposures in humans at the recommended dose.</paragraph>
+                                    <paragraph>In rabbits, peramivir was administered once daily by intravenous bolus injection at doses of 25, 50, 100, and 200 mg/kg/day on Gestational Days 7 to 19. Developmental toxicity (abortion or premature delivery) was observed at maternally toxic dose levels (100 and 200 mg/kg/day) resulting in exposures approximately 8 times those in humans at the recommended dose. The exposure in rabbits at doses without developmental toxicity was less than the exposure in humans at the recommended dose.</paragraph>
+                                    <paragraph>A pre/post-natal developmental toxicity study was performed in pregnant rats administered peramivir once daily by intravenous infusion at doses of 50, 200, 400, and 600 mg/kg/day on Gestational Day 6 through Lactation Day 20. No significant effects of peramivir on developmental outcomes were observed in nursing pups at up to the highest dose tested.</paragraph>
+                                 </text>
+                                 <effectiveTime value="20240618"/>
+                              </section>
+                           </component>
+                        </section>
+                     </component>
+                  </section>
+               </component>
+               <component>
+                  <section ID="S8.2">
+                     <id root="1c55caf0-c756-4006-80d8-00f06c19f6be"/>
+                     <code code="77290-5" codeSystem="2.16.840.1.113883.6.1" displayName="LACTATION SECTION"/>
+                     <title>8.2 Lactation</title>
+                     <effectiveTime value="20240618"/>
+                     <component>
+                        <section>
+                           <id root="31411d1c-b0b0-4e39-90b9-fa9439606a79"/>
+                           <code code="42229-5" codeSystem="2.16.840.1.113883.6.1" displayName="SPL UNCLASSIFIED SECTION"/>
+                           <text>
+                              <paragraph>
+                                 <content styleCode="underline">Risk Summary</content>
+                              </paragraph>
+                              <paragraph>There are no data on the presence of RAPIVAB in human milk, the effects on the breastfed infant, or the effects on milk production. Peramivir is present in rat milk <content styleCode="italics">[see <linkHtml href="#data2">Data</linkHtml>].</content> Limited clinical data during lactation preclude a clear determination of the risk of RAPIVAB to an infant during lactation; therefore, the developmental and health benefits of breastfeeding should be considered along with the mother's clinical need for RAPIVAB and any potential adverse effects on the breastfed child from the drug or from the underlying maternal condition.  </paragraph>
+                           </text>
+                           <effectiveTime value="20240618"/>
+                        </section>
+                     </component>
+                     <component>
+                        <section ID="data2">
+                           <id root="332e8da0-89d2-4d79-b233-858a9a787fa6"/>
+                           <code code="42229-5" codeSystem="2.16.840.1.113883.6.1" displayName="SPL UNCLASSIFIED SECTION"/>
+                           <text>
+                              <paragraph>
+                                 <content styleCode="underline">Data</content>
+                              </paragraph>
+                              <paragraph>A pharmacokinetic study was performed in lactating rats administered a single intravenous dose of peramivir (10 mg/kg) on Lactation/Postpartum Days 11 to 13. The maximum concentration of peramivir in milk was reached at 0.75 hours post-dose. The milk to plasma AUC ratio of peramivir was approximately 0.5.</paragraph>
+                           </text>
+                           <effectiveTime value="20240618"/>
+                        </section>
+                     </component>
+                  </section>
+               </component>
+               <component>
+                  <section ID="S8.4">
+                     <id root="8631460e-e01b-45a2-9d85-4519a0ce90b0"/>
+                     <code code="34081-0" codeSystem="2.16.840.1.113883.6.1" displayName="PEDIATRIC USE SECTION"/>
+                     <title>8.4 Pediatric Use</title>
+                     <text>
+                        <paragraph>The safety and effectiveness of RAPIVAB for the treatment of influenza has been established in pediatric patients 6 months to 17 years of age. Use of RAPIVAB for this indication is supported by evidence from adequate and well-controlled trials of RAPIVAB in adults with additional data from Study 305, a randomized, active-controlled trial of 130 adolescent and pediatric subjects with acute uncomplicated influenza who received open-label treatment with a single dose of RAPIVAB or 5 days of treatment with oseltamivir administered within 48 hours of onset of symptoms of influenza <content styleCode="italics">[see <linkHtml href="#S2.1">Dosage and Administration (2.1</linkHtml>, <linkHtml href="#S2.2">2.2</linkHtml>, <linkHtml href="#S2.3">2.3)</linkHtml>, <linkHtml href="#S6.1">Adverse Reactions (6.1)</linkHtml>, <linkHtml href="#S12.3">Clinical Pharmacology (12.3)</linkHtml>, <linkHtml href="#S14.2">Clinical Studies (14.2)</linkHtml>].</content> Study 305 included:</paragraph>
+                        <list listType="unordered" styleCode="disc">
+                           <item>13 to 17 years of age: 21 subjects treated with RAPIVAB 600 mg </item>
+                           <item>6 months to 12 years of age: 86 subjects treated with RAPIVAB 12 mg/kg (up to a maximum dose of 600 mg)</item>
+                        </list>
+                        <paragraph>Safety and effectiveness of RAPIVAB in pediatric patients less than 6 months of age have not been established. No data are available for RAPIVAB use in pediatric patients 6 months to less than 2 years with creatinine clearance &lt;50 mL/min to inform a recommendation for dosage adjustment <content styleCode="italics">[see <linkHtml href="#S2.2">Dosage and Administration (2.2)</linkHtml>, <linkHtml href="#S12.3">Clinical Pharmacology (12.3)</linkHtml>]</content>.</paragraph>
+                     </text>
+                     <effectiveTime value="20240618"/>
+                  </section>
+               </component>
+               <component>
+                  <section ID="S8.5">
+                     <id root="e6f1f56f-e16c-4b97-a6e7-334f6c47ecdf"/>
+                     <code code="34082-8" codeSystem="2.16.840.1.113883.6.1" displayName="GERIATRIC USE SECTION"/>
+                     <title>8.5 Geriatric Use</title>
+                     <text>
+                        <paragraph>Clinical trials of RAPIVAB did not include sufficient numbers of subjects aged 65 and over to determine whether they respond differently from younger subjects. Other reported clinical experience has not identified differences in exposures between the elderly and younger subjects <content styleCode="italics">[see <linkHtml href="#S12.3">Clinical Pharmacology (12.3)</linkHtml>].</content>
+                        </paragraph>
+                     </text>
+                     <effectiveTime value="20240618"/>
+                  </section>
+               </component>
+               <component>
+                  <section ID="S8.6">
+                     <id root="9277bfe4-db50-43a2-91e5-4cec6ef035b8"/>
+                     <code code="88828-9" codeSystem="2.16.840.1.113883.6.1" displayName="RENAL IMPAIRMENT SUBSECTION"/>
+                     <title>8.6	Patients with Impaired Renal Function</title>
+                     <text>
+                        <paragraph>A reduced dose of RAPIVAB is recommended for patients 2 years and older with creatinine clearance &lt;50 mL/min <content styleCode="italics">[see <linkHtml href="#S2.2">Dosage and Administration (2.2)</linkHtml>, <linkHtml href="#S12.3">Clinical Pharmacology (12.3)</linkHtml>]</content>. Dose adjustment is not required for a single administration of RAPIVAB for patients with creatinine clearance ≥50 mL/min    <content styleCode="italics"> [see <linkHtml href="#S2.2">Dosage and Administration (2.2)</linkHtml>, <linkHtml href="#S12.3">Clinical Pharmacology (12.3)</linkHtml>]</content>.</paragraph>
+                        <paragraph>In patients with chronic renal impairment maintained on hemodialysis, RAPIVAB should be administered after dialysis at a dose adjusted based on renal function <content styleCode="italics">[see <linkHtml href="#S2.2">Dosage and Administration (2.2)</linkHtml>, <linkHtml href="#S12.3">Clinical Pharmacology (12.3)</linkHtml>].</content>
+                        </paragraph>
+                        <paragraph>No data are available for RAPIVAB use in pediatric patients 6 months to less than 2 years with creatinine clearance &lt;50 mL/min to inform a recommendation for dosage adjustment <content styleCode="italics">[see <linkHtml href="#S2.2">Dosage and Administration (2.2)</linkHtml>, <linkHtml href="#S12.3">Clinical Pharmacology (12.3)</linkHtml>]</content>.</paragraph>
+                     </text>
+                     <effectiveTime value="20240618"/>
+                  </section>
+               </component>
+               <component>
+                  <section ID="S8.7">
+                     <id root="60206515-9a1d-4c77-8263-d3b6341f7085"/>
+                     <code code="42229-5" codeSystem="2.16.840.1.113883.6.1" displayName="SPL UNCLASSIFIED SECTION"/>
+                     <title>8.7	Patients with Serious Influenza Requiring Hospitalization</title>
+                     <text>
+                        <paragraph>The use of RAPIVAB was not shown to provide benefit in patients with serious influenza requiring hospitalization <content styleCode="italics">[see <linkHtml href="#S1">Indications and Usage (1)</linkHtml>, <linkHtml href="#S14.2">Clinical Studies (14.2)</linkHtml>]</content>.</paragraph>
+                     </text>
+                     <effectiveTime value="20240618"/>
+                  </section>
+               </component>
+            </section>
+         </component>
+         <component>
+            <section ID="S10">
+               <id root="fe6d8f76-0ac4-4d46-b04b-96998a8b6e56"/>
+               <code code="34088-5" codeSystem="2.16.840.1.113883.6.1" displayName="OVERDOSAGE SECTION"/>
+               <title>10 OVERDOSAGE</title>
+               <text>
+                  <paragraph>There is no human experience of acute overdosage with RAPIVAB. Treatment of overdosage with RAPIVAB should consist of general supportive measures including monitoring of vital signs and observation of the clinical status of the patient. There is no specific antidote for overdose with RAPIVAB.</paragraph>
+                  <paragraph>RAPIVAB is cleared by renal excretion and can be cleared by hemodialysis.</paragraph>
+               </text>
+               <effectiveTime value="20240618"/>
+            </section>
+         </component>
+         <component>
+            <section ID="S11">
+               <id root="e2d56ceb-e021-4b23-8a62-14beb3d0c834"/>
+               <code code="34089-3" codeSystem="2.16.840.1.113883.6.1" displayName="DESCRIPTION SECTION"/>
+               <title>11 DESCRIPTION</title>
+               <text>
+                  <paragraph>RAPIVAB (peramivir) is an inhibitor of influenza virus neuraminidase. The chemical name is (1S,2S,3R,4R)-3-[(1S)-1-(acetylamino)-2-ethylbutyl]-4-(carbamimidoylamino)-2-hydroxycyclopentanecarboxylic acid, trihydrate. The chemical formula is C<sub>15</sub>H<sub>28</sub>N<sub>4</sub>O<sub>4</sub> ∙ 3H<sub>2</sub>O<sub>,</sub> representing a molecular weight of 382.45. The molecular structure is as follows:</paragraph>
+                  <paragraph>
+                     <renderMultiMedia referencedObject="MM1"/>
+                  </paragraph>
+                  <paragraph>RAPIVAB injection is a clear, colorless, sterile, isotonic solution (200 mg per 20 mL) in glass vials fitted with rubber stoppers and royal blue flip-off seals. Each mL contains 10 mg peramivir (on an anhydrous basis) in 0.9% sodium chloride solution. The pH may have been adjusted with sodium hydroxide, USP and/or hydrochloric acid, USP. The pH is 5.5 to 8.5. </paragraph>
+               </text>
+               <effectiveTime value="20240618"/>
+               <component>
+                  <observationMedia ID="MM1">
+                     <text>Chemical Structure</text>
+                     <value xsi:type="ED" mediaType="image/jpeg">
+                        <reference value="rapivab-01.jpg"/>
+                     </value>
+                  </observationMedia>
+               </component>
+            </section>
+         </component>
+         <component>
+            <section ID="S12">
+               <id root="b5f0f0d2-93cc-4471-be8f-aa0f8a7049d9"/>
+               <code code="34090-1" codeSystem="2.16.840.1.113883.6.1" displayName="CLINICAL PHARMACOLOGY SECTION"/>
+               <title>12 CLINICAL PHARMACOLOGY</title>
+               <effectiveTime value="20240618"/>
+               <component>
+                  <section ID="S12.1">
+                     <id root="9f15175c-c9a2-4315-8903-31abade4e7e3"/>
+                     <code code="43679-0" codeSystem="2.16.840.1.113883.6.1" displayName="MECHANISM OF ACTION SECTION"/>
+                     <title>12.1 Mechanism of Action</title>
+                     <text>
+                        <paragraph>Peramivir is an antiviral drug with activity against influenza virus <content styleCode="italics">[see <linkHtml href="#S12.4">Microbiology (12.4)</linkHtml>].</content>
+                        </paragraph>
+                     </text>
+                     <effectiveTime value="20240618"/>
+                  </section>
+               </component>
+               <component>
+                  <section ID="S12.2">
+                     <id root="4c26ebf9-b364-45f5-b3af-643a9fe806d1"/>
+                     <code code="42229-5" codeSystem="2.16.840.1.113883.6.1" displayName="SPL UNCLASSIFIED SECTION"/>
+                     <title>12.2	Cardiac Electrophysiology</title>
+                     <text>
+                        <paragraph>At twice the maximum recommended dose, RAPIVAB did not prolong the QTc interval to any clinically relevant extent.</paragraph>
+                     </text>
+                     <effectiveTime value="20240618"/>
+                  </section>
+               </component>
+               <component>
+                  <section ID="S12.3">
+                     <id root="0a79541d-32b5-4618-95f1-ebadb27ebbb2"/>
+                     <code code="43682-4" codeSystem="2.16.840.1.113883.6.1" displayName="PHARMACOKINETICS SECTION"/>
+                     <title>12.3 Pharmacokinetics</title>
+                     <text>
+                        <paragraph>The pharmacokinetics of RAPIVAB was evaluated in Phase 1 trials in adults. The pharmacokinetic parameters following intravenous administration of RAPIVAB (0.17 to 2 times the recommended dose) showed a linear relationship between dose and exposure parameters (C<sub>max</sub> and AUC). </paragraph>
+                        <paragraph>Following intravenous administration of a single dose of RAPIVAB 600 mg over 30 minutes, a maximum plasma concentration (C<sub>max</sub>) of 46,800 ng/mL (46.8 µg/mL) was reached at the end of infusion. AUC<sub>0-∞</sub> values were 102,700 ng<content styleCode="bold">∙</content>hr/mL.</paragraph>
+                     </text>
+                     <effectiveTime value="20240618"/>
+                     <component>
+                        <section>
+                           <id root="1887d6f4-c9e2-4337-836b-959b0988292b"/>
+                           <code code="42229-5" codeSystem="2.16.840.1.113883.6.1" displayName="SPL UNCLASSIFIED SECTION"/>
+                           <text>
+                              <paragraph>
+                                 <content styleCode="underline">Distribution</content>
+                              </paragraph>
+                              <paragraph>In vitro binding of peramivir to human plasma proteins is &lt;30%.</paragraph>
+                              <paragraph>Based on a population pharmacokinetic analysis, the central volume of distribution was 12.56 L.</paragraph>
+                           </text>
+                           <effectiveTime value="20240618"/>
+                        </section>
+                     </component>
+                     <component>
+                        <section>
+                           <id root="7410da5b-5db8-4d6e-8562-917f7778358d"/>
+                           <code code="42229-5" codeSystem="2.16.840.1.113883.6.1" displayName="SPL UNCLASSIFIED SECTION"/>
+                           <text>
+                              <paragraph>
+                                 <content styleCode="underline">Metabolism and Elimination</content>
+                              </paragraph>
+                              <paragraph>Peramivir is not a substrate for cytochrome P450 (CYP) enzymes, does not affect glucuronidation, and is not a substrate or inhibitor of P-glycoprotein mediated transport.</paragraph>
+                              <paragraph>Peramivir is not significantly metabolized in humans.</paragraph>
+                              <paragraph>The elimination half-life of RAPIVAB following intravenous administration to healthy subjects of 600 mg as a single dose is approximately 20 hours. The major route of elimination of RAPIVAB is via the kidney. Renal clearance of unchanged peramivir accounts for approximately 90% of total clearance. Negligible accumulation was observed following multiple doses, either once or twice daily, for up to 10 days. </paragraph>
+                           </text>
+                           <effectiveTime value="20240618"/>
+                        </section>
+                     </component>
+                     <component>
+                        <section>
+                           <id root="eca490cd-5d9e-4371-9437-14c2e92e2ec4"/>
+                           <code code="42229-5" codeSystem="2.16.840.1.113883.6.1" displayName="SPL UNCLASSIFIED SECTION"/>
+                           <text>
+                              <paragraph>
+                                 <content styleCode="underline">Specific Populations</content>
+                              </paragraph>
+                           </text>
+                           <effectiveTime value="20240618"/>
+                           <component>
+                              <section>
+                                 <id root="cf6e18cc-6947-48a2-8b2b-0ada4fe98359"/>
+                                 <code code="42229-5" codeSystem="2.16.840.1.113883.6.1" displayName="SPL UNCLASSIFIED SECTION"/>
+                                 <text>
+                                    <paragraph>
+                                       <content styleCode="italics">Race:</content> Pharmacokinetics of peramivir was evaluated primarily in Caucasians and Asians. Based on a population pharmacokinetic analysis including race as a covariate, volume of distribution was dependent on weight and Asian race. No dose adjustment is required based on weight or Asian race.</paragraph>
+                                 </text>
+                                 <effectiveTime value="20240618"/>
+                              </section>
+                           </component>
+                           <component>
+                              <section>
+                                 <id root="4e992c18-0d21-45fa-a50b-ccf55c11b715"/>
+                                 <code code="42229-5" codeSystem="2.16.840.1.113883.6.1" displayName="SPL UNCLASSIFIED SECTION"/>
+                                 <text>
+                                    <paragraph>
+                                       <content styleCode="italics">Gender:</content> Peramivir pharmacokinetics was similar in male and female subjects.</paragraph>
+                                 </text>
+                                 <effectiveTime value="20240618"/>
+                              </section>
+                           </component>
+                           <component>
+                              <section>
+                                 <id root="7bd38093-d8d3-48ab-a24a-fc98bb7dba3e"/>
+                                 <code code="42229-5" codeSystem="2.16.840.1.113883.6.1" displayName="SPL UNCLASSIFIED SECTION"/>
+                                 <text>
+                                    <paragraph>
+                                       <content styleCode="italics">Pediatric Patients:</content> The pharmacokinetics of peramivir has been evaluated in a study in pediatric subjects 6 months to 17 years of age with acute uncomplicated influenza. Pharmacokinetic sampling in this study was limited to approximately 3 hours after administration of peramivir. Geometric mean (GM) PK parameters are provided in Table 5.</paragraph>
+                                    <table width="85%">
+                                       <caption>Table 5. Geometric Mean (%CV) C<sub>max</sub> and AUC<sub>0-3</sub> by Age Group in Comparison to Adults</caption>
+                                       <col width="34%" align="left" valign="middle"/>
+                                       <col width="33%" align="center" valign="middle"/>
+                                       <col width="33%" align="center" valign="middle"/>
+                                       <thead>
+                                          <tr>
+                                             <th styleCode="Lrule Rrule" align="center">Age Group</th>
+                                             <th styleCode="Rrule">GM C<sub>max</sub> (ng/mL) (%CV)</th>
+                                             <th styleCode="Rrule">GM AUC<sub>0-3</sub> (ng.h/mL) (%CV)</th>
+                                          </tr>
+                                       </thead>
+                                       <tbody>
+                                          <tr styleCode="Botrule">
+                                             <td styleCode="Lrule Rrule">																6 months to &lt;2 years 															</td>
+                                             <td styleCode="Rrule">38,000 (73.7)</td>
+                                             <td styleCode="Rrule">46,200 (35.8)</td>
+                                          </tr>
+                                          <tr styleCode="Botrule">
+                                             <td styleCode="Lrule Rrule">																2 to &lt;7 years 															</td>
+                                             <td styleCode="Rrule">47,400 (48.4)</td>
+                                             <td styleCode="Rrule">62,700 (39.7)</td>
+                                          </tr>
+                                          <tr styleCode="Botrule">
+                                             <td styleCode="Lrule Rrule">																7 to &lt;13 years 															</td>
+                                             <td styleCode="Rrule">61,200 (53)</td>
+                                             <td styleCode="Rrule">76,300 (43.1)</td>
+                                          </tr>
+                                          <tr styleCode="Botrule">
+                                             <td styleCode="Lrule Rrule">																13 to &lt;18 years 															</td>
+                                             <td styleCode="Rrule">51,500 (33)</td>
+                                             <td styleCode="Rrule">65,500 (28.1)</td>
+                                          </tr>
+                                          <tr>
+                                             <td styleCode="Lrule Rrule">																Healthy Adults (Study 113) 															</td>
+                                             <td styleCode="Rrule">45,700 (21.5)</td>
+                                             <td styleCode="Rrule">68,500 (19.1)</td>
+                                          </tr>
+                                       </tbody>
+                                    </table>
+                                    <paragraph>Peramivir pharmacokinetics in subjects 2 to 17 years of age was similar to adults. In pediatric patients 6 months to less than 2 years of age, the GM AUC<sub>0-3</sub> and C<sub>max</sub> were lower than that of healthy adult subjects, with GM ratios (90% CI) of 0.68 (0.52 to 0.88) and 0.83 (0.59 to 1.18), respectively. The difference in exposure is not considered to be clinically significant.  </paragraph>
+                                 </text>
+                                 <effectiveTime value="20240618"/>
+                              </section>
+                           </component>
+                           <component>
+                              <section>
+                                 <id root="633af758-9bf7-4c94-b2a0-e7d0828ddfaf"/>
+                                 <code code="42229-5" codeSystem="2.16.840.1.113883.6.1" displayName="SPL UNCLASSIFIED SECTION"/>
+                                 <text>
+                                    <paragraph>
+                                       <content styleCode="italics">Geriatric Patients:</content> Peramivir pharmacokinetics in elderly subjects was similar to non-elderly subjects. Peak concentrations of peramivir after a single 4 mg/kg intravenous dose were approximately 10% higher in elderly subjects when compared to young adults (22,647 vs 20,490 ng/mL, respectively). Exposure (AUC<sub>0-12</sub>) to peramivir at steady state was roughly 34% higher in elderly subjects compared to young adults (61,572 vs 46,000 ng∙hr/mL, respectively). Dose adjustment is not required for elderly patients. </paragraph>
+                                 </text>
+                                 <effectiveTime value="20240618"/>
+                              </section>
+                           </component>
+                           <component>
+                              <section>
+                                 <id root="65a615dd-6309-48d4-85bf-99ca6ffde23b"/>
+                                 <code code="42229-5" codeSystem="2.16.840.1.113883.6.1" displayName="SPL UNCLASSIFIED SECTION"/>
+                                 <text>
+                                    <paragraph>
+                                       <content styleCode="italics">Patients with Impaired Renal Function:</content> A trial was conducted in adult subjects with various degrees of renal impairment. When compared to a concurrent cohort with normal renal function, no change in mean C<sub>max</sub> was observed (6 subjects per cohort). However, mean AUC<sub>0-∞</sub> after a single 2 mg/kg intravenous dose was increased by 28%, by 302%, and by 412% in subjects with creatinine clearance 50 to 79, 30 to 49, and 10 to 29 mL/min, respectively.  </paragraph>
+                                    <paragraph>Hemodialysis was effective in reducing systemic exposure of peramivir by 73% to 81%. </paragraph>
+                                    <paragraph>A reduced dose of RAPIVAB is recommended for adult and adolescent patients 13 years and older with creatinine clearance &lt;50 mL/min <content styleCode="italics">[see <linkHtml href="#S2.2">Dosage and Administration (2.2)</linkHtml>].</content>
+                                    </paragraph>
+                                    <paragraph>The pharmacokinetics of peramivir has not been studied in pediatric subjects with renal impairment.  Given that the pharmacokinetics in pediatric subjects with normal renal function is comparable to that observed in adults, the same proportional dose reduction is recommended in pediatric patients with renal impairment &gt;2 years of age <content styleCode="italics">[see <linkHtml href="#S2.2">Dosage and Administration (2.2)</linkHtml>].</content>
+                                    </paragraph>
+                                    <paragraph>In pediatric patients with renal impairment less than 2 years of age, given the developmental immaturity of renal function in this age group, a recommendation for dose reduction cannot be made <content styleCode="italics">[see <linkHtml href="#S2.2">Dosage and Administration (2.2)</linkHtml>].</content>
+                                    </paragraph>
+                                 </text>
+                                 <effectiveTime value="20240618"/>
+                              </section>
+                           </component>
+                           <component>
+                              <section>
+                                 <id root="7e43d601-97bf-4f9e-b9dc-af97a4ddbcde"/>
+                                 <code code="42229-5" codeSystem="2.16.840.1.113883.6.1" displayName="SPL UNCLASSIFIED SECTION"/>
+                                 <text>
+                                    <paragraph>
+                                       <content styleCode="italics">Patients with Hepatic Impairment:</content> The pharmacokinetics of peramivir in subjects with hepatic impairment has not been studied. No clinically relevant alterations to peramivir pharmacokinetics are expected in patients with hepatic impairment based on the route of peramivir elimination.</paragraph>
+                                 </text>
+                                 <effectiveTime value="20240618"/>
+                              </section>
+                           </component>
+                        </section>
+                     </component>
+                     <component>
+                        <section>
+                           <id root="3b523541-924e-48de-902e-40bbf0d69282"/>
+                           <code code="42229-5" codeSystem="2.16.840.1.113883.6.1" displayName="SPL UNCLASSIFIED SECTION"/>
+                           <text>
+                              <paragraph>
+                                 <content styleCode="underline">Assessment of Drug Interactions</content>
+                              </paragraph>
+                              <paragraph>The potential for CYP-mediated interactions involving RAPIVAB with other drugs is low, based on the known elimination pathway of RAPIVAB, and data from in vitro studies indicating RAPIVAB does not induce or inhibit CYP P450.</paragraph>
+                              <paragraph>There was no evidence of drug-drug interactions when RAPIVAB was administered with oral rimantadine, oseltamivir, or oral contraceptives containing ethinyl estradiol and levonorgestrel; or when peramivir IM was administered with oral probenecid.</paragraph>
+                              <paragraph>RAPIVAB is primarily cleared in the urine by glomerular filtration.</paragraph>
+                           </text>
+                           <effectiveTime value="20240618"/>
+                        </section>
+                     </component>
+                  </section>
+               </component>
+               <component>
+                  <section ID="S12.4">
+                     <id root="8d0c5d18-c666-4129-8973-eb4ca672787b"/>
+                     <code code="49489-8" codeSystem="2.16.840.1.113883.6.1" displayName="MICROBIOLOGY SECTION"/>
+                     <title>12.4 Microbiology</title>
+                     <effectiveTime value="20240618"/>
+                     <component>
+                        <section>
+                           <id root="7b4ebae6-8f50-47b4-99f3-42664cd688a8"/>
+                           <code code="42229-5" codeSystem="2.16.840.1.113883.6.1" displayName="SPL UNCLASSIFIED SECTION"/>
+                           <text>
+                              <paragraph>
+                                 <content styleCode="underline">Mechanism of Action</content>
+                              </paragraph>
+                              <paragraph>Peramivir is an inhibitor of influenza virus neuraminidase, an enzyme that releases viral particles from the plasma membrane of infected cells. The median neuraminidase inhibitory activities (IC<sub>50</sub> values) of peramivir in biochemical assays against influenza A/H1N1 virus, influenza A/H3N2 virus, and influenza B virus clinical isolates were 0.16 nM (n = 44; range: 0.01 to 1.77 nM), 0.13 nM (n = 32; range:  0.05 to 11 nM), and 0.99 nM (n = 39; range: 0.04 to 54.2 nM), respectively, in a neuraminidase assay with a fluorescently labeled MUNANA substrate.</paragraph>
+                           </text>
+                           <effectiveTime value="20240618"/>
+                        </section>
+                     </component>
+                     <component>
+                        <section>
+                           <id root="d7e8603e-9cd7-4772-9150-7a93b42da09e"/>
+                           <code code="42229-5" codeSystem="2.16.840.1.113883.6.1" displayName="SPL UNCLASSIFIED SECTION"/>
+                           <text>
+                              <paragraph>
+                                 <content styleCode="underline">Antiviral Activity</content>
+                              </paragraph>
+                              <paragraph>The antiviral activity of peramivir against laboratory strains and clinical isolates of influenza virus was determined in cell culture. The concentrations of peramivir required for inhibition of influenza virus in cell culture varied depending on the assay method used and the virus tested. The median 50% effective concentrations (EC<sub>50</sub> values) of peramivir in cell culture assays were 2.6 nM (n = 13; range: 0.09 to 21 nM), 0.08 nM (n = 17; range: 0.01 to 1.9 nM) and 4.8 nM (n = 11; range: 0.06 to 120 nM) for influenza A/H1N1 virus, A/H3N2 virus, and B virus strains, respectively. </paragraph>
+                              <paragraph>The relationship between the antiviral activity in cell culture, inhibitory activity in the neuraminidase assay, and the inhibition of influenza virus replication in humans has not been established.</paragraph>
+                           </text>
+                           <effectiveTime value="20240618"/>
+                        </section>
+                     </component>
+                     <component>
+                        <section>
+                           <id root="0f2487aa-67e9-472e-bf01-fa2af268b344"/>
+                           <code code="42229-5" codeSystem="2.16.840.1.113883.6.1" displayName="SPL UNCLASSIFIED SECTION"/>
+                           <text>
+                              <paragraph>
+                                 <content styleCode="underline">Resistance</content>
+                              </paragraph>
+                           </text>
+                           <effectiveTime value="20240618"/>
+                           <component>
+                              <section>
+                                 <id root="1ac9a1e5-5f89-4d1e-b5e5-b50da7f1a735"/>
+                                 <code code="42229-5" codeSystem="2.16.840.1.113883.6.1" displayName="SPL UNCLASSIFIED SECTION"/>
+                                 <text>
+                                    <paragraph>
+                                       <content styleCode="italics">Cell culture:</content> Influenza A and B virus isolates with reduced susceptibility to peramivir were recovered by serial passage of virus in cell culture in the presence of increasing concentrations of peramivir. Reduced susceptibility of influenza virus to inhibition by peramivir may be conferred by amino acid substitutions in the viral neuraminidase or hemagglutinin proteins (Table 6).</paragraph>
+                                    <table width="85%">
+                                       <caption>Table 6: Amino Acid Substitutions Selected by Peramivir in Cell Culture Studies</caption>
+                                       <col width="16%" align="left" valign="top"/>
+                                       <col width="28%" align="center" valign="top"/>
+                                       <col width="28%" align="center" valign="top"/>
+                                       <col width="28%" align="center" valign="top"/>
+                                       <thead>
+                                          <tr styleCode="Botrule">
+                                             <th styleCode="Lrule Rrule"/>
+                                             <th styleCode="Rrule" colspan="3">Influenza Virus Type/Subtype</th>
+                                          </tr>
+                                          <tr>
+                                             <th styleCode="Lrule Rrule" align="center">Protein</th>
+                                             <th styleCode="Rrule">A/H1N1<sup>a</sup>
+                                             </th>
+                                             <th styleCode="Rrule">A/H3N2<sup>b</sup>
+                                             </th>
+                                             <th styleCode="Rrule">B<sup>c</sup>
+                                             </th>
+                                          </tr>
+                                       </thead>
+                                       <tfoot>
+                                          <tr>
+                                             <td colspan="4" align="left">
+                                                <content styleCode="bold">
+                                                   <sup>a</sup>
+                                                </content> Numbering based on A/California/04/2009.</td>
+                                          </tr>
+                                          <tr>
+                                             <td colspan="4" align="left">
+                                                <content styleCode="bold">
+                                                   <sup>b</sup>
+                                                </content> Numbering based on A/Texas/50/2012.</td>
+                                          </tr>
+                                          <tr>
+                                             <td colspan="4" align="left">
+                                                <content styleCode="bold">
+                                                   <sup>c</sup>
+                                                </content> Numbering based on B/Massachusetts/02/2012.</td>
+                                          </tr>
+                                          <tr>
+                                             <td colspan="4" align="left">
+                                                <content styleCode="bold">
+                                                   <sup>d</sup>
+                                                </content> Numbering begins after the predicted signal peptide.</td>
+                                          </tr>
+                                       </tfoot>
+                                       <tbody>
+                                          <tr styleCode="Botrule">
+                                             <td styleCode="Lrule Rrule">																HA<sup>d</sup>
+                                             </td>
+                                             <td styleCode="Rrule">D125S, R208K</td>
+                                             <td styleCode="Rrule">N63K, G78D, N145D, K189E</td>
+                                             <td styleCode="Rrule">T139N, G141E, R162M, D195N, T198N, Y319H</td>
+                                          </tr>
+                                          <tr>
+                                             <td styleCode="Lrule Rrule">																NA 															</td>
+                                             <td styleCode="Rrule">N58D, I211T, H275Y</td>
+                                             <td styleCode="Rrule">-</td>
+                                             <td styleCode="Rrule">H273Y</td>
+                                          </tr>
+                                       </tbody>
+                                    </table>
+                                 </text>
+                                 <effectiveTime value="20240618"/>
+                              </section>
+                           </component>
+                           <component>
+                              <section>
+                                 <id root="df7c55fc-8283-4d5d-9682-b2606bfb8ed0"/>
+                                 <code code="42229-5" codeSystem="2.16.840.1.113883.6.1" displayName="SPL UNCLASSIFIED SECTION"/>
+                                 <text>
+                                    <paragraph>
+                                       <content styleCode="italics">In vivo</content>: Influenza A and B virus isolates with amino acid substitutions associated with reduced susceptibility to peramivir were observed in clinical isolates collected during clinical trials with peramivir (Table 7). Amino acid substitutions have also been observed in viral isolates sampled during community surveillance studies which may be associated with reduced susceptibility to peramivir (Table 7). The clinical impact of this reduced susceptibility is unknown and may be strain dependent.</paragraph>
+                                    <table width="85%">
+                                       <caption>Table 7: Neuraminidase and Hemagglutinin Amino Acid Substitutions Associated with Reduced Susceptibility to Peramivir in Clinical Virus Isolates</caption>
+                                       <col width="12%" align="center" valign="middle"/>
+                                       <col width="22%" align="center" valign="middle"/>
+                                       <col width="22%" align="center" valign="middle"/>
+                                       <col width="22%" align="center" valign="middle"/>
+                                       <col width="22%" align="center" valign="middle"/>
+                                       <thead>
+                                          <tr>
+                                             <th styleCode="Lrule Rrule"/>
+                                             <th styleCode="Botrule Rrule"/>
+                                             <th styleCode="Botrule Rrule" colspan="3">Influenza Virus Type / Subtype</th>
+                                          </tr>
+                                          <tr>
+                                             <th styleCode="Lrule Rrule">Protein</th>
+                                             <th styleCode="Rrule"/>
+                                             <th styleCode="Rrule">A/H1N1<sup>a</sup>
+                                             </th>
+                                             <th styleCode="Rrule">A/H3N2<sup>b</sup>
+                                             </th>
+                                             <th styleCode="Rrule">B<sup>c</sup>
+                                             </th>
+                                          </tr>
+                                       </thead>
+                                       <tfoot>
+                                          <tr>
+                                             <td colspan="5" align="left">
+                                                <content styleCode="bold">
+                                                   <sup>a</sup>
+                                                </content> Numbering based on A/California/04/2009.</td>
+                                          </tr>
+                                          <tr>
+                                             <td colspan="5" align="left">
+                                                <content styleCode="bold">
+                                                   <sup>b</sup>
+                                                </content> Numbering based on A/Texas/50/2012.</td>
+                                          </tr>
+                                          <tr>
+                                             <td colspan="5" align="left">
+                                                <content styleCode="bold">
+                                                   <sup>c</sup>
+                                                </content> Numbering based on B/Massachusetts/02/2012.</td>
+                                          </tr>
+                                          <tr>
+                                             <td colspan="5" align="left">
+                                                <content styleCode="bold">
+                                                   <sup>d</sup>
+                                                </content> Substitutions at this site may be potential cell culture artifacts.</td>
+                                          </tr>
+                                       </tfoot>
+                                       <tbody>
+                                          <tr styleCode="Botrule">
+                                             <td styleCode="Lrule Rrule" rowspan="2">NA</td>
+                                             <td styleCode="Rrule">Clinical Trial</td>
+                                             <td styleCode="Rrule">R152K, H275Y</td>
+                                             <td styleCode="Rrule">R292K, N294S</td>
+                                             <td styleCode="Rrule">-</td>
+                                          </tr>
+                                          <tr styleCode="Botrule">
+                                             <td styleCode="Rrule" align="center">Community Surveillance Studies</td>
+                                             <td styleCode="Rrule">G147R, I223R/V, S247N/R, H275Y, N295S, I427T</td>
+                                             <td styleCode="Rrule">E119V, Q136K, V143M+S315R, D151A/E/G/N/V<sup>d</sup>, V313A, Q391K</td>
+                                             <td styleCode="Rrule">G104E, E105K, I115T, H134N/Y, P139S, G145E/R, D197E/N/Y, A200T, I221T/V, G243S, A245T, G247D+I361V, H273Y, N294S, K360E, R374K, A395E, D432G/N</td>
+                                          </tr>
+                                          <tr>
+                                             <td styleCode="Lrule Rrule">HA</td>
+                                             <td styleCode="Rrule">Clinical Trial</td>
+                                             <td styleCode="Rrule">V479F</td>
+                                             <td styleCode="Rrule">-</td>
+                                             <td styleCode="Rrule">-</td>
+                                          </tr>
+                                       </tbody>
+                                    </table>
+                                    <paragraph>Circulating seasonal influenza strains expressing neuraminidase resistance-associated substitutions have been observed in individuals who have not received RAPIVAB. Prescribers should consider available information from the CDC on influenza virus drug susceptibility patterns and treatment effects when deciding whether to use RAPIVAB. </paragraph>
+                                 </text>
+                                 <effectiveTime value="20240618"/>
+                              </section>
+                           </component>
+                           <component>
+                              <section>
+                                 <id root="8d739747-f2a3-45d5-beef-9624aea28ebb"/>
+                                 <code code="42229-5" codeSystem="2.16.840.1.113883.6.1" displayName="SPL UNCLASSIFIED SECTION"/>
+                                 <text>
+                                    <paragraph>
+                                       <content styleCode="italics">Zoonotic Viruses</content>: Amino acid substitutions have been observed in H5N1 and H7N9 clinical viral isolates that conferred reduced susceptibility to peramivir in neuraminidase biochemical assays (Table 8). The clinical impact of reduced susceptibility in these viruses is unknown, and the effects of specific substitutions on virus susceptibility to peramivir may be strain dependent.</paragraph>
+                                    <table width="85%">
+                                       <caption>Table 8.  Amino Acid Substitutions Observed in Avian Influenza Viruses with Zoonotic Potential and Associated with Reduced Susceptibility to Peramivir</caption>
+                                       <col width="30%" align="center" valign="middle"/>
+                                       <col width="35%" align="center" valign="middle"/>
+                                       <col width="35%" align="center" valign="middle"/>
+                                       <thead>
+                                          <tr>
+                                             <th styleCode="Lrule Rrule"/>
+                                             <th styleCode="Botrule Rrule" colspan="2">Influenza Virus Type/Subtype</th>
+                                          </tr>
+                                          <tr>
+                                             <th styleCode="Lrule Rrule">Protein</th>
+                                             <th styleCode="Rrule">A/H5N1<sup>a</sup>
+                                             </th>
+                                             <th styleCode="Rrule">A/H7N9<sup>b</sup>
+                                             </th>
+                                          </tr>
+                                       </thead>
+                                       <tfoot>
+                                          <tr>
+                                             <td colspan="3" align="left">
+                                                <sup>a</sup> Numbering based on A/California/04/2009.</td>
+                                          </tr>
+                                          <tr>
+                                             <td colspan="3" align="left">
+                                                <sup>b</sup> Numbering based on A/Texas/50/2012.</td>
+                                          </tr>
+                                       </tfoot>
+                                       <tbody>
+                                          <tr>
+                                             <td styleCode="Lrule Rrule">																NA 															</td>
+                                             <td styleCode="Rrule">H275Y</td>
+                                             <td styleCode="Rrule">R292K</td>
+                                          </tr>
+                                       </tbody>
+                                    </table>
+                                 </text>
+                                 <effectiveTime value="20240618"/>
+                              </section>
+                           </component>
+                        </section>
+                     </component>
+                     <component>
+                        <section>
+                           <id root="fe83570a-b5ba-4c70-b4dd-9310043a9ffa"/>
+                           <code code="42229-5" codeSystem="2.16.840.1.113883.6.1" displayName="SPL UNCLASSIFIED SECTION"/>
+                           <text>
+                              <paragraph>
+                                 <content styleCode="underline">Cross Resistance</content>
+                              </paragraph>
+                              <paragraph>Cross-resistance between peramivir, oseltamivir, and zanamivir was observed in neuraminidase biochemical assays and cell culture assays. The amino acid substitutions that resulted in reduced susceptibility to peramivir and either oseltamivir or zanamivir are summarized in Table 9. The clinical impact of this reduced susceptibility is unknown and may be strain dependent.</paragraph>
+                              <table width="85%">
+                                 <caption>Table 9: Summary of Amino Acid Substitutions with Cross-Resistance between Peramivir and Oseltamivir or Zanamivir in Susceptibility Assays</caption>
+                                 <col width="19%" align="left" valign="top"/>
+                                 <col width="12%" align="center" valign="top"/>
+                                 <col width="23%" align="center" valign="top"/>
+                                 <col width="23%" align="center" valign="top"/>
+                                 <col width="23%" align="center" valign="top"/>
+                                 <thead>
+                                    <tr styleCode="Botrule">
+                                       <th styleCode="Lrule Rrule"/>
+                                       <th styleCode="Rrule"/>
+                                       <th styleCode="Rrule" colspan="3">Influenza Virus Type/Subtype</th>
+                                    </tr>
+                                    <tr>
+                                       <th styleCode="Lrule Rrule"/>
+                                       <th styleCode="Rrule" valign="top">Protein</th>
+                                       <th styleCode="Rrule" valign="top">A/H1N1<sup>a</sup>
+                                       </th>
+                                       <th styleCode="Rrule" valign="top">A/H3N2<sup>b</sup>
+                                       </th>
+                                       <th styleCode="Rrule" valign="top">B<sup>c</sup>
+                                       </th>
+                                    </tr>
+                                 </thead>
+                                 <tfoot>
+                                    <tr>
+                                       <td colspan="5" align="left">
+                                          <content styleCode="bold">
+                                             <sup>a</sup>
+                                          </content> Numbering based on A/California/04/2009.</td>
+                                    </tr>
+                                    <tr>
+                                       <td colspan="5" align="left">
+                                          <content styleCode="bold">
+                                             <sup>b</sup>
+                                          </content> Numbering based on A/Texas/50/2012.</td>
+                                    </tr>
+                                    <tr>
+                                       <td colspan="5" align="left">
+                                          <content styleCode="bold">
+                                             <sup>c</sup>
+                                          </content> Numbering based on B/Massachusetts/02/2012.</td>
+                                    </tr>
+                                    <tr>
+                                       <td colspan="5" align="left">
+                                          <content styleCode="bold">
+                                             <sup>d</sup>
+                                          </content> Numbering begins after the predicted signal peptide.</td>
+                                    </tr>
+                                    <tr>
+                                       <td colspan="5" align="left">
+                                          <content styleCode="bold">
+                                             <sup>e</sup>
+                                          </content> Substitutions at this site may be potential cell culture artifacts.</td>
+                                    </tr>
+                                 </tfoot>
+                                 <tbody>
+                                    <tr>
+                                       <td styleCode="Lrule Rrule">														Oseltamivir 													</td>
+                                       <td styleCode="Botrule Rrule">														HA<sup>d</sup>
+                                       </td>
+                                       <td styleCode="Botrule Rrule">-</td>
+                                       <td styleCode="Botrule Rrule">N63K, N145D</td>
+                                       <td styleCode="Botrule Rrule">-</td>
+                                    </tr>
+                                    <tr styleCode="Botrule">
+                                       <td styleCode="Lrule Rrule"/>
+                                       <td styleCode="Rrule" align="center">														NA 													</td>
+                                       <td styleCode="Rrule">E119D/V, D151G/N, R152K, Y155H, D199G, I223R/T/V, S247N, G249R+I267V, H275Y, N295S, Q313R, R368K, I427T</td>
+                                       <td styleCode="Rrule">E119I/V, I222V, S247P, R292K, N294S, V313A</td>
+                                       <td styleCode="Rrule">G104E, E105K, G108E, P139S, G140R, G145R, D197E/N/Y, A200T, I221T/V/L, G243S, A245T, H273Y, N294S, R374K, A395E, G407S</td>
+                                    </tr>
+                                    <tr>
+                                       <td styleCode="Lrule Rrule">														Zanamivir 													</td>
+                                       <td styleCode="Botrule Rrule">														HA<sup>d</sup>
+                                       </td>
+                                       <td styleCode="Botrule Rrule">-</td>
+                                       <td styleCode="Botrule Rrule">N63K, N145D</td>
+                                       <td styleCode="Botrule Rrule">-</td>
+                                    </tr>
+                                    <tr>
+                                       <td styleCode="Lrule Rrule"/>
+                                       <td styleCode="Rrule">														NA 													</td>
+                                       <td styleCode="Rrule">E119D/G, Q136K<sup>e</sup>, R152K, Y155H, D199G, I223T, I223R+H275Y, S247N, G249R+I267V, N295S, Q313R, R368K, I427T</td>
+                                       <td styleCode="Rrule">E119G/V, T148I, D151A/G/N/V, I222V, S247P, R292K, N294S</td>
+                                       <td styleCode="Rrule">G104E, E105K, G108E, E117A/D/G, H134N, P139S, G145R, R150K, D197E/N/Y, A200T, I221T/L, G243S, A245T, G247D+I361V, R292K, R374K, G407S</td>
+                                    </tr>
+                                 </tbody>
+                              </table>
+                              <paragraph>Cross-resistance between neuraminidase (NA) inhibitors and M2 ion channel inhibitors (adamantanes), or between NA inhibitors and polymerase acidic (PA) endonuclease inhibitors (baloxavir), is not expected because these classes of drugs target different viral proteins. However, a virus may carry multiple substitutions that each confer resistance to a different inhibitor class and together can confer multi-class resistance. The clinical relevance of phenotypic cross-resistance evaluations has not been established and may be strain dependent.</paragraph>
+                           </text>
+                           <effectiveTime value="20240618"/>
+                        </section>
+                     </component>
+                     <component>
+                        <section>
+                           <id root="f81f52d9-779d-44ba-98d3-eec5c876cd47"/>
+                           <code code="42229-5" codeSystem="2.16.840.1.113883.6.1" displayName="SPL UNCLASSIFIED SECTION"/>
+                           <text>
+                              <paragraph>
+                                 <content styleCode="underline">Immune Response</content>
+                              </paragraph>
+                              <paragraph>No influenza vaccine/peramivir interaction study has been conducted.</paragraph>
+                           </text>
+                           <effectiveTime value="20240618"/>
+                        </section>
+                     </component>
+                  </section>
+               </component>
+            </section>
+         </component>
+         <component>
+            <section ID="S13">
+               <id root="a7ea5a7e-18dd-4894-85b1-c952c21a93d9"/>
+               <code code="43680-8" codeSystem="2.16.840.1.113883.6.1" displayName="NONCLINICAL TOXICOLOGY SECTION"/>
+               <title>13 NONCLINICAL TOXICOLOGY</title>
+               <effectiveTime value="20240618"/>
+               <component>
+                  <section ID="S13.1">
+                     <id root="50be5545-d23a-4930-8e85-88b55ead8547"/>
+                     <code code="34083-6" codeSystem="2.16.840.1.113883.6.1" displayName="CARCINOGENESIS &amp; MUTAGENESIS &amp; IMPAIRMENT OF FERTILITY SECTION"/>
+                     <title>13.1 Carcinogenesis, Mutagenesis, Impairment of Fertility</title>
+                     <effectiveTime value="20240618"/>
+                     <component>
+                        <section>
+                           <id root="be4639d6-a49a-4e58-a031-975d7ead1eb1"/>
+                           <code code="42229-5" codeSystem="2.16.840.1.113883.6.1" displayName="SPL UNCLASSIFIED SECTION"/>
+                           <text>
+                              <paragraph>
+                                 <content styleCode="underline">Carcinogenesis</content>
+                              </paragraph>
+                              <paragraph>Carcinogenicity studies by intravenous injection of peramivir were not performed. However, in an oral carcinogenicity study in Sprague-Dawley rats no drug-related neoplasms were observed at drug exposures 0.2- to 0.5-fold that of humans at the clinically recommended dose of 600 mg/day.</paragraph>
+                           </text>
+                           <effectiveTime value="20240618"/>
+                        </section>
+                     </component>
+                     <component>
+                        <section>
+                           <id root="027cd993-ac31-4ce3-8997-1e20fd9e51b9"/>
+                           <code code="42229-5" codeSystem="2.16.840.1.113883.6.1" displayName="SPL UNCLASSIFIED SECTION"/>
+                           <text>
+                              <paragraph>
+                                 <content styleCode="underline">Mutagenesis</content>
+                              </paragraph>
+                              <paragraph>Peramivir was not mutagenic or clastogenic in a battery of in vitro and in vivo assays including the Ames bacterial reverse mutation assay, the Chinese hamster ovary chromosomal aberration test, and the in vivo mouse micronucleus test with intravenous administration.</paragraph>
+                           </text>
+                           <effectiveTime value="20240618"/>
+                        </section>
+                     </component>
+                     <component>
+                        <section>
+                           <id root="e74b9100-b1a1-41e2-9c13-c31a05e63fda"/>
+                           <code code="42229-5" codeSystem="2.16.840.1.113883.6.1" displayName="SPL UNCLASSIFIED SECTION"/>
+                           <text>
+                              <paragraph>
+                                 <content styleCode="underline">Impairment of Fertility</content>
+                              </paragraph>
+                              <paragraph>Peramivir had no effects on mating or fertility in rats up to 600 mg/kg/day, at which exposures were approximately 8-fold of those in humans at the clinically recommended dose.</paragraph>
+                           </text>
+                           <effectiveTime value="20240618"/>
+                        </section>
+                     </component>
+                  </section>
+               </component>
+               <component>
+                  <section ID="S13.2">
+                     <id root="592f3235-76fe-4600-9255-c094fd7df4e4"/>
+                     <code code="34091-9" codeSystem="2.16.840.1.113883.6.1" displayName="ANIMAL PHARMACOLOGY &amp; OR TOXICOLOGY SECTION"/>
+                     <title>13.2 Animal Toxicology and/or Pharmacology</title>
+                     <text>
+                        <paragraph>Peramivir caused renal tubular necrosis and abnormal renal function in rabbits. Toxicities included tubular dilatation and necrosis with protein casts in cortical areas, dilated tubules with mineralization in corticomedullary junction areas, and multifocal tubular regeneration. The rabbit appeared to be the sensitive species for peramivir renal toxicity, which was noted at exposures approximately 2- to 4-fold those in humans at the clinically recommended dose.</paragraph>
+                     </text>
+                     <effectiveTime value="20240618"/>
+                  </section>
+               </component>
+            </section>
+         </component>
+         <component>
+            <section ID="S14">
+               <id root="4e702e0e-ecf4-4956-a392-4e80a5486ba5"/>
+               <code code="34092-7" codeSystem="2.16.840.1.113883.6.1" displayName="CLINICAL STUDIES SECTION"/>
+               <title>14 CLINICAL STUDIES</title>
+               <effectiveTime value="20240618"/>
+               <component>
+                  <section ID="S14.1">
+                     <id root="8cea7999-2c65-4090-bb44-25ef7c0392fa"/>
+                     <code code="42229-5" codeSystem="2.16.840.1.113883.6.1" displayName="SPL UNCLASSIFIED SECTION"/>
+                     <title>14.1	Acute Uncomplicated Influenza in Adults</title>
+                     <text>
+                        <paragraph>Study 621 was a randomized, multicenter, blinded study conducted in Japan that evaluated a single intravenous administration of RAPIVAB 300 mg, RAPIVAB 600 mg, or placebo administered over 30 minutes in subjects 20 to 65 years of age with acute uncomplicated influenza. Subjects were eligible if they had fever         ≥38°C (axillary) and a positive rapid antigen test for influenza virus, accompanied by at least 2 symptoms (cough, nasal symptoms, sore throat, myalgia, chills/sweats, malaise, fatigue, or headache). In addition, all subjects enrolled were allowed to take fever-reducing medications.</paragraph>
+                        <paragraph>Study treatment was started within 48 hours of onset of symptoms. Subjects participating in the study were required to self-assess their influenza symptoms as "none", "mild", "moderate", or "severe" twice daily. The primary endpoint, time to alleviation of symptoms, was defined as the number of hours from initiation of study drug until the start of the 24-hour period in which all 7 symptoms of influenza (cough, sore throat, nasal congestion, headache, feverishness, myalgia, and fatigue) were either absent or present at a level no greater than mild for at least 21.5 hours.</paragraph>
+                        <paragraph>The overall efficacy population, consisting of subjects with confirmed influenza and administered study drug, totaled 297 subjects. Among the 98 subjects enrolled in the RAPIVAB 600 mg dose group, the mean age was 34 years; 55% were male; 34% were smokers; 99% were infected with influenza A virus and 1% were infected with influenza B virus. The majority of subjects (53%) had influenza illness lasting &lt;24 hours at the time of presentation.</paragraph>
+                        <paragraph>Overall, subjects receiving RAPIVAB 600 mg experienced alleviation of their combined influenza symptoms a median of 21 hours sooner than those receiving placebo. The median time to recovery to normal temperature (&lt;37°C) in the 600 mg group was approximately 12 hours sooner compared to placebo.</paragraph>
+                        <paragraph>Insufficient numbers of subjects infected with influenza B virus were enrolled to determine efficacy of RAPIVAB in this influenza type.</paragraph>
+                     </text>
+                     <effectiveTime value="20240618"/>
+                  </section>
+               </component>
+               <component>
+                  <section ID="S14.2">
+                     <id root="631b7e27-ec37-4946-b988-5c71e57b43d3"/>
+                     <code code="42229-5" codeSystem="2.16.840.1.113883.6.1" displayName="SPL UNCLASSIFIED SECTION"/>
+                     <title>14.2	Acute Uncomplicated Influenza in Pediatric Subjects</title>
+                     <text>
+                        <paragraph>Study 305 was a randomized, multicenter, open-label, active-controlled trial to evaluate the safety, pharmacokinetics, and efficacy of a single intravenous dose of RAPIVAB administered for a minimum of 15 minutes in subjects 6 months to 17 years of age with acute uncomplicated influenza who had fever  ≥37.8°C (oral) with at least one respiratory symptom (cough or rhinitis) or a positive influenza rapid antigen test. Study treatment was started within 48 hours of onset of symptoms. Subjects were randomized to receive RAPIVAB 600 mg (13 to 17 years of age), RAPIVAB 12 mg/kg up to a maximum dose of 600 mg (6 months to 12 years of age), or oral oseltamivir taken twice daily for 5 days. In addition, all enrolled subjects were allowed to take fever-reducing medications. </paragraph>
+                        <paragraph>The overall efficacy population, consisting of subjects with confirmed influenza who were administered study drug, totaled 97 subjects. Among the 81 subjects treated with RAPIVAB, the median age was 7.5 years; 52% were male; 60% were infected with influenza A virus, 33% were infected with influenza B virus, and 6% were co-infected with influenza A and B viruses.</paragraph>
+                        <paragraph>The primary endpoint was the safety of peramivir compared to oseltamivir as measured by adverse events, laboratory analysis, vital signs, and physical exams. Secondary endpoints included efficacy outcomes such as time to resolution of influenza symptoms and time to resolution of fever; however, the study was not powered to detect statistically significant differences in these secondary endpoints. Subjects receiving RAPIVAB experienced a median time to alleviation of their combined influenza symptoms of 79 hours (interquartile range: 31 to 126 hours) compared to 100 hours (interquartile range: 57 to 145 hours) in subjects receiving oseltamivir. The median time to recovery to normal temperature (&lt;37°C) was 40 hours (interquartile range: 21 to 68 hours) and 35 hours (interquartile range: 16 to 42 hours) in subjects receiving RAPIVAB and oseltamivir, respectively <content styleCode="italics">[see <linkHtml href="#S8.4">Use in Specific Populations (8.4)</linkHtml>]</content>.</paragraph>
+                     </text>
+                     <effectiveTime value="20240618"/>
+                  </section>
+               </component>
+               <component>
+                  <section ID="S14.3">
+                     <id root="5830b307-da2b-483f-9924-3356cd5c517d"/>
+                     <code code="42229-5" codeSystem="2.16.840.1.113883.6.1" displayName="SPL UNCLASSIFIED SECTION"/>
+                     <title>14.3	Serious Influenza Requiring Hospitalization</title>
+                     <text>
+                        <paragraph>The efficacy of RAPIVAB could not be established in patients with serious influenza requiring hospitalization <content styleCode="italics">[see <linkHtml href="#S1">Indications and Usage (1)</linkHtml>]</content>.</paragraph>
+                        <paragraph>A randomized, double-blind, multicenter, placebo-controlled trial (Study 301) was conducted in 398 subjects with serious influenza requiring hospitalization. Subjects were randomized to receive RAPIVAB 600 mg daily for 5 days plus standard of care versus standard of care plus placebo within 72 hours of start of symptoms. The primary endpoint was time to clinical resolution defined as the time in hours from initiation of study treatment until resolution of at least 4 of 5 signs (temperature, oxygen saturation, respiration rate, heart rate, or systolic blood pressure), maintained for at least 24 hours. RAPIVAB plus standard of care did not improve median time to clinical resolution compared with standard of care alone.</paragraph>
+                     </text>
+                     <effectiveTime value="20240618"/>
+                  </section>
+               </component>
+            </section>
+         </component>
+         <component>
+            <section ID="S16">
+               <id root="c1270a0b-2b5b-4c29-876b-c79da1f19480"/>
+               <code code="34069-5" codeSystem="2.16.840.1.113883.6.1" displayName="HOW SUPPLIED SECTION"/>
+               <title>16 HOW SUPPLIED/STORAGE AND HANDLING</title>
+               <text>
+                  <paragraph>RAPIVAB injection is a clear, colorless sterile, isotonic solution. Each single-use vial contains 200 mg per 20 mL (10 mg/mL) of peramivir in a clear glass vial (NDC # 72769-181-01). RAPIVAB injection is supplied in cartons containing 3 single-use vials (NDC # 72769-181-03).</paragraph>
+               </text>
+               <effectiveTime value="20240618"/>
+               <component>
+                  <section>
+                     <id root="9cd08715-f885-4cd8-9b02-dc44aeca2f55"/>
+                     <code code="44425-7" codeSystem="2.16.840.1.113883.6.1" displayName="STORAGE AND HANDLING SECTION"/>
+                     <text>
+                        <paragraph>Store vials of RAPIVAB injection in original cartons at 20°C to 25°C (68°F to 77°F). Excursions are permitted to 15°C to 30°C (59°F to 86°F). </paragraph>
+                        <paragraph>
+                           <content styleCode="bold">Do not use if seal over bottle opening is broken or missing.</content>
+                        </paragraph>
+                     </text>
+                     <effectiveTime value="20240618"/>
+                  </section>
+               </component>
+            </section>
+         </component>
+         <component>
+            <section ID="S17">
+               <id root="1546ab06-2798-47fb-a10f-33c01a8adaa3"/>
+               <code code="34076-0" codeSystem="2.16.840.1.113883.6.1" displayName="INFORMATION FOR PATIENTS SECTION"/>
+               <title>17 PATIENT COUNSELING INFORMATION</title>
+               <text>
+                  <paragraph>Advise patients of the following:</paragraph>
+                  <list listType="unordered" styleCode="disc">
+                     <item>There is a risk of severe allergic reactions (including anaphylaxis) or serious skin reactions with RAPIVAB use. Advise patients to seek immediate medical attention if an allergic-like reaction occurs or is suspected <content styleCode="italics">[see <linkHtml href="#S5.1">Warnings and Precautions (5.1)</linkHtml>]</content>.</item>
+                     <item>There is a risk of neuropsychiatric events in patients with influenza. Patients should contact their physician if they experience signs of abnormal behavior after receiving RAPIVAB <content styleCode="italics">[see <linkHtml href="#S5.2">Warnings and Precautions (5.2)</linkHtml>]</content>.</item>
+                  </list>
+               </text>
+               <effectiveTime value="20240618"/>
+            </section>
+         </component>
+         <component>
+            <section>
+               <id root="6d4ef50e-b194-4683-828a-9b009bdb1a32"/>
+               <code code="42229-5" codeSystem="2.16.840.1.113883.6.1" displayName="SPL UNCLASSIFIED SECTION"/>
+               <text>
+                  <paragraph>RAPIVAB is a registered trademark of BioCryst Pharmaceuticals, Inc.</paragraph>
+                  <paragraph>Manufactured for and distributed by:<br/>BioCryst Pharmaceuticals, Inc.<br/>Durham, NC 27703</paragraph>
+                  <paragraph>RAP:9PI</paragraph>
+               </text>
+               <effectiveTime value="20240618"/>
+            </section>
+         </component>
+         <component>
+            <section>
+               <id root="93dc9991-790a-436c-b356-19c99ce16882"/>
+               <code code="51945-4" codeSystem="2.16.840.1.113883.6.1" displayName="PACKAGE LABEL.PRINCIPAL DISPLAY PANEL"/>
+               <title>PRINCIPAL DISPLAY PANEL - 200 mg/20 mL Vial Carton</title>
+               <text>
+                  <paragraph>							Rx Only 						</paragraph>
+                  <paragraph>							NDC 72769-181-03 						</paragraph>
+                  <paragraph>							Rapivab<sup>®</sup>
+                     <br/>peramivir injection 						</paragraph>
+                  <paragraph>							200 mg/20 mL per vial <br/>(10 mg/mL) 						</paragraph>
+                  <paragraph>							For Intravenous <br/>Infusion Only <br/>Dilute Before Use 						</paragraph>
+                  <paragraph>							Carton contains 3 vials 						</paragraph>
+                  <renderMultiMedia referencedObject="MM2"/>
+               </text>
+               <effectiveTime value="20240618"/>
+               <component>
+                  <observationMedia ID="MM2">
+                     <text>PRINCIPAL DISPLAY PANEL - 200 mg/20 mL Vial Carton</text>
+                     <value xsi:type="ED" mediaType="image/jpeg">
+                        <reference value="rapivab-02.jpg"/>
+                     </value>
+                  </observationMedia>
+               </component>
+            </section>
+         </component>
+      </structuredBody>
+   </component>
+</document>

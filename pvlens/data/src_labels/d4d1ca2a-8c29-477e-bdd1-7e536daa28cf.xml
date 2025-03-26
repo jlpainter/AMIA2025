@@ -1,0 +1,953 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet href="https://www.accessdata.fda.gov/spl/stylesheet/spl.xsl" type="text/xsl"?>
+<document xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:hl7-org:v3 https://www.accessdata.fda.gov/spl/schema/spl.xsd">
+   <id root="d4d1ca2a-8c29-477e-bdd1-7e536daa28cf"/>
+   <code code="34391-3" codeSystem="2.16.840.1.113883.6.1" displayName="HUMAN PRESCRIPTION DRUG LABEL"/>
+   <title>These highlights do not include all the information needed to use XIIDRA safely and effectively. See full prescribing information for XIIDRA. <br/>
+      <br/>XIIDRA<sup>®</sup> (lifitegrast ophthalmic solution), for topical ophthalmic use<br/>Initial U.S. Approval: 2016</title>
+   <effectiveTime value="20230802"/>
+   <setId root="8589d376-ac10-4ddb-9c53-2e0c8d5675c4"/>
+   <versionNumber value="5"/>
+   <author>
+      <time/>
+      <assignedEntity>
+         <representedOrganization>
+            <id extension="002147023" root="1.3.6.1.4.1.519.1"/>
+            <name>Novartis Pharmaceuticals Corporation</name>
+            <assignedEntity>
+               <assignedOrganization/>
+            </assignedEntity>
+         </representedOrganization>
+      </assignedEntity>
+   </author>
+   <component>
+      <structuredBody>
+         <component>
+            <section>
+               <id root="cdee3305-35cf-42e6-978d-f9471413e6e4"/>
+               <code code="48780-1" codeSystem="2.16.840.1.113883.6.1" displayName="SPL PRODUCT DATA ELEMENTS SECTION"/>
+               <effectiveTime value="20200731"/>
+               <subject>
+                  <manufacturedProduct>
+                     <manufacturedProduct>
+                        <code code="0078-0911" codeSystem="2.16.840.1.113883.6.69"/>
+                        <name>Xiidra</name>
+                        <formCode code="C60992" codeSystem="2.16.840.1.113883.3.26.1.1" displayName="SOLUTION/ DROPS"/>
+                        <asEntityWithGeneric>
+                           <genericMedicine>
+                              <name>Lifitegrast</name>
+                           </genericMedicine>
+                        </asEntityWithGeneric>
+                        <ingredient classCode="ACTIB">
+                           <quantity>
+                              <numerator value="50" unit="mg"/>
+                              <denominator value="1" unit="mL"/>
+                           </quantity>
+                           <ingredientSubstance>
+                              <code code="038E5L962W" codeSystem="2.16.840.1.113883.4.9"/>
+                              <name>LIFITEGRAST</name>
+                              <activeMoiety>
+                                 <activeMoiety>
+                                    <code code="038E5L962W" codeSystem="2.16.840.1.113883.4.9"/>
+                                    <name>LIFITEGRAST</name>
+                                 </activeMoiety>
+                              </activeMoiety>
+                           </ingredientSubstance>
+                        </ingredient>
+                        <ingredient classCode="IACT">
+                           <ingredientSubstance>
+                              <code code="451W47IQ8X" codeSystem="2.16.840.1.113883.4.9"/>
+                              <name>SODIUM CHLORIDE</name>
+                           </ingredientSubstance>
+                        </ingredient>
+                        <ingredient classCode="IACT">
+                           <ingredientSubstance>
+                              <code code="22ADO53M6F" codeSystem="2.16.840.1.113883.4.9"/>
+                              <name>SODIUM PHOSPHATE, DIBASIC, ANHYDROUS</name>
+                           </ingredientSubstance>
+                        </ingredient>
+                        <ingredient classCode="IACT">
+                           <ingredientSubstance>
+                              <code code="HX1032V43M" codeSystem="2.16.840.1.113883.4.9"/>
+                              <name>SODIUM THIOSULFATE</name>
+                           </ingredientSubstance>
+                        </ingredient>
+                        <ingredient classCode="IACT">
+                           <ingredientSubstance>
+                              <code code="55X04QC32I" codeSystem="2.16.840.1.113883.4.9"/>
+                              <name>SODIUM HYDROXIDE</name>
+                           </ingredientSubstance>
+                        </ingredient>
+                        <ingredient classCode="IACT">
+                           <ingredientSubstance>
+                              <code code="QTT17582CB" codeSystem="2.16.840.1.113883.4.9"/>
+                              <name>HYDROCHLORIC ACID</name>
+                           </ingredientSubstance>
+                        </ingredient>
+                        <ingredient classCode="IACT">
+                           <ingredientSubstance>
+                              <code code="059QF0KO0R" codeSystem="2.16.840.1.113883.4.9"/>
+                              <name>WATER</name>
+                           </ingredientSubstance>
+                        </ingredient>
+                        <asContent>
+                           <quantity>
+                              <numerator value="0.2" unit="mL"/>
+                              <denominator value="1"/>
+                           </quantity>
+                           <containerPackagedProduct>
+                              <code/>
+                              <formCode code="C43165" codeSystem="2.16.840.1.113883.3.26.1.1" displayName="AMPULE"/>
+                              <asContent>
+                                 <quantity>
+                                    <numerator value="5" unit="1"/>
+                                    <denominator value="1"/>
+                                 </quantity>
+                                 <containerPackagedProduct>
+                                    <code code="0078-0911-05" codeSystem="2.16.840.1.113883.6.69"/>
+                                    <formCode code="C43200" codeSystem="2.16.840.1.113883.3.26.1.1" displayName="POUCH"/>
+                                    <asContent>
+                                       <quantity>
+                                          <numerator value="12" unit="1"/>
+                                          <denominator value="1"/>
+                                       </quantity>
+                                       <containerPackagedProduct>
+                                          <code code="0078-0911-12" codeSystem="2.16.840.1.113883.6.69"/>
+                                          <formCode code="C43182" codeSystem="2.16.840.1.113883.3.26.1.1" displayName="CARTON"/>
+                                       </containerPackagedProduct>
+                                       <subjectOf>
+                                          <marketingAct>
+                                             <code code="C53292" codeSystem="2.16.840.1.113883.3.26.1.1"/>
+                                             <statusCode code="active"/>
+                                             <effectiveTime>
+                                                <low value="20200604"/>
+                                             </effectiveTime>
+                                          </marketingAct>
+                                       </subjectOf>
+                                    </asContent>
+                                 </containerPackagedProduct>
+                              </asContent>
+                           </containerPackagedProduct>
+                           <subjectOf>
+                              <characteristic>
+                                 <code code="SPLCMBPRDTP" codeSystem="2.16.840.1.113883.1.11.19255"/>
+                                 <value code="C112160" codeSystem="2.16.840.1.113883.3.26.1.1" displayName="Type 0: Not a Combination Product" xsi:type="CV"/>
+                              </characteristic>
+                           </subjectOf>
+                        </asContent>
+                        <asContent>
+                           <quantity>
+                              <numerator value="0.2" unit="mL"/>
+                              <denominator value="1"/>
+                           </quantity>
+                           <containerPackagedProduct>
+                              <code/>
+                              <formCode code="C43165" codeSystem="2.16.840.1.113883.3.26.1.1" displayName="AMPULE"/>
+                              <asContent>
+                                 <quantity>
+                                    <numerator value="5" unit="1"/>
+                                    <denominator value="1"/>
+                                 </quantity>
+                                 <containerPackagedProduct>
+                                    <code code="0078-0911-95" codeSystem="2.16.840.1.113883.6.69"/>
+                                    <formCode code="C43200" codeSystem="2.16.840.1.113883.3.26.1.1" displayName="POUCH"/>
+                                    <asContent>
+                                       <quantity>
+                                          <numerator value="4" unit="1"/>
+                                          <denominator value="1"/>
+                                       </quantity>
+                                       <containerPackagedProduct>
+                                          <code code="0078-0911-94" codeSystem="2.16.840.1.113883.6.69"/>
+                                          <formCode code="C43182" codeSystem="2.16.840.1.113883.3.26.1.1" displayName="CARTON"/>
+                                       </containerPackagedProduct>
+                                       <subjectOf>
+                                          <marketingAct>
+                                             <code code="C96974" codeSystem="2.16.840.1.113883.3.26.1.1"/>
+                                             <statusCode code="active"/>
+                                             <effectiveTime>
+                                                <low value="20200604"/>
+                                             </effectiveTime>
+                                          </marketingAct>
+                                       </subjectOf>
+                                    </asContent>
+                                 </containerPackagedProduct>
+                              </asContent>
+                           </containerPackagedProduct>
+                           <subjectOf>
+                              <characteristic>
+                                 <code code="SPLCMBPRDTP" codeSystem="2.16.840.1.113883.1.11.19255"/>
+                                 <value code="C112160" codeSystem="2.16.840.1.113883.3.26.1.1" displayName="Type 0: Not a Combination Product" xsi:type="CV"/>
+                              </characteristic>
+                           </subjectOf>
+                        </asContent>
+                     </manufacturedProduct>
+                     <subjectOf>
+                        <approval>
+                           <id extension="NDA208073" root="2.16.840.1.113883.3.150"/>
+                           <code code="C73594" codeSystem="2.16.840.1.113883.3.26.1.1" displayName="NDA"/>
+                           <author>
+                              <territorialAuthority>
+                                 <territory>
+                                    <code code="USA" codeSystem="2.16.840.1.113883.5.28"/>
+                                 </territory>
+                              </territorialAuthority>
+                           </author>
+                        </approval>
+                     </subjectOf>
+                     <subjectOf>
+                        <marketingAct>
+                           <code code="C53292" codeSystem="2.16.840.1.113883.3.26.1.1"/>
+                           <statusCode code="active"/>
+                           <effectiveTime>
+                              <low value="20160711"/>
+                           </effectiveTime>
+                        </marketingAct>
+                     </subjectOf>
+                     <consumedIn>
+                        <substanceAdministration>
+                           <routeCode code="C38287" codeSystem="2.16.840.1.113883.3.26.1.1" displayName="OPHTHALMIC"/>
+                        </substanceAdministration>
+                     </consumedIn>
+                  </manufacturedProduct>
+               </subject>
+            </section>
+         </component>
+         <component>
+            <section ID="s1">
+               <id root="4e055d98-df78-4e37-bee7-349696534ce9"/>
+               <code code="34067-9" codeSystem="2.16.840.1.113883.6.1" displayName="INDICATIONS &amp; USAGE SECTION"/>
+               <title>1     INDICATIONS AND USAGE</title>
+               <text>
+                  <paragraph>Xiidra<sup>®</sup> (lifitegrast ophthalmic solution) 5% is indicated for the treatment of the signs and symptoms of dry eye disease (DED).</paragraph>
+               </text>
+               <effectiveTime value="20200604"/>
+               <excerpt>
+                  <highlight>
+                     <text>
+                        <paragraph>Xiidra (lifitegrast ophthalmic solution) 5% is a lymphocyte function-associated antigen-1 (LFA-1) antagonist indicated for the treatment of the signs and symptoms of dry eye disease (DED). (<linkHtml href="#s1">1</linkHtml>)</paragraph>
+                     </text>
+                  </highlight>
+               </excerpt>
+            </section>
+         </component>
+         <component>
+            <section ID="s2">
+               <id root="ca3b5d21-fa06-4ad8-a024-3cfb0ebbdab1"/>
+               <code code="34068-7" codeSystem="2.16.840.1.113883.6.1" displayName="DOSAGE &amp; ADMINISTRATION SECTION"/>
+               <title>2     DOSAGE AND ADMINISTRATION</title>
+               <text>
+                  <paragraph>Instill one drop of Xiidra twice daily (approximately 12 hours apart) into each eye using a single-use container. Discard the single-use container immediately after using in each eye.</paragraph>
+                  <paragraph>Contact lenses should be removed prior to the administration of Xiidra and may be reinserted 15 minutes following administration.</paragraph>
+               </text>
+               <effectiveTime value="20200604"/>
+               <excerpt>
+                  <highlight>
+                     <text>
+                        <paragraph>One drop twice daily in each eye (approximately 12 hours apart). (<linkHtml href="#s2">2</linkHtml>)</paragraph>
+                     </text>
+                  </highlight>
+               </excerpt>
+            </section>
+         </component>
+         <component>
+            <section ID="s3">
+               <id root="cce4c0f0-f555-4264-890a-4faba6b8bffe"/>
+               <code code="43678-2" codeSystem="2.16.840.1.113883.6.1" displayName="DOSAGE FORMS &amp; STRENGTHS SECTION"/>
+               <title>3     DOSAGE FORMS AND STRENGTHS</title>
+               <text>
+                  <paragraph>Ophthalmic solution containing lifitegrast 50 mg/mL (5%).</paragraph>
+               </text>
+               <effectiveTime value="20200604"/>
+               <excerpt>
+                  <highlight>
+                     <text>
+                        <paragraph>Ophthalmic solution containing lifitegrast 50 mg/mL (5%). (<linkHtml href="#s3">3</linkHtml>)</paragraph>
+                     </text>
+                  </highlight>
+               </excerpt>
+            </section>
+         </component>
+         <component>
+            <section ID="s4">
+               <id root="24a95720-3465-4b7d-a1b4-3a437c721916"/>
+               <code code="34070-3" codeSystem="2.16.840.1.113883.6.1" displayName="CONTRAINDICATIONS SECTION"/>
+               <title>4     CONTRAINDICATIONS</title>
+               <text>
+                  <paragraph>Xiidra is contraindicated in patients with known hypersensitivity to lifitegrast or to any of the other ingredients in the formulation <content styleCode="italics">[see Adverse Reactions (6.2)]</content>.
+						</paragraph>
+               </text>
+               <effectiveTime value="20200604"/>
+               <excerpt>
+                  <highlight>
+                     <text>
+                        <paragraph>Hypersensitivity. (<linkHtml href="#s4">4</linkHtml>)</paragraph>
+                     </text>
+                  </highlight>
+               </excerpt>
+            </section>
+         </component>
+         <component>
+            <section ID="s6">
+               <id root="49fa99c6-c31b-4112-9445-9166fa75b72d"/>
+               <code code="34084-4" codeSystem="2.16.840.1.113883.6.1" displayName="ADVERSE REACTIONS SECTION"/>
+               <title>6     ADVERSE REACTIONS</title>
+               <text>
+                  <paragraph>The following serious adverse reactions are described elsewhere in the labeling:</paragraph>
+                  <list>
+                     <item>Hypersensitivity <content styleCode="italics">[see Contraindications (4)]</content>
+                     </item>
+                  </list>
+               </text>
+               <effectiveTime value="20200604"/>
+               <excerpt>
+                  <highlight>
+                     <text>
+                        <paragraph>The most common adverse reactions (incidence 5%-25%) following the use of Xiidra were instillation-site irritation, dysgeusia, and decreased visual acuity. (<linkHtml href="#s6">6</linkHtml>)</paragraph>
+                        <paragraph>
+                           <content styleCode="bold">
+                              <br/>To report SUSPECTED ADVERSE REACTIONS, contact Novartis Pharmaceuticals Corporation at 1-888-669-6682 or FDA at 1-800-FDA-1088 or <linkHtml href="www.fda.gov/medwatch">www.fda.gov/medwatch</linkHtml>.</content>
+                        </paragraph>
+                        <br/>
+                     </text>
+                  </highlight>
+               </excerpt>
+               <component>
+                  <section>
+                     <id root="214d9ecb-77ca-4182-abc5-4d7842124b8b"/>
+                     <code code="90374-0" codeSystem="2.16.840.1.113883.6.1" displayName="CLINICAL TRIALS EXPERIENCE SECTION"/>
+                     <title>6.1     Clinical Trials Experience</title>
+                     <text>
+                        <paragraph>Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice.</paragraph>
+                        <paragraph>In five clinical trials of DED conducted with lifitegrast ophthalmic solution, 1401 patients received at least one dose of lifitegrast (1287 of which received lifitegrast 5%). The majority of patients (84%) had less than or equal to 3 months of treatment exposure. One hundred-seventy patients were exposed to lifitegrast for approximately 12 months. The majority of the treated patients were female (77%). The most common adverse reactions reported in 5%-25% of patients were instillation-site irritation, dysgeusia, and reduced visual acuity.</paragraph>
+                        <paragraph>Other adverse reactions reported in 1%-5% of the patients were blurred vision, conjunctival hyperemia, eye irritation, headache, increased lacrimation, eye discharge, eye discomfort, eye pruritus, and sinusitis.</paragraph>
+                     </text>
+                     <effectiveTime value="20200604"/>
+                  </section>
+               </component>
+               <component>
+                  <section ID="s6p2">
+                     <id root="3b2f930a-42db-4d57-866f-c0caaf483e6a"/>
+                     <code code="90375-7" codeSystem="2.16.840.1.113883.6.1" displayName="POSTMARKETING EXPERIENCE SECTION"/>
+                     <title>6.2     Postmarketing Experience</title>
+                     <text>
+                        <paragraph>The following adverse reactions have been identified during post-approval use of Xiidra. Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.</paragraph>
+                        <paragraph>Rare serious cases of hypersensitivity, including anaphylactic reaction, bronchospasm, respiratory distress, pharyngeal edema, swollen tongue, urticaria, allergic conjunctivitis, dyspnea, angioedema, and allergic dermatitis have been reported. Eye swelling and rash have also been reported <content styleCode="italics">[see Contraindications (4)]</content>.
+								</paragraph>
+                     </text>
+                     <effectiveTime value="20200604"/>
+                  </section>
+               </component>
+            </section>
+         </component>
+         <component>
+            <section ID="s8">
+               <id root="488f8e54-5beb-4b58-95c6-a77913c75626"/>
+               <code codeSystem="2.16.840.1.113883.6.1" code="43684-0" displayName="USE IN SPECIFIC POPULATIONS SECTION"/>
+               <title>8     USE IN SPECIFIC POPULATIONS</title>
+               <effectiveTime value="20200604"/>
+               <component>
+                  <section ID="s8p1">
+                     <id root="d24e9aa4-37b8-478c-96ae-c2e1ba4ba7b4"/>
+                     <code codeSystem="2.16.840.1.113883.6.1" code="42228-7" displayName="PREGNANCY SECTION"/>
+                     <title>8.1     Pregnancy</title>
+                     <text>
+                        <paragraph>
+                           <content styleCode="underline">Risk Summary</content>
+                        </paragraph>
+                        <paragraph>There are no available data on Xiidra use in pregnant women to inform any drug-associated risks. Intravenous (IV) administration of lifitegrast to pregnant rats, from premating through gestation day 17, did not produce teratogenicity at clinically relevant systemic exposures. Intravenous administration of lifitegrast to pregnant rabbits during organogenesis produced an increased incidence of omphalocele at the lowest dose tested, 3 mg/kg/day (400-fold the human plasma exposure at the recommended human ophthalmic dose [RHOD], based on the area under the curve [AUC] level). Since human systemic exposure to lifitegrast following ocular administration of Xiidra at the RHOD is low, the applicability of animal findings to the risk of Xiidra use in humans during pregnancy is unclear <content styleCode="italics">[see Clinical Pharmacology (12.3)]</content>.</paragraph>
+                        <paragraph>
+                           <content styleCode="underline">Data</content>
+                        </paragraph>
+                        <paragraph>
+                           <content styleCode="italics">Animal Data</content>
+                        </paragraph>
+                        <paragraph>Lifitegrast administered daily by IV injection to rats, from premating through gestation day 17, caused an increase in mean pre-implantation loss and an increased incidence of several minor skeletal anomalies at 30 mg/kg/day, representing 5,400-fold the human plasma exposure at the RHOD of Xiidra, based on AUC. No teratogenicity was observed in the rat at 10 mg/kg/day (460-fold the human plasma exposure at the RHOD, based on AUC). In the rabbit, an increased incidence of omphalocele was observed at the lowest dose tested, 3 mg/kg/day (400-fold the human plasma exposure at the RHOD, based on AUC), when administered by IV injection daily from gestation days 7 through 19. A fetal no observed adverse effect level (NOAEL) was not identified in the rabbit.</paragraph>
+                     </text>
+                     <effectiveTime value="20200604"/>
+                  </section>
+               </component>
+               <component>
+                  <section ID="s8p2">
+                     <id root="8d5a483e-d264-4ee2-8db0-304086986e4d"/>
+                     <code codeSystem="2.16.840.1.113883.6.1" code="77290-5" displayName="LACTATION SECTION"/>
+                     <title>8.2     Lactation</title>
+                     <text>
+                        <paragraph>
+                           <content styleCode="underline">Risk Summary</content>
+                        </paragraph>
+                        <paragraph>There are no data on the presence of lifitegrast in human milk, the effects on the breastfed infant, or the effects on milk production. However, systemic exposure to lifitegrast from ocular administration is low <content styleCode="italics">[see Clinical Pharmacology (12.3)]</content>. The developmental and health benefits of breastfeeding should be considered, along with the mother’s clinical need for Xiidra and any potential adverse effects on the breastfed child from Xiidra.</paragraph>
+                     </text>
+                     <effectiveTime value="20200604"/>
+                  </section>
+               </component>
+               <component>
+                  <section ID="s8p4">
+                     <id root="38b8c87b-e939-48e3-85f7-1df5c4036750"/>
+                     <code codeSystem="2.16.840.1.113883.6.1" code="34081-0" displayName="PEDIATRIC USE SECTION"/>
+                     <title>8.4     Pediatric Use</title>
+                     <text>
+                        <paragraph>Safety and efficacy in pediatric patients below the age of 17 years have not been established.</paragraph>
+                     </text>
+                     <effectiveTime value="20200604"/>
+                  </section>
+               </component>
+               <component>
+                  <section ID="s8p5">
+                     <id root="308f3cb3-019f-49c5-b0e1-d53d1a14b5d0"/>
+                     <code codeSystem="2.16.840.1.113883.6.1" code="34082-8" displayName="GERIATRIC USE SECTION"/>
+                     <title>8.5     Geriatric Use</title>
+                     <text>
+                        <paragraph>No overall differences in safety or effectiveness have been observed between elderly and younger adult patients.</paragraph>
+                     </text>
+                     <effectiveTime value="20200604"/>
+                  </section>
+               </component>
+            </section>
+         </component>
+         <component>
+            <section ID="s11">
+               <id root="8d5c096b-bbc1-4f22-add6-868441f2ae64"/>
+               <code code="34089-3" codeSystem="2.16.840.1.113883.6.1" displayName="DESCRIPTION SECTION"/>
+               <title>11     DESCRIPTION</title>
+               <text>
+                  <paragraph>The chemical name for lifitegrast is (S)-2-(2-(benzofuran-6-carbonyl)-5,7-dichloro-1,2,3,4-tetrahydroisoquinoline-6-carboxamido)-3-(3-(methylsulfonyl)phenyl)propanoic acid. The molecular formula of lifitegrast is C<sub>29</sub>H<sub>24</sub>Cl<sub>2</sub>N<sub>2</sub>O<sub>7</sub>S and its molecular weight is 615.5 g/mol. The structural formula of lifitegrast is:</paragraph>
+                  <paragraph>
+                     <renderMultiMedia referencedObject="MM1"/>
+                  </paragraph>
+                  <paragraph>*Chiral center</paragraph>
+                  <paragraph>Lifitegrast is a white to off-white powder, which is soluble in water.</paragraph>
+                  <paragraph>Xiidra (lifitegrast ophthalmic solution) 5% is a lymphocyte function-associated antigen-1 (LFA-1) antagonist supplied as a sterile, clear, colorless to slightly brownish-yellow colored, isotonic solution of lifitegrast with a pH of 7.0-8.0, and an osmolality range of 200-330 mOsmol/kg.</paragraph>
+                  <paragraph>Xiidra contains <content styleCode="bold">Active:</content> lifitegrast 50 mg/mL; <content styleCode="bold">Inactives</content>: sodium chloride, sodium phosphate dibasic anhydrous, sodium thiosulfate pentahydrate, and water for injection. Sodium hydroxide and/or hydrochloric acid (to adjust pH). </paragraph>
+               </text>
+               <effectiveTime value="20200604"/>
+               <component>
+                  <observationMedia ID="MM1">
+                     <text>Chemical Structure</text>
+                     <value xsi:type="ED" mediaType="image/jpeg">
+                        <reference value="xiidra-01.jpg"/>
+                     </value>
+                  </observationMedia>
+               </component>
+            </section>
+         </component>
+         <component>
+            <section ID="s12">
+               <id root="08a4e259-9121-4233-94fd-31cdf28f1709"/>
+               <code code="34090-1" codeSystem="2.16.840.1.113883.6.1" displayName="CLINICAL PHARMACOLOGY SECTION"/>
+               <title>12     CLINICAL PHARMACOLOGY</title>
+               <effectiveTime value="20200604"/>
+               <component>
+                  <section ID="s12p1">
+                     <id root="839d5a38-def2-44dc-bf1a-8e6df0403f0e"/>
+                     <code code="43679-0" codeSystem="2.16.840.1.113883.6.1" displayName="MECHANISM OF ACTION SECTION"/>
+                     <title>12.1     Mechanism of Action</title>
+                     <text>
+                        <paragraph>Lifitegrast binds to the integrin LFA-1, a cell surface protein found on leukocytes and blocks the interaction of LFA-1 with its cognate ligand intercellular adhesion molecule-1 (ICAM-1). ICAM-1 may be overexpressed in corneal and conjunctival tissues in DED. LFA-1/ICAM-1 interaction can contribute to the formation of an immunological synapse resulting in T-cell activation and migration to target tissues. <content styleCode="italics">In vitro</content> studies demonstrated that lifitegrast may inhibit T-cell adhesion to ICAM-1 in a human T-cell line and may inhibit secretion of inflammatory cytokines in human peripheral blood mononuclear cells. The exact mechanism of action of lifitegrast in DED is not known.</paragraph>
+                     </text>
+                     <effectiveTime value="20200604"/>
+                  </section>
+               </component>
+               <component>
+                  <section ID="s12p3">
+                     <id root="ad252ce7-e781-4826-bdd7-31e5109af56b"/>
+                     <code code="43682-4" codeSystem="2.16.840.1.113883.6.1" displayName="PHARMACOKINETICS SECTION"/>
+                     <title>12.3     Pharmacokinetics</title>
+                     <text>
+                        <paragraph>In a subset of DED patients (n = 47) enrolled in a Phase 3 trial, the pre-dose (trough) plasma concentrations of lifitegrast were measured after 180 and 360 days of topical ocular dosing (one drop twice daily) with Xiidra (lifitegrast ophthalmic solution) 5%. A total of nine of the 47 patients (19%) had plasma lifitegrast trough concentrations above 0.5 ng/mL (the lower limit of assay quantitation). Trough plasma concentrations that could be quantitated ranged from 0.55 ng/mL to 3.74 ng/mL.</paragraph>
+                     </text>
+                     <effectiveTime value="20200604"/>
+                  </section>
+               </component>
+            </section>
+         </component>
+         <component>
+            <section>
+               <id root="b3d78145-3160-4742-876a-ad328e43862a"/>
+               <code codeSystem="2.16.840.1.113883.6.1" code="43680-8" displayName="NONCLINICAL TOXICOLOGY SECTION"/>
+               <title>13     NONCLINICAL TOXICOLOGY</title>
+               <effectiveTime value="20200604"/>
+               <component>
+                  <section>
+                     <id root="e8ef088f-44c2-4c31-a090-fceab9c97315"/>
+                     <code codeSystem="2.16.840.1.113883.6.1" code="34083-6" displayName="CARCINOGENESIS &amp; MUTAGENESIS &amp; IMPAIRMENT OF FERTILITY SECTION"/>
+                     <title>13.1     Carcinogenesis, Mutagenesis, Impairment of Fertility</title>
+                     <text>
+                        <paragraph>
+                           <content styleCode="underline">Carcinogenesis</content>
+                        </paragraph>
+                        <paragraph>Animal studies have not been conducted to determine the carcinogenic potential of lifitegrast.</paragraph>
+                        <paragraph>
+                           <content styleCode="underline">Mutagenesis</content>
+                        </paragraph>
+                        <paragraph>Lifitegrast was not mutagenic in the <content styleCode="italics">in vitro</content> Ames assay. Lifitegrast was not clastogenic in the <content styleCode="italics">in vivo</content> mouse micronucleus assay. In an <content styleCode="italics">in vitro</content> chromosomal aberration assay using mammalian cells (Chinese hamster ovary cells), lifitegrast was positive at the highest concentration tested, without metabolic activation.</paragraph>
+                        <paragraph>
+                           <content styleCode="underline">Impairment of Fertility</content>
+                        </paragraph>
+                        <paragraph>Lifitegrast administered at IV doses of up to 30 mg/kg/day (5400-fold the human plasma exposure at the RHOD of lifitegrast ophthalmic solution, 5%) had no effect on fertility and reproductive performance in male and female-treated rats.</paragraph>
+                     </text>
+                     <effectiveTime value="20200604"/>
+                  </section>
+               </component>
+            </section>
+         </component>
+         <component>
+            <section ID="s14">
+               <id root="a60cab40-9b93-4b08-8895-95976e91ab2f"/>
+               <code code="34092-7" codeSystem="2.16.840.1.113883.6.1" displayName="CLINICAL STUDIES SECTION"/>
+               <title>14     CLINICAL STUDIES</title>
+               <text>
+                  <paragraph>The safety and efficacy of lifitegrast for the treatment of DED were assessed in a total of 1181 patients (1067 of which received lifitegrast 5%) in four 12-week, randomized, multi-center, double-masked, vehicle-controlled studies. Patients were randomized to Xiidra or vehicle (placebo) in a 1:1 ratio and dosed twice a day. Use of artificial tears was not allowed during the studies. The mean age was 59 years (range, 19-97 years). The majority of patients were female (76%). Enrollment criteria included minimal signs (i.e., Corneal Fluorescein Staining and non-anesthetized Schirmer Tear Test) and symptoms (i.e., Eye Dryness Score (EDS) and Ocular Discomfort Score) severity scores at baseline.</paragraph>
+                  <paragraph>
+                     <content styleCode="underline">Effects on Symptoms of Dry Eye Disease</content>
+                  </paragraph>
+                  <paragraph>Eye dryness score was rated by patients using a visual analogue scale (0 = no discomfort, 100 = maximal discomfort) at each study visit. The average baseline EDS was between 40 and 70. A larger reduction in EDS favoring Xiidra was observed in all studies at Day 42 and Day 84 (see Figure 1).</paragraph>
+                  <paragraph>
+                     <content styleCode="bold">Figure 1: Mean Change (SD) From Baseline and Treatment Difference (Xiidra – Vehicle) in Eye Dryness Score in 12-Week Studies in Patients With Dry Eye Disease</content>
+                  </paragraph>
+                  <paragraph>
+                     <renderMultiMedia referencedObject="MM2"/>
+                  </paragraph>
+                  <paragraph>[1] Based on analysis of covariance (ANCOVA) model adjusted for baseline value in Study 1, and ANCOVA model adjusted for baseline value and randomization stratification factors in Studies 2-4. All randomized and treated patients were included in the analysis and missing data were imputed using last-available data. In Study 1, one Xiidra-treated subject who did not have a baseline value was excluded from analysis.</paragraph>
+                  <paragraph>
+                     <content styleCode="underline">Effects on Signs of Dry Eye Disease</content>
+                  </paragraph>
+                  <paragraph>Inferior fluorescein corneal staining score (ICSS) (0 = no staining, 1 = few/rare punctate lesions, 2 = discrete and countable lesions, 3 = lesions too numerous to count but not coalescent, 4 = coalescent) was recorded at each study visit. The average baseline ICSS was approximately 1.8 in Studies 1 and 2, and 2.4 in Studies 3 and 4. At Day 84, a larger reduction in ICSS favoring Xiidra was observed in three of the four studies (see Figure 2).</paragraph>
+                  <paragraph>
+                     <content styleCode="bold">Figure 2: Mean Change (SD) From Baseline and Treatment Difference (Xiidra – Vehicle) in Inferior Corneal Staining Score in 12-Week Studies in Patients With Dry Eye Disease</content>
+                  </paragraph>
+                  <paragraph>
+                     <renderMultiMedia referencedObject="MM3"/>
+                  </paragraph>
+                  <paragraph>[1] Based on ANCOVA model adjusted for baseline value in Study 1, and ANCOVA model adjusted for baseline value and randomization stratification factors in Studies 2-4. All randomized and treated patients were included in the analysis and missing data were imputed using last-available data. In Study 2, one vehicle-treated subject who did not have a study eye designated was excluded from analysis.</paragraph>
+               </text>
+               <effectiveTime value="20200604"/>
+               <component>
+                  <observationMedia ID="MM2">
+                     <text>Figure 1</text>
+                     <value xsi:type="ED" mediaType="image/jpeg">
+                        <reference value="xiidra-02.jpg"/>
+                     </value>
+                  </observationMedia>
+               </component>
+               <component>
+                  <observationMedia ID="MM3">
+                     <text>Figure 2</text>
+                     <value xsi:type="ED" mediaType="image/jpeg">
+                        <reference value="xiidra-03.jpg"/>
+                     </value>
+                  </observationMedia>
+               </component>
+            </section>
+         </component>
+         <component>
+            <section>
+               <id root="ed5d9c01-e554-4596-8bc4-1e0f077748b3"/>
+               <code codeSystem="2.16.840.1.113883.6.1" code="34069-5" displayName="HOW SUPPLIED SECTION"/>
+               <title>16     HOW SUPPLIED/STORAGE AND HANDLING</title>
+               <text>
+                  <paragraph>Xiidra (lifitegrast ophthalmic solution) 5% (50 mg/mL) is supplied in a foil pouch containing 5 low-density polyethylene 0.2 mL single-use containers.</paragraph>
+                  <paragraph>Carton of 60 single-use containers          NDC 0078-0911-12</paragraph>
+                  <paragraph>
+                     <content styleCode="italics">Storage:</content>
+                  </paragraph>
+                  <paragraph>Store at 20°C to 25°C (68°F to 77°F). Store single-use containers in the original foil pouch.</paragraph>
+               </text>
+               <effectiveTime value="20200604"/>
+            </section>
+         </component>
+         <component>
+            <section>
+               <id root="a50ece51-6d5d-403a-85d6-83dacd834f90"/>
+               <code codeSystem="2.16.840.1.113883.6.1" code="34076-0" displayName="INFORMATION FOR PATIENTS SECTION"/>
+               <title>17     PATIENT COUNSELING INFORMATION</title>
+               <text>
+                  <paragraph>Advise patients to read the FDA-approved patient labeling (Patient Information and Instructions for Use).</paragraph>
+                  <paragraph>
+                     <content styleCode="underline">Handling the Single-use Container</content>
+                  </paragraph>
+                  <paragraph>Advise patients not to touch the tip of the single-use container to their eye or to any surface, in order to avoid eye injury or contamination of the solution.</paragraph>
+                  <paragraph>
+                     <content styleCode="underline">Use With Contact Lenses</content>
+                  </paragraph>
+                  <paragraph>Advise patients that contact lenses should be removed prior to administration of Xiidra and can be reinserted 15 minutes after administration <content styleCode="italics">[see Dosage and Administration (2)]</content>.</paragraph>
+                  <paragraph>
+                     <content styleCode="underline">Administration</content>
+                  </paragraph>
+                  <paragraph>Advise patients that the solution from one single-use container is to be used immediately after opening. It can be used to dose both eyes. The single-use container, including any remaining contents should be discarded immediately after administration <content styleCode="italics">[see Dosage and Administration (2)]</content>.</paragraph>
+                  <paragraph>
+                     <content styleCode="underline">Storage Information</content>
+                  </paragraph>
+                  <paragraph>Instruct patients to store single-use containers in the original foil pouch until ready to use <content styleCode="italics">[see How Supplied/Storage and Handling (16)]</content>.</paragraph>
+                  <paragraph>Distributed by:<br/>Novartis Pharmaceuticals Corporation<br/>One Health Plaza<br/>East Hanover, NJ 07936</paragraph>
+                  <paragraph>T2020-87</paragraph>
+               </text>
+               <effectiveTime value="20200604"/>
+            </section>
+         </component>
+         <component>
+            <section>
+               <id root="0a277997-1423-44a3-8881-44a59c15d2de"/>
+               <code codeSystem="2.16.840.1.113883.6.1" code="42230-3" displayName="SPL PATIENT PACKAGE INSERT SECTION"/>
+               <title/>
+               <text>
+                  <table>
+                     <col width="364"/>
+                     <col width="364"/>
+                     <tfoot>
+                        <tr>
+                           <td align="left">This Patient Information has been approved by the U.S. Food and Drug Administration.</td>
+                           <td align="right">Revised: June 2020</td>
+                        </tr>
+                     </tfoot>
+                     <tbody>
+                        <tr>
+                           <td styleCode="Toprule Lrule Rrule " colspan="2" align="center">
+                              <content styleCode="bold">PATIENT INFORMATION
+											<br/>XIIDRA<sup>®</sup> (ZYE-druh)<br/>(lifitegrast ophthalmic solution) 5%<br/>for topical ophthalmic use</content>
+                           </td>
+                        </tr>
+                        <tr>
+                           <td styleCode="Toprule Lrule Rrule " colspan="2">
+                              <content styleCode="bold">What is Xiidra?</content>
+                              <br/>Xiidra is a prescription eye drop solution used to treat the signs and symptoms of dry eye disease (DED). It is not known if Xiidra is safe and effective in children under 17 years of age.</td>
+                        </tr>
+                        <tr>
+                           <td styleCode="Toprule Lrule Rrule " colspan="2">
+                              <content styleCode="bold">Do not use Xiidra:</content>
+                              <br/>
+                              <list listType="unordered" styleCode="Disc">
+                                 <item>If you are allergic to lifitegrast or any of the other ingredients in Xiidra, see <content styleCode="bold">“What are the ingredients in Xiidra?”</content>
+                                 </item>
+                              </list>
+                           </td>
+                        </tr>
+                        <tr>
+                           <td styleCode="Toprule Lrule Rrule " colspan="2">
+                              <content styleCode="bold">Before you use Xiidra, tell your doctor if you:</content>
+                              <list listType="unordered" styleCode="Disc">
+                                 <item>are using any other eye drops</item>
+                                 <item>wear contact lenses</item>
+                                 <item>are pregnant or plan to become pregnant. It is not known if Xiidra will harm your unborn baby.</item>
+                                 <item>are breastfeeding or plan to breastfeed. It is not known if Xiidra passes into your breast milk. Talk to your doctor about the best way to feed your baby if you use Xiidra.</item>
+                              </list>
+                           </td>
+                        </tr>
+                        <tr>
+                           <td styleCode="Toprule Lrule Rrule " colspan="2">
+                              <content styleCode="bold">How should I use Xiidra?</content>
+                              <br/>See the complete Instructions for Use at the end of this Patient Information leaflet for detailed instructions about the right way to use Xiidra.
+										<list listType="unordered" styleCode="Disc">
+                                 <item>Use Xiidra as your doctor tells you.</item>
+                                 <item>Use one drop of Xiidra in each eye, two times each day, about 12 hours apart.</item>
+                                 <item>Use Xiidra right away after opening. Throw away the single-use container and any unused solution after you have applied the dose to both eyes. Do not save any unused Xiidra for later.</item>
+                              </list>
+                           </td>
+                        </tr>
+                        <tr>
+                           <td styleCode="Toprule Lrule Rrule " colspan="2">
+                              <content styleCode="bold">What are the possible side effects of Xiidra?</content>
+                              <br/>The most common side effects of Xiidra include eye irritation, discomfort, or blurred vision when the drops are applied to the eyes, and an unusual taste sensation (dysgeusia).<br/>Seek medical care immediately if you get any symptoms of wheezing, difficulty breathing, or swollen tongue.<br/>These are not all the possible side effects of Xiidra.<br/>Tell your doctor if you have any side effects that bother you. You may report side effects to FDA at 1-800-FDA-1088.
+									</td>
+                        </tr>
+                        <tr>
+                           <td styleCode="Toprule Lrule Rrule " colspan="2">
+                              <content styleCode="bold">How should I store Xiidra?</content>
+                              <br/>
+                              <list listType="unordered" styleCode="Disc">
+                                 <item>Store Xiidra at room temperature between 68°F to 77°F (20°C to 25°C).</item>
+                                 <item>Store Xiidra in the original foil pouch to protect it from light.</item>
+                                 <item>Do not open the Xiidra foil pouch until you are ready to use the eye drops.</item>
+                                 <item>Return unused single-use containers to their original foil pouch to protect from excessive light exposure.</item>
+                              </list>Keep Xiidra and all medicines out of the reach of children.
+									</td>
+                        </tr>
+                        <tr>
+                           <td styleCode="Toprule Lrule Rrule " colspan="2">
+                              <content styleCode="bold">General information about the safe and effective use of Xiidra.</content>
+                              <br/>Medicines are sometimes prescribed for purposes other than those listed in a Patient Information leaflet. You can ask your pharmacist or doctor for information about Xiidra that is written for health professionals. Do not use Xiidra for a condition for which it was not prescribed. Do not give Xiidra to other people, even if they have the same symptoms you have. It may harm them.</td>
+                        </tr>
+                        <tr>
+                           <td styleCode="Toprule Lrule Rrule " colspan="2">
+                              <content styleCode="bold">What are the ingredients in Xiidra?</content>
+                              <br/>Active ingredient: lifitegrast<br/>
+										Inactive ingredients: sodium chloride, sodium phosphate dibasic anhydrous, sodium thiosulfate pentahydrate, and water for injection. Sodium hydroxide and/or hydrochloric acid (to adjust pH).
+									</td>
+                        </tr>
+                        <tr>
+                           <td styleCode="Toprule Lrule Rrule " colspan="2">Distributed by: Novartis Pharmaceuticals Corporation, One Health Plaza, East Hanover, NJ 07936<br/>For more information, go to www.Xiidra.com or call 1-888-NOW-NOVA.</td>
+                        </tr>
+                     </tbody>
+                  </table>
+                  <paragraph>T2020-88</paragraph>
+               </text>
+               <effectiveTime value="20200604"/>
+            </section>
+         </component>
+         <component>
+            <section>
+               <id root="3d9086af-81c7-4f92-9ca3-881bdb6c2dba"/>
+               <code code="59845-8" codeSystem="2.16.840.1.113883.6.1" displayName="INSTRUCTIONS FOR USE SECTION"/>
+               <title/>
+               <text>
+                  <table width="100%">
+                     <col width="50%"/>
+                     <col width="50%"/>
+                     <tfoot>
+                        <tr>
+                           <td align="left">This Instructions for Use has been approved by the U.S. Food and Drug Administration.</td>
+                           <td align="right">Revised: June 2020</td>
+                        </tr>
+                     </tfoot>
+                     <tbody>
+                        <tr>
+                           <td styleCode="Lrule Rrule " colspan="2" align="center">
+                              <content styleCode="bold">INSTRUCTIONS FOR USE
+											<br/>XIIDRA<sup>®</sup> [ZYE-druh]<br/>(lifitegrast ophthalmic solution) 5%<br/>for topical ophthalmic use</content>
+                           </td>
+                        </tr>
+                        <tr>
+                           <td styleCode="Toprule Lrule Rrule " colspan="2">
+										Read this Instructions for Use before you start using Xiidra and each time you get a refill. There may be new information. This leaflet does not take the place of talking to your doctor about your medical condition or your treatment.</td>
+                        </tr>
+                        <tr>
+                           <td styleCode="Toprule Lrule Rrule " colspan="2">
+                              <content styleCode="bold">Important Information You Need to Know Before Using Xiidra:</content>
+                              <list listType="unordered" styleCode="Disc">
+                                 <item>Xiidra is for use in the eye.</item>
+                                 <item>Wash your hands before each use to make sure you do not infect your eyes while using Xiidra.</item>
+                                 <item>If you wear contact lenses, remove them before using Xiidra.</item>
+                                 <item>Xiidra single-use containers are packaged in a foil pouch. Do not remove from the foil pouch until you are ready to use Xiidra.</item>
+                                 <item>Do not let the tip of the Xiidra single-use container touch your eye or any other surfaces.</item>
+                                 <item>Use one drop of Xiidra in each eye two times each day (one drop in the morning and one drop in the evening, approximately 12 hours apart). Each single-use container of Xiidra will give you enough medicine to treat both of your eyes, one time. There is some extra Xiidra in each single-use container in case you miss getting a drop into your eye. After you have applied the drops, throw away the single-use container and any unused Xiidra. Do not save any unused Xiidra.</item>
+                              </list>
+                           </td>
+                        </tr>
+                        <tr>
+                           <td colspan="2" styleCode="Toprule Rrule Lrule Botrule">
+                              <paragraph>
+                                 <content styleCode="bold">Follow Steps 1 to 9 each time you use Xiidra.</content>
+                              </paragraph>
+                           </td>
+                        </tr>
+                        <tr>
+                           <td styleCode="Rrule Lrule Botrule" valign="top">
+                              <paragraph>
+                                 <content styleCode="bold">Step 1.</content> Take a foil pouch out of the Xiidra box. Open the pouch and remove the strip of single-use containers (see <content styleCode="bold">Figure A</content>).
+										</paragraph>
+                           </td>
+                           <td align="center" styleCode="Rrule Lrule Toprule Botrule ">
+                              <renderMultiMedia referencedObject="MM01000011"/>
+                              <br/>
+                              <content styleCode="bold">Figure A</content>
+                           </td>
+                        </tr>
+                        <tr>
+                           <td styleCode="Rrule Lrule Botrule" valign="top">
+                              <list>
+                                 <item>Pull off one single-use container from the strip (see <content styleCode="bold">Figure B</content>).</item>
+                              </list>
+                           </td>
+                           <td align="center" styleCode="Rrule Lrule Toprule Botrule ">
+                              <renderMultiMedia referencedObject="MM02000022"/>
+                              <br/>
+                              <content styleCode="bold">Figure B</content>
+                           </td>
+                        </tr>
+                        <tr>
+                           <td styleCode="Rrule Lrule Botrule" valign="top">
+                              <paragraph>
+                                 <content styleCode="bold">Step 2.</content> Put the remaining strip of single-use containers back in the pouch (see <content styleCode="bold">Figure C</content>). 
+										</paragraph>
+                           </td>
+                           <td align="center" styleCode="Rrule Lrule Toprule Botrule ">
+                              <renderMultiMedia referencedObject="MM03000033"/>
+                              <br/>
+                              <content styleCode="bold">Figure C</content>
+                           </td>
+                        </tr>
+                        <tr>
+                           <td styleCode="Rrule Lrule Botrule" valign="top">
+                              <list>
+                                 <item>Fold the edge to close the pouch (see <content styleCode="bold">Figure D</content>).</item>
+                              </list>
+                           </td>
+                           <td align="center" styleCode="Rrule Lrule Toprule Botrule ">
+                              <renderMultiMedia referencedObject="MM04000044"/>
+                              <br/>
+                              <content styleCode="bold">Figure D</content>
+                           </td>
+                        </tr>
+                        <tr>
+                           <td styleCode="Rrule Lrule Botrule" valign="top">
+                              <paragraph>
+                                 <content styleCode="bold">Step 3.</content> Hold the Xiidra container upright (see <content styleCode="bold">Figure E</content>).
+										</paragraph>
+                           </td>
+                           <td align="center" styleCode="Rrule Lrule Toprule Botrule ">
+                              <renderMultiMedia referencedObject="MM05000055"/>
+                              <br/>
+                              <content styleCode="bold">Figure E</content>
+                           </td>
+                        </tr>
+                        <tr>
+                           <td styleCode="Rrule Lrule Botrule" valign="top">
+                              <list>
+                                 <item>Tap the top of the container until all of the solution is in the bottom part of the container (see <content styleCode="bold">Figure F</content>).</item>
+                              </list>
+                           </td>
+                           <td align="center" styleCode="Rrule Lrule Toprule Botrule ">
+                              <renderMultiMedia referencedObject="MM06000066"/>
+                              <br/>
+                              <content styleCode="bold">Figure F</content>
+                           </td>
+                        </tr>
+                        <tr>
+                           <td styleCode="Rrule Lrule Botrule" valign="top">
+                              <paragraph>
+                                 <content styleCode="bold">Step 4.</content> Open the Xiidra single-use container by twisting off the tab. Make sure that the tip of the single-use container does not touch anything, to avoid contamination (see <content styleCode="bold">Figure G</content>).
+										</paragraph>
+                           </td>
+                           <td align="center" styleCode="Rrule Lrule Toprule Botrule ">
+                              <renderMultiMedia referencedObject="MM07000077"/>
+                              <br/>
+                              <content styleCode="bold">Figure G</content>
+                           </td>
+                        </tr>
+                        <tr>
+                           <td colspan="2" styleCode="Rrule Lrule Botrule" valign="top">
+                              <paragraph>
+                                 <content styleCode="bold">Step 5.</content> Tilt your head backwards. If you are not able to tilt your head, lie down.</paragraph>
+                           </td>
+                        </tr>
+                        <tr>
+                           <td styleCode="Rrule Lrule Botrule" valign="top">
+                              <paragraph>
+                                 <content styleCode="bold">Step 6.</content> Gently pull your lower eyelid downwards and look up.</paragraph>
+                              <br/>
+                              <paragraph>
+                                 <content styleCode="bold">Step 7.</content> Place the tip of the Xiidra single-use container close to your eye, but be careful not to touch your eye with it.</paragraph>
+                              <br/>
+                              <paragraph>
+                                 <content styleCode="bold">Step 8.</content> Gently squeeze the single-use container and let one drop of Xiidra fall into the space between your lower eyelid and your eye. If a drop misses your eye, try again (see <content styleCode="bold">Figure H</content>).</paragraph>
+                           </td>
+                           <td align="center" styleCode="Rrule Lrule Toprule Botrule ">
+                              <renderMultiMedia referencedObject="MM08000088"/>
+                              <br/>
+                              <content styleCode="bold">Figure H</content>
+                           </td>
+                        </tr>
+                        <tr>
+                           <td colspan="2" styleCode="Rrule Lrule Botrule" valign="top">
+                              <paragraph>
+                                 <content styleCode="bold">Step 9. Repeat Steps 5 to 8</content> for your other eye. There is enough Xiidra in one single-use container for both eyes.</paragraph>
+                              <list>
+                                 <item>Once you have applied a drop to both eyes, throw away the opened single-use container with any remaining solution.</item>
+                                 <item>If you use contact lenses, wait for at least 15 minutes before placing them back in your eyes.</item>
+                              </list>
+                           </td>
+                        </tr>
+                        <tr>
+                           <td colspan="2" styleCode="Rrule Botrule Lrule Toprule ">
+                              <paragraph>Distributed by: Novartis Pharmaceuticals Corporation, One Health Plaza, East Hanover, NJ 07936</paragraph>
+                           </td>
+                        </tr>
+                     </tbody>
+                  </table>
+                  <paragraph>T2020-89</paragraph>
+               </text>
+               <effectiveTime value="20200604"/>
+               <component>
+                  <observationMedia ID="MM01000011">
+                     <text>Figure A</text>
+                     <value xsi:type="ED" mediaType="image/jpeg">
+                        <reference value="xiidra-04.jpg"/>
+                     </value>
+                  </observationMedia>
+               </component>
+               <component>
+                  <observationMedia ID="MM02000022">
+                     <text>Figure B</text>
+                     <value xsi:type="ED" mediaType="image/jpeg">
+                        <reference value="xiidra-05.jpg"/>
+                     </value>
+                  </observationMedia>
+               </component>
+               <component>
+                  <observationMedia ID="MM03000033">
+                     <text>Figure C</text>
+                     <value xsi:type="ED" mediaType="image/jpeg">
+                        <reference value="xiidra-06.jpg"/>
+                     </value>
+                  </observationMedia>
+               </component>
+               <component>
+                  <observationMedia ID="MM04000044">
+                     <text>Figure D</text>
+                     <value xsi:type="ED" mediaType="image/jpeg">
+                        <reference value="xiidra-07.jpg"/>
+                     </value>
+                  </observationMedia>
+               </component>
+               <component>
+                  <observationMedia ID="MM05000055">
+                     <text>Figure E</text>
+                     <value xsi:type="ED" mediaType="image/jpeg">
+                        <reference value="xiidra-08.jpg"/>
+                     </value>
+                  </observationMedia>
+               </component>
+               <component>
+                  <observationMedia ID="MM06000066">
+                     <text>Figure F</text>
+                     <value xsi:type="ED" mediaType="image/jpeg">
+                        <reference value="xiidra-09.jpg"/>
+                     </value>
+                  </observationMedia>
+               </component>
+               <component>
+                  <observationMedia ID="MM07000077">
+                     <text>Figure G</text>
+                     <value xsi:type="ED" mediaType="image/jpeg">
+                        <reference value="xiidra-10.jpg"/>
+                     </value>
+                  </observationMedia>
+               </component>
+               <component>
+                  <observationMedia ID="MM08000088">
+                     <text>Figure H</text>
+                     <value xsi:type="ED" mediaType="image/jpeg">
+                        <reference value="xiidra-11.jpg"/>
+                     </value>
+                  </observationMedia>
+               </component>
+            </section>
+         </component>
+         <component>
+            <section>
+               <id root="bcd55507-bb25-41df-b0e3-d1eb41c4ed0e"/>
+               <code code="51945-4" codeSystem="2.16.840.1.113883.6.1" displayName="PACKAGE LABEL.PRINCIPAL DISPLAY PANEL"/>
+               <title>PRINCIPAL DISPLAY PANEL</title>
+               <text>
+                  <paragraph>NDC 0078-0911-12</paragraph>
+                  <paragraph>Rx Only
+						</paragraph>
+                  <paragraph>60 Single-Use<br/>Containers:
+							<br/>12 pouches x 5 single-use<br/>containers (0.2 mL each)</paragraph>
+                  <paragraph>xiidra<sup>®</sup>
+                     <br/>(lifitegrast<br/>ophthalmic solution) 5%</paragraph>
+                  <paragraph>NOVARTIS</paragraph>
+                  <renderMultiMedia referencedObject="MM11"/>
+               </text>
+               <effectiveTime value="20200604"/>
+               <component>
+                  <observationMedia ID="MM11">
+                     <text>Principal Display Panel NDC 0078-0911-12 xiidra®</text>
+                     <value xsi:type="ED" mediaType="image/jpeg">
+                        <reference value="xiidra-12.jpg"/>
+                     </value>
+                  </observationMedia>
+               </component>
+            </section>
+         </component>
+      </structuredBody>
+   </component>
+</document>

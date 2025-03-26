@@ -1,0 +1,1864 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet href="https://www.accessdata.fda.gov/spl/stylesheet/spl.xsl" type="text/xsl"?>
+<document xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:hl7-org:v3 https://www.accessdata.fda.gov/spl/schema/spl.xsd">
+   <id root="8218989c-639a-11ea-bb8e-0434fc2ca371"/>
+   <code code="34391-3" codeSystem="2.16.840.1.113883.6.1" displayName="HUMAN PRESCRIPTION DRUG LABEL"/>
+   <title>These highlights do not include all the information needed to use YONDELIS<sup>®</sup> safely and effectively. See full prescribing information for YONDELIS.<br/>
+      <br/>YONDELIS (trabectedin) for injection, for intravenous use<br/>Initial U.S. Approval: 2015</title>
+   <effectiveTime value="20200922"/>
+   <setId root="472bd78e-be17-4b9d-90f4-9482c3aec9ff"/>
+   <versionNumber value="12"/>
+   <author>
+      <time/>
+      <assignedEntity>
+         <representedOrganization>
+            <id extension="804684207" root="1.3.6.1.4.1.519.1"/>
+            <name>Janssen Products, LP</name>
+            <assignedEntity>
+               <assignedOrganization>
+                  <id extension="063137772" root="1.3.6.1.4.1.519.1"/>
+                  <name>Janssen Pharmaceuticals, Inc.</name>
+                  <assignedEntity>
+                     <assignedOrganization>
+                        <id extension="464884501" root="1.3.6.1.4.1.519.1"/>
+                        <name>Pharma Mar S.A.</name>
+                     </assignedOrganization>
+                     <performance>
+                        <actDefinition>
+                           <code code="C82401" codeSystem="2.16.840.1.113883.3.26.1.1" displayName="API MANUFACTURE"/>
+                           <product>
+                              <manufacturedProduct classCode="MANU">
+                                 <manufacturedMaterialKind>
+                                    <code code="59676-610" codeSystem="2.16.840.1.113883.6.69"/>
+                                 </manufacturedMaterialKind>
+                              </manufacturedProduct>
+                           </product>
+                        </actDefinition>
+                     </performance>
+                  </assignedEntity>
+                  <assignedEntity>
+                     <assignedOrganization>
+                        <id extension="344276063" root="1.3.6.1.4.1.519.1"/>
+                        <name>Baxter Oncology GmbH</name>
+                     </assignedOrganization>
+                     <performance>
+                        <actDefinition>
+                           <code code="C43360" codeSystem="2.16.840.1.113883.3.26.1.1" displayName="MANUFACTURE"/>
+                           <product>
+                              <manufacturedProduct classCode="MANU">
+                                 <manufacturedMaterialKind>
+                                    <code code="59676-610" codeSystem="2.16.840.1.113883.6.69"/>
+                                 </manufacturedMaterialKind>
+                              </manufacturedProduct>
+                           </product>
+                        </actDefinition>
+                     </performance>
+                  </assignedEntity>
+                  <assignedEntity>
+                     <assignedOrganization>
+                        <id extension="370005019" root="1.3.6.1.4.1.519.1"/>
+                        <name>Janssen Pharmaceutica NV</name>
+                     </assignedOrganization>
+                     <performance>
+                        <actDefinition>
+                           <code code="C43360" codeSystem="2.16.840.1.113883.3.26.1.1" displayName="MANUFACTURE"/>
+                           <product>
+                              <manufacturedProduct classCode="MANU">
+                                 <manufacturedMaterialKind>
+                                    <code code="59676-610" codeSystem="2.16.840.1.113883.6.69"/>
+                                 </manufacturedMaterialKind>
+                              </manufacturedProduct>
+                           </product>
+                        </actDefinition>
+                     </performance>
+                  </assignedEntity>
+               </assignedOrganization>
+            </assignedEntity>
+         </representedOrganization>
+      </assignedEntity>
+   </author>
+   <component>
+      <structuredBody>
+         <component>
+            <section ID="DLDE">
+               <id root="1012dd3a-910a-4a9d-8041-978380a676e6"/>
+               <code code="48780-1" codeSystem="2.16.840.1.113883.6.1" displayName="SPL PRODUCT DATA ELEMENTS SECTION"/>
+               <effectiveTime value="20181231"/>
+               <subject>
+                  <manufacturedProduct>
+                     <manufacturedProduct>
+                        <code code="59676-610" codeSystem="2.16.840.1.113883.6.69"/>
+                        <name>YONDELIS</name>
+                        <formCode code="C42957" codeSystem="2.16.840.1.113883.3.26.1.1" displayName="INJECTION, POWDER, LYOPHILIZED, FOR SOLUTION"/>
+                        <asEntityWithGeneric>
+                           <genericMedicine>
+                              <name>Trabectedin</name>
+                           </genericMedicine>
+                        </asEntityWithGeneric>
+                        <ingredient classCode="ACTIB">
+                           <quantity>
+                              <numerator value="0.05" unit="mg"/>
+                              <denominator value="1" unit="mL"/>
+                           </quantity>
+                           <ingredientSubstance>
+                              <code code="ID0YZQ2TCP" codeSystem="2.16.840.1.113883.4.9"/>
+                              <name>Trabectedin</name>
+                              <activeMoiety>
+                                 <activeMoiety>
+                                    <code code="ID0YZQ2TCP" codeSystem="2.16.840.1.113883.4.9"/>
+                                    <name>Trabectedin</name>
+                                 </activeMoiety>
+                              </activeMoiety>
+                           </ingredientSubstance>
+                        </ingredient>
+                        <ingredient classCode="IACT">
+                           <ingredientSubstance>
+                              <code code="C151H8M554" codeSystem="2.16.840.1.113883.4.9"/>
+                              <name>Sucrose</name>
+                           </ingredientSubstance>
+                        </ingredient>
+                        <ingredient classCode="IACT">
+                           <ingredientSubstance>
+                              <code code="4J9FJ0HL51" codeSystem="2.16.840.1.113883.4.9"/>
+                              <name>Potassium Phosphate, Monobasic</name>
+                           </ingredientSubstance>
+                        </ingredient>
+                        <ingredient classCode="IACT">
+                           <ingredientSubstance>
+                              <code code="E4GA8884NN" codeSystem="2.16.840.1.113883.4.9"/>
+                              <name>Phosphoric Acid</name>
+                           </ingredientSubstance>
+                        </ingredient>
+                        <ingredient classCode="IACT">
+                           <ingredientSubstance>
+                              <code code="WZH3C48M4T" codeSystem="2.16.840.1.113883.4.9"/>
+                              <name>Potassium Hydroxide</name>
+                           </ingredientSubstance>
+                        </ingredient>
+                        <asContent>
+                           <quantity>
+                              <numerator value="20" unit="mL"/>
+                              <denominator value="1"/>
+                           </quantity>
+                           <containerPackagedProduct>
+                              <code code="59676-610-01" codeSystem="2.16.840.1.113883.6.69"/>
+                              <formCode code="C43216" codeSystem="2.16.840.1.113883.3.26.1.1" displayName="VIAL, SINGLE-USE"/>
+                           </containerPackagedProduct>
+                           <subjectOf>
+                              <marketingAct>
+                                 <code code="C53292" codeSystem="2.16.840.1.113883.3.26.1.1"/>
+                                 <statusCode code="active"/>
+                                 <effectiveTime>
+                                    <low value="20151023"/>
+                                 </effectiveTime>
+                              </marketingAct>
+                           </subjectOf>
+                           <subjectOf>
+                              <characteristic>
+                                 <code code="SPLCMBPRDTP" codeSystem="2.16.840.1.113883.1.11.19255"/>
+                                 <value code="C112160" codeSystem="2.16.840.1.113883.3.26.1.1" displayName="Type 0: Not a Combination Product" xsi:type="CV"/>
+                              </characteristic>
+                           </subjectOf>
+                        </asContent>
+                     </manufacturedProduct>
+                     <subjectOf>
+                        <approval>
+                           <id extension="NDA207953" root="2.16.840.1.113883.3.150"/>
+                           <code code="C73594" codeSystem="2.16.840.1.113883.3.26.1.1" displayName="NDA"/>
+                           <author>
+                              <territorialAuthority>
+                                 <territory>
+                                    <code code="USA" codeSystem="2.16.840.1.113883.5.28"/>
+                                 </territory>
+                              </territorialAuthority>
+                           </author>
+                        </approval>
+                     </subjectOf>
+                     <subjectOf>
+                        <marketingAct>
+                           <code code="C53292" codeSystem="2.16.840.1.113883.3.26.1.1"/>
+                           <statusCode code="active"/>
+                           <effectiveTime>
+                              <low value="20151023"/>
+                           </effectiveTime>
+                        </marketingAct>
+                     </subjectOf>
+                     <consumedIn>
+                        <substanceAdministration>
+                           <routeCode code="C38276" codeSystem="2.16.840.1.113883.3.26.1.1" displayName="INTRAVENOUS"/>
+                        </substanceAdministration>
+                     </consumedIn>
+                  </manufacturedProduct>
+               </subject>
+            </section>
+         </component>
+         <component>
+            <section ID="S1">
+               <id root="b7425216-1aa6-48b2-8602-ea7ac604f0b6"/>
+               <code code="34067-9" codeSystem="2.16.840.1.113883.6.1" displayName="INDICATIONS &amp; USAGE SECTION"/>
+               <title>1 INDICATIONS AND USAGE</title>
+               <text>
+                  <paragraph>YONDELIS<sup>®</sup> is indicated for the treatment of patients with unresectable or metastatic liposarcoma or leiomyosarcoma who received a prior anthracycline-containing regimen <content styleCode="italics">[see <linkHtml href="#S14">Clinical Studies (14)</linkHtml>]</content>.</paragraph>
+               </text>
+               <effectiveTime value="20181231"/>
+               <excerpt>
+                  <highlight>
+                     <text>
+                        <paragraph>YONDELIS is an alkylating drug indicated for the treatment of patients with unresectable or metastatic liposarcoma or leiomyosarcoma who received a prior anthracycline-containing regimen (<linkHtml href="#S1">1</linkHtml>)</paragraph>
+                     </text>
+                  </highlight>
+               </excerpt>
+            </section>
+         </component>
+         <component>
+            <section ID="S2">
+               <id root="cd71283c-6394-11ea-a334-cb46fc2ca371"/>
+               <code code="34068-7" codeSystem="2.16.840.1.113883.6.1" displayName="DOSAGE &amp; ADMINISTRATION SECTION"/>
+               <title>2 DOSAGE AND ADMINISTRATION</title>
+               <effectiveTime value="20181231"/>
+               <excerpt>
+                  <highlight>
+                     <text>
+                        <list>
+                           <item>Administer at 1.5 mg/m<sup>2</sup> body surface area as a 24-hour intravenous infusion, every 3 weeks through a central venous line (<linkHtml href="#S2.1">2.1</linkHtml>, <linkHtml href="#S2.5">2.5</linkHtml>)</item>
+                           <item>Premedication: dexamethasone 20 mg intravenously, 30 min before each infusion (<linkHtml href="#S2.2">2.2</linkHtml>)</item>
+                           <item>Hepatic Impairment: Administer at 0.9 mg/m<sup>2</sup> body surface area as a 24-hour intravenous infusion, every 3 weeks through a central venous line in patients with moderate hepatic impairment (<linkHtml href="#S2.1">2.1</linkHtml>)</item>
+                        </list>
+                     </text>
+                  </highlight>
+               </excerpt>
+               <component>
+                  <section ID="S2.1">
+                     <id root="58c946ed-cb39-45fb-a265-8a1f25dc3789"/>
+                     <code code="42229-5" codeSystem="2.16.840.1.113883.6.1" displayName="SPL UNCLASSIFIED SECTION"/>
+                     <title>2.1	Recommended Dosage</title>
+                     <text>
+                        <paragraph>The recommended dose is 1.5 mg/m<sup>2</sup> administered as an intravenous infusion over 24 hours through a central venous line every 21 days (3 weeks), until disease progression or unacceptable toxicity.</paragraph>
+                     </text>
+                     <effectiveTime value="20181231"/>
+                     <component>
+                        <section>
+                           <id root="31291deb-45b2-4899-9f9d-27c7717fc9e1"/>
+                           <code code="42229-5" codeSystem="2.16.840.1.113883.6.1" displayName="SPL UNCLASSIFIED SECTION"/>
+                           <text>
+                              <paragraph>
+                                 <content styleCode="italics">Hepatic Impairment</content>: The recommended dose is 0.9 mg/m<sup>2</sup> in patients with moderate hepatic impairment (bilirubin levels greater than 1.5 times to 3 times the upper limit of normal, and AST and ALT less than 8 times the upper limit of normal). Do not administer YONDELIS to patients with severe hepatic impairment (bilirubin levels above 3 times the upper limit of normal, and any AST and ALT) <content styleCode="italics">[<linkHtml href="#S8.6">see Use in Specific Populations (8.6)</linkHtml>, <linkHtml href="#S12.3">Clinical Pharmacology (12.3)</linkHtml>]</content>.</paragraph>
+                           </text>
+                           <effectiveTime value="20181231"/>
+                        </section>
+                     </component>
+                  </section>
+               </component>
+               <component>
+                  <section ID="S2.2">
+                     <id root="9110a959-b587-4cae-81a4-a9d8ec49d619"/>
+                     <code code="42229-5" codeSystem="2.16.840.1.113883.6.1" displayName="SPL UNCLASSIFIED SECTION"/>
+                     <title>2.2   Premedication</title>
+                     <text>
+                        <paragraph>Administer dexamethasone 20 mg intravenously 30 minutes prior to each dose of YONDELIS.</paragraph>
+                     </text>
+                     <effectiveTime value="20181231"/>
+                  </section>
+               </component>
+               <component>
+                  <section ID="S2.3">
+                     <id root="6c3eaf4e-6394-11ea-9414-9d3afc2ca371"/>
+                     <code code="42229-5" codeSystem="2.16.840.1.113883.6.1" displayName="SPL UNCLASSIFIED SECTION"/>
+                     <title>2.3	Dose Modifications for Adverse Reactions</title>
+                     <text>
+                        <paragraph>Permanently discontinue YONDELIS for:</paragraph>
+                        <list listType="unordered" styleCode="disc">
+                           <item>Persistent adverse reactions requiring a delay in dosing of more than 3 weeks.</item>
+                           <item>Adverse reactions requiring dose reduction following YONDELIS administered at 1.0 mg/m<sup>2</sup> for patients with normal hepatic function or at 0.3 mg/m<sup>2</sup> for patients with pre-existing moderate hepatic impairment.</item>
+                           <item>Severe liver dysfunction: bilirubin two times the upper limit of normal, and AST or ALT three times the upper limit of normal, and alkaline phosphatase less than two times the upper limit of normal in the prior treatment cycle for patients with normal liver function at baseline.</item>
+                           <item>Exacerbation of liver dysfunction in patients with pre-existing moderate hepatic impairment.</item>
+                           <item>
+                              Capillary leak syndrome.
+                           </item>
+                           <item>
+                              Rhabdomyolysis.
+                           </item>
+                           <item>
+                              Grade 3 or 4 cardiac adverse events (AEs) indicative of cardiomyopathy or for subjects with an LVEF that decreases below the lower limit of normal.
+                           </item>
+                        </list>
+                        <paragraph>The recommended dose modifications for adverse reactions are listed in Table 1. Once reduced, the dose of YONDELIS should not be increased in subsequent treatment cycles.</paragraph>
+                        <table width="90%" ID="t1">
+                           <caption>Table 1: Recommended Dose Modification</caption>
+                           <col width="30%" align="left" valign="top"/>
+                           <col width="35%" align="left" valign="top"/>
+                           <col width="35%" align="left" valign="top"/>
+                           <thead>
+                              <tr>
+                                 <th styleCode="Lrule Rrule" align="center">Laboratory Result or Adverse Reaction</th>
+                                 <th styleCode="Rrule" align="center">DELAY next dose of YONDELIS for up to 3 weeks</th>
+                                 <th styleCode="Rrule" align="center">REDUCE next dose of YONDELIS by one dose level for adverse reaction(s) during prior cycle</th>
+                              </tr>
+                           </thead>
+                           <tbody>
+                              <tr styleCode="Botrule">
+                                 <td styleCode="Lrule Rrule">Platelets</td>
+                                 <td styleCode="Rrule">Less than 100,000 platelets/microliter</td>
+                                 <td styleCode="Rrule">Less than 25,000 platelets/microliter</td>
+                              </tr>
+                              <tr styleCode="Botrule">
+                                 <td styleCode="Lrule Rrule">Absolute neutrophil count</td>
+                                 <td styleCode="Rrule">Less than 1,500 neutrophils/microliter</td>
+                                 <td styleCode="Rrule">
+                                    <list listType="unordered" styleCode="Disc">
+                                       <item>Less than 1,000 neutrophils/microliter with fever/infection</item>
+                                       <item>Less than 500 neutrophils/microliter lasting more than 5 days</item>
+                                    </list>
+                                 </td>
+                              </tr>
+                              <tr styleCode="Botrule">
+                                 <td styleCode="Lrule Rrule">Total bilirubin</td>
+                                 <td styleCode="Rrule">Greater than the upper limit of normal</td>
+                                 <td styleCode="Rrule">Greater than the upper limit of normal</td>
+                              </tr>
+                              <tr styleCode="Botrule">
+                                 <td styleCode="Lrule Rrule">Aspartate aminotransferase (AST) or alanine aminotransferase (ALT)</td>
+                                 <td styleCode="Rrule">More than 2.5 times the upper limit of normal</td>
+                                 <td styleCode="Rrule">More than 5 times the upper limit of normal</td>
+                              </tr>
+                              <tr styleCode="Botrule">
+                                 <td styleCode="Lrule Rrule">Alkaline phosphatase (ALP)</td>
+                                 <td styleCode="Rrule">More than 2.5 times the upper limit of normal</td>
+                                 <td styleCode="Rrule">More than 2.5 times the upper limit of normal</td>
+                              </tr>
+                              <tr styleCode="Botrule">
+                                 <td styleCode="Lrule Rrule">Creatine phosphokinase</td>
+                                 <td styleCode="Rrule">More than 2.5 times the upper limit of normal</td>
+                                 <td styleCode="Rrule">More than 5 times the upper limit of normal</td>
+                              </tr>
+                              <tr>
+                                 <td styleCode="Lrule Rrule">Other non-hematologic adverse reactions</td>
+                                 <td styleCode="Rrule">Grade 3 or 4</td>
+                                 <td styleCode="Rrule">Grade 3 or 4</td>
+                              </tr>
+                           </tbody>
+                        </table>
+                        <paragraph>The recommended starting doses and dose reductions for YONDELIS are listed in Table 2:</paragraph>
+                        <table width="90%">
+                           <caption>Table 2:	Recommended Starting Doses and Dose Reductions</caption>
+                           <col align="left" valign="top" width="30%"/>
+                           <col align="left" valign="top" width="35%"/>
+                           <col align="left" valign="top" width="35%"/>
+                           <thead>
+                              <tr>
+                                 <th styleCode="Lrule Rrule" align="center">Starting Dose and Dose Reduction</th>
+                                 <th styleCode="Rrule" align="center">For patients with normal hepatic function or mild hepatic impairment<footnote>Including patients with bilirubin greater than 1 to 1.5 times the upper limit of normal, and any AST or ALT.</footnote> prior to initiation of YONDELIS treatment</th>
+                                 <th styleCode="Rrule" align="center">For patients with moderate hepatic impairment<footnote>Including patients with bilirubin levels greater than 1.5 times to 3 times the upper limit of normal, and AST and ALT less than 8 times the upper limit of normal.</footnote> prior to initiation of YONDELIS treatment</th>
+                              </tr>
+                           </thead>
+                           <tbody>
+                              <tr styleCode="Botrule">
+                                 <td styleCode="Lrule Rrule">Starting Dose</td>
+                                 <td styleCode="Rrule">1.5 mg/m<sup>2</sup>
+                                 </td>
+                                 <td styleCode="Rrule">0.9 mg/m<sup>2</sup>
+                                 </td>
+                              </tr>
+                              <tr styleCode="Botrule">
+                                 <td styleCode="Lrule Rrule">Dose Reduction</td>
+                                 <td styleCode="Rrule" colspan="2"/>
+                              </tr>
+                              <tr styleCode="Botrule">
+                                 <td styleCode="Lrule Rrule">First dose reduction</td>
+                                 <td styleCode="Rrule">1.2 mg/m<sup>2</sup>
+                                 </td>
+                                 <td styleCode="Rrule">0.6 mg/m<sup>2</sup>
+                                 </td>
+                              </tr>
+                              <tr>
+                                 <td styleCode="Lrule Rrule">Second dose reduction</td>
+                                 <td styleCode="Rrule">1.0 mg/m<sup>2</sup>
+                                 </td>
+                                 <td styleCode="Rrule">0.3 mg/m<sup>2</sup>
+                                 </td>
+                              </tr>
+                           </tbody>
+                        </table>
+                     </text>
+                     <effectiveTime value="20181231"/>
+                  </section>
+               </component>
+               <component>
+                  <section ID="S2.4">
+                     <id root="93449ef4-c6e0-4517-8978-6d13d324ed34"/>
+                     <code code="42229-5" codeSystem="2.16.840.1.113883.6.1" displayName="SPL UNCLASSIFIED SECTION"/>
+                     <title>2.4	Preparation for Administration</title>
+                     <text>
+                        <list>
+                           <item>YONDELIS is a cytotoxic drug. Follow applicable special handling and disposal procedures.<sup>1</sup>
+                           </item>
+                           <item>Using aseptic technique, inject 20 mL of Sterile Water for Injection, USP into the vial. Shake the vial until complete dissolution. The reconstituted solution is clear, colorless to pale brownish-yellow, and contains 0.05 mg/mL of trabectedin.</item>
+                           <item>Inspect for particulate matter and discoloration prior to further dilution. Discard vial if particles or discoloration are observed.</item>
+                           <item>Immediately following reconstitution, withdraw the calculated volume of trabectedin and further dilute in 500 mL of 0.9% Sodium Chloride, USP or 5% Dextrose Injection, USP.</item>
+                           <item>Do not mix YONDELIS with other drugs.</item>
+                           <item>Discard any remaining solution within 30 hours of reconstituting the lyophilized powder.</item>
+                           <item>YONDELIS diluted solution is compatible with Type I colorless glass vials, polyvinylchloride (PVC) and polyethylene (PE) bags and tubing, PE and polypropylene (PP) mixture bags, polyethersulfone (PES) in-line filters, titanium, platinum or plastic ports, silicone and polyurethane catheters, and pumps having contact surfaces made of PVC, PE, or PE/PP.</item>
+                        </list>
+                     </text>
+                     <effectiveTime value="20181231"/>
+                  </section>
+               </component>
+               <component>
+                  <section ID="S2.5">
+                     <id root="2cbe7127-4640-44da-8a05-3ce8b94fbc77"/>
+                     <code code="42229-5" codeSystem="2.16.840.1.113883.6.1" displayName="SPL UNCLASSIFIED SECTION"/>
+                     <title>2.5	Administration</title>
+                     <text>
+                        <list>
+                           <item>Infuse the reconstituted, diluted solution over 24 hours through a central venous line using an infusion set with a 0.2 micron polyethersulfone (PES) in-line filter to reduce the risk of exposure to adventitious pathogens that may be introduced during solution preparation.</item>
+                           <item>Complete infusion within 30 hours of initial reconstitution. Discard any unused portion of the reconstituted product or of the infusion solution.</item>
+                        </list>
+                     </text>
+                     <effectiveTime value="20181231"/>
+                  </section>
+               </component>
+            </section>
+         </component>
+         <component>
+            <section ID="S3">
+               <id root="7bc93026-e1b5-4b9c-8996-3b61d83a61da"/>
+               <code code="43678-2" codeSystem="2.16.840.1.113883.6.1" displayName="DOSAGE FORMS &amp; STRENGTHS SECTION"/>
+               <title>3 DOSAGE FORMS AND STRENGTHS</title>
+               <text>
+                  <paragraph>For injection: 1 mg, lyophilized powder in single-dose vial for reconstitution.</paragraph>
+               </text>
+               <effectiveTime value="20181231"/>
+               <excerpt>
+                  <highlight>
+                     <text>
+                        <paragraph>For injection: 1 mg sterile lyophilized powder in a single-dose vial (<linkHtml href="#S3">3</linkHtml>)</paragraph>
+                     </text>
+                  </highlight>
+               </excerpt>
+            </section>
+         </component>
+         <component>
+            <section ID="S4">
+               <id root="b7eb8197-ca59-47a3-a651-8a727a114efa"/>
+               <code code="34070-3" codeSystem="2.16.840.1.113883.6.1" displayName="CONTRAINDICATIONS SECTION"/>
+               <title>4 CONTRAINDICATIONS</title>
+               <text>
+                  <paragraph>YONDELIS is contraindicated in patients with known severe hypersensitivity, including anaphylaxis, to trabectedin.</paragraph>
+               </text>
+               <effectiveTime value="20181231"/>
+               <excerpt>
+                  <highlight>
+                     <text>
+                        <paragraph>Known hypersensitivity to trabectedin (<linkHtml href="#S4">4</linkHtml>)</paragraph>
+                     </text>
+                  </highlight>
+               </excerpt>
+            </section>
+         </component>
+         <component>
+            <section ID="S5">
+               <id root="d0f8a106-6394-11ea-8917-2c47fc2ca371"/>
+               <code code="43685-7" codeSystem="2.16.840.1.113883.6.1" displayName="WARNINGS AND PRECAUTIONS SECTION"/>
+               <title>5 WARNINGS AND PRECAUTIONS</title>
+               <effectiveTime value="20181231"/>
+               <excerpt>
+                  <highlight>
+                     <text>
+                        <list>
+                           <item>Neutropenic sepsis: Severe, and fatal, neutropenic sepsis may occur. Monitor neutrophil count during treatment. Withhold YONDELIS for neutrophil count &lt; 1,500/mcL  (<linkHtml href="#S2.3">2.3</linkHtml>, <linkHtml href="#S5.1">5.1</linkHtml>)</item>
+                           <item>Rhabdomyolysis: Rhabdomyolysis may occur. Monitor creatine phosphokinase (CPK) levels prior to each administration. Withhold YONDELIS for CPK more than 2.5 times the upper limit of normal. (<linkHtml href="#S2.3">2.3</linkHtml>, <linkHtml href="#S5.2">5.2</linkHtml>)</item>
+                           <item>Hepatotoxicity: Hepatotoxicity may occur. Monitor and delay and/or reduce dose if needed (<linkHtml href="#S5.3">5.3</linkHtml>)</item>
+                           <item>Cardiomyopathy: Severe and fatal cardiomyopathy can occur. Patients with left ventricular ejection fraction (LVEF) &lt; lower limit of normal, prior cumulative anthracycline dose of ≥300 mg/m<sup>2</sup>, age ≥65 years, or a history of cardiovascular disease may be at increased risk of developing new or worsening cardiac dysfunction. Discontinue YONDELIS in patients who develop decreased LVEF or cardiomyopathy (<linkHtml href="#S2.3">2.3</linkHtml>, <linkHtml href="#S5.4">5.4</linkHtml>)</item>
+                           <item>Capillary leak syndrome: Monitor and discontinue YONDELIS for capillary leak syndrome (<linkHtml href="#S5.5">5.5</linkHtml>)</item>
+                           <item>Embryo-fetal toxicity: Can cause fetal harm. Advise of potential risk to a fetus and use effective contraception (<linkHtml href="#S5.7">5.7</linkHtml>, <linkHtml href="#S8.1">8.1</linkHtml>, <linkHtml href="#S8.3">8.3</linkHtml>)</item>
+                        </list>
+                     </text>
+                  </highlight>
+               </excerpt>
+               <component>
+                  <section ID="S5.1">
+                     <id root="b8311a90-6394-11ea-b424-2043fc2ca371"/>
+                     <code code="42229-5" codeSystem="2.16.840.1.113883.6.1" displayName="SPL UNCLASSIFIED SECTION"/>
+                     <title>5.1	Neutropenic Sepsis</title>
+                     <text>
+                        <paragraph>Neutropenic sepsis, including fatal cases, can occur with YONDELIS. In Trial ET743-SAR-3007, the incidence of Grade 3 or 4 neutropenia, based on laboratory values, in patients receiving YONDELIS was 43% (161/378). The median time to the first occurrence of Grade 3 or 4 neutropenia was 16 days (range: 8 days to 9.7 months); the median time to complete resolution of neutropenia was 13 days (range: 3 days to 2.3 months). Febrile neutropenia (fever ≥38.5°C with Grade 3 or 4 neutropenia) occurred in 18 patients (5%) treated with YONDELIS. Ten patients (2.6%) experienced neutropenic sepsis, 5 of whom had febrile neutropenia, which was fatal in 4 patients (1.1%).</paragraph>
+                        <paragraph>
+                           Assess neutrophil count prior to administration of each dose of YONDELIS and periodically throughout the treatment cycle. Withhold or reduce dose of YONDELIS based on severity of adverse reaction <content styleCode="italics">[see <linkHtml href="#S2.3">Dosage and Administration (2.3)</linkHtml>]</content>.
+                        </paragraph>
+                     </text>
+                     <effectiveTime value="20181231"/>
+                  </section>
+               </component>
+               <component>
+                  <section ID="S5.2">
+                     <id root="bc767b04-6394-11ea-b1aa-7044fc2ca371"/>
+                     <code code="42229-5" codeSystem="2.16.840.1.113883.6.1" displayName="SPL UNCLASSIFIED SECTION"/>
+                     <title>5.2	Rhabdomyolysis</title>
+                     <text>
+                        <paragraph>YONDELIS can cause rhabdomyolysis and musculoskeletal toxicity. In Trial ET743-SAR-3007, rhabdomyolysis leading to death occurred in 3 (0.8%) of the 378 patients receiving YONDELIS. Elevations in creatine phosphokinase (CPK) occurred in 122 (32%) of the 378 patients receiving YONDELIS, including Grade 3 or 4 CPK elevation in 24 patients (6%), compared to 15 (9%) of the 172 patients receiving dacarbazine with any CPK elevation, including 1 patient (0.6%) with Grade 3 CPK elevation. Among the 24 patients receiving YONDELIS with Grade 3 or 4 CPK elevation, renal failure occurred in 11 patients (2.9%); rhabdomyolysis with the complication of renal failure occurred in 4 of these 11 patients (1.1%). The median time to first occurrence of Grade 3 or 4 CPK elevations was 2 months (range: 1 to 11.5 months). The median time to complete resolution was 14 days (range: 5 days to 1 month).</paragraph>
+                        <paragraph>
+                           Assess CPK levels prior to each administration of YONDELIS. Withhold, reduce dose, or permanently discontinue based on severity of adverse reaction <content styleCode="italics">[see <linkHtml href="#S2.3">Dosage and Administration (2.3)</linkHtml>]</content>.
+                        </paragraph>
+                     </text>
+                     <effectiveTime value="20200616"/>
+                  </section>
+               </component>
+               <component>
+                  <section ID="S5.3">
+                     <id root="afbda437-a0f2-49dd-9084-086a193ff7c6"/>
+                     <code code="42229-5" codeSystem="2.16.840.1.113883.6.1" displayName="SPL UNCLASSIFIED SECTION"/>
+                     <title>5.3	Hepatotoxicity</title>
+                     <text>
+                        <paragraph>Hepatotoxicity, including hepatic failure, can occur with YONDELIS. Patients with serum bilirubin levels above the upper limit of normal or AST or ALT levels &gt;2.5 × upper limit of normal were not enrolled in Trial ET743-SAR-3007. In Trial ET743-SAR-3007, the incidence of Grade 3–4 elevated liver function tests (LFTs; defined as elevations in ALT, AST, total bilirubin, or alkaline phosphatase) was 35% (134/378) in patients receiving YONDELIS. The median time to development of Grade 3–4 elevation in ALT or AST was 29 days (range: 3 days to 11.5 months). Of the 134 patients with Grade 3–4 elevations in LFTs, 114 (85%) experienced complete resolution with the median time to complete resolution of 13 days (range: 4 days to 4.4 months).</paragraph>
+                        <paragraph>In Trial ET743-SAR-3007, the incidence of drug-induced liver injury (defined as concurrent elevation in ALT or AST of more than three times the upper limit of normal, alkaline phosphatase less than two times the upper limit of normal, and total bilirubin at least two times the upper limit of normal) was 1.3% (5/378) in patients receiving YONDELIS. ALT or AST elevation greater than eight times the upper limit of normal occurred in 18% (67/378) of patients receiving YONDELIS.</paragraph>
+                        <paragraph>Assess LFTs prior to each administration of YONDELIS and as clinically indicated based on underlying severity of pre-existing hepatic impairment. Manage elevated LFTs with treatment interruption, dose reduction, or permanent discontinuation based on severity and duration of LFT abnormality <content styleCode="italics">[see <linkHtml href="#S2.3">Dosage and Administration (2.3)</linkHtml> and <linkHtml href="#S8.6">Use in Specific Populations (8.6)</linkHtml>].</content>
+                        </paragraph>
+                     </text>
+                     <effectiveTime value="20181231"/>
+                  </section>
+               </component>
+               <component>
+                  <section ID="S5.4">
+                     <id root="bff452ba-6394-11ea-ba8a-fd44fc2ca371"/>
+                     <code code="42229-5" codeSystem="2.16.840.1.113883.6.1" displayName="SPL UNCLASSIFIED SECTION"/>
+                     <title>5.4	Cardiomyopathy</title>
+                     <text>
+                        <paragraph>
+                           Cardiomyopathy including cardiac failure, congestive heart failure, ejection fraction decreased, diastolic dysfunction, or right ventricular dysfunction can occur with YONDELIS. In Trial ET743-SAR-3007, a significant decrease in LVEF was defined as an absolute decrease of ≥15% or below the lower limit of normal with an absolute decrease of ≥5%. Patients with a history of New York Heart Association Class II to IV heart failure or abnormal left ventricular ejection fraction (LVEF) at baseline were ineligible. In Trial ET743-SAR-3007, cardiomyopathy occurred in 23 patients (6%) receiving YONDELIS and in four patients (2.3%) receiving dacarbazine. Grade 3 or 4 cardiomyopathy occurred in 15 patients (4%) receiving YONDELIS and 2 patients (1.2%) receiving dacarbazine; cardiomyopathy leading to death occurred in 1 patient (0.3%) receiving YONDELIS and in none of the patients receiving dacarbazine. The median time to development of Grade 3 or 4 cardiomyopathy in patients receiving YONDELIS was 5.3 months (range: 26 days to 15.3 months).
+                        </paragraph>
+                        <paragraph>
+                           Patients with LVEF &lt; lower limit of normal, prior cumulative anthracycline dose of ≥300 mg/m<sup>2</sup>, age ≥65 years, or a history of cardiovascular disease may be at increased risk of cardiac dysfunction.  Assess LVEF by echocardiogram (ECHO) or multigated acquisition (MUGA) scan before initiation of YONDELIS and at 2- to 3-month intervals thereafter until YONDELIS is discontinued. Discontinue treatment with YONDELIS based on severity of adverse reaction <content styleCode="italics">[see <linkHtml href="#S2.3">Dosage and Administration (2.3)</linkHtml>]</content>.
+                        </paragraph>
+                     </text>
+                     <effectiveTime value="20200616"/>
+                  </section>
+               </component>
+               <component>
+                  <section ID="S5.5">
+                     <id root="a863bad4-2b58-4047-9059-62ec0e73fc0a"/>
+                     <code code="42229-5" codeSystem="2.16.840.1.113883.6.1" displayName="SPL UNCLASSIFIED SECTION"/>
+                     <title>5.5	Capillary Leak Syndrome </title>
+                     <text>
+                        <paragraph>Capillary leak syndrome (CLS) characterized by hypotension, edema, and hypoalbuminemia has been reported with YONDELIS, including serious CLS resulting in death. Monitor for signs and symptoms of CLS. Discontinue YONDELIS and promptly initiate standard management for patients with CLS, which may include a need for intensive care <content styleCode="italics">[see <linkHtml href="#S6.2">Adverse Reactions (6.2)</linkHtml>]</content>.</paragraph>
+                     </text>
+                     <effectiveTime value="20181231"/>
+                  </section>
+               </component>
+               <component>
+                  <section ID="S5.6">
+                     <id root="58ede0e4-8b09-4dc1-8f01-b40256648306"/>
+                     <code code="42229-5" codeSystem="2.16.840.1.113883.6.1" displayName="SPL UNCLASSIFIED SECTION"/>
+                     <title>5.6	Extravasation Resulting in Tissue Necrosis</title>
+                     <text>
+                        <paragraph>Extravasation of YONDELIS, resulting in tissue necrosis requiring debridement, can occur. Evidence of tissue necrosis can occur more than 1 week after the extravasation. There is no specific antidote for extravasation of YONDELIS. Administer YONDELIS through a central venous line <content styleCode="italics">[see <linkHtml href="#S2.5">Dosage and Administration (2.5)</linkHtml>]</content>.</paragraph>
+                     </text>
+                     <effectiveTime value="20181231"/>
+                  </section>
+               </component>
+               <component>
+                  <section ID="S5.7">
+                     <id root="8259ca2b-2690-41c5-8f1f-cbdadfe1248e"/>
+                     <code code="42229-5" codeSystem="2.16.840.1.113883.6.1" displayName="SPL UNCLASSIFIED SECTION"/>
+                     <title>5.7	Embryo-Fetal Toxicity</title>
+                     <text>
+                        <paragraph>Based on its mechanism of action, YONDELIS can cause fetal harm when administered to a pregnant woman. Advise females of reproductive potential to use effective contraception during therapy and for at least 2 months after the last dose of YONDELIS. Advise males with female partners of reproductive potential to use effective contraception during therapy and for at least 5 months after the last dose of YONDELIS <content styleCode="italics">[see <linkHtml href="#S8.1">Use in Specific Populations (8.1</linkHtml>, <linkHtml href="#S8.3">8.3)</linkHtml>]</content>.</paragraph>
+                     </text>
+                     <effectiveTime value="20181231"/>
+                  </section>
+               </component>
+            </section>
+         </component>
+         <component>
+            <section ID="S6">
+               <id root="06516b7c-6394-11ea-baa8-5a2ffc2ca371"/>
+               <code code="34084-4" codeSystem="2.16.840.1.113883.6.1" displayName="ADVERSE REACTIONS SECTION"/>
+               <title>6 ADVERSE REACTIONS</title>
+               <text>
+                  <paragraph>The following adverse reactions are discussed in more detail in other sections of the labeling:</paragraph>
+                  <list>
+                     <item>Anaphylaxis <content styleCode="italics">[see <linkHtml href="#S4">Contraindications (4)</linkHtml>]</content>
+                     </item>
+                     <item>Neutropenic Sepsis <content styleCode="italics">[see <linkHtml href="#S5.1">Warnings and Precautions (5.1)</linkHtml>]</content>
+                     </item>
+                     <item>Rhabdomyolysis <content styleCode="italics">[see <linkHtml href="#S5.2">Warnings and Precautions (5.2)</linkHtml>]</content>
+                     </item>
+                     <item>Hepatotoxicity <content styleCode="italics">[see <linkHtml href="#S5.3">Warnings and Precautions (5.3)</linkHtml>]</content>
+                     </item>
+                     <item>Cardiomyopathy <content styleCode="italics">[see <linkHtml href="#S5.4">Warnings and Precautions (5.4)</linkHtml>]</content>
+                     </item>
+                     <item>Capillary Leak Syndrome <content styleCode="italics">[see <linkHtml href="#S5.5">Warnings and Precautions (5.5)</linkHtml>]</content>
+                     </item>
+                     <item>Extravasation Resulting in Tissue Necrosis <content styleCode="italics">[see <linkHtml href="#S5.6">Warnings and Precautions (5.6)</linkHtml>]</content>
+                     </item>
+                  </list>
+               </text>
+               <effectiveTime value="20181231"/>
+               <excerpt>
+                  <highlight>
+                     <text>
+                        <paragraph>The most common (≥20%) adverse reactions are nausea, fatigue, vomiting, constipation, decreased appetite, diarrhea, peripheral edema, dyspnea, and headache. The most common (≥5%) grades 3–4 laboratory abnormalities are: neutropenia, increased ALT, thrombocytopenia, anemia, increased AST, and increased creatine phosphokinase. (<linkHtml href="#S6.1">6.1</linkHtml>)</paragraph>
+                        <br/>
+                        <paragraph>
+                           <content styleCode="bold">To report SUSPECTED ADVERSE REACTIONS, contact Janssen Products, LP at 1-800-526-7736 (1-800-JANSSEN) or FDA at 1-800-FDA-1088 or <content styleCode="italics">www.fda.gov/medwatch.</content>
+                           </content>
+                        </paragraph>
+                     </text>
+                  </highlight>
+               </excerpt>
+               <component>
+                  <section ID="S6.1">
+                     <id root="c3362abc-6393-11ea-855b-5d27fc2ca371"/>
+                     <code code="42229-5" codeSystem="2.16.840.1.113883.6.1" displayName="SPL UNCLASSIFIED SECTION"/>
+                     <title>6.1	Clinical Trials Experience</title>
+                     <text>
+                        <paragraph>Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice.</paragraph>
+                        <paragraph>The data described below reflect exposure to YONDELIS in 755 patients with soft tissue sarcoma including 197 (26%) patients exposed to YONDELIS for greater than or equal to 6 months and 57 (8%) patients exposed to YONDELIS for greater than or equal to 1 year. The safety of YONDELIS was evaluated in six open-label, single-arm trials, in which 377 patients received YONDELIS and one open-label, randomized, active-controlled clinical trial in which 378 patients received YONDELIS (Trial ET743-SAR-3007). All patients received YONDELIS at the recommended dosing regimen of 1.5 mg/m<sup>2</sup> administered as an intravenous infusion over 24 hours once every 3 weeks (q3wk, 24-h). The median age was 54 years (range: 18 to 81 years), 63% were female, and all patients had metastatic soft tissue sarcoma.</paragraph>
+                        <paragraph>Tables 3 and 4 present selected adverse reactions and laboratory abnormalities, respectively, observed in Trial ET743-SAR-3007, an open-label, randomized (2:1), active-controlled trial in which 550 patients with previously treated leiomyosarcoma or liposarcoma (dedifferentiated, myxoid round cell, or pleomorphic) received YONDELIS 1.5 mg/m<sup>2</sup> intravenous infusion over 24 hours once every 3 weeks (n=378) or dacarbazine 1000 mg/m<sup>2</sup> intravenous infusion over 20 to 120 minutes once every 3 weeks (n=172) <content styleCode="italics">[see <linkHtml href="#S14">Clinical Studies (14)</linkHtml>]</content>. All patients treated with YONDELIS were required to receive dexamethasone 20 mg intravenous injection 30 minutes prior to start of the YONDELIS infusion.</paragraph>
+                        <paragraph>In Trial ET743-SAR-3007, patients had been previously treated with an anthracycline- and ifosfamide-containing regimen or with an anthracycline-containing regimen and one additional cytotoxic chemotherapy regimen. The trial excluded patients with known central nervous system metastasis, elevated serum bilirubin or significant chronic liver disease, such as cirrhosis or active hepatitis, and history of myocardial infarction within 6 months, history of New York Heart Association Class II to IV heart failure, or abnormal left ventricular ejection fraction at baseline. The median age of patients in Trial ET743-SAR-3007 was 57 years (range: 17 to 81 years), with 69% female, 77% White, 12% Black or African American, 4% Asian, and &lt;1% American Indian or Alaska Native. The median duration of exposure to trabectedin was 13 weeks (range: 1 to 127 weeks) with 30% of patients exposed to YONDELIS for greater than 6 months and 7% of patients exposed to YONDELIS for greater than 1 year.</paragraph>
+                        <paragraph>In Trial ET743-SAR-3007, adverse reactions resulting in permanent discontinuation of YONDELIS occurred in 26% (98/378) of patients; the most common were increased liver tests (defined as ALT, AST, alkaline phosphatase, bilirubin) (5.6%), thrombocytopenia (3.4%), fatigue (1.6%), increased creatine phosphokinase (1.1%), and decreased ejection fraction (1.1%). Adverse reactions that led to dose reductions occurred in 42% (158/378) of patients treated with YONDELIS; the most common were increased liver tests (24%), neutropenia (including febrile neutropenia) (8%), thrombocytopenia (4.2%), fatigue (3.7%), increased creatine phosphokinase (2.4%), nausea (1.1%), and vomiting (1.1%). Adverse reactions led to dose interruptions in 52% (198/378) of patients treated with YONDELIS; the most common were neutropenia (31%), thrombocytopenia (15%), increased liver tests (6%), fatigue (2.9%), anemia (2.6%), increased creatinine (1.1%), and nausea (1.1%).</paragraph>
+                        <paragraph>The most common adverse reactions (≥20%) were nausea, fatigue, vomiting, constipation, decreased appetite, diarrhea, peripheral edema, dyspnea, and headache. The most common laboratory abnormalities (≥20%) were increases in AST or ALT, increased alkaline phosphatase, hypoalbuminemia, increased creatinine, increased creatine phosphokinase, anemia, neutropenia, and thrombocytopenia.</paragraph>
+                        <table width="90%" ID="t3">
+                           <caption>Table 3: Selected Adverse Reactions<footnote>Limited to adverse reactions at a rate of ≥10% in the trabectedin arm and at a rate higher in the trabectedin arm compared with dacarbazine arm by ≥5% in overall incidence or by ≥2% for Grade 3–4 adverse reactions.</footnote> Occurring in ≥10% of Patients Receiving YONDELIS and at a Higher Incidence than in the Control Arm - Trial ET743-SAR-3007</caption>
+                           <col width="24%" align="left" valign="top"/>
+                           <col width="19%" align="center" valign="top"/>
+                           <col width="19%" align="center" valign="top"/>
+                           <col width="19%" align="center" valign="top"/>
+                           <col width="19%" align="center" valign="top"/>
+                           <thead>
+                              <tr>
+                                 <th styleCode="Lrule Rrule"/>
+                                 <th styleCode="Rrule Botrule" colspan="2">YONDELIS<br/> (N=378)</th>
+                                 <th styleCode="Rrule Botrule" colspan="2">Dacarbazine<br/> (N=172)</th>
+                              </tr>
+                              <tr>
+                                 <th styleCode="Lrule Rrule">System Organ Class<br/>  Adverse Reaction</th>
+                                 <th styleCode="Rrule" align="center">All Grades<footnote>Toxicity grade is based on NCI common toxicity criteria, version 4.0.</footnote>
+                                    <br/> (%)</th>
+                                 <th styleCode="Rrule">Grades 3–4<br/> (%)</th>
+                                 <th styleCode="Rrule">All Grades<br/> (%)</th>
+                                 <th styleCode="Rrule">Grades 3–4<br/> (%)</th>
+                              </tr>
+                           </thead>
+                           <tbody>
+                              <tr styleCode="Botrule">
+                                 <td styleCode="Lrule Rrule" colspan="5">
+                                    <content styleCode="bold">Gastrointestinal disorders</content>
+                                 </td>
+                              </tr>
+                              <tr styleCode="Botrule">
+                                 <td styleCode="Lrule Rrule">    Nausea</td>
+                                 <td styleCode="Rrule">75</td>
+                                 <td styleCode="Rrule">7</td>
+                                 <td styleCode="Rrule">50</td>
+                                 <td styleCode="Rrule">1.7</td>
+                              </tr>
+                              <tr styleCode="Botrule">
+                                 <td styleCode="Lrule Rrule">    Vomiting</td>
+                                 <td styleCode="Rrule">46</td>
+                                 <td styleCode="Rrule">6</td>
+                                 <td styleCode="Rrule">22</td>
+                                 <td styleCode="Rrule">1.2</td>
+                              </tr>
+                              <tr styleCode="Botrule">
+                                 <td styleCode="Lrule Rrule">    Constipation</td>
+                                 <td styleCode="Rrule">37</td>
+                                 <td styleCode="Rrule">0.8</td>
+                                 <td styleCode="Rrule">31</td>
+                                 <td styleCode="Rrule">0.6</td>
+                              </tr>
+                              <tr styleCode="Botrule">
+                                 <td styleCode="Lrule Rrule">    Diarrhea</td>
+                                 <td styleCode="Rrule">35</td>
+                                 <td styleCode="Rrule">1.6</td>
+                                 <td styleCode="Rrule">23</td>
+                                 <td styleCode="Rrule">0</td>
+                              </tr>
+                              <tr styleCode="Botrule">
+                                 <td styleCode="Lrule Rrule" colspan="5">
+                                    <content styleCode="bold">General disorders and administration site conditions</content>
+                                 </td>
+                              </tr>
+                              <tr styleCode="Botrule">
+                                 <td styleCode="Lrule Rrule">    Fatigue<footnote>Fatigue is a composite of the following adverse event terms: fatigue, asthenia, and malaise.</footnote>
+                                 </td>
+                                 <td styleCode="Rrule">69</td>
+                                 <td styleCode="Rrule">8</td>
+                                 <td styleCode="Rrule">52</td>
+                                 <td styleCode="Rrule">1.7</td>
+                              </tr>
+                              <tr styleCode="Botrule">
+                                 <td styleCode="Lrule Rrule">    Peripheral edema</td>
+                                 <td styleCode="Rrule">28</td>
+                                 <td styleCode="Rrule">0.8</td>
+                                 <td styleCode="Rrule">13</td>
+                                 <td styleCode="Rrule">0.6</td>
+                              </tr>
+                              <tr styleCode="Botrule">
+                                 <td styleCode="Lrule Rrule" colspan="5">
+                                    <content styleCode="bold">Metabolism and nutrition disorders</content>
+                                 </td>
+                              </tr>
+                              <tr styleCode="Botrule">
+                                 <td styleCode="Lrule Rrule">    Decreased appetite</td>
+                                 <td styleCode="Rrule">37</td>
+                                 <td styleCode="Rrule">1.9</td>
+                                 <td styleCode="Rrule">21</td>
+                                 <td styleCode="Rrule">0.6</td>
+                              </tr>
+                              <tr styleCode="Botrule">
+                                 <td styleCode="Lrule Rrule" colspan="5">
+                                    <content styleCode="bold">Respiratory, thoracic and mediastinal disorders</content>
+                                 </td>
+                              </tr>
+                              <tr styleCode="Botrule">
+                                 <td styleCode="Lrule Rrule">    Dyspnea</td>
+                                 <td styleCode="Rrule">25</td>
+                                 <td styleCode="Rrule">4.2</td>
+                                 <td styleCode="Rrule">20</td>
+                                 <td styleCode="Rrule">1.2</td>
+                              </tr>
+                              <tr styleCode="Botrule">
+                                 <td styleCode="Lrule Rrule" colspan="5">
+                                    <content styleCode="bold">Nervous system disorders</content>
+                                 </td>
+                              </tr>
+                              <tr styleCode="Botrule">
+                                 <td styleCode="Lrule Rrule">    Headache</td>
+                                 <td styleCode="Rrule">25</td>
+                                 <td styleCode="Rrule">0.3</td>
+                                 <td styleCode="Rrule">19</td>
+                                 <td styleCode="Rrule">0</td>
+                              </tr>
+                              <tr styleCode="Botrule">
+                                 <td styleCode="Lrule Rrule" colspan="5">
+                                    <content styleCode="bold">Musculoskeletal and connective tissue disorders</content>
+                                 </td>
+                              </tr>
+                              <tr styleCode="Botrule">
+                                 <td styleCode="Lrule Rrule">    Arthralgia</td>
+                                 <td styleCode="Rrule">15</td>
+                                 <td styleCode="Rrule">0</td>
+                                 <td styleCode="Rrule">8</td>
+                                 <td styleCode="Rrule">1.2</td>
+                              </tr>
+                              <tr styleCode="Botrule">
+                                 <td styleCode="Lrule Rrule">    Myalgia</td>
+                                 <td styleCode="Rrule">12</td>
+                                 <td styleCode="Rrule">0</td>
+                                 <td styleCode="Rrule">6</td>
+                                 <td styleCode="Rrule">0</td>
+                              </tr>
+                              <tr styleCode="Botrule">
+                                 <td styleCode="Lrule Rrule" colspan="5">
+                                    <content styleCode="bold">Psychiatric disorders</content>
+                                 </td>
+                              </tr>
+                              <tr>
+                                 <td styleCode="Lrule Rrule">    Insomnia</td>
+                                 <td styleCode="Rrule">15</td>
+                                 <td styleCode="Rrule">0.3</td>
+                                 <td styleCode="Rrule">9</td>
+                                 <td styleCode="Rrule">0</td>
+                              </tr>
+                           </tbody>
+                        </table>
+                        <paragraph>Other clinically important adverse reactions observed in &lt;10% of patients (N=755) with soft tissue sarcoma receiving YONDELIS were:</paragraph>
+                        <paragraph>
+                           <content styleCode="italics">Nervous system disorders</content>: peripheral neuropathy, paresthesia, hypoesthesia.</paragraph>
+                        <paragraph>
+                           <content styleCode="italics">Respiratory, thoracic, and mediastinal disorders</content>: pulmonary embolism.</paragraph>
+                        <paragraph>
+                           <content styleCode="italics">General disorders and administration site conditions</content>: mucosal inflammation.</paragraph>
+                        <table width="90%" ID="t4">
+                           <caption>Table 4: Incidence of Selected Treatment-Emergent Laboratory Abnormalities<footnote>Treatment-emergent laboratory abnormalities including those higher in the trabectedin arm compared with the dacarbazine arm by ≥5% (all Grades) or by ≥2% (Grade 3–4). Incidence based on number of patients who had both baseline and at least one on-study laboratory measurement.</footnote> - Trial ET743-SAR-3007</caption>
+                           <col width="28%" align="left" valign="top"/>
+                           <col width="18%" align="center" valign="top"/>
+                           <col width="18%" align="center" valign="top"/>
+                           <col width="18%" align="center" valign="top"/>
+                           <col width="18%" align="center" valign="top"/>
+                           <thead>
+                              <tr styleCode="Botrule">
+                                 <th styleCode="Lrule Rrule" rowspan="2" valign="middle">Laboratory Abnormalities</th>
+                                 <th styleCode="Rrule" colspan="2">YONDELIS</th>
+                                 <th styleCode="Rrule" colspan="2">Dacarbazine</th>
+                              </tr>
+                              <tr styleCode="Botrule">
+                                 <th styleCode="Rrule" align="center">All Grades<br/> (%)</th>
+                                 <th styleCode="Rrule Toprule">Grades 3–4<br/> (%)</th>
+                                 <th styleCode="Rrule">All Grades<br/> (%)</th>
+                                 <th styleCode="Rrule">Grades 3–4<br/> (%)</th>
+                              </tr>
+                           </thead>
+                           <tfoot>
+                              <tr>
+                                 <td align="left" colspan="5">YONDELIS group (range: 373 to 377 patients) and dacarbazine group (range: 166 to 168 patients).</td>
+                              </tr>
+                           </tfoot>
+                           <tbody>
+                              <tr styleCode="Botrule">
+                                 <td styleCode="Lrule">  Chemistry</td>
+                                 <td/>
+                                 <td/>
+                                 <td/>
+                                 <td styleCode="Rrule"/>
+                              </tr>
+                              <tr styleCode="Botrule">
+                                 <td styleCode="Lrule Rrule">    Increased ALT</td>
+                                 <td styleCode="Rrule">90</td>
+                                 <td styleCode="Rrule">31</td>
+                                 <td styleCode="Rrule">33</td>
+                                 <td styleCode="Rrule">0.6</td>
+                              </tr>
+                              <tr styleCode="Botrule">
+                                 <td styleCode="Lrule Rrule">    Increased AST</td>
+                                 <td styleCode="Rrule">84</td>
+                                 <td styleCode="Rrule">17</td>
+                                 <td styleCode="Rrule">32</td>
+                                 <td styleCode="Rrule">1.2</td>
+                              </tr>
+                              <tr styleCode="Botrule">
+                                 <td styleCode="Lrule Rrule">    Increased alkaline phosphatase</td>
+                                 <td styleCode="Rrule">70</td>
+                                 <td styleCode="Rrule">1.6</td>
+                                 <td styleCode="Rrule">60</td>
+                                 <td styleCode="Rrule">0.6</td>
+                              </tr>
+                              <tr styleCode="Botrule">
+                                 <td styleCode="Lrule Rrule">    Hypoalbuminemia</td>
+                                 <td styleCode="Rrule">63</td>
+                                 <td styleCode="Rrule">3.7</td>
+                                 <td styleCode="Rrule">51</td>
+                                 <td styleCode="Rrule">3.0</td>
+                              </tr>
+                              <tr styleCode="Botrule">
+                                 <td styleCode="Lrule Rrule">    Increased creatinine</td>
+                                 <td styleCode="Rrule">46</td>
+                                 <td styleCode="Rrule">4.2</td>
+                                 <td styleCode="Rrule">29</td>
+                                 <td styleCode="Rrule">1.2</td>
+                              </tr>
+                              <tr styleCode="Botrule">
+                                 <td styleCode="Lrule Rrule">    Increased creatine phosphokinase</td>
+                                 <td styleCode="Rrule">33</td>
+                                 <td styleCode="Rrule">6.4</td>
+                                 <td styleCode="Rrule">9</td>
+                                 <td styleCode="Rrule">0.6</td>
+                              </tr>
+                              <tr styleCode="Botrule">
+                                 <td styleCode="Lrule Rrule">    Hyperbilirubinemia</td>
+                                 <td styleCode="Rrule">13</td>
+                                 <td styleCode="Rrule">1.9</td>
+                                 <td styleCode="Rrule">5</td>
+                                 <td styleCode="Rrule">0.6</td>
+                              </tr>
+                              <tr styleCode="Botrule">
+                                 <td styleCode="Lrule">  Hematology</td>
+                                 <td/>
+                                 <td/>
+                                 <td/>
+                                 <td styleCode="Rrule"/>
+                              </tr>
+                              <tr styleCode="Botrule">
+                                 <td styleCode="Lrule Rrule">    Anemia</td>
+                                 <td styleCode="Rrule">96</td>
+                                 <td styleCode="Rrule">19</td>
+                                 <td styleCode="Rrule">79</td>
+                                 <td styleCode="Rrule">12</td>
+                              </tr>
+                              <tr styleCode="Botrule">
+                                 <td styleCode="Lrule Rrule">    Neutropenia</td>
+                                 <td styleCode="Rrule">66</td>
+                                 <td styleCode="Rrule">43</td>
+                                 <td styleCode="Rrule">47</td>
+                                 <td styleCode="Rrule">26</td>
+                              </tr>
+                              <tr>
+                                 <td styleCode="Lrule Rrule">    Thrombocytopenia</td>
+                                 <td styleCode="Rrule">59</td>
+                                 <td styleCode="Rrule">21</td>
+                                 <td styleCode="Rrule">57</td>
+                                 <td styleCode="Rrule">20</td>
+                              </tr>
+                           </tbody>
+                        </table>
+                     </text>
+                     <effectiveTime value="20200610"/>
+                  </section>
+               </component>
+               <component>
+                  <section ID="S6.2">
+                     <id root="025084c6-0267-4fb3-84e1-61020ca8b9ae"/>
+                     <code code="42229-5" codeSystem="2.16.840.1.113883.6.1" displayName="SPL UNCLASSIFIED SECTION"/>
+                     <title>6.2	Postmarketing Experience</title>
+                     <text>
+                        <paragraph>The following adverse reactions have been identified during post-approval use of YONDELIS. Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.</paragraph>
+                        <paragraph>Vascular disorders: capillary leak syndrome</paragraph>
+                     </text>
+                     <effectiveTime value="20181231"/>
+                  </section>
+               </component>
+            </section>
+         </component>
+         <component>
+            <section ID="S7">
+               <id root="d2a45194-38e2-4ddf-8857-2e1c59c982d9"/>
+               <code code="34073-7" codeSystem="2.16.840.1.113883.6.1" displayName="DRUG INTERACTIONS SECTION"/>
+               <title>7 DRUG INTERACTIONS</title>
+               <effectiveTime value="20181231"/>
+               <excerpt>
+                  <highlight>
+                     <text>
+                        <list>
+                           <item>CYP3A inhibitors: Avoid concomitant strong CYP3A inhibitors (<linkHtml href="#S7.1">7.1</linkHtml>)</item>
+                           <item>CYP3A inducers: Avoid concomitant strong CYP3A inducers (<linkHtml href="#S7.2">7.2</linkHtml>)</item>
+                        </list>
+                     </text>
+                  </highlight>
+               </excerpt>
+               <component>
+                  <section ID="S7.1">
+                     <id root="0f62c536-d5e5-424a-a5dc-1e159b48544a"/>
+                     <code code="42229-5" codeSystem="2.16.840.1.113883.6.1" displayName="SPL UNCLASSIFIED SECTION"/>
+                     <title>7.1	Effect of Cytochrome CYP3A Inhibitors</title>
+                     <text>
+                        <paragraph>Coadministration of YONDELIS with ketoconazole, a strong CYP3A inhibitor, increased systemic exposure of trabectedin by 66%. Avoid using strong CYP3A inhibitors (e.g., oral ketoconazole, itraconazole, posaconazole, voriconazole, clarithromycin, telithromycin, indinavir, lopinavir, ritonavir, boceprevir, nelfinavir, saquinavir, telaprevir, nefazodone, conivaptan) in patients taking YONDELIS. If a strong CYP3A inhibitor for short-term use (i.e., less than 14 days) must be used, administer the strong CYP3A inhibitor 1 week after the YONDELIS infusion, and discontinue it the day prior to the next YONDELIS infusion <content styleCode="italics">[see <linkHtml href="#S12.3">Clinical Pharmacology (12.3)</linkHtml>]</content>.</paragraph>
+                     </text>
+                     <effectiveTime value="20181231"/>
+                  </section>
+               </component>
+               <component>
+                  <section ID="S7.2">
+                     <id root="c1db06a8-12f6-4592-9bf1-bed6acbfb4e6"/>
+                     <code code="42229-5" codeSystem="2.16.840.1.113883.6.1" displayName="SPL UNCLASSIFIED SECTION"/>
+                     <title>7.2	Effect of Cytochrome CYP3A Inducers</title>
+                     <text>
+                        <paragraph>Coadministration of YONDELIS with rifampin, a strong CYP3A inducer, decreased systemic exposure of trabectedin by 31%. Avoid using strong CYP3A inducers (e.g., rifampin, phenobarbital, St. John's wort) in patients taking YONDELIS <content styleCode="italics">[see <linkHtml href="#S12.3">Clinical Pharmacology (12.3)</linkHtml>]</content>.</paragraph>
+                     </text>
+                     <effectiveTime value="20181231"/>
+                  </section>
+               </component>
+            </section>
+         </component>
+         <component>
+            <section ID="S8">
+               <id root="534145d2-9a92-434f-a207-8fcde609b39b"/>
+               <code code="43684-0" codeSystem="2.16.840.1.113883.6.1" displayName="USE IN SPECIFIC POPULATIONS SECTION"/>
+               <title>8 USE IN SPECIFIC POPULATIONS</title>
+               <effectiveTime value="20181231"/>
+               <excerpt>
+                  <highlight>
+                     <text>
+                        <list>
+                           <item>Lactation: Advise not to breastfeed (<linkHtml href="#S8.2">8.2</linkHtml>)</item>
+                           <item>Hepatic Impairment: Do not administer YONDELIS to patients with severe hepatic impairment (<linkHtml href="#S8.6">8.6</linkHtml>, <linkHtml href="#S12.3">12.3</linkHtml>)</item>
+                        </list>
+                     </text>
+                  </highlight>
+               </excerpt>
+               <component>
+                  <section ID="S8.1">
+                     <id root="27d9656b-605a-48b6-a1c8-77b70ac8de02"/>
+                     <code code="42228-7" codeSystem="2.16.840.1.113883.6.1" displayName="PREGNANCY SECTION"/>
+                     <title>8.1 Pregnancy</title>
+                     <effectiveTime value="20181231"/>
+                     <component>
+                        <section>
+                           <id root="23490b6a-3c87-4077-8431-be2b2ce89f2d"/>
+                           <code code="42229-5" codeSystem="2.16.840.1.113883.6.1" displayName="SPL UNCLASSIFIED SECTION"/>
+                           <text>
+                              <paragraph>
+                                 <content styleCode="Underline">Risk Summary</content>
+                              </paragraph>
+                              <paragraph>Based on its mechanism of action, trabectedin can cause fetal harm when administered during pregnancy <content styleCode="italics">[see <linkHtml href="#S12.1">Clinical Pharmacology (12.1)</linkHtml>]</content>. There are no available data with the use of YONDELIS during pregnancy. Animal reproductive and developmental studies at relevant doses have not been conducted with trabectedin; however, placental transfer of trabectedin was demonstrated in pregnant rats. Advise pregnant woman of the potential risk to a fetus. The background risk of major birth defects and miscarriage for the indicated population are unknown; however, the background risk in the U.S. general population of major birth defects is 2 to 4% and of miscarriage is 15 to 20% of clinically recognized pregnancies.</paragraph>
+                           </text>
+                           <effectiveTime value="20181231"/>
+                        </section>
+                     </component>
+                  </section>
+               </component>
+               <component>
+                  <section ID="S8.2">
+                     <id root="e9fc7115-f588-48b5-a0a1-fce0717857e0"/>
+                     <code code="77290-5" codeSystem="2.16.840.1.113883.6.1" displayName="LACTATION SECTION"/>
+                     <title>8.2 Lactation</title>
+                     <effectiveTime value="20181231"/>
+                     <component>
+                        <section>
+                           <id root="d3f508f6-22e4-4900-b804-1306bf0d0d26"/>
+                           <code code="42229-5" codeSystem="2.16.840.1.113883.6.1" displayName="SPL UNCLASSIFIED SECTION"/>
+                           <text>
+                              <paragraph>
+                                 <content styleCode="underline">Risk Summary</content>
+                              </paragraph>
+                              <paragraph>There are no data on the presence of trabectedin in human milk, the effects on the breastfed infant, or the effects on milk production. Because of the potential for serious adverse reactions from YONDELIS in breastfed infants, advise a nursing woman to discontinue nursing during treatment with YONDELIS.</paragraph>
+                           </text>
+                           <effectiveTime value="20181231"/>
+                        </section>
+                     </component>
+                  </section>
+               </component>
+               <component>
+                  <section ID="S8.3">
+                     <id root="788f46b8-7cf3-49b2-8127-843765c33448"/>
+                     <code code="77291-3" codeSystem="2.16.840.1.113883.6.1" displayName="FEMALES &amp; MALES OF REPRODUCTIVE POTENTIAL SECTION"/>
+                     <title>8.3 Females and Males of Reproductive Potential</title>
+                     <effectiveTime value="20181231"/>
+                     <component>
+                        <section>
+                           <id root="91d6a3b7-c7e7-4669-b688-0519c2ac9eed"/>
+                           <code code="42229-5" codeSystem="2.16.840.1.113883.6.1" displayName="SPL UNCLASSIFIED SECTION"/>
+                           <text>
+                              <paragraph>
+                                 <content styleCode="underline">Pregnancy Testing</content>
+                              </paragraph>
+                              <paragraph>Verify the pregnancy status of females of reproductive potential prior to initiating YONDELIS <content styleCode="italics">[see <linkHtml href="#S8.1">Use in Specific Populations (8.1)</linkHtml>]</content>.</paragraph>
+                           </text>
+                           <effectiveTime value="20181231"/>
+                        </section>
+                     </component>
+                     <component>
+                        <section>
+                           <id root="acdbbf4e-8467-43dd-b57d-f9145cc27b77"/>
+                           <code code="42229-5" codeSystem="2.16.840.1.113883.6.1" displayName="SPL UNCLASSIFIED SECTION"/>
+                           <text>
+                              <paragraph>
+                                 <content styleCode="underline">Contraception</content>
+                              </paragraph>
+                           </text>
+                           <effectiveTime value="20181231"/>
+                           <component>
+                              <section>
+                                 <id root="6615098b-5978-4eb0-af1b-ad6d424a795e"/>
+                                 <code code="42229-5" codeSystem="2.16.840.1.113883.6.1" displayName="SPL UNCLASSIFIED SECTION"/>
+                                 <text>
+                                    <paragraph>
+                                       <content styleCode="italics">Females</content>
+                                    </paragraph>
+                                    <paragraph>Advise female patients of reproductive potential to use effective contraception during and for 2 months after the last dose of YONDELIS <content styleCode="italics">[see <linkHtml href="#S8.1">Use in Specific Populations (8.1)</linkHtml>]</content>.</paragraph>
+                                 </text>
+                                 <effectiveTime value="20181231"/>
+                              </section>
+                           </component>
+                           <component>
+                              <section>
+                                 <id root="bd6e23f6-0071-49f8-a841-153b04b2408b"/>
+                                 <code code="42229-5" codeSystem="2.16.840.1.113883.6.1" displayName="SPL UNCLASSIFIED SECTION"/>
+                                 <text>
+                                    <paragraph>
+                                       <content styleCode="italics">Males</content>
+                                    </paragraph>
+                                    <paragraph>YONDELIS may damage spermatozoa, resulting in possible genetic and fetal abnormalities. Advise males with a female sexual partner of reproductive potential to use effective contraception during and for 5 months after the last dose of YONDELIS <content styleCode="italics">[see <linkHtml href="#S13.1">Nonclinical Toxicology (13.1)</linkHtml>]</content>.</paragraph>
+                                 </text>
+                                 <effectiveTime value="20181231"/>
+                              </section>
+                           </component>
+                        </section>
+                     </component>
+                     <component>
+                        <section>
+                           <id root="a274b281-cd7d-42cd-8c90-311b08855c45"/>
+                           <code code="42229-5" codeSystem="2.16.840.1.113883.6.1" displayName="SPL UNCLASSIFIED SECTION"/>
+                           <text>
+                              <paragraph>
+                                 <content styleCode="underline">Infertility</content>
+                              </paragraph>
+                              <paragraph>YONDELIS may result in decreased fertility in males and females <content styleCode="italics">[see <linkHtml href="#S13.1">Nonclinical Toxicology (13.1)</linkHtml>]</content>.</paragraph>
+                           </text>
+                           <effectiveTime value="20181231"/>
+                        </section>
+                     </component>
+                  </section>
+               </component>
+               <component>
+                  <section ID="S8.4">
+                     <id root="171de3a3-3a44-4e18-852a-07f1261f6bbd"/>
+                     <code code="34081-0" codeSystem="2.16.840.1.113883.6.1" displayName="PEDIATRIC USE SECTION"/>
+                     <title>8.4 Pediatric Use</title>
+                     <text>
+                        <paragraph>Safety and effectiveness in pediatric patients have not been established.</paragraph>
+                        <paragraph>Safety (n=61) and efficacy (n=58) were assessed across five open-label studies (NCT00006463, NCT01453283, NCT00005625, NCT00070109, and ET-B-023-00) in pediatric patients (aged 2 to &lt;17 years) with pediatric histotypes of sarcoma (predominantly rhabdomyosarcoma, osteosarcoma, Ewing sarcoma, and non-rhabdomyosarcoma soft tissue sarcoma). No new safety signals were observed in pediatric patients across these studies.</paragraph>
+                        <paragraph>Pharmacokinetic parameters in 17 pediatric patients (aged 3 to 17 years) were within the range of values previously observed in adults given the same dose per body surface area.</paragraph>
+                     </text>
+                     <effectiveTime value="20181231"/>
+                  </section>
+               </component>
+               <component>
+                  <section ID="S8.5">
+                     <id root="dadbee77-4cec-4209-84a1-d2f56955ba59"/>
+                     <code code="34082-8" codeSystem="2.16.840.1.113883.6.1" displayName="GERIATRIC USE SECTION"/>
+                     <title>8.5 Geriatric Use</title>
+                     <text>
+                        <paragraph>Clinical studies of YONDELIS did not include sufficient numbers of subjects aged 65 and over to determine whether they respond differently from younger subjects.</paragraph>
+                     </text>
+                     <effectiveTime value="20181231"/>
+                  </section>
+               </component>
+               <component>
+                  <section ID="S8.6">
+                     <id root="ebba7cfd-e928-42bc-bb00-8e8661a4889c"/>
+                     <code code="42229-5" codeSystem="2.16.840.1.113883.6.1" displayName="SPL UNCLASSIFIED SECTION"/>
+                     <title>8.6	Hepatic Impairment</title>
+                     <text>
+                        <paragraph>The mean trabectedin exposure was (97%) higher in patients with moderate (bilirubin levels greater than 1.5 to 3 times the upper limit of normal, and AST and ALT less than 8 times the upper limit of normal) hepatic impairment compared to patients with normal (total bilirubin ≤ the upper limit of normal, and AST and ALT ≤ the upper limit of normal) liver function. Reduce YONDELIS dose in patients with moderate hepatic impairment <content styleCode="italics">[see <linkHtml href="#S2.1">Dosage and Administration (2.1)</linkHtml> and <linkHtml href="#S12.3">Clinical Pharmacology (12.3)</linkHtml>]</content>.</paragraph>
+                        <paragraph>Do not administer YONDELIS to patients with severe hepatic impairment (bilirubin levels above 3 times the upper limit of normal, and any AST and ALT) <content styleCode="italics">[see <linkHtml href="#S5.3">Warnings and Precautions (5.3)</linkHtml>]</content>.</paragraph>
+                     </text>
+                     <effectiveTime value="20181231"/>
+                  </section>
+               </component>
+               <component>
+                  <section ID="S8.7">
+                     <id root="a98bef27-f93d-4484-93be-0a4528d2546d"/>
+                     <code code="42229-5" codeSystem="2.16.840.1.113883.6.1" displayName="SPL UNCLASSIFIED SECTION"/>
+                     <title>8.7	Renal Impairment</title>
+                     <text>
+                        <paragraph>No dose adjustment is recommended in patients with mild [creatinine clearance (CLcr) 60–89 mL/min] or moderate (CLcr of 30–59 mL/min) renal impairment.</paragraph>
+                        <paragraph>The pharmacokinetics of trabectedin has not been evaluated in patients with severe renal impairment (CLcr &lt;30 mL/min) or end stage renal disease <content styleCode="italics">[see <linkHtml href="#S12.3">Clinical Pharmacology (12.3)</linkHtml>]</content>.</paragraph>
+                     </text>
+                     <effectiveTime value="20181231"/>
+                  </section>
+               </component>
+            </section>
+         </component>
+         <component>
+            <section ID="S10">
+               <id root="2a5741d1-f8d8-4a03-bdac-0de00e3a61f4"/>
+               <code code="34088-5" codeSystem="2.16.840.1.113883.6.1" displayName="OVERDOSAGE SECTION"/>
+               <title>10 OVERDOSAGE</title>
+               <text>
+                  <paragraph>There is no specific antidote for YONDELIS. Hemodialysis is not expected to enhance the elimination of YONDELIS because trabectedin is highly bound to plasma proteins (97%) and not significantly renally excreted.</paragraph>
+               </text>
+               <effectiveTime value="20181231"/>
+            </section>
+         </component>
+         <component>
+            <section ID="S11">
+               <id root="d4b7f29f-1a99-4c17-86ab-28e9697a9cde"/>
+               <code code="34089-3" codeSystem="2.16.840.1.113883.6.1" displayName="DESCRIPTION SECTION"/>
+               <title>11 DESCRIPTION</title>
+               <text>
+                  <paragraph>Trabectedin is an alkylating drug with the chemical name (1'<content styleCode="italics">R</content>,6<content styleCode="italics">R</content>,6a<content styleCode="italics">R</content>,7<content styleCode="italics">R</content>,13<content styleCode="italics">S</content>,14<content styleCode="italics">S</content>,16<content styleCode="italics">R</content>)-5-(acetyloxy)-3',4',6,6a,7,13,14,16-octahydro-6',8,14-trihydroxy-7',9-dimethoxy-4,10,23-trimethyl-spiro[6,16-(epithiopropanoxymethano)-7,13-imino-12<content styleCode="italics">H</content>-1,3-dioxolo[7,8]isoquino[3,2-<content styleCode="italics">b</content>][3]benzazocine-20,1'(2'<content styleCode="italics">H</content>)-isoquinolin]-19-one. The molecular formula is C<sub>39</sub>H<sub>43</sub>N<sub>3</sub>O<sub>11</sub>S. The molecular weight is 761.84 daltons. The chemical structure is shown below:</paragraph>
+                  <renderMultiMedia referencedObject="MM1"/>
+                  <paragraph>Trabectedin is hydrophobic and has a low solubility in water.</paragraph>
+                  <paragraph>YONDELIS (trabectedin) for injection is supplied as a sterile lyophilized white to off-white powder/cake in a single-dose vial. Each single-dose vial contains 1 mg of trabectedin, 27.2 mg potassium dihydrogen phosphate, 400 mg sucrose, and phosphoric acid and potassium hydroxide (for pH adjustment to 3.6 – 4.2).</paragraph>
+               </text>
+               <effectiveTime value="20181231"/>
+               <component>
+                  <observationMedia ID="MM1">
+                     <text>Chemical Structure</text>
+                     <value xsi:type="ED" mediaType="image/jpeg">
+                        <reference value="yondelis-01.jpg"/>
+                     </value>
+                  </observationMedia>
+               </component>
+            </section>
+         </component>
+         <component>
+            <section ID="S12">
+               <id root="08fb7b60-6394-11ea-b4da-4f30fc2ca371"/>
+               <code code="34090-1" codeSystem="2.16.840.1.113883.6.1" displayName="CLINICAL PHARMACOLOGY SECTION"/>
+               <title>12 CLINICAL PHARMACOLOGY</title>
+               <effectiveTime value="20181231"/>
+               <component>
+                  <section ID="S12.1">
+                     <id root="4680a568-b780-4b40-b39b-3a1fdc209d7b"/>
+                     <code code="43679-0" codeSystem="2.16.840.1.113883.6.1" displayName="MECHANISM OF ACTION SECTION"/>
+                     <title>12.1 Mechanism of Action</title>
+                     <text>
+                        <paragraph>Trabectedin is an alkylating drug that binds guanine residues in the minor groove of DNA, forming adducts and resulting in a bending of the DNA helix towards the major groove. Adduct formation triggers a cascade of events that can affect the subsequent activity of DNA binding proteins, including some transcription factors, and DNA repair pathways, resulting in perturbation of the cell cycle and eventual cell death.</paragraph>
+                     </text>
+                     <effectiveTime value="20181231"/>
+                  </section>
+               </component>
+               <component>
+                  <section ID="S12.2">
+                     <id root="0f144086-6394-11ea-8206-2f31fc2ca371"/>
+                     <code code="43681-6" codeSystem="2.16.840.1.113883.6.1" displayName="PHARMACODYNAMICS SECTION"/>
+                     <title>12.2 Pharmacodynamics</title>
+                     <effectiveTime value="20181231"/>
+                     <component>
+                        <section>
+                           <id root="cb84e2f8-6393-11ea-8da5-9328fc2ca371"/>
+                           <code code="42229-5" codeSystem="2.16.840.1.113883.6.1" displayName="SPL UNCLASSIFIED SECTION"/>
+                           <text>
+                              <paragraph>
+                                 <content styleCode="underline">Cardiac Electrophysiology</content>
+                              </paragraph>
+                              <paragraph>The effect of trabectedin on the QT/QTc interval was evaluated in 75 patients who received placebo on day 1 and trabectedin (1.3 mg/m<sup>2</sup>) as a 3-hour intravenous infusion on day 2. No patients in the study showed a QTc interval exceeding 500 msec or more than 60 msec increase from baseline, and no large changes in the mean QTc interval (i.e., &gt;20 msec) were observed.</paragraph>
+                           </text>
+                           <effectiveTime value="20200611"/>
+                        </section>
+                     </component>
+                  </section>
+               </component>
+               <component>
+                  <section ID="S12.3">
+                     <id root="11dd72ce-6394-11ea-be70-5831fc2ca371"/>
+                     <code code="43682-4" codeSystem="2.16.840.1.113883.6.1" displayName="PHARMACOKINETICS SECTION"/>
+                     <title>12.3 Pharmacokinetics</title>
+                     <text>
+                        <paragraph>The pharmacokinetics of trabectedin is characterized by a rapid decline phase at the end of the infusion and slower exponential phases. Population pharmacokinetic analyses suggest that the pharmacokinetics of trabectedin is dose-proportional (over the dose range of 0.024 to 1.8 mg/m<sup>2</sup>) and exposure is time-independent. No accumulation of trabectedin in plasma is observed upon repeated administrations every 3 weeks.</paragraph>
+                     </text>
+                     <effectiveTime value="20181231"/>
+                     <component>
+                        <section>
+                           <id root="d00110cc-6393-11ea-9345-1b29fc2ca371"/>
+                           <code code="42229-5" codeSystem="2.16.840.1.113883.6.1" displayName="SPL UNCLASSIFIED SECTION"/>
+                           <text>
+                              <paragraph>
+                                 <content styleCode="underline">Distribution</content>
+                              </paragraph>
+                              <paragraph>Binding of trabectedin to human plasma proteins was approximately 97%, independent of trabectedin concentrations ranging from 10 ng/mL to 100 ng/mL. Steady state volume of distribution of trabectedin exceeds 5000 L.</paragraph>
+                           </text>
+                           <effectiveTime value="20200611"/>
+                        </section>
+                     </component>
+                     <component>
+                        <section>
+                           <id root="d3f15548-6393-11ea-89df-8c29fc2ca371"/>
+                           <code code="42229-5" codeSystem="2.16.840.1.113883.6.1" displayName="SPL UNCLASSIFIED SECTION"/>
+                           <text>
+                              <paragraph>
+                                 <content styleCode="underline">Elimination</content>
+                              </paragraph>
+                              <paragraph>The estimated mean (% coefficient of variation) clearance of trabectedin is 31.5 L/hr (50%) and the terminal elimination half-life is approximately 175 hours.</paragraph>
+                           </text>
+                           <effectiveTime value="20200611"/>
+                        </section>
+                     </component>
+                     <component>
+                        <section>
+                           <id root="da9a9760-6393-11ea-a0b3-452afc2ca371"/>
+                           <code code="42229-5" codeSystem="2.16.840.1.113883.6.1" displayName="SPL UNCLASSIFIED SECTION"/>
+                           <text>
+                              <paragraph>
+                                 <content styleCode="underline">Metabolism</content>
+                              </paragraph>
+                              <paragraph>CYP3A is the predominant CYP enzyme responsible for the hepatic metabolism of trabectedin.</paragraph>
+                              <paragraph>Trabectedin was extensively metabolized with negligible unchanged drug in urine and feces following administration of trabectedin to humans.</paragraph>
+                           </text>
+                           <effectiveTime value="20200611"/>
+                        </section>
+                     </component>
+                     <component>
+                        <section>
+                           <id root="dd7673fa-6393-11ea-ab1e-912afc2ca371"/>
+                           <code code="42229-5" codeSystem="2.16.840.1.113883.6.1" displayName="SPL UNCLASSIFIED SECTION"/>
+                           <text>
+                              <paragraph>
+                                 <content styleCode="bold">
+                                    <content styleCode="underline">Excretion</content>
+                                 </content>
+                              </paragraph>
+                              <paragraph>In patients with solid tumors, following a 3-hour or a 24-hour intravenous infusion of <sup>14</sup>C-labeled trabectedin, 64% of the total administered radioactive dose was recovered in 24 days, with 58% in feces and 6% in urine.</paragraph>
+                           </text>
+                           <effectiveTime value="20200611"/>
+                        </section>
+                     </component>
+                     <component>
+                        <section>
+                           <id root="e3200adc-6393-11ea-a0e6-342bfc2ca371"/>
+                           <code code="42229-5" codeSystem="2.16.840.1.113883.6.1" displayName="SPL UNCLASSIFIED SECTION"/>
+                           <text>
+                              <paragraph>
+                                 <content styleCode="underline">Specific Populations</content>
+                              </paragraph>
+                              <paragraph>The following population characteristics are not associated with a clinically significant effect on the pharmacokinetics of trabectedin: sex, age (19 to 83 years), body weight (36 to 148 kg), body surface area (0.9 to 2.8 m<sup>2</sup>), mild hepatic impairment, or mild to moderate renal impairment. The effects of severe hepatic impairment, severe renal impairment or end stage renal disease on trabectedin exposure are unknown.</paragraph>
+                           </text>
+                           <effectiveTime value="20200611"/>
+                           <component>
+                              <section>
+                                 <id root="e5fef952-6393-11ea-bb62-8d2bfc2ca371"/>
+                                 <code code="42229-5" codeSystem="2.16.840.1.113883.6.1" displayName="SPL UNCLASSIFIED SECTION"/>
+                                 <text>
+                                    <paragraph>
+                                       <content styleCode="italics">Hepatic Impairment</content>
+                                    </paragraph>
+                                    <paragraph>The geometric mean dose normalized trabectedin exposure (AUC) increased by 97% (90% CI: 20%, 222%) in patients with moderate hepatic impairment (bilirubin levels greater than 1.5 times to 3 times the upper limit of normal and AST and ALT less than 8 times the upper limit of normal) following administration of a single YONDELIS dose of 0.58 mg/m<sup>2</sup> or 0.9 mg/m<sup>2</sup> compared to patients with normal liver function following administration of a single YONDELIS dose of 1.3 mg/m<sup>2</sup> <content styleCode="italics">[see <linkHtml href="#S2.1">Dosage and Administration (2.1)</linkHtml> and <linkHtml href="#S8.6">Use in Specific Populations (8.6)</linkHtml>]</content>.</paragraph>
+                                 </text>
+                                 <effectiveTime value="20200611"/>
+                              </section>
+                           </component>
+                        </section>
+                     </component>
+                     <component>
+                        <section>
+                           <id root="e8eabe3a-6393-11ea-98e8-e62bfc2ca371"/>
+                           <code code="34073-7" codeSystem="2.16.840.1.113883.6.1" displayName="DRUG INTERACTIONS SECTION"/>
+                           <text>
+                              <paragraph>
+                                 <content styleCode="underline">Drug Interactions</content>
+                              </paragraph>
+                           </text>
+                           <effectiveTime value="20200611"/>
+                           <component>
+                              <section>
+                                 <id root="ec90aaa4-6393-11ea-8926-522cfc2ca371"/>
+                                 <code code="42229-5" codeSystem="2.16.840.1.113883.6.1" displayName="SPL UNCLASSIFIED SECTION"/>
+                                 <text>
+                                    <paragraph>
+                                       <content styleCode="italics">Effect of Strong CYP3A Inhibitors on Trabectedin</content>
+                                    </paragraph>
+                                    <paragraph>Coadministration of multiple doses of ketoconazole (200 mg twice daily for 7.5 days) with a single dose of YONDELIS (0.58 mg/m<sup>2</sup>) on day 1 increased trabectedin dose-normalized AUC by 66% and C<sub>max</sub> by 22% compared to a single YONDELIS dose (1.3 mg/m<sup>2</sup>) given alone.</paragraph>
+                                 </text>
+                                 <effectiveTime value="20200611"/>
+                              </section>
+                           </component>
+                           <component>
+                              <section>
+                                 <id root="f2238342-6393-11ea-93af-ff2cfc2ca371"/>
+                                 <code code="42229-5" codeSystem="2.16.840.1.113883.6.1" displayName="SPL UNCLASSIFIED SECTION"/>
+                                 <text>
+                                    <paragraph>
+                                       <content styleCode="italics">Effect of Strong CYP3A Inducers on Trabectedin</content>
+                                    </paragraph>
+                                    <paragraph>Coadministration of multiple doses of rifampin (600 mg daily for 6 days) with a single YONDELIS dose (1.3 mg/m<sup>2</sup>) on day 6 decreased trabectedin AUC by 31% and C<sub>max</sub> by 21% compared to a single YONDELIS dose (1.3 mg/m<sup>2</sup>) given alone.</paragraph>
+                                 </text>
+                                 <effectiveTime value="20200611"/>
+                              </section>
+                           </component>
+                           <component>
+                              <section>
+                                 <id root="f572b978-6393-11ea-9014-4e2dfc2ca371"/>
+                                 <code code="42229-5" codeSystem="2.16.840.1.113883.6.1" displayName="SPL UNCLASSIFIED SECTION"/>
+                                 <text>
+                                    <paragraph>
+                                       <content styleCode="italics">Effect of Trabectedin on CYP Enzymes</content>
+                                    </paragraph>
+                                    <paragraph>
+                                       <content styleCode="italics">In vitro</content>, trabectedin has limited inhibition or induction potential of major CYP enzymes (CYP1A2, 2A6, 2B6, 2C9, 2C19, 2D6, 2E1, and 3A4).</paragraph>
+                                 </text>
+                                 <effectiveTime value="20200611"/>
+                              </section>
+                           </component>
+                        </section>
+                     </component>
+                  </section>
+               </component>
+            </section>
+         </component>
+         <component>
+            <section ID="S13">
+               <id root="e52db5ae-f241-4c2d-9e7f-4a8ab95d09cc"/>
+               <code code="43680-8" codeSystem="2.16.840.1.113883.6.1" displayName="NONCLINICAL TOXICOLOGY SECTION"/>
+               <title>13 NONCLINICAL TOXICOLOGY</title>
+               <effectiveTime value="20181231"/>
+               <component>
+                  <section ID="S13.1">
+                     <id root="d6c3a4e0-e43c-4ef2-af34-dc8c6b905f15"/>
+                     <code code="34083-6" codeSystem="2.16.840.1.113883.6.1" displayName="CARCINOGENESIS &amp; MUTAGENESIS &amp; IMPAIRMENT OF FERTILITY SECTION"/>
+                     <title>13.1 Carcinogenesis, Mutagenesis, Impairment of Fertility</title>
+                     <text>
+                        <paragraph>Trabectedin is genotoxic in both <content styleCode="italics">in vitro</content> and <content styleCode="italics">in vivo</content> studies. Long-term carcinogenicity studies have not been performed.</paragraph>
+                        <paragraph>Fertility studies with trabectedin were not performed. In male rats there were limited histopathological signs of hemorrhage and degeneration in the testes following repeated administration of trabectedin at doses approximately 0.2 times the 1.5 mg/m<sup>2</sup> human dose based on body surface area.</paragraph>
+                     </text>
+                     <effectiveTime value="20181231"/>
+                  </section>
+               </component>
+            </section>
+         </component>
+         <component>
+            <section ID="S14">
+               <id root="84d03b00-12c0-49bd-9309-1b332f36b876"/>
+               <code code="34092-7" codeSystem="2.16.840.1.113883.6.1" displayName="CLINICAL STUDIES SECTION"/>
+               <title>14 CLINICAL STUDIES</title>
+               <text>
+                  <paragraph>The clinical efficacy and safety of YONDELIS in patients with metastatic or recurrent leiomyosarcoma or liposarcoma were demonstrated in Trial ET743-SAR-3007 (NCT01343277), a randomized (2:1), open-label, active-controlled trial comparing treatment with YONDELIS 1.5 mg/m<sup>2</sup> as a 24-hour continuous intravenous infusion once every 3 weeks to dacarbazine 1000 mg/m<sup>2</sup> intravenous infusion (20 to 120 minutes) once every 3 weeks. Treatment continued in both arms until disease progression or unacceptable toxicity; all patients in the YONDELIS arm were required to receive dexamethasone 20 mg intravenous injection prior to each YONDELIS infusion. Patients were required to have unresectable, locally advanced or metastatic leiomyosarcoma or liposarcoma (dedifferentiated, myxoid round cell, or pleomorphic) and previous treatment with an anthracycline- and ifosfamide-containing regimen or an anthracycline-containing regimen and one additional cytotoxic chemotherapy regimen. Randomization was stratified by subtype of soft tissue sarcoma (leiomyosarcoma vs. liposarcoma), ECOG performance status (0 vs. 1), and number of prior chemotherapy regimens (1 vs. ≥2). The efficacy outcome measures were investigator-assessed progression-free survival (PFS) according to the Response Evaluation Criteria in Solid Tumors (RECIST v1.1), overall survival (OS), objective response rate (ORR), and duration of response (DOR). Patients in the dacarbazine arm were not offered YONDELIS at the time of disease progression.</paragraph>
+                  <paragraph>A total of 518 patients were randomized, 345 to the YONDELIS arm and 173 patients to the dacarbazine arm. The median patient age was 56 years (range: 17 to 81); 30% were male; 76% White, 12% Black, and 4% Asian; 73% had leiomyosarcomas and 27% liposarcomas; 49% had an ECOG PS of 0; and 89% received ≥2 prior chemotherapy regimens. The most common (≥20%) pre-study chemotherapeutic agents administered were doxorubicin (90%), gemcitabine (81%), docetaxel (74%), and ifosfamide (59%). Approximately 10% of patients had received pazopanib.</paragraph>
+                  <paragraph>Trial ET743-SAR-3007 demonstrated a statistically significant improvement in PFS. An exploratory analysis of independent radiology committee-determined PFS, in a subgroup consisting of approximately 60% of the total population, provided similar results to the investigator-determined PFS. Efficacy results from Trial ET743-SAR-3007 are presented in the table below.</paragraph>
+                  <table width="80%" ID="t5">
+                     <caption>Table 5: Efficacy Results for Trial ET743-SAR-3007</caption>
+                     <col width="40%" align="left" valign="top"/>
+                     <col width="30%" align="center" valign="top"/>
+                     <col width="30%" align="center" valign="top"/>
+                     <thead>
+                        <tr>
+                           <th styleCode="Lrule Rrule">Efficacy Endpoint</th>
+                           <th styleCode="Rrule">YONDELIS<br/>N=345</th>
+                           <th styleCode="Rrule">Dacarbazine<br/>N=173</th>
+                        </tr>
+                     </thead>
+                     <tfoot>
+                        <tr>
+                           <td colspan="3" align="left">CR=Complete Response; PR=Partial Response; CI=Confidence Interval, HR=hazard ratio, NE=not estimable.</td>
+                        </tr>
+                     </tfoot>
+                     <tbody>
+                        <tr styleCode="Botrule">
+                           <td styleCode="Lrule Rrule" colspan="3">
+                              <content styleCode="bold">Progression-free survival</content>
+                           </td>
+                        </tr>
+                        <tr styleCode="Botrule">
+                           <td styleCode="Lrule Rrule">  PFS Events, n (%)</td>
+                           <td styleCode="Rrule">217 (63%)</td>
+                           <td styleCode="Rrule">112 (65%)</td>
+                        </tr>
+                        <tr styleCode="Botrule">
+                           <td styleCode="Lrule Rrule">    Disease progression</td>
+                           <td styleCode="Rrule">204</td>
+                           <td styleCode="Rrule">109</td>
+                        </tr>
+                        <tr styleCode="Botrule">
+                           <td styleCode="Lrule Rrule">    Death</td>
+                           <td styleCode="Rrule">13</td>
+                           <td styleCode="Rrule">3</td>
+                        </tr>
+                        <tr styleCode="Botrule">
+                           <td styleCode="Lrule Rrule">  Median (95% CI) (months)</td>
+                           <td styleCode="Rrule">4.2 (3.0, 4.8)</td>
+                           <td styleCode="Rrule">1.5 (1.5, 2.6)</td>
+                        </tr>
+                        <tr styleCode="Botrule">
+                           <td styleCode="Lrule Rrule">  HR (95% CI)<footnote ID="ft4.1">Cox proportional hazards model with treatment group as the only covariate.</footnote>
+                           </td>
+                           <td styleCode="Rrule" colspan="2">0.55 (0.44, 0.70)</td>
+                        </tr>
+                        <tr styleCode="Botrule">
+                           <td styleCode="Lrule Rrule">p-value<footnote ID="ft4.2">Unstratified log rank test.</footnote>
+                           </td>
+                           <td styleCode="Rrule" colspan="2">&lt;0.001</td>
+                        </tr>
+                        <tr styleCode="Botrule">
+                           <td styleCode="Lrule Rrule">
+                              <content styleCode="bold">Overall survival<footnote>Based on 384 patients randomized to YONDELIS arm and 193 patients randomized to dacarbazine.</footnote>
+                              </content>
+                           </td>
+                           <td styleCode="Rrule" colspan="2"/>
+                        </tr>
+                        <tr styleCode="Botrule">
+                           <td styleCode="Lrule Rrule">  Events, n (%)</td>
+                           <td styleCode="Rrule">258 (67%)</td>
+                           <td styleCode="Rrule">123 (64%)</td>
+                        </tr>
+                        <tr styleCode="Botrule">
+                           <td styleCode="Lrule Rrule">  Median (95% CI) (months)</td>
+                           <td styleCode="Rrule">13.7 (12.2, 16.0)</td>
+                           <td styleCode="Rrule">13.1 (9.1, 16.2)</td>
+                        </tr>
+                        <tr styleCode="Botrule">
+                           <td styleCode="Lrule Rrule">  HR (95% CI)<footnoteRef IDREF="ft4.1"/>
+                           </td>
+                           <td styleCode="Rrule" colspan="2">0.93 (0.75, 1.15)</td>
+                        </tr>
+                        <tr styleCode="Botrule">
+                           <td styleCode="Lrule Rrule">  p-value<footnoteRef IDREF="ft4.2"/>
+                           </td>
+                           <td styleCode="Rrule" colspan="2">0.49</td>
+                        </tr>
+                        <tr styleCode="Botrule">
+                           <td styleCode="Lrule Rrule" colspan="3">
+                              <content styleCode="bold">Objective Response Rate (ORR: CR+PR)</content>
+                           </td>
+                        </tr>
+                        <tr styleCode="Botrule">
+                           <td styleCode="Lrule Rrule">  Number of patients (%)</td>
+                           <td styleCode="Rrule">23 (7%)</td>
+                           <td styleCode="Rrule">10 (6%)</td>
+                        </tr>
+                        <tr styleCode="Botrule">
+                           <td styleCode="Lrule Rrule">  95% CI<footnote>Fisher's exact CI.</footnote>
+                           </td>
+                           <td styleCode="Rrule">(4.3, 9.8)</td>
+                           <td styleCode="Rrule">(2.8, 10.4)</td>
+                        </tr>
+                        <tr styleCode="Botrule">
+                           <td styleCode="Lrule Rrule" colspan="3">
+                              <content styleCode="bold">Duration of Response (CR+ PR)</content>
+                           </td>
+                        </tr>
+                        <tr styleCode="Botrule">
+                           <td styleCode="Lrule Rrule">  Median (95% CI) (months)</td>
+                           <td styleCode="Rrule">6.9 (4.5, 7.6)</td>
+                           <td styleCode="Rrule">4.2 (2.9, NE)</td>
+                        </tr>
+                     </tbody>
+                  </table>
+                  <paragraph>
+                     <content styleCode="bold">Figure 1: Kaplan-Meier Curves of Progression-Free Survival in Trial ET743-SAR-3007</content>
+                  </paragraph>
+                  <paragraph>
+                     <renderMultiMedia referencedObject="MM2"/>
+                  </paragraph>
+               </text>
+               <effectiveTime value="20181231"/>
+               <component>
+                  <observationMedia ID="MM2">
+                     <text>Figure 1</text>
+                     <value xsi:type="ED" mediaType="image/jpeg">
+                        <reference value="yondelis-02.jpg"/>
+                     </value>
+                  </observationMedia>
+               </component>
+            </section>
+         </component>
+         <component>
+            <section ID="S15">
+               <id root="0abc49a9-195c-4568-90e0-4e1e3e0ba010"/>
+               <code code="34093-5" codeSystem="2.16.840.1.113883.6.1" displayName="REFERENCES SECTION"/>
+               <title>15 REFERENCES</title>
+               <text>
+                  <list>
+                     <item>
+                        <caption>1.</caption>"OSHA Hazardous Drugs." <content styleCode="italics">OSHA. </content>http://www.osha.gov/SLTC/hazardousdrugs/index.html</item>
+                  </list>
+               </text>
+               <effectiveTime value="20181231"/>
+            </section>
+         </component>
+         <component>
+            <section ID="S16">
+               <id root="d4d795b6-6394-11ea-9c32-9547fc2ca371"/>
+               <code code="34069-5" codeSystem="2.16.840.1.113883.6.1" displayName="HOW SUPPLIED SECTION"/>
+               <title>16 HOW SUPPLIED/STORAGE AND HANDLING</title>
+               <text>
+                  <paragraph>YONDELIS is supplied in a single-dose glass vial containing 1 mg trabectedin. Each carton contains one vial (NDC: 59676-610-01).</paragraph>
+               </text>
+               <effectiveTime value="20200616"/>
+               <component>
+                  <section>
+                     <id root="5aadffd9-5ec8-48af-b2bb-40239a503881"/>
+                     <code code="44425-7" codeSystem="2.16.840.1.113883.6.1" displayName="STORAGE AND HANDLING SECTION"/>
+                     <text>
+                        <paragraph>
+                           <content styleCode="underline">Storage and Handling</content>
+                        </paragraph>
+                        <paragraph>Store YONDELIS vials in a refrigerator at 2°C to 8°C (36°F to 46°F).</paragraph>
+                        <paragraph>YONDELIS is a cytotoxic drug. Follow applicable special handling and disposal procedures.<sup>1</sup>
+                        </paragraph>
+                     </text>
+                     <effectiveTime value="20181231"/>
+                  </section>
+               </component>
+            </section>
+         </component>
+         <component>
+            <section ID="S17">
+               <id root="f09af0d7-a381-4d7d-96be-aa18d7b006ec"/>
+               <code code="34076-0" codeSystem="2.16.840.1.113883.6.1" displayName="INFORMATION FOR PATIENTS SECTION"/>
+               <title>17 PATIENT COUNSELING INFORMATION</title>
+               <text>
+                  <paragraph>Advise the patient to read the FDA-approved patient labeling (Patient Information).</paragraph>
+               </text>
+               <effectiveTime value="20181231"/>
+               <component>
+                  <section>
+                     <id root="83c01ecb-cfd6-4646-bdf6-4701b3b79b98"/>
+                     <code code="42229-5" codeSystem="2.16.840.1.113883.6.1" displayName="SPL UNCLASSIFIED SECTION"/>
+                     <text>
+                        <paragraph>
+                           <content styleCode="underline">Myelosuppression</content>: Inform patients of the risks of myelosuppression. Instruct patients to immediately contact their healthcare provider for fever or unusual bruising, bleeding, tiredness, or paleness.</paragraph>
+                     </text>
+                     <effectiveTime value="20181231"/>
+                  </section>
+               </component>
+               <component>
+                  <section>
+                     <id root="73edb930-415f-4cac-9b38-67c2274b629f"/>
+                     <code code="42229-5" codeSystem="2.16.840.1.113883.6.1" displayName="SPL UNCLASSIFIED SECTION"/>
+                     <text>
+                        <paragraph>
+                           <content styleCode="underline">Rhabdomyolysis</content>: Advise patients to contact their healthcare provider if they experience severe muscle pain or weakness.</paragraph>
+                     </text>
+                     <effectiveTime value="20181231"/>
+                  </section>
+               </component>
+               <component>
+                  <section>
+                     <id root="026c5ad6-6344-4e0f-aac7-e6522f52cab4"/>
+                     <code code="42229-5" codeSystem="2.16.840.1.113883.6.1" displayName="SPL UNCLASSIFIED SECTION"/>
+                     <text>
+                        <paragraph>
+                           <content styleCode="underline">Hepatotoxicity</content>: Advise patients to contact their healthcare provider immediately for yellowing of skin and eyes (jaundice), pain in the upper right quadrant, severe nausea or vomiting, difficulty in concentrating, disorientation, or confusion.</paragraph>
+                     </text>
+                     <effectiveTime value="20181231"/>
+                  </section>
+               </component>
+               <component>
+                  <section>
+                     <id root="c7835e7c-9f1d-4a60-8565-cc84556c7b5c"/>
+                     <code code="42229-5" codeSystem="2.16.840.1.113883.6.1" displayName="SPL UNCLASSIFIED SECTION"/>
+                     <text>
+                        <paragraph>
+                           <content styleCode="underline">Cardiomyopathy</content>: Advise patients to contact their healthcare provider for new onset chest pain, shortness of breath, fatigue, lower extremity edema, or heart palpitations.</paragraph>
+                     </text>
+                     <effectiveTime value="20181231"/>
+                  </section>
+               </component>
+               <component>
+                  <section>
+                     <id root="1be76cce-99a4-4b71-a8cf-eaa3b19fb041"/>
+                     <code code="42229-5" codeSystem="2.16.840.1.113883.6.1" displayName="SPL UNCLASSIFIED SECTION"/>
+                     <text>
+                        <paragraph>
+                           <content styleCode="underline">Hypersensitivity</content>: Advise patients to seek immediate medical attention for symptoms of allergic reactions including difficulty breathing, chest tightness, wheezing, severe dizziness or light-headedness, swelling of the lips or skin rash.</paragraph>
+                     </text>
+                     <effectiveTime value="20181231"/>
+                  </section>
+               </component>
+               <component>
+                  <section>
+                     <id root="93e714c2-26af-4b8d-b002-3450f5a4342c"/>
+                     <code code="42229-5" codeSystem="2.16.840.1.113883.6.1" displayName="SPL UNCLASSIFIED SECTION"/>
+                     <text>
+                        <paragraph>
+                           <content styleCode="underline">Extravasation</content>: Inform patients of the risks of extravasation and to notify their healthcare provider for redness, swelling, itchiness and discomfort or leakage at the injection site.</paragraph>
+                     </text>
+                     <effectiveTime value="20181231"/>
+                  </section>
+               </component>
+               <component>
+                  <section>
+                     <id root="d98ff987-b300-40d8-abb2-1c4046582c52"/>
+                     <code code="42229-5" codeSystem="2.16.840.1.113883.6.1" displayName="SPL UNCLASSIFIED SECTION"/>
+                     <text>
+                        <paragraph>
+                           <content styleCode="underline">Capillary leak syndrome</content>: Advise patients to report symptoms such as edema with or without hypotension <content styleCode="italics">[see <linkHtml href="#S5.5">Warnings and Precautions (5.5)</linkHtml>]</content>.</paragraph>
+                     </text>
+                     <effectiveTime value="20181231"/>
+                  </section>
+               </component>
+               <component>
+                  <section>
+                     <id root="48053258-b0eb-4272-9ab2-23b45f0c3c7b"/>
+                     <code code="42229-5" codeSystem="2.16.840.1.113883.6.1" displayName="SPL UNCLASSIFIED SECTION"/>
+                     <text>
+                        <paragraph>
+                           <content styleCode="underline">Embryofetal toxicity</content>: Advise pregnant women of the potential risk to a fetus. Advise females to contact their healthcare provider if they become pregnant, or if pregnancy is suspected, during treatment with YONDELIS <content styleCode="italics">[see <linkHtml href="#S5.7">Warnings and Precautions (5.7)</linkHtml>	 and <linkHtml href="#S8.1">Use in Specific Populations (8.1)</linkHtml>]</content>.</paragraph>
+                     </text>
+                     <effectiveTime value="20181231"/>
+                  </section>
+               </component>
+               <component>
+                  <section>
+                     <id root="fbedc3fc-bbb8-4b1c-a306-19463dffefea"/>
+                     <code code="42229-5" codeSystem="2.16.840.1.113883.6.1" displayName="SPL UNCLASSIFIED SECTION"/>
+                     <text>
+                        <paragraph>
+                           <content styleCode="underline">Females and males of reproductive potential</content>: Advise females of reproductive potential to use effective contraception during treatment with YONDELIS and for at least 2 months after last dose. Advise males with female partners of reproductive potential to use effective contraception during treatment with YONDELIS and for at least 5 months after the last dose <content styleCode="italics">[see <linkHtml href="#S5.7">Warnings and Precautions (5.7)</linkHtml> and <linkHtml href="#S8.3">Use in Specific Populations (8.3)</linkHtml>]</content>.</paragraph>
+                     </text>
+                     <effectiveTime value="20181231"/>
+                  </section>
+               </component>
+               <component>
+                  <section>
+                     <id root="84f2288b-4e28-4e80-9aa9-b6e520fd5947"/>
+                     <code code="42229-5" codeSystem="2.16.840.1.113883.6.1" displayName="SPL UNCLASSIFIED SECTION"/>
+                     <text>
+                        <paragraph>
+                           <content styleCode="underline">Lactation</content>: Advise females not to breastfeed during treatment with YONDELIS <content styleCode="italics">[see <linkHtml href="#S8.2">Use in Specific Populations (8.2)</linkHtml>]</content>.</paragraph>
+                     </text>
+                     <effectiveTime value="20181231"/>
+                  </section>
+               </component>
+            </section>
+         </component>
+         <component>
+            <section>
+               <id root="4d6d1469-6ac9-4cbc-a353-7fca86f7deb6"/>
+               <code code="42229-5" codeSystem="2.16.840.1.113883.6.1" displayName="SPL UNCLASSIFIED SECTION"/>
+               <text>
+                  <paragraph>Product of Spain</paragraph>
+                  <paragraph>Manufactured by: <br/>Baxter Oncology GmbH <br/>Halle/Westfalen Germany</paragraph>
+                  <paragraph>Manufactured for: <br/>Janssen Products, LP <br/>Horsham, PA</paragraph>
+                  <paragraph>© 2015 Janssen Pharmaceutical Companies</paragraph>
+                  <paragraph>Under license from Pharma Mar, S.A.</paragraph>
+               </text>
+               <effectiveTime value="20181231"/>
+            </section>
+         </component>
+         <component>
+            <section>
+               <id root="c267719e-7ea8-11e8-b1cc-c49e9d46d017"/>
+               <code code="42230-3" codeSystem="2.16.840.1.113883.6.1" displayName="SPL PATIENT PACKAGE INSERT SECTION"/>
+               <text>
+                  <table width="100%">
+                     <col width="2%" align="left" valign="top"/>
+                     <col width="53%" align="left" valign="top"/>
+                     <col width="45%" align="left" valign="top"/>
+                     <thead>
+                        <tr>
+                           <th colspan="3" align="center" styleCode="Lrule Rrule">PATIENT INFORMATION<br/>YONDELIS<sup>®</sup> (yon-DEL-ess)<br/>(trabectedin)<br/>for injection</th>
+                        </tr>
+                     </thead>
+                     <tfoot>
+                        <tr>
+                           <td align="left" colspan="2">This Patient Information has been approved by the U.S. Food and Drug Administration.</td>
+                           <td align="right">Revised 12/2017     </td>
+                        </tr>
+                     </tfoot>
+                     <tbody>
+                        <tr styleCode="Botrule">
+                           <td styleCode="Lrule Rrule" colspan="3">
+                              <content styleCode="bold">What is YONDELIS?</content>
+                              <br/>YONDELIS is a prescription medicine used to treat people with liposarcoma or leiomyosarcoma that:<list listType="unordered" styleCode="Disc">
+                                 <item>cannot be treated with surgery or has spread to other areas of the body, <content styleCode="bold">and</content>
+                                 </item>
+                                 <item>who have received treatment with certain other medicines.</item>
+                              </list>								  It is not known if YONDELIS is safe and effective in children.</td>
+                        </tr>
+                        <tr styleCode="Botrule">
+                           <td styleCode="Lrule Rrule" colspan="3">
+                              <content styleCode="bold">Who should not receive YONDELIS?</content>
+                              <list>
+                                 <item>You will not be given YONDELIS if you have had a severe allergic reaction to trabectedin, the active ingredient in YONDELIS. See the end of this leaflet for a complete list of ingredients in YONDELIS.</item>
+                              </list>
+                           </td>
+                        </tr>
+                        <tr styleCode="Botrule">
+                           <td styleCode="Lrule Rrule" colspan="3">
+                              <content styleCode="bold">What should I tell my healthcare provider before receiving YONDELIS? Before receiving YONDELIS, tell your healthcare provider about all of your medical conditions, including if you:</content>
+                              <list listType="unordered" styleCode="Disc">
+                                 <item>have liver or kidney problems</item>
+                                 <item>are pregnant or plan to become pregnant. YONDELIS can harm your unborn baby. You should not become pregnant during treatment with YONDELIS.<list listType="unordered" styleCode="Circle">
+                                       <item>
+                                          <content styleCode="bold">Females</content> who are able to become pregnant should use an effective form of birth control during treatment with YONDELIS and for 2 months after your last dose of YONDELIS.</item>
+                                       <item>
+                                          <content styleCode="bold">Males</content> should use an effective form of birth control when having sex with female partners who are able to become pregnant, during your treatment with YONDELIS and for 5 months after your last dose of YONDELIS.</item>
+                                    </list>
+                                 </item>
+                                 <item>are breastfeeding or plan to breastfeed. It is not known if YONDELIS passes into your breast milk.</item>
+                              </list>You should not breastfeed during treatment with YONDELIS.<br/>
+                              <content styleCode="bold">Tell your healthcare provider about all the medicines you take</content>, including prescription and over-the-counter medicines, vitamins, and herbal supplements.</td>
+                        </tr>
+                        <tr styleCode="Botrule">
+                           <td styleCode="Lrule Rrule" colspan="3">
+                              <content styleCode="bold">How will I receive YONDELIS?</content>
+                              <list listType="unordered" styleCode="Disc">
+                                 <item>YONDELIS is given by an intravenous (IV) infusion into a vein over 24 hours. To help avoid irritation at the site where it is infused, YONDELIS is given to you into a large vein through a type of IV line called a central venous line.</item>
+                                 <item>YONDELIS is usually given every 3 weeks.</item>
+                                 <item>Your healthcare provider may decrease your dose or delay doses if you have certain side effects. If you have any side effects that are severe, your healthcare provider may stop your treatment with YONDELIS.</item>
+                                 <item>Before each treatment with YONDELIS, you will receive a steroid medicine to help reduce your risk of getting certain side effects. </item>
+                                 <item>Your healthcare provider will decide how long you will continue treatment with YONDELIS.</item>
+                                 <item>Your healthcare provider may do certain tests while you are receiving YONDELIS to check you for side effects, and to see how well you respond to the treatment.</item>
+                              </list>
+                           </td>
+                        </tr>
+                        <tr>
+                           <td styleCode="Lrule Rrule" colspan="3">
+                              <content styleCode="bold">What are the possible side effects of YONDELIS?<br/>YONDELIS may cause serious side effects, including</content>:<list listType="unordered" styleCode="Disc">
+                                 <item>
+                                    <content styleCode="bold">Severe infections due to decreased white blood cells. Decreased low white blood cell count is common with YONDELIS, but it can also lead to severe infections and death.</content> Your healthcare provider may need to decrease your dose of YONDELIS, delay or stop your treatment, if your white blood cell count is too low or you get a serious infection. Call your healthcare provider right away if you develop fever or other signs of infection.</item>
+                                 <item>
+                                    <content styleCode="bold">Severe muscle problems (rhabdomyolysis).</content> YONDELIS can cause muscle problems that can be severe and lead to death. Tell your healthcare provider right away if you have severe muscle pain or weakness.</item>
+                                 <item>
+                                    <content styleCode="bold">Liver problems, including liver failure</content>. Tell your healthcare provider right away if you get:</item>
+                              </list>
+                           </td>
+                        </tr>
+                        <tr>
+                           <td styleCode="Lrule"/>
+                           <td>
+                              <list listType="unordered" styleCode="Disc">
+                                 <item>yellowing of your skin and whites of your eyes</item>
+                                 <item>pain in your upper right stomach-area (abdomen)</item>
+                                 <item>nausea</item>
+                                 <item>vomiting</item>
+                              </list>
+                           </td>
+                           <td styleCode="Rrule">
+                              <list listType="unordered" styleCode="Disc">
+                                 <item>generally do not feel well</item>
+                                 <item>problem with concentration</item>
+                                 <item>confusion</item>
+                                 <item>sleepiness</item>
+                              </list>
+                           </td>
+                        </tr>
+                        <tr>
+                           <td styleCode="Lrule Rrule" colspan="3">
+                              <list listType="unordered" styleCode="Disc">
+                                 <item>
+                                    <content styleCode="bold">Heart muscle problems, including heart failure.</content> Your healthcare provider will do a test to check your heart function before you start YONDELIS, and during treatment. If you develop heart muscle problems or heart failure during treatment with YONDELIS, your healthcare provider may stop your treatment. Tell your healthcare provider right away if you develop new chest pain, shortness of breath, tiredness, swelling of your legs, ankles, or feet, or heart palpitations.</item>
+                                 <item>
+                                    <content styleCode="bold">Leakage of YONDELIS out of your vein during the infusion.</content> If YONDELIS leaks into the tissues around your infusion site, it can cause damage and death of tissue cells around the infusion site. You may need to have surgery to remove any dead tissue. Tell your healthcare provider right away if you see any YONDELIS leaking out of your vein or around the catheter during your infusion, or if you notice any redness, swelling, itching or discomfort at the infusion site at any time.</item>
+                                 <item>Some people have had allergic reactions to YONDELIS. Some of these reactions were severe. Your healthcare provider may need to stop your treatment with YONDELIS, and may give you medicines to treat the allergic reaction. <content styleCode="bold">Signs of an allergic reaction</content> can include: difficulty breathing, chest tightness, wheezing, swelling of the lips, or skin rash.</item>
+                                 <item>
+                                    <content styleCode="bold">Capillary leak syndrome.</content> YONDELIS can cause fluid to leak from the blood vessels into the body's tissues. This condition is called "Capillary Leak Syndrome" (CLS). CLS can cause you to have symptoms that may lead to death. Tell your healthcare provider right away if you develop swelling, dizziness or lightheadedness with or without a sudden drop in blood pressure.</item>
+                              </list>
+                              <content styleCode="bold">The most common side effects of YONDELIS include</content>:</td>
+                        </tr>
+                        <tr>
+                           <td styleCode="Lrule" colspan="2">
+                              <list listType="unordered" styleCode="Disc">
+                                 <item>nausea</item>
+                                 <item>tiredness</item>
+                                 <item>vomiting</item>
+                                 <item>constipation</item>
+                                 <item>decreased appetite</item>
+                                 <item>diarrhea</item>
+                                 <item>swelling of your hands, ankles, or feet</item>
+                              </list>
+                           </td>
+                           <td styleCode="Rrule">
+                              <list listType="unordered" styleCode="Disc">
+                                 <item>shortness of breath</item>
+                                 <item>headache</item>
+                                 <item>decreased red cell count (cells which carry oxygen in the blood). Tell your healthcare provider if you feel more tired than usual or look pale.</item>
+                                 <item>decreased platelet cell counts (cells which help blood to clot). Tell your healthcare provider if you bruise easily or have bleeding.</item>
+                                 <item>changes in liver and kidney function blood tests</item>
+                              </list>
+                           </td>
+                        </tr>
+                        <tr styleCode="Botrule">
+                           <td styleCode="Lrule Rrule" colspan="3">Tell your healthcare provider if you have any side effect that bothers you or that does not go away.<br/>These are not all the possible side effects of YONDELIS. Call your doctor for medical advice about side effects. You may report side effects to FDA at 1-800-FDA-1088.</td>
+                        </tr>
+                        <tr styleCode="Botrule">
+                           <td styleCode="Lrule Rrule" colspan="3">
+                              <content styleCode="bold">General information about the safe and effective use of YONDELIS</content>
+                              <br/>Medicines are sometimes prescribed for purposes other than those listed in a Patient Information leaflet. You can ask your healthcare provider or pharmacist for information about YONDELIS that is written for health professionals.</td>
+                        </tr>
+                        <tr>
+                           <td styleCode="Lrule Rrule" colspan="3">
+                              <content styleCode="bold">What are the ingredients in YONDELIS?<br/>Active ingredient</content>: trabectedin<br/>
+                              <content styleCode="bold">Inactive ingredients</content>: potassium dihydrogen phosphate, sucrose, phosphoric acid and potassium hydroxide.<br/>Product of Spain<br/>									Manufactured by: Baxter Oncology GmbH, Halle/Westfalen Germany<br/>									Manufactured for: Janssen Products, LP, Horsham, PA<br/>									For more information, call 1-800-526-7736 or go to www.YONDELIS.com. 								  </td>
+                        </tr>
+                     </tbody>
+                  </table>
+               </text>
+               <effectiveTime value="20190213"/>
+            </section>
+         </component>
+         <component>
+            <section>
+               <id root="84fe3c38-639a-11ea-9849-7434fc2ca371"/>
+               <code code="51945-4" codeSystem="2.16.840.1.113883.6.1" displayName="PACKAGE LABEL.PRINCIPAL DISPLAY PANEL"/>
+               <title>PRINCIPAL DISPLAY PANEL - 1 Vial Carton</title>
+               <text>
+                  <paragraph>
+                     <content styleCode="bold">NDC 59676-610-01</content>
+                  </paragraph>
+                  <paragraph>
+                     <content styleCode="bold">Yondelis<sup>®</sup>
+                     </content>
+                     <br/>(trabectedin)</paragraph>
+                  <paragraph>for Injection</paragraph>
+                  <paragraph>
+                     <content styleCode="bold">1 mg per vial</content>
+                  </paragraph>
+                  <paragraph>
+                     <content styleCode="bold">For Intravenous Infusion Only</content>
+                  </paragraph>
+                  <paragraph>Reconstitute before further dilution</paragraph>
+                  <paragraph>Each vial contains 1 mg of trabectedin as a<br/>sterile lyophilized powder.</paragraph>
+                  <paragraph>
+                     <content styleCode="bold">Rx only</content>
+                  </paragraph>
+                  <paragraph>Single-dose vial<br/>Discard any unused portion</paragraph>
+                  <paragraph>
+                     <content styleCode="bold">Cytotoxic</content>
+                  </paragraph>
+                  <renderMultiMedia referencedObject="MM3"/>
+               </text>
+               <effectiveTime value="20200922"/>
+               <component>
+                  <observationMedia ID="MM3">
+                     <text>PRINCIPAL DISPLAY PANEL - 1 Vial Carton</text>
+                     <value xsi:type="ED" mediaType="image/jpeg">
+                        <reference value="yondelis-03.jpg"/>
+                     </value>
+                  </observationMedia>
+               </component>
+            </section>
+         </component>
+      </structuredBody>
+   </component>
+</document>

@@ -1,0 +1,1131 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet href="https://www.accessdata.fda.gov/spl/stylesheet/spl.xsl" type="text/xsl"?>
+<document xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:hl7-org:v3 https://www.accessdata.fda.gov/spl/schema/spl.xsd">
+   <id root="8c7a8949-b407-41ab-b2e3-88c83b6a9213"/>
+   <code code="34391-3" codeSystem="2.16.840.1.113883.6.1" displayName="HUMAN PRESCRIPTION DRUG LABEL"/>
+   <title>
+      <content styleCode="bold">These highlights do not include all the information needed to use </content>
+      <content styleCode="bold">VIMIZIM</content>
+      <content styleCode="bold"> safely and effectively. See full prescribing information for </content>
+      <content styleCode="bold">VIMIZIM</content>
+      <content styleCode="bold">.<br/>
+         <br/>
+         <content styleCode="bold">VIMIZIM (elosulfase alfa) injection, for intravenous use<br/>
+         </content>
+         <content styleCode="bold">Initial U.S. Approval: </content>
+         <content styleCode="bold">2014</content>
+      </content>
+   </title>
+   <effectiveTime value="20210121"/>
+   <setId root="0caa2565-12b2-0ad0-1f9a-273e81c3d4cc"/>
+   <versionNumber value="35"/>
+   <author>
+      <time/>
+      <assignedEntity>
+         <representedOrganization>
+            <id extension="079722386" root="1.3.6.1.4.1.519.1"/>
+            <name>BioMarin Pharmaceutical Inc.</name>
+            <assignedEntity>
+               <assignedOrganization/>
+            </assignedEntity>
+         </representedOrganization>
+      </assignedEntity>
+   </author>
+   <component>
+      <structuredBody>
+         <component>
+            <section ID="DLDE">
+               <id root="98d815ce-a07c-4a4c-8f23-62879ffb5baa"/>
+               <code code="48780-1" codeSystem="2.16.840.1.113883.6.1" displayName="SPL PRODUCT DATA ELEMENTS SECTION"/>
+               <effectiveTime value="20210121"/>
+               <subject>
+                  <manufacturedProduct>
+                     <manufacturedProduct>
+                        <code code="68135-100" codeSystem="2.16.840.1.113883.6.69"/>
+                        <name>VIMIZIM</name>
+                        <formCode code="C42899" codeSystem="2.16.840.1.113883.3.26.1.1" displayName="INJECTION, SOLUTION, CONCENTRATE"/>
+                        <asEntityWithGeneric>
+                           <genericMedicine>
+                              <name>elosulfase alfa</name>
+                           </genericMedicine>
+                        </asEntityWithGeneric>
+                        <ingredient classCode="ACTIB">
+                           <quantity>
+                              <numerator value="5" unit="mg"/>
+                              <denominator value="5" unit="mL"/>
+                           </quantity>
+                           <ingredientSubstance>
+                              <code code="ODJ69JZG85" codeSystem="2.16.840.1.113883.4.9"/>
+                              <name>ELOSULFASE ALFA</name>
+                              <activeMoiety>
+                                 <activeMoiety>
+                                    <code code="ODJ69JZG85" codeSystem="2.16.840.1.113883.4.9"/>
+                                    <name>ELOSULFASE ALFA</name>
+                                 </activeMoiety>
+                              </activeMoiety>
+                           </ingredientSubstance>
+                        </ingredient>
+                        <asContent>
+                           <quantity>
+                              <numerator value="5" unit="mL"/>
+                              <denominator value="1"/>
+                           </quantity>
+                           <containerPackagedProduct>
+                              <code/>
+                              <formCode code="C43226" codeSystem="2.16.840.1.113883.3.26.1.1" displayName="VIAL"/>
+                              <asContent>
+                                 <quantity>
+                                    <numerator value="1" unit="1"/>
+                                    <denominator value="1"/>
+                                 </quantity>
+                                 <containerPackagedProduct>
+                                    <code code="68135-100-01" codeSystem="2.16.840.1.113883.6.69"/>
+                                    <formCode code="C43182" codeSystem="2.16.840.1.113883.3.26.1.1" displayName="CARTON"/>
+                                 </containerPackagedProduct>
+                                 <subjectOf>
+                                    <marketingAct>
+                                       <code code="C53292" codeSystem="2.16.840.1.113883.3.26.1.1"/>
+                                       <statusCode code="active"/>
+                                       <effectiveTime>
+                                          <low value="20140214"/>
+                                       </effectiveTime>
+                                    </marketingAct>
+                                 </subjectOf>
+                              </asContent>
+                           </containerPackagedProduct>
+                           <subjectOf>
+                              <characteristic>
+                                 <code code="SPLCMBPRDTP" codeSystem="2.16.840.1.113883.1.11.19255"/>
+                                 <value code="C112160" codeSystem="2.16.840.1.113883.3.26.1.1" displayName="Type 0: Not a Combination Product" xsi:type="CV"/>
+                              </characteristic>
+                           </subjectOf>
+                        </asContent>
+                     </manufacturedProduct>
+                     <subjectOf>
+                        <approval>
+                           <id extension="BLA125460" root="2.16.840.1.113883.3.150"/>
+                           <code code="C73585" codeSystem="2.16.840.1.113883.3.26.1.1" displayName="BLA"/>
+                           <author>
+                              <territorialAuthority>
+                                 <territory>
+                                    <code code="USA" codeSystem="2.16.840.1.113883.5.28"/>
+                                 </territory>
+                              </territorialAuthority>
+                           </author>
+                        </approval>
+                     </subjectOf>
+                     <subjectOf>
+                        <marketingAct>
+                           <code code="C53292" codeSystem="2.16.840.1.113883.3.26.1.1"/>
+                           <statusCode code="active"/>
+                           <effectiveTime>
+                              <low value="20140214"/>
+                           </effectiveTime>
+                        </marketingAct>
+                     </subjectOf>
+                     <consumedIn>
+                        <substanceAdministration>
+                           <routeCode code="C38276" codeSystem="2.16.840.1.113883.3.26.1.1" displayName="INTRAVENOUS"/>
+                        </substanceAdministration>
+                     </consumedIn>
+                  </manufacturedProduct>
+               </subject>
+            </section>
+         </component>
+         <component>
+            <section ID="LINK_ebfec075-1832-4cd6-a49e-b4a4875d4d9b">
+               <id root="2f2fac75-4503-4658-a7ea-35c82d8b8342"/>
+               <code code="34066-1" codeSystem="2.16.840.1.113883.6.1" displayName="BOXED WARNING SECTION"/>
+               <title>
+                  <content styleCode="bold">WARNING: RISK OF ANAPHYLAXIS</content>
+               </title>
+               <text>
+                  <list listType="unordered" styleCode="Disk">
+                     <item>
+                        <content styleCode="bold">Life-threatening anaphylactic reactions have occurred in some patients during Vimizim infusions. Anaphylaxis, presenting as cough, erythema, throat tightness, urticaria, flushing, cyanosis, hypotension, rash, dyspnea, chest discomfort, and gastrointestinal symptoms (e.g., nausea, abdominal pain, retching, and vomiting) in conjunction with urticaria, have been reported to occur during Vimizim infusions, regardless of duration of the course of treatment. </content>
+                     </item>
+                     <item>
+                        <content styleCode="bold">Closely observe patients during and after Vimizim administration and be prepared to manage anaphylaxis. Inform patients of the signs and symptoms of anaphylaxis and have them seek immediate medical care should symptoms occur.  </content>
+                     </item>
+                     <item>
+                        <content styleCode="bold">Patients with acute respiratory illness may be at risk of serious acute exacerbation of their respiratory compromise due to hypersensitivity reactions, and require additional monitoring <content styleCode="italics">[see Warnings and Precautions (<linkHtml href="#LINK_f26e1ef7-ba4f-46c9-95be-cc670a147791">5.1</linkHtml>, <linkHtml href="#LINK_48192839-a126-4e4f-b1a8-d7228a7b7acc">5.2</linkHtml>) and Adverse Reactions (<linkHtml href="#LINK_bb16aa2c-b79b-4c25-bc83-fde9a8a4abe8">6</linkHtml>)]</content>.</content>
+                     </item>
+                  </list>
+               </text>
+               <effectiveTime value="20191211"/>
+               <excerpt>
+                  <highlight>
+                     <text>
+                        <paragraph>
+                           <content styleCode="bold">WARNING: RISK OF ANAPHYLAXIS</content>
+                        </paragraph>
+                        <paragraph>
+                           <content styleCode="bold">
+                              <content styleCode="italics">See full prescribing information for complete boxed warning</content>
+                           </content>.</paragraph>
+                        <list listType="unordered" styleCode="Disk">
+                           <item>
+                              <content styleCode="bold">Life-threatening anaphylactic reactions have occurred in some patients during Vimizim infusions. Anaphylaxis, presenting as cough, erythema, throat tightness, urticaria, flushing, cyanosis, hypotension, rash, dyspnea, chest discomfort, and gastrointestinal symptoms in conjunction with urticaria, have been reported to occur during infusions, regardless of duration of the course of treatment. </content>
+                           </item>
+                           <item>
+                              <content styleCode="bold">Closely observe patients during and after Vimizim administration and be prepared to manage anaphylaxis. Inform patients of the signs and symptoms of anaphylaxis and have them seek immediate medical care should symptoms occur.  </content>
+                           </item>
+                           <item>
+                              <content styleCode="bold">Patients with acute respiratory illness may be at risk of serious acute exacerbation of their respiratory compromise due to hypersensitivity reactions, and require additional </content>
+                              <content styleCode="bold">monitoring (</content>
+                              <content styleCode="bold">
+                                 <linkHtml href="#LINK_f26e1ef7-ba4f-46c9-95be-cc670a147791">5.1</linkHtml>
+                              </content>
+                              <content styleCode="bold">, </content>
+                              <content styleCode="bold">
+                                 <linkHtml href="#LINK_48192839-a126-4e4f-b1a8-d7228a7b7acc">5.2</linkHtml>
+                              </content>
+                              <content styleCode="bold">, </content>
+                              <content styleCode="bold">
+                                 <linkHtml href="#LINK_bb16aa2c-b79b-4c25-bc83-fde9a8a4abe8">6</linkHtml>
+                              </content>
+                              <content styleCode="bold">).</content>
+                           </item>
+                        </list>
+                     </text>
+                  </highlight>
+               </excerpt>
+            </section>
+         </component>
+         <component>
+            <section ID="LINK_a53e0ce8-0509-4b10-96fe-b9a203015818">
+               <id root="8e2548f4-e26e-45ca-b7ff-cb1c504ee83a"/>
+               <code code="34067-9" codeSystem="2.16.840.1.113883.6.1" displayName="INDICATIONS &amp; USAGE SECTION"/>
+               <title>1 INDICATIONS AND USAGE</title>
+               <text>
+                  <paragraph>Vimizim (elosulfase alfa) is indicated for patients with Mucopolysaccharidosis type IVA (MPS IVA; Morquio A syndrome).</paragraph>
+               </text>
+               <effectiveTime value="20191211"/>
+               <excerpt>
+                  <highlight>
+                     <text>
+                        <paragraph>Vimizim is a hydrolytic lysosomal glycosaminoglycan (GAG)-specific enzyme indicated for patients with Mucopolysaccharidosis type IVA (MPS IVA; Morquio A syndrome) (<linkHtml href="#LINK_a53e0ce8-0509-4b10-96fe-b9a203015818">1</linkHtml>).</paragraph>
+                     </text>
+                  </highlight>
+               </excerpt>
+            </section>
+         </component>
+         <component>
+            <section ID="LINK_8a5190a4-595a-43fe-8450-d6574c50741e">
+               <id root="5dd3d73e-bab8-4c2a-a184-1e17ec70fdf2"/>
+               <code code="34068-7" codeSystem="2.16.840.1.113883.6.1" displayName="DOSAGE &amp; ADMINISTRATION SECTION"/>
+               <title>2 DOSAGE AND ADMINISTRATION</title>
+               <effectiveTime value="20191211"/>
+               <excerpt>
+                  <highlight>
+                     <text>
+                        <paragraph>2 mg per kg body weight administered once every week as an intravenous infusion over a minimum of 3.5 to 4.5 hours, based on infusion volume (<linkHtml href="#LINK_ff85f7e1-e3cb-4c5a-a9d6-ecd55bd3e2ed">2.1</linkHtml>, <linkHtml href="#LINK_4a7b3e13-1cb4-4dc2-a26a-d23f24e05c93">2.3</linkHtml>).</paragraph>
+                     </text>
+                  </highlight>
+               </excerpt>
+               <component>
+                  <section ID="LINK_ff85f7e1-e3cb-4c5a-a9d6-ecd55bd3e2ed">
+                     <id root="7f42be9b-3be5-4fc2-a274-7e2ee0dd7674"/>
+                     <code code="42229-5" codeSystem="2.16.840.1.113883.6.1" displayName="SPL UNCLASSIFIED SECTION"/>
+                     <title>2.1 Recommended Dose</title>
+                     <text>
+                        <paragraph>The recommended dose is 2 mg per kg given intravenously over a minimum range of 3.5 to 4.5 hours, based on infusion volume, once every week.  Pre-treatment with antihistamines with or without antipyretics is recommended 30 to 60 minutes prior to the start of the infusion <content styleCode="italics">[see Warnings and Precautions (</content>
+                           <content styleCode="italics">
+                              <linkHtml href="#LINK_f26e1ef7-ba4f-46c9-95be-cc670a147791">5.1</linkHtml>
+                           </content>
+                           <content styleCode="italics">)]</content>.</paragraph>
+                        <paragraph>Parenteral drug products should be inspected visually for particulate matter and discoloration prior to administration, whenever solution and container permit.</paragraph>
+                     </text>
+                     <effectiveTime value="20191211"/>
+                  </section>
+               </component>
+               <component>
+                  <section ID="LINK_ae3c8625-621d-4617-ae29-8821f00feb08">
+                     <id root="1fc90574-d35f-44a4-a8f2-4a128af092c1"/>
+                     <code code="42229-5" codeSystem="2.16.840.1.113883.6.1" displayName="SPL UNCLASSIFIED SECTION"/>
+                     <title>2.2 Preparation Instructions</title>
+                     <text>
+                        <paragraph>Important Information: This product should be prepared and administered under the supervision of a healthcare professional with the ability to manage medical emergencies.</paragraph>
+                        <paragraph>Determine the number of vials to be diluted based on the individual patient’s weight and the recommended dose of 2 mg/kg.  </paragraph>
+                        <paragraph>Dilute the calculated dose to a final volume of 100 mL or 250 mL using 0.9% Sodium Chloride Injection, USP.  </paragraph>
+                        <paragraph>The final volume is based on the patient’s weight as follows:  </paragraph>
+                        <paragraph>· For patients who weigh less than 25 kg, the final volume should be 100 mL;</paragraph>
+                        <paragraph>· For patients who weigh 25 kg or more, the final volume should be 250 mL.</paragraph>
+                        <paragraph>The solution should be clear to slightly opalescent and colorless to pale yellow when diluted.  Do not use if the solution is discolored or if there is particulate matter in the solution. Note that a diluted solution with slight flocculation (e.g., thin translucent fibers) is acceptable for administration. </paragraph>
+                        <paragraph>Avoid agitation during preparation.  Gently rotate the bag to ensure proper distribution.  Do not shake the solution.</paragraph>
+                     </text>
+                     <effectiveTime value="20191211"/>
+                  </section>
+               </component>
+               <component>
+                  <section ID="LINK_4a7b3e13-1cb4-4dc2-a26a-d23f24e05c93">
+                     <id root="fd9ee4cc-f7be-4094-a50d-88ae4591ad65"/>
+                     <code code="42229-5" codeSystem="2.16.840.1.113883.6.1" displayName="SPL UNCLASSIFIED SECTION"/>
+                     <title>2.3 Administration Instructions</title>
+                     <text>
+                        <paragraph>Administer the diluted solution to patients using a low-protein binding infusion set equipped with a low-protein binding 0.2 micrometer (µm) in-line filter<content styleCode="italics">.</content>
+                        </paragraph>
+                        <paragraph>
+                           <content styleCode="italics">Note: The safety and effectiveness of Vimizim have not been established in pediatric patients less than 5 years of age [see Use in Specific Populations (<linkHtml href="#LINK_5977e384-664d-4c92-a78f-0ca0b22b57db">8.4</linkHtml>)].</content>
+                        </paragraph>
+                        <paragraph>
+                           <content styleCode="bold">
+                              <content styleCode="italics">
+                                 <content styleCode="underline">For patients who weigh less than 25 kg:</content>
+                              </content>
+                           </content>  initial infusion rate should be 3 mL per hour for the first 15 minutes and, if tolerated, increased to 6 mL per hour for the next 15 minutes.  If this rate is tolerated, then the rate may be increased every 15 minutes in 6 mL per hour increments, not to exceed 36 mL per hour. The total volume of the infusion should be delivered over a minimum of 3.5 hours.</paragraph>
+                        <paragraph>
+                           <content styleCode="bold">
+                              <content styleCode="italics">
+                                 <content styleCode="underline">For patients who weigh 25 kg or more</content>
+                              </content>
+                           </content>: initial infusion rate should be 6 mL per hour for the first 15 minutes and, if tolerated, the infusion rate may be increased to 12 mL per hour for the next 15 minutes.  If this rate is tolerated, then the rate may be increased every 15 minutes in 12 mL per hour increments, not to exceed 72 mL per hour.  The total volume of the infusion should be delivered over a minimum of 4.5 hours.</paragraph>
+                        <paragraph>The infusion rate may be slowed, temporarily stopped, or discontinued for that visit in the event of hypersensitivity reactions <content styleCode="italics">[see Warnings and Precautions (<linkHtml href="#LINK_f26e1ef7-ba4f-46c9-95be-cc670a147791">5.1</linkHtml>)]</content>. Do not infuse with other products in the infusion tubing.  Compatibility with other products has not been evaluated. </paragraph>
+                     </text>
+                     <effectiveTime value="20191211"/>
+                  </section>
+               </component>
+               <component>
+                  <section ID="LINK_ddfe7eeb-cb78-49a4-85af-0981bce17305">
+                     <id root="6f00124c-fcd3-4bad-b9c6-8a067c7abbba"/>
+                     <code code="42229-5" codeSystem="2.16.840.1.113883.6.1" displayName="SPL UNCLASSIFIED SECTION"/>
+                     <title>2.4  Storage and Stability</title>
+                     <text>
+                        <paragraph>Vimizim does not contain preservatives; therefore the product should be used immediately after dilution. If immediate use is not possible, the diluted product may be stored for up to 24 hours at 2°C to 8°C (36°F to 46°F) followed by up to 24 hours at 23°C to 27°C (73°F to 81°F). Administration of Vimizim should be completed within 48 hours from the time of dilution. Vials are for single-use only. Discard any unused product.  Do not freeze or shake. Protect from light.</paragraph>
+                     </text>
+                     <effectiveTime value="20191211"/>
+                  </section>
+               </component>
+            </section>
+         </component>
+         <component>
+            <section ID="LINK_cbd507e5-261c-43e8-8e91-b2c26d6b57cf">
+               <id root="c7dbe664-1fad-4265-85b9-ee40f4398b6a"/>
+               <code code="43678-2" codeSystem="2.16.840.1.113883.6.1" displayName="DOSAGE FORMS &amp; STRENGTHS SECTION"/>
+               <title>3 DOSAGE FORMS AND STRENGTHS</title>
+               <text>
+                  <paragraph>Injection: 5 mg/5 mL (1 mg/mL) in single-dose vials.</paragraph>
+               </text>
+               <effectiveTime value="20191211"/>
+               <excerpt>
+                  <highlight>
+                     <text>
+                        <paragraph>Injection: 5 mg/5 mL (1 mg/mL) in single-dose vials (<linkHtml href="#LINK_cbd507e5-261c-43e8-8e91-b2c26d6b57cf">3</linkHtml>).</paragraph>
+                     </text>
+                  </highlight>
+               </excerpt>
+            </section>
+         </component>
+         <component>
+            <section ID="LINK_e7bcaba9-7164-4e21-bc9a-d56999b14cea">
+               <id root="517e3255-531a-48b2-9f7f-23ee3984dc8b"/>
+               <code code="34070-3" codeSystem="2.16.840.1.113883.6.1" displayName="CONTRAINDICATIONS SECTION"/>
+               <title>4 CONTRAINDICATIONS</title>
+               <text>
+                  <paragraph>None</paragraph>
+               </text>
+               <effectiveTime value="20191211"/>
+               <excerpt>
+                  <highlight>
+                     <text>
+                        <paragraph>None (<linkHtml href="#LINK_e7bcaba9-7164-4e21-bc9a-d56999b14cea">4</linkHtml>)</paragraph>
+                     </text>
+                  </highlight>
+               </excerpt>
+            </section>
+         </component>
+         <component>
+            <section ID="LINK_aa3e58e6-8af7-4933-bbbe-a7207c27c886">
+               <id root="d45079fc-18c8-4820-b2ad-935e2d652135"/>
+               <code code="43685-7" codeSystem="2.16.840.1.113883.6.1" displayName="WARNINGS AND PRECAUTIONS SECTION"/>
+               <title>5 WARNINGS AND PRECAUTIONS</title>
+               <effectiveTime value="20191211"/>
+               <excerpt>
+                  <highlight>
+                     <text>
+                        <paragraph>· Anaphylaxis and Hypersensitivity Reactions: Life-threatening anaphylaxis and hypersensitivity reactions have been observed in some patients during treatment with Vimizim. If anaphylaxis or severe hypersensitivity reactions occur, immediately stop the infusion and initiate appropriate medical treatment. Pre-treatment with antihistamines with or without antipyretics is recommended prior to the start of infusion (<linkHtml href="#LINK_f26e1ef7-ba4f-46c9-95be-cc670a147791">5.1</linkHtml>). </paragraph>
+                        <paragraph>· Risk of Acute Respiratory Complications: Patients with acute febrile or respiratory illness may be at higher risk of life-threatening complications from hypersensitivity reactions. Careful consideration should be given to the patient's clinical status prior to administration of Vimizim and consider delaying the Vimizim infusion (<linkHtml href="#LINK_48192839-a126-4e4f-b1a8-d7228a7b7acc">5.2</linkHtml>).</paragraph>
+                     </text>
+                  </highlight>
+               </excerpt>
+               <component>
+                  <section ID="LINK_f26e1ef7-ba4f-46c9-95be-cc670a147791">
+                     <id root="a3286a5c-84cf-4e41-8295-33b4a7c5ea94"/>
+                     <code code="42229-5" codeSystem="2.16.840.1.113883.6.1" displayName="SPL UNCLASSIFIED SECTION"/>
+                     <title>5.1 Anaphylaxis and Hypersensitivity Reactions</title>
+                     <text>
+                        <paragraph>Anaphylaxis and hypersensitivity reactions have been reported in patients treated with Vimizim. In premarketing clinical trials, 18 of 235 (7.7%) patients treated with Vimizim experienced signs and symptoms consistent with anaphylaxis. These 18 patients experienced 26 anaphylactic reactions during infusion with signs and symptoms including cough, erythema, throat tightness, urticaria, flushing, cyanosis, hypotension, rash, dyspnea, chest discomfort, and gastrointestinal symptoms (e.g., nausea, abdominal pain, retching, and vomiting) in conjunction with urticaria. These cases of anaphylaxis occurred as early as 30 minutes from the start of infusion and up to three hours after infusion.  Anaphylaxis occurred as late into treatment as the 47<sup>th</sup> infusion.</paragraph>
+                        <paragraph>In clinical trials with Vimizim, 44 of 235 (18.7%) patients experienced hypersensitivity reactions, including anaphylaxis. Hypersensitivity reactions have occurred as early as 30 minutes from the start of infusion but as late as six days after infusion. Frequent symptoms of hypersensitivity reactions (occurring in more than 2 patients) included anaphylactic reactions, urticaria, peripheral edema, cough, dyspnea, and flushing. </paragraph>
+                        <paragraph>Due to the potential for anaphylaxis, appropriate medical support should be readily available when Vimizim is administered. Observe patients closely for an appropriate period of time after administration of Vimizim, taking into account the time to onset of anaphylaxis seen in premarketing clinical trials. Inform patients of the signs and symptoms of anaphylaxis, and instruct them to seek immediate medical care should signs and symptoms occur.  </paragraph>
+                        <paragraph>Because of the potential for hypersensitivity reactions, administer antihistamines with or without antipyretics prior to infusion. Management of hypersensitivity reactions should be based on the severity of the reaction and include slowing or temporary interruption of the infusion and/or administration of additional antihistamines, antipyretics, and/or corticosteroids for mild reactions. However, if severe hypersensitivity reactions occur, immediately stop the infusion of Vimizim and initiate appropriate treatment. </paragraph>
+                        <paragraph>Consider the risks and benefits of re-administering Vimizim following a severe reaction.</paragraph>
+                     </text>
+                     <effectiveTime value="20191211"/>
+                  </section>
+               </component>
+               <component>
+                  <section ID="LINK_48192839-a126-4e4f-b1a8-d7228a7b7acc">
+                     <id root="78962b48-0b8a-4e9b-8fab-3559ef2cecfa"/>
+                     <code code="42229-5" codeSystem="2.16.840.1.113883.6.1" displayName="SPL UNCLASSIFIED SECTION"/>
+                     <title>5.2 Risk of Acute Respiratory Complications</title>
+                     <text>
+                        <paragraph>Patients with acute febrile or respiratory illness at the time of Vimizim infusion may be at higher risk of life-threatening complications from hypersensitivity reactions. Careful consideration should be given to the patient’s clinical status prior to administration of Vimizim and consider delaying the Vimizim infusion.</paragraph>
+                        <paragraph>Sleep apnea is common in MPS IVA patients.  Evaluation of airway patency should be considered prior to initiation of treatment with Vimizim.  Patients using supplemental oxygen or continuous positive airway pressure (CPAP) during sleep should have these treatments readily available during infusion in the event of an acute reaction, or extreme drowsiness/sleep induced by antihistamine use.</paragraph>
+                     </text>
+                     <effectiveTime value="20191211"/>
+                  </section>
+               </component>
+               <component>
+                  <section ID="LINK_e79694c1-6554-4faa-a9dd-f8bf3148e27c">
+                     <id root="6bdaa1c7-3d3d-4b92-89f5-9308a73a346b"/>
+                     <code code="42229-5" codeSystem="2.16.840.1.113883.6.1" displayName="SPL UNCLASSIFIED SECTION"/>
+                     <title>5.3 Spinal or Cervical Cord Compression</title>
+                     <text>
+                        <paragraph>Spinal or cervical cord compression (SCC) is a known and serious complication of MPS IVA and may occur as part of the natural history of the disease. In clinical trials, SCC was observed both in patients receiving Vimizim and patients receiving placebo.  Patients with MPS IVA should be monitored for signs and symptoms of SCC (including back pain, paralysis of limbs below the level of compression, urinary and fecal incontinence) and given appropriate clinical care.</paragraph>
+                     </text>
+                     <effectiveTime value="20191211"/>
+                  </section>
+               </component>
+            </section>
+         </component>
+         <component>
+            <section ID="LINK_bb16aa2c-b79b-4c25-bc83-fde9a8a4abe8">
+               <id root="2180087e-5522-42b8-9c86-f871507986ac"/>
+               <code code="34084-4" codeSystem="2.16.840.1.113883.6.1" displayName="ADVERSE REACTIONS SECTION"/>
+               <title>6 ADVERSE REACTIONS</title>
+               <text>
+                  <paragraph>The following serious adverse reactions are described below and elsewhere in the labeling:</paragraph>
+                  <list listType="unordered" styleCode="Disk">
+                     <item>Anaphylaxis and hypersensitivity reactions <content styleCode="italics">[see Warnings and Precautions (5.1)].</content>
+                     </item>
+                  </list>
+                  <list listType="unordered" styleCode="Disk">
+                     <item>Risk of acute respiratory complications <content styleCode="italics">[see Warnings and Precautions (5.2)].</content>
+                     </item>
+                  </list>
+                  <list listType="unordered" styleCode="Disk">
+                     <item>Spinal or cervical cord compression <content styleCode="italics">[see Warnings and Precautions (5.3)].</content>
+                     </item>
+                  </list>
+               </text>
+               <effectiveTime value="20191211"/>
+               <excerpt>
+                  <highlight>
+                     <text>
+                        <paragraph>Most common adverse reactions (≥10%) are: pyrexia, vomiting, headache, nausea, abdominal pain, chills, and fatigue (<linkHtml href="#LINK_15693d01-5a15-4316-ad80-c0b2ac2e41dd">6.1</linkHtml>).</paragraph>
+                        <paragraph>
+                           <content styleCode="bold">To report SUSPECTED ADVERSE REACTIONS, contact BioMarin at 1-866-906-6100 or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch.</content>
+                        </paragraph>
+                     </text>
+                  </highlight>
+               </excerpt>
+               <component>
+                  <section ID="LINK_15693d01-5a15-4316-ad80-c0b2ac2e41dd">
+                     <id root="60f77a7b-e820-44fd-808d-e7a39af5132d"/>
+                     <code code="42229-5" codeSystem="2.16.840.1.113883.6.1" displayName="SPL UNCLASSIFIED SECTION"/>
+                     <title>6.1 Clinical Trials Experience</title>
+                     <text>
+                        <paragraph>Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice.</paragraph>
+                        <paragraph>A 24-week, randomized, double-blind, placebo-controlled clinical trial of Vimizim was conducted in 176 patients with MPS IVA, ages 5 to 57 years old.  Approximately half of the patients (49%) were male.  Of the 176 patients, 65% were White, 23% Asian, 3% Black, and 10% Other race.  The majority of patients (78%) were non-Hispanic. Patients were randomized to three treatment groups:  Vimizim 2 mg/kg once per week (n=58), Vimizim 2 mg/kg once every other week (n=59), or placebo (n=59).  All patients were treated with antihistamines prior to each infusion.</paragraph>
+                        <paragraph>Table 1 summarizes the most common adverse reactions that occurred in the placebo-controlled trial with an incidence of ≥ 10% in patients treated with Vimizim 2 mg/kg once per week and with a higher incidence than in the placebo-treated patients.  </paragraph>
+                        <paragraph>
+                           <content styleCode="bold">Table 1: Adverse Reactions That Occurred in the Placebo-Controlled Trial in At Least 10% of Patients in the Vimizim 2 mg/kg Once Per Week Group and with a Higher Incidence than in the Placebo Group</content>
+                        </paragraph>
+                        <table width="315px">
+                           <col width="33.32%"/>
+                           <col width="33.32%"/>
+                           <col width="33.34%"/>
+                           <tbody>
+                              <tr>
+                                 <td valign="top" styleCode="Botrule Toprule Lrule Rrule">
+                                    <paragraph>
+                                       <content styleCode="bold">Adverse Reaction</content>
+                                    </paragraph>
+                                 </td>
+                                 <td align="center" valign="top" styleCode="Botrule Toprule Lrule Rrule">
+                                    <paragraph>
+                                       <content styleCode="bold">Vimizim 2 mg/kg <br/>once per week</content>
+                                    </paragraph>
+                                 </td>
+                                 <td align="center" valign="top" styleCode="Botrule Toprule Lrule Rrule">
+                                    <paragraph>
+                                       <content styleCode="bold">Placebo</content>
+                                    </paragraph>
+                                 </td>
+                              </tr>
+                              <tr>
+                                 <td align="center" valign="top" styleCode="Botrule Toprule Lrule Rrule "/>
+                                 <td>
+                                    <paragraph>
+                                       <content styleCode="bold">N= 58<br/>n (%)</content>
+                                    </paragraph>
+                                 </td>
+                                 <td align="center" valign="top" styleCode="Botrule Toprule Lrule Rrule">
+                                    <paragraph>
+                                       <content styleCode="bold">N= 59</content>
+                                    </paragraph>
+                                    <paragraph>
+                                       <content styleCode="bold">n (%)</content>
+                                    </paragraph>
+                                 </td>
+                              </tr>
+                              <tr>
+                                 <td valign="top" styleCode="Botrule Toprule Lrule Rrule">
+                                    <paragraph>Pyrexia</paragraph>
+                                 </td>
+                                 <td align="center" valign="top" styleCode="Botrule Toprule Lrule Rrule">
+                                    <paragraph>19 (33%)</paragraph>
+                                 </td>
+                                 <td align="center" valign="top" styleCode="Botrule Toprule Lrule Rrule">
+                                    <paragraph>8 (14%)</paragraph>
+                                 </td>
+                              </tr>
+                              <tr>
+                                 <td valign="top" styleCode="Botrule Toprule Lrule Rrule">
+                                    <paragraph>Vomiting</paragraph>
+                                 </td>
+                                 <td align="center" valign="top" styleCode="Botrule Toprule Lrule Rrule">
+                                    <paragraph>18 (31%)</paragraph>
+                                 </td>
+                                 <td align="center" valign="top" styleCode="Botrule Toprule Lrule Rrule">
+                                    <paragraph>4 (7%)</paragraph>
+                                 </td>
+                              </tr>
+                              <tr>
+                                 <td valign="top" styleCode="Botrule Toprule Lrule Rrule">
+                                    <paragraph>Headache</paragraph>
+                                 </td>
+                                 <td align="center" valign="top" styleCode="Botrule Toprule Lrule Rrule">
+                                    <paragraph>15 (26%)</paragraph>
+                                 </td>
+                                 <td align="center" valign="top" styleCode="Botrule Toprule Lrule Rrule">
+                                    <paragraph>9 (15%)</paragraph>
+                                 </td>
+                              </tr>
+                              <tr>
+                                 <td valign="top" styleCode="Botrule Toprule Lrule Rrule">
+                                    <paragraph>Nausea</paragraph>
+                                 </td>
+                                 <td align="center" valign="top" styleCode="Botrule Toprule Lrule Rrule">
+                                    <paragraph>14 (24%)</paragraph>
+                                 </td>
+                                 <td align="center" valign="top" styleCode="Botrule Toprule Lrule Rrule">
+                                    <paragraph>4 (7%)</paragraph>
+                                 </td>
+                              </tr>
+                              <tr>
+                                 <td valign="top" styleCode="Botrule Toprule Lrule Rrule">
+                                    <paragraph>Abdominal pain</paragraph>
+                                 </td>
+                                 <td align="center" valign="top" styleCode="Botrule Toprule Lrule Rrule">
+                                    <paragraph>12 (21%)</paragraph>
+                                 </td>
+                                 <td align="center" valign="top" styleCode="Botrule Toprule Lrule Rrule">
+                                    <paragraph>1 (2%)</paragraph>
+                                 </td>
+                              </tr>
+                              <tr>
+                                 <td valign="top" styleCode="Botrule Toprule Lrule Rrule">
+                                    <paragraph>Chills</paragraph>
+                                 </td>
+                                 <td align="center" valign="top" styleCode="Botrule Toprule Lrule Rrule">
+                                    <paragraph>6 (10%)</paragraph>
+                                 </td>
+                                 <td align="center" valign="top" styleCode="Botrule Toprule Lrule Rrule">
+                                    <paragraph>1 (2%)</paragraph>
+                                 </td>
+                              </tr>
+                              <tr>
+                                 <td valign="top" styleCode="Botrule Toprule Lrule Rrule">
+                                    <paragraph>Fatigue</paragraph>
+                                 </td>
+                                 <td align="center" valign="top" styleCode="Botrule Toprule Lrule Rrule">
+                                    <paragraph>6 (10%)</paragraph>
+                                 </td>
+                                 <td align="center" valign="top" styleCode="Botrule Toprule Lrule Rrule">
+                                    <paragraph>2 (3%)</paragraph>
+                                 </td>
+                              </tr>
+                           </tbody>
+                        </table>
+                        <paragraph>
+                           <content styleCode="underline">Extension Trial</content>
+                        </paragraph>
+                        <paragraph>An open-label extension trial was conducted in 173 patients who completed the placebo-controlled trial <content styleCode="italics">[see Clinical Studies (<linkHtml href="#LINK_f96a3415-92b2-47a3-9269-25411dbb57d5">14</linkHtml>)]</content>. No new adverse reactions were reported. </paragraph>
+                     </text>
+                     <effectiveTime value="20191211"/>
+                  </section>
+               </component>
+               <component>
+                  <section ID="LINK_1f7d417d-989d-4167-ab4f-b6399d459484">
+                     <id root="72993573-d829-4c11-992f-ba5d3337c436"/>
+                     <code code="42229-5" codeSystem="2.16.840.1.113883.6.1" displayName="SPL UNCLASSIFIED SECTION"/>
+                     <title>6.2 Immunogenicity</title>
+                     <text>
+                        <paragraph>As with all therapeutic proteins, there is potential for immunogenicity. The detection of antibody formation is highly dependent on the sensitivity and specificity of the assay. Additionally, the observed incidence of antibody (including neutralizing antibody) positivity in an assay may be influenced by several factors including assay methodology, sample handling, timing of sample collection, concomitant medications, and underlying disease. For these reasons, comparison of the incidence of antibodies in other studies or to other elosulfase alfa products may be misleading.</paragraph>
+                        <paragraph>All patients treated with Vimizim 2 mg/kg once per week in the placebo-controlled trial developed antidrug antibodies by Week 4. Anti-drug antibody titers were sustained or increased for the duration of Vimizim treatment. Because all patients developed anti-drug antibodies, associations between antibody titers and reductions in treatment effect or the occurrence of anaphylaxis or other hypersensitivity reactions could not be determined.</paragraph>
+                        <paragraph>All patients treated with Vimizim 2 mg/kg once per week tested positive for neutralizing antibodies capable of inhibiting the drug from binding to the mannose-6-phosphate receptor at least once during the trial. Binding to this receptor is required for Vimizim to be taken into cells where it is active.  Neutralizing antibody titers were not determined in the patients.  Therefore, the possibility of an association between neutralizing antibody titer and treatment effect cannot be assessed. </paragraph>
+                     </text>
+                     <effectiveTime value="20191211"/>
+                  </section>
+               </component>
+            </section>
+         </component>
+         <component>
+            <section ID="LINK_1eb80d3e-4112-4361-a78f-8e72609c071d">
+               <id root="d8e8c553-3f87-40b4-8c5f-3ed46af57716"/>
+               <code code="43684-0" codeSystem="2.16.840.1.113883.6.1" displayName="USE IN SPECIFIC POPULATIONS SECTION"/>
+               <title>8 USE IN SPECIFIC POPULATIONS</title>
+               <effectiveTime value="20191211"/>
+               <excerpt>
+                  <highlight>
+                     <text>
+                        <paragraph>Pediatric Use: The safety and effectiveness of Vimizim have not been established in pediatric patients less than 5 years of age (<linkHtml href="#LINK_5977e384-664d-4c92-a78f-0ca0b22b57db">8.4</linkHtml>).</paragraph>
+                     </text>
+                  </highlight>
+               </excerpt>
+               <component>
+                  <section ID="LINK_0d9aa430-715d-4a36-b38f-d37698363bd1">
+                     <id root="c54cd552-5a39-4d27-9b75-27c51a851b5e"/>
+                     <code code="42228-7" codeSystem="2.16.840.1.113883.6.1" displayName="PREGNANCY SECTION"/>
+                     <title>8.1 Pregnancy</title>
+                     <text>
+                        <paragraph>
+                           <content styleCode="underline">Pregnancy Exposure Registry</content>
+                        </paragraph>
+                        <paragraph>There is a Morquio A Registry that collects data on pregnant women with MPS IVA who are treated with Vimizim.  Contact MARS@bmrn.com or call 1-800-983-4587 for information and enrollment. </paragraph>
+                        <paragraph>
+                           <content styleCode="underline">Risk Summary </content>
+                        </paragraph>
+                        <paragraph>Available data from published case reports and postmarketing experience with Vimizim use in pregnant women are insufficient to evaluate for a drug-associated risk of major birth defects, miscarriage, or adverse maternal or fetal outcomes. In animal reproduction studies, no effects on embryo-fetal development were observed in rats given daily administration of elosulfase alfa up to 33 times the human steady-state AUC (area under the concentration-time curve) at the recommended human weekly dose premating and through the period of organogenesis. No effects on embryo-fetal development were observed in rabbits given daily administration of elosulfase alfa at doses up to 8 times the human steady-state AUC at the recommended weekly dose during organogenesis, which produced maternal toxicity. A dose-dependent increase in stillbirths was observed when elosulfase alfa was administered daily in rats during organogenesis through lactation at doses 5 times the human steady-state AUC at the recommended human weekly dose. An increase in pup mortality was observed at doses producing maternal toxicity.</paragraph>
+                        <paragraph>The estimated background risk of major birth defects and miscarriage for the indicated population is unknown. All pregnancies have a background risk of birth defect, loss, or other adverse outcomes. In the U.S. general population, the estimated background risk of major birth defects and miscarriage in clinically recognized pregnancies is 2 to 4% and 15 to 20%, respectively.</paragraph>
+                        <paragraph>
+                           <content styleCode="underline">Clinical Considerations</content>
+                        </paragraph>
+                        <paragraph>
+                           <content styleCode="italics">Disease-associated maternal and embryo/fetal risk </content>
+                        </paragraph>
+                        <paragraph>Pregnancy can exacerbate preexisting clinical manifestations of MPS and lead to adverse outcomes for both mother and fetus.</paragraph>
+                        <paragraph>
+                           <content styleCode="underline">Data</content>
+                        </paragraph>
+                        <paragraph>
+                           <content styleCode="italics">Animal Data</content>
+                        </paragraph>
+                        <paragraph>All reproductive studies with rats included pre-treatment with diphenhydramine to prevent or minimize hypersensitivity reactions.  The effects of elosulfase alfa were evaluated based on comparison to a control group treated with diphenhydramine alone.  Daily intravenous administration of up to 20 mg/kg elosulfase alfa in rats (33 times the human steady-state AUC at the recommended weekly dose of 2 mg/kg) during a 15-day pre-mating period, mating, and the period of organogenesis, produced no maternal toxicity or effects on embryo-fetal development.  Daily intravenous administration of up to 10 mg/kg in rabbits (8 times the human steady-state AUC at the recommended weekly dose) during the period of organogenesis had no effects on embryo-fetal development.  However, maternal toxicity (gross changes in liver) was observed in rabbits given doses of 1 mg/kg/day and higher (0.1 times the human steady-state AUC at the recommended weekly dose).  Elosulfase alfa produced an increase in the percentage of stillbirths when administered daily to rats at intravenous doses of 6 mg/kg and higher (5 times the human steady-state AUC at the recommended weekly dose) during the period of organogenesis through lactation.  Daily intravenous administration of 20 mg/kg (33 times the human steady-state AUC at the recommended weekly dose) produced maternal toxicity and an increase in mortality of offspring during the lactation period.  This study lacked a full evaluation of neurodevelopmental milestones; however, no effects of elosulfase alfa were noted in tests for learning and memory.</paragraph>
+                     </text>
+                     <effectiveTime value="20191211"/>
+                  </section>
+               </component>
+               <component>
+                  <section ID="LINK_c98ecd92-77a9-475c-a43e-64f9b8f509b1">
+                     <id root="0ab8d7d1-be4b-49e7-8fbd-b096289719da"/>
+                     <code code="77290-5" codeSystem="2.16.840.1.113883.6.1" displayName="LACTATION SECTION"/>
+                     <title>8.2 Lactation</title>
+                     <text>
+                        <paragraph>
+                           <content styleCode="underline">Risk Summary</content>
+                        </paragraph>
+                        <paragraph>There are no data on the presence of elosulfase alfa in human milk, the effects on the breastfed infant, or the effects on milk production. Elosulfase alfa is present in milk from treated rats <content styleCode="italics">(see Data). </content>When a drug is present in animal milk, it is likely that the drug will be present in human milk. The developmental and health benefits of breastfeeding should be considered along with the mother’s clinical need for Vimizim and any potential adverse effects on the breastfed infant from Vimizim or from the underlying maternal condition.</paragraph>
+                        <paragraph>There is a Morquio A Registry that also collects data on breastfeeding women with MPS IVA who are treated with Vimizim. Contact MARS@bmrn.com or call 1-800-983-4587 for information and enrollment.</paragraph>
+                        <paragraph>
+                           <content styleCode="underline">Data</content>
+                        </paragraph>
+                        <paragraph>
+                           <content styleCode="italics">Animal Data </content>
+                        </paragraph>
+                        <paragraph>Elosulfase alfa was detected in 1 of 5 milk samples from rat dams administered 6 mg/kg/day elosulfase alfa and 4 of 5 milk samples from dams administered 20 mg/kg/day elosulfase alfa. The concentration of drug in animal milk does not necessarily predict the concentration of drug in human milk.</paragraph>
+                     </text>
+                     <effectiveTime value="20191211"/>
+                  </section>
+               </component>
+               <component>
+                  <section ID="LINK_5977e384-664d-4c92-a78f-0ca0b22b57db">
+                     <id root="023ad227-7171-4839-8bb1-15134b535562"/>
+                     <code code="34081-0" codeSystem="2.16.840.1.113883.6.1" displayName="PEDIATRIC USE SECTION"/>
+                     <title>8.4 Pediatric Use</title>
+                     <text>
+                        <paragraph>Safety and effectiveness of Vimizim have been established in pediatric patients 5 years of age and older.  Use of Vimizim in patients 5 years of age and older is supported by an adequate and well-controlled trial in pediatric and adult patients. Clinical trials with Vimizim were conducted in 176 patients (median age 12 years, range 5 to 57 years old) with the majority of patients in the pediatric age group (53% aged 5 to 11 years, 27% aged 12 to 17 years) <content styleCode="italics">[see Clinical Studies (<linkHtml href="#LINK_f96a3415-92b2-47a3-9269-25411dbb57d5">14</linkHtml>)]</content>.  Safety and effectiveness in pediatric patients below 5 years of age have not been established.</paragraph>
+                     </text>
+                     <effectiveTime value="20191211"/>
+                  </section>
+               </component>
+               <component>
+                  <section ID="LINK_03af9050-3470-4a06-acf6-97c19a9a4f95">
+                     <id root="aa231aa0-b402-45dc-b4e3-c4a77781b1df"/>
+                     <code code="42228-7" codeSystem="2.16.840.1.113883.6.1" displayName="PREGNANCY SECTION"/>
+                     <title>8.5 Geriatric Use</title>
+                     <text>
+                        <paragraph>Clinical studies of Vimizim did not include any patients aged 65 and over. It is not known whether they respond differently from younger patients.</paragraph>
+                     </text>
+                     <effectiveTime value="20191211"/>
+                  </section>
+               </component>
+            </section>
+         </component>
+         <component>
+            <section ID="LINK_fc847bc4-5b7c-4c2c-a830-429ff35ecf06">
+               <id root="0671de3c-6820-44b6-abdb-24f059311f1a"/>
+               <code code="34089-3" codeSystem="2.16.840.1.113883.6.1" displayName="DESCRIPTION SECTION"/>
+               <title>11 DESCRIPTION</title>
+               <text>
+                  <paragraph>Vimizim is a formulation of elosulfase alfa, which is a purified human enzyme produced by recombinant DNA technology in a Chinese hamster ovary cell line. Human N-acetylgalactosamine-6-sulfatase (EC 3.1.6.4) is a hydrolytic lysosomal glycosaminoglycan-specific enzyme that hydrolyzes sulfate from either galactose-6-sulfate or N-acetyl-galactosamine-6-sulfate on the non-reducing ends of the glycosaminoglycans keratan sulfate (KS) and chondroitin-6-sulfate (C6S). </paragraph>
+                  <paragraph>Elosulfase alfa is a soluble glycosylated dimeric protein with two oligosaccharide chains per monomer. Each monomeric peptide chain contains 496 amino acids and has an approximate molecular mass of 55 kDa (59 kDa including the oligosaccharides). One of the oligosaccharide chains contains bis-mannose-6-phosphate (bisM6P). bisM6P binds a receptor at the cell surface and the binding mediates cellular uptake of the protein to the lysosome.  Elosulfase alfa has a specific activity of 2.6 to 6.0 units/mg. One activity unit is defined as the amount of the enzyme required to convert 1 micromole of sulfated monosaccharide substrate D-galactopyranoside-6-sulfate (Gal-6S) to de-sulfated-galactose (Gal) and free sulfate per minute at 37°C.</paragraph>
+                  <paragraph>Vimizim is intended for intravenous infusion and is supplied as a sterile, nonpyrogenic, colorless to pale yellow, clear to slightly opalescent solution that must be diluted with 0.9% Sodium Chloride for Injection, USP prior to administration. Vimizim is supplied in clear Type 1 glass 5 mL vials. Each vial provides 5 mg elosulfase alfa, 31.6 mg L-arginine hydrochloride, 0.5 mg polysorbate 20, 13.6 mg sodium acetate trihydrate, 34.5 mg sodium phosphate monobasic monohydrate, and 100 mg sorbitol in a 5 mL extractable solution with a pH between 5.0 to 5.8. Vimizim does not contain preservatives. Each vial is for single use only.</paragraph>
+               </text>
+               <effectiveTime value="20191211"/>
+            </section>
+         </component>
+         <component>
+            <section ID="LINK_4676b01d-4ada-49d9-ae28-5aa5eb63b952">
+               <id root="e5f56392-d688-4b48-ba39-ad35dc4881bd"/>
+               <code code="34090-1" codeSystem="2.16.840.1.113883.6.1" displayName="CLINICAL PHARMACOLOGY SECTION"/>
+               <title>12 CLINICAL PHARMACOLOGY</title>
+               <effectiveTime value="20191211"/>
+               <component>
+                  <section ID="LINK_03a46614-f6f8-4047-ba51-2816cab6f8ae">
+                     <id root="716a2abf-0440-4ab1-bdd2-f0a025c418fb"/>
+                     <code code="43679-0" codeSystem="2.16.840.1.113883.6.1" displayName="MECHANISM OF ACTION SECTION"/>
+                     <title>12.1 Mechanism of Action</title>
+                     <text>
+                        <paragraph>Mucopolysaccharidoses comprise a group of lysosomal storage disorders caused by the deficiency of specific lysosomal enzymes required for the catabolism of glycosaminoglycans (GAG). Mucopolysaccharidosis IVA (MPS IVA, Morquio A Syndrome) is characterized by the absence or marked reduction in <content styleCode="italics">N</content>-acetylgalactosamine-6-sulfatase activity. The sulfatase activity deficiency results in the accumulation of the GAG substrates, KS and C6S, in the lysosomal compartment of cells throughout the body. The accumulation leads to widespread cellular, tissue, and organ dysfunction.  Vimizim is intended to provide the exogenous enzyme N-acetylgalactosamine-6-sulfatase that will be taken up into the lysosomes and increase the catabolism of the GAGs KS and C6S.  Elosulfase alfa uptake by cells into lysosomes is mediated by the binding of mannose-6-phosphate-terminated oligosaccharide chains of elosulfase alfa to mannose-6-phosphate receptors.</paragraph>
+                        <paragraph>In the absence of an animal disease model that recapitulates the human disease phenotype, elosulfase alfa pharmacological activity was evaluated using human primary chondrocytes from two MPS IVA patients. Treatment of MPS IVA chondrocytes with elosulfase alfa induced clearance of KS lysosomal storage from the chondrocytes. </paragraph>
+                     </text>
+                     <effectiveTime value="20191211"/>
+                  </section>
+               </component>
+               <component>
+                  <section ID="LINK_7a07fe9e-f60a-4f6c-8919-d5c3f792f9dd">
+                     <id root="9d06cdce-7de4-4650-b40b-395bf7a2282f"/>
+                     <code code="43681-6" codeSystem="2.16.840.1.113883.6.1" displayName="PHARMACODYNAMICS SECTION"/>
+                     <title>12.2 Pharmacodynamics</title>
+                     <text>
+                        <paragraph>The pharmacodynamic effect of Vimizim was assessed by reductions in urinary KS levels. The relationship of urinary KS to other measures of clinical response has not been established <content styleCode="italics">[see Clinical Studies (<linkHtml href="#LINK_f96a3415-92b2-47a3-9269-25411dbb57d5">14</linkHtml>)].</content>  No association was observed between antibody development and urinary KS levels.</paragraph>
+                     </text>
+                     <effectiveTime value="20191211"/>
+                  </section>
+               </component>
+               <component>
+                  <section ID="LINK_9251b2e4-f06a-447a-8eb7-fa0dd029e99a">
+                     <id root="4d5a3e43-f5f6-440e-823c-b7549eb8ff24"/>
+                     <code code="43682-4" codeSystem="2.16.840.1.113883.6.1" displayName="PHARMACOKINETICS SECTION"/>
+                     <title>12.3 Pharmacokinetics</title>
+                     <text>
+                        <paragraph>The pharmacokinetics of elosulfase alfa were evaluated in 23 patients with MPS IVA who received intravenous infusions of  Vimizim 2 mg/kg once weekly, over approximately 4 hours, for 22 weeks. Eleven patients were aged 5 to 11 years, six were aged 12 to 17 years, and six were aged 18 to 41 years.  Table 2 summarizes the pharmacokinetic parameters at Week 0 and Week 22. Mean AUC<sub>0‑t</sub> and C<sub>max</sub> increased to 2.8- and 2.9-fold, respectively, at Week 22 compared to Week 0.  Mean t<sub>1/2 </sub>increased from 7.5 min at Week 0 to 35.9 min at Week 22. These changes are likely related to the development of neutralizing antibodies in all patients. </paragraph>
+                        <paragraph>
+                           <content styleCode="bold">Table 2: Pharmacokinetic Parameters</content>
+                        </paragraph>
+                        <table border="1" cellspacing="0" cellpadding="0">
+                           <col/>
+                           <col/>
+                           <col/>
+                           <tbody>
+                              <tr>
+                                 <td valign="bottom" styleCode="Botrule Toprule Lrule Rrule">
+                                    <paragraph>
+                                       <content styleCode="bold">Pharmacokinetic Parameter</content>
+                                    </paragraph>
+                                 </td>
+                                 <td align="center" valign="bottom" styleCode="Botrule Toprule Lrule Rrule">
+                                    <paragraph>
+                                       <content styleCode="bold">Week 0 (N = 22)</content>
+                                       <sup>*</sup>
+                                       <content styleCode="bold">
+                                          <br/>Mean (SD)</content>
+                                    </paragraph>
+                                 </td>
+                                 <td align="center" valign="bottom" styleCode="Botrule Toprule Lrule Rrule">
+                                    <paragraph>
+                                       <content styleCode="bold">Week 22 </content>
+                                       <content styleCode="bold">(N = 22)</content>
+                                       <sup>*</sup>
+                                       <br/>
+                                       <content styleCode="bold">Mean (SD)</content>
+                                    </paragraph>
+                                 </td>
+                              </tr>
+                              <tr>
+                                 <td valign="top" styleCode="Botrule Toprule Lrule Rrule">
+                                    <paragraph>AUC<sub>0-t</sub>, min x µg/mL<sup>†</sup>
+                                    </paragraph>
+                                 </td>
+                                 <td align="center" valign="top" styleCode="Botrule Toprule Lrule Rrule">
+                                    <paragraph>238 (100)</paragraph>
+                                 </td>
+                                 <td align="center" valign="top" styleCode="Botrule Toprule Lrule Rrule">
+                                    <paragraph>577 (416)</paragraph>
+                                 </td>
+                              </tr>
+                              <tr>
+                                 <td valign="top" styleCode="Botrule Toprule Lrule Rrule">
+                                    <paragraph>C<sub>max</sub>, µg/mL<sup>‡</sup>
+                                    </paragraph>
+                                 </td>
+                                 <td align="center" valign="top" styleCode="Botrule Toprule Lrule Rrule">
+                                    <paragraph>1.49 (0.534)</paragraph>
+                                 </td>
+                                 <td align="center" valign="top" styleCode="Botrule Toprule Lrule Rrule">
+                                    <paragraph>4.04 (3.24)</paragraph>
+                                 </td>
+                              </tr>
+                              <tr>
+                                 <td valign="top" styleCode="Botrule Toprule Lrule Rrule">
+                                    <paragraph>T<sub>max</sub>, min<sup>§</sup>
+                                    </paragraph>
+                                 </td>
+                                 <td align="center" valign="top" styleCode="Botrule Toprule Lrule Rrule">
+                                    <paragraph>172 (75.3)</paragraph>
+                                 </td>
+                                 <td align="center" valign="top" styleCode="Botrule Toprule Lrule Rrule">
+                                    <paragraph>202 ( 90.8)</paragraph>
+                                 </td>
+                              </tr>
+                              <tr>
+                                 <td valign="top" styleCode="Botrule Toprule Lrule Rrule">
+                                    <paragraph>CL, mL/min/kg<sup>¶</sup>
+                                    </paragraph>
+                                 </td>
+                                 <td align="center" valign="top" styleCode="Botrule Toprule Lrule Rrule">
+                                    <paragraph>10.0 (3.73)<sup>#</sup>
+                                    </paragraph>
+                                 </td>
+                                 <td align="center" valign="top" styleCode="Botrule Toprule Lrule Rrule">
+                                    <paragraph>7.08 (13.0)<sup>♠</sup>
+                                    </paragraph>
+                                 </td>
+                              </tr>
+                              <tr>
+                                 <td valign="top" styleCode="Botrule Toprule Lrule Rrule">
+                                    <paragraph>V<sub>dss</sub>, mL/kg<sup>♥</sup>
+                                    </paragraph>
+                                 </td>
+                                 <td align="center" valign="top" styleCode="Botrule Toprule Lrule Rrule">
+                                    <paragraph>396 (316) <sup>♦</sup>
+                                    </paragraph>
+                                 </td>
+                                 <td align="center" valign="top" styleCode="Botrule Toprule Lrule Rrule">
+                                    <paragraph>650 (1842)<sup> ♠</sup>
+                                    </paragraph>
+                                 </td>
+                              </tr>
+                              <tr>
+                                 <td valign="top" styleCode="Botrule Toprule Lrule Rrule">
+                                    <paragraph>t<sub>1/2</sub>, min<sup>♣</sup>
+                                    </paragraph>
+                                 </td>
+                                 <td align="center" valign="top" styleCode="Botrule Toprule Lrule Rrule">
+                                    <paragraph>7.52 (5.48)<sup> #</sup>
+                                    </paragraph>
+                                 </td>
+                                 <td align="center" valign="top" styleCode="Botrule Toprule Lrule Rrule">
+                                    <paragraph>35.9 (21.5)<sup> ♠</sup>
+                                    </paragraph>
+                                 </td>
+                              </tr>
+                           </tbody>
+                        </table>
+                        <paragraph>
+                           <sup>*</sup> The pharmacokinetics of elosulfase alfa was evaluated in 23 individual patients. However, 1 patient was not tested at Week 0 and another patient was not tested at Week 22.</paragraph>
+                        <paragraph>
+                           <sup>†</sup>AUC<sub>0-t</sub>, area under the plasma concentration-time curve from time zero to the time of last measurable concentration; </paragraph>
+                        <paragraph>
+                           <sup>‡</sup>C<sub>max</sub>, observed maximum plasma concentration;</paragraph>
+                        <paragraph>
+                           <sup>§</sup>T<sub>max, </sub>time from zero to maximum plasma concentration;</paragraph>
+                        <paragraph>
+                           <sup>¶</sup>CL, total clearance of drug after intravenous administration; </paragraph>
+                        <paragraph>
+                           <sup>#</sup>N = 15;</paragraph>
+                        <paragraph>
+                           <sup>♠</sup>N = 20</paragraph>
+                        <paragraph>
+                           <sup>♥</sup>V<sub>dss</sub>, apparent volume of distribution at steady-state; </paragraph>
+                        <paragraph>
+                           <sup>♦</sup>N = 14;</paragraph>
+                        <paragraph>
+                           <sup>♣</sup>t<sub>1/2</sub>, elimination half-life</paragraph>
+                     </text>
+                     <effectiveTime value="20191211"/>
+                  </section>
+               </component>
+            </section>
+         </component>
+         <component>
+            <section ID="LINK_aee35b4c-7227-46b6-a14b-a3d4cadb4e8d">
+               <id root="637ba399-b7e8-4746-bc43-2a7318665d6b"/>
+               <code code="43680-8" codeSystem="2.16.840.1.113883.6.1" displayName="NONCLINICAL TOXICOLOGY SECTION"/>
+               <title>13 NONCLINICAL TOXICOLOGY</title>
+               <effectiveTime value="20191211"/>
+               <component>
+                  <section ID="LINK_1f16d048-c56f-46b4-b8e4-57890e039362">
+                     <id root="3671d542-977c-4e86-95d4-87f7feee92a2"/>
+                     <code code="34083-6" codeSystem="2.16.840.1.113883.6.1" displayName="CARCINOGENESIS &amp; MUTAGENESIS &amp; IMPAIRMENT OF FERTILITY SECTION"/>
+                     <title>13.1 Carcinogenesis, Mutagenesis, Impairment of Fertility</title>
+                     <text>
+                        <paragraph>Long-term studies in animals to evaluate carcinogenic potential or studies to evaluate mutagenic potential have not been performed with elosulfase alfa.  Based on the mechanism of action, elosulfase alfa is not expected to be tumorigenic.  Daily intravenous administration of elosulfase alfa in rats at doses up to 20 mg/kg (55 times the human steady-state AUC in male rats and 33 times the human steady-state AUC in female rats at the recommended human weekly dose) had no effects on fertility or reproductive performance. </paragraph>
+                     </text>
+                     <effectiveTime value="20191211"/>
+                  </section>
+               </component>
+            </section>
+         </component>
+         <component>
+            <section ID="LINK_f96a3415-92b2-47a3-9269-25411dbb57d5">
+               <id root="8e16fbef-c9e7-4a40-9c08-93eca14f6a51"/>
+               <code code="34092-7" codeSystem="2.16.840.1.113883.6.1" displayName="CLINICAL STUDIES SECTION"/>
+               <title>14 CLINICAL STUDIES</title>
+               <text>
+                  <paragraph>The safety and efficacy of Vimizim were assessed in a 24-week, randomized, double-blind, placebo-controlled clinical trial of 176 patients with MPS IVA. The age of patients ranged from 5 to 57 years. The majority of the patients (82%) presented with a medical history of musculoskeletal conditions, which includes knee deformity (52%), kyphosis (31%), hip dysplasia (22%), prior spinal fusion surgery (22%) and arthralgia (20%). At baseline, all enrolled patients could walk more than 30 meters (m) but less than 325 m in six minutes.  </paragraph>
+                  <paragraph>Patients received Vimizim 2 mg/kg once per week (n=58), Vimizim 2 mg/kg once every other week (n=59), or placebo (n=59).  </paragraph>
+                  <paragraph>The primary endpoint was the change from baseline in the distance walked in six minutes (six minute walk test, 6-MWT) at Week 24. The other endpoints included changes from baseline in the rate of stair climbing in three minutes (three-minute stair climb test, 3-MSCT) and changes from baseline in urine KS levels at Week 24. The treatment effect in the distance walked in 6 minutes, compared to placebo, was 22.5 m (CI<sub>95</sub>, 4.0, 40.9; p=0.0174) in patients who received Vimizim 2 mg/kg once per week. There was no difference in the rate of stair climbing between patients who received Vimizim 2 mg/kg once per week and those who received placebo. Patients who received Vimizim 2 mg/kg once every other week performed similarly in the 6-MWT and 3-MSCT as those who received placebo. The reduction in urinary KS levels from baseline, a measure of pharmacodynamic effect, was greater in the Vimizim treatment groups compared to placebo.  The relationship between urinary KS and other measures of clinical response has not been established.</paragraph>
+                  <paragraph>
+                     <content styleCode="bold">Table 3: Results from Placebo-Controlled Clinical Trial</content>
+                  </paragraph>
+                  <table border="1" cellspacing="0" cellpadding="0">
+                     <col/>
+                     <col/>
+                     <col/>
+                     <col/>
+                     <col/>
+                     <col/>
+                     <col/>
+                     <col/>
+                     <tbody>
+                        <tr>
+                           <td align="center" valign="bottom" rowspan="2" styleCode="Botrule Toprule Lrule Rrule">
+                              <paragraph>
+                                 <content styleCode="bold"> </content>
+                              </paragraph>
+                           </td>
+                           <td align="center" valign="top" colspan="3" styleCode="Botrule Toprule Lrule Rrule">
+                              <paragraph>
+                                 <content styleCode="bold">Vimizim 2 mg/kg once per week</content>
+                              </paragraph>
+                           </td>
+                           <td align="center" valign="top" colspan="3" styleCode="Botrule Toprule Lrule Rrule">
+                              <paragraph>
+                                 <content styleCode="bold">Placebo</content>
+                              </paragraph>
+                           </td>
+                           <td align="center" valign="top" styleCode="Botrule Toprule Lrule Rrule">
+                              <paragraph>
+                                 <content styleCode="bold">Vimizim vs.<br/>Placebo</content>
+                              </paragraph>
+                           </td>
+                        </tr>
+                        <tr>
+                           <td align="center" valign="top" styleCode="Botrule Toprule Lrule Rrule">
+                              <paragraph>
+                                 <content styleCode="bold">Baseline</content>
+                              </paragraph>
+                           </td>
+                           <td align="center" valign="top" styleCode="Botrule Toprule Lrule Rrule">
+                              <paragraph>
+                                 <content styleCode="bold">Week 24</content>
+                              </paragraph>
+                           </td>
+                           <td align="center" valign="top" styleCode="Botrule Toprule Lrule Rrule">
+                              <paragraph>
+                                 <content styleCode="bold">Change</content>
+                              </paragraph>
+                           </td>
+                           <td align="center" valign="top" styleCode="Botrule Toprule Lrule Rrule">
+                              <paragraph>
+                                 <content styleCode="bold">Baseline</content>
+                              </paragraph>
+                           </td>
+                           <td align="center" valign="top" styleCode="Botrule Toprule Lrule Rrule">
+                              <paragraph>
+                                 <content styleCode="bold">Week 24</content>
+                              </paragraph>
+                           </td>
+                           <td align="center" valign="top" styleCode="Botrule Toprule Lrule Rrule">
+                              <paragraph>
+                                 <content styleCode="bold">Change</content>
+                              </paragraph>
+                           </td>
+                           <td align="center" valign="top" styleCode="Botrule Toprule Lrule Rrule">
+                              <paragraph>
+                                 <content styleCode="bold">Mean Difference in Changes</content>
+                              </paragraph>
+                           </td>
+                        </tr>
+                        <tr>
+                           <td align="center" valign="top" styleCode="Botrule Toprule Lrule Rrule">
+                              <paragraph>N</paragraph>
+                           </td>
+                           <td align="center" valign="top" styleCode="Botrule Toprule Lrule Rrule">
+                              <paragraph>58</paragraph>
+                           </td>
+                           <td align="center" valign="top" styleCode="Botrule Toprule Lrule Rrule">
+                              <paragraph>57*</paragraph>
+                           </td>
+                           <td align="center" valign="top" styleCode="Botrule Toprule Lrule Rrule">
+                              <paragraph>57</paragraph>
+                           </td>
+                           <td align="center" valign="top" styleCode="Botrule Toprule Lrule Rrule">
+                              <paragraph>59</paragraph>
+                           </td>
+                           <td align="center" valign="top" styleCode="Botrule Toprule Lrule Rrule">
+                              <paragraph>59</paragraph>
+                           </td>
+                           <td align="center" valign="top" styleCode="Botrule Toprule Lrule Rrule">
+                              <paragraph>59</paragraph>
+                           </td>
+                           <td align="center" valign="top" styleCode="Botrule Toprule Lrule Rrule "/>
+                        </tr>
+                        <tr>
+                           <td align="center" valign="top" colspan="8" styleCode="Botrule Toprule Lrule Rrule">
+                              <paragraph>
+                                 <content styleCode="bold">Six-Minute Walk Test (Meters)</content>
+                              </paragraph>
+                           </td>
+                        </tr>
+                        <tr>
+                           <td align="center" valign="top" styleCode="Botrule Toprule Lrule Rrule">
+                              <paragraph>Mean </paragraph>
+                              <paragraph>± SD</paragraph>
+                              <paragraph>Median</paragraph>
+                              <paragraph>Min, <br/>Max</paragraph>
+                           </td>
+                           <td align="center" valign="top" styleCode="Botrule Toprule Lrule Rrule">
+                              <paragraph>203.9</paragraph>
+                              <paragraph>± 76.32</paragraph>
+                              <paragraph>216.5</paragraph>
+                              <paragraph>42.4, 321.5</paragraph>
+                           </td>
+                           <td align="center" valign="top" styleCode="Botrule Toprule Lrule Rrule">
+                              <paragraph>243.3</paragraph>
+                              <paragraph>± 83.53</paragraph>
+                              <paragraph>251.0</paragraph>
+                              <paragraph>52.0, 399.9</paragraph>
+                           </td>
+                           <td align="center" valign="top" styleCode="Botrule Toprule Lrule Rrule">
+                              <paragraph>36.5</paragraph>
+                              <paragraph>± 58.49</paragraph>
+                              <paragraph>20.0</paragraph>
+                              <paragraph>-57.8, 228.7</paragraph>
+                           </td>
+                           <td align="center" valign="top" styleCode="Botrule Toprule Lrule Rrule">
+                              <paragraph>211.9</paragraph>
+                              <paragraph>± 69.88</paragraph>
+                              <paragraph>228.9</paragraph>
+                              <paragraph>36.2, 312.2</paragraph>
+                           </td>
+                           <td align="center" valign="top" styleCode="Botrule Toprule Lrule Rrule">
+                              <paragraph>225.4</paragraph>
+                              <paragraph>± 83.22</paragraph>
+                              <paragraph>229.4</paragraph>
+                              <paragraph>50.6, 501.0</paragraph>
+                           </td>
+                           <td align="center" valign="top" styleCode="Botrule Toprule Lrule Rrule">
+                              <paragraph>13.5</paragraph>
+                              <paragraph>± 50.63</paragraph>
+                              <paragraph>9.9</paragraph>
+                              <paragraph>-99.2, 220.5</paragraph>
+                           </td>
+                           <td align="center" valign="top" styleCode="Botrule Toprule Lrule Rrule">
+                              <paragraph>23.0<sup>†</sup>
+                              </paragraph>
+                              <paragraph>(CI<sub>95</sub>, 2.9, 43.1)</paragraph>
+                              <paragraph>22.5<sup>‡</sup>
+                              </paragraph>
+                              <paragraph>(CI<sub>95</sub>, 4.0, 40.9)<br/>(p = 0.0174)<sup>‡,§</sup>
+                              </paragraph>
+                           </td>
+                        </tr>
+                     </tbody>
+                  </table>
+                  <paragraph>* One patient in the Vimizim group dropped out after 1 infusion </paragraph>
+                  <paragraph>
+                     <sup>†</sup> Observed Vimizim mean change – Placebo mean change</paragraph>
+                  <paragraph>
+                     <sup>‡</sup> ANCOVA Model-based Vimizim mean change – Placebo mean change, adjusted for baseline 6MWT categories (less than or equal to 200 meters, greater than 200 meters) and age groups (5-11, 12-18, 19 or older)</paragraph>
+                  <paragraph>
+                     <sup>§</sup> p-value based on the model-based  difference in means</paragraph>
+                  <paragraph>
+                     <content styleCode="underline">Extension Trial</content>
+                  </paragraph>
+                  <paragraph>Patients who participated in the placebo-controlled trial were eligible to continue treatment in an open-label extension trial. One hundred seventy-three of 176 patients enrolled in the extension trial in which patients received Vimizim 2 mg/kg once per week (n=86) or Vimizim 2 mg/kg once every other week (n=87). In patients who continued to receive Vimizim 2 mg/kg once per week for another 48 weeks (for a total of 72-week exposure), walking ability showed no further improvement beyond the first 24 weeks of treatment in the placebo-controlled trial.   </paragraph>
+               </text>
+               <effectiveTime value="20191211"/>
+            </section>
+         </component>
+         <component>
+            <section ID="LINK_50eb9cfc-06ec-44a3-9afe-a162afe4cce3">
+               <id root="65d2b44d-7647-468c-be04-40d244e360e8"/>
+               <code code="34069-5" codeSystem="2.16.840.1.113883.6.1" displayName="HOW SUPPLIED SECTION"/>
+               <title>16 HOW SUPPLIED/STORAGE AND HANDLING</title>
+               <text>
+                  <paragraph>Vimizim is supplied as a concentrated solution for infusion (1 mg per mL) requiring dilution. One vial of 5 mL contains 5 mg Vimizim. </paragraph>
+                  <paragraph>NDC 68135-100-01, 5 mL single-dose vial </paragraph>
+                  <paragraph>Store Vimizim under refrigeration at 2°C to 8°C (36°F to 46°F). Do not freeze or shake. Protect from light.</paragraph>
+                  <paragraph>Diluted Vimizim should be used immediately. If immediate use is not possible, diluted Vimizim may be stored for up to 24 hours at 2°C to 8°C (36°F to 46°F) followed by up to 24 hours at 23°C to 27°C (73°F to 81°F) during administration.</paragraph>
+               </text>
+               <effectiveTime value="20191211"/>
+            </section>
+         </component>
+         <component>
+            <section ID="LINK_1e2825e9-6a21-4d0d-85c8-8d7c8a57608e">
+               <id root="a189295a-b0d9-45fa-93fd-4e9942325fd1"/>
+               <code code="34076-0" codeSystem="2.16.840.1.113883.6.1" displayName="INFORMATION FOR PATIENTS SECTION"/>
+               <title>17 PATIENT COUNSELING INFORMATION</title>
+               <text>
+                  <paragraph>
+                     <content styleCode="underline">Anaphylactic Reactions </content>
+                  </paragraph>
+                  <paragraph>Advise the patients and caregivers that reactions related to administration and infusion may occur during Vimizim treatment, including life-threatening anaphylaxis.  Patients who have experienced anaphylactic reactions may require observation during and after Vimizim administration. Inform patients of the signs and symptoms of anaphylaxis and have them seek immediate medical care should symptoms occur.  The risks and benefits of re-administering Vimizim following a severe reaction should be considered. Patients with acute respiratory illness may be at risk of serious acute exacerbation of their respiratory compromise due to hypersensitivity reactions.  Pre-medication and reduction of infusion rate may alleviate those reactions associated with the infusion <content styleCode="italics">[see Warnings and Precautions (<linkHtml href="#LINK_f26e1ef7-ba4f-46c9-95be-cc670a147791">5.1</linkHtml>, <linkHtml href="#LINK_48192839-a126-4e4f-b1a8-d7228a7b7acc">5.2</linkHtml>)].</content>
+                  </paragraph>
+                  <paragraph>
+                     <content styleCode="underline">Morquio A Registry </content>
+                  </paragraph>
+                  <paragraph>Inform patients of the Morquio A Registry (MARS) established in order to better understand the variability and progression of the disease in the population as a whole, and to monitor and evaluate longterm effectiveness and safety of Vimizim. The Morquio A Registry will also monitor the effect of Vimizim on pregnant women, lactating women and their infants, and determine if Vimizim is present in breast milk. Patients should be encouraged to participate in the MARS and advised that their participation is voluntary and may involve long-term follow-up. For more information, contact MARS@bmrn.com or call 1-800-983-4587.</paragraph>
+                  <paragraph>Manufactured by: <br/>
+                     <content styleCode="bold">BioMarin Pharmaceutical Inc. </content>Novato, CA 94949<br/>US License Number 1649<br/>1-866-906-6100 (phone)</paragraph>
+               </text>
+               <effectiveTime value="20191218"/>
+            </section>
+         </component>
+         <component>
+            <section ID="LINK_b77d1151-22aa-454f-a4da-7531e0e18dc0">
+               <id root="5ff2f4e1-a66b-4d96-bb63-745eddd1a26f"/>
+               <code code="51945-4" codeSystem="2.16.840.1.113883.6.1" displayName="PACKAGE LABEL.PRINCIPAL DISPLAY PANEL"/>
+               <title>PACKAGE LABEL</title>
+               <text>
+                  <paragraph>
+                     <content styleCode="bold">NDC 68135-100-01<br/>
+                     </content>
+                     <br/>
+                     <content styleCode="bold">VIMIZIM®<br/>(elosulfase alfa)<br/>
+                     </content>
+                     <br/>
+                     <content styleCode="bold">5 mg/5 mL<br/>
+                     </content>(1 mg/mL)<br/>
+                     <br/>
+                     <content styleCode="bold">For intravenous infusion</content>
+                  </paragraph>
+                  <paragraph>
+                     <content styleCode="bold">Must be diluted prior to use</content>
+                     <br/>
+                     <br/>
+                     <content styleCode="bold">Rx Only</content>
+                     <br/>
+                     <br/>
+                     <renderMultiMedia referencedObject="MM1">
+                        <caption>Vimizim Carton</caption>
+                     </renderMultiMedia>
+                  </paragraph>
+               </text>
+               <effectiveTime value="20200414"/>
+               <component>
+                  <observationMedia ID="MM1">
+                     <text>Vimizim 5mg/5mL</text>
+                     <value xsi:type="ED" mediaType="image/jpeg">
+                        <reference value="vimizim-1.jpg"/>
+                     </value>
+                  </observationMedia>
+               </component>
+            </section>
+         </component>
+      </structuredBody>
+   </component>
+</document>

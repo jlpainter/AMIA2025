@@ -1,0 +1,2067 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet href="https://www.accessdata.fda.gov/spl/stylesheet/spl.xsl" type="text/xsl"?>
+<document xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:hl7-org:v3 https://www.accessdata.fda.gov/spl/schema/spl.xsd">
+   <id root="47bc4f0f-13e6-4c5b-97f2-d6dab432a660"/>
+   <code code="34391-3" codeSystem="2.16.840.1.113883.6.1" displayName="HUMAN PRESCRIPTION DRUG LABEL"/>
+   <title>These highlights do not include all the information needed to use MOVANTIK safely and effectively.  See full prescribing information for MOVANTIK.<br/>MOVANTIK<sup>®</sup> (naloxegol) tablets, for oral use<br/>Initial U.S. Approval: 2014</title>
+   <effectiveTime value="20230328"/>
+   <setId root="28596788-b73f-4247-85fc-3105f51fff5a"/>
+   <versionNumber value="1"/>
+   <author>
+      <time/>
+      <assignedEntity>
+         <representedOrganization>
+            <id extension="118035461" root="1.3.6.1.4.1.519.1"/>
+            <name>Valinor Pharma, LLC</name>
+            <assignedEntity>
+               <assignedOrganization/>
+            </assignedEntity>
+         </representedOrganization>
+      </assignedEntity>
+   </author>
+   <component>
+      <structuredBody>
+         <component>
+            <section>
+               <id root="b8be5ed4-4837-4290-b690-18920f0ef0c8"/>
+               <code code="48780-1" codeSystem="2.16.840.1.113883.6.1" displayName="SPL product data elements section"/>
+               <effectiveTime value="20230328"/>
+               <subject>
+                  <manufacturedProduct>
+                     <manufacturedProduct>
+                        <code code="82625-8801" codeSystem="2.16.840.1.113883.6.69"/>
+                        <name>MOVANTIK</name>
+                        <formCode code="C42931" codeSystem="2.16.840.1.113883.3.26.1.1" displayName="TABLET, FILM COATED"/>
+                        <asEntityWithGeneric>
+                           <genericMedicine>
+                              <name>naloxegol oxalate</name>
+                           </genericMedicine>
+                        </asEntityWithGeneric>
+                        <ingredient classCode="ACTIM">
+                           <quantity>
+                              <numerator unit="mg" value="12.5"/>
+                              <denominator unit="1" value="1"/>
+                           </quantity>
+                           <ingredientSubstance>
+                              <code code="65I14TNM33" codeSystem="2.16.840.1.113883.4.9"/>
+                              <name>NALOXEGOL OXALATE</name>
+                              <activeMoiety>
+                                 <activeMoiety>
+                                    <code code="44T7335BKE" codeSystem="2.16.840.1.113883.4.9"/>
+                                    <name>NALOXEGOL</name>
+                                 </activeMoiety>
+                              </activeMoiety>
+                           </ingredientSubstance>
+                        </ingredient>
+                        <ingredient classCode="IACT">
+                           <ingredientSubstance>
+                              <code code="3OWL53L36A" codeSystem="2.16.840.1.113883.4.9"/>
+                              <name>MANNITOL</name>
+                           </ingredientSubstance>
+                        </ingredient>
+                        <ingredient classCode="IACT">
+                           <ingredientSubstance>
+                              <code code="OP1R32D61U" codeSystem="2.16.840.1.113883.4.9"/>
+                              <name>MICROCRYSTALLINE CELLULOSE</name>
+                           </ingredientSubstance>
+                        </ingredient>
+                        <ingredient classCode="IACT">
+                           <ingredientSubstance>
+                              <code code="M28OL1HH48" codeSystem="2.16.840.1.113883.4.9"/>
+                              <name>CROSCARMELLOSE SODIUM</name>
+                           </ingredientSubstance>
+                        </ingredient>
+                        <ingredient classCode="IACT">
+                           <ingredientSubstance>
+                              <code code="70097M6I30" codeSystem="2.16.840.1.113883.4.9"/>
+                              <name>MAGNESIUM STEARATE</name>
+                           </ingredientSubstance>
+                        </ingredient>
+                        <ingredient classCode="IACT">
+                           <ingredientSubstance>
+                              <code code="8D4SNN7V92" codeSystem="2.16.840.1.113883.4.9"/>
+                              <name>PROPYL GALLATE</name>
+                           </ingredientSubstance>
+                        </ingredient>
+                        <ingredient classCode="IACT">
+                           <ingredientSubstance>
+                              <code code="3NXW29V3WO" codeSystem="2.16.840.1.113883.4.9"/>
+                              <name>HYPROMELLOSE, UNSPECIFIED</name>
+                           </ingredientSubstance>
+                        </ingredient>
+                        <ingredient classCode="IACT">
+                           <ingredientSubstance>
+                              <code code="15FIX9V2JP" codeSystem="2.16.840.1.113883.4.9"/>
+                              <name>TITANIUM DIOXIDE</name>
+                           </ingredientSubstance>
+                        </ingredient>
+                        <ingredient classCode="IACT">
+                           <ingredientSubstance>
+                              <code code="B697894SGQ" codeSystem="2.16.840.1.113883.4.9"/>
+                              <name>POLYETHYLENE GLYCOL 400</name>
+                           </ingredientSubstance>
+                        </ingredient>
+                        <ingredient classCode="IACT">
+                           <ingredientSubstance>
+                              <code code="1K09F3G675" codeSystem="2.16.840.1.113883.4.9"/>
+                              <name>FERRIC OXIDE RED</name>
+                           </ingredientSubstance>
+                        </ingredient>
+                        <ingredient classCode="IACT">
+                           <ingredientSubstance>
+                              <code code="XM0M87F357" codeSystem="2.16.840.1.113883.4.9"/>
+                              <name>FERROSOFERRIC OXIDE</name>
+                           </ingredientSubstance>
+                        </ingredient>
+                        <ingredient classCode="IACT">
+                           <ingredientSubstance>
+                              <code code="059QF0KO0R" codeSystem="2.16.840.1.113883.4.9"/>
+                              <name>WATER</name>
+                           </ingredientSubstance>
+                        </ingredient>
+                        <asContent>
+                           <quantity>
+                              <numerator unit="1" value="30"/>
+                              <denominator value="1"/>
+                           </quantity>
+                           <containerPackagedProduct>
+                              <code code="82625-8801-1" codeSystem="2.16.840.1.113883.6.69"/>
+                              <formCode code="C43169" codeSystem="2.16.840.1.113883.3.26.1.1" displayName="BOTTLE"/>
+                           </containerPackagedProduct>
+                           <subjectOf>
+                              <characteristic classCode="OBS">
+                                 <code code="SPLCMBPRDTP" codeSystem="2.16.840.1.113883.1.11.19255"/>
+                                 <value code="C112160" codeSystem="2.16.840.1.113883.3.26.1.1" displayName="Type 0: Not a Combination Product" xsi:type="CE"/>
+                              </characteristic>
+                           </subjectOf>
+                           <subjectOf>
+                              <marketingAct>
+                                 <code code="C53292" codeSystem="2.16.840.1.113883.3.26.1.1"/>
+                                 <statusCode code="active"/>
+                                 <effectiveTime>
+                                    <low value="20230328"/>
+                                 </effectiveTime>
+                              </marketingAct>
+                           </subjectOf>
+                        </asContent>
+                        <asContent>
+                           <quantity>
+                              <numerator unit="1" value="90"/>
+                              <denominator value="1"/>
+                           </quantity>
+                           <containerPackagedProduct>
+                              <code code="82625-8801-2" codeSystem="2.16.840.1.113883.6.69"/>
+                              <formCode code="C43169" codeSystem="2.16.840.1.113883.3.26.1.1" displayName="BOTTLE"/>
+                           </containerPackagedProduct>
+                           <subjectOf>
+                              <marketingAct>
+                                 <code code="C53292" codeSystem="2.16.840.1.113883.3.26.1.1"/>
+                                 <statusCode code="active"/>
+                                 <effectiveTime>
+                                    <low value="20230328"/>
+                                 </effectiveTime>
+                              </marketingAct>
+                           </subjectOf>
+                           <subjectOf>
+                              <characteristic classCode="OBS">
+                                 <code code="SPLCMBPRDTP" codeSystem="2.16.840.1.113883.1.11.19255"/>
+                                 <value code="C112160" codeSystem="2.16.840.1.113883.3.26.1.1" displayName="Type 0: Not a Combination Product" xsi:type="CE"/>
+                              </characteristic>
+                           </subjectOf>
+                        </asContent>
+                        <asContent>
+                           <quantity>
+                              <numerator unit="1" value="10"/>
+                              <denominator value="1"/>
+                           </quantity>
+                           <containerPackagedProduct>
+                              <code/>
+                              <formCode code="C43168" codeSystem="2.16.840.1.113883.3.26.1.1" displayName="BLISTER PACK"/>
+                              <asContent>
+                                 <quantity>
+                                    <numerator unit="1" value="10"/>
+                                    <denominator value="1"/>
+                                 </quantity>
+                                 <containerPackagedProduct>
+                                    <code code="82625-8801-3" codeSystem="2.16.840.1.113883.6.69"/>
+                                    <formCode code="C43182" codeSystem="2.16.840.1.113883.3.26.1.1" displayName="CARTON"/>
+                                 </containerPackagedProduct>
+                                 <subjectOf>
+                                    <marketingAct>
+                                       <code code="C53292" codeSystem="2.16.840.1.113883.3.26.1.1"/>
+                                       <statusCode code="active"/>
+                                       <effectiveTime>
+                                          <low value="20230328"/>
+                                       </effectiveTime>
+                                    </marketingAct>
+                                 </subjectOf>
+                              </asContent>
+                           </containerPackagedProduct>
+                           <subjectOf>
+                              <characteristic classCode="OBS">
+                                 <code code="SPLCMBPRDTP" codeSystem="2.16.840.1.113883.1.11.19255"/>
+                                 <value code="C112160" codeSystem="2.16.840.1.113883.3.26.1.1" displayName="Type 0: Not a Combination Product" xsi:type="CE"/>
+                              </characteristic>
+                           </subjectOf>
+                        </asContent>
+                        <asContent>
+                           <quantity>
+                              <numerator unit="1" value="3"/>
+                              <denominator value="1"/>
+                           </quantity>
+                           <containerPackagedProduct>
+                              <code/>
+                              <formCode code="C43168" codeSystem="2.16.840.1.113883.3.26.1.1" displayName="BLISTER PACK"/>
+                              <asContent>
+                                 <quantity>
+                                    <numerator unit="1" value="1"/>
+                                    <denominator value="1"/>
+                                 </quantity>
+                                 <containerPackagedProduct>
+                                    <code code="82625-8801-4" codeSystem="2.16.840.1.113883.6.69"/>
+                                    <formCode code="C43182" codeSystem="2.16.840.1.113883.3.26.1.1" displayName="CARTON"/>
+                                 </containerPackagedProduct>
+                                 <subjectOf>
+                                    <marketingAct>
+                                       <code code="C96974" codeSystem="2.16.840.1.113883.3.26.1.1"/>
+                                       <statusCode code="active"/>
+                                       <effectiveTime>
+                                          <low value="20230328"/>
+                                       </effectiveTime>
+                                    </marketingAct>
+                                 </subjectOf>
+                              </asContent>
+                           </containerPackagedProduct>
+                           <subjectOf>
+                              <characteristic classCode="OBS">
+                                 <code code="SPLCMBPRDTP" codeSystem="2.16.840.1.113883.1.11.19255"/>
+                                 <value code="C112160" codeSystem="2.16.840.1.113883.3.26.1.1" displayName="Type 0: Not a Combination Product" xsi:type="CE"/>
+                              </characteristic>
+                           </subjectOf>
+                        </asContent>
+                     </manufacturedProduct>
+                     <subjectOf>
+                        <approval>
+                           <id extension="NDA204760" root="2.16.840.1.113883.3.150"/>
+                           <code code="C73594" codeSystem="2.16.840.1.113883.3.26.1.1" displayName="NDA"/>
+                           <author>
+                              <territorialAuthority>
+                                 <territory>
+                                    <code code="USA" codeSystem="2.16.840.1.113883.5.28"/>
+                                 </territory>
+                              </territorialAuthority>
+                           </author>
+                        </approval>
+                     </subjectOf>
+                     <subjectOf>
+                        <marketingAct>
+                           <code code="C53292" codeSystem="2.16.840.1.113883.3.26.1.1"/>
+                           <statusCode code="active"/>
+                           <effectiveTime>
+                              <low value="20230328"/>
+                           </effectiveTime>
+                        </marketingAct>
+                     </subjectOf>
+                     <subjectOf>
+                        <characteristic classCode="OBS">
+                           <code code="SPLCOLOR" codeSystem="2.16.840.1.113883.1.11.19255"/>
+                           <value code="C48328" codeSystem="2.16.840.1.113883.3.26.1.1" displayName="PINK" xsi:type="CE">
+                              <originalText>mauve</originalText>
+                           </value>
+                        </characteristic>
+                     </subjectOf>
+                     <subjectOf>
+                        <characteristic classCode="OBS">
+                           <code code="SPLSIZE" codeSystem="2.16.840.1.113883.1.11.19255"/>
+                           <value unit="mm" value="10" xsi:type="PQ"/>
+                        </characteristic>
+                     </subjectOf>
+                     <subjectOf>
+                        <characteristic classCode="OBS">
+                           <code code="SPLSHAPE" codeSystem="2.16.840.1.113883.1.11.19255"/>
+                           <value code="C48345" codeSystem="2.16.840.1.113883.3.26.1.1" displayName="OVAL" xsi:type="CE">
+                              <originalText>biconvex</originalText>
+                           </value>
+                        </characteristic>
+                     </subjectOf>
+                     <subjectOf>
+                        <characteristic classCode="OBS">
+                           <code code="SPLSCORE" codeSystem="2.16.840.1.113883.1.11.19255"/>
+                           <value value="1" xsi:type="INT"/>
+                        </characteristic>
+                     </subjectOf>
+                     <subjectOf>
+                        <characteristic classCode="OBS">
+                           <code code="SPLIMPRINT" codeSystem="2.16.840.1.113883.1.11.19255"/>
+                           <value xsi:type="ST">nGL;12;5</value>
+                        </characteristic>
+                     </subjectOf>
+                     <consumedIn>
+                        <substanceAdministration>
+                           <routeCode code="C38288" codeSystem="2.16.840.1.113883.3.26.1.1" displayName="ORAL"/>
+                        </substanceAdministration>
+                     </consumedIn>
+                  </manufacturedProduct>
+               </subject>
+               <subject>
+                  <manufacturedProduct>
+                     <manufacturedProduct>
+                        <code code="82625-8802" codeSystem="2.16.840.1.113883.6.69"/>
+                        <name>MOVANTIK</name>
+                        <formCode code="C42931" codeSystem="2.16.840.1.113883.3.26.1.1" displayName="TABLET, FILM COATED"/>
+                        <asEntityWithGeneric>
+                           <genericMedicine>
+                              <name>naloxegol oxalate</name>
+                           </genericMedicine>
+                        </asEntityWithGeneric>
+                        <ingredient classCode="ACTIM">
+                           <quantity>
+                              <numerator unit="mg" value="25"/>
+                              <denominator unit="1" value="1"/>
+                           </quantity>
+                           <ingredientSubstance>
+                              <code code="65I14TNM33" codeSystem="2.16.840.1.113883.4.9"/>
+                              <name>NALOXEGOL OXALATE</name>
+                              <activeMoiety>
+                                 <activeMoiety>
+                                    <code code="44T7335BKE" codeSystem="2.16.840.1.113883.4.9"/>
+                                    <name>NALOXEGOL</name>
+                                 </activeMoiety>
+                              </activeMoiety>
+                           </ingredientSubstance>
+                        </ingredient>
+                        <ingredient classCode="IACT">
+                           <ingredientSubstance>
+                              <code code="3OWL53L36A" codeSystem="2.16.840.1.113883.4.9"/>
+                              <name>MANNITOL</name>
+                           </ingredientSubstance>
+                        </ingredient>
+                        <ingredient classCode="IACT">
+                           <ingredientSubstance>
+                              <code code="OP1R32D61U" codeSystem="2.16.840.1.113883.4.9"/>
+                              <name>MICROCRYSTALLINE CELLULOSE</name>
+                           </ingredientSubstance>
+                        </ingredient>
+                        <ingredient classCode="IACT">
+                           <ingredientSubstance>
+                              <code code="M28OL1HH48" codeSystem="2.16.840.1.113883.4.9"/>
+                              <name>CROSCARMELLOSE SODIUM</name>
+                           </ingredientSubstance>
+                        </ingredient>
+                        <ingredient classCode="IACT">
+                           <ingredientSubstance>
+                              <code code="70097M6I30" codeSystem="2.16.840.1.113883.4.9"/>
+                              <name>MAGNESIUM STEARATE</name>
+                           </ingredientSubstance>
+                        </ingredient>
+                        <ingredient classCode="IACT">
+                           <ingredientSubstance>
+                              <code code="8D4SNN7V92" codeSystem="2.16.840.1.113883.4.9"/>
+                              <name>PROPYL GALLATE</name>
+                           </ingredientSubstance>
+                        </ingredient>
+                        <ingredient classCode="IACT">
+                           <ingredientSubstance>
+                              <code code="3NXW29V3WO" codeSystem="2.16.840.1.113883.4.9"/>
+                              <name>HYPROMELLOSE, UNSPECIFIED</name>
+                           </ingredientSubstance>
+                        </ingredient>
+                        <ingredient classCode="IACT">
+                           <ingredientSubstance>
+                              <code code="15FIX9V2JP" codeSystem="2.16.840.1.113883.4.9"/>
+                              <name>TITANIUM DIOXIDE</name>
+                           </ingredientSubstance>
+                        </ingredient>
+                        <ingredient classCode="IACT">
+                           <ingredientSubstance>
+                              <code code="B697894SGQ" codeSystem="2.16.840.1.113883.4.9"/>
+                              <name>POLYETHYLENE GLYCOL 400</name>
+                           </ingredientSubstance>
+                        </ingredient>
+                        <ingredient classCode="IACT">
+                           <ingredientSubstance>
+                              <code code="1K09F3G675" codeSystem="2.16.840.1.113883.4.9"/>
+                              <name>FERRIC OXIDE RED</name>
+                           </ingredientSubstance>
+                        </ingredient>
+                        <ingredient classCode="IACT">
+                           <ingredientSubstance>
+                              <code code="XM0M87F357" codeSystem="2.16.840.1.113883.4.9"/>
+                              <name>FERROSOFERRIC OXIDE</name>
+                           </ingredientSubstance>
+                        </ingredient>
+                        <ingredient classCode="IACT">
+                           <ingredientSubstance>
+                              <code code="059QF0KO0R" codeSystem="2.16.840.1.113883.4.9"/>
+                              <name>WATER</name>
+                           </ingredientSubstance>
+                        </ingredient>
+                        <asContent>
+                           <quantity>
+                              <numerator unit="1" value="30"/>
+                              <denominator value="1"/>
+                           </quantity>
+                           <containerPackagedProduct>
+                              <code code="82625-8802-1" codeSystem="2.16.840.1.113883.6.69"/>
+                              <formCode code="C43169" codeSystem="2.16.840.1.113883.3.26.1.1" displayName="BOTTLE"/>
+                           </containerPackagedProduct>
+                           <subjectOf>
+                              <marketingAct>
+                                 <code code="C53292" codeSystem="2.16.840.1.113883.3.26.1.1"/>
+                                 <statusCode code="active"/>
+                                 <effectiveTime>
+                                    <low value="20230328"/>
+                                 </effectiveTime>
+                              </marketingAct>
+                           </subjectOf>
+                           <subjectOf>
+                              <characteristic classCode="OBS">
+                                 <code code="SPLCMBPRDTP" codeSystem="2.16.840.1.113883.1.11.19255"/>
+                                 <value code="C112160" codeSystem="2.16.840.1.113883.3.26.1.1" displayName="Type 0: Not a Combination Product" xsi:type="CE"/>
+                              </characteristic>
+                           </subjectOf>
+                        </asContent>
+                        <asContent>
+                           <quantity>
+                              <numerator unit="1" value="90"/>
+                              <denominator value="1"/>
+                           </quantity>
+                           <containerPackagedProduct>
+                              <code code="82625-8802-2" codeSystem="2.16.840.1.113883.6.69"/>
+                              <formCode code="C43169" codeSystem="2.16.840.1.113883.3.26.1.1" displayName="BOTTLE"/>
+                           </containerPackagedProduct>
+                           <subjectOf>
+                              <marketingAct>
+                                 <code code="C53292" codeSystem="2.16.840.1.113883.3.26.1.1"/>
+                                 <statusCode code="active"/>
+                                 <effectiveTime>
+                                    <low value="20230328"/>
+                                 </effectiveTime>
+                              </marketingAct>
+                           </subjectOf>
+                           <subjectOf>
+                              <characteristic classCode="OBS">
+                                 <code code="SPLCMBPRDTP" codeSystem="2.16.840.1.113883.1.11.19255"/>
+                                 <value code="C112160" codeSystem="2.16.840.1.113883.3.26.1.1" displayName="Type 0: Not a Combination Product" xsi:type="CE"/>
+                              </characteristic>
+                           </subjectOf>
+                        </asContent>
+                        <asContent>
+                           <quantity>
+                              <numerator unit="1" value="10"/>
+                              <denominator value="1"/>
+                           </quantity>
+                           <containerPackagedProduct>
+                              <code/>
+                              <formCode code="C43168" codeSystem="2.16.840.1.113883.3.26.1.1" displayName="BLISTER PACK"/>
+                              <asContent>
+                                 <quantity>
+                                    <numerator unit="1" value="10"/>
+                                    <denominator value="1"/>
+                                 </quantity>
+                                 <containerPackagedProduct>
+                                    <code code="82625-8802-3" codeSystem="2.16.840.1.113883.6.69"/>
+                                    <formCode code="C43182" codeSystem="2.16.840.1.113883.3.26.1.1" displayName="CARTON"/>
+                                 </containerPackagedProduct>
+                                 <subjectOf>
+                                    <marketingAct>
+                                       <code code="C53292" codeSystem="2.16.840.1.113883.3.26.1.1"/>
+                                       <statusCode code="active"/>
+                                       <effectiveTime>
+                                          <low value="20230328"/>
+                                       </effectiveTime>
+                                    </marketingAct>
+                                 </subjectOf>
+                              </asContent>
+                           </containerPackagedProduct>
+                           <subjectOf>
+                              <characteristic classCode="OBS">
+                                 <code code="SPLCMBPRDTP" codeSystem="2.16.840.1.113883.1.11.19255"/>
+                                 <value code="C112160" codeSystem="2.16.840.1.113883.3.26.1.1" displayName="Type 0: Not a Combination Product" xsi:type="CE"/>
+                              </characteristic>
+                           </subjectOf>
+                        </asContent>
+                        <asContent>
+                           <quantity>
+                              <numerator unit="1" value="3"/>
+                              <denominator value="1"/>
+                           </quantity>
+                           <containerPackagedProduct>
+                              <code/>
+                              <formCode code="C43168" codeSystem="2.16.840.1.113883.3.26.1.1" displayName="BLISTER PACK"/>
+                              <asContent>
+                                 <quantity>
+                                    <numerator unit="1" value="1"/>
+                                    <denominator value="1"/>
+                                 </quantity>
+                                 <containerPackagedProduct>
+                                    <code code="82625-8802-4" codeSystem="2.16.840.1.113883.6.69"/>
+                                    <formCode code="C43182" codeSystem="2.16.840.1.113883.3.26.1.1" displayName="CARTON"/>
+                                 </containerPackagedProduct>
+                                 <subjectOf>
+                                    <marketingAct>
+                                       <code code="C96974" codeSystem="2.16.840.1.113883.3.26.1.1"/>
+                                       <statusCode code="active"/>
+                                       <effectiveTime>
+                                          <low value="20230328"/>
+                                       </effectiveTime>
+                                    </marketingAct>
+                                 </subjectOf>
+                              </asContent>
+                           </containerPackagedProduct>
+                           <subjectOf>
+                              <characteristic classCode="OBS">
+                                 <code code="SPLCMBPRDTP" codeSystem="2.16.840.1.113883.1.11.19255"/>
+                                 <value code="C112160" codeSystem="2.16.840.1.113883.3.26.1.1" displayName="Type 0: Not a Combination Product" xsi:type="CE"/>
+                              </characteristic>
+                           </subjectOf>
+                        </asContent>
+                     </manufacturedProduct>
+                     <subjectOf>
+                        <approval>
+                           <id extension="NDA204760" root="2.16.840.1.113883.3.150"/>
+                           <code code="C73594" codeSystem="2.16.840.1.113883.3.26.1.1" displayName="NDA"/>
+                           <author>
+                              <territorialAuthority>
+                                 <territory>
+                                    <code code="USA" codeSystem="2.16.840.1.113883.5.28"/>
+                                 </territory>
+                              </territorialAuthority>
+                           </author>
+                        </approval>
+                     </subjectOf>
+                     <subjectOf>
+                        <marketingAct>
+                           <code code="C53292" codeSystem="2.16.840.1.113883.3.26.1.1"/>
+                           <statusCode code="active"/>
+                           <effectiveTime>
+                              <low value="20230328"/>
+                           </effectiveTime>
+                        </marketingAct>
+                     </subjectOf>
+                     <subjectOf>
+                        <characteristic classCode="OBS">
+                           <code code="SPLCOLOR" codeSystem="2.16.840.1.113883.1.11.19255"/>
+                           <value code="C48328" codeSystem="2.16.840.1.113883.3.26.1.1" displayName="PINK" xsi:type="CE">
+                              <originalText>mauve</originalText>
+                           </value>
+                        </characteristic>
+                     </subjectOf>
+                     <subjectOf>
+                        <characteristic classCode="OBS">
+                           <code code="SPLSIZE" codeSystem="2.16.840.1.113883.1.11.19255"/>
+                           <value unit="mm" value="13" xsi:type="PQ"/>
+                        </characteristic>
+                     </subjectOf>
+                     <subjectOf>
+                        <characteristic classCode="OBS">
+                           <code code="SPLSHAPE" codeSystem="2.16.840.1.113883.1.11.19255"/>
+                           <value code="C48345" codeSystem="2.16.840.1.113883.3.26.1.1" displayName="OVAL" xsi:type="CE">
+                              <originalText>biconvex</originalText>
+                           </value>
+                        </characteristic>
+                     </subjectOf>
+                     <subjectOf>
+                        <characteristic classCode="OBS">
+                           <code code="SPLSCORE" codeSystem="2.16.840.1.113883.1.11.19255"/>
+                           <value value="1" xsi:type="INT"/>
+                        </characteristic>
+                     </subjectOf>
+                     <subjectOf>
+                        <characteristic classCode="OBS">
+                           <code code="SPLIMPRINT" codeSystem="2.16.840.1.113883.1.11.19255"/>
+                           <value xsi:type="ST">nGL;25</value>
+                        </characteristic>
+                     </subjectOf>
+                     <consumedIn>
+                        <substanceAdministration>
+                           <routeCode code="C38288" codeSystem="2.16.840.1.113883.3.26.1.1" displayName="ORAL"/>
+                        </substanceAdministration>
+                     </consumedIn>
+                  </manufacturedProduct>
+               </subject>
+            </section>
+         </component>
+         <component>
+            <section ID="ID_78f02106-978e-4f86-b8ad-ee2cb060ac8c">
+               <id root="8a8ca63d-425f-4383-a108-b39f01578ab8"/>
+               <code code="43683-2" codeSystem="2.16.840.1.113883.6.1" displayName="RECENT MAJOR CHANGES SECTION"/>
+               <effectiveTime value="20230328"/>
+               <excerpt>
+                  <highlight>
+                     <text>
+                        <paragraph/>
+                        <paragraph>Warnings and Precautions <linkHtml href="#ID_c085795c-f2a8-4b62-9c63-227018cf4c09">(5.3)</linkHtml>                                         04/2020</paragraph>
+                     </text>
+                  </highlight>
+               </excerpt>
+            </section>
+         </component>
+         <component>
+            <section ID="ID_3b1564fa-4c45-4b6a-b89c-a6e4dc5e9e89">
+               <id root="424202b8-80df-4b74-9f6b-172bcc376a2b"/>
+               <code code="34067-9" codeSystem="2.16.840.1.113883.6.1" displayName="INDICATIONS &amp; USAGE SECTION"/>
+               <title>1 INDICATIONS AND USAGE</title>
+               <text>
+                  <paragraph>MOVANTIK<sup>®</sup> is indicated for the treatment of opioid-induced constipation (OIC) in adult patients with chronic non-cancer pain, including patients with chronic pain related to prior cancer or its treatment who do not require frequent (e.g., weekly) opioid dosage escalation.</paragraph>
+               </text>
+               <effectiveTime value="20230328"/>
+               <excerpt>
+                  <highlight>
+                     <text>
+                        <paragraph>MOVANTIK is an opioid antagonist indicated for the treatment of opioid-induced constipation (OIC) in adult patients with chronic non-cancer pain, including patients with chronic pain related to prior cancer or its treatment who do not require frequent (e.g., weekly) opioid dosage escalation. <linkHtml href="#_1_INDICATIONS_AND">(1)</linkHtml>
+                        </paragraph>
+                     </text>
+                  </highlight>
+               </excerpt>
+            </section>
+         </component>
+         <component>
+            <section ID="ID_1dd1ea32-e300-4529-a69f-6146006774a9">
+               <id root="f8dff079-0c14-44d8-822f-09ec40fc161f"/>
+               <code code="34068-7" codeSystem="2.16.840.1.113883.6.1" displayName="DOSAGE &amp; ADMINISTRATION SECTION"/>
+               <title>2 DOSAGE AND ADMINISTRATION</title>
+               <effectiveTime value="20230328"/>
+               <excerpt>
+                  <highlight>
+                     <text>
+                        <paragraph>
+                           <content styleCode="underline">Administration</content>:</paragraph>
+                        <list listType="unordered" styleCode="Disc">
+                           <item>
+                              <caption>•</caption>Discontinue maintenance laxative therapy before starting MOVANTIK; may resume laxatives if patients have OIC symptoms after taking MOVANTIK for 3 days. <linkHtml href="#ID_2e87b177-9afe-44f3-87ff-b54a653207df">(2.1)</linkHtml>
+                           </item>
+                           <item>
+                              <caption>•</caption>Alteration in analgesic dosing regimen prior to starting MOVANTIK is not required. <linkHtml href="#ID_2e87b177-9afe-44f3-87ff-b54a653207df">(2.1)</linkHtml>
+                           </item>
+                           <item>
+                              <caption>•</caption>Patients receiving opioids for less than 4 weeks may be less responsive to MOVANTIK. <linkHtml href="#ID_2e87b177-9afe-44f3-87ff-b54a653207df">(2.1)</linkHtml>
+                           </item>
+                           <item>
+                              <caption>•</caption>Take on an empty stomach at least 1 hour prior to the first meal of the day or 2 hours after the meal. <linkHtml href="#ID_2e87b177-9afe-44f3-87ff-b54a653207df">(2.1)</linkHtml>
+                           </item>
+                           <item>
+                              <caption>•</caption>For patients who are unable to swallow the MOVANTIK tablet whole, the tablet can be crushed and given orally or administered via nasogastric tube, see full prescribing information. <linkHtml href="#ID_2e87b177-9afe-44f3-87ff-b54a653207df">(2.1)</linkHtml>
+                           </item>
+                           <item>
+                              <caption>•</caption>Avoid consumption of grapefruit or grapefruit juice. <linkHtml href="#ID_2e87b177-9afe-44f3-87ff-b54a653207df">(2.1</linkHtml>, <linkHtml href="#_7.1_Effects_of">7.1)</linkHtml>
+                           </item>
+                           <item>
+                              <caption>•</caption>Discontinue if treatment with the opioid pain medication is also discontinued. <linkHtml href="#ID_2e87b177-9afe-44f3-87ff-b54a653207df">(2.1)</linkHtml>
+                           </item>
+                        </list>
+                        <paragraph>
+                           <content styleCode="underline">Recommended dosage</content>: </paragraph>
+                        <list listType="unordered">
+                           <item>
+                              <caption>•</caption>25 mg once daily; if not tolerated, reduce to 12.5 mg once daily. <linkHtml href="#ID_3f93028e-1340-48bc-9bf9-8a160aea5790">(2.2)</linkHtml>
+                           </item>
+                           <item>
+                              <caption>•</caption>Renal Impairment (CLcr &lt; 60 mL/min): 12.5 mg once daily; increase to 25 mg once daily if tolerated and monitor for adverse reactions. <linkHtml href="#ID_7da4989a-f3ea-4090-bbf0-efc4a0144a24">(2.3</linkHtml>, <linkHtml href="#ID_069ef9a9-0127-4f7e-91d4-4015b297bb3e">8.6)</linkHtml>
+                           </item>
+                        </list>
+                     </text>
+                  </highlight>
+               </excerpt>
+               <component>
+                  <section ID="ID_2e87b177-9afe-44f3-87ff-b54a653207df">
+                     <id root="62be593b-099a-4745-96c8-d1da5ad9a4b1"/>
+                     <code code="42229-5" codeSystem="2.16.840.1.113883.6.1" displayName="SPL UNCLASSIFIED SECTION"/>
+                     <title>2.1 Administration Instructions </title>
+                     <text>
+                        <list listType="unordered">
+                           <item>Discontinue all maintenance laxative therapy prior to initiation of MOVANTIK. Laxative(s) can be used as needed if there is a suboptimal response to MOVANTIK after three days.</item>
+                           <item>Alteration in analgesic dosing regimen prior to initiating MOVANTIK is not required.</item>
+                           <item>Patients receiving opioids for less than 4 weeks may be less responsive to MOVANTIK <content styleCode="italics">[see <linkHtml href="#ID_26d50e43-c846-4d9a-b1dc-76943e06b5c5">Clinical Studies (14)</linkHtml>]</content>.</item>
+                           <item>Take MOVANTIK on an empty stomach at least 1 hour prior to the first meal of the day or 2 hours after the meal.</item>
+                           <item>For patients who are unable to swallow the MOVANTIK tablet whole, the tablet can be crushed to a powder, mixed with 4 ounces (120 mL) of water, and drunk immediately. The glass should be refilled with 4 ounces (120 mL) of water, stirred and the contents drunk.</item>
+                           <item>MOVANTIK can also be administered via a nasogastric (NG) tube, as follows: </item>
+                        </list>
+                        <paragraph>
+                           <content>1.Flush the NG tube with 1 ounce (30 mL) of water using a 60 mL syringe. </content>
+                        </paragraph>
+                        <paragraph>    2.Crush the tablet to a powder in a container and mix with approximately 2 ounces (60 mL) of water. </paragraph>
+                        <paragraph>   3.Draw up the mixture using the 60 mL syringe and administer the syringe contents through the NG tube.</paragraph>
+                        <paragraph>   4.Add approximately 2 ounces (60 mL) of water to the same container used to prepare the dose of MOVANTIK. </paragraph>
+                        <paragraph>5.Draw up the water using the same 60 mL syringe and use all the water to flush the NG tube and any remaining medicine from the NG tube into the stomach.</paragraph>
+                        <list listType="unordered">
+                           <item>Avoid consumption of grapefruit or grapefruit juice during treatment with MOVANTIK.</item>
+                           <item>Discontinue MOVANTIK if treatment with the opioid pain medication is also discontinued.</item>
+                        </list>
+                     </text>
+                     <effectiveTime value="20230328"/>
+                  </section>
+               </component>
+               <component>
+                  <section ID="ID_3f93028e-1340-48bc-9bf9-8a160aea5790">
+                     <id root="2b974c7c-0789-4bfb-a5a9-9725449b749a"/>
+                     <code code="42229-5" codeSystem="2.16.840.1.113883.6.1" displayName="SPL UNCLASSIFIED SECTION"/>
+                     <title>2.2 Adult Dosage</title>
+                     <text>
+                        <paragraph>The recommended MOVANTIK dosage is 25 mg once daily in the morning. If patients are not able to tolerate MOVANTIK, reduce the dosage to 12.5 mg once daily <content styleCode="italics">[see <linkHtml href="#ID_b458e049-c7b2-49c3-a6f9-4d33601410ce">Clinical Pharmacology (12.2)</linkHtml>]</content>.</paragraph>
+                     </text>
+                     <effectiveTime value="20230328"/>
+                  </section>
+               </component>
+               <component>
+                  <section ID="ID_7da4989a-f3ea-4090-bbf0-efc4a0144a24">
+                     <id root="9ded5000-34eb-4192-86b7-7d34ec7e1f0d"/>
+                     <code code="42229-5" codeSystem="2.16.840.1.113883.6.1" displayName="SPL UNCLASSIFIED SECTION"/>
+                     <title>2.3 Dosage in Adult Patients with Renal Impairment</title>
+                     <text>
+                        <paragraph>The starting dosage for patients with creatinine clearance (CLcr) &lt;60 mL/min (i.e., patients with moderate, severe, or end-stage renal impairment) is 12.5 mg once daily. If this dosage is well tolerated but OIC symptoms continue, the dosage may be increased to 25 mg once daily taking into consideration the potential for markedly increased exposures in some patients with renal impairment and the increased risk of adverse reactions with higher exposures <content styleCode="italics">[see <linkHtml href="#ID_069ef9a9-0127-4f7e-91d4-4015b297bb3e">Use in Specific Populations (8.6)</linkHtml> and <linkHtml href="#ID_8ec69282-a61a-4ffe-8b4b-d615b06d5c6d">Clinical Pharmacology (12.3)</linkHtml>]</content>.</paragraph>
+                     </text>
+                     <effectiveTime value="20230328"/>
+                  </section>
+               </component>
+               <component>
+                  <section ID="ID_4cdf6ad1-56b0-46a8-b1a7-94945e6a1beb">
+                     <id root="bc9a39db-0e78-4ec3-ae62-5567a2faa634"/>
+                     <code code="42229-5" codeSystem="2.16.840.1.113883.6.1" displayName="SPL UNCLASSIFIED SECTION"/>
+                     <title>2.4 Dosage Recommendations due to Drug Interactions</title>
+                     <text>
+                        <paragraph>Avoid concomitant use of MOVANTIK with moderate CYP3A4 inhibitor drugs (e.g., diltiazem, erythromycin, verapamil). If concurrent use is unavoidable, reduce the MOVANTIK dosage to 12.5 mg once daily and monitor for adverse reactions <content styleCode="italics">[see <linkHtml href="#_7.1_Effects_of">Drug Interactions (7.1)</linkHtml> and <linkHtml href="#ID_8ec69282-a61a-4ffe-8b4b-d615b06d5c6d">Clinical Pharmacology (12.3)</linkHtml>]</content>.</paragraph>
+                     </text>
+                     <effectiveTime value="20230328"/>
+                  </section>
+               </component>
+            </section>
+         </component>
+         <component>
+            <section ID="ID_35a20c64-de8c-4d4b-bb60-1124de9b1dc9">
+               <id root="6dcb123e-840b-424d-b1be-7f0bde85824f"/>
+               <code code="43678-2" codeSystem="2.16.840.1.113883.6.1" displayName="DOSAGE FORMS &amp; STRENGTHS SECTION"/>
+               <title>3 DOSAGE FORMS AND STRENGTHS</title>
+               <text>
+                  <paragraph>MOVANTIK (naloxegol) is available in two strengths:</paragraph>
+                  <paragraph>• Tablets: 12.5 mg supplied as mauve, oval, biconvex, film-coated, intagliated with “nGL” on one side and “12.5” on the other side.<br/>• Tablets: 25 mg supplied as mauve, oval, biconvex, film-coated, intagliated with “nGL” on one side and “25” on the other side.</paragraph>
+               </text>
+               <effectiveTime value="20230328"/>
+               <excerpt>
+                  <highlight>
+                     <text>
+                        <list listType="unordered">
+                           <item>Tablets: 12.5 mg and 25 mg <linkHtml href="#ID_35a20c64-de8c-4d4b-bb60-1124de9b1dc9">(3)</linkHtml>
+                           </item>
+                        </list>
+                     </text>
+                  </highlight>
+               </excerpt>
+            </section>
+         </component>
+         <component>
+            <section ID="ID_e0aa88a9-981e-4cbc-b5d6-7802d9ef54c4">
+               <id root="4a7abe5e-27ef-4276-9046-fe784f112040"/>
+               <code code="34070-3" codeSystem="2.16.840.1.113883.6.1" displayName="CONTRAINDICATIONS SECTION"/>
+               <title>4 CONTRAINDICATIONS</title>
+               <text>
+                  <paragraph>MOVANTIK is contraindicated in:</paragraph>
+                  <list listType="unordered">
+                     <item>
+                        <caption>•</caption>Patients with known or suspected gastrointestinal obstruction and patients at risk of recurrent obstruction, due to the potential for gastrointestinal perforation <content styleCode="italics">[see </content>
+                        <content styleCode="italics">
+                           <linkHtml href="#ID_c085795c-f2a8-4b62-9c63-227018cf4c09">Warnings and Precautions (5.3)</linkHtml>
+                        </content>
+                        <content styleCode="italics">]</content>.</item>
+                     <item>
+                        <caption>•</caption>Patients concomitantly using strong CYP3A4 inhibitors (e.g., clarithromycin, ketoconazole) because these medications can significantly increase exposure to naloxegol which may precipitate opioid withdrawal symptoms such as hyperhidrosis, chills, diarrhea, abdominal pain, anxiety, irritability, and yawning <content styleCode="italics">[see <linkHtml href="#_7.1_Effects_of">Drug Interactions (7.1)</linkHtml> and </content>
+                        <content styleCode="italics">
+                           <linkHtml href="#ID_8ec69282-a61a-4ffe-8b4b-d615b06d5c6d">Clinical Pharmacology (12.3)</linkHtml>
+                        </content>
+                        <content styleCode="italics">]</content>. </item>
+                     <item>
+                        <caption>•</caption>Patients who have had a known serious or severe hypersensitivity reaction to MOVANTIK or any of its excipients <content styleCode="italics">[see <linkHtml href="#ID_def2b1d7-bed8-40fc-acdb-a0d66321e70c">Adverse Reactions (6.2)</linkHtml>]</content>.</item>
+                  </list>
+               </text>
+               <effectiveTime value="20230328"/>
+               <excerpt>
+                  <highlight>
+                     <text>
+                        <list listType="unordered">
+                           <item>Patients with known or suspected gastrointestinal obstruction and at risk of recurrent obstruction. <linkHtml href="#ID_e0aa88a9-981e-4cbc-b5d6-7802d9ef54c4">(4</linkHtml>, <linkHtml href="#ID_c085795c-f2a8-4b62-9c63-227018cf4c09">5.3</linkHtml>)</item>
+                           <item>Concomitant use with strong CYP3A4 inhibitors (e.g., clarithromycin, ketoconazole). <linkHtml href="#ID_e0aa88a9-981e-4cbc-b5d6-7802d9ef54c4">(4</linkHtml>, <linkHtml href="#_7.1_Effects_of">7.1)</linkHtml>
+                           </item>
+                           <item>Known serious or severe hypersensitivity reaction to MOVANTIK or any of its excipients. <linkHtml href="#ID_e0aa88a9-981e-4cbc-b5d6-7802d9ef54c4">(4)</linkHtml>
+                           </item>
+                        </list>
+                        <paragraph/>
+                     </text>
+                  </highlight>
+               </excerpt>
+            </section>
+         </component>
+         <component>
+            <section ID="ID_87df9bf9-5079-44fb-ab03-3f0da74b79af">
+               <id root="854c930f-4172-4d63-a9c1-f66bb374b15c"/>
+               <code code="43685-7" codeSystem="2.16.840.1.113883.6.1" displayName="WARNINGS AND PRECAUTIONS SECTION"/>
+               <title>5 WARNINGS AND PRECAUTIONS</title>
+               <effectiveTime value="20230328"/>
+               <excerpt>
+                  <highlight>
+                     <text>
+                        <list listType="unordered">
+                           <item>
+                              <caption>•</caption>
+                              <content styleCode="underline">Opioid withdrawal</content>:  Consider the overall risk benefit in patients with disruptions to the blood-brain barrier. Monitor for symptoms of opioid withdrawal. <linkHtml href="#ID_16f0fcf0-a0cd-4347-a9f6-60f2f1291cae">(5.1)</linkHtml>
+                           </item>
+                           <item>
+                              <caption>•</caption>
+                              <content styleCode="underline">Severe abdominal pain and/or diarrhea</content>: Monitor for the development of symptoms after initiating treatment with MOVANTIK and discontinue if severe symptoms develop. Consider restarting MOVANTIK at 12.5 mg once daily if appropriate. <linkHtml href="#ID_c61bed17-5a39-4237-bbc3-f4ae3ac177bd">(5.2)</linkHtml>
+                           </item>
+                           <item>
+                              <caption>•</caption>
+                              <content styleCode="underline">Gastrointestinal perforation</content>: Consider the overall risk benefit in patients with known or suspected lesions of the GI tract. Monitor for severe, persistent or worsening abdominal pain; discontinue if development of symptoms. <linkHtml href="#ID_c085795c-f2a8-4b62-9c63-227018cf4c09">(5.3)</linkHtml>
+                           </item>
+                        </list>
+                     </text>
+                  </highlight>
+               </excerpt>
+               <component>
+                  <section ID="ID_16f0fcf0-a0cd-4347-a9f6-60f2f1291cae">
+                     <id root="b4eadd85-6764-457a-840a-f825113a5e4c"/>
+                     <code code="42229-5" codeSystem="2.16.840.1.113883.6.1" displayName="SPL UNCLASSIFIED SECTION"/>
+                     <title>5.1 Opioid Withdrawal</title>
+                     <text>
+                        <paragraph>Clusters of symptoms consistent with opioid withdrawal, including hyperhidrosis, chills, diarrhea, abdominal pain, anxiety, irritability, and yawning have occurred in patients treated with MOVANTIK <content styleCode="italics">[see <linkHtml href="#ID_45bc55aa-f28b-42fd-bb11-fe0c711e026b">Adverse Reactions (6.1</linkHtml>)]</content>. In addition, patients receiving methadone as therapy for their pain condition were observed in clinical trials to have a higher frequency of gastrointestinal adverse reactions that may have been related to opioid withdrawal than patients receiving other opioids <content styleCode="italics">[see <linkHtml href="#ID_45bc55aa-f28b-42fd-bb11-fe0c711e026b">Adverse Reactions (6.1)</linkHtml>]</content>. Patients having disruptions to the blood-brain barrier may be at increased risk for opioid withdrawal or reduced analgesia. Take into account the overall risk-benefit profile when using MOVANTIK in such patients. Monitor for symptoms of opioid withdrawal in such patients.</paragraph>
+                     </text>
+                     <effectiveTime value="20230328"/>
+                  </section>
+               </component>
+               <component>
+                  <section ID="ID_c61bed17-5a39-4237-bbc3-f4ae3ac177bd">
+                     <id root="44d8c2a6-167f-4b1a-a75f-6a93794a407c"/>
+                     <code code="42229-5" codeSystem="2.16.840.1.113883.6.1" displayName="SPL UNCLASSIFIED SECTION"/>
+                     <title>5.2 Severe Abdominal Pain and/or Diarrhea</title>
+                     <text>
+                        <paragraph>Reports of severe abdominal pain and/or diarrhea have been reported, some of which resulted in hospitalization. Most of the cases of severe abdominal pain were reported in patients taking the 25 mg dosage. Symptoms generally occurred within a few days of initiation of MOVANTIK. Monitor patients for the development of abdominal pain and/or diarrhea with MOVANTIK and discontinue therapy if severe symptoms occur. Consider restarting MOVANTIK at 12.5 mg once daily, if appropriate.</paragraph>
+                     </text>
+                     <effectiveTime value="20230328"/>
+                  </section>
+               </component>
+               <component>
+                  <section ID="ID_c085795c-f2a8-4b62-9c63-227018cf4c09">
+                     <id root="1526e335-cf4f-424a-adf5-2f4f0e6623e8"/>
+                     <code code="42229-5" codeSystem="2.16.840.1.113883.6.1" displayName="SPL UNCLASSIFIED SECTION"/>
+                     <title>5.3 Gastrointestinal Perforation </title>
+                     <text>
+                        <paragraph>
+                           <content styleCode="xmChange">Cases of gastrointestinal (GI) perforation have been reported with use of peripherally acting opioid antagonists, including MOVANTIK. Postmarketing cases of GI perforation, including fatal cases, were reported when MOVANTIK was used in patients at risk of GI perforation (e.g., infiltrative gastrointestinal tract malignancy, recent gastrointestinal tract surgery, diverticular disease including diverticulitis, ischemic colitis, or concomitantly treated with bevacizumab). MOVANTIK is contraindicated in patients with known or suspected gastrointestinal obstruction or in patients at risk of recurrent obstruction <content styleCode="italics">[see <linkHtml href="#ID_e0aa88a9-981e-4cbc-b5d6-7802d9ef54c4">Contraindications (4)</linkHtml>]</content>. Take into account the overall risk-benefit profile when using MOVANTIK in patients with these conditions or other conditions which might result in impaired integrity of the gastrointestinal tract wall (e.g., Crohn’s disease). Monitor for the development of severe, persistent or worsening abdominal pain; discontinue MOVANTIK in patients who develop this symptom.</content>
+                        </paragraph>
+                     </text>
+                     <effectiveTime value="20230328"/>
+                  </section>
+               </component>
+            </section>
+         </component>
+         <component>
+            <section ID="ID_07f287a5-4820-4482-9fd5-557821a062e0">
+               <id root="c9dab280-d483-48bf-bb43-10ea74a73936"/>
+               <code code="34084-4" codeSystem="2.16.840.1.113883.6.1" displayName="ADVERSE REACTIONS SECTION"/>
+               <title>6 ADVERSE REACTIONS</title>
+               <text>
+                  <paragraph>Serious and important adverse reactions described elsewhere in labeling include:</paragraph>
+                  <list listType="unordered">
+                     <item>
+                        <caption>•</caption>Opioid withdrawal <content styleCode="italics">[see <linkHtml href="#ID_16f0fcf0-a0cd-4347-a9f6-60f2f1291cae">Warnings and Precautions (5.1)</linkHtml>]</content>
+                     </item>
+                     <item>
+                        <caption>•</caption>Severe abdominal pain and/or diarrhea <content styleCode="italics">[see <linkHtml href="#_5.2_Opioid_Withdrawal">Warnings and Precautions (5.2)</linkHtml>]</content>
+                     </item>
+                     <item>
+                        <caption>•</caption>Gastrointestinal perforation <content styleCode="italics">[see <linkHtml href="#ID_c085795c-f2a8-4b62-9c63-227018cf4c09">Warnings and Precautions (5.3)</linkHtml>]</content>
+                     </item>
+                  </list>
+               </text>
+               <effectiveTime value="20230328"/>
+               <excerpt>
+                  <highlight>
+                     <text>
+                        <paragraph>The most common adverse reactions in clinical trials (≥3%) are: abdominal pain, diarrhea, nausea, flatulence, vomiting, and headache. <linkHtml href="#ID_45bc55aa-f28b-42fd-bb11-fe0c711e026b">(6.1)</linkHtml>
+                        </paragraph>
+                        <paragraph>
+                           <content styleCode="bold">To report SUSPECTED ADVERSE REACTIONS, contact Valinor at 1-877-592-2337 or FDA at 1-800-FDA-1088 or <linkHtml href="http://www.fda.gov/medwatch">www.fda.gov/medwatch.</linkHtml>
+                           </content>
+                        </paragraph>
+                     </text>
+                  </highlight>
+               </excerpt>
+               <component>
+                  <section ID="ID_45bc55aa-f28b-42fd-bb11-fe0c711e026b">
+                     <id root="b3408270-4258-456c-8d3b-171d4dd4038e"/>
+                     <code code="42229-5" codeSystem="2.16.840.1.113883.6.1" displayName="SPL UNCLASSIFIED SECTION"/>
+                     <title>6.1 Clinical Trials Experience</title>
+                     <text>
+                        <paragraph>Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice.</paragraph>
+                        <paragraph>The data described below reflect exposure to MOVANTIK in 1497 patients in clinical trials, including 537 patients exposed for greater than six months, and 320 patients exposed for 12 months.</paragraph>
+                        <paragraph>The safety data described in Table 1 are derived from two double-blind, placebo-controlled trials (Studies 1 and 2) in patients with OIC and non-cancer related pain <content styleCode="italics">[see <linkHtml href="#ID_26d50e43-c846-4d9a-b1dc-76943e06b5c5">Clinical Studies (14)</linkHtml>]</content>. Study 3 (n=302) was a safety extension study that allowed patients from Study 1 to continue the same blinded treatment for an additional 12 weeks. Safety data for patients in Study 3 are similar to those listed in Table 1. Study 4 (n=844) was a Phase 3, 52-week, multi-center, open-label, randomized, parallel group, safety and tolerability study of naloxegol versus usual care treatment for OIC (as determined by the investigator and excluding peripheral opioid antagonists) in patients with non-cancer related pain. The population enrolled in Study 4 was similar to that of the other studies. Eligible patients were randomized in a 2:1 ratio to receive either naloxegol 25 mg once daily or usual care treatment for OIC. The most commonly used laxatives in the usual care group were rectal stimulants (e.g., bisacodyl), oral stimulants (e.g., senna), and oral osmotics (e.g., macrogol, magnesium). Safety data for patients in Study 4 are similar to those listed in Table 1.</paragraph>
+                        <paragraph>
+                           <linkHtml href="#t1">Table 1</linkHtml> lists adverse reactions in pooled Studies 1 and 2 occurring in ≥3% of patients receiving MOVANTIK 12.5 mg or 25 mg and at an incidence greater than placebo.</paragraph>
+                        <table ID="t1" width="100%">
+                           <caption>Table 1. Adverse Reactions<footnote ID="_Ref458068348">Adverse reactions occurring in ≥3% of patients receiving MOVANTIK 12.5 mg or 25 mg and at an incidence greater than placebo.</footnote> in Patients with OIC and Non-Cancer Pain (Studies 1 and 2)</caption>
+                           <colgroup>
+                              <col width="26%"/>
+                              <col width="24%"/>
+                              <col width="24%"/>
+                              <col width="26%"/>
+                           </colgroup>
+                           <tbody>
+                              <tr>
+                                 <td styleCode="Botrule Lrule Rrule Toprule" valign="middle">
+                                    <content styleCode="bold">Adverse Reaction</content>
+                                 </td>
+                                 <td styleCode="Botrule Lrule Rrule Toprule" align="center" valign="middle">
+                                    <paragraph>
+                                       <content styleCode="bold">MOVANTIK 25 mg</content>
+                                    </paragraph>
+                                    <paragraph>
+                                       <content styleCode="bold">(n=446)</content>
+                                    </paragraph>
+                                 </td>
+                                 <td styleCode="Botrule Lrule Rrule Toprule" align="center" valign="middle">
+                                    <paragraph>
+                                       <content styleCode="bold">MOVANTIK 12.5 mg </content>
+                                    </paragraph>
+                                    <paragraph>
+                                       <content styleCode="bold">(n=441)</content>
+                                    </paragraph>
+                                 </td>
+                                 <td styleCode="Botrule Lrule Rrule Toprule" align="center" valign="middle">
+                                    <paragraph>
+                                       <content styleCode="bold">Placebo</content>
+                                    </paragraph>
+                                    <paragraph>
+                                       <content styleCode="bold">(n=444)</content>
+                                    </paragraph>
+                                 </td>
+                              </tr>
+                              <tr>
+                                 <td styleCode="Botrule Lrule Rrule" valign="middle">Abdominal Pain<footnote ID="_Ref507058183">Includes: abdominal pain, abdominal pain upper, abdominal pain lower, and gastrointestinal pain.</footnote>
+                                 </td>
+                                 <td styleCode="Botrule Lrule Rrule Toprule" align="center" valign="middle">
+                                    <paragraph>21%</paragraph>
+                                 </td>
+                                 <td styleCode="Botrule Lrule Rrule Toprule" align="center" valign="middle">
+                                    <paragraph>12%</paragraph>
+                                 </td>
+                                 <td styleCode="Botrule Lrule Rrule Toprule" align="center" valign="middle">
+                                    <paragraph>7%</paragraph>
+                                 </td>
+                              </tr>
+                              <tr>
+                                 <td styleCode="Botrule Lrule Rrule" valign="middle">Diarrhea</td>
+                                 <td styleCode="Botrule Lrule Rrule Toprule" align="center" valign="middle">
+                                    <paragraph>9%</paragraph>
+                                 </td>
+                                 <td styleCode="Botrule Lrule Rrule Toprule" align="center" valign="middle">
+                                    <paragraph>6%</paragraph>
+                                 </td>
+                                 <td styleCode="Botrule Lrule Rrule Toprule" align="center" valign="middle">
+                                    <paragraph>5%</paragraph>
+                                 </td>
+                              </tr>
+                              <tr>
+                                 <td styleCode="Botrule Lrule Rrule" valign="middle">Nausea</td>
+                                 <td styleCode="Botrule Lrule Rrule Toprule" align="center" valign="middle">
+                                    <paragraph>8%</paragraph>
+                                 </td>
+                                 <td styleCode="Botrule Lrule Rrule Toprule" align="center" valign="middle">
+                                    <paragraph>7%</paragraph>
+                                 </td>
+                                 <td styleCode="Botrule Lrule Rrule Toprule" align="center" valign="middle">
+                                    <paragraph>5%</paragraph>
+                                 </td>
+                              </tr>
+                              <tr>
+                                 <td styleCode="Botrule Lrule Rrule" valign="middle">Flatulence</td>
+                                 <td styleCode="Botrule Lrule Rrule Toprule" align="center" valign="middle">
+                                    <paragraph>6%</paragraph>
+                                 </td>
+                                 <td styleCode="Botrule Lrule Rrule Toprule" align="center" valign="middle">
+                                    <paragraph>3%</paragraph>
+                                 </td>
+                                 <td styleCode="Botrule Lrule Rrule Toprule" align="center" valign="middle">
+                                    <paragraph>3%</paragraph>
+                                 </td>
+                              </tr>
+                              <tr>
+                                 <td styleCode="Botrule Lrule Rrule" valign="middle">Vomiting</td>
+                                 <td styleCode="Botrule Lrule Rrule Toprule" align="center" valign="middle">
+                                    <paragraph>5%</paragraph>
+                                 </td>
+                                 <td styleCode="Botrule Lrule Rrule Toprule" align="center" valign="middle">
+                                    <paragraph>3%</paragraph>
+                                 </td>
+                                 <td styleCode="Botrule Lrule Rrule Toprule" align="center" valign="middle">
+                                    <paragraph>4%</paragraph>
+                                 </td>
+                              </tr>
+                              <tr>
+                                 <td styleCode="Botrule Lrule Rrule" valign="middle">Headache</td>
+                                 <td styleCode="Botrule Lrule Rrule Toprule" align="center" valign="middle">
+                                    <paragraph>4%</paragraph>
+                                 </td>
+                                 <td styleCode="Botrule Lrule Rrule Toprule" align="center" valign="middle">
+                                    <paragraph>4%</paragraph>
+                                 </td>
+                                 <td styleCode="Botrule Lrule Rrule Toprule" align="center" valign="middle">
+                                    <paragraph>3%</paragraph>
+                                 </td>
+                              </tr>
+                              <tr>
+                                 <td styleCode="Botrule Lrule Rrule Toprule" valign="middle">Hyperhidrosis</td>
+                                 <td styleCode="Botrule Lrule Rrule Toprule" align="center" valign="middle">
+                                    <paragraph>3%</paragraph>
+                                 </td>
+                                 <td styleCode="Botrule Lrule Rrule Toprule" align="center" valign="middle">
+                                    <paragraph>&lt;1%</paragraph>
+                                 </td>
+                                 <td styleCode="Botrule Lrule Rrule Toprule" align="center" valign="middle">
+                                    <paragraph>&lt;1%</paragraph>
+                                 </td>
+                              </tr>
+                           </tbody>
+                        </table>
+                        <paragraph>
+                           <content styleCode="underline">Opioid Withdrawal</content>
+                        </paragraph>
+                        <paragraph>Possible opioid withdrawal, defined as at least three adverse reactions potentially related to opioid withdrawal that occurred on the same day and were not all related to the gastrointestinal system, occurred in less than 1% (1/444) of placebo subjects, 1% (5/441) receiving MOVANTIK 12.5 mg, and 3% (14/446) receiving MOVANTIK 25 mg in Studies 1 and 2 regardless of maintenance opioid treatment. Symptoms included but were not limited to hyperhidrosis, chills, diarrhea, abdominal pain, anxiety, irritability, and yawning. Patients receiving methadone as therapy for their pain condition were observed in Studies 1 and 2 to have a higher frequency of gastrointestinal adverse reactions than patients receiving other opioids [39% (7/18) vs. 26% (110/423) in the 12.5 mg group; 75% (24/32) vs. 34% (142/414) in the 25 mg group].</paragraph>
+                     </text>
+                     <effectiveTime value="20230328"/>
+                  </section>
+               </component>
+               <component>
+                  <section ID="ID_def2b1d7-bed8-40fc-acdb-a0d66321e70c">
+                     <id root="e37d2e53-0ebc-4a12-af73-330667a97cf1"/>
+                     <code code="42229-5" codeSystem="2.16.840.1.113883.6.1" displayName="SPL UNCLASSIFIED SECTION"/>
+                     <title>6.2 Postmarketing Experience </title>
+                     <text>
+                        <paragraph>The following adverse reactions have been identified during post-approval use of MOVANTIK. Because reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate the frequency or establish a causal relationship to drug exposure.</paragraph>
+                        <paragraph>
+                           <content styleCode="underline">Hypersensitivity reactions</content>: angioedema, rash, and urticaria.</paragraph>
+                        <paragraph>
+                           <content styleCode="underline">Gastrointestinal disorders</content>: Gastrointestinal perforation <content styleCode="italics">[see <linkHtml href="#ID_c085795c-f2a8-4b62-9c63-227018cf4c09">Warnings and Precautions (5.3)</linkHtml>]</content>.</paragraph>
+                     </text>
+                     <effectiveTime value="20230328"/>
+                  </section>
+               </component>
+            </section>
+         </component>
+         <component>
+            <section ID="ID_4508206a-aa79-4902-948e-3c9b8333f8e2">
+               <id root="cb3f3858-ad53-4d5b-a19e-108d06e75adf"/>
+               <code code="34073-7" codeSystem="2.16.840.1.113883.6.1" displayName="DRUG INTERACTIONS SECTION"/>
+               <title>7 DRUG INTERACTIONS</title>
+               <effectiveTime value="20230328"/>
+               <excerpt>
+                  <highlight>
+                     <text>
+                        <list listType="unordered">
+                           <item>
+                              <caption>•</caption>
+                              <content styleCode="underline">Moderate CYP3A4 inhibitors (e.g., diltiazem, erythromycin, verapamil)</content>: Increased naloxegol concentrations; avoid concomitant use; if unavoidable, reduce dosage to 12.5 mg once daily and monitor for adverse reactions. <linkHtml href="#ID_4cdf6ad1-56b0-46a8-b1a7-94945e6a1beb">(2.4</linkHtml>, <linkHtml href="#_7.1_Effects_of">7.1)</linkHtml>
+                           </item>
+                           <item>
+                              <caption>•</caption>
+                              <content styleCode="underline">Strong CYP3A4 inducers (e.g., rifampin)</content>: Decreased concentrations of naloxegol; concomitant use is not recommended. <linkHtml href="#_7.1_Effects_of">(7.1)</linkHtml>
+                           </item>
+                           <item>
+                              <caption>•</caption>
+                              <content styleCode="underline">Other opioid antagonists</content>: Potential for additive effect and increased risk of opioid withdrawal; avoid concomitant use. <linkHtml href="#_7.1_Effects_of">(7.1)</linkHtml>
+                           </item>
+                        </list>
+                     </text>
+                  </highlight>
+               </excerpt>
+               <component>
+                  <section ID="ID_9702b8a8-ee03-43f6-bdd0-856ed10142ac">
+                     <id root="0fea7908-2df2-4a70-8d63-9f682072b08e"/>
+                     <code code="42229-5" codeSystem="2.16.840.1.113883.6.1" displayName="SPL UNCLASSIFIED SECTION"/>
+                     <title>7.1 Effects of Other Drugs on MOVANTIK </title>
+                     <text>
+                        <paragraph>
+                           <linkHtml href="#t2">Table 2</linkHtml> displays the effects of other drugs on MOVANTIK.</paragraph>
+                        <table ID="t2" width="540pt" cellpadding="0pt">
+                           <caption>Table 2. Effects of Other Drugs on MOVANTIK</caption>
+                           <colgroup>
+                              <col width="30%"/>
+                              <col width="30%"/>
+                              <col width="40%"/>
+                           </colgroup>
+                           <tbody>
+                              <tr>
+                                 <td styleCode="Botrule Lrule Rrule Toprule" align="center" valign="top">
+                                    <paragraph>
+                                       <content styleCode="bold">Concomitant Agent</content>
+                                    </paragraph>
+                                 </td>
+                                 <td styleCode="Botrule Rrule Toprule" align="center" valign="top">
+                                    <paragraph>
+                                       <content styleCode="bold">Mechanism of Action</content>
+                                    </paragraph>
+                                 </td>
+                                 <td styleCode="Botrule Rrule Toprule" valign="top">
+                                    <content styleCode="bold">Clinical Recommendation</content>
+                                 </td>
+                              </tr>
+                              <tr>
+                                 <td styleCode="Botrule Lrule Rrule" valign="middle">
+                                    <paragraph>
+                                       <content styleCode="bold">CYP3A4 Inhibitors</content>
+                                    </paragraph>
+                                 </td>
+                                 <td styleCode="Botrule Rrule" valign="middle"/>
+                                 <td styleCode="Botrule Rrule" valign="middle"/>
+                              </tr>
+                              <tr>
+                                 <td styleCode="Botrule Lrule Rrule" valign="middle">•Strong CYP3A4 inhibitors (e.g., ketoconazole, itraconazole, clarithromycin)</td>
+                                 <td styleCode="Botrule Rrule" rowspan="2" valign="middle">•Increase plasma naloxegol concentrations and may increase the risk of adverse reactions <content styleCode="italics">[see <content styleCode="underline">
+                                          <linkHtml href="#ID_8ec69282-a61a-4ffe-8b4b-d615b06d5c6d">Clinical Pharmacology (12.3)</linkHtml>
+                                       </content>].</content>
+                                 </td>
+                                 <td styleCode="Botrule Rrule" valign="middle">•Use with strong CYP3A4 inhibitors is contraindicated <content styleCode="italics">[see <content styleCode="underline">
+                                          <linkHtml href="#ID_e0aa88a9-981e-4cbc-b5d6-7802d9ef54c4">Contraindications (4)</linkHtml>
+                                       </content>]</content>.</td>
+                              </tr>
+                              <tr>
+                                 <td styleCode="Botrule Lrule Rrule" valign="middle">•Moderate CYP3A4 inhibitors (e.g., diltiazem, erythromycin, verapamil)</td>
+                                 <td styleCode="Botrule Rrule" valign="middle">•Avoid use with moderate CYP3A4 inhibitors; if unavoidable, decrease the dosage of MOVANTIK to 12.5 mg once daily and monitor for adverse reactions <content styleCode="italics">[see <content styleCode="underline">
+                                          <linkHtml href="#ID_4cdf6ad1-56b0-46a8-b1a7-94945e6a1beb">Dosage and Administration (2.4)</linkHtml>
+                                       </content>]</content>.</td>
+                              </tr>
+                              <tr>
+                                 <td styleCode="Botrule Lrule Rrule" valign="middle">•Weak CYP3A4 inhibitors (e.g., quinidine, cimetidine)</td>
+                                 <td styleCode="Botrule Rrule" valign="middle">•Clinically significant increases in naloxegol concentrations are not expected.</td>
+                                 <td styleCode="Botrule Rrule" valign="middle">•No dosage adjustments are necessary.</td>
+                              </tr>
+                              <tr>
+                                 <td styleCode="Botrule Lrule Rrule" valign="middle">•Grapefruit or grapefruit juice<footnote ID="_Ref399216725">The effect of grapefruit juice varies widely among brands and is concentration-, dose-, and preparation-dependent. Studies have shown that it can be classified as a “strong CYP3A inhibitor” when a certain preparation was used (e.g., high dose, double strength) or as a “moderate CYP3A inhibitor” when another preparation was used (e.g., low dose, single strength).</footnote>
+                                 </td>
+                                 <td styleCode="Botrule Rrule" valign="middle">•Can increase plasma naloxegol concentrations.</td>
+                                 <td styleCode="Botrule Rrule" valign="middle">•Avoid consumption of grapefruit or grapefruit juice during treatment with MOVANTIK <content styleCode="italics">[see <content styleCode="underline">
+                                          <linkHtml href="#ID_2e87b177-9afe-44f3-87ff-b54a653207df">Dosage and Administration (2.1)</linkHtml>
+                                       </content>]</content>.</td>
+                              </tr>
+                              <tr>
+                                 <td styleCode="Botrule Lrule Rrule" valign="middle">
+                                    <content styleCode="bold">CYP3A4 Inducers</content>
+                                 </td>
+                                 <td styleCode="Botrule Lrule Rrule" valign="middle"/>
+                                 <td styleCode="Botrule Lrule Rrule" valign="middle"/>
+                              </tr>
+                              <tr>
+                                 <td styleCode="Botrule Lrule Rrule" valign="middle">•Strong CYP3A4 inducers (e.g., rifampin, carbamazepine, St. John’s Wort)</td>
+                                 <td styleCode="Botrule Rrule" valign="middle">•Significantly decrease plasma naloxegol concentrations and may decrease the efficacy of MOVANTIK <content styleCode="italics">[see <content styleCode="underline">
+                                          <linkHtml href="#ID_8ec69282-a61a-4ffe-8b4b-d615b06d5c6d">Clinical Pharmacology (12.3)</linkHtml>
+                                       </content>]</content>.</td>
+                                 <td styleCode="Botrule Rrule" valign="middle">•Use with strong CYP3A4 inducers is not recommended<content styleCode="italics">.</content>
+                                 </td>
+                              </tr>
+                              <tr>
+                                 <td styleCode="Botrule Lrule Rrule" valign="middle">
+                                    <paragraph>
+                                       <content styleCode="bold">Other Drug Interactions</content>
+                                    </paragraph>
+                                 </td>
+                                 <td styleCode="Botrule Lrule Rrule" valign="middle"/>
+                                 <td styleCode="Botrule Lrule Rrule" valign="middle"/>
+                              </tr>
+                              <tr>
+                                 <td styleCode="Botrule Lrule Rrule" valign="middle">•Other opioid antagonists</td>
+                                 <td styleCode="Botrule Rrule" valign="middle">•Potential for additive effect of opioid receptor antagonism and increased risk of opioid withdrawal.</td>
+                                 <td styleCode="Botrule Rrule" valign="middle">•Avoid use of MOVANTIK with another opioid antagonist.</td>
+                              </tr>
+                           </tbody>
+                        </table>
+                        <paragraph/>
+                     </text>
+                     <effectiveTime value="20230328"/>
+                  </section>
+               </component>
+            </section>
+         </component>
+         <component>
+            <section ID="ID_dd2e43d9-2097-45f3-b54a-bd9bdfb488aa">
+               <id root="51b3c65f-de38-4c03-8870-d4be6488dbfa"/>
+               <code code="43684-0" codeSystem="2.16.840.1.113883.6.1" displayName="USE IN SPECIFIC POPULATIONS SECTION"/>
+               <title>8 USE IN SPECIFIC POPULATIONS</title>
+               <effectiveTime value="20230328"/>
+               <excerpt>
+                  <highlight>
+                     <text>
+                        <list listType="unordered">
+                           <item>
+                              <caption>•</caption>
+                              <content styleCode="underline">Pregnancy</content>: May precipitate opioid withdrawal in pregnant women and the fetus. <linkHtml href="#ID_07fd64c0-c67c-4a1f-81af-c74838d41daa">(8.1)</linkHtml>
+                           </item>
+                           <item>
+                              <caption>•</caption>
+                              <content styleCode="underline">Lactation</content>: Breastfeeding not recommended. <linkHtml href="#ID_b7aba9fa-22b7-45bd-bd06-7d364798c488">(8.2)</linkHtml>
+                           </item>
+                           <item>
+                              <caption>•</caption>
+                              <content styleCode="underline">Hepatic Impairment</content>: Avoid in severe impairment. <linkHtml href="#ID_696a91b6-5417-4657-8cfe-3e2b45d77e5f">(8.7)</linkHtml>
+                           </item>
+                        </list>
+                     </text>
+                  </highlight>
+               </excerpt>
+               <component>
+                  <section ID="ID_07fd64c0-c67c-4a1f-81af-c74838d41daa">
+                     <id root="e80c56ae-4b51-4dc0-b46a-75e1418f44c7"/>
+                     <code code="42228-7" codeSystem="2.16.840.1.113883.6.1" displayName="PREGNANCY SECTION"/>
+                     <title>8.1 Pregnancy</title>
+                     <text>
+                        <paragraph>
+                           <content styleCode="underline">Risk Summary</content>
+                        </paragraph>
+                        <paragraph>Limited available data with MOVANTIK use in pregnant women are insufficient to inform a drug associated risk of adverse developmental outcomes. MOVANTIK may precipitate opioid withdrawal in the pregnant women and the fetus <content styleCode="italics">(see <linkHtml href="#clincon">Clinical Considerations</linkHtml>)</content>.</paragraph>
+                        <paragraph>In animal development studies, no effects on embryo-fetal development were observed following administration of naloxegol in pregnant rats during the period of organogenesis at doses up to 1452 times the human AUC (area under the plasma concentration-time curve) at the maximum recommended human dose. No effects on embryo-fetal development were observed following administration of naloxegol in pregnant rabbits during the period of organogenesis at doses up to 409 times the human AUC at the maximum recommended human dose.</paragraph>
+                        <paragraph>The estimated background risk of major birth defects and miscarriage for the indicated populations are unknown. All pregnancies have a background risk of birth defect, loss, or other adverse outcomes. In the U.S. general population, the estimated background risk of major birth defects and miscarriage in clinically-recognized pregnancies is 2% to 4% and 15% to 20%, respectively.</paragraph>
+                        <paragraph>
+                           <content styleCode="underline" ID="clincon">Clinical Considerations</content>
+                        </paragraph>
+                        <paragraph>
+                           <content styleCode="italics">Maternal and Fetal/Neonatal adverse reactions </content>
+                        </paragraph>
+                        <paragraph>The use of MOVANTIK may be associated with opioid withdrawal in the pregnant woman and the fetus.</paragraph>
+                        <paragraph>
+                           <content styleCode="underline">Data</content>
+                        </paragraph>
+                        <paragraph>
+                           <content styleCode="underline">Animal Data</content>
+                        </paragraph>
+                        <paragraph>Oral administration of up to 750 mg/kg/day naloxegol in rats (1452 times the human AUC at the maximum recommended human dose) and 450 mg/kg/day naloxegol in rabbits (409 times the human AUC at the maximum recommended human dose) during the period of organogenesis produced no adverse effects on embryo-fetal development. Oral administration of up to 500 mg/kg/day in rats (195 times the maximum recommended human dose based on body surface area) during the period of organogenesis through lactation produced no adverse effects on parturition or the offspring.</paragraph>
+                     </text>
+                     <effectiveTime value="20230328"/>
+                  </section>
+               </component>
+               <component>
+                  <section ID="ID_b7aba9fa-22b7-45bd-bd06-7d364798c488">
+                     <id root="32803bec-ffb4-4372-8048-93a70af9b298"/>
+                     <code code="42229-5" codeSystem="2.16.840.1.113883.6.1" displayName="SPL UNCLASSIFIED SECTION"/>
+                     <title>8.2 Lactation </title>
+                     <text>
+                        <paragraph>There are no data on the presence of naloxegol in human milk, the effects in nursing infants, or the effects on milk production. Naloxegol is present in rat milk <content styleCode="italics">(see Data</content>). Because of the potential for adverse reactions, including opioid withdrawal in breastfed infants, advise women that breastfeeding is not recommended during treatment with MOVANTIK.</paragraph>
+                        <paragraph>
+                           <content styleCode="underline">Data</content>
+                        </paragraph>
+                        <paragraph>Following oral administration of naloxegol in lactating rats, concentrations of naloxegol in milk were approximately 3- to 4-fold higher than concentrations of naloxegol in maternal plasma. Naloxegol was detected in plasma from pups.</paragraph>
+                     </text>
+                     <effectiveTime value="20230328"/>
+                  </section>
+               </component>
+               <component>
+                  <section ID="ID_2bc7771f-fd1a-47f0-8135-11ad6cd28a35">
+                     <id root="778a58b7-0913-4118-b0c2-7c6d1af2eacb"/>
+                     <code code="34081-0" codeSystem="2.16.840.1.113883.6.1" displayName="PEDIATRIC USE SECTION"/>
+                     <title>8.4 Pediatric Use</title>
+                     <text>
+                        <paragraph>The safety and effectiveness of MOVANTIK have not been established in pediatric patients.</paragraph>
+                     </text>
+                     <effectiveTime value="20230328"/>
+                  </section>
+               </component>
+               <component>
+                  <section ID="ID_069ef9a9-0127-4f7e-91d4-4015b297bb3e">
+                     <id root="ce376620-5561-4022-87c5-b33c37bda0dc"/>
+                     <code code="34082-8" codeSystem="2.16.840.1.113883.6.1" displayName="GERIATRIC USE SECTION"/>
+                     <title>8.5 Geriatric Use</title>
+                     <text>
+                        <paragraph>Of the total number of subjects in clinical studies of MOVANTIK, 11% were 65 and over, while 2% were 75 and over. No overall differences in safety or effectiveness were observed between these subjects and younger subjects, and other reported clinical experience has not identified differences in responses between the elderly and younger patients, but greater sensitivity of some older individuals cannot be ruled out.</paragraph>
+                        <paragraph>MOVANTIK exposure was higher in elderly healthy Japanese subjects compared to young subjects <content styleCode="italics">[see <linkHtml href="#ID_8ec69282-a61a-4ffe-8b4b-d615b06d5c6d">Clinical Pharmacology (12.3)</linkHtml>]</content>. No dosage adjustment is needed in elderly patients.</paragraph>
+                     </text>
+                     <effectiveTime value="20230328"/>
+                  </section>
+               </component>
+               <component>
+                  <section ID="ID_696a91b6-5417-4657-8cfe-3e2b45d77e5f">
+                     <id root="bcc694dc-5161-4c9e-821c-158b86c05025"/>
+                     <code code="42229-5" codeSystem="2.16.840.1.113883.6.1" displayName="SPL UNCLASSIFIED SECTION"/>
+                     <title>8.6 Renal Impairment</title>
+                     <text>
+                        <paragraph>Some subjects with creatinine clearance (CLcr) values &lt;60 mL/minute (i.e., moderate, severe, or end-stage renal disease) were shown to exhibit markedly higher systemic exposure of naloxegol compared to subjects with normal renal function. The reason for these high exposures is not understood. However, as the risk of adverse reactions increases with systemic exposure, a lower starting dosage of 12.5 mg once daily is recommended. No dosage adjustment is needed in patients with mild renal impairment <content styleCode="italics">[see <linkHtml href="#ID_7da4989a-f3ea-4090-bbf0-efc4a0144a24">Dosage and Administration (2.3)</linkHtml> and <linkHtml href="#ID_8ec69282-a61a-4ffe-8b4b-d615b06d5c6d">Clinical Pharmacology (12.3)</linkHtml>]</content>.</paragraph>
+                     </text>
+                     <effectiveTime value="20230328"/>
+                  </section>
+               </component>
+               <component>
+                  <section ID="ID_b29e2d06-2a71-4282-ae66-c6d8470e40d9">
+                     <id root="84bc87b4-e287-4406-845a-8d18c63d15b1"/>
+                     <code code="42229-5" codeSystem="2.16.840.1.113883.6.1" displayName="SPL UNCLASSIFIED SECTION"/>
+                     <title>8.7 Hepatic Impairment</title>
+                     <text>
+                        <paragraph>The effect of severe hepatic impairment (Child-Pugh Class C) on the pharmacokinetics of naloxegol has not been evaluated. Avoid use of MOVANTIK in patients with severe hepatic impairment, as the dosage in these patients has not been determined. No dosage adjustment is required for patients with mild or moderate hepatic impairment <content styleCode="italics">[see <linkHtml href="#ID_8ec69282-a61a-4ffe-8b4b-d615b06d5c6d">Clinical Pharmacology (12.3)</linkHtml>]</content>.</paragraph>
+                     </text>
+                     <effectiveTime value="20230328"/>
+                  </section>
+               </component>
+            </section>
+         </component>
+         <component>
+            <section ID="ID_f1b0b3e9-0431-4fce-84fd-c4e1de08279a">
+               <id root="320f93e6-9602-41c2-9c1c-2bf75308f4f7"/>
+               <code code="34088-5" codeSystem="2.16.840.1.113883.6.1" displayName="OVERDOSAGE SECTION"/>
+               <title>10 OVERDOSAGE</title>
+               <text>
+                  <paragraph>In a clinical study of patients with OIC a daily dose of 50 mg (twice the recommended dosage), administered over 4 weeks, was associated with an increased incidence of GI adverse reactions, such as abdominal pain, diarrhea, and nausea. These adverse reactions frequently occurred within 1-2 days after dosing.</paragraph>
+                  <paragraph>No antidote is known for naloxegol. Dialysis was noted to be ineffective as a means of elimination in a clinical study in patients with renal failure.</paragraph>
+                  <paragraph>If a patient on opioid therapy receives an overdose of naloxegol, the patient should be monitored closely for potential evidence of opioid withdrawal symptoms such as chills, rhinorrhea, diaphoresis, or reversal of central analgesic effect. Base treatment on the degree of opioid withdrawal symptoms, including changes in blood pressure and heart rate, and on the need for analgesia.</paragraph>
+               </text>
+               <effectiveTime value="20230328"/>
+            </section>
+         </component>
+         <component>
+            <section ID="ID_f8b0977b-052d-4cbe-8bc6-58c1496f6d36">
+               <id root="d0ffcb30-f927-47b6-9cab-454d562bec8d"/>
+               <code code="34089-3" codeSystem="2.16.840.1.113883.6.1" displayName="DESCRIPTION SECTION"/>
+               <title>11 DESCRIPTION</title>
+               <text>
+                  <paragraph>MOVANTIK (naloxegol), an opioid antagonist, contains naloxegol oxalate as the active ingredient. (Naloxegol is a PEGylated derivative of naloxone.)</paragraph>
+                  <paragraph>The chemical name for naloxegol oxalate is: (5α,6α)-17-allyl-6-(2,5,8,11,14,17,20-heptaoxadocosan-22-yloxy)-4,5-epoxymorphinan-3,14-diol oxalate. The structural formula is:</paragraph>
+                  <paragraph/>
+                  <paragraph>
+                     <renderMultiMedia referencedObject="ID_9dd71643-bc12-4b73-ac02-ad0c6ed9c511"/>
+                  </paragraph>
+                  <paragraph/>
+                  <paragraph>The empirical formula for naloxegol oxalate is C<sub>34</sub>H<sub>53</sub>NO<sub>11</sub>.C<sub>2</sub>H<sub>2</sub>O<sub>4</sub> and the molecular weight is 742.</paragraph>
+                  <paragraph>Naloxegol oxalate is a white to off-white powder, with high aqueous solubility across the physiologic pH range.</paragraph>
+                  <paragraph>MOVANTIK (naloxegol) tablets for oral use contain 14.2 mg and 28.5 mg of naloxegol oxalate, respectively, equivalent to 12.5 mg and 25 mg of naloxegol.</paragraph>
+                  <paragraph>Excipients in tablet core are: mannitol, cellulose microcrystalline, croscarmellose sodium, magnesium stearate, and propyl gallate.</paragraph>
+                  <paragraph>Excipients in tablet coat are: hypromellose, titanium dioxide, polyethylene glycol, iron oxide red, and iron oxide black.</paragraph>
+               </text>
+               <effectiveTime value="20230328"/>
+               <component>
+                  <observationMedia ID="ID_9dd71643-bc12-4b73-ac02-ad0c6ed9c511">
+                     <text>Chemical structure</text>
+                     <value mediaType="image/jpeg" xsi:type="ED">
+                        <reference value="image-01.jpg"/>
+                     </value>
+                  </observationMedia>
+               </component>
+            </section>
+         </component>
+         <component>
+            <section ID="ID_d8b3e016-f714-441d-99c7-b25830fba66d">
+               <id root="3a42d5fd-d11f-4f13-b365-613df6f01f15"/>
+               <code code="34090-1" codeSystem="2.16.840.1.113883.6.1" displayName="CLINICAL PHARMACOLOGY SECTION"/>
+               <title>12 CLINICAL PHARMACOLOGY</title>
+               <effectiveTime value="20230328"/>
+               <component>
+                  <section ID="ID_311a3298-e156-40c0-bd7f-3b0af44ade60">
+                     <id root="def4d986-9cd0-4325-aa82-c9c1145e1034"/>
+                     <code code="43679-0" codeSystem="2.16.840.1.113883.6.1" displayName="MECHANISM OF ACTION SECTION"/>
+                     <title>12.1 Mechanism of Action</title>
+                     <text>
+                        <paragraph>Naloxegol is an antagonist of opioid binding at the mu-opioid receptor. When administered at the recommended dose levels, naloxegol functions as a peripherally-acting mu-opioid receptor antagonist in tissues, such as the gastrointestinal tract, thereby decreasing the constipating effects of opioids.</paragraph>
+                        <paragraph>Naloxegol is a PEGylated derivative of naloxone and is a substrate for the P-glycoprotein transporter (P-gp). Also, the presence of the PEG moiety in naloxegol reduces its passive permeability as compared with naloxone. Due to the reduced permeability and increased efflux of naloxegol across the blood-brain barrier, related to P-gp substrate properties, the CNS penetration of naloxegol is expected to be negligible at the recommended dose levels limiting the potential for interference with centrally mediated opioid analgesia.</paragraph>
+                     </text>
+                     <effectiveTime value="20230328"/>
+                  </section>
+               </component>
+               <component>
+                  <section ID="ID_b458e049-c7b2-49c3-a6f9-4d33601410ce">
+                     <id root="29e59ba3-f49a-4289-a191-2d7aabd30315"/>
+                     <code code="43681-6" codeSystem="2.16.840.1.113883.6.1" displayName="PHARMACODYNAMICS SECTION"/>
+                     <title>12.2 Pharmacodynamics</title>
+                     <text>
+                        <paragraph>Use of opioids induces slowing of gastrointestinal motility and transit. Antagonism of gastrointestinal mu-opioid receptors by naloxegol inhibits opioid-induced delay of gastrointestinal transit time.</paragraph>
+                        <paragraph>
+                           <content styleCode="underline">Effect on Cardiac Repolarization </content>
+                        </paragraph>
+                        <paragraph>In a randomized, double-blind, 4-way cross-over thorough QTc prolongation study with moxifloxacin as a positive control, a single 25 mg therapeutic dose or a 150 mg dose (6 times the maximum recommended dosage) of naloxegol did not have an effect on the QTc interval compared to placebo. Changes in heart rate, RR, PR, and QRS ECG intervals were similar between placebo and naloxegol 25 or 150 mg.</paragraph>
+                        <paragraph>
+                           <content styleCode="underline">Exposure Response Analysis</content>
+                        </paragraph>
+                        <paragraph>The exposure-response analysis for adverse events showed that the probability of experiencing abdominal pain increased with increasing naloxegol exposure over the dose range of 12.5 mg to 25 mg once a day. The exposure-response analysis for efficacy conducted using the definition of response in the clinical trials <content styleCode="italics">[see <linkHtml href="#ID_26d50e43-c846-4d9a-b1dc-76943e06b5c5">Clinical Studies (14)</linkHtml>]</content> indicated that response was similar over this dose range.</paragraph>
+                     </text>
+                     <effectiveTime value="20230328"/>
+                  </section>
+               </component>
+               <component>
+                  <section ID="ID_8ec69282-a61a-4ffe-8b4b-d615b06d5c6d">
+                     <id root="ec6e3629-fcd1-424c-82a0-2e2eed39f229"/>
+                     <code code="43682-4" codeSystem="2.16.840.1.113883.6.1" displayName="PHARMACOKINETICS SECTION"/>
+                     <title>12.3 Pharmacokinetics</title>
+                     <text>
+                        <paragraph>
+                           <content styleCode="underline">Absorption</content>
+                        </paragraph>
+                        <paragraph>Following oral administration, MOVANTIK is absorbed with peak concentrations (C<sub>max</sub>) achieved at less than 2 hours. In a majority of subjects, a secondary plasma concentration peak of naloxegol was observed approximately 0.4 to 3 hours after the first peak. Across the range of doses evaluated, peak plasma concentration and area under the plasma concentration-time curve (AUC) increased in a dose-proportional or almost dose-proportional manner. Accumulation was minimal following multiple daily doses of naloxegol.</paragraph>
+                        <paragraph>MOVANTIK as a crushed tablet mixed in water, given orally or administered through a nasogastric tube into the stomach, provides systemic naloxegol concentrations that are comparable to the whole tablet, with a median t<sub>max</sub> of 0.75 and 1.5 hours (range 0.25 to 5 hours) for the crushed tablet given orally and the crushed tablet given via nasogastric (NG) tube, respectively <content styleCode="italics">[see <linkHtml href="#_2.2_Adult_Dosage">Dosage and Administration (2.2)</linkHtml>]</content>.</paragraph>
+                        <paragraph>
+                           <content styleCode="underline">Food Effects </content>
+                        </paragraph>
+                        <paragraph>A high-fat meal increased the extent and rate of naloxegol absorption. The C<sub>max </sub>and AUC were increased by approximately 30% and 45%, respectively. In clinical trials, naloxegol was dosed on an empty stomach approximately 1 hour prior to the first meal in the morning.</paragraph>
+                        <paragraph>
+                           <content styleCode="underline">Distribution</content>
+                        </paragraph>
+                        <paragraph>The mean apparent volume of distribution during the terminal phase (Vz/F) in healthy volunteers ranged from 968 L to 2140 L across dosing groups and studies. Plasma protein binding of naloxegol in humans was low (~4.2%).</paragraph>
+                        <paragraph>
+                           <content styleCode="underline">Metabolism</content>
+                        </paragraph>
+                        <paragraph>Naloxegol is metabolized primarily by the CYP3A enzyme system. In a mass balance study in humans, a total of 6 metabolites were identified in plasma, urine, and feces. These metabolites were formed via N-dealkylation, O-demethylation, oxidation, and partial loss of the PEG chain. Human metabolism data suggests absence of major metabolites. The activity of the metabolites at the opioid receptor has not been determined.</paragraph>
+                        <paragraph>
+                           <content styleCode="underline">Excretion</content>
+                        </paragraph>
+                        <paragraph>Following oral administration of radio-labeled naloxegol, 68% and 16% of total administered dose were recovered in the feces and urine, respectively. Parent naloxegol excreted in the urine accounted for less than 6% of the total administered dose. Approximately 16% of radioactivity in feces was noted to be unchanged naloxegol, while the remaining was attributed to metabolites. Thus, renal excretion is a minor clearance pathway for naloxegol. In a clinical pharmacology study, the half-life of naloxegol at therapeutic doses ranged from 6 to 11 hours.</paragraph>
+                        <paragraph>
+                           <content styleCode="underline">Specific Populations</content>
+                        </paragraph>
+                        <paragraph>
+                           <content styleCode="italics">
+                              <content styleCode="underline">Renal Impairment</content>:</content>
+                        </paragraph>
+                        <paragraph>The effect of renal impairment on the pharmacokinetics of a 25 mg single oral dose of MOVANTIK was studied in subjects with renal impairment (RI) classified as moderate (n=8), severe (n=4), or end-stage renal disease (ESRD) not yet on dialysis (n=4), and compared with healthy subjects (n=6). Most renal impairment (RI) subjects (6 out of 8 with moderate RI, 3 out of 4 with severe RI, and 3 out of 4 with ESRD) had plasma naloxegol pharmacokinetics comparable to those in healthy subjects. The remaining individuals with renal impairment demonstrated higher naloxegol exposures (up to 10-fold) compared to the control group. The reason for these high exposures is unknown.</paragraph>
+                        <paragraph>This study also included 8 ESRD patients on hemodialysis. Plasma concentrations of naloxegol in these subjects were similar to healthy volunteers with normal renal function, when MOVANTIK was administered either pre- or post-hemodialysis <content styleCode="italics">[see </content>
+                           <content styleCode="italics">
+                              <linkHtml href="#ID_7da4989a-f3ea-4090-bbf0-efc4a0144a24">Dosage and Administration (2.3)</linkHtml>, <linkHtml href="#ID_069ef9a9-0127-4f7e-91d4-4015b297bb3e">Use in Specific Populations (8.6)</linkHtml>, and <linkHtml href="#ID_f1b0b3e9-0431-4fce-84fd-c4e1de08279a">Overdosage (10)</linkHtml>]</content>.</paragraph>
+                        <paragraph>
+                           <content styleCode="italics">
+                              <content styleCode="underline">Hepatic Impairment:</content>
+                           </content>
+                        </paragraph>
+                        <paragraph>Slight decreases in AUC of naloxegol were observed in subjects with mild and moderate hepatic impairment (Child-Pugh Classes A and B; n=8 per group) compared to subjects with normal hepatic function (n=8), following administration of a single 25 mg oral dose of MOVANTIK. The effect of severe hepatic impairment (Child-Pugh Class C) on the pharmacokinetics of naloxegol was not evaluated <content styleCode="italics">[see </content>
+                           <content styleCode="italics">
+                              <linkHtml href="#ID_696a91b6-5417-4657-8cfe-3e2b45d77e5f">Use in Specific Populations (8.7)</linkHtml>]</content>.</paragraph>
+                        <paragraph>
+                           <content styleCode="italics">
+                              <content styleCode="underline">Age:</content>
+                           </content>
+                        </paragraph>
+                        <paragraph>The mean C<sub>max</sub>,<sub>ss</sub> and AUC<sub>τ,ss</sub> values seen in elderly healthy Japanese subjects (n=6) were approximately 45% and 54% greater than those obtained in young healthy subjects (n=6) following multiple daily doses of naloxegol (25 mg).</paragraph>
+                        <paragraph>
+                           <content styleCode="italics">
+                              <content styleCode="underline">Gender:</content>
+                           </content>
+                        </paragraph>
+                        <paragraph>There is no gender effect on the pharmacokinetics of naloxegol.</paragraph>
+                        <paragraph>
+                           <content styleCode="italics">
+                              <content styleCode="underline">Race:</content>
+                           </content>
+                        </paragraph>
+                        <paragraph>When compared to Caucasian subjects, naloxegol AUC was approximately 20% lower in Blacks and C<sub>max</sub> was approximately 10% lower and 30% higher in Blacks and Asians, respectively.</paragraph>
+                        <paragraph>
+                           <content styleCode="underline">Drug Interaction Studies</content>
+                        </paragraph>
+                        <paragraph>
+                           <content styleCode="italics">
+                              <content styleCode="underline">Effect of MOVANTIK on Other Drugs</content>
+                           </content>
+                        </paragraph>
+                        <paragraph>In <content styleCode="italics">in vitro</content> studies at clinically relevant concentrations, naloxegol did not show a significant inhibitory effect on the activity of CYP1A2, CYP2C8, CYP2C9, CYP2D6, CYP3A4 or CYP2C19, nor a significant induction effect on the activity of CYP1A2, CYP2B6, or CYP3A4. Therefore, MOVANTIK is not expected to alter the metabolic clearance of co-administered drugs that are metabolized by these enzymes. Naloxegol is not a significant inhibitor of P-gp, BCRP, OAT1, OAT3, OCT2, OATP1B1, and OATP1B3.</paragraph>
+                        <paragraph>In healthy subjects receiving morphine 5 mg/70 kg intravenously, single doses of MOVANTIK ranging from 8 mg to 1000 mg were given concomitantly with 5 to 6 subjects per dose cohort. With increasing MOVANTIK dose, there was no increasing or decreasing trend in morphine exposure compared to morphine administered alone. An analysis of the pooled data indicated that MOVANTIK had no meaningful impact on the systemic exposure of morphine and its major circulating metabolites.</paragraph>
+                        <paragraph>
+                           <content styleCode="italics">
+                              <content styleCode="underline">Effect of Other Drugs on MOVANTIK</content>
+                           </content>
+                        </paragraph>
+                        <paragraph>Naloxegol is metabolized mainly by CYP3A enzymes and is a substrate of P-gp transporter. The effects of co-administered drugs on the pharmacokinetics of naloxegol are summarized in Figure 1 <content styleCode="italics">[see </content>
+                           <content styleCode="italics">
+                              <linkHtml href="#_7.1_Effects_of">Drug Interactions (7.1)</linkHtml>]</content>.</paragraph>
+                        <paragraph>The effects of once daily oral dosing of 400 mg ketoconazole, once daily oral dosing of 600 mg rifampicin and once daily oral dosing of 240 mg diltiazem (as an extended release formulation) on the pharmacokinetics of 25 mg MOVANTIK were studied following multiple dosing and at steady state exposure of the perpetrator drugs. The effects of 600 mg oral dosing of quinidine and intravenous morphine (5 mg/70 kg) on the pharmacokinetics of 25 mg MOVANTIK were studied following single dosing of the perpetrator drugs.</paragraph>
+                        <paragraph/>
+                        <paragraph>
+                           <content styleCode="bold">Figure 1: Effect of Co-administered Drugs on the Pharmacokinetics of Naloxegol</content>
+                        </paragraph>
+                        <paragraph>
+                           <content styleCode="bold"/>
+                           <renderMultiMedia referencedObject="ID_1f5accca-ab8b-44ee-9069-64421f9c05a3"/>
+                        </paragraph>
+                        <paragraph>
+                           <content>*Quinidine due to its effect on P-gp transporter increased naloxegol C</content>
+                           <sub>max</sub>
+                           <content> by 2.5-fold; the AUC increased by 1.4-fold; no dosage adjustment is necessary.</content>
+                        </paragraph>
+                        <paragraph>No drug interaction studies have been conducted for MOVANTIK with drugs that alter gastric pH (e.g., antacids, proton-pump inhibitors).</paragraph>
+                        <paragraph>Simulations using physiologically based pharmacokinetic modeling, suggested that naloxegol exposures after co-administration of a single oral 25 mg dose of MOVANTIK with a moderate CYP3A inducer efavirenz (400 mg once a day) are similar to those after 12.5 mg MOVANTIK alone.</paragraph>
+                     </text>
+                     <effectiveTime value="20230328"/>
+                     <component>
+                        <observationMedia ID="ID_1f5accca-ab8b-44ee-9069-64421f9c05a3">
+                           <text>Figure 1</text>
+                           <value mediaType="image/jpeg" xsi:type="ED">
+                              <reference value="image-02.jpg"/>
+                           </value>
+                        </observationMedia>
+                     </component>
+                  </section>
+               </component>
+            </section>
+         </component>
+         <component>
+            <section ID="ID_34edb0b4-d13c-4a53-a874-0ce5b1b09840">
+               <id root="252ad127-21e9-4f24-984f-dd91b10a61e1"/>
+               <code code="43680-8" codeSystem="2.16.840.1.113883.6.1" displayName="NONCLINICAL TOXICOLOGY SECTION"/>
+               <title>13 NONCLINICAL TOXICOLOGY</title>
+               <effectiveTime value="20230328"/>
+               <component>
+                  <section ID="ID_1d52f8b3-173c-4062-a84a-b9b645dbf8ab">
+                     <id root="901750e2-10e1-485e-a24b-fdbfccb2d97b"/>
+                     <code code="34083-6" codeSystem="2.16.840.1.113883.6.1" displayName="CARCINOGENESIS &amp; MUTAGENESIS &amp; IMPAIRMENT OF FERTILITY SECTION"/>
+                     <title>13.1 Carcinogenesis, Mutagenesis, Impairment of Fertility</title>
+                     <text>
+                        <paragraph>
+                           <content styleCode="underline">Carcinogenesis</content>
+                        </paragraph>
+                        <paragraph>In a 104-week carcinogenicity study in CD-1 mice, naloxegol was not tumorigenic at oral doses up to 100 mg/kg/day in males and 160 mg/kg/day in females (43 and 27 times the human AUC at the maximum recommended human dose for male and female mice, respectively). In a carcinogenicity study in Sprague-Dawley rats, naloxegol was administered orally at doses of 40, 120, and 400 mg/kg/day for at least 93 weeks. Naloxegol did not cause an increase in tumors in female rats. In male rats, an increase in interstitial (Leydig) cell adenomas in testes was observed at 400 mg/kg/day (818 times the human AUC at the maximum recommended human dose). The no observed effect level for increased tumor incidence was 120 mg/kg/day in male and 400 mg/kg/day in female rats (246 and 1030 times the human AUC at the maximum recommended human dose for male and female rats, respectively). The Leydig cell neoplasms in rats are considered to be unlikely relevant to humans.</paragraph>
+                        <paragraph>
+                           <content styleCode="underline">Mutagenesis</content>
+                        </paragraph>
+                        <paragraph>Naloxegol was not genotoxic in the <content styleCode="italics">in vitro</content> bacterial reverse mutation (Ames) assay, mouse lymphoma TK<sup>+/-</sup> mutation assay, or the <content styleCode="italics">in vivo</content> mouse micronucleus assay.</paragraph>
+                        <paragraph>
+                           <content styleCode="underline">Impairment of Fertility</content>
+                        </paragraph>
+                        <paragraph>Naloxegol was found to have no effect on fertility or reproductive performance in male and female rats at oral doses up to 1000 mg/kg/day (greater than 1000 times the human AUC at the maximum recommended human dose).</paragraph>
+                     </text>
+                     <effectiveTime value="20230328"/>
+                  </section>
+               </component>
+            </section>
+         </component>
+         <component>
+            <section ID="ID_26d50e43-c846-4d9a-b1dc-76943e06b5c5">
+               <id root="0ee33bc5-afd4-4c60-b266-1bac8ce84280"/>
+               <code code="34092-7" codeSystem="2.16.840.1.113883.6.1" displayName="CLINICAL STUDIES SECTION"/>
+               <title>14 CLINICAL STUDIES</title>
+               <text>
+                  <paragraph>The safety and efficacy of MOVANTIK were evaluated in two replicate, randomized, double-blind placebo-controlled trials (Study 1 and Study 2) in patients with opioid-induced constipation (OIC) and non-cancer related pain.</paragraph>
+                  <paragraph>Patients receiving an opioid morphine equivalent daily dose of between 30 mg and 1,000 mg for at least four weeks before enrollment and self-reported OIC were eligible to participate. OIC was confirmed through a two-week run-in period and was defined as &lt;3 spontaneous bowel movements (SBMs) per week on average with at least 25% of the SBMs associated with one or more of the following conditions: (1) straining, (2) hard or lumpy stools; and (3) having a sensation of incomplete evacuation. An SBM was defined as a bowel movement (BM) without rescue laxative taken within the past 24 hours. Patients with 0 BMs over the two-week run-in period or patients with an uneven distribution of SBMs across the two-week run-in period (0 SBMs in one week with ≥4 SBMs in the other week) were excluded. Throughout the studies (including the two-week run-in period), patients were prohibited from using laxatives other than bisacodyl rescue laxative (if they had not had a BM for 72 hours) and one-time use of an enema (if after 3 doses of bisacodyl, they still did not have a BM).</paragraph>
+                  <paragraph>Patients suspected of having clinically important disruptions to the blood-brain barrier were not enrolled in these studies.</paragraph>
+                  <paragraph>A total of 652 patients in Study 1 and 700 patients in Study 2 were randomized in a 1:1:1 ratio to receive 12.5 mg or 25 mg of MOVANTIK or placebo once daily for 12 weeks.</paragraph>
+                  <paragraph>The mean age of the subjects in these two studies was 52 years, 10% and 13% were 65 years of age or older, 61% and 63% were women, and 78% and 80% were White in Studies 1 and 2, respectively.</paragraph>
+                  <paragraph>Back pain was the most common reason for pain (56% and 57%); arthritis (10% and 10%) and joint pain (3% and 5%) were other prominent reasons in Studies 1 and 2, respectively. Prior to enrollment, patients had been using their current opioid for an average of 3.6 and 3.7 years. The patients who participated in Studies 1 and 2 were taking a wide range of opioids. The mean baseline opioid morphine equivalent daily dosage was 140 mg and 136 mg per day.</paragraph>
+                  <paragraph>Use of one or more laxatives on at least one occasion within the two weeks prior to enrollment was reported by 71% of patients in both Studies 1 and 2.</paragraph>
+                  <paragraph>The primary endpoint was response defined as: ≥3 SBMs per week and a change from baseline of ≥1 SBM per week for at least 9 out of the 12 study weeks and 3 out of the last 4 weeks.</paragraph>
+                  <paragraph>There was a statistically significant difference for the 25 mg MOVANTIK treatment group versus placebo for the primary endpoint in Study 1 and Study 2 (see <linkHtml href="#t3">Table 3</linkHtml>). Statistical significance for the 12.5 mg treatment group versus placebo was observed in Study 1 but not in Study 2 (see <linkHtml href="#t3">Table 3</linkHtml>).</paragraph>
+                  <table ID="t3" width="98.04%">
+                     <caption>Table 3. Primary Endpoint: Response<footnote ID="_Ref398710581">Response defined as: ≥3 SBMs per week and change from baseline of ≥1 SBM per week for at least 9 out of the 12 study weeks and 3 out of the last 4 weeks.</footnote> (Studies 1 and 2)</caption>
+                     <colgroup>
+                        <col width="45%"/>
+                        <col width="18%"/>
+                        <col width="20%"/>
+                        <col width="18%"/>
+                     </colgroup>
+                     <thead>
+                        <tr>
+                           <th styleCode="Botrule Lrule Rrule Toprule" align="left" valign="middle"/>
+                           <th styleCode="Botrule Lrule Rrule Toprule" colspan="3" align="center" valign="middle">
+                              <content styleCode="bold">Study 1</content>
+                           </th>
+                        </tr>
+                        <tr>
+                           <td styleCode="Botrule Lrule Rrule" align="left" valign="middle"/>
+                           <td styleCode="Botrule Lrule Rrule Toprule" align="center" valign="middle">Placebo<br/>(N = 214)</td>
+                           <td styleCode="Botrule Lrule Rrule Toprule" align="center" valign="middle">12.5 mg<br/>(N = 213)</td>
+                           <td styleCode="Botrule Lrule Rrule Toprule" align="center" valign="middle">25 mg<br/>(N = 214)</td>
+                        </tr>
+                     </thead>
+                     <tbody>
+                        <tr>
+                           <td styleCode="Botrule Lrule Rrule" valign="middle">
+                              <paragraph>Patients responding, n (%)</paragraph>
+                           </td>
+                           <td styleCode="Botrule Lrule Rrule Toprule" align="center" valign="middle">
+                              <paragraph>63 (29%)</paragraph>
+                           </td>
+                           <td styleCode="Botrule Lrule Rrule Toprule" align="center" valign="middle">
+                              <paragraph>87 (41%)</paragraph>
+                           </td>
+                           <td styleCode="Botrule Lrule Rrule Toprule" align="center" valign="middle">
+                              <paragraph>95 (44%)</paragraph>
+                           </td>
+                        </tr>
+                        <tr>
+                           <td styleCode="Botrule Lrule Rrule" valign="middle">
+                              <paragraph>Treatment Difference (MOVANTIK-Placebo)</paragraph>
+                           </td>
+                           <td styleCode="Botrule Lrule Rrule Toprule" align="center" valign="middle">
+                              <paragraph>--</paragraph>
+                           </td>
+                           <td styleCode="Botrule Lrule Rrule Toprule" align="center" valign="middle">
+                              <paragraph>11.4%</paragraph>
+                           </td>
+                           <td styleCode="Botrule Lrule Rrule Toprule" align="center" valign="middle">
+                              <paragraph>15.0%</paragraph>
+                           </td>
+                        </tr>
+                        <tr>
+                           <td styleCode="Botrule Lrule Rrule" valign="middle">
+                              <paragraph>95% Confidence Interval</paragraph>
+                           </td>
+                           <td styleCode="Botrule Lrule Rrule Toprule" align="center" valign="middle">
+                              <paragraph>--</paragraph>
+                           </td>
+                           <td styleCode="Botrule Lrule Rrule Toprule" align="center" valign="middle">
+                              <paragraph>(2.4%, 20.4%)</paragraph>
+                           </td>
+                           <td styleCode="Botrule Lrule Rrule Toprule" align="center" valign="middle">
+                              <paragraph>(5.9%, 24.0%)</paragraph>
+                           </td>
+                        </tr>
+                        <tr>
+                           <td styleCode="Botrule Lrule Rrule" valign="middle">
+                              <paragraph>p-value</paragraph>
+                           </td>
+                           <td styleCode="Botrule Lrule Rrule Toprule" align="center" valign="middle">
+                              <paragraph>--</paragraph>
+                           </td>
+                           <td styleCode="Botrule Lrule Rrule Toprule" align="center" valign="middle">
+                              <paragraph>0.015<footnote ID="_Ref398710739">Statistically significant: p-values based on the Cochran-Mantel-Haenszel test.</footnote>
+                              </paragraph>
+                           </td>
+                           <td styleCode="Botrule Lrule Rrule Toprule" align="center" valign="middle">
+                              <paragraph>0.001<footnoteRef IDREF="_Ref398710739"/>
+                              </paragraph>
+                           </td>
+                        </tr>
+                        <tr>
+                           <td styleCode="Botrule Lrule Rrule" valign="middle"/>
+                           <td styleCode="Botrule Lrule Rrule Toprule" colspan="3" align="center" valign="middle">
+                              <paragraph>
+                                 <content styleCode="bold">Study 2</content>
+                              </paragraph>
+                           </td>
+                        </tr>
+                        <tr>
+                           <td styleCode="Botrule Lrule Rrule" valign="middle"/>
+                           <td styleCode="Botrule Lrule Rrule Toprule" align="center" valign="middle">
+                              <paragraph>Placebo<br/>(N = 232)</paragraph>
+                           </td>
+                           <td styleCode="Botrule Lrule Rrule Toprule" align="center" valign="middle">
+                              <paragraph>12.5 mg<br/>(N = 232)</paragraph>
+                           </td>
+                           <td styleCode="Botrule Lrule Rrule Toprule" align="center" valign="middle">
+                              <paragraph>25 mg<br/>(N = 232)</paragraph>
+                           </td>
+                        </tr>
+                        <tr>
+                           <td styleCode="Botrule Lrule Rrule" valign="middle">
+                              <paragraph>Patients responding, n (%)</paragraph>
+                           </td>
+                           <td styleCode="Botrule Lrule Rrule Toprule" align="center" valign="middle">
+                              <paragraph>68 (29%)</paragraph>
+                           </td>
+                           <td styleCode="Botrule Lrule Rrule Toprule" align="center" valign="middle">
+                              <paragraph>81 (35%)</paragraph>
+                           </td>
+                           <td styleCode="Botrule Lrule Rrule Toprule" align="center" valign="middle">
+                              <paragraph>92 (40%)</paragraph>
+                           </td>
+                        </tr>
+                        <tr>
+                           <td styleCode="Botrule Lrule Rrule" valign="middle">
+                              <paragraph>Treatment Difference (MOVANTIK-Placebo)</paragraph>
+                           </td>
+                           <td styleCode="Botrule Lrule Rrule Toprule" align="center" valign="middle">
+                              <paragraph>--</paragraph>
+                           </td>
+                           <td styleCode="Botrule Lrule Rrule Toprule" align="center" valign="middle">
+                              <paragraph>5.6%</paragraph>
+                           </td>
+                           <td styleCode="Botrule Lrule Rrule Toprule" align="center" valign="middle">
+                              <paragraph>10.3%</paragraph>
+                           </td>
+                        </tr>
+                        <tr>
+                           <td styleCode="Botrule Lrule Rrule" valign="middle">
+                              <paragraph>95% Confidence Interval</paragraph>
+                           </td>
+                           <td styleCode="Botrule Lrule Rrule Toprule" align="center" valign="middle">
+                              <paragraph>--</paragraph>
+                           </td>
+                           <td styleCode="Botrule Lrule Rrule Toprule" align="center" valign="middle">
+                              <paragraph>(-2.9%, 14.1%)</paragraph>
+                           </td>
+                           <td styleCode="Botrule Lrule Rrule Toprule" align="center" valign="middle">
+                              <paragraph>(1.7%, 18.9%)</paragraph>
+                           </td>
+                        </tr>
+                        <tr>
+                           <td styleCode="Botrule Lrule Rrule Toprule" valign="middle">
+                              <paragraph>p-value</paragraph>
+                           </td>
+                           <td styleCode="Botrule Lrule Rrule Toprule" align="center" valign="middle">
+                              <paragraph>--</paragraph>
+                           </td>
+                           <td styleCode="Botrule Lrule Rrule Toprule" align="center" valign="middle">
+                              <paragraph>0.202</paragraph>
+                           </td>
+                           <td styleCode="Botrule Lrule Rrule Toprule" align="center" valign="middle">
+                              <paragraph>0.021<footnoteRef IDREF="_Ref398710739"/>
+                              </paragraph>
+                           </td>
+                        </tr>
+                     </tbody>
+                  </table>
+                  <paragraph>One secondary endpoint in Study 1 and Study 2 was response in laxative users with OIC symptoms. This subgroup comprised 55% and 53% of total patients in these two studies, respectively. These patients (identified using an investigator-administered questionnaire), prior to enrollment, had reported using laxative(s) at least 4 out of the past 14 days with at least one of the following OIC symptoms of moderate, severe, or very severe intensity: incomplete bowel movements, hard stool, straining, or sensation of needing to pass a bowel movement but unable to do so. In this subgroup, in Studies 1 and 2, 42% and 50% reported using laxatives on a daily basis. The most frequently reported laxatives used on a daily basis were stool softeners (18% and 24%), stimulants (16% and 18%), and polyethylene glycol (6% and 5%). Use of two laxative classes was reported in 31% and 27% anytime during the 14 days prior to enrollment. The most commonly reported combination was stimulants and stool softeners (10% and 8%). In Study 1, a statistically significantly higher percentage of patients in this subgroup responded with MOVANTIK 12.5 mg compared to placebo (43% vs. 29%; p=0.03) and with MOVANTIK 25 mg compared to placebo (49% vs. 29%; p=0.002). In Study 2, a statistically significantly higher percentage of patients in this subgroup responded with MOVANTIK 25 mg compared to placebo (47% vs. 31%; p=0.01). This secondary endpoint was not tested for MOVANTIK 12.5 mg versus placebo in Study 2 because the primary endpoint was not statistically significant.</paragraph>
+                  <paragraph>Another secondary endpoint was time to first post-dose SBM. The time to first post-dose SBM was significantly shorter with MOVANTIK 25 mg compared to placebo in both Study 1 (p &lt;0.001) and Study 2 (p &lt;0.001), and for MOVANTIK 12.5 mg as compared to placebo in Study 1 (p &lt;0.001). For Study 1, the median times to first post-dose SBM were 6, 20, and 36 hours with MOVANTIK 25 mg, MOVANTIK 12.5 mg, and placebo, respectively. For Study 2, the median times to first post-dose SBM were 12 and 37 hours with MOVANTIK 25 mg and placebo, respectively. These analyses do not include the results for MOVANTIK 12.5 mg versus placebo in Study 2 because the primary endpoint was not statistically significant. In the two studies, 61-70% and 58% of patients receiving MOVANTIK 25 mg and MOVANTIK 12.5 mg, respectively, had an SBM within 24 hours of the first dose.</paragraph>
+                  <paragraph>A third secondary endpoint was an evaluation of change from baseline between the treatment groups for mean number of days per week with at least 1 SBM but no more than 3 SBMs. There was a significant difference in number of days per week with 1 to 3 SBMs per day on average over 12 weeks between MOVANTIK 25 mg (Study 1 and Study 2) and MOVANTIK 12.5 mg (Study 1) and placebo.</paragraph>
+               </text>
+               <effectiveTime value="20230328"/>
+            </section>
+         </component>
+         <component>
+            <section ID="ID_302f8ca7-b6d5-41af-a789-09deb1f7fcd2">
+               <id root="8ed592e2-d6a1-4523-8ca4-00f5b981ef52"/>
+               <code code="34069-5" codeSystem="2.16.840.1.113883.6.1" displayName="HOW SUPPLIED SECTION"/>
+               <title>16 HOW SUPPLIED/STORAGE AND HANDLING</title>
+               <text>
+                  <paragraph>MOVANTIK (naloxegol) tablets are supplied as:</paragraph>
+                  <list listType="unordered">
+                     <item>NDC 82625-8801-1: 12.5 mg, bottle of 30 tablets</item>
+                     <item>NDC 82625-8801-2: 12.5 mg, bottle of 90 tablets</item>
+                     <item>NDC 82625-8801-3: 12.5 mg, unit dose blister carton of 100 tablets (for HUD only)</item>
+                     <item>NDC 82625-8802-1: 25 mg, bottle of 30 tablets</item>
+                     <item>NDC 82625-8802-2: 25 mg, bottle of 90 tablets</item>
+                     <item>NDC 82625-8802-3: 25 mg, unit dose blister carton of 100 tablets (for HUD only)</item>
+                  </list>
+                  <paragraph>
+                     <content styleCode="bold">Storage</content>
+                  </paragraph>
+                  <paragraph>Store MOVANTIK at 20-25°C (68-77°F). Excursions permitted to 15-30°C (59-86°F) [see USP Controlled Room Temperature].</paragraph>
+               </text>
+               <effectiveTime value="20230328"/>
+            </section>
+         </component>
+         <component>
+            <section ID="ID_376190fc-2afd-4c46-b56c-f4e7873b5a34">
+               <id root="20973ca7-aabb-4602-afb1-8ffae7938eb0"/>
+               <code code="34076-0" codeSystem="2.16.840.1.113883.6.1" displayName="INFORMATION FOR PATIENTS SECTION"/>
+               <title>17 PATIENT COUNSELING INFORMATION </title>
+               <text>
+                  <paragraph>Advise the patient to read the FDA-approved patient labeling (Medication Guide).</paragraph>
+                  <paragraph>
+                     <content styleCode="underline">Administration</content>
+                  </paragraph>
+                  <paragraph>Advise patients to:</paragraph>
+                  <list listType="unordered">
+                     <item>Discontinue all maintenance laxative therapy prior to initiation of MOVANTIK. Laxative(s) can be used as needed if there is a suboptimal response to MOVANTIK after three days.</item>
+                     <item>Take MOVANTIK on an empty stomach at least 1 hour prior to the first meal of the day or 2 hours after the meal.</item>
+                     <item>Discontinue MOVANTIK if treatment with the opioid pain medication is also discontinued.</item>
+                     <item>Avoid consumption of grapefruit or grapefruit juice during treatment with MOVANTIK.</item>
+                     <item>Inform their healthcare provider if their opioid pain medication is discontinued.</item>
+                     <item>Inform their healthcare provider if they are unable to tolerate MOVANTIK, so a dosage adjustment can be considered.</item>
+                     <item>
+                        <content styleCode="bold">If patients are unable to swallow the MOVANTIK tablet whole</content>, the tablet can be crushed to a powder, mixed with water and administered orally or via a nasogastric (NG) tube, as described in the Medication Guide.</item>
+                  </list>
+                  <paragraph>
+                     <content styleCode="underline">Drug Interactions</content>
+                  </paragraph>
+                  <paragraph>Advise patients to tell their healthcare provider when they start or stop taking any concomitant medications. Strong CYP3A4 inhibitors (e.g., clarithromycin, ketoconazole) are contraindicated with MOVANTIK, and other CYP3A4 enzyme modulating drugs can alter MOVANTIK exposure <content styleCode="italics">[see </content>
+                     <content styleCode="italics">
+                        <linkHtml href="#ID_e0aa88a9-981e-4cbc-b5d6-7802d9ef54c4">Contraindications (4)</linkHtml> and <linkHtml href="#ID_9702b8a8-ee03-43f6-bdd0-856ed10142ac">Drug Interactions (7.1)]</linkHtml>
+                     </content>.</paragraph>
+                  <paragraph>
+                     <content styleCode="underline">Opioid Withdrawal</content>
+                  </paragraph>
+                  <paragraph>Advise patients that clusters of symptoms consistent with opioid withdrawal may occur while taking MOVANTIK, including sweating, chills, diarrhea, abdominal pain, anxiety, irritability, and yawning. Inform patients taking methadone as therapy for their pain condition that they may be more likely to have gastrointestinal adverse reactions such as abdominal pain and diarrhea that may be related to opioid withdrawal, than patients receiving other opioids <content styleCode="italics">[see </content>
+                     <content styleCode="italics">
+                        <linkHtml href="#ID_16f0fcf0-a0cd-4347-a9f6-60f2f1291cae">Warnings and Precautions (5.1)</linkHtml>].</content>
+                  </paragraph>
+                  <paragraph>
+                     <content styleCode="underline">Severe Abdominal Pain and/or Diarrhea</content>
+                  </paragraph>
+                  <paragraph>Advise patients that symptoms may occur after starting treatment. The patient should discontinue MOVANTIK and contact their healthcare provider if they develop severe abdominal pain and/or diarrhea <content styleCode="italics">[see </content>
+                     <content styleCode="italics">
+                        <linkHtml href="#ID_c61bed17-5a39-4237-bbc3-f4ae3ac177bd">Warnings and Precautions (5.2)</linkHtml>]</content>.</paragraph>
+                  <paragraph>
+                     <content styleCode="underline">Gastrointestinal Perforation </content>
+                  </paragraph>
+                  <paragraph>Advise patients to discontinue MOVANTIK and promptly seek medical attention if they develop unusually severe, persistent or worsening abdominal pain <content styleCode="italics">[see </content>
+                     <content styleCode="italics">
+                        <linkHtml href="#ID_c085795c-f2a8-4b62-9c63-227018cf4c09">Warnings and Precautions (5.3)</linkHtml>]</content>.</paragraph>
+                  <paragraph>
+                     <content styleCode="underline">Pregnancy</content>
+                  </paragraph>
+                  <paragraph>Advise females of reproductive potential, who become pregnant or are planning to become pregnant that the use of MOVANTIK during pregnancy may precipitate opioid withdrawal in the pregnant women and the fetus <content styleCode="italics">[see <linkHtml href="#ID_07fd64c0-c67c-4a1f-81af-c74838d41daa">Use in Specific Populations (8.1)</linkHtml>]</content>.</paragraph>
+                  <paragraph>
+                     <content styleCode="underline">Lactation</content>
+                  </paragraph>
+                  <paragraph>Advise females that breastfeeding is not recommended during treatment with MOVANTIK <content styleCode="italics">[see </content>
+                     <content styleCode="italics">
+                        <linkHtml href="#ID_b7aba9fa-22b7-45bd-bd06-7d364798c488">Use in Specific Populations (8.2)</linkHtml>
+                     </content>
+                     <content styleCode="italics">]</content>.</paragraph>
+                  <paragraph>MOVANTIK is a registered trademark of the AstraZeneca Group of companies and used under license by Valinor Pharma, LLC.</paragraph>
+                  <paragraph>Distributed by: Valinor Pharma, LLC, Chicago, IL 60606</paragraph>
+                  <paragraph>© 2023 Valinor Pharma, LLC</paragraph>
+               </text>
+               <effectiveTime value="20230328"/>
+            </section>
+         </component>
+         <component>
+            <section ID="ID_5112c5e7-4599-4888-9345-045be38cbb42">
+               <id root="49e2feae-e1e3-4059-9dcd-62611d77ded4"/>
+               <code code="42231-1" codeSystem="2.16.840.1.113883.6.1" displayName="SPL MEDGUIDE SECTION"/>
+               <title>
+                  <content styleCode="bold">MEDICATION GUIDE</content>
+               </title>
+               <text>
+                  <table width="100%">
+                     <colgroup>
+                        <col width="100%"/>
+                     </colgroup>
+                     <tbody>
+                        <tr>
+                           <td styleCode="Botrule Lrule Rrule Toprule" align="center" valign="top">
+                              <paragraph>
+                                 <content styleCode="bold">MOVANTIK<sup>®</sup> (mo-van-tic)</content>
+                              </paragraph>
+                              <paragraph>(naloxegol)</paragraph>
+                              <paragraph>tablets, for oral use</paragraph>
+                           </td>
+                        </tr>
+                        <tr>
+                           <td styleCode="Botrule Lrule Rrule" valign="top">
+                              <paragraph>Read this Medication Guide before you start taking MOVANTIK and each time you get a refill. There may be new information. This information does not take the place of talking with your healthcare provider about your medical condition or your treatment.</paragraph>
+                           </td>
+                        </tr>
+                        <tr>
+                           <td styleCode="Botrule Lrule Rrule" valign="top">
+                              <paragraph>
+                                 <content styleCode="bold">What is the most important information I should know about MOVANTIK? </content>
+                              </paragraph>
+                              <paragraph>
+                                 <content styleCode="bold">MOVANTIK may cause serious side effects, including:</content>
+                              </paragraph>
+                              <list listType="unordered">
+                                 <item>
+                                    <content styleCode="bold">Opioid withdrawal.</content> You may have symptoms of opioid withdrawal during treatment with MOVANTIK including sweating, chills, diarrhea, stomach pain, anxiety, irritability, and yawning. If you take methadone to treat your pain, you may be more likely to have stomach pain and diarrhea than people who do not take methadone. Tell your health care provider if you have any of these symptoms.</item>
+                                 <item>
+                                    <content styleCode="bold">Severe stomach pain or diarrhea, or both severe stomach pain and diarrhea.</content> Severe stomach pain and diarrhea can happen when you take MOVANTIK. These problems can happen within a few days after you start taking MOVANTIK and can lead to hospitalization. Stop taking MOVANTIK and call your healthcare provider right away if you have severe stomach pain or diarrhea, or both severe stomach pain and diarrhea.</item>
+                                 <item>
+                                    <content styleCode="bold">Tear in your stomach or intestinal wall (perforation).</content> Stomach pain that is severe can be a sign of a serious medical condition. If you have stomach pain that gets worse or does not go away, stop taking MOVANTIK and get emergency medical help right away.</item>
+                              </list>
+                           </td>
+                        </tr>
+                        <tr>
+                           <td styleCode="Botrule Lrule Rrule" valign="top">
+                              <paragraph>
+                                 <content styleCode="bold">What is MOVANTIK? </content>
+                              </paragraph>
+                              <paragraph>MOVANTIK is a prescription medicine used to treat constipation that is caused by prescription pain medicines called opioids, in adults with long-lasting (chronic) pain that is not caused by active cancer.</paragraph>
+                              <paragraph>It is not known if MOVANTIK is safe and effective in children.</paragraph>
+                           </td>
+                        </tr>
+                        <tr>
+                           <td styleCode="Botrule Lrule Rrule" valign="top">
+                              <paragraph>
+                                 <content styleCode="bold">Who should not take MOVANTIK? </content>
+                              </paragraph>
+                              <paragraph>
+                                 <content styleCode="bold">Do not take MOVANTIK if you:</content>
+                              </paragraph>
+                              <list listType="unordered">
+                                 <item>have a bowel blockage (intestinal obstruction) or have a history of bowel blockage.</item>
+                                 <item>are allergic to MOVANTIK or any of the ingredients in MOVANTIK. See the end of this Medication Guide for a complete list of ingredients in MOVANTIK.</item>
+                              </list>
+                              <paragraph>
+                                 <content>MOVANTIK can interact with certain other medicines and cause side effects, including opioid withdrawal symptoms such as sweating, chills, diarrhea, stomach pain, anxiety, irritability, and yawning. Tell your healthcare provider or pharmacist before you start or stop any medicines during treatment with MOVANTIK.</content>
+                              </paragraph>
+                           </td>
+                        </tr>
+                        <tr>
+                           <td styleCode="Botrule Lrule Rrule" valign="top">
+                              <paragraph>
+                                 <content styleCode="bold">What should I tell my healthcare provider before taking MOVANTIK?</content>
+                              </paragraph>
+                              <paragraph>
+                                 <content styleCode="bold">Before you take MOVANTIK, tell your healthcare provider about all of your medical conditions, including if you:</content>
+                              </paragraph>
+                              <list listType="unordered">
+                                 <item>have any stomach or bowel (intestines) problems, including inflammation in parts of the large intestine (diverticulitis), inflammation and injury of the intestines caused by reduced blood flow (ischemic colitis), or cancer of the stomach or bowel.</item>
+                                 <item>have had recent surgery on the stomach or intestines.</item>
+                                 <item>have kidney problems.</item>
+                                 <item>have liver problems.</item>
+                                 <item>are pregnant or plan to become pregnant. Taking MOVANTIK during pregnancy may cause opioid withdrawal symptoms in you or your unborn baby. Tell your healthcare provider right away if you become pregnant during treatment with MOVANTIK.</item>
+                                 <item>are breastfeeding or plan to breastfeed. It is not known if MOVANTIK passes into your breast milk.</item>
+                                 <item>taking MOVANTIK while you are breastfeeding may cause opioid withdrawal in your baby. You and your healthcare provider should decide if you will take MOVANTIK or breastfeed. You should not breastfeed if you take MOVANTIK.</item>
+                              </list>
+                              <paragraph/>
+                              <paragraph>
+                                 <content styleCode="bold">Tell your healthcare provider about all of the medicines you take</content>
+                                 <content>, including prescription and over-the-counter medicines, vitamins, and herbal supplements. Other medicines may affect the way MOVANTIK works.</content>
+                              </paragraph>
+                              <paragraph>
+                                 <content styleCode="bold">Especially tell your healthcare provider if you take </content>a medicine called bevacizumab.</paragraph>
+                           </td>
+                        </tr>
+                        <tr>
+                           <td styleCode="Botrule Lrule Rrule" valign="top">
+                              <paragraph>
+                                 <content styleCode="bold">How should I take MOVANTIK? </content>
+                              </paragraph>
+                              <list listType="unordered">
+                                 <item>Take MOVANTIK exactly as your healthcare provider tells you.</item>
+                                 <item>Take your prescribed dose of MOVANTIK 1 time each day, on an empty stomach, at least 1 hour before your first meal of the day or 2 hours after the meal.</item>
+                                 <item>
+                                    <content styleCode="bold">If you cannot swallow MOVANTIK tablets whole</content>, MOVANTIK can be mixed with water and taken by mouth or given through a nasogastric (NG) tube. To take MOVANTIK by mouth:</item>
+                              </list>
+                              <paragraph>     ∘crush the tablet to a powder</paragraph>
+                              <paragraph>     ∘place your dose of MOVANTIK in a glass that contains 4 ounces (120 mL) of water and stir</paragraph>
+                              <paragraph>     ∘swallow MOVANTIK and water mixture right away</paragraph>
+                              <paragraph>     ∘add 4 more ounces (120 mL) of water to the glass and drink right away, to make sure that you take your full dose of MOVANTIK</paragraph>
+                              <paragraph/>
+                              <list listType="unordered">
+                                 <item>If you cannot swallow MOVANTIK tablets and have a nasogastric (NG) tube, MOVANTIK may be given as follows:</item>
+                              </list>
+                              <paragraph>     ∘draw up 1 ounce (30 mL) of water into a 60 mL syringe and flush the NG tube∘crush the tablet to a powder</paragraph>
+                              <paragraph>     ∘place your dose of MOVANTIK in a container and mix with approximately 2 ounces (60 mL) of water∘draw up the MOVANTIK and water into the 60 mL syringe and give the mixture through the NG tube</paragraph>
+                              <paragraph>     ∘add approximately 2 ounces (60 mL) of water to the same container you used to prepare your dose of MOVANTIK</paragraph>
+                              <paragraph>     ∘draw up the water using the same 60 mL syringe and use all the water to flush the NG tube and any remaining medicine from the NG tube into the stomach</paragraph>
+                              <list listType="unordered">
+                                 <item>Stop taking other laxatives before you start treatment with MOVANTIK. Your healthcare provider may prescribe other laxatives if MOVANTIK does not work after 3 days of treatment.</item>
+                                 <item>MOVANTIK has been shown to be effective in people who have taken opioid pain medicines for at least 4 weeks.</item>
+                                 <item>Tell your healthcare provider if you stop taking your opioid pain medicine. If you stop taking your opioid pain medicine, you should also stop taking MOVANTIK.</item>
+                                 <item>If you take too much MOVANTIK, call your healthcare provider or go to the nearest emergency room right away.</item>
+                              </list>
+                           </td>
+                        </tr>
+                        <tr>
+                           <td styleCode="Botrule Lrule Rrule" valign="top">
+                              <paragraph>
+                                 <content styleCode="bold">What should I avoid while taking MOVANTIK?</content>
+                              </paragraph>
+                              <list listType="unordered">
+                                 <item>Avoid eating grapefruit or drinking grapefruit juice during treatment with MOVANTIK.</item>
+                              </list>
+                           </td>
+                        </tr>
+                        <tr>
+                           <td styleCode="Botrule Lrule Rrule" valign="top">
+                              <paragraph>
+                                 <content styleCode="bold">What are the possible side effects of MOVANTIK? </content>
+                              </paragraph>
+                              <paragraph>See <content styleCode="bold">“What is the most important information I should know about MOVANTIK?”</content>
+                              </paragraph>
+                              <paragraph>
+                                 <content styleCode="bold">The most common side effects of MOVANTIK include: </content>stomach (abdomen) pain, diarrhea, nausea, gas, vomiting, and headache.</paragraph>
+                              <paragraph>Tell your healthcare provider if you have any side effect that bothers you or that does not go away. These are not all the possible side effects of MOVANTIK.</paragraph>
+                              <paragraph>Call your doctor for medical advice about side effects. You may report side effects to FDA at 1-800-FDA-1088.</paragraph>
+                           </td>
+                        </tr>
+                        <tr>
+                           <td styleCode="Botrule Lrule Rrule" valign="top">
+                              <paragraph>
+                                 <content styleCode="bold">How should I store MOVANTIK?</content>
+                              </paragraph>
+                              <list listType="unordered">
+                                 <item>Store MOVANTIK at room temperature between 68°F to 77°F (20°C to 25°C).</item>
+                                 <item>Safely throw away medicine that is out of date or that you no longer need.</item>
+                              </list>
+                              <paragraph>
+                                 <content styleCode="bold">Keep MOVANTIK and all medicines out of the reach of children.</content>
+                              </paragraph>
+                           </td>
+                        </tr>
+                        <tr>
+                           <td styleCode="Botrule Lrule Rrule" valign="top">
+                              <paragraph>
+                                 <content styleCode="bold">General information about the safe and effective use of MOVANTIK.</content>
+                              </paragraph>
+                              <paragraph>Medicines are sometimes prescribed for purposes other than those listed in a Medication Guide. Do not use MOVANTIK for a condition for which it was not prescribed. Do not give MOVANTIK to other people, even if they have the same symptoms that you have. It may harm them. You can ask your pharmacist or healthcare provider for information about MOVANTIK that is written for health professionals.</paragraph>
+                           </td>
+                        </tr>
+                        <tr>
+                           <td styleCode="Botrule Lrule Rrule Toprule" valign="top">
+                              <paragraph>
+                                 <content styleCode="bold">What are the ingredients in MOVANTIK?</content>
+                              </paragraph>
+                              <paragraph>
+                                 <content styleCode="bold">Active ingredient: </content>naloxegol oxalate</paragraph>
+                              <paragraph>
+                                 <content styleCode="bold">Inactive ingredients:</content> The tablet core contains mannitol, cellulose microcrystalline, croscarmellose sodium, magnesium stearate, and propyl gallate. The tablet coat contains hypromellose, titanium dioxide, polyethylene glycol, iron oxide red, and iron oxide black.</paragraph>
+                              <paragraph/>
+                              <paragraph>Distributed by: Valinor Pharma, LLC, Chicago, IL 60606</paragraph>
+                              <paragraph>MOVANTIK is a registered trademark of the AstraZeneca Group of companies and used under license by Valinor Pharma, LLC. © 2023 Valinor Pharma, LLC. All rights reserved.</paragraph>
+                              <paragraph/>
+                              <paragraph>For more information, go to <linkHtml href="http://www.MOVANTIK.com">www.MOVANTIK.com</linkHtml> or call 1-877-592-2337.</paragraph>
+                           </td>
+                        </tr>
+                     </tbody>
+                  </table>
+                  <paragraph>This Medication Guide has been approved by the U.S. Food and Drug Administration.                         Revised: 03/2023</paragraph>
+               </text>
+               <effectiveTime value="20230328"/>
+            </section>
+         </component>
+         <component>
+            <section ID="ID_19ad8d09-8f07-480c-a287-d0f1020e053e">
+               <id root="df932862-3fd0-4ba7-897a-3e1c480b51fc"/>
+               <code code="51945-4" codeSystem="2.16.840.1.113883.6.1" displayName="PACKAGE LABEL.PRINCIPAL DISPLAY PANEL"/>
+               <title>PACKAGE/LABEL PRINCIPAL DISPLAY PANEL – 12.5 mg</title>
+               <text>
+                  <paragraph>NDC 82625-8801-1          <content styleCode="bold">30 Tablets</content>
+                  </paragraph>
+                  <paragraph>movantik<sup>®</sup>
+                  </paragraph>
+                  <paragraph>(naloxegol) Tablets</paragraph>
+                  <paragraph>
+                     <content styleCode="bold">12.5 mg*</content>
+                  </paragraph>
+                  <paragraph>*Each tablet contains 14.2 mg<br/>naloxegol oxalate</paragraph>
+                  <paragraph>
+                     <content styleCode="bold">Dispense the accompanying<br/>Medication Guide to each patient. </content>
+                  </paragraph>
+                  <paragraph>
+                     <content styleCode="bold">Rx only</content>
+                  </paragraph>
+                  <paragraph>                 Valinor</paragraph>
+                  <paragraph/>
+                  <paragraph>
+                     <renderMultiMedia referencedObject="Lbd52c6b6-320f-4253-9440-67301749695f"/>
+                  </paragraph>
+                  <paragraph/>
+               </text>
+               <effectiveTime value="20230328"/>
+               <component>
+                  <observationMedia ID="Lbd52c6b6-320f-4253-9440-67301749695f">
+                     <text>label-30s-12.5mg</text>
+                     <value mediaType="image/jpeg" xsi:type="ED">
+                        <reference value="label-30s-12-5mg.jpg"/>
+                     </value>
+                  </observationMedia>
+               </component>
+            </section>
+         </component>
+         <component>
+            <section ID="ID_f5eb0a90-dfb1-470e-a9ea-9b0e967958da">
+               <id root="43f1fb58-49f5-486e-9c0b-9ee351486433"/>
+               <code code="51945-4" codeSystem="2.16.840.1.113883.6.1" displayName="PACKAGE LABEL.PRINCIPAL DISPLAY PANEL"/>
+               <title>PACKAGE/LABEL PRINCIPAL DISPLAY PANEL – 25 mg</title>
+               <text>
+                  <paragraph>NDC 82625-8802-1          <content styleCode="bold">30 Tablets</content>
+                  </paragraph>
+                  <paragraph>movantik<sup>®</sup>
+                  </paragraph>
+                  <paragraph>(naloxegol) Tablets</paragraph>
+                  <paragraph>
+                     <content styleCode="bold">25 mg*</content>
+                  </paragraph>
+                  <paragraph>*Each tablet contains 28.5 mg<br/>naloxegol oxalate</paragraph>
+                  <paragraph>
+                     <content styleCode="bold">Dispense the accompanying<br/>Medication Guide to each patient. </content>
+                  </paragraph>
+                  <paragraph>
+                     <content styleCode="bold">Rx only</content>
+                  </paragraph>
+                  <paragraph>               Valinor</paragraph>
+                  <paragraph/>
+                  <paragraph>
+                     <renderMultiMedia referencedObject="L659d74ad-97e1-4ec3-9bfd-e46ed18efcf2"/>
+                  </paragraph>
+               </text>
+               <effectiveTime value="20230328"/>
+               <component>
+                  <observationMedia ID="L659d74ad-97e1-4ec3-9bfd-e46ed18efcf2">
+                     <text>label-30s-25mg</text>
+                     <value mediaType="image/jpeg" xsi:type="ED">
+                        <reference value="label-30s-25mg.jpg"/>
+                     </value>
+                  </observationMedia>
+               </component>
+            </section>
+         </component>
+      </structuredBody>
+   </component>
+</document>

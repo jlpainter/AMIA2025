@@ -1,0 +1,1179 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet href="https://www.accessdata.fda.gov/spl/stylesheet/spl.xsl" type="text/xsl"?>
+<document xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:hl7-org:v3 https://www.accessdata.fda.gov/spl/schema/spl.xsd">
+   <id root="9474d542-4726-4546-a768-10d418cdf5cc"/>
+   <code code="34391-3" codeSystem="2.16.840.1.113883.6.1" displayName="HUMAN PRESCRIPTION DRUG LABEL"/>
+   <title>These highlights do not include all the information needed to use PRAXBIND safely and effectively. See full prescribing information for PRAXBIND. <br/>
+      <br/>PRAXBIND<sup>®</sup> (idarucizumab) injection, for intravenous use <br/>Initial U.S. Approval: 2015</title>
+   <effectiveTime value="20240123"/>
+   <setId root="c7400f8a-dcf4-a6df-6d07-983081b1bf34"/>
+   <versionNumber value="8"/>
+   <author>
+      <time/>
+      <assignedEntity>
+         <representedOrganization>
+            <id extension="603175944" root="1.3.6.1.4.1.519.1"/>
+            <name>Boehringer Ingelheim Pharmaceuticals, Inc.</name>
+            <assignedEntity>
+               <assignedOrganization>
+                  <id extension="603175944" root="1.3.6.1.4.1.519.1"/>
+                  <name>Boehringer Ingelheim Pharmaceuticals, Inc.</name>
+                  <assignedEntity>
+                     <assignedOrganization>
+                        <id extension="340700520" root="1.3.6.1.4.1.519.1"/>
+                        <name>Boehringer Ingelheim Pharma GmbH and Co. KG</name>
+                     </assignedOrganization>
+                     <performance>
+                        <actDefinition>
+                           <code code="C84731" codeSystem="2.16.840.1.113883.3.26.1.1" displayName="PACK"/>
+                           <product>
+                              <manufacturedProduct classCode="MANU">
+                                 <manufacturedMaterialKind>
+                                    <code code="0597-0197" codeSystem="2.16.840.1.113883.6.69"/>
+                                 </manufacturedMaterialKind>
+                              </manufacturedProduct>
+                           </product>
+                        </actDefinition>
+                     </performance>
+                     <performance>
+                        <actDefinition>
+                           <code code="C82401" codeSystem="2.16.840.1.113883.3.26.1.1" displayName="API MANUFACTURE"/>
+                           <product>
+                              <manufacturedProduct classCode="MANU">
+                                 <manufacturedMaterialKind>
+                                    <code code="0597-0197" codeSystem="2.16.840.1.113883.6.69"/>
+                                 </manufacturedMaterialKind>
+                              </manufacturedProduct>
+                           </product>
+                        </actDefinition>
+                     </performance>
+                     <performance>
+                        <actDefinition>
+                           <code code="C84732" codeSystem="2.16.840.1.113883.3.26.1.1" displayName="LABEL"/>
+                           <product>
+                              <manufacturedProduct classCode="MANU">
+                                 <manufacturedMaterialKind>
+                                    <code code="0597-0197" codeSystem="2.16.840.1.113883.6.69"/>
+                                 </manufacturedMaterialKind>
+                              </manufacturedProduct>
+                           </product>
+                        </actDefinition>
+                     </performance>
+                     <performance>
+                        <actDefinition>
+                           <code code="C25391" codeSystem="2.16.840.1.113883.3.26.1.1" displayName="ANALYSIS"/>
+                           <product>
+                              <manufacturedProduct classCode="MANU">
+                                 <manufacturedMaterialKind>
+                                    <code code="0597-0197" codeSystem="2.16.840.1.113883.6.69"/>
+                                 </manufacturedMaterialKind>
+                              </manufacturedProduct>
+                           </product>
+                        </actDefinition>
+                     </performance>
+                     <performance>
+                        <actDefinition>
+                           <code code="C43360" codeSystem="2.16.840.1.113883.3.26.1.1" displayName="MANUFACTURE"/>
+                           <product>
+                              <manufacturedProduct classCode="MANU">
+                                 <manufacturedMaterialKind>
+                                    <code code="0597-0197" codeSystem="2.16.840.1.113883.6.69"/>
+                                 </manufacturedMaterialKind>
+                              </manufacturedProduct>
+                           </product>
+                        </actDefinition>
+                     </performance>
+                  </assignedEntity>
+               </assignedOrganization>
+            </assignedEntity>
+         </representedOrganization>
+      </assignedEntity>
+   </author>
+   <component>
+      <structuredBody>
+         <component>
+            <section ID="DLDE">
+               <id root="effe835e-9a9b-41c8-8bb7-e7cf210ec5b1"/>
+               <code code="48780-1" codeSystem="2.16.840.1.113883.6.1" displayName="SPL PRODUCT DATA ELEMENTS SECTION"/>
+               <effectiveTime value="20231130"/>
+               <subject>
+                  <manufacturedProduct>
+                     <manufacturedProduct>
+                        <code code="0597-0197" codeSystem="2.16.840.1.113883.6.69"/>
+                        <name>Praxbind</name>
+                        <formCode code="C42946" codeSystem="2.16.840.1.113883.3.26.1.1" displayName="INJECTION"/>
+                        <asEntityWithGeneric>
+                           <genericMedicine>
+                              <name>idarucizumab</name>
+                           </genericMedicine>
+                        </asEntityWithGeneric>
+                        <ingredient classCode="ACTIB">
+                           <quantity>
+                              <numerator value="50" unit="mg"/>
+                              <denominator value="1" unit="mL"/>
+                           </quantity>
+                           <ingredientSubstance>
+                              <code code="97RWB5S1U6" codeSystem="2.16.840.1.113883.4.9"/>
+                              <name>IDARUCIZUMAB</name>
+                              <activeMoiety>
+                                 <activeMoiety>
+                                    <code code="97RWB5S1U6" codeSystem="2.16.840.1.113883.4.9"/>
+                                    <name>IDARUCIZUMAB</name>
+                                 </activeMoiety>
+                              </activeMoiety>
+                           </ingredientSubstance>
+                        </ingredient>
+                        <asContent>
+                           <quantity>
+                              <numerator value="50" unit="mL"/>
+                              <denominator value="1"/>
+                           </quantity>
+                           <containerPackagedProduct>
+                              <code/>
+                              <formCode code="C43215" codeSystem="2.16.840.1.113883.3.26.1.1" displayName="VIAL, SINGLE-DOSE"/>
+                              <asContent>
+                                 <quantity>
+                                    <numerator value="2" unit="1"/>
+                                    <denominator value="1"/>
+                                 </quantity>
+                                 <containerPackagedProduct>
+                                    <code code="0597-0197-05" codeSystem="2.16.840.1.113883.6.69"/>
+                                    <formCode code="C43182" codeSystem="2.16.840.1.113883.3.26.1.1" displayName="CARTON"/>
+                                 </containerPackagedProduct>
+                                 <subjectOf>
+                                    <marketingAct>
+                                       <code code="C53292" codeSystem="2.16.840.1.113883.3.26.1.1"/>
+                                       <statusCode code="active"/>
+                                       <effectiveTime>
+                                          <low value="20151021"/>
+                                       </effectiveTime>
+                                    </marketingAct>
+                                 </subjectOf>
+                              </asContent>
+                           </containerPackagedProduct>
+                           <subjectOf>
+                              <characteristic>
+                                 <code code="SPLCMBPRDTP" codeSystem="2.16.840.1.113883.1.11.19255"/>
+                                 <value code="C112160" codeSystem="2.16.840.1.113883.3.26.1.1" displayName="Type 0: Not a Combination Product" xsi:type="CV"/>
+                              </characteristic>
+                           </subjectOf>
+                        </asContent>
+                     </manufacturedProduct>
+                     <subjectOf>
+                        <approval>
+                           <id extension="BLA761025" root="2.16.840.1.113883.3.150"/>
+                           <code code="C73585" codeSystem="2.16.840.1.113883.3.26.1.1" displayName="BLA"/>
+                           <author>
+                              <territorialAuthority>
+                                 <territory>
+                                    <code code="USA" codeSystem="2.16.840.1.113883.5.28"/>
+                                 </territory>
+                              </territorialAuthority>
+                           </author>
+                        </approval>
+                     </subjectOf>
+                     <subjectOf>
+                        <marketingAct>
+                           <code code="C53292" codeSystem="2.16.840.1.113883.3.26.1.1"/>
+                           <statusCode code="active"/>
+                           <effectiveTime>
+                              <low value="20151021"/>
+                           </effectiveTime>
+                        </marketingAct>
+                     </subjectOf>
+                     <consumedIn>
+                        <substanceAdministration>
+                           <routeCode code="C38276" codeSystem="2.16.840.1.113883.3.26.1.1" displayName="INTRAVENOUS"/>
+                        </substanceAdministration>
+                     </consumedIn>
+                  </manufacturedProduct>
+               </subject>
+            </section>
+         </component>
+         <component>
+            <section ID="S1">
+               <id root="f8567868-54ff-4844-8b99-8c836060a367"/>
+               <code code="34067-9" codeSystem="2.16.840.1.113883.6.1" displayName="INDICATIONS &amp; USAGE SECTION"/>
+               <title>1 INDICATIONS AND USAGE</title>
+               <text>
+                  <paragraph>PRAXBIND is indicated in patients treated with Pradaxa when reversal of the anticoagulant effects of dabigatran is needed:</paragraph>
+                  <list listType="unordered" styleCode="disc">
+                     <item>For emergency surgery/urgent procedures</item>
+                     <item>In life-threatening or uncontrolled bleeding</item>
+                  </list>
+               </text>
+               <effectiveTime value="20231130"/>
+               <excerpt>
+                  <highlight>
+                     <text>
+                        <paragraph>PRAXBIND is a humanized monoclonal antibody fragment (Fab) indicated in patients treated with Pradaxa<sup>®</sup> when reversal of the anticoagulant effects of dabigatran is needed:</paragraph>
+                        <list listType="unordered" styleCode="disc">
+                           <item>For emergency surgery/urgent procedures</item>
+                           <item>In life-threatening or uncontrolled bleeding (<linkHtml href="#S1">1</linkHtml>)</item>
+                        </list>
+                     </text>
+                  </highlight>
+               </excerpt>
+            </section>
+         </component>
+         <component>
+            <section ID="S2">
+               <id root="e2e2cc91-1706-40f9-951b-97c19ad6d92d"/>
+               <code code="34068-7" codeSystem="2.16.840.1.113883.6.1" displayName="DOSAGE &amp; ADMINISTRATION SECTION"/>
+               <title>2 DOSAGE AND ADMINISTRATION</title>
+               <effectiveTime value="20231130"/>
+               <excerpt>
+                  <highlight>
+                     <text>
+                        <paragraph>
+                           <content styleCode="bold">For intravenous use only.</content>
+                        </paragraph>
+                        <list listType="unordered" styleCode="disc">
+                           <item>The recommended dose of PRAXBIND is 5 g, provided as two separate vials each containing 2.5 g/50 mL idarucizumab. (<linkHtml href="#S2.1">2.1</linkHtml>)</item>
+                           <item>There is limited data to support administration of an additional 5 g of PRAXBIND. (<linkHtml href="#S2.1">2.1</linkHtml>)</item>
+                        </list>
+                     </text>
+                  </highlight>
+               </excerpt>
+               <component>
+                  <section ID="S2.1">
+                     <id root="40c6278f-da4c-4d14-8c0d-6674e5124c5c"/>
+                     <code code="42229-5" codeSystem="2.16.840.1.113883.6.1" displayName="SPL UNCLASSIFIED SECTION"/>
+                     <title>2.1  Recommended Dose</title>
+                     <text>
+                        <paragraph>The recommended dose of PRAXBIND is 5 g, provided as two separate vials each containing 2.5 g/50 mL idarucizumab (see <linkHtml href="#fig1">Figure 1</linkHtml>). Both vials are packaged together in one carton.</paragraph>
+                        <paragraph>
+                           <content styleCode="bold">For intravenous use only.</content>
+                        </paragraph>
+                        <paragraph>There is limited data to support administration of an additional 5 g of PRAXBIND <content styleCode="italics">[see <linkHtml href="#S5.2">Warnings and Precautions (5.2)</linkHtml>].</content>
+                        </paragraph>
+                     </text>
+                     <effectiveTime value="20231130"/>
+                  </section>
+               </component>
+               <component>
+                  <section ID="S2.2">
+                     <id root="a5a286ce-a5d0-4e6f-9f84-6c66bd2c5f88"/>
+                     <code code="42229-5" codeSystem="2.16.840.1.113883.6.1" displayName="SPL UNCLASSIFIED SECTION"/>
+                     <title>2.2  Preparation</title>
+                     <text>
+                        <list listType="unordered" styleCode="disc">
+                           <item>Remove both vials (each containing 2.5 g/50 mL idarucizumab) from carton.</item>
+                           <item>Ensure aseptic handling when preparing the infusion.</item>
+                           <item>Parenteral drug products should be inspected visually for particulate matter and discoloration prior to administration, whenever solution and container permit.</item>
+                           <item>Once solution has been removed from the vial, administration should begin promptly. The solution in vials may be stored at room temperature, 25°C (77°F), but must be used within 6 hours <content styleCode="italics">[see <linkHtml href="#S16.2">How Supplied/Storage and Handling (16.2)</linkHtml>]</content>.</item>
+                        </list>
+                     </text>
+                     <effectiveTime value="20231130"/>
+                  </section>
+               </component>
+               <component>
+                  <section ID="S2.3">
+                     <id root="4be9e502-a02a-437e-a3a2-4b244594ef75"/>
+                     <code code="42229-5" codeSystem="2.16.840.1.113883.6.1" displayName="SPL UNCLASSIFIED SECTION"/>
+                     <title>2.3  Administration</title>
+                     <text>
+                        <list listType="unordered" styleCode="disc">
+                           <item>Do not mix with other medicinal products. Use aseptic technique when administering PRAXBIND.</item>
+                           <item>Intravenously administer the dose of 5 g (2 vials, each contains 2.5 g) as <list listType="unordered" styleCode="circle">
+                                 <item>Two consecutive infusions (see <linkHtml href="#fig2">Figure 2</linkHtml>) or </item>
+                                 <item>Bolus injection by injecting both vials consecutively one after another via syringe (see <linkHtml href="#fig3">Figure 3</linkHtml>).</item>
+                              </list>
+                           </item>
+                           <item>A pre-existing intravenous line may be used for administration of PRAXBIND. The line must be flushed with sterile 0.9% Sodium Chloride Injection, USP solution prior to infusion. No other infusion should be administered in parallel via the same intravenous access.</item>
+                           <item>PRAXBIND treatment can be used in conjunction with standard supportive measures, which should be considered as medically appropriate <content styleCode="italics">[see <linkHtml href="#S12.2">Clinical Pharmacology (12.2)</linkHtml>].</content>
+                           </item>
+                        </list>
+                        <table width="100%" styleCode="Noautorules">
+                           <col width="33%" align="center" valign="bottom"/>
+                           <col width="33%" align="center" valign="bottom"/>
+                           <col width="34%" align="center" valign="bottom"/>
+                           <tbody>
+                              <tr>
+                                 <td>
+                                    <renderMultiMedia referencedObject="MM1" ID="fig1"/>
+                                 </td>
+                                 <td>
+                                    <renderMultiMedia referencedObject="MM2" ID="fig2"/>
+                                 </td>
+                                 <td>
+                                    <renderMultiMedia referencedObject="MM3" ID="fig3"/>
+                                 </td>
+                              </tr>
+                              <tr>
+                                 <td valign="top">
+                                    <content styleCode="bold">Figure 1	Recommended dose of PRAXBIND provided as two vials.</content>
+                                 </td>
+                                 <td valign="top">
+                                    <content styleCode="bold">Figure 2	Two consecutive infusions by hanging vials.</content>
+                                 </td>
+                                 <td valign="top">
+                                    <content styleCode="bold">Figure 3	Inject both vials consecutively via syringe.</content>
+                                 </td>
+                              </tr>
+                           </tbody>
+                        </table>
+                     </text>
+                     <effectiveTime value="20231130"/>
+                     <component>
+                        <observationMedia ID="MM1">
+                           <text>Figure 1</text>
+                           <value xsi:type="ED" mediaType="image/jpeg">
+                              <reference value="praxbind-01.jpg"/>
+                           </value>
+                        </observationMedia>
+                     </component>
+                     <component>
+                        <observationMedia ID="MM2">
+                           <text>Figure 2</text>
+                           <value xsi:type="ED" mediaType="image/jpeg">
+                              <reference value="praxbind-02.jpg"/>
+                           </value>
+                        </observationMedia>
+                     </component>
+                     <component>
+                        <observationMedia ID="MM3">
+                           <text>Figure 3</text>
+                           <value xsi:type="ED" mediaType="image/jpeg">
+                              <reference value="praxbind-03.jpg"/>
+                           </value>
+                        </observationMedia>
+                     </component>
+                  </section>
+               </component>
+               <component>
+                  <section ID="S2.4">
+                     <id root="39168ed4-731f-4279-981f-833b815215d4"/>
+                     <code code="42229-5" codeSystem="2.16.840.1.113883.6.1" displayName="SPL UNCLASSIFIED SECTION"/>
+                     <title>2.4  Restarting Antithrombotic Therapy</title>
+                     <text>
+                        <paragraph>Patients being treated with dabigatran therapy have underlying disease states that predispose them to thromboembolic events. Reversing dabigatran therapy exposes patients to the thrombotic risk of their underlying disease. To reduce this risk, resumption of anticoagulant therapy should be considered as soon as medically appropriate.</paragraph>
+                        <paragraph>Idarucizumab is a specific reversal agent for dabigatran, with no impact on the effect of other anticoagulant or antithrombotic therapies.</paragraph>
+                        <paragraph>Pradaxa treatment can be initiated 24 hours after administration of PRAXBIND <content styleCode="italics">[see <linkHtml href="#S12.2">Clinical Pharmacology (12.2)</linkHtml>].</content>
+                        </paragraph>
+                     </text>
+                     <effectiveTime value="20231130"/>
+                  </section>
+               </component>
+            </section>
+         </component>
+         <component>
+            <section ID="S3">
+               <id root="e9f4b6c9-dba2-4457-989e-78c464af1b58"/>
+               <code code="43678-2" codeSystem="2.16.840.1.113883.6.1" displayName="DOSAGE FORMS &amp; STRENGTHS SECTION"/>
+               <title>3 DOSAGE FORMS AND STRENGTHS</title>
+               <text>
+                  <paragraph>PRAXBIND is a sterile, preservative-free, colorless to slightly yellow, clear to slightly opalescent solution available as:</paragraph>
+                  <paragraph>Injection: 2.5 g/50 mL solution in a single-dose vial.</paragraph>
+               </text>
+               <effectiveTime value="20231130"/>
+               <excerpt>
+                  <highlight>
+                     <text>
+                        <paragraph>Injection: 2.5 g/50 mL solution in a single-dose vial (<linkHtml href="#S3">3</linkHtml>)</paragraph>
+                     </text>
+                  </highlight>
+               </excerpt>
+            </section>
+         </component>
+         <component>
+            <section ID="S4">
+               <id root="ee360805-4abb-4ab7-8692-41160fef9e7d"/>
+               <code code="34070-3" codeSystem="2.16.840.1.113883.6.1" displayName="CONTRAINDICATIONS SECTION"/>
+               <title>4 CONTRAINDICATIONS</title>
+               <text>
+                  <paragraph>None.</paragraph>
+               </text>
+               <effectiveTime value="20231130"/>
+               <excerpt>
+                  <highlight>
+                     <text>
+                        <paragraph>None (<linkHtml href="#S4">4</linkHtml>)</paragraph>
+                     </text>
+                  </highlight>
+               </excerpt>
+            </section>
+         </component>
+         <component>
+            <section ID="S5">
+               <id root="ded1be24-d786-4a52-a621-0d549b62c0d1"/>
+               <code code="43685-7" codeSystem="2.16.840.1.113883.6.1" displayName="WARNINGS AND PRECAUTIONS SECTION"/>
+               <title>5 WARNINGS AND PRECAUTIONS</title>
+               <effectiveTime value="20231130"/>
+               <excerpt>
+                  <highlight>
+                     <text>
+                        <list listType="unordered" styleCode="disc">
+                           <item>Thromboembolic Risk: Reversing dabigatran therapy exposes patients to the thrombotic risk of their underlying disease. Resume anticoagulant therapy as soon as medically appropriate. (<linkHtml href="#S2.4">2.4</linkHtml>, <linkHtml href="#S5.1">5.1</linkHtml>)</item>
+                           <item>Re-elevation of Coagulation Parameters: In patients with elevated coagulation parameters and reappearance of clinically relevant bleeding or requiring a second emergency surgery/urgent procedure, an additional 5 g dose of PRAXBIND may be considered. (<linkHtml href="#S5.2">5.2</linkHtml>)</item>
+                           <item>Hypersensitivity reactions: Discontinue administration and evaluate. (<linkHtml href="#S5.3">5.3</linkHtml>)</item>
+                           <item>Risks of Serious Adverse Reactions in Patients with Hereditary Fructose Intolerance due to Sorbitol Excipient: Patients with hereditary fructose intolerance may be at risk of adverse reactions. (<linkHtml href="#S5.4">5.4</linkHtml>)</item>
+                        </list>
+                     </text>
+                  </highlight>
+               </excerpt>
+               <component>
+                  <section ID="S5.1">
+                     <id root="56562a81-cea6-4fee-9cdc-dc765cf3de59"/>
+                     <code code="42229-5" codeSystem="2.16.840.1.113883.6.1" displayName="SPL UNCLASSIFIED SECTION"/>
+                     <title>5.1  Thromboembolic Risk</title>
+                     <text>
+                        <paragraph>Patients being treated with dabigatran therapy have underlying disease states that predispose them to thromboembolic events. Reversing dabigatran therapy exposes patients to the thrombotic risk of their underlying disease. To reduce this risk, resumption of anticoagulant therapy should be considered as soon as medically appropriate <content styleCode="italics">[see <linkHtml href="#S2.4">Dosage and Administration (2.4)</linkHtml>].</content>
+                        </paragraph>
+                     </text>
+                     <effectiveTime value="20231130"/>
+                  </section>
+               </component>
+               <component>
+                  <section ID="S5.2">
+                     <id root="2486c8a2-17a0-4ace-bf97-c4da6cb290a5"/>
+                     <code code="42229-5" codeSystem="2.16.840.1.113883.6.1" displayName="SPL UNCLASSIFIED SECTION"/>
+                     <title>5.2  Re-elevation of Coagulation Parameters</title>
+                     <text>
+                        <paragraph>In a limited number of patients in the clinical program, between 12 and 24 hours after administration of 5 g idarucizumab, elevated coagulation parameters (e.g., activated partial thromboplastin time (aPTT) or ecarin clotting time (ECT)) have been observed <content styleCode="italics">[see <linkHtml href="#S2.1">Dosage and Administration (2.1)</linkHtml>].</content>
+                        </paragraph>
+                        <paragraph>If reappearance of clinically relevant bleeding together with elevated coagulation parameters is observed after administration of 5 g PRAXBIND, administration of an additional 5 g dose of PRAXBIND may be considered. Similarly, patients who require a second emergency surgery/urgent procedure and have elevated coagulation parameters may receive an additional 5 g dose of PRAXBIND.</paragraph>
+                        <paragraph>The safety and effectiveness of repeat treatment with PRAXBIND have not been established <content styleCode="italics">[see <linkHtml href="#S12.2">Clinical Pharmacology (12.2)</linkHtml>]</content>.</paragraph>
+                     </text>
+                     <effectiveTime value="20231130"/>
+                  </section>
+               </component>
+               <component>
+                  <section ID="S5.3">
+                     <id root="701363ac-0117-42a2-b9ff-342fb07d0172"/>
+                     <code code="42229-5" codeSystem="2.16.840.1.113883.6.1" displayName="SPL UNCLASSIFIED SECTION"/>
+                     <title>5.3  Hypersensitivity Reactions</title>
+                     <text>
+                        <paragraph>There is insufficient clinical experience with PRAXBIND in patients to evaluate risk of hypersensitivity to idarucizumab. In clinical studies adverse events possibly indicative of hypersensitivity reactions where a possible relationship could not be excluded were reported <content styleCode="italics">[see <linkHtml href="#S6.1">Adverse Reactions (6.1)</linkHtml>]</content>. The risk of using PRAXBIND in patients with known hypersensitivity (e.g., anaphylactoid reaction) to idarucizumab or to any of the excipients needs to be weighed cautiously against the potential benefit of such an emergency treatment. If an anaphylactic reaction or other serious allergic reaction occurs, immediately discontinue administration of PRAXBIND and institute appropriate treatment.</paragraph>
+                     </text>
+                     <effectiveTime value="20231130"/>
+                  </section>
+               </component>
+               <component>
+                  <section ID="S5.4">
+                     <id root="8999f7ab-a56a-4453-a7d6-7dbf119068a2"/>
+                     <code code="42229-5" codeSystem="2.16.840.1.113883.6.1" displayName="SPL UNCLASSIFIED SECTION"/>
+                     <title>5.4  Risks of Serious Adverse Reactions in Patients with Hereditary Fructose Intolerance due to Sorbitol Excipient</title>
+                     <text>
+                        <paragraph>In patients with the condition of hereditary fructose intolerance who have received parenteral administration of sorbitol, serious adverse reactions, including fatal reactions, have been reported. Reactions have included hypoglycemia, hypophosphatemia, metabolic acidosis, increase in uric acid, acute liver failure with breakdown of excretory and synthetic function.</paragraph>
+                        <paragraph>The recommended dose of PRAXBIND contains 4 g sorbitol as an excipient. When prescribing PRAXBIND to patients with hereditary fructose intolerance, consider the combined daily metabolic load of sorbitol/fructose from all sources, including PRAXBIND and other drugs containing sorbitol. The minimum amount of sorbitol at which serious adverse reactions may occur in these patients is not known.</paragraph>
+                     </text>
+                     <effectiveTime value="20231130"/>
+                  </section>
+               </component>
+            </section>
+         </component>
+         <component>
+            <section ID="S6">
+               <id root="29cec161-45dd-4414-9f9a-a24722eb0446"/>
+               <code code="34084-4" codeSystem="2.16.840.1.113883.6.1" displayName="ADVERSE REACTIONS SECTION"/>
+               <title>6 ADVERSE REACTIONS</title>
+               <text>
+                  <paragraph>The following serious adverse reactions are described in more detail elsewhere in the labeling:</paragraph>
+                  <list listType="unordered" styleCode="disc">
+                     <item>Thromboembolic Risk <content styleCode="italics">[see <linkHtml href="#S5.1">Warnings and Precautions (5.1)</linkHtml>]</content>
+                     </item>
+                     <item>Hypersensitivity Reactions <content styleCode="italics">[see <linkHtml href="#S5.3">Warnings and Precautions (5.3)</linkHtml>]</content>
+                     </item>
+                     <item>Risks of Serious Adverse Reactions in Patients with Hereditary Fructose Intolerance due to Sorbitol Excipient <content styleCode="italics">[see <linkHtml href="#S5.4">Warnings and Precautions (5.4)</linkHtml>]</content>
+                     </item>
+                  </list>
+               </text>
+               <effectiveTime value="20231130"/>
+               <excerpt>
+                  <highlight>
+                     <text>
+                        <list listType="unordered" styleCode="disc">
+                           <item>In healthy volunteers, the most frequently reported adverse reactions in ≥5% of subjects treated with idarucizumab was headache. (<linkHtml href="#S6.1">6.1</linkHtml>)</item>
+                           <item>In patients, the most frequently reported adverse reactions in ≥5% of patients treated with idarucizumab were constipation and nausea. (<linkHtml href="#S6.1">6.1</linkHtml>)</item>
+                        </list>
+                        <br/>
+                        <paragraph>
+                           <content styleCode="bold">To report SUSPECTED ADVERSE REACTIONS, contact Boehringer Ingelheim Pharmaceuticals, Inc. at 1-800-542-6257 or FDA at 1-800-FDA-1088 or</content>
+                           <content styleCode="italics"> www.fda.gov/medwatch</content>
+                           <content styleCode="bold">.</content>
+                        </paragraph>
+                     </text>
+                  </highlight>
+               </excerpt>
+               <component>
+                  <section ID="S6.1">
+                     <id root="ec87a3f4-7c08-4cf0-91a3-0f4e67a8585c"/>
+                     <code code="90374-0" codeSystem="2.16.840.1.113883.6.1" displayName="CLINICAL TRIALS EXPERIENCE SECTION"/>
+                     <title>6.1	Clinical Trials Experience</title>
+                     <text>
+                        <paragraph>Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in clinical practice.</paragraph>
+                        <paragraph>In three healthy volunteer clinical trials, 224 subjects were treated with idarucizumab. In these trials, during the treatment period, the overall frequency of adverse events was similar between idarucizumab-treated subjects (55/224, 25%) and placebo-treated subjects (26/105, 25%). Among those subjects treated with idarucizumab, adverse reactions reported in ≥5% of subjects was headache (12/224, 5%).</paragraph>
+                        <paragraph>In the RE-VERSE-AD<sup>®</sup> (RE-VERSal Effects of idarucizumab on Active Dabigatran) trial, a total of 503 dabigatran-treated patients were administered idarucizumab either because they required an emergency surgery or urgent procedure, or because they presented with life-threatening or uncontrolled bleeding <content styleCode="italics">[see <linkHtml href="#S14">Clinical Studies (14)</linkHtml>].</content> The adverse reactions reported in ≥5% of patients were constipation (33/503, 7%) and nausea (23/503, 5%). Of the 503 dabigatran-treated patients in the entire study period, 101 patients died, 19 within the first day after idarucizumab dosing; each of these deaths could be attributed either as a complication of the index event or associated with co-morbidities.</paragraph>
+                     </text>
+                     <effectiveTime value="20231130"/>
+                     <component>
+                        <section>
+                           <id root="982e6865-e959-4097-a0a0-4cb5de1698bd"/>
+                           <code code="42229-5" codeSystem="2.16.840.1.113883.6.1" displayName="SPL UNCLASSIFIED SECTION"/>
+                           <text>
+                              <paragraph>
+                                 <content styleCode="italics">Thromboembolic Events</content>
+                              </paragraph>
+                              <paragraph>In the RE-VERSE-AD trial, 33 of 503 patients reported thrombotic events, 11 patients within 5 days after treatment with idarucizumab and 22 patients 6 days or more after treatment with idarucizumab. Most of these patients were not on antithrombotic therapy at the time of the event, and in each of these cases, the thrombotic event could be attributed to the underlying medical condition of the patient <content styleCode="italics">[see <linkHtml href="#S5.1">Warnings and Precautions (5.1)</linkHtml>].</content>
+                              </paragraph>
+                           </text>
+                           <effectiveTime value="20231130"/>
+                        </section>
+                     </component>
+                     <component>
+                        <section>
+                           <id root="0f72291a-c2e3-4dcd-9e76-73b9617b4c45"/>
+                           <code code="42229-5" codeSystem="2.16.840.1.113883.6.1" displayName="SPL UNCLASSIFIED SECTION"/>
+                           <text>
+                              <paragraph>
+                                 <content styleCode="italics">Hypersensitivity</content>
+                              </paragraph>
+                              <paragraph>Pyrexia, bronchospasm, hyperventilation, rash, and pruritus have been reported in clinical trials with idarucizumab <content styleCode="italics">[see <linkHtml href="#S5.3">Warnings and Precautions (5.3)</linkHtml>].</content>
+                              </paragraph>
+                           </text>
+                           <effectiveTime value="20231130"/>
+                        </section>
+                     </component>
+                  </section>
+               </component>
+               <component>
+                  <section ID="S6.2">
+                     <id root="deb70ef1-ed70-4a08-baf0-1b028bf6ff27"/>
+                     <code code="88830-5" codeSystem="2.16.840.1.113883.6.1" displayName="IMMUNOGENICITY"/>
+                     <title>6.2 Immunogenicity</title>
+                     <text>
+                        <paragraph>As with all proteins there is a potential for immunogenicity with idarucizumab. Detection of antibody formation is highly dependent on the sensitivity and specificity of the assay. Additionally, the observed incidence of antibody (including neutralizing antibody) positivity in an assay may be influenced by several factors including assay methodology, sample handling, timing of sample collection, concomitant medications and underlying disease. For these reasons, comparison of the incidence of antibodies to idarucizumab in the studies described below with the incidence of antibodies in other studies or to other products may be misleading. </paragraph>
+                        <paragraph>Using an electro-chemiluminescence (ECL) based assay, plasma samples from 283 subjects (224 treated with idarucizumab) in phase I trials and 501 patients were tested for antibodies cross-reacting with idarucizumab. Pre-existing antibodies with cross-reactivity to idarucizumab were detected in approximately 12% (33/283) of the subjects and 4% (19/501) of patients. The majority of pre-existing antibodies were shown to have low titers. No impact on the pharmacokinetics or the reversal effect of idarucizumab or hypersensitivity reactions were observed. Treatment-emergent possibly persisting anti-idarucizumab antibodies with low titers were observed in 4% (10/224) of the subjects and 2% (8/501) of patients treated with idarucizumab.  Nine patients were re-dosed with idarucizumab. All nine patients were re-dosed within 6 days after the first idarucizumab dose. None of these patients re-dosed with idarucizumab tested positive for anti-idarucizumab antibodies.</paragraph>
+                        <paragraph>The epitope specificity of antibodies to idarucizumab was characterized using probe molecules. For pre-existing antibodies in patients, 95% (18/19) had specificity for the C-terminus, a region of idarucizumab to which dabigatran does not bind. For treatment emergent antibodies in patients, 67% (6/9) had specificity for the C-terminus, 22% (2/9) had specificity for the variable region, and 11% (1/9) had mixed specificity.</paragraph>
+                     </text>
+                     <effectiveTime value="20231130"/>
+                  </section>
+               </component>
+            </section>
+         </component>
+         <component>
+            <section ID="S8">
+               <id root="e5e85dcb-fb6a-4e53-b51b-5d0e3f58ea4a"/>
+               <code code="43684-0" codeSystem="2.16.840.1.113883.6.1" displayName="USE IN SPECIFIC POPULATIONS SECTION"/>
+               <title>8 USE IN SPECIFIC POPULATIONS</title>
+               <effectiveTime value="20231130"/>
+               <component>
+                  <section ID="S8.1">
+                     <id root="96f969f3-8563-4d86-aa6b-3ac5e0a3998c"/>
+                     <code code="42228-7" codeSystem="2.16.840.1.113883.6.1" displayName="PREGNANCY SECTION"/>
+                     <title>8.1 Pregnancy</title>
+                     <effectiveTime value="20231130"/>
+                     <component>
+                        <section>
+                           <id root="6fb7c806-c285-4f0e-9bcf-9401dbabeee2"/>
+                           <code code="42229-5" codeSystem="2.16.840.1.113883.6.1" displayName="SPL UNCLASSIFIED SECTION"/>
+                           <text>
+                              <paragraph>
+                                 <content styleCode="italics">Risk Summary</content>
+                              </paragraph>
+                              <paragraph>There are no available data on PRAXBIND use in pregnant women to inform a drug-associated risk of major birth defects and miscarriage. Animal reproductive and development studies have not been conducted with idarucizumab. It is also not known whether PRAXBIND can cause fetal harm when administered to a pregnant woman or can affect reproduction capacity. PRAXBIND should be given to a pregnant woman only if clearly needed. </paragraph>
+                              <paragraph>The background risk of major birth defects and miscarriage for the indicated population is unknown. Adverse outcomes in pregnancy occur regardless of the health of the mother or the use of medications. In the U.S. general population, the estimated background risk of major birth defects and miscarriage in clinically recognized pregnancies is 2-4% and 15-20%, respectively.</paragraph>
+                           </text>
+                           <effectiveTime value="20231130"/>
+                        </section>
+                     </component>
+                  </section>
+               </component>
+               <component>
+                  <section ID="S8.2">
+                     <id root="a0943174-d7e6-4c0b-9fb9-bae09b3952c6"/>
+                     <code code="77290-5" codeSystem="2.16.840.1.113883.6.1" displayName="LACTATION SECTION"/>
+                     <title>8.2 Lactation</title>
+                     <effectiveTime value="20231130"/>
+                     <component>
+                        <section>
+                           <id root="3577b8d7-d772-40fe-a95c-d2fc2f186830"/>
+                           <code code="42229-5" codeSystem="2.16.840.1.113883.6.1" displayName="SPL UNCLASSIFIED SECTION"/>
+                           <text>
+                              <paragraph>
+                                 <content styleCode="italics">Risk Summary</content>
+                              </paragraph>
+                              <paragraph>There are no data on the effects of PRAXBIND on the breastfed child or on milk production.</paragraph>
+                              <paragraph>It is not known whether idarucizumab is excreted in human milk. Because many drugs are excreted in human milk, caution should be exercised when PRAXBIND is administered to a nursing woman.</paragraph>
+                              <paragraph>The developmental and health benefits of breastfeeding should be considered along with the mother's clinical need for PRAXBIND and any potential adverse effects on the breastfed child from PRAXBIND or from the underlying maternal condition.</paragraph>
+                           </text>
+                           <effectiveTime value="20231130"/>
+                        </section>
+                     </component>
+                  </section>
+               </component>
+               <component>
+                  <section ID="S8.4">
+                     <id root="c4ecc8b2-3662-4dea-a070-384aa32c886b"/>
+                     <code code="34081-0" codeSystem="2.16.840.1.113883.6.1" displayName="PEDIATRIC USE SECTION"/>
+                     <title>8.4 Pediatric Use</title>
+                     <text>
+                        <paragraph>Safety and effectiveness have not been established in pediatric patients.</paragraph>
+                     </text>
+                     <effectiveTime value="20231130"/>
+                  </section>
+               </component>
+               <component>
+                  <section ID="S8.5">
+                     <id root="718b4d7c-4888-4d1a-afbb-661af68cb8ae"/>
+                     <code code="34082-8" codeSystem="2.16.840.1.113883.6.1" displayName="GERIATRIC USE SECTION"/>
+                     <title>8.5 Geriatric Use</title>
+                     <text>
+                        <paragraph>A total of 454 (90%) patients treated with idarucizumab in the case series trial were 65 years of age and older, and 318 (63%) were 75 years of age and older. No overall differences in safety or effectiveness were observed between these subjects and younger subjects, and other reported clinical experience has not identified differences in responses between the elderly and younger patients, but greater sensitivity of some older individuals cannot be ruled out.</paragraph>
+                     </text>
+                     <effectiveTime value="20231130"/>
+                  </section>
+               </component>
+            </section>
+         </component>
+         <component>
+            <section ID="S11">
+               <id root="1a78fd74-1b82-42e4-90a6-eea29e90efcf"/>
+               <code code="34089-3" codeSystem="2.16.840.1.113883.6.1" displayName="DESCRIPTION SECTION"/>
+               <title>11 DESCRIPTION</title>
+               <text>
+                  <paragraph>Idarucizumab is a humanized monoclonal antibody fragment (Fab) derived from an IgG1 isotype molecule, whose target is the direct thrombin inhibitor dabigatran. Using recombinant expression technology, idarucizumab is produced in a well characterized recombinant (mammalian) CHO cell line and is purified using standard technology. Idarucizumab is composed of a light chain of 219 amino acids and a heavy chain fragment of 225 amino acids, covalently linked together by one disulfide bond between cysteine 225 of the heavy chain fragment and cysteine 219 of the light chain, and has an estimated molecular mass of approximately 47,766 Daltons.</paragraph>
+                  <paragraph>PRAXBIND (idarucizumab) is a sterile, preservative-free, colorless to slightly yellow, clear to slightly opalescent solution for intravenous administration. PRAXBIND (idarucizumab) is supplied in 2 single-dose vials, each containing 2.5 g of idarucizumab in 50 mL formulated as a buffered, isotonic, solution containing acetic acid glacial (10.05 mg), polysorbate 20 (10 mg), sodium acetate (88.82 mg), sorbitol (2004.20 mg), and water for injection with an osmolality of 270-330 mOsm/kg and a pH of 5.3-5.7.</paragraph>
+               </text>
+               <effectiveTime value="20231130"/>
+            </section>
+         </component>
+         <component>
+            <section ID="S12">
+               <id root="76a658e0-8bcb-4b17-aef2-f8a639a9284d"/>
+               <code code="34090-1" codeSystem="2.16.840.1.113883.6.1" displayName="CLINICAL PHARMACOLOGY SECTION"/>
+               <title>12 CLINICAL PHARMACOLOGY</title>
+               <effectiveTime value="20231130"/>
+               <component>
+                  <section ID="S12.1">
+                     <id root="ba9f69af-bc91-4aaf-89f7-a026aff7eb00"/>
+                     <code code="43679-0" codeSystem="2.16.840.1.113883.6.1" displayName="MECHANISM OF ACTION SECTION"/>
+                     <title>12.1 Mechanism of Action</title>
+                     <text>
+                        <paragraph>Idarucizumab is a specific reversal agent for dabigatran. It is a humanized monoclonal antibody fragment (Fab) that binds to dabigatran and its acylglucuronide metabolites with higher affinity than the binding affinity of dabigatran to thrombin, neutralizing their anticoagulant effect.</paragraph>
+                     </text>
+                     <effectiveTime value="20231130"/>
+                  </section>
+               </component>
+               <component>
+                  <section ID="S12.2">
+                     <id root="8a4e862e-792f-48e2-8a74-c934f3feb043"/>
+                     <code code="43681-6" codeSystem="2.16.840.1.113883.6.1" displayName="PHARMACODYNAMICS SECTION"/>
+                     <title>12.2 Pharmacodynamics</title>
+                     <text>
+                        <paragraph>In healthy subjects aged 45 to 64 years, the plasma concentrations of unbound dabigatran were reduced to below the lower limit of quantification immediately after the administration of 5 g idarucizumab. Subjects' diluted thrombin time (dTT), ECT, aPTT, thrombin time (TT), and activated clotting time (ACT) parameters returned to baseline levels (see <linkHtml href="#fig4">Figure 4</linkHtml> and <linkHtml href="#fig5">Figure 5</linkHtml>). This reduction of dabigatran plasma concentration was observed over the entire observation period of at least 24 hours. Similar findings were also observed in elderly subjects (aged 65 to 80 years) as well as subjects with mild and moderate renal impairment <content styleCode="italics">[see <linkHtml href="#S12.3">Clinical Pharmacology (12.3)</linkHtml>]</content>.</paragraph>
+                        <paragraph>In a limited number of patients, re-distribution of dabigatran from the periphery to plasma led to re-elevation of dTT, ECT, aPTT, and TT <content styleCode="italics">[see <linkHtml href="#S5.2">Warnings and Precautions (5.2)</linkHtml>].</content>
+                        </paragraph>
+                        <paragraph>Re-dosing with 2.5 g idarucizumab in 6 healthy subjects aged 45-64 years at 2 months after first infusion revealed no differences in safety and no indication of allergic reactions <content styleCode="italics">[see <linkHtml href="#S12.3">Clinical Pharmacology (12.3)</linkHtml>]</content>.</paragraph>
+                        <paragraph>No changes in the pharmacokinetics or pharmacodynamics of dabigatran were noted upon re-initiation 24 hours after the administration of idarucizumab <content styleCode="italics">[see <linkHtml href="#S2.4">Dosage and Administration (2.4)</linkHtml>]</content>.</paragraph>
+                        <paragraph ID="fig4">
+                           <content styleCode="bold">Figure 4 Plasma-Levels of Unbound Dabigatran in the Representative Group of Healthy Subjects (Administration of Idarucizumab or Placebo at 0 h)</content>
+                        </paragraph>
+                        <paragraph>
+                           <renderMultiMedia referencedObject="MM4"/>
+                        </paragraph>
+                        <paragraph ID="fig5">
+                           <content styleCode="bold">Figure 5 Change of ECT from Baseline in the Representative Group of Healthy Subjects (Administration of Idarucizumab or Placebo at 0 h)</content>
+                        </paragraph>
+                        <paragraph>
+                           <renderMultiMedia referencedObject="MM5"/>
+                        </paragraph>
+                     </text>
+                     <effectiveTime value="20231130"/>
+                     <component>
+                        <section>
+                           <id root="851ab794-08d8-423d-a8d3-60b3bad20a73"/>
+                           <code code="42229-5" codeSystem="2.16.840.1.113883.6.1" displayName="SPL UNCLASSIFIED SECTION"/>
+                           <text>
+                              <paragraph>
+                                 <content styleCode="italics">Thrombin Generation Parameters</content>
+                              </paragraph>
+                              <paragraph>Idarucizumab alone has shown no procoagulant effect measured as endogenous thrombin potential (ETP).</paragraph>
+                           </text>
+                           <effectiveTime value="20231130"/>
+                        </section>
+                     </component>
+                     <component>
+                        <section>
+                           <id root="06708928-17fb-4f5c-b212-e63925588a13"/>
+                           <code code="42229-5" codeSystem="2.16.840.1.113883.6.1" displayName="SPL UNCLASSIFIED SECTION"/>
+                           <text>
+                              <paragraph>
+                                 <content styleCode="italics">Cardiac Electrophysiology</content>
+                              </paragraph>
+                              <paragraph>Clinical trials with idarucizumab in healthy subjects measured heart rate and electrocardiogram (ECG) parameters (waveform morphology, P wave duration, and PR, QRS, QT, and QTc intervals). There were no clinically relevant abnormal findings related to ECG.</paragraph>
+                           </text>
+                           <effectiveTime value="20231130"/>
+                        </section>
+                     </component>
+                     <component>
+                        <section>
+                           <id root="5d32f950-72e8-4185-9e5a-45aed6656595"/>
+                           <code code="42229-5" codeSystem="2.16.840.1.113883.6.1" displayName="SPL UNCLASSIFIED SECTION"/>
+                           <text>
+                              <paragraph>
+                                 <content styleCode="italics">Drug Interactions</content>
+                              </paragraph>
+                           </text>
+                           <effectiveTime value="20231130"/>
+                           <component>
+                              <section>
+                                 <id root="5d570eb1-843e-4fbd-872c-a419cc0781cb"/>
+                                 <code code="42229-5" codeSystem="2.16.840.1.113883.6.1" displayName="SPL UNCLASSIFIED SECTION"/>
+                                 <text>
+                                    <paragraph>
+                                       <content styleCode="underline">
+                                          <content styleCode="italics">In vitro</content> Assessment of Drug Interactions</content>
+                                    </paragraph>
+                                    <paragraph>
+                                       <content styleCode="italics">In vitro</content> data suggest that the inhibition of dabigatran by idarucizumab is not affected by coagulation factor concentrates [3- or 4-factor prothrombin complex concentrates (PCCs), activated PCC, or recombinant Factor VIIa].</paragraph>
+                                 </text>
+                                 <effectiveTime value="20231130"/>
+                              </section>
+                           </component>
+                           <component>
+                              <section>
+                                 <id root="4b3639e9-cabf-476c-a84c-8eb5f0b12f2b"/>
+                                 <code code="42229-5" codeSystem="2.16.840.1.113883.6.1" displayName="SPL UNCLASSIFIED SECTION"/>
+                                 <text>
+                                    <paragraph>
+                                       <content styleCode="underline">Assessment of Drug Interactions in Animal Studies</content>
+                                    </paragraph>
+                                    <paragraph>The potential effect of the binding of idarucizumab to dabigatran in the presence of volume replacement agents (e.g., crystalloids, colloids, and retransfusion of washed red blood cells) was investigated in swine. The results of this study suggest that neutralization of dabigatran anticoagulant activity is not influenced by 50% hemodilution with routinely used volume replacement strategies.</paragraph>
+                                 </text>
+                                 <effectiveTime value="20231130"/>
+                              </section>
+                           </component>
+                        </section>
+                     </component>
+                     <component>
+                        <observationMedia ID="MM4">
+                           <text>Figure 4</text>
+                           <value xsi:type="ED" mediaType="image/jpeg">
+                              <reference value="praxbind-04.jpg"/>
+                           </value>
+                        </observationMedia>
+                     </component>
+                     <component>
+                        <observationMedia ID="MM5">
+                           <text>Figure 5</text>
+                           <value xsi:type="ED" mediaType="image/jpeg">
+                              <reference value="praxbind-05.jpg"/>
+                           </value>
+                        </observationMedia>
+                     </component>
+                  </section>
+               </component>
+               <component>
+                  <section ID="S12.3">
+                     <id root="91b9105a-ef2c-4af8-909c-409ed5bd8da2"/>
+                     <code code="43682-4" codeSystem="2.16.840.1.113883.6.1" displayName="PHARMACOKINETICS SECTION"/>
+                     <title>12.3 Pharmacokinetics</title>
+                     <text>
+                        <paragraph>There were no obvious differences in the idarucizumab plasma concentration time profiles when idarucizumab was administered alone or after pretreatment with dabigatran. A dose-dependent increase in the fraction of unchanged idarucizumab excreted in urine was observed.</paragraph>
+                     </text>
+                     <effectiveTime value="20231130"/>
+                     <component>
+                        <section>
+                           <id root="20c335e1-e708-431b-9bca-72cef7667b43"/>
+                           <code code="42229-5" codeSystem="2.16.840.1.113883.6.1" displayName="SPL UNCLASSIFIED SECTION"/>
+                           <text>
+                              <paragraph>
+                                 <content styleCode="italics">Distribution</content>
+                              </paragraph>
+                              <paragraph>Idarucizumab exhibited multiphasic disposition kinetics and limited extravascular distribution. Following the intravenous infusion of a 5 g dose, the geometric mean volume of distribution at steady state (V<sub>ss</sub>) was 8.9 L (geometric coefficient of variation (gCV 24.8%)).</paragraph>
+                           </text>
+                           <effectiveTime value="20231130"/>
+                        </section>
+                     </component>
+                     <component>
+                        <section>
+                           <id root="7e442b8b-5e78-44ff-8981-9a12bcb32817"/>
+                           <code code="42229-5" codeSystem="2.16.840.1.113883.6.1" displayName="SPL UNCLASSIFIED SECTION"/>
+                           <text>
+                              <paragraph>
+                                 <content styleCode="italics">Elimination</content>
+                              </paragraph>
+                              <paragraph>Idarucizumab was rapidly eliminated with a total clearance of 47.0 mL/min (gCV 18.4%), an initial half-life of 47 minutes (gCV 11.4%), and a terminal half-life of 10.3 h (gCV 18.9%). After intravenous administration of 5 g idarucizumab, 32.1% (gCV 60.0%) of the dose was recovered in urine within a collection period of 6 hours and less than 1% in the following 18 hours. The remaining part of the dose is assumed to be eliminated via protein catabolism, mainly in the kidney.</paragraph>
+                           </text>
+                           <effectiveTime value="20231130"/>
+                        </section>
+                     </component>
+                     <component>
+                        <section>
+                           <id root="ceb61d7f-d087-41a9-b161-aaf07627e7fe"/>
+                           <code code="42229-5" codeSystem="2.16.840.1.113883.6.1" displayName="SPL UNCLASSIFIED SECTION"/>
+                           <text>
+                              <paragraph>
+                                 <content styleCode="italics">Metabolism</content>
+                              </paragraph>
+                              <paragraph>Several pathways have been described that may contribute to the metabolism of antibodies. All of these pathways involve biodegradation of the antibody to smaller molecules, i.e., small peptides or amino acids which are then reabsorbed and incorporated in the general protein synthesis.</paragraph>
+                           </text>
+                           <effectiveTime value="20231130"/>
+                        </section>
+                     </component>
+                     <component>
+                        <section>
+                           <id root="a781945f-ea56-48de-a97a-29a2c483cdc2"/>
+                           <code code="42229-5" codeSystem="2.16.840.1.113883.6.1" displayName="SPL UNCLASSIFIED SECTION"/>
+                           <text>
+                              <paragraph>
+                                 <content styleCode="italics">Specific Populations</content>
+                              </paragraph>
+                           </text>
+                           <effectiveTime value="20231130"/>
+                           <component>
+                              <section>
+                                 <id root="b970a54a-4894-4f6d-af27-d7747bc2111d"/>
+                                 <code code="42229-5" codeSystem="2.16.840.1.113883.6.1" displayName="SPL UNCLASSIFIED SECTION"/>
+                                 <text>
+                                    <paragraph>
+                                       <content styleCode="underline">Age, Sex, Race and Body Weight</content>
+                                    </paragraph>
+                                    <paragraph>Age, sex, race (Caucasian vs Asian) and body weight had no clinically important effect on systemic exposure of idarucizumab based on population pharmacokinetic analyses which included data from 220 volunteers and 486 patients.</paragraph>
+                                 </text>
+                                 <effectiveTime value="20231130"/>
+                              </section>
+                           </component>
+                           <component>
+                              <section>
+                                 <id root="b2a5d593-d2e6-428d-9c0f-96bfca54aa00"/>
+                                 <code code="42229-5" codeSystem="2.16.840.1.113883.6.1" displayName="SPL UNCLASSIFIED SECTION"/>
+                                 <text>
+                                    <paragraph>
+                                       <content styleCode="underline">Patients with Renal Impairment</content>
+                                    </paragraph>
+                                    <paragraph>Idarucizumab has been studied in 12 subjects with mild renal impairment (creatinine clearance [CrCl] 60 to &lt;90 mL/min, by Cockcroft-Gault equation) and 6 subjects with moderate impairment (CrCl30 to &lt;60 mL/min). Compared to healthy subjects, the total clearance was reduced, leading to an increase in idarucizumab's area under the curve (AUC) by 43.5% and 83.5% in mild and moderate renal impairment, respectively. No dose adjustment is required in renally impaired patients.</paragraph>
+                                    <paragraph>Based on pharmacokinetic data from 347 patients with varying degrees of renal function (median CrCl 21 to 99 mL/min) it is estimated that mean idarucizumab exposure (AUC<sub>0–24h</sub>) increased by 38%, 90%, and 146% in patients with mild renal impairment (CrCl 50 to &lt;80 mL/min), moderate renal impairment (CrCl 30 to &lt;50 mL/min) and severe renal impairment (CrCl 0 to &lt;30 mL/min), respectively. Since dabigatran is also excreted primarily via the kidneys, increases in the exposure to dabigatran are also seen with worsening renal function.</paragraph>
+                                 </text>
+                                 <effectiveTime value="20231130"/>
+                              </section>
+                           </component>
+                        </section>
+                     </component>
+                  </section>
+               </component>
+            </section>
+         </component>
+         <component>
+            <section ID="S13">
+               <id root="b1560501-c60d-411d-b66a-322c64af6384"/>
+               <code code="43680-8" codeSystem="2.16.840.1.113883.6.1" displayName="NONCLINICAL TOXICOLOGY SECTION"/>
+               <title>13 NONCLINICAL TOXICOLOGY</title>
+               <effectiveTime value="20231130"/>
+               <component>
+                  <section ID="S13.1">
+                     <id root="fe602bc1-c2a1-4292-9502-a1d85e509cd6"/>
+                     <code code="34083-6" codeSystem="2.16.840.1.113883.6.1" displayName="CARCINOGENESIS &amp; MUTAGENESIS &amp; IMPAIRMENT OF FERTILITY SECTION"/>
+                     <title>13.1 Carcinogenesis, Mutagenesis, Impairment of Fertility</title>
+                     <text>
+                        <paragraph>No carcinogenicity or genotoxicity studies have been conducted with idarucizumab. No animal studies have been performed to evaluate the potential effects of idarucizumab on fertility in males or females or on reproduction and development.</paragraph>
+                     </text>
+                     <effectiveTime value="20231130"/>
+                  </section>
+               </component>
+            </section>
+         </component>
+         <component>
+            <section ID="S14">
+               <id root="b08588e5-fe53-421d-ad14-522e51a746f9"/>
+               <code code="34092-7" codeSystem="2.16.840.1.113883.6.1" displayName="CLINICAL STUDIES SECTION"/>
+               <title>14 CLINICAL STUDIES</title>
+               <text>
+                  <paragraph>The safety and effectiveness of PRAXBIND was investigated in three randomized placebo-controlled healthy volunteer trials, Trials 1321.1, 1321.2 and 1321.5 (NCT01688830, NCT01955720, NCT02028780), and in RE-VERSE-AD (RE-VERSal Effects of idarucizumab on Active Dabigatran) trial (NCT02104947), a single cohort case series trial with dabigatran-treated patients who have life-threatening or uncontrolled bleeding, or who require emergency surgery or urgent procedure.</paragraph>
+               </text>
+               <effectiveTime value="20231130"/>
+               <component>
+                  <section>
+                     <id root="7471446b-bbb0-42bf-8ed8-95822b9a0e05"/>
+                     <code code="42229-5" codeSystem="2.16.840.1.113883.6.1" displayName="SPL UNCLASSIFIED SECTION"/>
+                     <text>
+                        <paragraph>
+                           <content styleCode="italics">Healthy Volunteers</content>
+                        </paragraph>
+                        <paragraph>Trials 1321.1, 1321.2 and 1321.5 in a total of 283 subjects assessed the safety, dose-response, and effect of idarucizumab on reducing unbound dabigatran and coagulation parameters. Of the 283 subjects, 224 received at least one dose of idarucizumab. These trials included 19 females and 30 subjects aged 65 years or older (overall mean age 36 years).</paragraph>
+                        <paragraph>The tables below summarize the idarucizumab effect on coagulation parameters dTT, aPTT, ECT, TT, and ACT over time for 14 subjects treated in Trial 1321.2. Fourteen subjects received dabigatran 220 mg orally twice daily for three days and an additional single 220 mg dose of dabigatran on day four, two hours before receiving idarucizumab. Idarucizumab was administered as one 5 g intravenous infusion over five minutes. Table 1 shows the results of the idarucizumab treatment group and Table 2 shows the results of the placebo treatment group.</paragraph>
+                        <table width="75%">
+                           <caption>Table 1	Change in Coagulation Parameters in 14 Dabigatran-exposed Subjects Treated with 5 g Idarucizumab</caption>
+                           <col width="25%" align="left" valign="top"/>
+                           <col width="25%" align="center" valign="top"/>
+                           <col width="25%" align="center" valign="top"/>
+                           <col width="25%" align="center" valign="top"/>
+                           <thead>
+                              <tr>
+                                 <th styleCode="Lrule Rrule">Clotting Assay <br/>(Mean and Standard Deviation)</th>
+                                 <th styleCode="Rrule">Pre-Idarucizumab<br/>(N=14)</th>
+                                 <th styleCode="Rrule">End of infusion of Idarucizumab<br/>(N=14)</th>
+                                 <th styleCode="Rrule">24 hours after Idarucizumab<br/>(N=14)</th>
+                              </tr>
+                           </thead>
+                           <tbody>
+                              <tr styleCode="Botrule">
+                                 <td styleCode="Lrule Rrule">dTT [s]</td>
+                                 <td styleCode="Rrule">66.6 (12.0)</td>
+                                 <td styleCode="Rrule">32.1 (1.38)</td>
+                                 <td styleCode="Rrule">33.0 (1.69)</td>
+                              </tr>
+                              <tr styleCode="Botrule">
+                                 <td styleCode="Lrule Rrule">aPTT [s]</td>
+                                 <td styleCode="Rrule">67.8 (14.5)</td>
+                                 <td styleCode="Rrule">29.2 (4.74)</td>
+                                 <td styleCode="Rrule">31.9 (5.71)</td>
+                              </tr>
+                              <tr styleCode="Botrule">
+                                 <td styleCode="Lrule Rrule">ECT [s]</td>
+                                 <td styleCode="Rrule">122 (42.2)</td>
+                                 <td styleCode="Rrule">34.7 (1.92)</td>
+                                 <td styleCode="Rrule">38.8 (2.86)</td>
+                              </tr>
+                              <tr styleCode="Botrule">
+                                 <td styleCode="Lrule Rrule">TT [s]</td>
+                                 <td styleCode="Rrule">127 (62.6)</td>
+                                 <td styleCode="Rrule">12.5 (0.786)</td>
+                                 <td styleCode="Rrule">19.3 (5.14)</td>
+                              </tr>
+                              <tr>
+                                 <td styleCode="Lrule Rrule">ACT [s]</td>
+                                 <td styleCode="Rrule">236 (47.6)</td>
+                                 <td styleCode="Rrule">116 (7.71)</td>
+                                 <td styleCode="Rrule">140 (10.1)</td>
+                              </tr>
+                           </tbody>
+                        </table>
+                        <table width="75%">
+                           <caption>Table 2	Change in Coagulation Parameters in 14 Dabigatran-exposed Subjects Treated with Placebo </caption>
+                           <col width="25%" align="left" valign="top"/>
+                           <col width="25%" align="center" valign="top"/>
+                           <col width="25%" align="center" valign="top"/>
+                           <col width="25%" align="center" valign="top"/>
+                           <thead>
+                              <tr>
+                                 <th styleCode="Lrule Rrule">Clotting Assay <br/>(Mean and Standard Deviation)</th>
+                                 <th styleCode="Rrule">Pre-Placebo<br/>(N=14)</th>
+                                 <th styleCode="Rrule">End of infusion of Placebo<br/>(N=14)</th>
+                                 <th styleCode="Rrule">24 hours after Placebo<br/>(N=14)</th>
+                              </tr>
+                           </thead>
+                           <tbody>
+                              <tr styleCode="Botrule">
+                                 <td styleCode="Lrule Rrule">dTT [s]</td>
+                                 <td styleCode="Rrule">64.7 (9.82)</td>
+                                 <td styleCode="Rrule">65.3 (12.1)</td>
+                                 <td styleCode="Rrule">36.1 (2.48)</td>
+                              </tr>
+                              <tr styleCode="Botrule">
+                                 <td styleCode="Lrule Rrule">aPTT [s]</td>
+                                 <td styleCode="Rrule">65.2 (14.0)</td>
+                                 <td styleCode="Rrule">66.5 (13.2)</td>
+                                 <td styleCode="Rrule">37.0 (7.10)</td>
+                              </tr>
+                              <tr styleCode="Botrule">
+                                 <td styleCode="Lrule Rrule">ECT [s]</td>
+                                 <td styleCode="Rrule">117 (29.8)</td>
+                                 <td styleCode="Rrule">122 (32.9)</td>
+                                 <td styleCode="Rrule">44.7 (5.39)</td>
+                              </tr>
+                              <tr styleCode="Botrule">
+                                 <td styleCode="Lrule Rrule">TT [s]</td>
+                                 <td styleCode="Rrule">132 (35.4)</td>
+                                 <td styleCode="Rrule">147 (46.7)</td>
+                                 <td styleCode="Rrule">39.5 (11.8)</td>
+                              </tr>
+                              <tr>
+                                 <td styleCode="Lrule Rrule">ACT [s]</td>
+                                 <td styleCode="Rrule">219 (44.7)</td>
+                                 <td styleCode="Rrule">216 (50.5)</td>
+                                 <td styleCode="Rrule">148 (15.1)</td>
+                              </tr>
+                           </tbody>
+                        </table>
+                        <paragraph>The effect of idarucizumab on reducing unbound dabigatran in healthy volunteers is summarized in section 12.2, Pharmacodynamics.</paragraph>
+                     </text>
+                     <effectiveTime value="20231130"/>
+                  </section>
+               </component>
+               <component>
+                  <section>
+                     <id root="dcb5e30f-38d0-4c07-913f-0aea46a712fd"/>
+                     <code code="42229-5" codeSystem="2.16.840.1.113883.6.1" displayName="SPL UNCLASSIFIED SECTION"/>
+                     <text>
+                        <paragraph>
+                           <content styleCode="italics">RE-VERSE-AD Patient Experience</content>
+                        </paragraph>
+                        <paragraph>In RE-VERSE-AD, 5 g idarucizumab was administered to patients treated with dabigatran who presented with dabigatran-related life-threatening or uncontrolled bleeding (Group A) or who required emergency surgery or urgent procedures (Group B). The primary endpoint was the maximum percentage reversal of the pharmacodynamic anticoagulant effect of dabigatran within 4 hours after the administration of idarucizumab, based on central laboratory determination of dTT or ECT. </paragraph>
+                        <paragraph>RE-VERSE-AD included data for 503 patients: 301 patients with serious bleeding (Group A) and 202 requiring an urgent procedure (Group B). Approximately half of the patients in each group were male. The median age was 78 years and the median creatinine clearance was 53 mL/min. Approximately 62% of patients in Group A and 62% of patients in Group B had been treated with dabigatran 110 mg BID. </paragraph>
+                        <paragraph>Reversal was evaluable only for those patients showing prolonged coagulation times prior to idarucizumab treatment. Among the evaluable patients, the median maximum reversal of the pharmacodynamic anticoagulant effect of dabigatran as measured by ECT, aPTT or dTT in the first 4 hours after administration of 5 g idarucizumab was 100%, with most patients achieving complete reversal as measured by ECT (82%), aPTT (93%) or dTT (99%). Reversal of the pharmacodynamics effects was evident immediately after administration. Results for Groups A and B were similar. In a limited number of patients, between 12 and 24 hours after administration of 5 g idarucizumab, elevated coagulation parameters (e.g., aPTT or ECT) have been observed. Eight patients were treated with more than 5 g idarucizumab due to rebleeding, a second emergency procedure and/or bleeding after an emergency surgical procedure. ECT measures over the 24-hour observation time are shown in Figure 6.</paragraph>
+                        <paragraph>
+                           <content styleCode="bold">Figure 6 Change of ECT from Baseline in Dabigatran-exposed Patients (n=487) </content>
+                        </paragraph>
+                        <paragraph>
+                           <renderMultiMedia referencedObject="MM6"/>
+                        </paragraph>
+                        <paragraph>Activated partial thromboplastin time (aPTT) showed similar results to ECT (see <linkHtml href="#fig7">Figure 7</linkHtml>).</paragraph>
+                        <paragraph ID="fig7">
+                           <content styleCode="bold">Figure 7	Change of aPTT from Baseline in Dabigatran-exposed Patients (n=486)</content>
+                        </paragraph>
+                        <paragraph>
+                           <renderMultiMedia referencedObject="MM7"/>
+                        </paragraph>
+                     </text>
+                     <effectiveTime value="20231130"/>
+                     <component>
+                        <observationMedia ID="MM6">
+                           <text>Figure 6</text>
+                           <value xsi:type="ED" mediaType="image/jpeg">
+                              <reference value="praxbind-06.jpg"/>
+                           </value>
+                        </observationMedia>
+                     </component>
+                     <component>
+                        <observationMedia ID="MM7">
+                           <text>Figure 7</text>
+                           <value xsi:type="ED" mediaType="image/jpeg">
+                              <reference value="praxbind-07.jpg"/>
+                           </value>
+                        </observationMedia>
+                     </component>
+                  </section>
+               </component>
+            </section>
+         </component>
+         <component>
+            <section ID="S16">
+               <id root="4c9bd0e2-b6c6-4759-a61e-4e6661ab9675"/>
+               <code code="34069-5" codeSystem="2.16.840.1.113883.6.1" displayName="HOW SUPPLIED SECTION"/>
+               <title>16 HOW SUPPLIED/STORAGE AND HANDLING</title>
+               <effectiveTime value="20231130"/>
+               <component>
+                  <section ID="S16.1">
+                     <id root="7baae421-de0d-4b95-869f-9db0c60b3a29"/>
+                     <code code="42229-5" codeSystem="2.16.840.1.113883.6.1" displayName="SPL UNCLASSIFIED SECTION"/>
+                     <title>16.1 How Supplied</title>
+                     <text>
+                        <list listType="unordered" styleCode="disc">
+                           <item>PRAXBIND is a sterile, preservative-free, colorless to slightly yellow, clear to slightly opalescent solution supplied as 2 single-dose vials each containing 2.5 g/50 mL of idarucizumab.</item>
+                           <item>NDC number 0597-0197-05: Carton containing two 2.5 g/50 mL vials.</item>
+                        </list>
+                     </text>
+                     <effectiveTime value="20231130"/>
+                  </section>
+               </component>
+               <component>
+                  <section ID="S16.2">
+                     <id root="961aec6f-5260-41d9-b839-e993ed13145f"/>
+                     <code code="44425-7" codeSystem="2.16.840.1.113883.6.1" displayName="STORAGE AND HANDLING SECTION"/>
+                     <title>16.2 Storage and Handling</title>
+                     <text>
+                        <list listType="unordered" styleCode="disc">
+                           <item>Store PRAXBIND vials in the refrigerator at 2°C to 8°C (36°F to 46°F) in the original carton to protect from light. Do not freeze. Do not shake.</item>
+                           <item>PRAXBIND vials may be stored at room temperature, 25°C (77°F), for up to 48 hours in the original carton to protect from light.</item>
+                           <item>PRAXBIND vials may be stored at room temperature, 25°C (77°F), out of the carton and exposed to light but must be used within 6 hours <content styleCode="italics">[see <linkHtml href="#S2.2">Dosage and Administration (2.2)</linkHtml>]</content>.</item>
+                        </list>
+                     </text>
+                     <effectiveTime value="20231130"/>
+                  </section>
+               </component>
+            </section>
+         </component>
+         <component>
+            <section ID="S17">
+               <id root="b0c33c00-c42b-40c9-a75f-e577680cc09a"/>
+               <code code="34076-0" codeSystem="2.16.840.1.113883.6.1" displayName="INFORMATION FOR PATIENTS SECTION"/>
+               <title>17 PATIENT COUNSELING INFORMATION</title>
+               <effectiveTime value="20231130"/>
+               <component>
+                  <section>
+                     <id root="350a6cce-a617-4051-a6f5-b0d98829f140"/>
+                     <code code="42229-5" codeSystem="2.16.840.1.113883.6.1" displayName="SPL UNCLASSIFIED SECTION"/>
+                     <text>
+                        <paragraph>
+                           <content styleCode="underline">Thromboembolic Risk</content>
+                        </paragraph>
+                        <paragraph>Inform patients that reversing dabigatran therapy exposes them to the thromboembolic risk of their underlying disease. To reduce this risk, resumption of anticoagulant therapy should be considered as soon as the patient is sufficiently stable <content styleCode="italics">[see <linkHtml href="#S5.1">Warnings and Precautions (5.1)</linkHtml>]</content>.</paragraph>
+                     </text>
+                     <effectiveTime value="20231130"/>
+                  </section>
+               </component>
+               <component>
+                  <section>
+                     <id root="ae29ba3c-2d31-464a-a97b-bec7a29633be"/>
+                     <code code="42229-5" codeSystem="2.16.840.1.113883.6.1" displayName="SPL UNCLASSIFIED SECTION"/>
+                     <text>
+                        <paragraph>
+                           <content styleCode="underline">Recurrence of Bleeding</content>
+                        </paragraph>
+                        <paragraph>Inform patients to get immediate medical attention for any signs or symptoms of bleeding <content styleCode="italics">[see <linkHtml href="#S5.2">Warnings and Precautions (5.2)</linkHtml>]</content>.</paragraph>
+                     </text>
+                     <effectiveTime value="20231130"/>
+                  </section>
+               </component>
+               <component>
+                  <section>
+                     <id root="9789bf81-2693-4fe8-836f-f953c5b9f799"/>
+                     <code code="42229-5" codeSystem="2.16.840.1.113883.6.1" displayName="SPL UNCLASSIFIED SECTION"/>
+                     <text>
+                        <paragraph>
+                           <content styleCode="underline">Hypersensitivity Reactions</content>
+                        </paragraph>
+                        <paragraph>Inform patients of signs and symptoms of allergic hypersensitivity reactions such as anaphylactoid reactions that may be experienced during or after injection of PRAXBIND <content styleCode="italics">[see <linkHtml href="#S5.3">Warnings and Precautions (5.3)</linkHtml>]</content>.</paragraph>
+                     </text>
+                     <effectiveTime value="20231130"/>
+                  </section>
+               </component>
+               <component>
+                  <section>
+                     <id root="9385fffd-892f-420b-aa33-2c3225f8bcda"/>
+                     <code code="42229-5" codeSystem="2.16.840.1.113883.6.1" displayName="SPL UNCLASSIFIED SECTION"/>
+                     <text>
+                        <paragraph>
+                           <content styleCode="underline">Risk of Serious Adverse Reactions in Patients with Hereditary Fructose Intolerance due to Sorbitol Excipient</content>
+                        </paragraph>
+                        <paragraph>Inform patients with hereditary fructose intolerance (HFI) that PRAXBIND contains sorbitol. Parenteral administration of sorbitol in patients who have HFI has been associated with reports of hypoglycemia, hypophosphatemia, metabolic acidosis, increase in uric acid, acute liver failure with breakdown of excretory and synthetic function, and death and may occur during or after injection of PRAXBIND <content styleCode="italics">[see <linkHtml href="#S5.4">Warnings and Precautions (5.4)</linkHtml>]</content>.</paragraph>
+                     </text>
+                     <effectiveTime value="20231130"/>
+                  </section>
+               </component>
+            </section>
+         </component>
+         <component>
+            <section>
+               <id root="c6c14b64-f249-45cb-bb9a-2fa96df58dec"/>
+               <code code="42229-5" codeSystem="2.16.840.1.113883.6.1" displayName="SPL UNCLASSIFIED SECTION"/>
+               <text>
+                  <paragraph>Boehringer Ingelheim Pharmaceuticals, Inc.<br/>Ridgefield, CT 06877 USA<br/>US License No. 2006</paragraph>
+                  <paragraph>Product of Germany</paragraph>
+                  <paragraph>Licensed from:<br/>Boehringer Ingelheim International GmbH</paragraph>
+                  <paragraph>Copyright © 2023 Boehringer Ingelheim International GmbH<br/>ALL RIGHTS RESERVED</paragraph>
+                  <paragraph>COL10514BJ272023<br/>SPL10516B</paragraph>
+               </text>
+               <effectiveTime value="20231130"/>
+            </section>
+         </component>
+         <component>
+            <section>
+               <id root="bd39ac79-a2ff-460f-bfe6-80dc26367fd3"/>
+               <code code="51945-4" codeSystem="2.16.840.1.113883.6.1" displayName="PACKAGE LABEL.PRINCIPAL DISPLAY PANEL"/>
+               <title>PRINCIPAL DISPLAY PANEL - 50 mL Vial Label</title>
+               <text>
+                  <paragraph>NDC 0597-0197-05<br/>Rx only</paragraph>
+                  <paragraph>Praxbind<sup>®</sup>
+                     <br/>(idarucizumab)<br/>Injection</paragraph>
+                  <paragraph>2.5 g/50 mL<br/>(50 mg/mL)</paragraph>
+                  <paragraph>For Intravenous Use Only<br/>Discard Unused Portion.<br/>Administer 2 vials for complete dose of 5 g<br/>50 mL Single-Dose Vial</paragraph>
+                  <paragraph>Boehringer<br/>Ingelheim</paragraph>
+                  <renderMultiMedia referencedObject="MM8"/>
+               </text>
+               <effectiveTime value="20231130"/>
+               <component>
+                  <observationMedia ID="MM8">
+                     <text>Principal Display Panel - 50 mL Vial Label</text>
+                     <value xsi:type="ED" mediaType="image/jpeg">
+                        <reference value="praxbind-08.jpg"/>
+                     </value>
+                  </observationMedia>
+               </component>
+            </section>
+         </component>
+      </structuredBody>
+   </component>
+</document>

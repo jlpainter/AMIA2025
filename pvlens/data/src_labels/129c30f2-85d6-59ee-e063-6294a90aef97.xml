@@ -1,0 +1,2316 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet href="https://www.accessdata.fda.gov/spl/stylesheet/spl.xsl" type="text/xsl"?>
+<document xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:hl7-org:v3" xsi:schemaLocation="urn:hl7-org:v3 https://www.accessdata.fda.gov/spl/schema/spl.xsd">
+   <id root="129c30f2-85d6-59ee-e063-6294a90aef97"/>
+   <code code="34391-3" codeSystem="2.16.840.1.113883.6.1" displayName="HUMAN PRESCRIPTION DRUG LABEL"/>
+   <title>These highlights do not include all the information needed to use AMETHIA tablets safely and effectively. See full prescribing information for AMETHIA tablets.
+ <br/>
+      <br/>
+AMETHIA - Levonorgestrel/Ethinyl Estradiol tablets and Ethinyl Estradiol tablets for oral use.
+ <br/>
+Initial U.S. Approval: 1982
+</title>
+   <effectiveTime value="20240301"/>
+   <setId root="d6a33ea7-ecd1-4f81-a984-f210a3989618"/>
+   <versionNumber value="7"/>
+   <author>
+      <time/>
+      <assignedEntity>
+         <representedOrganization>
+            <id root="1.3.6.1.4.1.519.1" extension="867220261"/>
+            <name>Mayne Pharma Inc</name>
+            <assignedEntity>
+               <assignedOrganization>
+                  <assignedEntity>
+                     <assignedOrganization>
+                        <id root="1.3.6.1.4.1.519.1" extension="240769596"/>
+                        <name>Patheon Inc.</name>
+                     </assignedOrganization>
+                     <performance>
+                        <actDefinition>
+                           <code code="C43360" displayName="manufacture" codeSystem="2.16.840.1.113883.3.26.1.1"/>
+                           <product>
+                              <manufacturedProduct classCode="MANU">
+                                 <manufacturedMaterialKind>
+                                    <code code="51862-047" codeSystem="2.16.840.1.113883.6.69"/>
+                                 </manufacturedMaterialKind>
+                              </manufacturedProduct>
+                           </product>
+                        </actDefinition>
+                     </performance>
+                     <performance>
+                        <actDefinition>
+                           <code code="C84731" displayName="pack" codeSystem="2.16.840.1.113883.3.26.1.1"/>
+                           <product>
+                              <manufacturedProduct classCode="MANU">
+                                 <manufacturedMaterialKind>
+                                    <code code="51862-047" codeSystem="2.16.840.1.113883.6.69"/>
+                                 </manufacturedMaterialKind>
+                              </manufacturedProduct>
+                           </product>
+                        </actDefinition>
+                     </performance>
+                     <performance>
+                        <actDefinition>
+                           <code code="C84732" displayName="label" codeSystem="2.16.840.1.113883.3.26.1.1"/>
+                           <product>
+                              <manufacturedProduct classCode="MANU">
+                                 <manufacturedMaterialKind>
+                                    <code code="51862-047" codeSystem="2.16.840.1.113883.6.69"/>
+                                 </manufacturedMaterialKind>
+                              </manufacturedProduct>
+                           </product>
+                        </actDefinition>
+                     </performance>
+                  </assignedEntity>
+                  <assignedEntity>
+                     <assignedOrganization>
+                        <id root="1.3.6.1.4.1.519.1" extension="205475333"/>
+                        <name>Patheon Inc.</name>
+                     </assignedOrganization>
+                     <performance>
+                        <actDefinition>
+                           <code code="C25391" displayName="analysis" codeSystem="2.16.840.1.113883.3.26.1.1"/>
+                           <product>
+                              <manufacturedProduct classCode="MANU">
+                                 <manufacturedMaterialKind>
+                                    <code code="51862-047" codeSystem="2.16.840.1.113883.6.69"/>
+                                 </manufacturedMaterialKind>
+                              </manufacturedProduct>
+                           </product>
+                        </actDefinition>
+                     </performance>
+                  </assignedEntity>
+                  <assignedEntity>
+                     <assignedOrganization>
+                        <id root="1.3.6.1.4.1.519.1" extension="005286822"/>
+                        <name>Patheon Pharmaceuticals Inc.</name>
+                     </assignedOrganization>
+                     <performance>
+                        <actDefinition>
+                           <code code="C25391" displayName="analysis" codeSystem="2.16.840.1.113883.3.26.1.1"/>
+                           <product>
+                              <manufacturedProduct classCode="MANU">
+                                 <manufacturedMaterialKind>
+                                    <code code="51862-047" codeSystem="2.16.840.1.113883.6.69"/>
+                                 </manufacturedMaterialKind>
+                              </manufacturedProduct>
+                           </product>
+                        </actDefinition>
+                     </performance>
+                  </assignedEntity>
+               </assignedOrganization>
+            </assignedEntity>
+         </representedOrganization>
+      </assignedEntity>
+   </author>
+   <component>
+      <structuredBody>
+         <component>
+            <section>
+               <id root="129c4086-ef95-6719-e063-6394a90a07c7"/>
+               <code code="48780-1" codeSystem="2.16.840.1.113883.6.1" displayName="SPL product data elements section"/>
+               <effectiveTime value="20240301"/>
+               <subject>
+                  <manufacturedProduct>
+                     <manufacturedProduct>
+                        <code code="51862-047" codeSystem="2.16.840.1.113883.6.69"/>
+                        <name>Amethia</name>
+                        <formCode code="C47916" codeSystem="2.16.840.1.113883.3.26.1.1" displayName="KIT"/>
+                        <asEntityWithGeneric>
+                           <genericMedicine>
+                              <name>ETHINYL ESTRADIOL and LEVONORGESTREL</name>
+                           </genericMedicine>
+                        </asEntityWithGeneric>
+                        <asContent>
+                           <quantity>
+                              <numerator value="1" unit="1"/>
+                              <denominator value="1"/>
+                           </quantity>
+                           <containerPackagedProduct>
+                              <code code="51862-047-01" codeSystem="2.16.840.1.113883.6.69"/>
+                              <formCode code="C43168" codeSystem="2.16.840.1.113883.3.26.1.1" displayName="BLISTER PACK"/>
+                              <asContent>
+                                 <quantity>
+                                    <numerator value="2" unit="1"/>
+                                    <denominator value="1"/>
+                                 </quantity>
+                                 <containerPackagedProduct>
+                                    <code code="51862-047-91" codeSystem="2.16.840.1.113883.6.69"/>
+                                    <formCode code="C43182" codeSystem="2.16.840.1.113883.3.26.1.1" displayName="CARTON"/>
+                                 </containerPackagedProduct>
+                                 <subjectOf>
+                                    <marketingAct>
+                                       <code code="C53292" codeSystem="2.16.840.1.113883.3.26.1.1"/>
+                                       <statusCode code="completed"/>
+                                       <effectiveTime>
+                                          <low value="20161012"/>
+                                          <high value="20230531"/>
+                                       </effectiveTime>
+                                    </marketingAct>
+                                 </subjectOf>
+                              </asContent>
+                           </containerPackagedProduct>
+                           <subjectOf>
+                              <characteristic>
+                                 <code code="SPLCMBPRDTP" codeSystem="2.16.840.1.113883.1.11.19255"/>
+                                 <value code="C112160" codeSystem="2.16.840.1.113883.3.26.1.1" displayName="Type 0: Not a Combination Product" xsi:type="CV"/>
+                              </characteristic>
+                           </subjectOf>
+                        </asContent>
+                        <part>
+                           <quantity>
+                              <numerator value="84" unit="1"/>
+                              <denominator value="1"/>
+                           </quantity>
+                           <partProduct>
+                              <name>Amethia</name>
+                              <formCode code="C42998" codeSystem="2.16.840.1.113883.3.26.1.1" displayName="TABLET"/>
+                              <asEntityWithGeneric>
+                                 <genericMedicine>
+                                    <name>ETHINYL ESTRADIOL and LEVONORGESTREL</name>
+                                 </genericMedicine>
+                              </asEntityWithGeneric>
+                              <ingredient classCode="IACT">
+                                 <ingredientSubstance>
+                                    <code code="EWQ57Q8I5X" codeSystem="2.16.840.1.113883.4.9"/>
+                                    <name>LACTOSE MONOHYDRATE</name>
+                                 </ingredientSubstance>
+                              </ingredient>
+                              <ingredient classCode="IACT">
+                                 <ingredientSubstance>
+                                    <code code="OP1R32D61U" codeSystem="2.16.840.1.113883.4.9"/>
+                                    <name>MICROCRYSTALLINE CELLULOSE</name>
+                                 </ingredientSubstance>
+                              </ingredient>
+                              <ingredient classCode="IACT">
+                                 <ingredientSubstance>
+                                    <code code="FZ989GH94E" codeSystem="2.16.840.1.113883.4.9"/>
+                                    <name>POVIDONE, UNSPECIFIED</name>
+                                 </ingredientSubstance>
+                              </ingredient>
+                              <ingredient classCode="IACT">
+                                 <ingredientSubstance>
+                                    <code code="M28OL1HH48" codeSystem="2.16.840.1.113883.4.9"/>
+                                    <name>CROSCARMELLOSE SODIUM</name>
+                                 </ingredientSubstance>
+                              </ingredient>
+                              <ingredient classCode="IACT">
+                                 <ingredientSubstance>
+                                    <code code="70097M6I30" codeSystem="2.16.840.1.113883.4.9"/>
+                                    <name>MAGNESIUM STEARATE</name>
+                                 </ingredientSubstance>
+                              </ingredient>
+                              <ingredient classCode="ACTIB">
+                                 <quantity>
+                                    <numerator unit="mg" value="0.03"/>
+                                    <denominator unit="1" value="1"/>
+                                 </quantity>
+                                 <ingredientSubstance>
+                                    <code code="423D2T571U" codeSystem="2.16.840.1.113883.4.9"/>
+                                    <name>ETHINYL ESTRADIOL</name>
+                                    <activeMoiety>
+                                       <activeMoiety>
+                                          <code code="423D2T571U" codeSystem="2.16.840.1.113883.4.9"/>
+                                          <name>ETHINYL ESTRADIOL</name>
+                                       </activeMoiety>
+                                    </activeMoiety>
+                                 </ingredientSubstance>
+                              </ingredient>
+                              <ingredient classCode="ACTIB">
+                                 <quantity>
+                                    <numerator unit="mg" value="0.15"/>
+                                    <denominator unit="1" value="1"/>
+                                 </quantity>
+                                 <ingredientSubstance>
+                                    <code code="5W7SIA7YZW" codeSystem="2.16.840.1.113883.4.9"/>
+                                    <name>LEVONORGESTREL</name>
+                                    <activeMoiety>
+                                       <activeMoiety>
+                                          <code code="5W7SIA7YZW" codeSystem="2.16.840.1.113883.4.9"/>
+                                          <name>LEVONORGESTREL</name>
+                                       </activeMoiety>
+                                    </activeMoiety>
+                                 </ingredientSubstance>
+                              </ingredient>
+                           </partProduct>
+                           <subjectOf>
+                              <approval>
+                                 <id extension="ANDA078834" root="2.16.840.1.113883.3.150"/>
+                                 <code code="C73584" codeSystem="2.16.840.1.113883.3.26.1.1" displayName="ANDA"/>
+                                 <author>
+                                    <territorialAuthority>
+                                       <territory>
+                                          <code code="USA" codeSystem="2.16.840.1.113883.5.28"/>
+                                       </territory>
+                                    </territorialAuthority>
+                                 </author>
+                              </approval>
+                           </subjectOf>
+                           <subjectOf>
+                              <marketingAct>
+                                 <code code="C53292" codeSystem="2.16.840.1.113883.3.26.1.1"/>
+                                 <statusCode code="active"/>
+                                 <effectiveTime>
+                                    <low value="20161012"/>
+                                 </effectiveTime>
+                              </marketingAct>
+                           </subjectOf>
+                           <subjectOf>
+                              <characteristic classCode="OBS">
+                                 <code code="SPLCOLOR" codeSystem="2.16.840.1.113883.1.11.19255"/>
+                                 <value code="C48325" codeSystem="2.16.840.1.113883.3.26.1.1" displayName="white" xsi:type="CE">
+                                    <originalText/>
+                                 </value>
+                              </characteristic>
+                           </subjectOf>
+                           <subjectOf>
+                              <characteristic classCode="OBS">
+                                 <code code="SPLSCORE" codeSystem="2.16.840.1.113883.1.11.19255"/>
+                                 <value value="1" xsi:type="INT"/>
+                              </characteristic>
+                           </subjectOf>
+                           <subjectOf>
+                              <characteristic classCode="OBS">
+                                 <code code="SPLSHAPE" codeSystem="2.16.840.1.113883.1.11.19255"/>
+                                 <value code="C48348" codeSystem="2.16.840.1.113883.3.26.1.1" displayName="ROUND" xsi:type="CE">
+                                    <originalText/>
+                                 </value>
+                              </characteristic>
+                           </subjectOf>
+                           <subjectOf>
+                              <characteristic classCode="OBS">
+                                 <code code="SPLSIZE" codeSystem="2.16.840.1.113883.1.11.19255"/>
+                                 <value unit="mm" value="6" xsi:type="PQ"/>
+                              </characteristic>
+                           </subjectOf>
+                           <subjectOf>
+                              <characteristic classCode="OBS">
+                                 <code code="SPLIMPRINT" codeSystem="2.16.840.1.113883.1.11.19255"/>
+                                 <value xsi:type="ST">Watson;268</value>
+                              </characteristic>
+                           </subjectOf>
+                           <consumedIn>
+                              <substanceAdministration>
+                                 <routeCode code="C38288" codeSystem="2.16.840.1.113883.3.26.1.1" displayName="ORAL"/>
+                              </substanceAdministration>
+                           </consumedIn>
+                        </part>
+                        <part>
+                           <quantity>
+                              <numerator value="7" unit="1"/>
+                              <denominator value="1"/>
+                           </quantity>
+                           <partProduct>
+                              <name>Amethia</name>
+                              <formCode code="C42998" codeSystem="2.16.840.1.113883.3.26.1.1" displayName="TABLET"/>
+                              <asEntityWithGeneric>
+                                 <genericMedicine>
+                                    <name>ETHINYL ESTRADIOL</name>
+                                 </genericMedicine>
+                              </asEntityWithGeneric>
+                              <ingredient classCode="IACT">
+                                 <ingredientSubstance>
+                                    <code code="H4N855PNZ1" codeSystem="2.16.840.1.113883.4.9"/>
+                                    <name>.ALPHA.-TOCOPHEROL</name>
+                                 </ingredientSubstance>
+                              </ingredient>
+                              <ingredient classCode="IACT">
+                                 <ingredientSubstance>
+                                    <code code="3SY5LH9PMK" codeSystem="2.16.840.1.113883.4.9"/>
+                                    <name>ANHYDROUS LACTOSE</name>
+                                 </ingredientSubstance>
+                              </ingredient>
+                              <ingredient classCode="IACT">
+                                 <ingredientSubstance>
+                                    <code code="FZ989GH94E" codeSystem="2.16.840.1.113883.4.9"/>
+                                    <name>POVIDONE, UNSPECIFIED</name>
+                                 </ingredientSubstance>
+                              </ingredient>
+                              <ingredient classCode="IACT">
+                                 <ingredientSubstance>
+                                    <code code="H3R47K3TBD" codeSystem="2.16.840.1.113883.4.9"/>
+                                    <name>FD&amp;C BLUE NO. 1</name>
+                                 </ingredientSubstance>
+                              </ingredient>
+                              <ingredient classCode="IACT">
+                                 <ingredientSubstance>
+                                    <code code="ETJ7Z6XBU4" codeSystem="2.16.840.1.113883.4.9"/>
+                                    <name>SILICON DIOXIDE</name>
+                                 </ingredientSubstance>
+                              </ingredient>
+                              <ingredient classCode="IACT">
+                                 <ingredientSubstance>
+                                    <code code="O8232NY3SJ" codeSystem="2.16.840.1.113883.4.9"/>
+                                    <name>STARCH, CORN</name>
+                                 </ingredientSubstance>
+                              </ingredient>
+                              <ingredient classCode="IACT">
+                                 <ingredientSubstance>
+                                    <code code="4ELV7Z65AP" codeSystem="2.16.840.1.113883.4.9"/>
+                                    <name>STEARIC ACID</name>
+                                 </ingredientSubstance>
+                              </ingredient>
+                              <ingredient classCode="ACTIB">
+                                 <quantity>
+                                    <numerator unit="mg" value="0.01"/>
+                                    <denominator unit="1" value="1"/>
+                                 </quantity>
+                                 <ingredientSubstance>
+                                    <code code="423D2T571U" codeSystem="2.16.840.1.113883.4.9"/>
+                                    <name>ETHINYL ESTRADIOL</name>
+                                    <activeMoiety>
+                                       <activeMoiety>
+                                          <code code="423D2T571U" codeSystem="2.16.840.1.113883.4.9"/>
+                                          <name>ETHINYL ESTRADIOL</name>
+                                       </activeMoiety>
+                                    </activeMoiety>
+                                 </ingredientSubstance>
+                              </ingredient>
+                           </partProduct>
+                           <subjectOf>
+                              <approval>
+                                 <id extension="ANDA078834" root="2.16.840.1.113883.3.150"/>
+                                 <code code="C73584" codeSystem="2.16.840.1.113883.3.26.1.1" displayName="ANDA"/>
+                                 <author>
+                                    <territorialAuthority>
+                                       <territory>
+                                          <code code="USA" codeSystem="2.16.840.1.113883.5.28"/>
+                                       </territory>
+                                    </territorialAuthority>
+                                 </author>
+                              </approval>
+                           </subjectOf>
+                           <subjectOf>
+                              <marketingAct>
+                                 <code code="C53292" codeSystem="2.16.840.1.113883.3.26.1.1"/>
+                                 <statusCode code="active"/>
+                                 <effectiveTime>
+                                    <low value="20161012"/>
+                                 </effectiveTime>
+                              </marketingAct>
+                           </subjectOf>
+                           <subjectOf>
+                              <characteristic classCode="OBS">
+                                 <code code="SPLCOLOR" codeSystem="2.16.840.1.113883.1.11.19255"/>
+                                 <value code="C48333" codeSystem="2.16.840.1.113883.3.26.1.1" displayName="blue" xsi:type="CE">
+                                    <originalText/>
+                                 </value>
+                              </characteristic>
+                           </subjectOf>
+                           <subjectOf>
+                              <characteristic classCode="OBS">
+                                 <code code="SPLSCORE" codeSystem="2.16.840.1.113883.1.11.19255"/>
+                                 <value value="1" xsi:type="INT"/>
+                              </characteristic>
+                           </subjectOf>
+                           <subjectOf>
+                              <characteristic classCode="OBS">
+                                 <code code="SPLSHAPE" codeSystem="2.16.840.1.113883.1.11.19255"/>
+                                 <value code="C48348" codeSystem="2.16.840.1.113883.3.26.1.1" displayName="ROUND" xsi:type="CE">
+                                    <originalText/>
+                                 </value>
+                              </characteristic>
+                           </subjectOf>
+                           <subjectOf>
+                              <characteristic classCode="OBS">
+                                 <code code="SPLSIZE" codeSystem="2.16.840.1.113883.1.11.19255"/>
+                                 <value unit="mm" value="6" xsi:type="PQ"/>
+                              </characteristic>
+                           </subjectOf>
+                           <subjectOf>
+                              <characteristic classCode="OBS">
+                                 <code code="SPLIMPRINT" codeSystem="2.16.840.1.113883.1.11.19255"/>
+                                 <value xsi:type="ST">Watson;270</value>
+                              </characteristic>
+                           </subjectOf>
+                           <consumedIn>
+                              <substanceAdministration>
+                                 <routeCode code="C38288" codeSystem="2.16.840.1.113883.3.26.1.1" displayName="ORAL"/>
+                              </substanceAdministration>
+                           </consumedIn>
+                        </part>
+                     </manufacturedProduct>
+                     <subjectOf>
+                        <approval>
+                           <id extension="ANDA078834" root="2.16.840.1.113883.3.150"/>
+                           <code code="C73584" codeSystem="2.16.840.1.113883.3.26.1.1" displayName="ANDA"/>
+                           <author>
+                              <territorialAuthority>
+                                 <territory>
+                                    <code code="USA" codeSystem="2.16.840.1.113883.5.28"/>
+                                 </territory>
+                              </territorialAuthority>
+                           </author>
+                        </approval>
+                     </subjectOf>
+                     <subjectOf>
+                        <marketingAct>
+                           <code code="C53292" codeSystem="2.16.840.1.113883.3.26.1.1"/>
+                           <statusCode code="active"/>
+                           <effectiveTime>
+                              <low value="20161012"/>
+                           </effectiveTime>
+                        </marketingAct>
+                     </subjectOf>
+                  </manufacturedProduct>
+               </subject>
+            </section>
+         </component>
+         <component>
+            <section ID="BOX">
+               <id root="129c30f2-85d7-59ee-e063-6294a90aef97"/>
+               <code code="34066-1" codeSystem="2.16.840.1.113883.6.1" displayName="BOXED WARNING SECTION"/>
+               <title>WARNING: CIGARETTE SMOKING AND SERIOUS CARDIOVASCULAR EVENTS</title>
+               <text>
+                  <paragraph>
+                     <content styleCode="bold">Cigarette smoking increases the risk of serious cardiovascular events from combination oral contraceptives (COC) use. This risk increases with age, particularly in women over 35 years of age, and with the number of cigarettes smoked. For this reason, COCs should not be used by women who are over 35 years of age and smoke.</content>
+                     <content styleCode="italics">[See
+  
+   <linkHtml href="#S4">Contraindications (4)</linkHtml>.]
+ 
+  </content>
+                  </paragraph>
+               </text>
+               <effectiveTime value="20220816"/>
+               <excerpt>
+                  <highlight>
+                     <text>
+                        <paragraph>WARNING: CIGARETTE SMOKING AND SERIOUS CARDIOVASCULAR EVENTS</paragraph>
+                        <paragraph>
+                           <content styleCode="italics">See full prescribing information for complete boxed warning.</content>
+                        </paragraph>
+                        <list listType="unordered" styleCode="Disc">
+                           <item>Women who are over 35 years old and smoke should not use AMETHIA tablets.</item>
+                           <item>Cigarette smoking increases the risk of serious cardiovascular events from combination oral contraceptive (COC) use.</item>
+                        </list>
+                     </text>
+                  </highlight>
+               </excerpt>
+            </section>
+         </component>
+         <component>
+            <section>
+               <id root="129c30f2-85d8-59ee-e063-6294a90aef97"/>
+               <code code="43683-2" codeSystem="2.16.840.1.113883.6.1" displayName="RECENT MAJOR CHANGES SECTION"/>
+               <effectiveTime value="20220816"/>
+               <excerpt>
+                  <highlight>
+                     <text>
+                        <table width="100%">
+                           <col width="60%" align="left" valign="top"/>
+                           <col width="40%" align="right" valign="top"/>
+                           <tbody>
+                              <tr>
+                                 <td>Warnings, Precautions, Malignant Neoplasms (
+    
+       <linkHtml href="#S5.2">5.2</linkHtml>)
+   
+      </td>
+                                 <td>04/2022</td>
+                              </tr>
+                           </tbody>
+                        </table>
+                     </text>
+                  </highlight>
+               </excerpt>
+            </section>
+         </component>
+         <component>
+            <section ID="S1">
+               <id root="129c30f2-85d9-59ee-e063-6294a90aef97"/>
+               <code code="34067-9" codeSystem="2.16.840.1.113883.6.1" displayName="INDICATIONS &amp; USAGE SECTION"/>
+               <title>1. INDICATIONS AND USAGE</title>
+               <text>
+                  <paragraph>AMETHIA tablets are indicated for use by women to prevent pregnancy.</paragraph>
+               </text>
+               <effectiveTime value="20220816"/>
+               <excerpt>
+                  <highlight>
+                     <text>
+                        <paragraph>AMETHIA tablets are an estrogen/progestin COC indicated for use by women to prevent pregnancy. (
+ 
+    <linkHtml href="#S1">1</linkHtml>)
+
+   </paragraph>
+                     </text>
+                  </highlight>
+               </excerpt>
+            </section>
+         </component>
+         <component>
+            <section ID="S2">
+               <id root="129c30f2-85da-59ee-e063-6294a90aef97"/>
+               <code code="34068-7" codeSystem="2.16.840.1.113883.6.1" displayName="DOSAGE &amp; ADMINISTRATION SECTION"/>
+               <title>2. DOSAGE AND ADMINISTRATION</title>
+               <text>
+                  <paragraph>Take one tablet by mouth at the same time every day. The dosage of AMETHIA tablets is one white tablet containing levonorgestrel and ethinyl estradiol daily for 84 consecutive days, followed by one light blue ethinyl estradiol tablet for 7 days. To achieve maximum contraceptive effectiveness, AMETHIA tablets must be taken exactly as directed and at intervals not exceeding 24 hours.</paragraph>
+                  <paragraph>Instruct the patient to begin taking AMETHIA tablets on the first Sunday after the onset of menstruation. If menstruation begins on a Sunday, the first white tablet is taken that day. One white tablet should be taken daily for 84 consecutive days, followed by one light blue tablet for 7 consecutive days. A non-hormonal back-up method of contraception (such as condoms or spermicide) should be used until a white tablet has been taken daily for 7 consecutive days. A scheduled period should occur during the 7 days that the light blue tablets are taken.</paragraph>
+                  <paragraph>Begin the next and all subsequent 91-day cycles without interruption on the same day of the week (Sunday) on which the patient began her first dose of AMETHIA tablets, following the same schedule: 84 days taking a white tablet followed by 7 days taking a blue tablet. If the patient does not immediately start her next pill pack, she should protect herself from pregnancy by using a non-hormonal back-up method of contraception until she has taken a white tablet daily for 7 consecutive days.</paragraph>
+                  <paragraph>If unscheduled spotting or bleeding occurs, instruct the patient to continue on the same regimen. If the bleeding is persistent or prolonged, advise the patient to consult her healthcare provider.</paragraph>
+                  <paragraph>For patient instructions regarding missed pills, see FDA-Approved Patient Labeling.</paragraph>
+                  <paragraph>For postpartum women who are not breastfeeding, start AMETHIA tablets no earlier than four to six weeks postpartum due to increased risk of thromboembolism. If the patient starts on AMETHIA tablets postpartum and has not yet had a period, evaluate for possible pregnancy, and instruct her to use an additional method of contraception until she has taken a white tablet for 7 consecutive days.</paragraph>
+               </text>
+               <effectiveTime value="20220816"/>
+               <excerpt>
+                  <highlight>
+                     <text>
+                        <paragraph>Take one tablet daily by mouth at the same time every day for 91 days. (
+ 
+    <linkHtml href="#S2">2</linkHtml>)
+
+   </paragraph>
+                     </text>
+                  </highlight>
+               </excerpt>
+            </section>
+         </component>
+         <component>
+            <section ID="S3">
+               <id root="129c30f2-85db-59ee-e063-6294a90aef97"/>
+               <code code="43678-2" codeSystem="2.16.840.1.113883.6.1" displayName="DOSAGE FORMS &amp; STRENGTHS SECTION"/>
+               <title>3. DOSAGE FORMS AND STRENGTHS</title>
+               <text>
+                  <paragraph>AMETHIA tablets are available in Extended-Cycle Tablet Dispensers, each containing a 13-week supply of tablets: 84 white tablets, each containing 0.15 mg of levonorgestrel and 0.03 mg ethinyl estradiol, and 7 light blue tablets each containing 0.01 mg of ethinyl estradiol. The white tablets are round, flat face beveled edge, unscored tablets with
+ 
+  <content styleCode="bold">WATSON</content>on one side and
+ 
+  <content styleCode="bold">268</content>on the other side. The light blue tablets are round, flat face beveled edge, unscored tablets with
+ 
+  <content styleCode="bold">WATSON</content>on one side and
+ 
+  <content styleCode="bold">270</content>on the other side.
+
+ </paragraph>
+               </text>
+               <effectiveTime value="20220816"/>
+               <excerpt>
+                  <highlight>
+                     <text>
+                        <paragraph>AMETHIA tablets consists of 84 white tablets containing 0.15 mg levonorgestrel and 0.03 mg ethinyl estradiol, and 7 light blue tablets containing 0.01 mg ethinyl estradiol. (
+ 
+    <linkHtml href="#S3">3</linkHtml>)
+
+   </paragraph>
+                     </text>
+                  </highlight>
+               </excerpt>
+            </section>
+         </component>
+         <component>
+            <section ID="S4">
+               <id root="129c30f2-85dc-59ee-e063-6294a90aef97"/>
+               <code code="34070-3" codeSystem="2.16.840.1.113883.6.1" displayName="CONTRAINDICATIONS SECTION"/>
+               <title>4. CONTRAINDICATIONS</title>
+               <text>
+                  <paragraph>AMETHIA tablets are contraindicated in females who are known to have or develop the following conditions:</paragraph>
+                  <list listType="unordered" styleCode="Disc">
+                     <item>A high risk of arterial or venous thrombotic diseases. Examples include women who are known to:
+  
+   <list listType="ordered">
+                           <item>­Smoke, if over age 35
+    
+     <content styleCode="italics">[see
+     
+      <linkHtml href="#BOX">Boxed Warning</linkHtml>and
+     
+      <linkHtml href="#S5.1">Warnings and Precautions (5.1)</linkHtml>]
+    
+     </content>.
+   
+    </item>
+                           <item>­Have deep vein thrombosis or pulmonary embolism, now or in the past
+    
+     <content styleCode="italics">[see
+     
+      <linkHtml href="#S5.1">Warnings and Precautions (5.1)</linkHtml>]
+    
+     </content>.
+   
+    </item>
+                           <item>­Have cerebrovascular disease
+    
+     <content styleCode="italics">[see
+     
+      <linkHtml href="#S5.1">Warnings and Precautions (5.1)</linkHtml>].
+    
+     </content>
+                           </item>
+                           <item>­Have coronary artery disease
+    
+     <content styleCode="italics">[see
+     
+      <linkHtml href="#S5.1">Warnings and Precautions (5.1)</linkHtml>]
+    
+     </content>.
+   
+    </item>
+                           <item>­Have thrombogenic valvular or thrombogenic rhythm diseases of the heart (for example, subacute bacterial endocarditis with valvular disease, or atrial fibrillation)
+    
+     <content styleCode="italics">[see
+     
+      <linkHtml href="#S5.1">Warnings and Precautions (5.1)</linkHtml>]
+    
+     </content>.
+   
+    </item>
+                           <item>­ Have inherited or acquired hypercoagulopathies
+    
+     <content styleCode="italics">[see
+     
+      <linkHtml href="#S5.1">Warnings and Precautions (5.1)</linkHtml>]
+    
+     </content>.
+   
+    </item>
+                           <item>­ Have uncontrolled hypertension
+    
+     <content styleCode="italics">[see
+     
+      <linkHtml href="#S5.5">Warnings and Precautions (5.5)</linkHtml>]
+    
+     </content>.
+   
+    </item>
+                           <item>­Have diabetes with vascular disease
+    
+     <content styleCode="italics">[see
+     
+      <linkHtml href="#S5.7">Warnings and Precautions (5.7)</linkHtml>]
+    
+     </content>.
+   
+    </item>
+                           <item>­Have headaches with focal neurological symptoms or have migraine headaches with or without aura if over age 35
+    
+     <content styleCode="italics">[see
+     
+      <linkHtml href="#S5.8">Warnings and Precautions (5.8)</linkHtml>]
+    
+     </content>.
+   
+    </item>
+                        </list>
+                     </item>
+                     <item>Undiagnosed abnormal genital bleeding
+  
+   <content styleCode="italics">[see
+   
+    <linkHtml href="#S5.9">Warnings and Precautions (5.9)</linkHtml>]
+  
+   </content>.
+ 
+  </item>
+                     <item>Current diagnosis of, or history of, breast cancer, which may be hormone-sensitive
+  
+   <content styleCode="italics">[see
+   
+    <linkHtml href="#S5.2">Warnings and Precautions (5.2)</linkHtml>]
+  
+   </content>.
+ 
+  </item>
+                     <item>Liver tumors, benign or malignant, or liver disease
+  
+   <content styleCode="italics">[see
+   
+    <linkHtml href="#S5.3">Warnings and Precautions (5.3)</linkHtml>and
+   
+    <linkHtml href="#S8.6">Use in Specific Populations (8.6)</linkHtml>]
+  
+   </content>.
+ 
+  </item>
+                     <item>Pregnancy, because there is no reason to use COCs during pregnancy
+  
+   <content styleCode="italics">[see
+   
+    <linkHtml href="#S5.10">Warnings and Precautions (5.10)</linkHtml>and
+   
+    <linkHtml href="#S8.1">Use in Specific Populations (8.1)</linkHtml>]
+  
+   </content>.
+ 
+  </item>
+                     <item>Use of Hepatitis C drug combinations containing ombitasvir/paritaprevir/ritonavir, with or without dasabuvir, due to the potential for ALT elevations
+  
+   <content styleCode="italics">[see
+   
+    <linkHtml href="#S5.4">Warnings and Precautions (5.4)</linkHtml>].
+  
+   </content>
+                     </item>
+                  </list>
+               </text>
+               <effectiveTime value="20220816"/>
+               <excerpt>
+                  <highlight>
+                     <text>
+                        <list listType="unordered" styleCode="Disc">
+                           <item>A high risk of arterial or venous thrombotic diseases (
+  
+     <linkHtml href="#S4">4</linkHtml>)
+ 
+    </item>
+                           <item>Undiagnosed abnormal genital bleeding (
+  
+     <linkHtml href="#S4">4</linkHtml>)
+ 
+    </item>
+                           <item>Breast cancer or other estrogen- or progestin-sensitive cancer (
+  
+     <linkHtml href="#S4">4</linkHtml>)
+ 
+    </item>
+                           <item>Liver tumors or liver disease (
+  
+     <linkHtml href="#S4">4</linkHtml>)
+ 
+    </item>
+                           <item>Pregnancy (
+  
+     <linkHtml href="#S4">4</linkHtml>)
+ 
+    </item>
+                           <item>Co-administration with Hepatitis C drug combinations containing ombitasvir/paritaprevir/ritonavir, with or without dasabuvir (
+  
+     <linkHtml href="#S4">4</linkHtml>)
+ 
+    </item>
+                        </list>
+                     </text>
+                  </highlight>
+               </excerpt>
+            </section>
+         </component>
+         <component>
+            <section ID="S5">
+               <id root="129c30f2-85dd-59ee-e063-6294a90aef97"/>
+               <code code="43685-7" codeSystem="2.16.840.1.113883.6.1" displayName="WARNINGS AND PRECAUTIONS SECTION"/>
+               <title>5. WARNINGS AND PRECAUTIONS</title>
+               <effectiveTime value="20220816"/>
+               <excerpt>
+                  <highlight>
+                     <text>
+                        <list listType="unordered" styleCode="Disc">
+                           <item>Vascular risks: Stop AMETHIA tablets if a thrombotic event occurs. Stop AMETHIA tablets at least 4 weeks before and through 2 weeks after major surgery. Start AMETHIA tablets no earlier than 4 weeks after delivery, in women who are not breastfeeding. (
+  
+     <linkHtml href="#S5.1">5.1</linkHtml>)
+ 
+    </item>
+                           <item>Liver disease: Discontinue AMETHIA tablets if jaundice occurs. (
+  
+     <linkHtml href="#S5.3">5.3</linkHtml>)
+ 
+    </item>
+                           <item>High blood pressure: Do not prescribe AMETHIA tablets for women with uncontrolled hypertension or hypertension with vascular disease. (
+  
+     <linkHtml href="#S5.5">5.5</linkHtml>)
+ 
+    </item>
+                           <item>Carbohydrate and lipid metabolic effects: Monitor prediabetic and diabetic women taking AMETHIA tablets. Consider an alternate contraceptive method for women with uncontrolled dyslipidemias. (
+  
+     <linkHtml href="#S5.7">5.7</linkHtml>)
+ 
+    </item>
+                           <item>Headache: Evaluate significant change in headaches and discontinue AMETHIA tablets if indicated. (
+  
+     <linkHtml href="#S5.8">5.8</linkHtml>)
+ 
+    </item>
+                           <item>Uterine bleeding: Evaluate irregular bleeding or amenorrhea (
+  
+     <linkHtml href="#S5.9">5.9</linkHtml>)
+ 
+    </item>
+                        </list>
+                     </text>
+                  </highlight>
+               </excerpt>
+               <component>
+                  <section ID="S5.1">
+                     <id root="129c30f2-85de-59ee-e063-6294a90aef97"/>
+                     <code code="42229-5" codeSystem="2.16.840.1.113883.6.1" displayName="SPL UNCLASSIFIED SECTION"/>
+                     <title>5.1 Thrombotic and Other Vascular Events</title>
+                     <text>
+                        <paragraph>Stop AMETHIA tablets if an arterial or deep venous thrombotic event occurs. Although the use of COCs increases the risk of venous thromboembolism, pregnancy increases the risk of venous thromboembolism as much or more than the use of COCs. The risk of venous thromboembolism in women using COCs is 3 to 9 per 10,000 woman-years. The excess risk is highest during the first year of use of a COC. Use of COCs also increases the risk of arterial thromboses such as strokes and myocardial infarctions, especially in women with other risk factors for these events. The risk of thromboembolic disease due to COCs gradually disappears after COC use is discontinued.</paragraph>
+                        <paragraph>Use of AMETHIA tablets provides women with more hormonal exposure on a yearly basis than conventional monthly oral contraceptives containing the same strength synthetic estrogens and progestins (an additional 9 and 13 weeks of exposure to progestin and estrogen, respectively, per year).</paragraph>
+                        <paragraph>If feasible, stop AMETHIA tablets at least 4 weeks before and through 2 weeks after major surgery or other surgeries known to have an elevated risk of thromboembolism.</paragraph>
+                        <paragraph>Start AMETHIA tablets no earlier than 4 - 6 weeks after delivery, in women who are not breastfeeding. The risk of postpartum thromboembolism decreases after the third postpartum week, whereas the risk of ovulation increases after the third postpartum week.</paragraph>
+                        <paragraph>COCs have been shown to increase both the relative and attributable risks of cerebrovascular events (thrombotic and hemorrhagic strokes), although, in general, the risk is greatest among older (&gt;35 years of age), and hypertensive women who also smoke. COCs also increase the risk for stroke in women with other underlying risk factors.</paragraph>
+                        <paragraph>Oral contraceptives must be used with caution in women with cardiovascular disease risk factors.</paragraph>
+                        <paragraph>Stop AMETHIA tablets if there is unexplained loss of vision, proptosis, diplopia, papilledema, or retinal vascular lesions. Evaluate for retinal vein thrombosis immediately.</paragraph>
+                     </text>
+                     <effectiveTime value="20220816"/>
+                  </section>
+               </component>
+               <component>
+                  <section ID="S5.2">
+                     <id root="129c30f2-85df-59ee-e063-6294a90aef97"/>
+                     <code code="42229-5" codeSystem="2.16.840.1.113883.6.1" displayName="SPL UNCLASSIFIED SECTION"/>
+                     <title>5.2 Malignant Neoplasms</title>
+                     <effectiveTime value="20220816"/>
+                     <component>
+                        <section>
+                           <id root="129c30f2-85e0-59ee-e063-6294a90aef97"/>
+                           <code code="42229-5" codeSystem="2.16.840.1.113883.6.1" displayName="SPL UNCLASSIFIED SECTION"/>
+                           <text>
+                              <paragraph>
+                                 <content styleCode="xmChange">
+                                    <content styleCode="italics">Breast Cancer</content>
+                                 </content>
+                              </paragraph>
+                              <paragraph>AMETHIA tablets are contraindicated in females who currently have or have had breast cancer because breast cancer may be hormonally sensitive
+ 
+  <content styleCode="italics">[see
+  
+   <linkHtml href="#S4">Contraindications (4)</linkHtml>].
+ 
+  </content>
+                              </paragraph>
+                              <paragraph>Epidemiology studies have not found a consistent association between use of combined oral contraceptives (COCs) and breast cancer risk. Studies do not show an association between ever (current or past) use of COCs and risk of breast cancer. However, some studies report a small increase in the risk of breast cancer among current or recent users (&lt;6 months since last use) and current users with longer duration of COC use
+ 
+  <content styleCode="italics">[see
+  
+   <linkHtml href="#S6.2">Postmarketing Experience (6.2)</linkHtml>].
+ 
+  </content>
+                              </paragraph>
+                           </text>
+                           <effectiveTime value="20220816"/>
+                        </section>
+                     </component>
+                     <component>
+                        <section>
+                           <id root="129c30f2-85e1-59ee-e063-6294a90aef97"/>
+                           <code code="42229-5" codeSystem="2.16.840.1.113883.6.1" displayName="SPL UNCLASSIFIED SECTION"/>
+                           <text>
+                              <paragraph>
+                                 <content styleCode="italics">Cervical Cancer</content>
+                              </paragraph>
+                              <paragraph>Some studies suggest that COCs are associated with an increase in the risk of cervical cancer or intraepithelial neoplasia. However, there is controversy about the extent to which these findings are due to differences in sexual behavior and other factors.</paragraph>
+                           </text>
+                           <effectiveTime value="20220816"/>
+                        </section>
+                     </component>
+                  </section>
+               </component>
+               <component>
+                  <section ID="S5.3">
+                     <id root="129c30f2-85e2-59ee-e063-6294a90aef97"/>
+                     <code code="42229-5" codeSystem="2.16.840.1.113883.6.1" displayName="SPL UNCLASSIFIED SECTION"/>
+                     <title>5.3 Liver Disease</title>
+                     <text>
+                        <paragraph>Discontinue AMETHIA tablets if jaundice develops. Steroid hormones may be poorly metabolized in patients with impaired liver function. Acute or chronic disturbances of liver function may necessitate the discontinuation of COC use until markers of liver function return to normal and COC causation has been excluded.</paragraph>
+                        <paragraph>Hepatic adenomas are associated with COC use. An estimate of the attributable risk is 3.3 cases/100,000 COC users. Rupture of hepatic adenomas may cause death through intra-abdominal hemorrhage.</paragraph>
+                        <paragraph>Studies have shown an increased risk of developing hepatocellular carcinoma in long-term (&gt; 8 years) COC users. However, the attributable risk of liver cancers in COC users is less than one case per million users.</paragraph>
+                        <paragraph>Oral contraceptive-related cholestasis may occur in women with a history of pregnancy-related cholestasis. Women with a history of COC-related cholestasis may have the condition recur with subsequent COC use.</paragraph>
+                     </text>
+                     <effectiveTime value="20220816"/>
+                  </section>
+               </component>
+               <component>
+                  <section ID="S5.4">
+                     <id root="129c30f2-85e3-59ee-e063-6294a90aef97"/>
+                     <code code="42229-5" codeSystem="2.16.840.1.113883.6.1" displayName="SPL UNCLASSIFIED SECTION"/>
+                     <title>5.4 Risk of Liver Enzyme Elevations with Concomitant Hepatitis C Treatment</title>
+                     <text>
+                        <paragraph>During clinical trials with the Hepatitis C combination drug regimen that contains ombitasvir/paritaprevir/ritonavir, with or without dasabuvir, ALT elevations greater than 5 times the upper limit of normal (ULN), including some cases greater than 20 times the ULN, were significantly more frequent in women using ethinyl estradiol-containing medications, such as COCs. Discontinue AMETHIA tablets prior to starting therapy with the combination drug regimen ombitasvir/paritaprevir/ritonavir, with or without dasabuvir
+ 
+  <content styleCode="italics">[see
+  
+   <linkHtml href="#S4">Contraindications (4)</linkHtml>]
+ 
+  </content>. AMETHIA tablets can be restarted approximately 2 weeks following completion of treatment with the Hepatitis C combination drug regimen.
+
+ </paragraph>
+                     </text>
+                     <effectiveTime value="20220816"/>
+                  </section>
+               </component>
+               <component>
+                  <section ID="S5.5">
+                     <id root="129c30f2-85e4-59ee-e063-6294a90aef97"/>
+                     <code code="42229-5" codeSystem="2.16.840.1.113883.6.1" displayName="SPL UNCLASSIFIED SECTION"/>
+                     <title>5.5 High Blood Pressure</title>
+                     <text>
+                        <paragraph>For women with well-controlled hypertension, monitor blood pressure and stop AMETHIA tablets if blood pressure rises significantly. Women with uncontrolled hypertension or hypertension with vascular disease should not use COCs.</paragraph>
+                        <paragraph>An increase in blood pressure has been reported in women taking COCs, and this increase is more likely in older women and with extended duration of use. The incidence of hypertension increases with increasing concentration of progestin.</paragraph>
+                     </text>
+                     <effectiveTime value="20220816"/>
+                  </section>
+               </component>
+               <component>
+                  <section ID="S5.6">
+                     <id root="129c30f2-85e5-59ee-e063-6294a90aef97"/>
+                     <code code="42229-5" codeSystem="2.16.840.1.113883.6.1" displayName="SPL UNCLASSIFIED SECTION"/>
+                     <title>5.6 Gallbladder Disease</title>
+                     <text>
+                        <paragraph>Studies suggest a small increased relative risk of developing gallbladder disease among COC users.</paragraph>
+                     </text>
+                     <effectiveTime value="20220816"/>
+                  </section>
+               </component>
+               <component>
+                  <section ID="S5.7">
+                     <id root="129c30f2-85e6-59ee-e063-6294a90aef97"/>
+                     <code code="42229-5" codeSystem="2.16.840.1.113883.6.1" displayName="SPL UNCLASSIFIED SECTION"/>
+                     <title>5.7 Carbohydrate and Lipid Metabolic Effects</title>
+                     <text>
+                        <paragraph>Carefully monitor prediabetic and diabetic women who are taking AMETHIA tablets. COCs may decrease glucose tolerance in a dose-related fashion.</paragraph>
+                        <paragraph>Consider alternative contraception for women with uncontrolled dyslipidemias. A small proportion of women will have adverse lipid changes while on COCs.</paragraph>
+                        <paragraph>Women with hypertriglyceridemia, or a family history thereof, may be at an increased risk of pancreatitis when using COCs.</paragraph>
+                     </text>
+                     <effectiveTime value="20220816"/>
+                  </section>
+               </component>
+               <component>
+                  <section ID="S5.8">
+                     <id root="129c30f2-85e7-59ee-e063-6294a90aef97"/>
+                     <code code="42229-5" codeSystem="2.16.840.1.113883.6.1" displayName="SPL UNCLASSIFIED SECTION"/>
+                     <title>5.8 Headache</title>
+                     <text>
+                        <paragraph>If a woman taking AMETHIA tablets develops new headaches that are recurrent, persistent, or severe, evaluate the cause and discontinue Levonorgestrel/Ethinyl Estradiol tablets and Ethinyl Estradiol tablets if indicated.</paragraph>
+                        <paragraph>An increase in frequency or severity of migraine during COC use (which may be prodromal of a cerebrovascular event) may be a reason for immediate discontinuation of the COC.</paragraph>
+                     </text>
+                     <effectiveTime value="20220816"/>
+                  </section>
+               </component>
+               <component>
+                  <section ID="S5.9">
+                     <id root="129c30f2-85e8-59ee-e063-6294a90aef97"/>
+                     <code code="42229-5" codeSystem="2.16.840.1.113883.6.1" displayName="SPL UNCLASSIFIED SECTION"/>
+                     <title>5.9 Bleeding Irregularities</title>
+                     <text>
+                        <paragraph>Unscheduled (breakthrough) bleeding and spotting sometimes occur in patients on COCs, especially during the first 3 months of use. If bleeding persists, check for causes such as pregnancy or malignancy.</paragraph>
+                        <paragraph>If pathology and pregnancy are excluded, bleeding irregularities may resolve over time or with a change to a different COC.</paragraph>
+                        <paragraph>When prescribing AMETHIA tablets, the convenience of fewer planned menses (4 per year instead of 13 per year) should be weighed against the inconvenience of increased unscheduled bleeding and/or spotting. The primary clinical trial (PSE-301) that evaluated the efficacy of levonorgestrel/ethinyl estradiol tablets and ethinyl estradiol tablets also assessed unscheduled bleeding. The participants in the 12-month clinical trial (N=1,006) completed the equivalent of 8,681 28-day cycles of exposure and were composed primarily of women who had used oral contraceptives previously (89%) as opposed to new users (11%). A total of 82 (8.2%) of the women discontinued levonorgestrel/ethinyl estradiol tablets and ethinyl estradiol tablets, at least in part, due to bleeding or spotting.</paragraph>
+                        <paragraph>Scheduled (withdrawal) bleeding and/or spotting remained fairly constant over time, with an average of 3 days of bleeding and/or spotting per each 91-day cycle. Unscheduled bleeding and unscheduled spotting decreased over successive 91-day cycles. Table 1 below presents the number of days with unscheduled bleeding in treatment cycles 1 and 4. Table 2 presents the number of days with unscheduled spotting in treatment cycles 1 and 4.</paragraph>
+                        <table width="60%" ID="Table1">
+                           <caption>Table 1: Total Number of Days with Unscheduled Bleeding</caption>
+                           <col width="20%" align="center" valign="top"/>
+                           <col width="15%" align="center" valign="top"/>
+                           <col width="15%" align="center" valign="top"/>
+                           <col width="15%" align="center" valign="top"/>
+                           <col width="15%" align="center" valign="top"/>
+                           <col width="20%" align="center" valign="top"/>
+                           <thead>
+                              <tr>
+                                 <th styleCode="Rrule Lrule">91-Day Treatment Cycle</th>
+                                 <th colspan="4" styleCode="Botrule Rrule" valign="middle">Days per 84-Day Interval</th>
+                                 <th styleCode="Rrule Botrule">Days per 28-Day Interval</th>
+                              </tr>
+                              <tr>
+                                 <th styleCode="Rrule Lrule"/>
+                                 <th styleCode="Rrule">Q1</th>
+                                 <th styleCode="Rrule">Median</th>
+                                 <th styleCode="Rrule">Q3</th>
+                                 <th styleCode="Rrule">Mean</th>
+                                 <th styleCode="Rrule">Mean</th>
+                              </tr>
+                           </thead>
+                           <tfoot>
+                              <tr>
+                                 <td colspan="6" align="left" valign="top">Q1=Quartile 1: 25% of women had this number of days of unscheduled bleeding 
+     <br/>  Median: 50% of women had ≤ this number of days of unscheduled bleeding 
+     <br/>  Q3=Quartile 3: 75% of women had ≤ this number of days of unscheduled bleeding
+    </td>
+                              </tr>
+                           </tfoot>
+                           <tbody>
+                              <tr styleCode="Botrule">
+                                 <td styleCode="Rrule Lrule">1st</td>
+                                 <td styleCode="Rrule">1</td>
+                                 <td styleCode="Rrule">4</td>
+                                 <td styleCode="Rrule">10</td>
+                                 <td styleCode="Rrule">6.9</td>
+                                 <td styleCode="Rrule">1.7</td>
+                              </tr>
+                              <tr>
+                                 <td styleCode="Rrule Lrule">4th</td>
+                                 <td styleCode="Rrule">0</td>
+                                 <td styleCode="Rrule">1</td>
+                                 <td styleCode="Rrule">4</td>
+                                 <td styleCode="Rrule">3.2</td>
+                                 <td styleCode="Rrule">0.8</td>
+                              </tr>
+                           </tbody>
+                        </table>
+                        <table width="60%" ID="Table2">
+                           <caption>Table 2: Total Number of Days with Unscheduled Spotting</caption>
+                           <col width="20%" align="center" valign="top"/>
+                           <col width="15%" align="center" valign="top"/>
+                           <col width="15%" align="center" valign="top"/>
+                           <col width="15%" align="center" valign="top"/>
+                           <col width="15%" align="center" valign="top"/>
+                           <col width="20%" align="center" valign="top"/>
+                           <thead>
+                              <tr>
+                                 <th styleCode="Rrule Lrule">91-Day Treatment Cycle</th>
+                                 <th colspan="4" styleCode="Botrule Rrule" valign="middle">Days per 84-Day Interval</th>
+                                 <th styleCode="Rrule Botrule">Days per 28-Day Interval</th>
+                              </tr>
+                              <tr>
+                                 <th styleCode="Rrule Lrule"/>
+                                 <th styleCode="Rrule">Q1</th>
+                                 <th styleCode="Rrule">Median</th>
+                                 <th styleCode="Rrule">Q3</th>
+                                 <th styleCode="Rrule">Mean</th>
+                                 <th styleCode="Rrule">Mean</th>
+                              </tr>
+                           </thead>
+                           <tfoot>
+                              <tr>
+                                 <td colspan="6" align="left" valign="top">Q1=Quartile 1: 25% of women had ≤ this number of days of unscheduled spotting 
+     <br/>  Median: 50% of women had ≤ this number of days of unscheduled spotting 
+     <br/>  Q3=Quartile 3: 75% of women had ≤ this number of days of unscheduled spotting
+    </td>
+                              </tr>
+                           </tfoot>
+                           <tbody>
+                              <tr styleCode="Botrule">
+                                 <td styleCode="Rrule Lrule">1st</td>
+                                 <td styleCode="Rrule">1</td>
+                                 <td styleCode="Rrule">4</td>
+                                 <td styleCode="Rrule">11</td>
+                                 <td styleCode="Rrule">7.4</td>
+                                 <td styleCode="Rrule">1.9</td>
+                              </tr>
+                              <tr>
+                                 <td styleCode="Rrule Lrule">4th</td>
+                                 <td styleCode="Rrule">0</td>
+                                 <td styleCode="Rrule">2</td>
+                                 <td styleCode="Rrule">7</td>
+                                 <td styleCode="Rrule">4.4</td>
+                                 <td styleCode="Rrule">1.1</td>
+                              </tr>
+                           </tbody>
+                        </table>
+                        <paragraph>Figure 1 shows the percentage of levonorgestrel/ethinyl estradiol tablets and ethinyl estradiol tablets subjects participating in trial PSE-301 with ≥ 7 days or ≥ 20 days of unscheduled bleeding and/or spotting, or only unscheduled bleeding, during each 91-day treatment cycle.</paragraph>
+                        <table width="100%" styleCode="Noautorules">
+                           <caption>Figure 1: Percent of Women Taking Levonorgestrel and Ethinyl Estradiol Tablets and Ethinyl Estradiol Tablets who Reported Unscheduled Bleeding and/or Spotting or only Unscheduled Bleeding</caption>
+                           <col width="100%" align="center" valign="top"/>
+                           <tbody>
+                              <tr>
+                                 <td>
+                                    <renderMultiMedia referencedObject="MM1"/>
+                                 </td>
+                              </tr>
+                           </tbody>
+                        </table>
+                        <paragraph>Amenorrhea sometimes occurs in women who are using COCs. Pregnancy should be ruled out in the event of amenorrhea. Some women may encounter amenorrhea or oligomenorrhea after stopping COCs, especially when such a condition was pre-existent.</paragraph>
+                     </text>
+                     <effectiveTime value="20220816"/>
+                     <component>
+                        <observationMedia ID="MM1">
+                           <text>Figure 1</text>
+                           <value mediaType="image/jpeg" xsi:type="ED">
+                              <reference value="amethia-01.jpg"/>
+                           </value>
+                        </observationMedia>
+                     </component>
+                  </section>
+               </component>
+               <component>
+                  <section ID="S5.10">
+                     <id root="129c30f2-85e9-59ee-e063-6294a90aef97"/>
+                     <code code="42229-5" codeSystem="2.16.840.1.113883.6.1" displayName="SPL UNCLASSIFIED SECTION"/>
+                     <title>5.10 COC Use Before or During Early Pregnancy</title>
+                     <text>
+                        <paragraph>Extensive epidemiological studies have revealed no increased risk of birth defects in women who have used oral contraceptives prior to pregnancy. Studies also do not suggest a teratogenic effect, particularly in so far as cardiac anomalies and limb-reduction defects are concerned, when taken inadvertently during early pregnancy. Oral contraceptive use should be discontinued if pregnancy is confirmed.</paragraph>
+                        <paragraph>The administration of oral contraceptives to induce withdrawal bleeding should not be used as a test for pregnancy
+ 
+  <content styleCode="italics">[see
+  
+   <linkHtml href="#S8.1">Use in Specific Populations (8.1)</linkHtml>]
+ 
+  </content>.
+
+ </paragraph>
+                     </text>
+                     <effectiveTime value="20220816"/>
+                  </section>
+               </component>
+               <component>
+                  <section ID="S5.11">
+                     <id root="129c30f2-85ea-59ee-e063-6294a90aef97"/>
+                     <code code="42229-5" codeSystem="2.16.840.1.113883.6.1" displayName="SPL UNCLASSIFIED SECTION"/>
+                     <title>5.11 Emotional Disorders</title>
+                     <text>
+                        <paragraph>Women with a history of depression should be carefully observed and AMETHIA tablets discontinued if depression recurs to a serious degree.</paragraph>
+                     </text>
+                     <effectiveTime value="20220816"/>
+                  </section>
+               </component>
+               <component>
+                  <section ID="S5.12">
+                     <id root="129c30f2-85eb-59ee-e063-6294a90aef97"/>
+                     <code code="42229-5" codeSystem="2.16.840.1.113883.6.1" displayName="SPL UNCLASSIFIED SECTION"/>
+                     <title>5.12 Interference with Laboratory Tests</title>
+                     <text>
+                        <paragraph>The use of COCs may change the results of some laboratory tests, such as coagulation factors, lipids, glucose tolerance, and binding proteins. Women on thyroid hormone replacement therapy may need increased doses of thyroid hormone because serum concentrations of thyroid binding globulin increase with use of COCs.</paragraph>
+                     </text>
+                     <effectiveTime value="20220816"/>
+                  </section>
+               </component>
+               <component>
+                  <section ID="S5.13">
+                     <id root="129c30f2-85ec-59ee-e063-6294a90aef97"/>
+                     <code code="42229-5" codeSystem="2.16.840.1.113883.6.1" displayName="SPL UNCLASSIFIED SECTION"/>
+                     <title>5.13 Monitoring</title>
+                     <text>
+                        <paragraph>A woman who is taking COCs should have a yearly visit with her healthcare provider for a blood pressure check and for other indicated health care.</paragraph>
+                     </text>
+                     <effectiveTime value="20220816"/>
+                  </section>
+               </component>
+               <component>
+                  <section ID="S5.14">
+                     <id root="129c30f2-85ed-59ee-e063-6294a90aef97"/>
+                     <code code="42229-5" codeSystem="2.16.840.1.113883.6.1" displayName="SPL UNCLASSIFIED SECTION"/>
+                     <title>5.14 Other Conditions</title>
+                     <text>
+                        <paragraph>In women with hereditary angioedema, exogenous estrogens may induce or exacerbate symptoms of angioedema. Chloasma may occasionally occur, especially in women with a history of chloasma gravidarum. Women with a tendency to chloasma should avoid exposure to the sun or ultraviolet radiation while taking COCs.</paragraph>
+                     </text>
+                     <effectiveTime value="20220816"/>
+                  </section>
+               </component>
+            </section>
+         </component>
+         <component>
+            <section ID="S6">
+               <id root="129c30f2-85ee-59ee-e063-6294a90aef97"/>
+               <code code="34084-4" codeSystem="2.16.840.1.113883.6.1" displayName="ADVERSE REACTIONS SECTION"/>
+               <title>6. ADVERSE REACTIONS</title>
+               <text>
+                  <paragraph>The following serious adverse reactions with the use of COCs are discussed elsewhere in the labeling:</paragraph>
+                  <list listType="unordered" styleCode="Disc">
+                     <item>Serious cardiovascular events and smoking
+  
+   <content styleCode="italics">[see
+   
+    <linkHtml href="#BOX">Boxed Warning</linkHtml>and
+   
+    <linkHtml href="#S5.1">Warnings and Precautions (5.1)</linkHtml>]
+  
+   </content>
+                     </item>
+                     <item>Vascular events
+  
+   <content styleCode="italics">[see
+   
+    <linkHtml href="#S5.1">Warnings and Precautions (5.1)</linkHtml>]
+  
+   </content>
+                     </item>
+                     <item>Liver disease
+  
+   <content styleCode="italics">[see
+   
+    <linkHtml href="#S5.3">Warnings and Precautions (5.3)</linkHtml>]
+  
+   </content>
+                     </item>
+                  </list>
+                  <paragraph>Adverse reactions commonly reported by COC users are:</paragraph>
+                  <list listType="unordered" styleCode="Disc">
+                     <item>Irregular uterine bleeding</item>
+                     <item>Nausea</item>
+                     <item>Breast tenderness</item>
+                     <item>Headache</item>
+                  </list>
+               </text>
+               <effectiveTime value="20220816"/>
+               <excerpt>
+                  <highlight>
+                     <text>
+                        <paragraph>The most common adverse reactions (≥5%) in clinical trials for levonorgestrel/ethinyl estradiol tablets and ethinyl estradiol tablets are irregular and/or heavy uterine bleeding, weight gain, and acne. (
+ 
+    <linkHtml href="#S6">6</linkHtml>)
+
+   </paragraph>
+                        <br/>
+                        <paragraph>
+                           <content styleCode="bold">To report SUSPECTED ADVERSE REACTIONS, contact Mayne Pharma. at 1-844 -825-8500 or FDA at 1-800-FDA-1088 or
+  
+     <content styleCode="italics">www.fda.gov/medwatch</content>.
+ 
+    </content>
+                        </paragraph>
+                     </text>
+                  </highlight>
+               </excerpt>
+               <component>
+                  <section ID="S6.1">
+                     <id root="129c30f2-85ef-59ee-e063-6294a90aef97"/>
+                     <code code="90374-0" codeSystem="2.16.840.1.113883.6.1" displayName="CLINICAL TRIALS EXPERIENCE SECTION"/>
+                     <title>6.1 Clinical Trial Experience</title>
+                     <text>
+                        <paragraph>Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to the rates in the clinical trials of another drug and may not reflect the rates observed in practice.</paragraph>
+                        <paragraph>The clinical trial that evaluated the safety and efficacy of levonorgestrel/ethinyl estradiol tablets and ethinyl estradiol tablets was a 12-month, randomized, multicenter, open-label study, which enrolled women aged 18-40, of whom 1,006 took at least one dose of levonorgestrel/ethinyl estradiol tablets and ethinyl estradiol tablets.</paragraph>
+                     </text>
+                     <effectiveTime value="20220816"/>
+                     <component>
+                        <section>
+                           <id root="129c30f2-85f0-59ee-e063-6294a90aef97"/>
+                           <code code="42229-5" codeSystem="2.16.840.1.113883.6.1" displayName="SPL UNCLASSIFIED SECTION"/>
+                           <text>
+                              <paragraph>
+                                 <content styleCode="bold">Adverse Reactions Leading to Study Discontinuation</content>: 16.3% of the women discontinued from the clinical trial due to an adverse reaction; the most common adverse reactions (≥ 1% of women) leading to discontinuation were irregular and/or heavy uterine bleeding (5.9%), weight gain (2.4%), mood changes (1.5%), and acne (1.0%).
+
+ </paragraph>
+                           </text>
+                           <effectiveTime value="20220816"/>
+                        </section>
+                     </component>
+                     <component>
+                        <section>
+                           <id root="129c30f2-85f1-59ee-e063-6294a90aef97"/>
+                           <code code="42229-5" codeSystem="2.16.840.1.113883.6.1" displayName="SPL UNCLASSIFIED SECTION"/>
+                           <text>
+                              <paragraph>
+                                 <content styleCode="bold">Common Treatment-Emergent Adverse Reactions (≥ 5% of women)</content>: irregular and/or heavy uterine bleeding (17%), weight gain (5%), acne (5%).
+
+ </paragraph>
+                           </text>
+                           <effectiveTime value="20220816"/>
+                        </section>
+                     </component>
+                     <component>
+                        <section>
+                           <id root="129c30f2-85f2-59ee-e063-6294a90aef97"/>
+                           <code code="42229-5" codeSystem="2.16.840.1.113883.6.1" displayName="SPL UNCLASSIFIED SECTION"/>
+                           <text>
+                              <paragraph>
+                                 <content styleCode="bold">Serious Adverse Reactions:</content>migraine, cholecystitis, cholelithiasis, pancreatitis, abdominal pain, and major depressive disorder.
+
+ </paragraph>
+                           </text>
+                           <effectiveTime value="20220816"/>
+                        </section>
+                     </component>
+                  </section>
+               </component>
+               <component>
+                  <section ID="S6.2">
+                     <id root="129c30f2-85f3-59ee-e063-6294a90aef97"/>
+                     <code code="90375-7" codeSystem="2.16.840.1.113883.6.1" displayName="POSTMARKETING EXPERIENCE SECTION"/>
+                     <title>6.2 Postmarketing Experience</title>
+                     <text>
+                        <paragraph>Five studies that compared breast cancer risk between ever-users (current or past use) of COCs and never-users of COCs reported no association between ever use of COCs and breast cancer risk, with effect estimates ranging from 0.90–1.12 (Figure 2).</paragraph>
+                        <paragraph>Three studies compared breast cancer risk between current or recent COC users (&lt;6 months since last use) and never users of COCs (Figure 2). One of these studies reported no association between breast cancer risk and COC use. The other two studies found an increased relative risk of 1.19–1.33 with current or recent use. Both of these studies found an increased risk of breast cancer with current use of longer duration, with relative risks ranging from 1.03 with less than one year of COC use to approximately 1.4 with more than 8-10 years of COC use.</paragraph>
+                        <table width="100%" styleCode="Noautorules">
+                           <caption>Figure 2: Relevant Studies of Risk of Breast Cancer with Combined Oral Contraceptives</caption>
+                           <col width="100%" align="center" valign="top"/>
+                           <tfoot>
+                              <tr>
+                                 <td align="left">RR = relative risk; OR = odds ratio; HR = hazard ratio. "ever COC" are females with current or past COC use; "never COC use" are females that never used COCs.</td>
+                              </tr>
+                           </tfoot>
+                           <tbody>
+                              <tr>
+                                 <td>
+                                    <renderMultiMedia referencedObject="MM2"/>
+                                 </td>
+                              </tr>
+                           </tbody>
+                        </table>
+                        <paragraph>The following adverse reactions have been identified during post-approval use of levonorgestrel/ethinyl estradiol tablets and ethinyl estradiol tablets. Because these reactions are reported voluntarily from a population of uncertain size, it is not possible to reliably estimate their frequency or establish a causal relationship to drug exposure.</paragraph>
+                        <paragraph>
+                           <content styleCode="italics">Gastrointestinal disorders</content>: abdominal distension, vomiting
+
+ </paragraph>
+                        <paragraph>
+                           <content styleCode="italics">General disorders and administration site conditions</content>: chest pain, fatigue, malaise, edema peripheral, pain
+
+ </paragraph>
+                        <paragraph>
+                           <content styleCode="italics">Immune system disorders</content>: hypersensitivity reaction
+
+ </paragraph>
+                        <paragraph>
+                           <content styleCode="italics">Investigations:</content>blood pressure increased
+
+ </paragraph>
+                        <paragraph>
+                           <content styleCode="italics">Musculoskeletal and connective tissue disorders</content>: muscle spasms, pain in extremity
+
+ </paragraph>
+                        <paragraph>
+                           <content styleCode="italics">Nervous system disorders</content>: dizziness, loss of consciousness
+
+ </paragraph>
+                        <paragraph>
+                           <content styleCode="italics">Psychiatric disorders</content>: insomnia
+
+ </paragraph>
+                        <paragraph>
+                           <content styleCode="italics">Reproductive and breast disorders</content>: dysmenorrhea
+
+ </paragraph>
+                        <paragraph>
+                           <content styleCode="italics">Respiratory, thoracic and mediastinal disorders:</content>pulmonary embolism, pulmonary thrombosis
+
+ </paragraph>
+                        <paragraph>
+                           <content styleCode="italics">Skin and subcutaneous tissue disorders</content>: alopecia
+
+ </paragraph>
+                        <paragraph>
+                           <content styleCode="italics">Vascular disorders</content>: thrombosis
+
+ </paragraph>
+                     </text>
+                     <effectiveTime value="20220816"/>
+                     <component>
+                        <observationMedia ID="MM2">
+                           <text>Figure 2</text>
+                           <value mediaType="image/jpeg" xsi:type="ED">
+                              <reference value="amethia-02.jpg"/>
+                           </value>
+                        </observationMedia>
+                     </component>
+                  </section>
+               </component>
+            </section>
+         </component>
+         <component>
+            <section ID="S7">
+               <id root="129c30f2-85f4-59ee-e063-6294a90aef97"/>
+               <code code="34073-7" codeSystem="2.16.840.1.113883.6.1" displayName="DRUG INTERACTIONS SECTION"/>
+               <title>7. DRUG INTERACTIONS</title>
+               <text>
+                  <paragraph>No drug-drug interaction studies were conducted with AMETHIA tablets.</paragraph>
+               </text>
+               <effectiveTime value="20220816"/>
+               <excerpt>
+                  <highlight>
+                     <text>
+                        <paragraph>Drugs or herbal products that induce certain enzymes, including CYP3A4, may decrease the effectiveness of COCs or increase breakthrough bleeding. Counsel patients to use a back-up method or alternative method of contraception when enzyme inducers are used with COCs. (
+ 
+    <linkHtml href="#S7.1">7.1</linkHtml>)
+
+   </paragraph>
+                     </text>
+                  </highlight>
+               </excerpt>
+               <component>
+                  <section ID="S7.1">
+                     <id root="129c30f2-85f5-59ee-e063-6294a90aef97"/>
+                     <code code="42229-5" codeSystem="2.16.840.1.113883.6.1" displayName="SPL UNCLASSIFIED SECTION"/>
+                     <title>7.1 Changes in Contraceptive Effectiveness Associated with Co-Administration of Other Products</title>
+                     <text>
+                        <paragraph>If a woman on hormonal contraceptives takes a drug or herbal product that induces enzymes, including CYP3A4, that metabolize contraceptive hormones, counsel her to use additional contraception or a different method of contraception. Drugs or herbal products that induce such enzymes may decrease the plasma concentrations of contraceptive hormones, and may decrease the effectiveness of hormonal contraceptives or increase breakthrough bleeding. Some drugs or herbal products that may decrease the effectiveness of hormonal contraceptives include:</paragraph>
+                        <list listType="unordered">
+                           <item>barbiturates</item>
+                           <item>bosentan</item>
+                           <item>carbamazepine</item>
+                           <item>felbamate</item>
+                           <item>griseofulvin</item>
+                           <item>oxcarbazepine</item>
+                           <item>phenytoin</item>
+                           <item>rifampin</item>
+                           <item>St. John's wort</item>
+                           <item>topiramate</item>
+                        </list>
+                     </text>
+                     <effectiveTime value="20220816"/>
+                     <component>
+                        <section>
+                           <id root="129c30f2-85f6-59ee-e063-6294a90aef97"/>
+                           <code code="42229-5" codeSystem="2.16.840.1.113883.6.1" displayName="SPL UNCLASSIFIED SECTION"/>
+                           <text>
+                              <paragraph>
+                                 <content styleCode="underline">HIV protease inhibitors and non-nucleoside reverse transcriptase inhibitors</content>: Significant changes (increase or decrease) in the plasma levels of the estrogen and progestin have been noted in some cases of co-administration of HIV protease inhibitors or with non-nucleoside reverse transcriptase inhibitors.
+
+ </paragraph>
+                           </text>
+                           <effectiveTime value="20220816"/>
+                        </section>
+                     </component>
+                     <component>
+                        <section>
+                           <id root="129c30f2-85f7-59ee-e063-6294a90aef97"/>
+                           <code code="42229-5" codeSystem="2.16.840.1.113883.6.1" displayName="SPL UNCLASSIFIED SECTION"/>
+                           <text>
+                              <paragraph>
+                                 <content styleCode="underline">Antibiotics</content>: There have been reports of pregnancy while taking hormonal contraceptives and antibiotics, but clinical pharmacokinetic studies have not shown consistent effects of antibiotics on plasma concentrations of synthetic steroids.
+
+ </paragraph>
+                              <paragraph>Consult the labeling of all concurrently-used drugs to obtain further information about interactions with hormonal contraceptives or the potential for enzyme alterations.</paragraph>
+                           </text>
+                           <effectiveTime value="20220816"/>
+                        </section>
+                     </component>
+                  </section>
+               </component>
+               <component>
+                  <section>
+                     <id root="129c30f2-85f8-59ee-e063-6294a90aef97"/>
+                     <code code="42229-5" codeSystem="2.16.840.1.113883.6.1" displayName="SPL UNCLASSIFIED SECTION"/>
+                     <title>7.2 Increase in Plasma Levels of Estradiol Associated with Co-Administered Drugs</title>
+                     <text>
+                        <paragraph>Co-administration of atorvastatin and certain COCs containing ethinyl estradiol increase AUC values for ethinyl estradiol by approximately 20%. Ascorbic acid and acetaminophen may increase plasma ethinyl estradiol levels, possibly by inhibition of conjugation. CYP3A4 inhibitors such as itraconazole or ketoconazole may increase plasma hormone levels.</paragraph>
+                     </text>
+                     <effectiveTime value="20220816"/>
+                  </section>
+               </component>
+               <component>
+                  <section>
+                     <id root="129c30f2-85f9-59ee-e063-6294a90aef97"/>
+                     <code code="42229-5" codeSystem="2.16.840.1.113883.6.1" displayName="SPL UNCLASSIFIED SECTION"/>
+                     <title>7.3 Concomitant Use with Hepatitis C Vaccine (HCV) Combination Therapy – Liver Enzyme Elevation</title>
+                     <text>
+                        <paragraph>Do not co-administer AMETHIA tablets with HCV drug combinations containing ombitasvir/paritaprevir/ritonavir, with or without dasabuvir, due to potential for ALT elevations
+ 
+  <content styleCode="italics">[see
+  
+   <linkHtml href="#S5.4">Warnings and Precautions (5.4)</linkHtml>]
+ 
+  </content>.
+
+ </paragraph>
+                     </text>
+                     <effectiveTime value="20220816"/>
+                  </section>
+               </component>
+               <component>
+                  <section>
+                     <id root="129c30f2-85fa-59ee-e063-6294a90aef97"/>
+                     <code code="42229-5" codeSystem="2.16.840.1.113883.6.1" displayName="SPL UNCLASSIFIED SECTION"/>
+                     <title>7.4 Changes in Plasma Levels of Co-Administered Drugs</title>
+                     <text>
+                        <paragraph>COCs containing some synthetic estrogens (e.g., ethinyl estradiol) may inhibit the metabolism of other compounds. COCs have been shown to significantly decrease plasma concentrations of lamotrigine likely due to induction of lamotrigine glucuronidation. This may reduce seizure control; therefore, dosage adjustments of lamotrigine may be necessary. Consult the labeling of the concurrently-used drug to obtain further information about interactions with COCs or the potential for enzyme alterations.</paragraph>
+                     </text>
+                     <effectiveTime value="20220816"/>
+                  </section>
+               </component>
+            </section>
+         </component>
+         <component>
+            <section ID="S8">
+               <id root="129c30f2-85fb-59ee-e063-6294a90aef97"/>
+               <code code="43684-0" codeSystem="2.16.840.1.113883.6.1" displayName="USE IN SPECIFIC POPULATIONS SECTION"/>
+               <title>8. USE IN SPECIFIC POPULATIONS</title>
+               <effectiveTime value="20220816"/>
+               <excerpt>
+                  <highlight>
+                     <text>
+                        <list listType="unordered" styleCode="Disc">
+                           <item>Nursing Mothers: Not recommended for nursing mothers; can decrease milk production. (
+  
+     <linkHtml href="#S8.3">8.3</linkHtml>)
+ 
+    </item>
+                        </list>
+                     </text>
+                  </highlight>
+               </excerpt>
+               <component>
+                  <section ID="S8.1">
+                     <id root="129c30f2-85fc-59ee-e063-6294a90aef97"/>
+                     <code code="42228-7" codeSystem="2.16.840.1.113883.6.1" displayName="PREGNANCY SECTION"/>
+                     <title>8.1 Pregnancy</title>
+                     <text>
+                        <paragraph>There is little or no increased risk of birth defects in women who inadvertently use COCs during early pregnancy. Epidemiologic studies and meta-analyses have not found an increased risk of genital or non-genital birth defects (including cardiac anomalies and limb-reduction defects) following exposure to low dose COCs prior to conception or during early pregnancy.</paragraph>
+                        <paragraph>The administration of COCs to induce withdrawal bleeding should not be used as a test for pregnancy. COCs should not be used during pregnancy to treat threatened or habitual abortion.</paragraph>
+                        <paragraph>Women who do not breastfeed may start COCs no earlier than four to six weeks postpartum.</paragraph>
+                     </text>
+                     <effectiveTime value="20220816"/>
+                  </section>
+               </component>
+               <component>
+                  <section ID="S8.3">
+                     <id root="129c30f2-85fd-59ee-e063-6294a90aef97"/>
+                     <code code="34080-2" codeSystem="2.16.840.1.113883.6.1" displayName="NURSING MOTHERS SECTION"/>
+                     <title>8.3 Nursing Mothers</title>
+                     <text>
+                        <paragraph>When possible, advise the nursing mother to use other forms of contraception until she has weaned her child. Estrogen-containing COCs can reduce milk production in breastfeeding mothers. This is less likely to occur once breastfeeding is well established; however, it can occur at any time in some women. Small amounts of oral contraceptive steroids and/or metabolites are present in breast milk.</paragraph>
+                     </text>
+                     <effectiveTime value="20220816"/>
+                  </section>
+               </component>
+               <component>
+                  <section ID="S8.4">
+                     <id root="129c30f2-85fe-59ee-e063-6294a90aef97"/>
+                     <code code="34081-0" codeSystem="2.16.840.1.113883.6.1" displayName="PEDIATRIC USE SECTION"/>
+                     <title>8.4 Pediatric Use</title>
+                     <text>
+                        <paragraph>Safety and efficacy of AMETHIA tablets have been established in women of reproductive age. Safety and efficacy are expected to be the same for postpubertal adolescents under the age of 18 as for users 18 years and older. Use of AMETHIA tablets before menarche is not indicated.</paragraph>
+                     </text>
+                     <effectiveTime value="20220816"/>
+                  </section>
+               </component>
+               <component>
+                  <section ID="S8.5">
+                     <id root="129c30f2-85ff-59ee-e063-6294a90aef97"/>
+                     <code code="34082-8" codeSystem="2.16.840.1.113883.6.1" displayName="GERIATRIC USE SECTION"/>
+                     <title>8.5 Geriatric Use</title>
+                     <text>
+                        <paragraph>AMETHIA tablets have not been studied in women who have reached menopause and is not indicated in this population.</paragraph>
+                     </text>
+                     <effectiveTime value="20220816"/>
+                  </section>
+               </component>
+               <component>
+                  <section ID="S8.6">
+                     <id root="129c30f2-8600-59ee-e063-6294a90aef97"/>
+                     <code code="88829-7" codeSystem="2.16.840.1.113883.6.1" displayName="HEPATIC IMPAIRMENT SUBSECTION"/>
+                     <title>8.6 Hepatic Impairment</title>
+                     <text>
+                        <paragraph>No studies have been conducted to evaluate the effect of hepatic disease on the disposition of AMETHIA tablets. However, steroid hormones may be poorly metabolized in patients with impaired liver function. Acute or chronic disturbances of liver function may necessitate the discontinuation of COC use until markers of liver function return to normal.
+ 
+  <content styleCode="italics">[See
+  
+   <linkHtml href="#S4">Contraindications (4)</linkHtml>and
+  
+   <linkHtml href="#S5.3">Warnings and Precautions (5.3)</linkHtml>].
+ 
+  </content>
+                        </paragraph>
+                     </text>
+                     <effectiveTime value="20220816"/>
+                  </section>
+               </component>
+               <component>
+                  <section ID="S8.7">
+                     <id root="129c30f2-8601-59ee-e063-6294a90aef97"/>
+                     <code code="88828-9" codeSystem="2.16.840.1.113883.6.1" displayName="RENAL IMPAIRMENT SUBSECTION"/>
+                     <title>8.7 Renal Impairment</title>
+                     <text>
+                        <paragraph>No studies have been conducted to evaluate the effect of renal disease on the disposition of AMETHIA tablets.</paragraph>
+                     </text>
+                     <effectiveTime value="20220816"/>
+                  </section>
+               </component>
+            </section>
+         </component>
+         <component>
+            <section ID="S10">
+               <id root="129c30f2-8602-59ee-e063-6294a90aef97"/>
+               <code code="34088-5" codeSystem="2.16.840.1.113883.6.1" displayName="OVERDOSAGE SECTION"/>
+               <title>10. OVERDOSAGE</title>
+               <text>
+                  <paragraph>There have been no reports of serious ill effects from overdose of oral contraceptives, including ingestion by children. Overdosage may cause withdrawal bleeding in females and nausea.</paragraph>
+               </text>
+               <effectiveTime value="20220816"/>
+            </section>
+         </component>
+         <component>
+            <section ID="S11">
+               <id root="129c30f2-8603-59ee-e063-6294a90aef97"/>
+               <code code="34089-3" codeSystem="2.16.840.1.113883.6.1" displayName="DESCRIPTION SECTION"/>
+               <title>11. DESCRIPTION</title>
+               <text>
+                  <paragraph>AMETHIA tablets are an extended-cycle oral contraceptive consisting of 84 white tablets each containing 0.15 mg of levonorgestrel, a synthetic progestogen and 0.03 mg of ethinyl estradiol, and 7 light blue tablets containing 0.01 mg of ethinyl estradiol.</paragraph>
+                  <paragraph>The structural formulas for the active components are:</paragraph>
+                  <renderMultiMedia referencedObject="MM3"/>
+                  <paragraph>Levonorgestrel is chemically 18,19-Dinorpregn-4-en-20-yn-3-one, 13-ethyl-17-hydroxy-, (17α)-, (-)-.</paragraph>
+                  <renderMultiMedia referencedObject="MM4"/>
+                  <paragraph>Ethinyl Estradiol is 19-Norpregna-1,3,5(10)-trien-20-yne-3,17-diol, (17α)-.</paragraph>
+                  <paragraph>
+                     <content styleCode="italics">Each white tablet contains the following inactive ingredients</content>: lactose monohydrate, microcrystalline cellulose, povidone, croscarmellose sodium and magnesium stearate.
+
+ </paragraph>
+                  <paragraph>
+                     <content styleCode="italics">Each light blue tablet contains the following inactive ingredients</content>: vitamin E, anhydrous lactose, povidone, FD&amp;C Blue #1, colloidal silicon dioxide, corn starch and stearic acid.
+
+ </paragraph>
+               </text>
+               <effectiveTime value="20220816"/>
+               <component>
+                  <observationMedia ID="MM3">
+                     <text>Chemical Structure</text>
+                     <value mediaType="image/jpeg" xsi:type="ED">
+                        <reference value="amethia-03.jpg"/>
+                     </value>
+                  </observationMedia>
+               </component>
+               <component>
+                  <observationMedia ID="MM4">
+                     <text>Chemical Structure</text>
+                     <value mediaType="image/jpeg" xsi:type="ED">
+                        <reference value="amethia-04.jpg"/>
+                     </value>
+                  </observationMedia>
+               </component>
+            </section>
+         </component>
+         <component>
+            <section ID="S12">
+               <id root="129c30f2-8604-59ee-e063-6294a90aef97"/>
+               <code code="34090-1" codeSystem="2.16.840.1.113883.6.1" displayName="CLINICAL PHARMACOLOGY SECTION"/>
+               <title>12. CLINICAL PHARMACOLOGY</title>
+               <effectiveTime value="20220816"/>
+               <component>
+                  <section ID="S12.1">
+                     <id root="129c30f2-8605-59ee-e063-6294a90aef97"/>
+                     <code code="43679-0" codeSystem="2.16.840.1.113883.6.1" displayName="MECHANISM OF ACTION SECTION"/>
+                     <title>12.1 Mechanism of action</title>
+                     <text>
+                        <paragraph>COCs lower the risk of becoming pregnant primarily by suppressing ovulation. Other possible mechanisms may include cervical mucus changes that inhibit sperm penetration and endometrial changes that reduce the likelihood of implantation.</paragraph>
+                     </text>
+                     <effectiveTime value="20220816"/>
+                  </section>
+               </component>
+               <component>
+                  <section ID="S12.3">
+                     <id root="129c30f2-8606-59ee-e063-6294a90aef97"/>
+                     <code code="43682-4" codeSystem="2.16.840.1.113883.6.1" displayName="PHARMACOKINETICS SECTION"/>
+                     <title>12.3. Pharmacokinetics</title>
+                     <effectiveTime value="20220816"/>
+                     <component>
+                        <section>
+                           <id root="129c30f2-8607-59ee-e063-6294a90aef97"/>
+                           <code code="42229-5" codeSystem="2.16.840.1.113883.6.1" displayName="SPL UNCLASSIFIED SECTION"/>
+                           <text>
+                              <paragraph>
+                                 <content styleCode="italics">Absorption</content>
+                              </paragraph>
+                              <paragraph>Ethinyl estradiol and levonorgestrel are absorbed with maximum plasma concentrations occurring within 2 hours after AMETHIA tablets administration. Levonorgestrel is completely absorbed after oral administration (bioavailability nearly 100%) and is not subject to first- pass metabolism. Ethinyl estradiol is absorbed from the gastrointestinal tract but, due to first-pass metabolism in gut mucosa and liver, the bioavailability of ethinyl estradiol is approximately 43%.</paragraph>
+                              <paragraph>The daily exposure to levonorgestrel and ethinyl estradiol on Day 21, corresponding to the end of a typical 3-week contraceptive regimen, and on Day 84, at the end of an extended cycle regimen, were similar. There was no additional accumulation of ethinyl estradiol after dosing a 0.03 mg ethinyl estradiol tablet during Days 84-91. The mean plasma pharmacokinetic parameters of AMETHIA tablets following a single dose of one levonorgestrel/ethinyl estradiol combination tablet, for 84 days, in normal healthy women are reported in Table 3.</paragraph>
+                              <table width="75%" ID="Table3">
+                                 <caption>Table 3: Mean Pharmacokinetic Parameters for Levonorgestrel/Ethinyl Estradiol tablets and Ethinyl Estradiol during Daily One Tablet Dosing for 84 Days</caption>
+                                 <col width="10%" align="center" valign="top"/>
+                                 <col width="35%" align="center" valign="top"/>
+                                 <col width="28%" align="center" valign="top"/>
+                                 <col width="27%" align="center" valign="top"/>
+                                 <thead>
+                                    <tr>
+                                       <th/>
+                                       <th>AUC
+    
+     <sub>0-24 hr</sub>
+                                          <br/>  (mean ± SD)
+   
+    </th>
+                                       <th>C
+    
+     <sub>max</sub>
+                                          <br/>  (mean ± SD)
+   
+    </th>
+                                       <th>T
+    
+     <sub>max</sub>
+                                          <br/>  (mean ± SD)
+   
+    </th>
+                                    </tr>
+                                 </thead>
+                                 <tbody>
+                                    <tr styleCode="Botrule">
+                                       <td/>
+                                       <td/>
+                                       <td>
+                                          <content styleCode="bold">Levonorgestrel</content>
+                                       </td>
+                                       <td/>
+                                    </tr>
+                                    <tr styleCode="Botrule">
+                                       <td>Day 1</td>
+                                       <td>18.2 ± 6.1 ng∙hr/mL</td>
+                                       <td>3.0 ± 1.0 ng/mL</td>
+                                       <td>1.3 ± 0.4 hours</td>
+                                    </tr>
+                                    <tr styleCode="Botrule">
+                                       <td>Day 21</td>
+                                       <td>64.4 ± 25.1 ng∙hr/mL</td>
+                                       <td>6.2 ± 1.6 ng/mL</td>
+                                       <td>1.3 ± 0.4 hours</td>
+                                    </tr>
+                                    <tr styleCode="Botrule">
+                                       <td>Day 84</td>
+                                       <td>60.2 ± 24.6 ng∙hr/mL</td>
+                                       <td>5.5 ± 1.6 ng/mL</td>
+                                       <td>1.3 ± 0.3 hours</td>
+                                    </tr>
+                                    <tr styleCode="Botrule">
+                                       <td/>
+                                       <td/>
+                                       <td>
+                                          <content styleCode="bold">Ethinyl Estradiol</content>
+                                       </td>
+                                       <td/>
+                                    </tr>
+                                    <tr styleCode="Botrule">
+                                       <td>Day 1</td>
+                                       <td>509.3 ± 172.0 pg∙hr/mL</td>
+                                       <td>69.8 ± 26 pg/mL</td>
+                                       <td>1.5 ± 0.3 hours</td>
+                                    </tr>
+                                    <tr styleCode="Botrule">
+                                       <td>Day 21</td>
+                                       <td>837.1 ± 271.2 pg∙hr/mL</td>
+                                       <td>99.6 ± 31 pg/mL</td>
+                                       <td>1.5 ± 0.3 hours</td>
+                                    </tr>
+                                    <tr>
+                                       <td>Day 84</td>
+                                       <td>791.5 ± 215.0 pg∙hr/mL</td>
+                                       <td>91.3 ± 32 pg/mL</td>
+                                       <td>1.6 ± 0.3 hours</td>
+                                    </tr>
+                                 </tbody>
+                              </table>
+                              <paragraph>The effect of food on the rate and the extent of levonorgestrel and ethinyl estradiol absorption following oral administration of AMETHIA tablets has not been evaluated.</paragraph>
+                           </text>
+                           <effectiveTime value="20220816"/>
+                        </section>
+                     </component>
+                     <component>
+                        <section>
+                           <id root="129c30f2-8608-59ee-e063-6294a90aef97"/>
+                           <code code="42229-5" codeSystem="2.16.840.1.113883.6.1" displayName="SPL UNCLASSIFIED SECTION"/>
+                           <text>
+                              <paragraph>
+                                 <content styleCode="italics">Distribution</content>
+                              </paragraph>
+                              <paragraph>The apparent volume of distribution of levonorgestrel and ethinyl estradiol are reported to be approximately 1.8 L/kg and 4.3 L/kg, respectively. Levonorgestrel is about 97.5 - 99% protein-bound, principally to sex hormone binding globulin (SHBG) and, to a lesser extent, serum albumin. Ethinyl estradiol is about 95 - 97% bound to serum albumin. Ethinyl estradiol does not bind to SHBG, but induces SHBG synthesis, which leads to decreased levonorgestrel clearance. Following repeated daily dosing of levonorgestrel/ethinyl estradiol oral contraceptives, levonorgestrel plasma concentrations accumulate more than predicted based on single-dose pharmacokinetics, due in part, to increased SHBG levels that are induced by ethinyl estradiol, and a possible reduction in hepatic metabolic capacity.</paragraph>
+                           </text>
+                           <effectiveTime value="20220816"/>
+                        </section>
+                     </component>
+                     <component>
+                        <section>
+                           <id root="129c30f2-8609-59ee-e063-6294a90aef97"/>
+                           <code code="42229-5" codeSystem="2.16.840.1.113883.6.1" displayName="SPL UNCLASSIFIED SECTION"/>
+                           <text>
+                              <paragraph>
+                                 <content styleCode="italics">Metabolism</content>
+                              </paragraph>
+                              <paragraph>Following absorption, levonorgestrel is conjugated at the 17β-OH position to form sulfate and to a lesser extent, glucuronide conjugates in plasma. Significant amounts of conjugated and unconjugated 3α,5β- tetrahydrolevonorgestrel are also present in plasma, along with much smaller amounts of 3α,5α- tetrahydrolevonorgestrel and 16β-hydroxylevonorgestrel. Levonorgestrel and its phase I metabolites are excreted primarily as glucuronide conjugates. Metabolic clearance rates may differ among individuals by several-fold, and this may account in part for the wide variation observed in levonorgestrel concentrations among users.</paragraph>
+                              <paragraph>First-pass metabolism of ethinyl estradiol involves formation of ethinyl estradiol-3-sulfate in the gut wall, followed by 2-hydroxylation of a portion of the remaining untransformed ethinyl estradiol by hepatic cytochrome P-450 3A4 (CYP3A4). Levels of CYP3A4 vary widely among individuals and can explain the variation in rates of ethinyl estradiol hydroxylation. Hydroxylation at the 4-, 6-, and 16-positions may also occur, although to a much lesser extent than 2-hydroxylation. The various hydroxylated metabolites are subject to further methylation and/or conjugation.</paragraph>
+                           </text>
+                           <effectiveTime value="20220816"/>
+                        </section>
+                     </component>
+                     <component>
+                        <section>
+                           <id root="129c30f2-860a-59ee-e063-6294a90aef97"/>
+                           <code code="42229-5" codeSystem="2.16.840.1.113883.6.1" displayName="SPL UNCLASSIFIED SECTION"/>
+                           <text>
+                              <paragraph>
+                                 <content styleCode="italics">Excretion</content>
+                              </paragraph>
+                              <paragraph>About 45% of levonorgestrel and its metabolites are excreted in the urine and about 32% are excreted in feces, mostly as glucuronide conjugates. The terminal elimination half-life for levonorgestrel after a single dose of AMETHIA tablets was about 34 hours.</paragraph>
+                              <paragraph>Ethinyl estradiol is excreted in the urine and feces as glucuronide and sulfate conjugates, and it undergoes enterohepatic recirculation. The terminal elimination half-life of ethinyl estradiol after a single dose of AMETHIA tablets was found to be about 18 hours.</paragraph>
+                           </text>
+                           <effectiveTime value="20220816"/>
+                        </section>
+                     </component>
+                     <component>
+                        <section>
+                           <id root="129c30f2-860b-59ee-e063-6294a90aef97"/>
+                           <code code="42229-5" codeSystem="2.16.840.1.113883.6.1" displayName="SPL UNCLASSIFIED SECTION"/>
+                           <text>
+                              <paragraph>
+                                 <content styleCode="italics">Race</content>
+                              </paragraph>
+                              <paragraph>The effect of race on the pharmacokinetics of AMETHIA tablets has not been evaluated.</paragraph>
+                           </text>
+                           <effectiveTime value="20220816"/>
+                        </section>
+                     </component>
+                  </section>
+               </component>
+            </section>
+         </component>
+         <component>
+            <section ID="S13">
+               <id root="129c30f2-860c-59ee-e063-6294a90aef97"/>
+               <code code="43680-8" codeSystem="2.16.840.1.113883.6.1" displayName="NONCLINICAL TOXICOLOGY SECTION"/>
+               <title>13. NONCLINICAL TOXICOLOGY</title>
+               <effectiveTime value="20220816"/>
+               <component>
+                  <section ID="S13.1">
+                     <id root="129c30f2-860d-59ee-e063-6294a90aef97"/>
+                     <code code="34083-6" codeSystem="2.16.840.1.113883.6.1" displayName="CARCINOGENESIS &amp; MUTAGENESIS &amp; IMPAIRMENT OF FERTILITY SECTION"/>
+                     <title>13.1. Carcinogenesis, Mutagenesis, Impairment of Fertility</title>
+                     <text>
+                        <paragraph>
+                           <content styleCode="italics">[See
+  
+   <linkHtml href="#S5.2">Warnings and Precautions (5.2</linkHtml>,
+  
+   <linkHtml href="#S5.3">5.3)</linkHtml>].
+ 
+  </content>
+                        </paragraph>
+                     </text>
+                     <effectiveTime value="20220816"/>
+                  </section>
+               </component>
+            </section>
+         </component>
+         <component>
+            <section ID="S14">
+               <id root="129c30f2-860e-59ee-e063-6294a90aef97"/>
+               <code code="34092-7" codeSystem="2.16.840.1.113883.6.1" displayName="CLINICAL STUDIES SECTION"/>
+               <title>14. CLINICAL STUDIES</title>
+               <text>
+                  <paragraph>In a 12-month, multicenter, randomized, open-label clinical trial, 1,006 women aged 18-40 were studied to assess the safety and efficacy of levonorgestrel/ethinyl estradiol tablets and ethinyl estradiol tablets, completing the equivalent of 8,681 28-day cycles of exposure. The racial demographic of those enrolled was: Caucasian (80%), African-American (11%), Hispanic (5%), Asian (2%), and Other (2%). There were no exclusions for body mass index (BMI) or weight. The weight range of those women treated was 91 to 360 lbs., with a mean weight of 156 lbs. Among the women in the trial, 63% were current or recent hormonal contraceptive users, 26% were prior users (who had used hormonal contraceptives in the past but not in the 6 months prior to enrollment), and 11% were new starts. Of treated women, 14.8% were lost to follow-up, 16.3% discontinued due to an adverse event, and 12.9% discontinued by withdrawing their consent.</paragraph>
+                  <paragraph>The pregnancy rate (Pearl Index [PI]) in women aged 18-35 years was 1.34 pregnancies per 100 women-years of use (95% confidence interval 0.54-2.75), based on 7 pregnancies that occurred after the onset of treatment and within 14 days after the last combination pill. Cycles in which conception did not occur, but which included the use of backup contraception, were not included in the calculation of the PI. The PI includes patients who did not take the drug correctly.</paragraph>
+               </text>
+               <effectiveTime value="20220816"/>
+            </section>
+         </component>
+         <component>
+            <section ID="S16">
+               <id root="129c30f2-860f-59ee-e063-6294a90aef97"/>
+               <code code="34069-5" codeSystem="2.16.840.1.113883.6.1" displayName="HOW SUPPLIED SECTION"/>
+               <title>16. HOW SUPPLIED/STORAGE AND HANDLING</title>
+               <effectiveTime value="20220816"/>
+               <component>
+                  <section ID="S16.1">
+                     <id root="129c30f2-8610-59ee-e063-6294a90aef97"/>
+                     <code code="42229-5" codeSystem="2.16.840.1.113883.6.1" displayName="SPL UNCLASSIFIED SECTION"/>
+                     <title>16.1 How Supplied</title>
+                     <text>
+                        <paragraph>AMETHIA tablets, 0.15mg/0.03 mg and 0.01 mg are available in Extended-Cycle Tablet Dispensers (NDC 51862-047-01), each containing a 13-week supply of tablets: 84 white tablets, each containing 0.15 mg of levonorgestrel and 0.03 mg ethinyl estradiol, and 7 light blue tablets each containing 0.01 mg of ethinyl estradiol. The white tablets are round, flat face beveled edge, unscored tablets with
+ 
+  <content styleCode="bold">WATSON</content>on one side and
+ 
+  <content styleCode="bold">268</content>on the other side. The light blue tablets are round, flat face beveled edge, unscored tablets with
+ 
+  <content styleCode="bold">WATSON</content>on one side and
+ 
+  <content styleCode="bold">270</content>on the other side.
+
+ </paragraph>
+                        <paragraph>Box of 2 Extended-Cycle Tablet Dispensers</paragraph>
+                        <paragraph>NDC 51862-047-91</paragraph>
+                     </text>
+                     <effectiveTime value="20220816"/>
+                  </section>
+               </component>
+               <component>
+                  <section ID="S16.2">
+                     <id root="129c30f2-8611-59ee-e063-6294a90aef97"/>
+                     <code code="44425-7" codeSystem="2.16.840.1.113883.6.1" displayName="STORAGE AND HANDLING SECTION"/>
+                     <title>16.2 Storage Conditions</title>
+                     <text>
+                        <paragraph>Store at 20° to 25°C (68° to 77°F) [see USP Controlled Room Temperature].</paragraph>
+                     </text>
+                     <effectiveTime value="20220816"/>
+                  </section>
+               </component>
+            </section>
+         </component>
+         <component>
+            <section ID="S17">
+               <id root="129c30f2-8612-59ee-e063-6294a90aef97"/>
+               <code code="34076-0" codeSystem="2.16.840.1.113883.6.1" displayName="INFORMATION FOR PATIENTS SECTION"/>
+               <title>17. PATIENT COUNSELING INFORMATION</title>
+               <effectiveTime value="20220816"/>
+               <component>
+                  <section>
+                     <id root="129c30f2-8613-59ee-e063-6294a90aef97"/>
+                     <code code="42229-5" codeSystem="2.16.840.1.113883.6.1" displayName="SPL UNCLASSIFIED SECTION"/>
+                     <text>
+                        <paragraph>
+                           <content styleCode="italics">See
+  
+   <linkHtml href="#FDA">FDA-Approved Patient Labeling</linkHtml>
+                           </content>
+                        </paragraph>
+                        <list listType="unordered" styleCode="Disc">
+                           <item>Counsel patients that cigarette smoking increases the risk of serious cardiovascular events from COC use, and that women who are over 35 years old and smoke should not use COCs.</item>
+                           <item>Counsel patients that this product does not protect against HIV-infection (AIDS) and other sexually transmitted diseases.</item>
+                           <item>Counsel patients on Warnings and Precautions associated with COCs.</item>
+                           <item>Counsel patients to take one tablet daily by mouth at the same time every day. Instruct patients what to do in the event pills are missed. See
+  
+   <content styleCode="bold">
+                                 <linkHtml href="#Misspills">WHAT TO DO IF YOU MISS PILLS</linkHtml>
+                              </content>section of FDA-Approved Patient Labeling.
+ 
+  </item>
+                           <item>Counsel patients to use a back-up or alternative method of contraception when enzyme inducers are used with COCs.</item>
+                           <item>Counsel patients who are breastfeeding or who desire to breastfeed that COCs may reduce breast milk production. This is less likely to occur if breastfeeding is well established.</item>
+                           <item>Counsel any patient who starts COCs postpartum, and who has not yet had a period, to use an additional method of contraception until she has taken a white tablet for 7 consecutive days.</item>
+                           <item>Counsel patients that amenorrhea may occur. Pregnancy should be considered in the event of amenorrhea, and should be ruled out if amenorrhea is associated with symptoms of pregnancy, such as morning sickness or unusual breast tenderness.</item>
+                        </list>
+                     </text>
+                     <effectiveTime value="20220816"/>
+                  </section>
+               </component>
+            </section>
+         </component>
+         <component>
+            <section>
+               <id root="129c30f2-8614-59ee-e063-6294a90aef97"/>
+               <code code="42229-5" codeSystem="2.16.840.1.113883.6.1" displayName="SPL UNCLASSIFIED SECTION"/>
+               <text>
+                  <paragraph>Distributed by: 
+  <br/>
+                     <content styleCode="bold">Mayne Pharma</content>
+                     <br/>  Greenville, NC 27834
+
+ </paragraph>
+                  <paragraph>Manufactured by: 
+  <br/>
+                     <content styleCode="bold">Patheon, Inc</content>. 
+  <br/>  2100 Syntex Court 
+  <br/>  Mississauga, Ontario L5N 7K9 Canada
+
+ </paragraph>
+               </text>
+               <effectiveTime value="20220816"/>
+            </section>
+         </component>
+         <component>
+            <section ID="FDA">
+               <id root="129c30f2-8615-59ee-e063-6294a90aef97"/>
+               <code code="42230-3" codeSystem="2.16.840.1.113883.6.1" displayName="SPL PATIENT PACKAGE INSERT SECTION"/>
+               <text>
+                  <paragraph>
+                     <content styleCode="bold">FDA-Approved Patient Labeling 
+   <br/>  Guide for Using 
+   <br/>  AMETHIA Levonorgestrel/Ethinyl Estradiol Tablets and Ethinyl Estradiol Tablets, 
+   <br/>  0.15 mg/0.03 mg and 0.01 mg
+  </content>
+                     <br/>  Revised August 2022 
+  <br/>
+                     <content styleCode="bold">Rx only</content>
+                  </paragraph>
+                  <table width="100%">
+                     <col width="100%" align="left" valign="top"/>
+                     <tbody>
+                        <tr>
+                           <td align="center" styleCode="Lrule Rrule">
+                              <content styleCode="bold">WARNING TO WOMEN WHO SMOKE</content>
+                           </td>
+                        </tr>
+                        <tr>
+                           <td styleCode="Lrule Rrule">
+                              <content styleCode="bold">Do not use AMETHIA tablets if you smoke cigarettes and are over 35. Smoking increases your risk of serious cardiovascular side effects from birth control pills, including death from heart attack, blood clots or stroke. This risk increases with age and the number of cigarettes you smoke.</content>
+                           </td>
+                        </tr>
+                     </tbody>
+                  </table>
+                  <paragraph>Birth control pills help to lower the chances of becoming pregnant. They do not protect against HIV infection (AIDS) and other sexually transmitted diseases.</paragraph>
+                  <paragraph>
+                     <content styleCode="bold">What Are AMETHIA Tablets?</content>
+                  </paragraph>
+                  <paragraph>Levonorgestrel/Ethinyl Estradiol tablets and Ethinyl Estradiol tablets are a birth control pill. They contain two female hormones, an estrogen called ethinyl estradiol, and a progestin called levonorgestrel.</paragraph>
+                  <paragraph>
+                     <content styleCode="bold">How Well Do AMETHIA Tablets Work?</content>
+                  </paragraph>
+                  <paragraph>Your chance of getting pregnant depends on how well you follow the directions for taking your birth control pills. The more carefully you follow the directions, the less chance you have of getting pregnant.</paragraph>
+                  <paragraph>Based on the results of a single clinical study lasting 12 months, 1 to 3 women, out of 100 women, may get pregnant during the first year they use AMETHIA tablets.</paragraph>
+                  <paragraph>The following chart shows the chance of getting pregnant for women who use different methods of birth control. Each box on the chart contains a list of birth control methods that are similar in effectiveness. The most effective methods are at the top of the chart. The box on the bottom of the chart shows the chance of getting pregnant for women who do not use birth control and are trying to get pregnant.</paragraph>
+                  <paragraph>
+                     <renderMultiMedia referencedObject="MM5"/>
+                  </paragraph>
+                  <paragraph>
+                     <content styleCode="bold">How Do I Take AMETHIA Tablets?</content>
+                  </paragraph>
+                  <list listType="ordered" styleCode="Arabic">
+                     <item>Take one pill every day at the same time. If you miss pills you could get pregnant. This includes starting the pack late. The more pills you miss, the more likely you are to get pregnant.</item>
+                     <item>Many women have spotting or light bleeding, or may feel sick to their stomach during the first few months of taking AMETHIA tablets. If you feel sick to your stomach, do not stop taking the pill. The problem will usually go away. If it doesn't go away, check with your healthcare provider.</item>
+                     <item>Missing pills can also cause spotting or light bleeding, even when you take the missed pills later. On the days you take 2 pills to make up for missed pills, you could also feel a little sick to your stomach.</item>
+                     <item>If you have trouble remembering to take AMETHIA tablets, talk to your healthcare provider about how to make pill-taking easier or about using another method of birth control.</item>
+                  </list>
+                  <paragraph>
+                     <content styleCode="bold">
+                        <content styleCode="underline">Before</content>you start taking AMETHIA Tablets
+ 
+  </content>
+                  </paragraph>
+                  <list listType="ordered" styleCode="Arabic">
+                     <item>Decide what time of day you want to take your pill. It is important to take it at about the same time every day.</item>
+                     <item>Look at your Extended-Cycle Tablet Dispenser. Your Tablet Dispenser consists of 3 trays with cards that hold 91 individually sealed pills (a 13-week or 91-day cycle). The 91 pills consist of 84 white and 7 light blue pills. Trays 1 and 2 each contain 28 white pills (4 rows of 7 pills). Tray 3 contains 35 pills consisting of 28 white pills (4 rows of 7 pills) and 7 light blue pills (1 row of 7 pills).
+  
+   <paragraph>
+                           <renderMultiMedia referencedObject="MM6"/>
+                        </paragraph>
+                     </item>
+                     <item>Also find:
+  
+   <list listType="unordered" styleCode="Disc">
+                           <item>Where on the first tray in the pack to start taking pills (upper left corner at the Start Here arrow) and</item>
+                           <item>In what order to take the pills (follow the weeks and arrow).</item>
+                        </list>
+                     </item>
+                     <item>Be sure you have ready at all times another kind of birth control (such as condoms or spermicides), to use as a backup in case you miss pills.</item>
+                  </list>
+                  <paragraph>
+                     <content styleCode="bold">When to Start AMETHIA Tablets</content>
+                  </paragraph>
+                  <list listType="ordered" styleCode="Arabic">
+                     <item>Take the first white pill on the Sunday after your period starts, even if you are still bleeding. If your period begins on Sunday, start the first white pill that same day.</item>
+                     <item>Use another method of birth control (such as condoms or spermicides) as a back-up method if you have sex anytime from the Sunday you start your first white pill until the next Sunday (first 7 days). If you have been using a different hormonal method of birth control (such as a different pill, the "patch," or the "vaginal ring"), you need to use another method of birth control (such as condoms or spermicides) each time you have sex after stopping your old method of birth control until you have taken levonorgestrel/ethinyl estradiol tablets and ethinyl estradiol tablets for 7 days.</item>
+                  </list>
+                  <paragraph>
+                     <content styleCode="bold">How to Take AMETHIA Tablets</content>
+                  </paragraph>
+                  <list listType="ordered" styleCode="Arabic">
+                     <item>Take one pill at the same time every day until you have taken the last pill in the tablet dispenser.
+  
+   <list listType="unordered" styleCode="Disc">
+                           <item>Do not skip pills even if you are experiencing spotting or bleeding or feel sick to your stomach (nausea).</item>
+                           <item>Do not skip pills even if you do not have sex very often.</item>
+                        </list>
+                     </item>
+                     <item>When you finish a tablet dispenser
+  
+   <list listType="unordered" styleCode="Disc">
+                           <item>After taking the last light blue pill, start taking the first white pill from a new Extended-Cycle Tablet Dispenser the very next day (this should be on a Sunday) regardless of when your period started.</item>
+                        </list>
+                     </item>
+                     <item>If you miss your scheduled period when you are taking the light blue pills, contact your healthcare provider because you may be pregnant. If you are pregnant, you should stop taking AMETHIA tablets.</item>
+                  </list>
+                  <paragraph ID="Misspills">
+                     <content styleCode="bold">What To Do If You Miss Pills</content>
+                  </paragraph>
+                  <paragraph>If you
+ 
+  <content styleCode="bold">MISS 1</content>white pill:
+
+ </paragraph>
+                  <list listType="ordered" styleCode="Arabic">
+                     <item>Take it as soon as you remember. Take the next pill at your regular time. This means you may take 2 pills in 1 day.</item>
+                     <item>You do not need to use a back-up birth control method if you have sex.</item>
+                  </list>
+                  <paragraph>If you
+ 
+  <content styleCode="bold">MISS 2</content>white pills in a row:
+
+ </paragraph>
+                  <list listType="ordered" styleCode="Arabic">
+                     <item>Take 2 pills on the day you remember, and 2 pills the next day.</item>
+                     <item>Then take 1 pill a day until you finish the pack.</item>
+                     <item>You could become pregnant if you have sex in the 7 days after you miss two pills. You MUST use another birth control method (such as condoms or spermicide) as a back-up for the 7 days after you restart your pills.</item>
+                  </list>
+                  <paragraph>If you
+ 
+  <content styleCode="bold">MISS 3 OR MORE</content>white pills in a row:
+
+ </paragraph>
+                  <list listType="ordered" styleCode="Arabic">
+                     <item>Do not take the missed pills. Keep taking 1 pill every day as indicated on the pack until you have completed all of the remaining pills in the pack. For example: If you resume taking the pill on Thursday, take the pill under "Thursday" and do not take the missed pills. You may experience bleeding during the week following the missed pills.</item>
+                     <item>You could become pregnant if you have sex during the days of missed pills or during the first 7 days after restarting your pills.</item>
+                     <item>You MUST use a non-hormonal birth control method (such as condoms or spermicide) as a back-up when you miss pills and for the first 7 days after you restart your pills. If you do not have your period when you are taking the light blue pills, call your healthcare provider because you may be pregnant.</item>
+                  </list>
+                  <paragraph>If you
+ 
+  <content styleCode="bold">MISS ANY</content>of the 7 light blue pills:
+
+ </paragraph>
+                  <list listType="ordered" styleCode="Arabic">
+                     <item>Throw away the missed pills.</item>
+                     <item>Keep taking the scheduled pills until the pack is finished.</item>
+                     <item>You do not need a back-up method of birth control.</item>
+                  </list>
+                  <paragraph>
+                     <content styleCode="bold">Finally, if you are still not sure what to do about the pills you have missed</content>
+                  </paragraph>
+                  <list listType="ordered" styleCode="Arabic">
+                     <item>Use a back-up method anytime you have sex.</item>
+                     <item>Keep taking one pill each day until you contact your healthcare provider.</item>
+                  </list>
+                  <paragraph>
+                     <content styleCode="bold">Who Should Not Take AMETHIA Tablets?</content>
+                  </paragraph>
+                  <paragraph>Your healthcare provider will not give you AMETHIA tablets if you have:</paragraph>
+                  <list listType="unordered" styleCode="Disc">
+                     <item>Ever had breast cancer or any cancer that is sensitive to female hormones</item>
+                     <item>Liver disease, including liver tumors</item>
+                     <item>Been prescribed any Hepatitis C drug combination containing ombitasvir/paritaprevir/ritonavir, with or without dasabuvir. This may increase levels of the liver enzyme "alanine aminotransferase" (ALT) in the blood</item>
+                     <item>Ever had blood clots in your arms, legs, or lungs</item>
+                     <item>Ever had a stroke</item>
+                     <item>Ever had a heart attack</item>
+                     <item>Certain heart valve problems or heart rhythm abnormalities that can cause blood clots to form in the heart</item>
+                     <item>An inherited problem with your blood that makes it clot more than normal</item>
+                     <item>High blood pressure that medicine can't control</item>
+                     <item>Diabetes with kidney, eye, or blood vessel damage</item>
+                     <item>Certain kinds of severe migraine headaches with aura, numbness, weakness or changes in vision</item>
+                  </list>
+                  <paragraph>Also, do not take birth control pills if you:</paragraph>
+                  <list listType="unordered">
+                     <item>Smoke and are over 35 years old</item>
+                     <item>Are pregnant</item>
+                  </list>
+                  <paragraph>Birth control pills may not be a good choice for you if you have ever had jaundice (yellowing of the skin or eyes) caused by pregnancy.</paragraph>
+                  <paragraph>
+                     <content styleCode="bold">What Else Should I Know About Taking AMETHIA Tablets?</content>
+                  </paragraph>
+                  <paragraph>Birth control pills do
+ 
+  <content styleCode="bold">
+                        <content styleCode="underline">not</content>
+                     </content>protect you against any sexually transmitted disease, including HIV, the virus that causes AIDS.
+
+ </paragraph>
+                  <paragraph>Do not skip any pills, even if you do not have sex often.</paragraph>
+                  <paragraph>Birth control pills should not be taken during pregnancy. However, birth control pills taken by accident during pregnancy are not known to cause birth defects.</paragraph>
+                  <paragraph>If you are breastfeeding, consider another birth control method until you are ready to stop breastfeeding. Birth control pills that contain estrogen, like AMETHIA tablets, may decrease the amount of milk you make. A small amount of the pill's hormones pass into breast milk.</paragraph>
+                  <paragraph>Tell your healthcare provider about all medicines and herbal products that you take. Some medicines and herbal products may make birth control pills less effective, including:</paragraph>
+                  <list listType="unordered" styleCode="Disc">
+                     <item>barbiturates</item>
+                     <item>bosentan</item>
+                     <item>carbamazepine</item>
+                     <item>felbamate</item>
+                     <item>griseofulvin</item>
+                     <item>oxcarbazepine</item>
+                     <item>phenytoin</item>
+                     <item>rifampin</item>
+                     <item>St. John's wort</item>
+                     <item>topiramate</item>
+                  </list>
+                  <paragraph>Consider using another birth control method when you take medicines that may make birth control pills less effective.</paragraph>
+                  <paragraph>Birth control pills may interact with lamotrigine, an anticonvulsant used for epilepsy. This may increase the risk of seizures, so your physician may need to adjust the dose of lamotrigine.</paragraph>
+                  <paragraph>If you have vomiting or diarrhea, your birth control pills may not work as well. Use another birth control method, like condoms or a spermicide, until you check with your healthcare provider.</paragraph>
+                  <paragraph>
+                     <content styleCode="bold">What Are The Most Serious Risks Of Taking Birth Control Pills?</content>
+                  </paragraph>
+                  <paragraph>Like pregnancy, birth control pills increase the risk of serious blood clots, especially in women who have other risk factors, such as smoking, obesity, or age &gt; 35. It is possible to die from a problem caused by a blood clot, such as a heart attack or a stroke. Some examples of serious blood clots are blood clots in the:</paragraph>
+                  <list listType="unordered" styleCode="Disc">
+                     <item>Legs (thrombophlebitis)</item>
+                     <item>Lungs (pulmonary embolus)</item>
+                     <item>Eyes (loss of eyesight)</item>
+                     <item>Heart (heart attack)</item>
+                     <item>Brain (stroke)</item>
+                  </list>
+                  <paragraph>Women who take birth control pills may get:</paragraph>
+                  <list listType="unordered" styleCode="Disc">
+                     <item>High blood pressure</item>
+                     <item>Gallbladder problems</item>
+                     <item>Rare cancerous or noncancerous liver tumors</item>
+                  </list>
+                  <paragraph>All of these events are uncommon in healthy women.</paragraph>
+                  <paragraph>Call your healthcare provider right away if you have:</paragraph>
+                  <list listType="unordered" styleCode="Disc">
+                     <item>Persistent leg pain</item>
+                     <item>Sudden shortness of breath</item>
+                     <item>Sudden blindness, partial or complete</item>
+                     <item>Severe pain in your chest</item>
+                     <item>Sudden, severe headache unlike your usual headaches</item>
+                     <item>Weakness or numbness in an arm or leg, or trouble speaking</item>
+                     <item>Yellowing of the skin or eyeballs</item>
+                  </list>
+                  <paragraph>
+                     <content styleCode="bold">What Are Common Side Effects Of Birth Control Pills?</content>
+                  </paragraph>
+                  <paragraph>The most common side effects of birth control pills are:</paragraph>
+                  <list listType="unordered" styleCode="Disc">
+                     <item>Spotting or bleeding between menstrual periods</item>
+                     <item>Nausea</item>
+                     <item>Breast tenderness</item>
+                     <item>Headache</item>
+                  </list>
+                  <paragraph>These side effects are usually mild and usually disappear with time.</paragraph>
+                  <paragraph>Less common side effects are:</paragraph>
+                  <list listType="unordered" styleCode="Disc">
+                     <item>Acne</item>
+                     <item>Less sexual desire</item>
+                     <item>Bloating or fluid retention</item>
+                     <item>Blotchy darkening of the skin, especially on the face</item>
+                     <item>High blood sugar, especially in women who already have diabetes</item>
+                     <item>High fat levels in the blood</item>
+                     <item>Depression, especially if you have had depression in the past. Call your healthcare provider immediately if you have any thoughts of harming yourself.</item>
+                     <item>Problems tolerating contact lenses</item>
+                     <item>Weight changes</item>
+                  </list>
+                  <paragraph>This is not a complete list of possible side effects. Talk to your healthcare provider if you develop any side effects that concern you. You may report side effects to the FDA at 1-800-FDA-1088.</paragraph>
+                  <paragraph>No serious problems have been reported from a birth control pill overdose, even when accidentally taken by children.</paragraph>
+                  <paragraph>
+                     <content styleCode="bold">Do Birth Control Pills Cause Cancer?</content>
+                  </paragraph>
+                  <paragraph>It is not known if hormonal birth control pills cause breast cancer. Some studies, but not all, suggest that there could be a slight increase in the risk of breast cancer among current users with longer duration of use.</paragraph>
+                  <paragraph>If you have breast cancer now, or have had it in the past, do not use hormonal birth control because some breast cancers are sensitive to hormones. Women who use birth control pills may have a slightly higher chance of getting cervical cancer. However, this may be due to other reasons such as having more sexual partners.</paragraph>
+                  <paragraph>
+                     <content styleCode="bold">What Should I Know About My Period When Taking AMETHIA tablets?</content>
+                  </paragraph>
+                  <paragraph>When you take AMETHIA tablets, which have a 91-day extended dosing cycle, you should expect to have 4 scheduled periods per year (bleeding when you are taking the 7 light blue pills). Each period is likely to last about 3 days. However, you will probably have more bleeding or spotting between your scheduled periods than if you were using a birth control pill with a 28-day dosing cycle. During the first AMETHIA tablets 91-day treatment cycle, about 3 in 10 women may have 20 or more days of unplanned bleeding or spotting. This bleeding or spotting tends to decrease with time. Do not stop taking AMETHIA tablets because of this bleeding or spotting. If the spotting continues for more than 7 consecutive days or if the bleeding is heavy, call your healthcare provider.</paragraph>
+                  <paragraph>
+                     <content styleCode="bold">What If I Miss My Scheduled Period When Taking AMETHIA tablets?</content>
+                  </paragraph>
+                  <paragraph>You should consider the possibility that you are pregnant if you miss your scheduled period (no bleeding on the days that you are taking light blue tablets). Since scheduled periods are less frequent when you are taking AMETHIA tablets, notify your healthcare provider that you have missed your period and that you are taking AMETHIA tablets. Also notify your healthcare provider if you have symptoms of pregnancy such as morning sickness or unusual breast tenderness. It is important that your healthcare provider evaluates you to determine if you are pregnant. Stop taking AMETHIA tablets if it is determined that you are pregnant.</paragraph>
+                  <paragraph>
+                     <content styleCode="bold">What If I Want To Become Pregnant?</content>
+                  </paragraph>
+                  <paragraph>You may stop taking the pill whenever you wish. Consider a visit with your healthcare provider for a pre-pregnancy checkup before you stop taking the pill.</paragraph>
+                  <paragraph>
+                     <content styleCode="bold">General Advice About AMETHIA tablets</content>
+                  </paragraph>
+                  <paragraph>Your healthcare provider prescribed AMETHIA tablets for you. Do not share AMETHIA tablets with anyone else. Keep AMETHIA tablets out of the reach of children.</paragraph>
+                  <paragraph>If you have concerns or questions, ask your healthcare provider. You may also ask your healthcare providers for a more detailed label written for medical professionals.</paragraph>
+               </text>
+               <effectiveTime value="20220816"/>
+               <component>
+                  <observationMedia ID="MM5">
+                     <text>Image</text>
+                     <value mediaType="image/jpeg" xsi:type="ED">
+                        <reference value="amethia-05.jpg"/>
+                     </value>
+                  </observationMedia>
+               </component>
+               <component>
+                  <observationMedia ID="MM6">
+                     <text>Image</text>
+                     <value mediaType="image/jpeg" xsi:type="ED">
+                        <reference value="amethia-06.jpg"/>
+                     </value>
+                  </observationMedia>
+               </component>
+            </section>
+         </component>
+         <component>
+            <section>
+               <id root="129c30f2-8616-59ee-e063-6294a90aef97"/>
+               <code code="42229-5" codeSystem="2.16.840.1.113883.6.1" displayName="SPL UNCLASSIFIED SECTION"/>
+               <text>
+                  <paragraph>Distributed by: 
+  <br/>
+                     <content styleCode="bold">Mayne Pharma</content>
+                     <br/>  Greenville, NC 27834
+
+ </paragraph>
+                  <paragraph>Manufactured by: 
+  <br/>
+                     <content styleCode="bold">Patheon Inc.</content>
+                     <br/>  2100 Syntex Court 
+  <br/>  Mississauga, Ontario L5N 7K9 
+  <br/>  Canada
+
+ </paragraph>
+                  <paragraph>Revised: August 2022</paragraph>
+               </text>
+               <effectiveTime value="20220816"/>
+            </section>
+         </component>
+         <component>
+            <section>
+               <id root="129c30f2-8617-59ee-e063-6294a90aef97"/>
+               <code code="51945-4" codeSystem="2.16.840.1.113883.6.1" displayName="PACKAGE LABEL.PRINCIPAL DISPLAY PANEL"/>
+               <title>PRINCIPAL DISPLAY PANEL - Kit Carton</title>
+               <text>
+                  <paragraph>NDC 51862-047-91</paragraph>
+                  <paragraph>Amethia™ 
+  <br/>  (Levonorgestrel/Ethinyl Estradiol Tablets 
+  <br/>  and Ethinyl Estradiol Tablets, 
+  <br/>  0.15 mg/0.03 mg and 0.01 mg)
+ </paragraph>
+                  <paragraph>Contains 2 Extended-Cycle Tablet Dispensers, each containing 91 tablets: 84 white tablets, 
+  <br/>  each containing 0.15 mg levonorgestrel with 0.03 mg ethinyl estradiol, and 7 light blue 
+  <br/>  tablets, each containing 0.01 mg ethinyl estradiol.
+ </paragraph>
+                  <paragraph>Rx only</paragraph>
+                  <paragraph>2 Extended-Cycle Tablet Dispensers, 91 Tablets Each</paragraph>
+                  <paragraph>maynepharma</paragraph>
+                  <renderMultiMedia referencedObject="MM7"/>
+               </text>
+               <effectiveTime value="20220816"/>
+               <component>
+                  <observationMedia ID="MM7">
+                     <text>PRINCIPAL DISPLAY PANEL - Kit Carton</text>
+                     <value mediaType="image/jpeg" xsi:type="ED">
+                        <reference value="amethia-07.jpg"/>
+                     </value>
+                  </observationMedia>
+               </component>
+            </section>
+         </component>
+      </structuredBody>
+   </component>
+</document>
