@@ -6,6 +6,14 @@
 ## Authors  
 Jeffery L. Painter, Greg Powell, and Andrew Bate
 
+## Abstract
+
+Reliable drug safety reference databases are essential for pharmacovigilance, yet existing resources like SIDER are outdated and static. We introduce PVLens, an automated system that extracts labeled safety information from FDA Structured Product Labels (SPLs) and maps terms to MedDRA. PVLens integrates automation with expert oversight through a web-based review tool. In validation against 97 drug labels, PVLens achieved an F1 score of 0.882, with high recall (0.983) and moderate precision (0.799). By offering a scalable, more accurate and continuously updated alternative to SIDER, PVLens enhances real-time pharamcovigilance with improved accuracy and contemporaneous insights.
+
+## Preprint Link
+
+https://arxiv.org/abs/2503.20639
+
 ---
 
 This repository contains the original source data used in the validation of the **PVLens** pipeline for extracting indications, adverse events, and black box warnings from FDA Structured Product Labels (SPLs).
