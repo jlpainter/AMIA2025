@@ -1,0 +1,1013 @@
+SPL_ID,USER_TERM,MDR_AUI,MDR_CUI,MDR_CODE,MDR_TERM,CATEGORY,INCLUDE_STY,SYNONYM_FOUND,STOP_WORD
+189,"opioid-induced constipation",,,,,Indication,False,False,False
+115,"partial-onset seizures",,,,,Indication,False,False,False
+115,"suicidal ideation",A1093899,C0424000,10042458,Suicidal ideation,AdverseEvent,True,False,False
+115,"psychiatric adverse reactions",,,,,AdverseEvent,False,False,False
+115,"neutropenia",A0091970,C0027947,10029354,Neutropenia,AdverseEvent,True,False,False
+115,"hematologic abnormalities",,,,,AdverseEvent,False,False,False
+115,"neurological adverse reactions",,,,,AdverseEvent,False,False,False
+116,"acute uncomplicated influenza",,,,,Indication,False,False,False
+116,"uncomplicated influenza",,,,,Indication,False,False,False
+116,"decreased neutrophils",,,,,AdverseEvent,False,False,False
+116,"exfoliative dermatitis",,,,,AdverseEvent,True,False,False
+116,"increased creatine phosphokinase",,,,,AdverseEvent,False,False,False
+116,"increased serum glucose",,,,,AdverseEvent,False,False,False
+116,"anaphylactoid reactions",,,,,AdverseEvent,False,False,False
+116,"anaphylactic reactions",,,,,AdverseEvent,False,False,False
+116,"increased alanine aminotransferase",,,,,AdverseEvent,False,False,False
+135,"capecitabine overdose",,,,,Indication,False,False,False
+135,"fluorouracil overdose",,,,,Indication,False,False,False
+160,"vasodilatory shock",,,,,Indication,True,False,False
+160,"distal limb ischemia",,,,,AdverseEvent,False,False,False
+160,"digital ischemia",,,,,AdverseEvent,False,False,False
+160,"hemorrhagic shock",,,,,AdverseEvent,True,False,False
+160,"intractable bleeding",,,,,AdverseEvent,False,False,False
+160,"decreased cardiac output",,,,,AdverseEvent,False,False,False
+160,"decreased platelets",,,,,AdverseEvent,False,False,False
+160,"increased bilirubin",,,,,AdverseEvent,False,False,False
+160,"ischemic lesions",,,,,AdverseEvent,False,False,False
+160,"tachyarrhythmias",,,,,AdverseEvent,False,False,False
+186,"intraoperative hypotension",,,,,Indication,True,False,False
+186,"thumping heart",,,,,AdverseEvent,False,False,False
+186,"reactive hypertension",,,,,AdverseEvent,False,False,False
+186,"r-r variability",,,,,AdverseEvent,False,False,False
+190,"seborrheic keratoses",,,,,Indication,False,False,False
+190,"raised",,,,,Indication,False,False,False
+190,"seborrheic keratoses that are raised",,,,,Indication,False,False,False
+190,"hyperpigmentation",,,,,AdverseEvent,False,False,False
+190,"hypopigmentation",,,,,AdverseEvent,False,False,False
+190,"scaling",,,,,AdverseEvent,False,False,False
+190,"vesiculation",,,,,AdverseEvent,False,False,False
+190,"crusting",,,,,AdverseEvent,False,False,False
+190,"erosion",,,,,AdverseEvent,False,False,False
+196,"regional anesthesia",,,,,Indication,False,False,False
+196,"teeth",,,,,Indication,False,False,False
+196,"restorative procedure",,,,,Indication,False,False,False
+196,"regional anesthesia when performing a restorative procedure on teeth 4-13 and a-j in adults and children who weigh 40 kg or more",,,,,Indication,False,False,False
+196,"difficult swallowing",,,,,AdverseEvent,False,False,False
+196,"bp systolic increased",,,,,AdverseEvent,False,False,False
+196,"bp diastolic increased",,,,,AdverseEvent,False,False,False
+196,"nervous system disorders",,,,,AdverseEvent,False,False,False
+196,"watery eye",,,,,AdverseEvent,False,False,False
+196,"respiratory system disorders",,,,,AdverseEvent,False,False,False
+196,"anaphylatic reactions",,,,,AdverseEvent,False,False,False
+196,"nasal ulcers",,,,,AdverseEvent,False,False,False
+196,"intranasal ulcerations",,,,,AdverseEvent,False,False,False
+196,"numb throat",,,,,AdverseEvent,False,False,False
+196,"elevations in systolic blood pressure",,,,,AdverseEvent,False,False,False
+196,"elevations in diastolic blood pressure",,,,,AdverseEvent,False,False,False
+212,"parkinson's disease",A2849738,C0030567,10061536,Parkinson's disease,Indication,True,False,False
+212,"swelling of the gingiva",,,,,AdverseEvent,False,False,False
+212,"swelling of the tongue",,,,,AdverseEvent,False,False,False
+212,"compulsive behaviors",,,,,AdverseEvent,False,False,False
+212,"withdrawal-emergent hyperpyrexia",,,,,AdverseEvent,False,False,False
+212,"increase in alt",,,,,AdverseEvent,False,False,False
+212,"falling asleep during activities of daily living",,,,,AdverseEvent,False,False,False
+212,"retinal pathology",,,,,AdverseEvent,False,False,False
+213,"intraocular lens replacement",,,,,Indication,False,False,False
+213,"cataract surgery",,,,,Indication,False,False,False
+213,"increased intraocular pressure",,,,,AdverseEvent,True,False,False
+218,"eosinophilic phenotype",,,,,Indication,False,False,False
+236,"pah associated with congenital heart disease with repaired shunts",,,,,Indication,False,False,False
+236,"ah associated with connective tissue disease",,,,,Indication,False,False,False
+236,"pah",,,,,Indication,False,False,False
+236,"idiopathic and heritable pah",,,,,Indication,False,False,False
+236,"jaw pain",,,,,AdverseEvent,True,False,False
+238,"open-angle glaucoma",,,,,Indication,True,False,False
+238,"elevated intraocular pressure",,,,,Indication,False,False,False
+238,"iop",,,,,Indication,False,False,False
+238,"elevated intraocular pressure (iop)",,,,,Indication,False,False,False
+238,"epithelial corneal edem",,,,,AdverseEvent,False,False,False
+238,"increased lacrimation",,,,,AdverseEvent,False,False,False
+238,"reduced visual acuity",,,,,AdverseEvent,False,False,False
+238,"corneal verticillata",,,,,AdverseEvent,False,False,False
+104,"acute bacterial skin and skin structure infections",,,,,Indication,False,False,False
+104,"injection- or infusion-site pain",,,,,AdverseEvent,False,False,False
+104,"white blood cell count decreased",A1584647,C0750394,10047942,White blood cell count decreased,AdverseEvent,True,False,False
+104,"hypersensitivity",A2849393,C0020517,10020751,Hypersensitivity,AdverseEvent,True,False,False
+104,"vii th nerve paralysis",,,,,AdverseEvent,False,False,False
+104,"gamma-glutamyltransferase (ggt) increased",,,,,AdverseEvent,False,False,False
+104,"difficile",,,,,AdverseEvent,False,False,False
+104,"injection- or infusion-site swelling",,,,,AdverseEvent,False,False,False
+104,"increased hepatic transaminases",,,,,AdverseEvent,False,False,False
+104,"clostridioides difficile colitis",,,,,AdverseEvent,True,False,False
+104,"injection-site erythema",,,,,AdverseEvent,False,False,False
+104,"injection-site induration",,,,,AdverseEvent,False,False,False
+104,"infusion- or injection-related adverse reactions",,,,,AdverseEvent,False,False,False
+250,"chorea associated with huntington’s disease",,,,,Indication,False,False,False
+250,"tardive dyskinesia",A0004250,C0686347,10043118,Tardive dyskinesia,Indication,True,False,False
+250,"qtc prolongation",,,,,AdverseEvent,False,False,False
+250,"suicidality",,,,,AdverseEvent,False,False,False
+250,"nms",,,,,AdverseEvent,False,False,False
+250,"binding to melanin-containing tissues",,,,,AdverseEvent,False,False,False
+234,"congenital or acquired generalized lipodystrophy",,,,,Indication,False,False,False
+234,"replacement therapy to treat the complications of leptin deficiency",,,,,Indication,False,False,False
+264,"pad",,,,,Indication,False,False,False
+264,"reduction of thrombotic cardiovascular events",,,,,Indication,False,False,False
+264,"mi",,,,,Indication,False,False,False
+264,"rash",A2849184,C5779628,10037844,Rash,AdverseEvent,True,False,False
+264,"eruptions",,,,,AdverseEvent,False,False,False
+264,"exanthemas",,,,,AdverseEvent,False,False,False
+264,"oculomotor disturbances",,,,,AdverseEvent,False,False,False
+264,"rashes",,,,,AdverseEvent,False,False,False
+264,"stroke",,,,,AdverseEvent,True,True,False
+272,"glycemic control",,,,,Indication,False,False,False
+272,"diabetic ketoacidosis",A0686699,C0011880,10012671,Diabetic ketoacidosis,AdverseEvent,True,True,False
+272,"throat pain",,,,,AdverseEvent,True,False,False
+272,"decline in pulmonary function",,,,,AdverseEvent,False,False,False
+272,"throat irritation",A1290440,C0700184,10043521,Throat irritation,AdverseEvent,True,False,False
+285,"submental fullness",,,,,Indication,False,False,False
+285,"submental fat",,,,,Indication,False,False,False
+285,"submental convexity",,,,,Indication,False,False,False
+285,"improvement in the appearance of moderate to severe convexity or fullness associated with submental fat in adults",,,,,Indication,False,False,False
+285,"mandibular nerve paresis",,,,,AdverseEvent,False,False,False
+285,"nervous system disorders",,,,,AdverseEvent,False,False,False
+285,"pre-syncope",,,,,AdverseEvent,True,False,False
+285,"oral paraesthesia",,,,,AdverseEvent,False,False,False
+285,"site warmth",,,,,AdverseEvent,False,False,False
+297,"pdp",,,,,Indication,False,False,False
+297,"increased mortality in elderly patients with dementia-related psychosis",,,,,AdverseEvent,False,False,False
+297,"hallucination",A2849178,C0018524,10019063,Hallucination,AdverseEvent,True,True,False
+297,"tongue swelling",,,,,AdverseEvent,False,False,False
+306,"hiv-1",,,,,Indication,False,False,False
+306,"human immunodeficiency virus",,,,,Indication,False,False,False
+306,"hiv‑1",,,,,Indication,False,False,False
+306,"increased bilirubin",,,,,AdverseEvent,False,False,False
+306,"increased ast",,,,,AdverseEvent,False,False,False
+306,"increased serum amylase",,,,,AdverseEvent,False,False,False
+306,"rash generalized",,,,,AdverseEvent,False,False,False
+306,"laboratory abnormalities",,,,,AdverseEvent,False,False,False
+306,"increased alt",,,,,AdverseEvent,False,False,False
+306,"increase in serum creatinine",,,,,AdverseEvent,False,False,False
+306,"upper abdominal pain",,,,,AdverseEvent,True,False,False
+306,"rash maculopapular",,,,,AdverseEvent,False,False,False
+306,"increased ggt",,,,,AdverseEvent,False,False,False
+306,"decreased neurophils",,,,,AdverseEvent,False,False,False
+306,"pruritus generalized",,,,,AdverseEvent,True,False,False
+306,"increased creatinine kinase",,,,,AdverseEvent,False,False,False
+314,"vaginal atrophy",,,,,Indication,False,False,False
+314,"ascus",,,,,AdverseEvent,False,False,False
+314,"abnormal pap smear",,,,,AdverseEvent,False,False,False
+319,"human immunodeficiency virus (hiv-1) infection",,,,,Indication,False,False,False
+319,"musculoskeletal and connective tissue disorders",,,,,AdverseEvent,False,False,False
+319,"effects on serum creatinine",,,,,AdverseEvent,False,False,False
+319,"redistribution of body fat",,,,,AdverseEvent,False,False,False
+319,"severe skin reactions",,,,,AdverseEvent,False,False,False
+325,"left ventricular ejection fraction ≤ 35%",,,,,Indication,False,False,False
+325,"symptomatic heart failure",,,,,Indication,False,False,False
+325,"luminous p henomena",,,,,AdverseEvent,False,False,False
+325,"luminous phenomena",,,,,AdverseEvent,False,False,False
+328,"without cirrhosis",,,,,Indication,False,False,False
+328,"hcv",,,,,Indication,False,False,False
+328,"rashes",,,,,AdverseEvent,False,False,False
+328,"lipase elevations",,,,,AdverseEvent,False,False,False
+328,"creatine kinase elevations",,,,,AdverseEvent,False,False,False
+328,"increases in total bilirubin",,,,,AdverseEvent,False,False,False
+335,"chorea associated with huntington’s disease",,,,,Indication,False,False,False
+335,"allergic dermatitis",,,,,AdverseEvent,True,False,False
+335,"increase in prolactin",,,,,AdverseEvent,False,False,False
+335,"increase in bilirubin",,,,,AdverseEvent,False,False,False
+335,"non-akathisia",,,,,AdverseEvent,False,False,False
+335,"increase in alkaline phosphatase",,,,,AdverseEvent,False,False,False
+335,"pruritis",,,,,AdverseEvent,False,False,False
+335,"respiratory infections",,,,,AdverseEvent,False,False,False
+335,"urinary retention",A0469140,C0080274,10046555,Urinary retention,AdverseEvent,False,False,False
+335,"qt prolongation",,,,,AdverseEvent,False,False,False
+343,"hdd-ckd",,,,,Indication,False,False,False
+343,"hemodialysis-dependent chronic kidney disease",,,,,Indication,False,False,False
+343,"maintain hemoglobin",,,,,Indication,False,False,False
+343,"replacement of iron",,,,,Indication,False,False,False
+343,"iron replacement",,,,,Indication,False,False,False
+343,"nervous system disorders",,,,,AdverseEvent,False,False,False
+343,"av fistula",,,,,AdverseEvent,False,False,False
+343,"arteriovenous fistula site hemorrhage",,,,,AdverseEvent,True,False,False
+343,"av fistula thrombosis",,,,,AdverseEvent,False,False,False
+343,"av fistula site hemorrhage",,,,,AdverseEvent,False,False,False
+147,"soft tissue sarcoma",A24135316,C4551687,10075333,Soft tissue sarcoma,Indication,True,False,False
+147,"increased alkaline phosphatase",,,,,AdverseEvent,False,False,False
+147,"increased creatinine",,,,,AdverseEvent,False,False,False
+147,"increased creatine phosphokinase",,,,,AdverseEvent,False,False,False
+147,"increased ast",,,,,AdverseEvent,False,False,False
+147,"nervous system disorders",,,,,AdverseEvent,False,False,False
+147,"increased alt",,,,,AdverseEvent,False,False,False
+224,"chronic weight management",,,,,Indication,False,False,False
+224,"obese",,,,,Indication,False,False,False
+224,"hypertension",A2849394,C0020538,10020772,Hypertension,AdverseEvent,True,True,False
+224,"sleep disorders",,,,,AdverseEvent,False,False,False
+224,"suicidal ideation",A1093899,C0424000,10042458,Suicidal ideation,AdverseEvent,True,False,False
+224,"staphylococcal infection",A0009089,C0038160,10058080,Staphylococcal infection,AdverseEvent,True,False,False
+224,"psychiatric disorders",,,,,AdverseEvent,False,False,True
+224,"attention disorder",,,,,AdverseEvent,False,False,False
+224,"decreased hematocrit",,,,,AdverseEvent,False,False,False
+224,"viral gastroenteritis",,,,,AdverseEvent,True,False,False
+224,"nervous system disorders",,,,,AdverseEvent,False,False,False
+224,"pneumonia",A2849471,C0032285,10035664,Pneumonia,AdverseEvent,True,False,False
+224,"jaw pain",,,,,AdverseEvent,True,False,False
+224,"increased hepatic enzymes",,,,,AdverseEvent,False,False,False
+224,"increases in serum creatinine",,,,,AdverseEvent,False,False,False
+224,"musculoskeletal disorders",,,,,AdverseEvent,False,False,False
+224,"increased blood creatinine",,,,,AdverseEvent,False,False,False
+224,"reproductive system disorders",,,,,AdverseEvent,False,False,False
+224,"angle-closure glaucoma",,,,,AdverseEvent,False,False,False
+224,"amyloid related imaging abnormalities with edema",,,,,BlackBox,False,False,False
+224,"aria-e",,,,,BlackBox,True,False,False
+224,"amyloid related imaging abnormalities with hemosiderin deposition",,,,,BlackBox,False,False,False
+224,"aria-h",,,,,BlackBox,True,False,False
+224,"aria with edema",,,,,BlackBox,False,False,False
+224,"aria with hemosiderin deposition",,,,,BlackBox,False,False,False
+265,"hypotension occurring in the setting of anesthesia",,,,,Indication,False,False,False
+265,"reactive hypertension",,,,,AdverseEvent,False,False,False
+265,"nervous system disorders",,,,,AdverseEvent,False,False,False
+265,"psychiatric disorders",,,,,AdverseEvent,False,False,True
+310,"pbc",,,,,Indication,False,False,False
+310,"increased bilirubin",,,,,AdverseEvent,False,False,False
+310,"thyroxine free decreased",A2295044,C0948240,10055162,Thyroxine free decreased,AdverseEvent,True,False,False
+310,"blood thyroid stimulating hormone increased",A1585148,C0853019,10005833,Blood thyroid stimulating hormone increased,AdverseEvent,True,False,False
+310,"hepatic failure",A0421000,C0085605,10019663,Hepatic failure,AdverseEvent,True,False,False
+310,"discomfort",A2849698,C2364135,10013082,Discomfort,AdverseEvent,True,False,True
+310,"reduction in hdl-c",,,,,AdverseEvent,False,False,False
+310,"thyroid function abnormality",,,,,AdverseEvent,False,False,False
+310,"cirrhosis",,,,,AdverseEvent,False,False,False
+310,"heat rash",,,,,AdverseEvent,True,False,False
+311,"pe",,,,,Indication,False,False,False
+311,"nvaf",,,,,Indication,False,False,False
+311,"systemic embolism",,,,,Indication,True,False,False
+311,"cardiovascular disease",,,,,AdverseEvent,False,False,False
+311,"epidural/subdural hemorrhage",,,,,AdverseEvent,False,False,False
+311,"infectious pneumonia",,,,,AdverseEvent,False,False,False
+311,"cancer",,,,,AdverseEvent,True,False,False
+311,"schemic stroke with major hemorrhagic conversion",,,,,AdverseEvent,False,False,False
+311,"epidural hemorrhage",,,,,AdverseEvent,True,False,False
+311,"cutaneous soft tissue",,,,,AdverseEvent,False,False,False
+100,"bladder papillary carcinoma",,,,,Indication,False,False,False
+100,"superficial papillary carcinoma",,,,,Indication,False,False,False
+100,"breast adenocarcinoma",,,,,Indication,True,False,False
+100,"ovarian adenocarcinoma",,,,,Indication,True,False,False
+100,"hepatic veno-occlusive disease",,,,,AdverseEvent,False,False,False
+100,"elevated aspartate aminotransferase",,,,,AdverseEvent,False,False,False
+100,"injection site pain",A0970528,C0151828,10022086,Injection site pain,AdverseEvent,True,False,False
+100,"elevated bilirubin",,,,,AdverseEvent,False,False,False
+100,"discharge from a subcutaneous lesion",,,,,AdverseEvent,False,False,False
+100,"allergic reactions",,,,,AdverseEvent,False,False,False
+100,"pain at the injection site",,,,,AdverseEvent,False,False,False
+100,"neoplasms",,,,,AdverseEvent,False,False,False
+100,"elevated alanine aminotransferase",,,,,AdverseEvent,False,False,False
+100,"urinary retention",A0469140,C0080274,10046555,Urinary retention,AdverseEvent,False,False,False
+100,"parainfluenza virus infection",,,,,AdverseEvent,False,False,False
+100,"prolonged apne",,,,,AdverseEvent,False,False,False
+100,"interference with spermatogenesis",,,,,AdverseEvent,False,False,False
+100,"cutaneous toxicity",,,,,AdverseEvent,False,False,False
+100,"transaminases increased",A2295066,C0438717,10054889,Transaminases increased,AdverseEvent,True,False,False
+100,"aspiration",A0027134,C1720922,10003504,Aspiration,AdverseEvent,True,False,True
+100,"viith nerve paralysis",,,,,AdverseEvent,True,False,False
+100,"hemorrhagic cystitis",,,,,AdverseEvent,True,False,False
+100,"nervous system disorders",,,,,AdverseEvent,False,False,False
+100,"parainfluenza virus",,,,,AdverseEvent,False,False,False
+100,"psychiatric disorders",,,,,AdverseEvent,False,False,True
+178,"congenital factor viii deficiency",,,,,Indication,False,False,False
+178,"prophylaxis",A2850094,C0199176,10036898,Prophylaxis,Indication,False,False,False
+178,"nervous system disorders",,,,,AdverseEvent,False,False,False
+188,"neurogenic orthostatic hypotension",,,,,Indication,False,False,False
+188,"orthostatic dizziness",,,,,Indication,True,False,False
+188,"dopamine beta-hydroxylase deficiency",,,,,Indication,False,False,False
+188,"dizziness",A0050717,C0012833,10013573,Dizziness,AdverseEvent,True,True,False
+188,"falls",,,,,AdverseEvent,False,False,False
+188,"arrhythmias",,,,,AdverseEvent,False,False,False
+188,"memory disorder",,,,,AdverseEvent,False,False,False
+188,"increased blood pressure",,,,,AdverseEvent,True,False,False
+203,"pure autonomic failure",,,,,Indication,True,False,False
+203,"non-diabetic autonomic neuropathy",,,,,Indication,False,False,False
+203,"neurogenic orthostatic hypotension",,,,,Indication,False,False,False
+203,"orthostatic dizziness",,,,,Indication,True,False,False
+203,"noh",,,,,Indication,False,False,False
+203,"dopamine beta-hydroxylase deficiency",,,,,Indication,False,False,False
+203,"dizziness",A0050717,C0012833,10013573,Dizziness,AdverseEvent,True,True,False
+203,"falls",,,,,AdverseEvent,False,False,False
+203,"memory disorder",,,,,AdverseEvent,False,False,False
+203,"arrhythmias",,,,,AdverseEvent,False,False,False
+203,"increased blood pressure",,,,,AdverseEvent,True,False,False
+203,"thrombotic event",,,,,BlackBox,False,False,False
+203,"thrombotic events",,,,,BlackBox,False,False,False
+219,"mps iva",,,,,Indication,False,False,False
+219,"morquio a syndrome",,,,,Indication,False,False,False
+219,"mps iva; morquio a syndrome",,,,,Indication,False,False,False
+219,"type iva",,,,,Indication,False,False,False
+219,"mucopolysaccharidosis type iva",,,,,Indication,False,False,False
+219,"acute respiratory complications",,,,,AdverseEvent,False,False,False
+219,"spinal cord compression",A2850131,C0037926,10041549,Spinal cord compression,AdverseEvent,True,False,False
+227,"human immunodeficiency virus (hiv) negative",,,,,Indication,False,False,False
+227,"human herpesvirus-8 (hhv-8) negative",,,,,Indication,False,False,False
+227,"multicentric castleman's disease",,,,,Indication,False,False,False
+227,"mcd",,,,,Indication,False,False,False
+227,"lower respiratory tract infection",A2851113,C0149725,10024968,Lower respiratory tract infection,AdverseEvent,True,False,False
+227,"increased weight",,,,,AdverseEvent,False,False,False
+227,"rash popular",,,,,AdverseEvent,False,False,False
+227,"infections",,,,,AdverseEvent,False,False,False
+227,"infusion-related reactions",,,,,AdverseEvent,False,False,False
+232,"glycemic control",,,,,Indication,False,False,False
+232,"ophthalmologic refraction disorder",,,,,AdverseEvent,False,False,False
+232,"whole body rash",,,,,AdverseEvent,False,False,False
+232,"local allergy",,,,,AdverseEvent,False,False,False
+232,"treatment-emergent ada",,,,,AdverseEvent,False,False,False
+232,"ogic refracti",,,,,AdverseEvent,False,False,False
+232,"systemic allergy",,,,,AdverseEvent,False,False,False
+232,"immunogenicity",,,,,AdverseEvent,False,False,False
+232,"allergic reactions",,,,,AdverseEvent,False,False,False
+199,"reversal of the anticoagulant effects of dabigatran",,,,,Indication,False,False,False
+199,"uncontrolled bleeding",,,,,Indication,False,False,False
+199,"life-threatening or uncontrolled bleeding",,,,,AdverseEvent,False,False,False
+263,"maintenance",,,,,Indication,False,False,False
+263,"narrow-angle glaucoma",,,,,AdverseEvent,False,False,False
+263,"paradoxical bronchospasm",,,,,AdverseEvent,True,False,False
+263,"urinary retention",A0469140,C0080274,10046555,Urinary retention,AdverseEvent,False,False,False
+283,"secondary hyperparathyroidism",,,,,Indication,False,False,False
+283,"hemodialysis",,,,,Indication,False,False,False
+283,"hpt",,,,,Indication,False,False,False
+283,"ckd",,,,,Indication,False,False,False
+283,"worsening heart failure",,,,,AdverseEvent,False,False,False
+283,"qtc interval prolongation",,,,,AdverseEvent,False,False,False
+283,"pruritic rash",,,,,AdverseEvent,True,False,False
+283,"adynamic bone",,,,,AdverseEvent,False,False,False
+289,"irritable bowel syndrome with constipation",,,,,Indication,False,False,False
+289,"chronic idiopathic constipation",,,,,Indication,True,False,False
+289,"ibs-c",,,,,Indication,False,False,False
+289,"cic",,,,,Indication,False,False,False
+289,"asthma-related death",,,,,BlackBox,False,False,False
+294,"gastric ulcers",,,,,Indication,False,False,False
+294,"secondary prevention",,,,,Indication,False,False,False
+294,"interstitial nephritis",,,,,AdverseEvent,False,False,False
+294,"lower birth weight infants",,,,,AdverseEvent,False,False,False
+294,"severe generalized skin reactions",,,,,AdverseEvent,False,False,False
+294,"clostridium difficile -associated diarrhea",,,,,AdverseEvent,False,False,False
+294,"gastroduodenal carcinoids",,,,,AdverseEvent,False,False,False
+294,"elevations of liver function tests",,,,,AdverseEvent,False,False,False
+294,"pharyngeal pain",,,,,AdverseEvent,False,False,False
+294,"stillbirths",,,,,AdverseEvent,False,False,False
+294,"sleep disturbances",,,,,AdverseEvent,False,False,False
+294,"papillary necrosis",,,,,AdverseEvent,False,False,False
+294,"bone fracture",,,,,AdverseEvent,False,False,False
+294,"tremors",,,,,AdverseEvent,False,False,False
+294,"antepartum bleeding",,,,,AdverseEvent,True,False,False
+294,"microscopic colitis",,,,,AdverseEvent,False,False,False
+294,"cholestatic disease",,,,,AdverseEvent,False,False,False
+294,"skin inflammation",,,,,AdverseEvent,True,False,False
+294,"liver necrosis",,,,,AdverseEvent,True,False,False
+294,"anterior ischemic optic neuropathy",,,,,AdverseEvent,True,False,False
+294,"angina,",,,,,AdverseEvent,False,False,False
+294,"functional gland polyps",,,,,AdverseEvent,False,False,False
+294,"leg pain",,,,,AdverseEvent,True,False,False
+294,"elevations of hepatic enzymes",,,,,AdverseEvent,False,False,False
+294,"ocular irritation",,,,,AdverseEvent,False,False,False
+294,"obstruction in the small bowel",,,,,AdverseEvent,False,False,False
+294,"joint pain",,,,,AdverseEvent,True,False,False
+294,"elevated serum creatinine",,,,,AdverseEvent,False,False,False
+294,"elevated blood pressure",,,,,AdverseEvent,False,False,False
+294,"upper gi bleeding",,,,,AdverseEvent,False,False,False
+294,"dream abnormalities",,,,,AdverseEvent,False,False,False
+294,"abdominal swelling",,,,,AdverseEvent,False,False,False
+294,"fundic gland polyps",,,,,AdverseEvent,False,False,False
+294,"prolongation of the prothrombin time",,,,,AdverseEvent,False,False,False
+294,"fecal discoloration",,,,,AdverseEvent,False,False,False
+294,"ower gi bleeding",,,,,AdverseEvent,False,False,False
+344,"severe pain",,,,,Indication,False,False,False
+344,"pain",A2849464,C0030193,10033371,Pain,AdverseEvent,True,True,False
+344,"neonatal opioid withdrawal syndrome",,,,,AdverseEvent,False,False,False
+344,"circulatory depression",,,,,AdverseEvent,True,False,False
+321,"cyp2d6 poor metabolizers",,,,,Indication,False,False,False
+321,"cyp2d6 intermediate metabolizers",,,,,Indication,False,False,False
+321,"gd1",,,,,Indication,False,False,False
+321,"cyp2d6 extensive metabolizers",,,,,Indication,False,False,False
+321,"gaucher disease type 1",,,,,Indication,False,False,False
+321,"upper abdominal pain",,,,,AdverseEvent,True,False,False
+140,"hypertensive crises",,,,,Indication,False,False,False
+140,"mean arterial blood pressure",,,,,Indication,False,False,False
+140,"pulmonary capillary wedge pressure",,,,,Indication,False,False,False
+140,"left ventricular end-diastolic pressure",A1558180,C1171395,10060065,Left ventricular end-diastolic pressure,Indication,False,False,False
+140,"peripheral vascular resistance",,,,,Indication,False,False,False
+140,"hypertensive crisis",A0001952,C0020546,10020802,Hypertensive crisis,Indication,True,False,False
+140,"hypotension",A2849398,C0020649,10021097,Hypotension,AdverseEvent,True,True,False
+140,"venous streaking",,,,,AdverseEvent,False,False,False
+140,"decreased platelet aggregation",,,,,AdverseEvent,False,False,False
+140,"cyanide toxicity",,,,,AdverseEvent,False,False,False
+140,"increased intracranial pressure",,,,,AdverseEvent,True,False,False
+140,"irritation at the infusion site",,,,,AdverseEvent,False,False,False
+140,"electrocardiographic changes",,,,,AdverseEvent,False,False,False
+140,"thiocyanate toxicity",,,,,AdverseEvent,False,False,False
+175,"apl",,,,,Indication,False,False,False
+175,"bone inflammation",,,,,AdverseEvent,True,False,False
+175,"changed visual acuity",,,,,AdverseEvent,False,False,False
+175,"leg weakness",,,,,AdverseEvent,False,False,False
+175,"upper respiratory tract disorders",,,,,AdverseEvent,False,False,False
+175,"organomegaly",,,,,AdverseEvent,False,False,False
+175,"abdominal distention",,,,,AdverseEvent,False,False,False
+175,"lipid abnormalities",,,,,AdverseEvent,False,False,False
+175,"sweet’s syndrome",,,,,AdverseEvent,False,False,False
+175,"expiratory wheezing",,,,,AdverseEvent,False,False,False
+175,"hyperhistaminemia",,,,,AdverseEvent,False,False,False
+175,"infections",,,,,AdverseEvent,False,False,False
+175,"intracranial hypertension",,,,,AdverseEvent,True,False,False
+175,"lymph disorders",,,,,AdverseEvent,False,False,False
+175,"bronchial asthma",,,,,AdverseEvent,True,False,False
+175,"hyperhistaminemia, sweet’s syndrome, organomegaly",,,,,AdverseEvent,False,False,False
+175,"hypotaxia",,,,,AdverseEvent,False,False,False
+175,"cerebellar disorders",,,,,AdverseEvent,False,False,False
+175,"mucous membrane dryness",,,,,AdverseEvent,False,False,False
+175,"skin/mucous membrane dryness",,,,,AdverseEvent,False,False,False
+175,"skin changes",,,,,AdverseEvent,False,False,False
+175,"lower respiratory tract disorders",,,,,AdverseEvent,False,False,False
+175,"visual field defects",,,,,AdverseEvent,False,False,False
+175,"weet’s syndrome",,,,,AdverseEvent,False,False,False
+175,"thromboembolic events",,,,,AdverseEvent,False,False,False
+175,"enlarged heart",,,,,AdverseEvent,False,False,False
+175,"ocular disorders",,,,,AdverseEvent,False,False,False
+175,"no light reflex",,,,,AdverseEvent,False,False,False
+175,"increased sweating",,,,,AdverseEvent,False,False,False
+175,"cns depression",,,,,AdverseEvent,True,False,False
+175,"skin dryness",,,,,AdverseEvent,False,False,False
+175,"paresthesias",,,,,AdverseEvent,False,False,False
+175,"arrhythmias",,,,,AdverseEvent,False,False,False
+226,"uncomplicated plasmodium falciparum malaria",,,,,Indication,False,False,False
+226,"nodal escape beats",,,,,AdverseEvent,False,False,False
+226,"hearing impairment",,,,,AdverseEvent,False,False,False
+226,"u waves",,,,,AdverseEvent,False,False,False
+226,"lupus anticoagulant",,,,,AdverseEvent,False,False,False
+226,"acute interstitial nephritis",,,,,AdverseEvent,True,False,False
+226,"disturbed color vision",,,,,AdverseEvent,False,False,False
+226,"idiopathic thrombocytopenic purpura",,,,,AdverseEvent,True,False,False
+226,"diminished visual fields",,,,,AdverseEvent,False,False,False
+226,"bullous dermatitis",,,,,AdverseEvent,True,False,False
+226,"tremors",,,,,AdverseEvent,False,False,False
+226,"disturbances in cardiac conduction",,,,,AdverseEvent,False,False,False
+226,"fixed pupillary dilatation",,,,,AdverseEvent,False,False,False
+226,"exfoliative dermatitis",,,,,AdverseEvent,True,False,False
+226,"vasodilation",,,,,AdverseEvent,False,False,False
+226,"allergic contact dermatitis",,,,,AdverseEvent,True,False,False
+226,"unifocal premature ventricular contractions",,,,,AdverseEvent,False,False,False
+226,"disturbances in cardiac rhythm or conduction",,,,,AdverseEvent,False,False,False
+226,"irregular rhythm",,,,,AdverseEvent,False,False,False
+226,"disturbances in cardiac rhythm",,,,,AdverseEvent,False,False,False
+226,"myalgias",,,,,AdverseEvent,False,False,False
+226,"altered mental status",,,,,AdverseEvent,False,False,False
+226,"qt prolongation",,,,,AdverseEvent,False,False,False
+226,"acral necrosis",,,,,AdverseEvent,False,False,False
+226,"granulomatous hepatitis",,,,,AdverseEvent,False,False,False
+226,"cutaneous rashes",,,,,AdverseEvent,False,False,False
+226,"postural hypotension",,,,,AdverseEvent,True,False,False
+226,"scotomata",,,,,AdverseEvent,False,False,False
+226,"disturbance in color perception",,,,,AdverseEvent,False,False,False
+231,"binge eating disorder",,,,,Indication,False,False,False
+231,"decreased weight",,,,,AdverseEvent,False,False,False
+231,"increased heart rate",,,,,AdverseEvent,False,False,False
+231,"increased blood pressure",,,,,AdverseEvent,True,False,False
+231,"decreased libido",,,,,AdverseEvent,False,False,False
+231,"prolonged erections",,,,,AdverseEvent,False,False,False
+231,"peripheral vasculopathy",,,,,AdverseEvent,False,False,False
+231,"raynaud’s phenomenon",,,,,AdverseEvent,False,False,False
+231,"difficulties with visual accommodation",,,,,AdverseEvent,False,False,False
+231,"suppression of growth",,,,,AdverseEvent,False,False,False
+231,"eosinophilic hepatitis",A36369183,C4732919,10089967,Eosinophilic hepatitis,AdverseEvent,True,False,False
+231,"frequent or prolonged erections",,,,,AdverseEvent,False,False,False
+231,"weight decreased",A1120455,C5574742,10047895,Weight decreased,AdverseEvent,True,True,False
+231,"libido changes",,,,,AdverseEvent,False,False,False
+231,"cardiovascular reactions",,,,,AdverseEvent,False,False,False
+231,"tachycardia",A2849508,C0039231,10043071,Tachycardia,AdverseEvent,True,False,False
+279,"childhood enuresis",,,,,Indication,False,False,False
+279,"inappropriate antidiuretic hormone (adh) secretion syndrome",,,,,AdverseEvent,False,False,False
+279,"paresthesias",,,,,AdverseEvent,False,False,False
+279,"ecg changes",,,,,AdverseEvent,False,False,False
+279,"dilation of the urinary tract",,,,,AdverseEvent,False,False,False
+279,"decreased libido",,,,,AdverseEvent,False,False,False
+279,"urinary retention",A0469140,C0080274,10046555,Urinary retention,AdverseEvent,False,False,False
+279,"peculiar taste",,,,,AdverseEvent,False,False,False
+279,"alterations in eeg",,,,,AdverseEvent,False,False,False
+279,"hyperglycemia",,,,,AdverseEvent,True,False,False
+279,"photosensitization",,,,,AdverseEvent,False,False,False
+279,"tremors",,,,,AdverseEvent,False,False,False
+279,"hypoglycemia",,,,,AdverseEvent,True,False,False
+279,"altered liver function",,,,,AdverseEvent,False,False,False
+279,"parotid swelling",,,,,AdverseEvent,True,False,False
+279,"perspiration",,,,,AdverseEvent,False,False,False
+279,"increased or decreased libido",,,,,AdverseEvent,False,False,False
+279,"sleep disorders",,,,,AdverseEvent,False,False,False
+279,"mild gastrointestinal disturbances",,,,,AdverseEvent,False,False,False
+279,"withdrawal symptoms",,,,,AdverseEvent,False,False,False
+279,"black tongue",,,,,AdverseEvent,False,False,False
+279,"confusional state",A1265047,C0009676,10010305,Confusional state,AdverseEvent,True,False,False
+279,"elevation or depression of blood sugar levels",,,,,AdverseEvent,False,False,False
+279,"arrhythmias",,,,,AdverseEvent,False,False,False
+279,"paresthesias of extremities",,,,,AdverseEvent,False,False,False
+279,"delayed micturition",,,,,AdverseEvent,False,False,False
+279,"disturbances of accommodation",,,,,AdverseEvent,False,False,False
+279,"bone marrow depression",,,,,AdverseEvent,True,False,False
+279,"gastrointestinal disturbances",,,,,AdverseEvent,False,False,False
+279,"alterations in eeg patterns",,,,,AdverseEvent,False,False,False
+279,"increased libido",,,,,AdverseEvent,True,False,False
+279,"malaise",A0010952,C0231218,10025482,Malaise,AdverseEvent,True,False,False
+279,"collapse",,,,,AdverseEvent,False,False,False
+279,"paralytic ileus",,,,,AdverseEvent,True,False,False
+296,"proteus species",,,,,Indication,False,False,False
+296,"citrobacter species",,,,,Indication,False,False,False
+296,"escherichia coli",,,,,Indication,False,False,False
+296,"bacterial neonatal sepsis",,,,,Indication,False,False,False
+296,"bacterial septicemia",,,,,Indication,False,False,False
+296,"klebsiella-enterobacter- serratia species",,,,,Indication,False,False,False
+296,"gram-negative infections",,,,,Indication,False,False,False
+296,"staphylococcus species",,,,,Indication,False,False,False
+296,"skin infection",A1287482,C0037278,10040872,Skin infection,Indication,True,False,False
+296,"bone and soft tissue infection",,,,,Indication,False,False,False
+296,"pseudomonas aeruginosa",,,,,Indication,False,False,False
+296,"respiratory tract infection",A2850426,C0035243,10062352,Respiratory tract infection,Indication,True,False,False
+296,"serious bacterial infections of the central nervous system",,,,,Indication,False,False,False
+296,"urinary tract infection",A2849237,C0042029,10046571,Urinary tract infection,Indication,True,True,False
+296,"burns",,,,,Indication,False,False,False
+296,"proteinuria",A0106749,C0033687,10037032,Proteinuria,AdverseEvent,True,False,False
+296,"transient hepatomegaly",,,,,AdverseEvent,False,False,False
+296,"injection site pain",A0970528,C0151828,10022086,Injection site pain,AdverseEvent,True,False,False
+296,"decreased serum calcium, magnesium",,,,,AdverseEvent,False,False,False
+296,"increased serum ldh and bilirubin",,,,,AdverseEvent,False,False,False
+296,"increased serum creatinine",,,,,AdverseEvent,True,False,False
+296,"hypokalemia",,,,,AdverseEvent,True,False,False
+296,"infection at the site of injection",,,,,AdverseEvent,False,False,False
+296,"decreased potassium",,,,,AdverseEvent,False,False,False
+296,"anaphylactoid reactions",,,,,AdverseEvent,False,False,False
+296,"laboratory abnormalities",,,,,AdverseEvent,False,False,False
+296,"increased levels of serum transaminase",,,,,AdverseEvent,False,False,False
+296,"subcutaneous atrophy",,,,,AdverseEvent,False,False,False
+296,"increased reticulocytes",,,,,AdverseEvent,False,False,False
+296,"generalized burning",,,,,AdverseEvent,False,False,False
+296,"joint pain",,,,,AdverseEvent,True,False,False
+296,"increased npn",,,,,AdverseEvent,False,False,False
+296,"burning",,,,,AdverseEvent,False,False,False
+296,"roaring in the ears",,,,,AdverseEvent,False,False,False
+296,"hypocalcemia",,,,,AdverseEvent,True,False,False
+296,"hypomagnesemia",,,,,AdverseEvent,True,False,False
+296,"decreased sodium",,,,,AdverseEvent,False,False,False
+296,"increased bun",,,,,AdverseEvent,False,False,False
+296,"decreased reticulocytes",,,,,AdverseEvent,False,False,False
+296,"increased and decreased reticulocyte counts",,,,,AdverseEvent,False,False,False
+126,"induction of labor in patients with a medical indication for the initiation of labor",,,,,Indication,False,False,False
+126,"induction of labor",,,,,Indication,False,False,False
+126,"stimulation or reinforcement of labor",,,,,Indication,False,False,False
+126,"adjunctive therapy in the management of incomplete or inevitable abortion",,,,,Indication,False,False,False
+126,"uterine contractions",,,,,Indication,False,False,False
+126,"neonatal seizures",,,,,AdverseEvent,True,False,False
+126,"neonatal jaundice",,,,,AdverseEvent,True,False,False
+126,"low apgar scores",,,,,AdverseEvent,False,False,False
+126,"uterine spasms",,,,,AdverseEvent,False,False,False
+126,"spasm",,,,,AdverseEvent,False,False,False
+126,"rupture of the uterus",,,,,AdverseEvent,False,False,False
+126,"increased blood loss",,,,,AdverseEvent,False,False,False
+126,"fetal death",,,,,AdverseEvent,True,False,False
+126,"uterine hypertonicity",,,,,AdverseEvent,False,False,False
+126,"tetanic contraction",,,,,AdverseEvent,False,False,False
+126,"neonatal retinal hemorrhage",,,,,AdverseEvent,False,False,False
+304,"bronchial hyperresponsiveness",,,,,Indication,False,False,False
+304,"assessment of bronchial hyperresponsiveness",,,,,Indication,False,False,False
+304,"pharyngolaryngeal pain",,,,,AdverseEvent,True,False,False
+304,"decreased lung function",,,,,AdverseEvent,False,False,False
+304,"decreased forced expiratory volume",,,,,AdverseEvent,False,False,False
+313,"prevent pregnancy",,,,,Indication,False,False,False
+313,"pregnancy prevention",,,,,Indication,False,False,False
+313,"contraception",A2849327,C0700589,10010808,Contraception,Indication,False,False,True
+313,"contraceptive",,,,,Indication,False,False,False
+313,"irregular uterine bleeding",,,,,AdverseEvent,False,False,False
+313,"heavy uterine bleeding",,,,,AdverseEvent,False,False,False
+313,"mood changes",,,,,AdverseEvent,False,False,False
+133,"pompe's disease late onset",,,,,Indication,True,False,False
+133,"abdominal distention",,,,,AdverseEvent,False,False,False
+133,"elective induction of labor",,,,,BlackBox,False,False,False
+233,"glabellar lines",,,,,Indication,False,False,False
+233,"cervical dystonia",,,,,Indication,True,False,False
+233,"increased neuromuscular compromise",,,,,AdverseEvent,False,False,False
+233,"spread of toxin effect",,,,,AdverseEvent,False,False,False
+326,"mps vii",,,,,Indication,False,False,False
+326,"sly syndrome",,,,,Indication,False,False,False
+326,"immunogenicity",,,,,AdverseEvent,False,False,False
+242,"exercise-induced bronchospasm",,,,,Indication,True,False,False
+242,"increased sputum",,,,,AdverseEvent,False,False,False
+242,"arrhythmias",,,,,AdverseEvent,False,False,False
+242,"back pain",A0651800,C0004604,10003988,Back pain,AdverseEvent,True,False,False
+242,"angina",,,,,AdverseEvent,False,False,False
+242,"asthma-related death",,,,,AdverseEvent,False,False,False
+242,"bronchitis",A2849306,C0006277,10006451,Bronchitis,AdverseEvent,True,True,False
+242,"asthma-related hospitalization",,,,,AdverseEvent,False,False,False
+242,"serious asthma exacerbations",,,,,AdverseEvent,False,False,False
+242,"chest pain",A0400630,C0008031,10008479,Chest pain,AdverseEvent,True,False,False
+151,"ptsd",,,,,Indication,False,False,False
+151,"ocd",,,,,Indication,False,False,False
+151,"premenstrual dysphoric disorder",A21208469,C0520676,10051537,Premenstrual dysphoric disorder,Indication,True,False,False
+151,"panic disorder",A2849736,C0030319,10033666,Panic disorder,Indication,True,False,False
+151,"sad",,,,,Indication,False,False,False
+151,"pmdd",,,,,Indication,False,False,False
+151,"obsessive-compulsive disorder",A0755887,C0028768,10029898,Obsessive-compulsive disorder,Indication,True,False,False
+151,"posttraumatic stress disorder",,,,,Indication,False,False,False
+151,"social anxiety disorder",A26715134,C0031572,10041242,Social anxiety disorder,Indication,True,False,False
+151,"mdd",,,,,Indication,False,False,False
+151,"major depressive disorder",,,,,Indication,True,False,False
+151,"discontinuation syndrome",,,,,AdverseEvent,False,False,False
+151,"suicidal thoughts",,,,,AdverseEvent,False,False,False
+151,"decreased libido",,,,,AdverseEvent,False,False,False
+151,"musculoskeletal",,,,,AdverseEvent,False,False,False
+151,"fatigue",A0058330,C0015672,10016256,Fatigue,AdverseEvent,True,False,False
+151,"drug interactions",,,,,AdverseEvent,False,False,False
+151,"qtc prolongation",,,,,AdverseEvent,False,False,False
+151,"tremor",A0128114,C0040822,10044565,Tremor,AdverseEvent,True,False,False
+151,"decreased weight",,,,,AdverseEvent,False,False,False
+151,"dizziness",A0050717,C0012833,10013573,Dizziness,AdverseEvent,True,False,False
+151,"irritability",A0426014,C0022107,10022998,Irritability,AdverseEvent,True,False,False
+151,"clotting disorders",,,,,AdverseEvent,False,False,False
+151,"decreased alertness",,,,,AdverseEvent,False,False,False
+151,"loose stool",,,,,AdverseEvent,False,False,False
+151,"nausea",A0090388,C0027497,10028813,Nausea,AdverseEvent,True,False,False
+151,"agitation",A0004318,C0085631,10001497,Agitation,AdverseEvent,True,False,False
+151,"sexual dysfunction",A2849753,C0549622,10040477,Sexual dysfunction,AdverseEvent,True,False,False
+151,"hematochezia",,,,,AdverseEvent,True,False,False
+151,"anxiety",A0025410,C0003467,10002855,Anxiety,AdverseEvent,True,False,False
+151,"vision",,,,,AdverseEvent,False,False,False
+151,"hyperhidrosis",A2849387,C0020458,10020642,Hyperhidrosis,AdverseEvent,True,False,False
+151,"ventricular arrhythmias",,,,,AdverseEvent,False,False,False
+151,"tightness",,,,,AdverseEvent,False,False,False
+151,"headache",A0065999,C0018681,10019211,Headache,AdverseEvent,True,False,False
+151,"nervous system disorders",,,,,AdverseEvent,False,False,False
+151,"syncope psychiatric disorders",,,,,AdverseEvent,False,False,False
+151,"angle-closure glaucoma",,,,,AdverseEvent,False,False,False
+151,"psychiatric disorders",,,,,AdverseEvent,False,False,True
+165,"moderate to severe pain",,,,,Indication,False,False,False
+165,"vasodilation",,,,,AdverseEvent,False,False,False
+165,"biliary pain",,,,,AdverseEvent,True,False,False
+165,"fever",,,,,AdverseEvent,True,False,False
+165,"abnormal thinking",,,,,AdverseEvent,True,False,False
+165,"decreased libido",,,,,AdverseEvent,False,False,False
+165,"sweating",,,,,AdverseEvent,True,False,False
+165,"circulatory depression",,,,,AdverseEvent,True,False,False
+165,"urinary retention",A0469140,C0080274,10046555,Urinary retention,AdverseEvent,False,False,False
+197,"polyneuropathy of hereditary transthyretin-mediated amyloidosis",,,,,Indication,False,False,False
+197,"transthyretin-mediated",,,,,Indication,False,False,False
+197,"orthostasis",,,,,AdverseEvent,False,False,False
+197,"influenza-like",,,,,AdverseEvent,False,False,False
+197,"elevated liver function test",,,,,AdverseEvent,False,False,False
+197,"decreased renal function",,,,,AdverseEvent,False,False,False
+197,"influenza-like illness",,,,,AdverseEvent,False,False,False
+197,"elevated liver function",,,,,AdverseEvent,False,False,False
+197,"reducted serum vitamin a levels",,,,,AdverseEvent,False,False,False
+197,"cervicocephalic arterial dissection",,,,,AdverseEvent,False,False,False
+197,"reduced serum vitamin a levels",,,,,AdverseEvent,False,False,False
+207,"central nervous system (cns)",,,,,Indication,False,False,False
+207,"central nervous system",,,,,Indication,False,False,False
+207,"motor and verbal tics",,,,,AdverseEvent,False,False,False
+207,"adhd",,,,,AdverseEvent,True,True,False
+207,"increased heart rate",,,,,AdverseEvent,False,False,False
+207,"attention deficit hyperactivity disorder",A31790347,C1263846,10083622,Attention deficit hyperactivity disorder,AdverseEvent,True,True,False
+207,"erythema multiforme rash",,,,,AdverseEvent,False,False,False
+207,"increased blood pressure",,,,,AdverseEvent,True,False,False
+207,"suppression of growth",,,,,AdverseEvent,False,False,False
+207,"difficulties in visual accommodation",,,,,AdverseEvent,False,False,False
+207,"fixed drug eruption",,,,,AdverseEvent,True,False,False
+207,"misuse",,,,,AdverseEvent,False,False,False
+207,"cerebrovascular accidents",,,,,AdverseEvent,False,False,False
+207,"reduced weight gain",,,,,AdverseEvent,False,False,False
+207,"cerebral hemorrhages",,,,,AdverseEvent,False,False,False
+207,"dependence",A2850227,C0439857,10012335,Dependence,AdverseEvent,True,False,True
+207,"libido changes",,,,,AdverseEvent,False,False,False
+207,"increased intraocular pressure",,,,,AdverseEvent,True,False,False
+207,"anaphylactic reactions",,,,,AdverseEvent,False,False,False
+207,"exfoliative dermatitis",,,,,AdverseEvent,True,False,False
+207,"scalp hair loss",,,,,AdverseEvent,False,False,False
+207,"abuse",,,,,AdverseEvent,False,False,False
+207,"abnormal liver function",,,,,AdverseEvent,False,False,False
+207,"peripheral vasculopathy",,,,,AdverseEvent,False,False,False
+207,"hypertensive crisis with concomitant use of monoamine oxidase inhibitors",,,,,AdverseEvent,False,False,False
+207,"pharyngolaryngeal pain",,,,,AdverseEvent,True,False,False
+207,"arrhythmias",,,,,AdverseEvent,False,False,False
+207,"extrasystole",,,,,AdverseEvent,False,False,False
+292,"inhalational",,,,,Indication,False,False,False
+292,"infections of the upper respiratory tract",,,,,AdverseEvent,False,False,False
+292,"increased creatine phosphokinase",,,,,AdverseEvent,False,False,False
+292,"white blood count decreased",,,,,AdverseEvent,False,False,False
+292,"intravenous site discoloration",,,,,AdverseEvent,False,False,False
+292,"decreased",,,,,AdverseEvent,False,False,False
+298,"prevention of pregnancy",,,,,Indication,False,False,False
+298,"contraception",A2849327,C0700589,10010808,Contraception,Indication,False,False,True
+298,"diminution in lactation",,,,,AdverseEvent,False,False,False
+298,"change in cervical erosion and secretion",,,,,AdverseEvent,False,False,False
+298,"corneal curvature",,,,,AdverseEvent,False,False,False
+298,"breast tenderness",A1254760,C0262397,10006313,Breast tenderness,AdverseEvent,True,False,False
+298,"cystitis-like syndrome",,,,,AdverseEvent,False,False,False
+298,"mesenteric thrombosis",,,,,AdverseEvent,False,False,False
+298,"breakthrough bleeding",,,,,AdverseEvent,False,False,False
+298,"neoplasms benign",,,,,AdverseEvent,False,False,False
+298,"benign liver tumors",,,,,AdverseEvent,False,False,False
+298,"retinal thrombosis",,,,,AdverseEvent,False,False,False
+298,"intolerance to contact lenses",,,,,AdverseEvent,False,False,False
+298,"breast enlargement",A10925984,C2225524,10006242,Breast enlargement,AdverseEvent,True,False,False
+298,"changes in libido",,,,,AdverseEvent,False,False,False
+298,"hemorrhagic eruption",,,,,AdverseEvent,False,False,False
+298,"amenorrhea",,,,,AdverseEvent,True,True,False
+298,"malignant",,,,,AdverseEvent,False,False,False
+298,"anaphylactic",,,,,AdverseEvent,False,False,False
+298,"reduced tolerance to carbohydrates",,,,,AdverseEvent,False,False,False
+298,"hepatic adenomas",,,,,AdverseEvent,False,False,False
+298,"breast changes",,,,,AdverseEvent,False,False,False
+298,"pre-menstrual syndrome",,,,,AdverseEvent,False,False,False
+298,"steepening",,,,,AdverseEvent,False,False,False
+298,"psychiatric disorders",,,,,AdverseEvent,False,False,True
+298,"changes in appetite",,,,,AdverseEvent,False,False,False
+298,"change in corneal curvature",,,,,AdverseEvent,False,False,False
+298,"cysts",,,,,AdverseEvent,False,False,False
+298,"loss of scalp hair",,,,,AdverseEvent,False,False,False
+298,"change in weight",,,,,AdverseEvent,False,False,False
+298,"spotting change in menstrual flow",,,,,AdverseEvent,False,False,False
+298,"breast secretion",,,,,AdverseEvent,False,False,False
+298,"suicidal thoughts and behavior",,,,,BlackBox,False,False,False
+318,"heparin overdosage",,,,,Indication,False,False,False
+318,"capillary leak",,,,,AdverseEvent,False,False,False
+318,"noncardiogenic pulmonary edema",,,,,AdverseEvent,False,False,False
+318,"fall in blood pressure",,,,,AdverseEvent,True,False,False
+318,"acute pulmonary hypertension",,,,,AdverseEvent,False,False,False
+318,"sudden fall in blood pressure",,,,,AdverseEvent,False,False,False
+318,"transitory flushing",,,,,AdverseEvent,False,False,False
+318,"circulation collapse",,,,,AdverseEvent,False,False,False
+324,"unresectable locally advanced medullary thyroid cancer",,,,,Indication,False,False,False
+324,"metastatic medullary thyroid cancer",,,,,Indication,False,False,False
+324,"symptomatic medullary thyroid cancer",,,,,Indication,False,False,False
+324,"progressive medullary thyroid cancer",,,,,Indication,False,False,False
+324,"arterial aneurysms",,,,,AdverseEvent,False,False,False
+324,"nail abnormalities",,,,,AdverseEvent,False,False,False
+324,"visual changes",,,,,AdverseEvent,False,False,False
+324,"acneiform dermatitis",,,,,AdverseEvent,True,False,False
+324,"impaired wound healing",,,,,AdverseEvent,False,False,False
+324,"arterial dissection",,,,,AdverseEvent,False,False,False
+324,"embryo-fetal toxicity",,,,,AdverseEvent,False,False,False
+324,"qt prolongation",,,,,AdverseEvent,False,False,False
+324,"corneal abnormalities",,,,,AdverseEvent,False,False,False
+324,"severe skin reactions",,,,,AdverseEvent,False,False,False
+324,"skin reactions",,,,,AdverseEvent,False,False,False
+324,"elevated creatinine",,,,,AdverseEvent,False,False,False
+324,"ischemic cerebrovascular events",,,,,AdverseEvent,False,False,False
+324,"arterial dissections",,,,,AdverseEvent,False,False,False
+324,"generalized erythema",,,,,AdverseEvent,True,False,False
+324,"reversible posterior leukoencephalopathy syndrome",,,,,AdverseEvent,True,False,False
+324,"arterial aneurysm",,,,,AdverseEvent,True,False,False
+324,"arterial rupture",A2849865,C0155760,10003173,Arterial rupture,AdverseEvent,True,False,False
+105,"increased serum transaminases",,,,,AdverseEvent,False,False,False
+105,"influenza-like illness",,,,,AdverseEvent,False,False,False
+105,"nummular eczema",,,,,AdverseEvent,False,False,False
+105,"liver-related disorders",,,,,AdverseEvent,False,False,False
+130,"allergic dermatitis",,,,,AdverseEvent,True,False,False
+130,"instillation-site irritation",,,,,AdverseEvent,False,False,False
+130,"decreased visual acuity",,,,,AdverseEvent,False,False,False
+130,"increased lacrimation",,,,,AdverseEvent,False,False,False
+130,"reduced visual acuity",,,,,AdverseEvent,False,False,False
+141,"cns depressant effects",,,,,AdverseEvent,False,False,False
+141,"daytime impairment",,,,,AdverseEvent,False,False,False
+141,"suicidal ideation",A1093899,C0424000,10042458,Suicidal ideation,AdverseEvent,True,False,False
+141,"hypnagogic/hypnopompic hallucinations",,,,,AdverseEvent,False,False,False
+141,"complex sleep behaviors",,,,,AdverseEvent,False,False,False
+141,"nervous system disorders",,,,,AdverseEvent,False,False,False
+141,"cataplexy-like symptoms",,,,,AdverseEvent,False,False,False
+148,"transverse myelitis",,,,,AdverseEvent,False,False,False
+148,"nervous system disorders",,,,,AdverseEvent,False,False,False
+269,"increases of alt and ast",,,,,AdverseEvent,False,False,False
+269,"gastro-esophageal reflux disease",,,,,AdverseEvent,False,False,False
+281,"decreased weight",,,,,AdverseEvent,False,False,False
+281,"increased alanine aminotransferase",,,,,AdverseEvent,False,False,False
+281,"increased lipase",,,,,AdverseEvent,False,False,False
+281,"increased aspartate aminotransferase",,,,,AdverseEvent,False,False,False
+281,"nervous system",,,,,AdverseEvent,False,False,False
+281,"increased amylase",,,,,AdverseEvent,False,False,False
+281,"increased serum creatine kinase",,,,,AdverseEvent,False,False,False
+299,"constipation",A0042279,C0009806,10010774,Constipation,AdverseEvent,True,False,False
+299,"dizziness",A0050717,C0012833,10013573,Dizziness,AdverseEvent,True,False,False
+299,"suicide",,,,,AdverseEvent,True,False,False
+299,"palpitations",A0004069,C0030252,10033557,Palpitations,AdverseEvent,True,False,False
+299,"swallowing difficulty",,,,,AdverseEvent,False,False,False
+299,"cardiorespiratory arrest",,,,,AdverseEvent,False,False,False
+299,"urinary retention",A0469140,C0080274,10046555,Urinary retention,AdverseEvent,False,False,False
+299,"dry mouth",A0008480,C0043352,10013781,Dry mouth,AdverseEvent,True,False,False
+299,"anxiety",A0025410,C0003467,10002855,Anxiety,AdverseEvent,True,False,False
+299,"angina pectoris",A0389767,C0002962,10002383,Angina pectoris,AdverseEvent,True,False,False
+299,"tachycardia",A2849508,C0039231,10043071,Tachycardia,AdverseEvent,True,False,False
+299,"asthenia",A0027314,C0004093,10003549,Asthenia,AdverseEvent,True,False,False
+299,"muscular weakness",A2851174,C0151786,10028372,Muscular weakness,AdverseEvent,True,False,False
+300,"decreases in hemoglobin/hematocrit",,,,,AdverseEvent,False,False,False
+300,"increases in serum creatinine",,,,,AdverseEvent,False,False,False
+300,"renal dysfunction",,,,,AdverseEvent,False,False,False
+300,"patients had potassium concentrations greater than 5.5 meq/l",,,,,AdverseEvent,False,False,False
+300,"misuse",,,,,BlackBox,False,False,False
+300,"withdrawal reactions",,,,,BlackBox,False,False,False
+300,"drug interactions",,,,,BlackBox,False,False,False
+300,"abuse",,,,,BlackBox,False,False,False
+300,"abuse, misuse, and addiction",,,,,BlackBox,False,False,False
+300,"risks from concomitant use with opioids",,,,,BlackBox,False,False,False
+300,"dependence and withdrawal reactions",,,,,BlackBox,False,False,False
+300,"dependence",A2850227,C0439857,10012335,Dependence,BlackBox,True,False,True
+332,"contact dermatitis",,,,,AdverseEvent,True,False,False
+332,"cyanosis of the lips",,,,,AdverseEvent,False,False,False
+275,"increased mortality in elderly",,,,,AdverseEvent,False,False,False
+275,"tightness of the throat",,,,,AdverseEvent,False,False,False
+275,"injury",A0011962,C3263723,10022116,Injury,AdverseEvent,True,False,True
+275,"increased blood creatinine phosphokinase,",,,,,AdverseEvent,False,False,False
+275,"psychiatric disorders",,,,,AdverseEvent,False,False,True
+275,"hepatic enzyme increased",A2852116,C0235996,10060795,Hepatic enzyme increased,AdverseEvent,True,False,False
+275,"spasm of the neck muscles",,,,,AdverseEvent,False,False,False
+275,"swallowing difficulty",,,,,AdverseEvent,False,False,False
+275,"protrusion of the tongue",,,,,AdverseEvent,False,False,False
+275,"gamma glutamyl transferase increased",,,,,AdverseEvent,False,False,False
+275,"urinary retention",A0469140,C0080274,10046555,Urinary retention,AdverseEvent,False,False,False
+275,"increased mortality in elderly patients with dementia-related psychosis",,,,,AdverseEvent,False,False,False
+275,"nervous system disorders",,,,,AdverseEvent,False,False,False
+275,"pathological gambling",,,,,AdverseEvent,True,False,False
+275,"dress",,,,,AdverseEvent,False,False,False
+275,"increased weight",,,,,AdverseEvent,False,False,False
+275,"weight decreased",A1120455,C5574742,10047895,Weight decreased,AdverseEvent,True,False,False
+275,"ncreased mortality in elderly",,,,,AdverseEvent,False,False,False
+275,"angina pectoris",A0389767,C0002962,10002383,Angina pectoris,AdverseEvent,True,False,False
+275,"procedural complications",,,,,AdverseEvent,False,False,True
+275,"abuse",,,,,BlackBox,False,False,False
+275,"dependence",A2850227,C0439857,10012335,Dependence,BlackBox,True,False,True
+275,"drug dependence",A0407794,C1510472,10013663,Drug dependence,BlackBox,True,False,False
+146,"contact allergy",,,,,AdverseEvent,False,False,False
+146,"ingrown toenail",,,,,AdverseEvent,False,False,False
+202,"viral gastroenteritis",,,,,AdverseEvent,True,False,False
+202,"sphincter of oddi spasm",,,,,AdverseEvent,False,False,False
+202,"increased ast",,,,,AdverseEvent,False,False,False
+202,"abdominal distention",,,,,AdverseEvent,False,False,False
+202,"tightness",,,,,AdverseEvent,False,False,False
+202,"nervous system",,,,,AdverseEvent,False,False,False
+202,"respiratory",,,,,AdverseEvent,False,False,False
+202,"increased alt",,,,,AdverseEvent,False,False,False
+202,"gastrointestinal",,,,,AdverseEvent,False,False,False
+202,"psychiatric disorders",,,,,AdverseEvent,False,False,True
+210,"benign intracranial hypertension",,,,,AdverseEvent,True,False,False
+210,"infection",A2849404,C3714514,10021789,Infection,AdverseEvent,True,False,False
+210,"pain",A2849464,C0030193,10033371,Pain,AdverseEvent,True,False,False
+210,"viral infection",A2849231,C0042769,10047461,Viral infection,AdverseEvent,True,False,False
+210,"corneal",,,,,AdverseEvent,False,False,False
+210,"abdominal pain/",,,,,AdverseEvent,False,False,False
+210,"infections",,,,,AdverseEvent,False,False,False
+210,"cushingoid appearanc",,,,,AdverseEvent,False,False,False
+210,"increased intra-cranial pressure with papilledema",,,,,AdverseEvent,False,False,False
+210,"nervous system disorders",,,,,AdverseEvent,False,False,False
+210,"impaired carbohydrate tolerance",,,,,AdverseEvent,False,False,False
+210,"urinary tract infection",A2849237,C0042029,10046571,Urinary tract infection,AdverseEvent,True,False,False
+210,"aggravation of epilepsy",,,,,AdverseEvent,False,False,False
+288,"infection",A2849404,C3714514,10021789,Infection,AdverseEvent,True,False,False
+288,"upper abdominal pain",,,,,AdverseEvent,True,False,False
+288,"hypercorticism",,,,,AdverseEvent,False,False,False
+288,"reduction in bmd",,,,,AdverseEvent,False,False,False
+288,"allergic rhinitis",,,,,AdverseEvent,True,False,False
+288,"traumatic limb amputation",,,,,AdverseEvent,False,False,False
+288,"growth effects",,,,,AdverseEvent,False,False,False
+334,"nasopharyngitis",A0090270,C0027441,10028810,Nasopharyngitis,AdverseEvent,True,False,False
+334,"hypercorticism",,,,,AdverseEvent,False,False,False
+334,"intubations",,,,,AdverseEvent,False,False,False
+334,"hospitalizations",,,,,AdverseEvent,False,False,False
+334,"viral respiratory tract infection",,,,,AdverseEvent,False,False,False
+334,"respiratory, thoracic, and mediastinal disorders",,,,,AdverseEvent,False,False,False
+334,"hospitalizations, intubations,",,,,,AdverseEvent,False,False,False
+334,"musculoskeletal and connective tissue disorders",,,,,AdverseEvent,False,False,False
+334,"urinary retention.",,,,,AdverseEvent,False,False,False
+334,"reduction in bone mineral density",,,,,AdverseEvent,False,False,False
+245,"fibrin d-dimer increased",,,,,AdverseEvent,False,False,False
+268,"discolored feces",,,,,AdverseEvent,False,False,False
+171,"respiratory",,,,,AdverseEvent,False,False,False
+171,"psoriasiform rash",,,,,AdverseEvent,False,False,False
+171,"thrombocytopenia",A0125739,C0040034,10043554,Thrombocytopenia,AdverseEvent,True,False,False
+171,"antinuclear antibodies",,,,,AdverseEvent,False,False,False
+171,"syncope",A0121925,C0039070,10042772,Syncope,AdverseEvent,True,False,False
+171,"psychoses",,,,,AdverseEvent,False,False,False
+171,"wheeziness",,,,,AdverseEvent,False,False,False
+171,"gastrointestinal",,,,,AdverseEvent,False,False,False
+171,"heart failure",,,,,AdverseEvent,True,True,False
+171,"impotence",,,,,AdverseEvent,True,False,False
+171,"reversible alopecia",,,,,AdverseEvent,False,False,False
+171,"pulmonary embolism",A0450056,C0034065,10037377,Pulmonary embolism,AdverseEvent,True,False,False
+171,"hallucinations",,,,,AdverseEvent,True,False,False
+171,"purpura",A2849482,C0034150,10037549,Purpura,AdverseEvent,True,False,False
+171,"sick sinus syndrome",,,,,AdverseEvent,True,False,False
+171,"visual disturbance",,,,,AdverseEvent,True,False,False
+171,"dreaming",,,,,AdverseEvent,False,False,False
+171,"elevated bilirubin",,,,,AdverseEvent,False,False,False
+171,"development of mitral regurgitation",,,,,AdverseEvent,False,False,False
+171,"elevated liver enzymes",,,,,AdverseEvent,True,False,False
+171,"bbb + major axis deviation",,,,,AdverseEvent,False,False,False
+171,"dry mouth",A0008480,C0043352,10013781,Dry mouth,AdverseEvent,True,False,False
+171,"leg pain",,,,,AdverseEvent,True,False,False
+171,"ana",,,,,AdverseEvent,False,False,True
+171,"peyronie's disease",A0446285,C0030848,10034765,Peyronie's disease,AdverseEvent,True,False,False
+171,"pe",,,,,AdverseEvent,False,False,False
+171,"psoriasis",A0107289,C0033860,10037153,Psoriasis,AdverseEvent,True,False,False
+171,"reinfarction",,,,,AdverseEvent,False,False,False
+171,"cardiac arrest",A0399232,C0018790,10007515,Cardiac arrest,AdverseEvent,True,False,False
+171,"mitral regurgitation",,,,,AdverseEvent,True,False,False
+171,"cardiac reinfarction",,,,,AdverseEvent,False,False,False
+171,"headache",A0065999,C0018681,10019211,Headache,AdverseEvent,True,False,False
+171,"postural hypotension",,,,,AdverseEvent,True,False,False
+171,"pulmonary emboli",,,,,AdverseEvent,False,False,False
+185,"increased dreaming",,,,,AdverseEvent,False,False,False
+185,"horizontal nystagmus",,,,,AdverseEvent,False,False,False
+185,"overstimulation",,,,,AdverseEvent,False,False,False
+136,"postoperative hallucinatory episodes",,,,,AdverseEvent,False,False,False
+136,"qt interval prolongation",,,,,AdverseEvent,False,False,False
+136,"elevated blood pressure",,,,,AdverseEvent,False,False,False
+136,"irregular cardiac rhythm",,,,,AdverseEvent,False,False,False
+144,"herpes meningoencephalitis",,,,,AdverseEvent,False,False,False
+144,"hematologic toxicity",,,,,AdverseEvent,False,False,False
+144,"varicella zoster",,,,,AdverseEvent,True,False,False
+144,"fatal herpes",,,,,AdverseEvent,False,False,False
+144,"herpes",,,,,AdverseEvent,False,False,False
+144,"graft-versus-host disease",,,,,AdverseEvent,False,False,False
+192,"postoperative",,,,,AdverseEvent,False,False,False
+192,"mental status changes",A1590383,C0856054,10048294,Mental status changes,AdverseEvent,True,False,False
+192,"aria-edema",,,,,AdverseEvent,False,False,False
+192,"aria-h superficial siderosis",,,,,AdverseEvent,False,False,False
+192,"aria-h microhemorrhage",,,,,AdverseEvent,False,False,False
+192,"altered mental status",,,,,AdverseEvent,False,False,False
+206,"wound hemorrhage",,,,,AdverseEvent,True,False,False
+241,"infusion-related reactions",,,,,AdverseEvent,False,False,False
+241,"amyloid related imaging abnormality-edema/effusion",,,,,AdverseEvent,True,False,False
+252,"abuse",,,,,AdverseEvent,False,False,False
+252,"central nervous system manifestations",,,,,AdverseEvent,False,False,False
+252,"withdrawal",,,,,AdverseEvent,False,False,False
+252,"jaundice injury",,,,,AdverseEvent,False,False,False
+252,"confusional states",,,,,AdverseEvent,False,False,False
+252,"urinary retention",A0469140,C0080274,10046555,Urinary retention,AdverseEvent,False,False,False
+252,"bladder trouble",,,,,AdverseEvent,False,False,False
+252,"sleep-driving",,,,,AdverseEvent,False,False,False
+252,"insomnia",A0074408,C0917801,10022437,Insomnia,AdverseEvent,True,True,False
+252,"misuse",,,,,AdverseEvent,False,False,False
+252,"grogginess",,,,,AdverseEvent,False,False,False
+252,"aching limbs",,,,,AdverseEvent,False,False,False
+252,"pruritis",,,,,AdverseEvent,False,False,False
+252,"dependence",A2850227,C0439857,10012335,Dependence,AdverseEvent,True,False,True
+252,"light-headedness",,,,,AdverseEvent,False,False,False
+252,"coordination disorder",,,,,AdverseEvent,False,False,False
+252,"taste alterations",,,,,AdverseEvent,False,False,False
+252,"congestion",,,,,AdverseEvent,False,False,False
+252,"coordination disorders",,,,,AdverseEvent,False,False,False
+273,"decreased white blood cell count",,,,,AdverseEvent,False,False,False
+273,"decreased lymphocyte count",,,,,AdverseEvent,False,False,False
+273,"gamma-glutamyl transferase increased",,,,,AdverseEvent,False,False,False
+273,"decreased platelets",,,,,AdverseEvent,False,False,False
+273,"increased uric acid",,,,,AdverseEvent,False,False,False
+273,"increased glucose",,,,,AdverseEvent,False,False,False
+273,"decreased neutrophil count",,,,,AdverseEvent,False,False,False
+273,"decreased phosphate",,,,,AdverseEvent,False,False,False
+278,"anti-metreleptin antibodies",,,,,BlackBox,False,False,False
+278,"worsening metabolic control",,,,,BlackBox,False,False,False
+315,"pathological bleeding",,,,,BlackBox,False,False,False
+315,"ich",,,,,BlackBox,False,False,False
+341,"embryo-fetal death",,,,,BlackBox,False,False,False
+341,"teratogenic",,,,,BlackBox,False,False,False
+341,"embryo-fetal",,,,,BlackBox,False,False,False
+266,"suicidal thoughts and behaviors",,,,,BlackBox,False,False,False
+329,"increased mortality in elderly patients with dementia-related psychosis",,,,,BlackBox,False,False,False
+259,"acute respiratory illness",,,,,BlackBox,False,False,False
+153,"excessive hypotension",,,,,BlackBox,False,False,False
+153,"irreversible ischemic injuries",,,,,BlackBox,False,False,False
+153,"cyanide toxicity",,,,,BlackBox,False,False,False
+193,"severe exacerbation of angina",,,,,BlackBox,False,False,False
+193,"abrupt discontinuation of therapy",,,,,BlackBox,False,False,False
+193,"ventricular arrhythmias",,,,,BlackBox,False,False,False
+193,"mask clinical signs of hyperthyroidism",,,,,BlackBox,False,False,False
+193,"cessation of therapy",,,,,BlackBox,False,False,False
+193,"severe cardiac failure",,,,,BlackBox,False,False,False
+193,"myocardial infarction",A0436869,C0027051,10028596,Myocardial infarction,BlackBox,True,False,False
+193,"worsening cardiac failure",,,,,BlackBox,False,False,False
+193,"masks hypoglycemia manifestations",,,,,BlackBox,False,False,False
+193,"caution with diabetic patients",,,,,BlackBox,False,False,False
+193,"cardiac failure",A2849890,C0018801,10007554,Cardiac failure,BlackBox,True,False,False
+198,"embryo-fetal loss",,,,,BlackBox,False,False,False
+198,"mbryo-fetal toxicity",,,,,BlackBox,False,False,False
+198,"embryo-fetal abnormalities",,,,,BlackBox,False,False,False
+198,"embryo-fetal toxicity",,,,,BlackBox,False,False,False
+215,"abuse",,,,,BlackBox,False,False,False
+215,"concomitant use with opioids",,,,,BlackBox,False,False,False
+215,"withdrawal reactions",,,,,BlackBox,False,False,False
+215,"misuse",,,,,BlackBox,False,False,False
+215,"physical dependence",,,,,BlackBox,False,False,False
+270,"hus/ttp",,,,,BlackBox,False,False,False
+333,"reduces left ventricular ejection fraction",,,,,BlackBox,False,False,False
+333,"reduced lvef",,,,,BlackBox,False,False,False
+143,"severe hypersensitivity",,,,,BlackBox,False,False,True
+143,"infusion-associated reactions",,,,,BlackBox,False,False,False
+143,"acute cardiorespiratory failure",,,,,BlackBox,False,False,False
+277,"distant spread of toxin effect",,,,,BlackBox,False,False,False
+277,"botulinum toxin effects",,,,,BlackBox,False,False,False
+277,"swallowing and breathing difficulties",,,,,BlackBox,False,False,False
+277,"breathing difficulties",,,,,BlackBox,False,False,False
+108,"perforation of the intestines",,,,,BlackBox,False,False,False
+108,"perforation of the stomach",,,,,BlackBox,False,False,False
+142,"significant drug interactions",,,,,BlackBox,False,False,False
+142,"significant drug",,,,,BlackBox,False,False,False
+149,"qt prolongation",,,,,BlackBox,False,False,False
+158,"malignancy",,,,,BlackBox,False,False,False
+158,"potential for fetal harm",,,,,BlackBox,False,False,False
+166,"suicidal thoughts",,,,,BlackBox,False,False,False
+166,"suicidal behavior",,,,,BlackBox,True,False,False
+166,"suicidal thoughts and behavior",,,,,BlackBox,False,False,False
+183,"fatal",,,,,BlackBox,False,False,False
+244,"cardiovascular thrombotic events",,,,,BlackBox,False,False,False
+246,"abuse, misuse and addiction",,,,,BlackBox,False,False,False
+287,"amyloid related imaging abnormalities with edema",,,,,BlackBox,False,False,False
+287,"amyloid related imaging abnormalities with hemosiderin deposition",,,,,BlackBox,False,False,False
