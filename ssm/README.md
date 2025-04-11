@@ -27,7 +27,7 @@ Contains the R script 'data_analysis.R' that can be run to recreate all statisti
 
 ## Data
 
-- *smq_definition.csv**: CSV containing the SMQs that were evaluated, along with the PT codes that are included in the SMQ definition.
+- smq_definition.csv: CSV containing the SMQs that were evaluated, along with the PT codes that are included in the SMQ definition.
 - **adjudicated_results/**: Contains a single CSV file for each of the fully adjudicated inclusion/exclusion results from the SSM evaluation performed by our expert reviewers. 
 
 ## Figures
