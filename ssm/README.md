@@ -21,7 +21,7 @@ This repository contains the original source data used to analyze and create all
 
 # 📁 Directory Structure
 
-- SSM_Analysis.ipynb - Python notebook contains all code to regenerate figures 3-5 found in the manuscript.
+- SSM_Analysis.ipynb - Python notebook contains all code to regenerate figures 3-6 found in the manuscript.
 
 Contains the R script 'data_analysis.R' that can be run to recreate all statistics reported in the manuscript. It creates additional figures that were not included in the final paper due to space limitations.
 
