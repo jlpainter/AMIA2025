@@ -60,5 +60,5 @@ This notebook walks through:
 
 1. Clone the repo:
    ```bash
-   git clone https://github.com/your-org/pvlens-data-exploration.git
+   git clone https://github.com/jlpainter/AMIA2025.git
    cd pvlens-data-exploration
